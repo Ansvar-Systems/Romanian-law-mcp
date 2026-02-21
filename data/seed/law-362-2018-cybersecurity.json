@@ -1,181 +1,365 @@
 {
   "id": "law-362-2018",
   "type": "statute",
-  "title": "Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice",
-  "title_en": "Law 362/2018 on ensuring a common high level of security of network and information systems (NIS Transposition)",
-  "short_name": "NIS Cybersecurity Law",
+  "title": "LEGE nr. 362 din 28 decembrie 2018",
+  "title_en": "Law No. 362/2018 on a High Common Level of Network and Information Systems Security",
+  "short_name": "Legea NIS",
   "status": "in_force",
   "issued_date": "2018-12-28",
-  "in_force_date": "2019-01-12",
+  "in_force_date": "2018-12-28",
   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209670",
-  "description": "Romania's transposition of Directive (EU) 2016/1148 (NIS Directive) establishing national cybersecurity requirements for operators of essential services and digital service providers.",
+  "description": "Romania NIS implementation law on cybersecurity obligations, incident reporting, and competent authorities.",
   "provisions": [
     {
       "provision_ref": "Art.1",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.1",
-      "title": "Scope and Objectives",
-      "content": "This law establishes a framework for the governance of cybersecurity at the national level, transposing Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (NIS Directive). The law establishes requirements for operators of essential services and digital service providers to implement appropriate security measures and report significant incidents."
+      "chapter": "Capitolul I | Secţiunea 1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Abrogat. (la 31-12-2024, Articolul 1 , Sectiunea 1 , Capitolul I a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.2",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.2",
-      "title": "Definitions",
-      "content": "For the purposes of this law: a) network and information system means an electronic communications network, any device or group of interconnected devices that process digital data, or digital data stored, processed, retrieved or transmitted by such systems; b) security of network and information systems means the ability to resist, at a given level of confidence, any action that compromises the availability, authenticity, integrity or confidentiality of stored or transmitted data or related services; c) operator of essential services means a public or private entity providing a service essential for the maintenance of critical societal or economic activities; d) digital service provider means a legal person providing online marketplace, online search engine, or cloud computing services; e) incident means any event having an actual adverse effect on the security of network and information systems."
+      "chapter": "Capitolul I | Secţiunea 1",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Abrogat. (la 31-12-2024, Articolul 2 , Sectiunea 1 , Capitolul I a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.3",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.3",
-      "title": "National Cybersecurity Strategy",
-      "content": "The Government shall adopt and update the National Cybersecurity Strategy, which shall establish the strategic objectives and priorities, the governance framework, and the measures to achieve a high common level of security of network and information systems at the national level. The strategy shall address risk assessment, incident response, international cooperation, public-private partnerships, and cybersecurity education and awareness."
+      "chapter": "Capitolul I | Secţiunea a 2-a",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Abrogat. (la 31-12-2024, Articolul 3 , Sectiunea a 2-a , Capitolul I a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.4",
-      "chapter": "Chapter II - National Governance Framework",
-      "section": "Art.4",
-      "title": "National Competent Authority",
-      "content": "The National Directorate for Cyber Security (Directoratul Național de Securitate Cibernetică - DNSC) is designated as the national competent authority for the security of network and information systems, in accordance with Article 8 of Directive (EU) 2016/1148. The DNSC shall coordinate the implementation of this law, supervise compliance by operators of essential services and digital service providers, and cooperate with EU institutions and other Member States."
+      "chapter": "Capitolul I | Secţiunea a 2-a",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Abrogat. (la 31-12-2024, Articolul 4 , Sectiunea a 2-a , Capitolul I a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.5",
-      "chapter": "Chapter II - National Governance Framework",
-      "section": "Art.5",
-      "title": "CSIRT Functions",
-      "content": "CERT-RO shall act as the national Computer Security Incident Response Team (CSIRT) in accordance with Article 9 of Directive (EU) 2016/1148. CERT-RO shall monitor incidents at the national level, provide early warnings, alerts and announcements, respond to incidents, provide risk and incident analysis, and promote the adoption of standardised practices for incident and risk management. CERT-RO shall participate in the CSIRT network established under Article 12 of the Directive."
+      "chapter": "Capitolul II | Secţiunea 1",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Abrogat. (la 31-12-2024, Articolul 5 , Sectiunea 1 , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.6",
-      "chapter": "Chapter II - National Governance Framework",
-      "section": "Art.6",
-      "title": "Single Point of Contact",
-      "content": "The DNSC shall serve as the single point of contact for cross-border cooperation on the security of network and information systems, in accordance with Article 8(3) of Directive (EU) 2016/1148. The single point of contact shall liaise with the European Commission, the cooperation group, and the CSIRT network, and shall coordinate with national authorities to ensure a coherent application of this law."
+      "chapter": "Capitolul II | Secţiunea 1",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Abrogat. (la 31-12-2024, Articolul 6 , Sectiunea 1 , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.7",
-      "chapter": "Chapter III - Operators of Essential Services",
-      "section": "Art.7",
-      "title": "Identification of Operators of Essential Services",
-      "content": "The DNSC shall identify operators of essential services established in Romania in the following sectors: energy, transport, banking, financial market infrastructures, health, drinking water supply and distribution, and digital infrastructure, in accordance with Article 5 of Directive (EU) 2016/1148. An entity shall be identified as an operator of essential services where it provides a service essential for the maintenance of critical societal or economic activities, the provision of that service depends on network and information systems, and an incident would have a significant disruptive effect on the provision of the service."
+      "chapter": "Capitolul II | Secţiunea 1",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Abrogat. (la 31-12-2024, Articolul 7 , Sectiunea 1 , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.8",
-      "chapter": "Chapter III - Operators of Essential Services",
-      "section": "Art.8",
-      "title": "Security Requirements for Operators",
-      "content": "Operators of essential services shall take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems which they use in the provision of essential services. These measures shall ensure a level of security appropriate to the risk, taking into account state-of-the-art technology, applicable standards, and the specific risks. Measures shall cover systems and facilities security, incident handling, business continuity management, supply chain security, and security testing and auditing."
+      "chapter": "Capitolul II | Secţiunea 1",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Abrogat. (la 31-12-2024, Articolul 8 , Sectiunea 1 , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.9",
-      "chapter": "Chapter III - Operators of Essential Services",
-      "section": "Art.9",
-      "title": "Incident Notification for Operators",
-      "content": "Operators of essential services shall notify CERT-RO without undue delay of incidents having a significant impact on the continuity of the essential services they provide, in accordance with Article 14 of Directive (EU) 2016/1148. The notification shall include information to enable CERT-RO to determine any cross-border impact of the incident. The significance of the impact shall be determined based on the number of users affected, the duration of the incident, and the geographical spread."
+      "chapter": "Capitolul II | Secţiunea 1",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Abrogat. (la 31-12-2024, Articolul 9 , Sectiunea 1 , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.10",
-      "chapter": "Chapter IV - Digital Service Providers",
-      "section": "Art.10",
-      "title": "Security and Notification for Digital Service Providers",
-      "content": "Digital service providers shall identify and take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems which they use to offer services within the Union, in accordance with Article 16 of Directive (EU) 2016/1148. Digital service providers shall notify CERT-RO of any incident having a substantial impact on the provision of their services. Micro and small enterprises as defined in Commission Recommendation 2003/361/EC are exempted from the requirements of this article."
+      "chapter": "Capitolul II | Secţiunea 1",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Abrogat. (la 31-12-2024, Articolul 10 , Sectiunea 1 , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.11",
-      "chapter": "Chapter IV - Digital Service Providers",
-      "section": "Art.11",
-      "title": "Supervision of Digital Service Providers",
-      "content": "The DNSC shall exercise supervisory powers over digital service providers established in Romania in a reactive manner, when provided with evidence of non-compliance. Where the DNSC has reason to believe that a digital service provider does not comply with the requirements of this law, it may require the provider to supply information, evidence, and undergo a security audit by a qualified independent body."
+      "chapter": "Capitolul II | Secţiunea 1",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Abrogat. (la 31-12-2024, Articolul 11 , Sectiunea 1 , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.12",
-      "chapter": "Chapter V - Cooperation",
-      "section": "Art.12",
-      "title": "National Cooperation",
-      "content": "The DNSC shall establish cooperation mechanisms with other national authorities responsible for the security of network and information systems in specific sectors, including the Romanian Intelligence Service (SRI), the Ministry of National Defence, and sector-specific regulators. Information sharing between the DNSC and these authorities shall be conducted in accordance with applicable national security legislation."
+      "chapter": "Capitolul II | Secţiunea a 2-a",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Abrogat. (la 31-12-2024, Articolul 12 , Sectiunea a 2-a , Capitolul II a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.13",
-      "chapter": "Chapter V - Cooperation",
-      "section": "Art.13",
-      "title": "EU Cooperation Group",
-      "content": "Romania, through the DNSC, shall participate in the cooperation group established under Article 11 of Directive (EU) 2016/1148 to support and facilitate strategic cooperation and the exchange of information among Member States. The DNSC shall contribute to the development of strategic guidance, the exchange of best practices, and the assessment of national strategies and the effectiveness of CSIRTs."
+      "chapter": "Capitolul III | Secţiunea 1",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Abrogat. (la 31-12-2024, Articolul 13 , Sectiunea 1 , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.14",
-      "chapter": "Chapter VI - Auditing and Compliance",
-      "section": "Art.14",
-      "title": "Security Audits",
-      "content": "The DNSC may require operators of essential services to undergo security audits conducted by qualified independent bodies or by DNSC personnel. The results of security audits shall be provided to the DNSC. The costs of security audits requested by the DNSC shall be borne by the operator of essential services. Security audits shall assess the effectiveness of technical and organisational measures implemented to comply with the requirements of this law."
+      "chapter": "Capitolul III | Secţiunea 1",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Abrogat. (la 31-12-2024, Articolul 14 , Sectiunea 1 , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.15",
-      "chapter": "Chapter VI - Auditing and Compliance",
-      "section": "Art.15",
-      "title": "Sanctions",
-      "content": "Non-compliance with the requirements established by this law shall be sanctioned by administrative fines. Failure to implement appropriate security measures shall be sanctioned with a fine from 5,000 to 50,000 RON. Failure to notify significant incidents shall be sanctioned with a fine from 3,000 to 30,000 RON. For repeated infringements or particularly serious breaches, fines may be increased up to 100,000 RON. The DNSC may also issue compliance orders and, in extreme cases, order the temporary suspension of certain activities."
+      "chapter": "Capitolul III | Secţiunea a 2-a",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Abrogat. (la 31-12-2024, Articolul 15 , Sectiunea a 2-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.16",
-      "chapter": "Chapter VII - Sectoral Requirements",
-      "section": "Art.16",
-      "title": "Energy Sector",
-      "content": "Operators of essential services in the energy sector, including electricity, oil, and gas subsectors, shall implement sector-specific security measures established by the National Energy Regulatory Authority (ANRE) in coordination with the DNSC. These measures shall take into account the specificities of the energy sector and the applicable EU legislation, including Regulation (EU) 2019/941 on risk-preparedness in the electricity sector."
+      "chapter": "Capitolul III | Secţiunea a 2-a",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Abrogat. (la 31-12-2024, Articolul 16 , Sectiunea a 2-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.17",
-      "chapter": "Chapter VII - Sectoral Requirements",
-      "section": "Art.17",
-      "title": "Transport Sector",
-      "content": "Operators of essential services in the transport sector, including air, rail, water, and road transport subsectors, shall implement sector-specific security measures established by the Ministry of Transport in coordination with the DNSC. These measures shall address the security of operational technology (OT) systems used in transport operations and shall take into account applicable international and EU transport safety and security standards."
+      "chapter": "Capitolul III | Secţiunea a 3-a",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Abrogat. (la 31-12-2024, Articolul 17 , Sectiunea a 3-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.18",
-      "chapter": "Chapter VII - Sectoral Requirements",
-      "section": "Art.18",
-      "title": "Health Sector",
-      "content": "Operators of essential services in the health sector, including healthcare settings, EU reference laboratories, and entities carrying out research and development activities of medicinal products, shall implement sector-specific security measures established by the Ministry of Health in coordination with the DNSC. These measures shall address the protection of patient data, medical devices connected to network and information systems, and the continuity of healthcare services."
+      "chapter": "Capitolul III | Secţiunea a 3-a",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Abrogat. (la 31-12-2024, Articolul 18 , Sectiunea a 3-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.19",
-      "chapter": "Chapter VIII - Final Provisions",
-      "section": "Art.19",
-      "title": "Implementing Regulations",
-      "content": "The Government shall adopt implementing regulations within 90 days from the entry into force of this law, establishing detailed technical requirements, identification criteria for operators of essential services, incident notification procedures, and audit methodologies. The implementing regulations shall be developed by the DNSC in consultation with sector-specific regulators and relevant stakeholders."
+      "chapter": "Capitolul III | Secţiunea a 4-a",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Abrogat. (la 31-12-2024, Articolul 19 , Sectiunea a 4-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     },
     {
       "provision_ref": "Art.20",
-      "chapter": "Chapter VIII - Final Provisions",
-      "section": "Art.20",
-      "title": "Entry into Force",
-      "content": "This law transposes Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union. This law shall enter into force 15 days from the date of its publication in Monitorul Oficial al României."
+      "chapter": "Capitolul III | Secţiunea a 4-a",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Abrogat. (la 31-12-2024, Articolul 20 , Sectiunea a 4-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul III | Secţiunea a 4-a",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Abrogat. (la 31-12-2024, Articolul 21 , Sectiunea a 4-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul III | Secţiunea a 4-a",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Abrogat. (la 31-12-2024, Articolul 22 , Sectiunea a 4-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul III | Secţiunea a 4-a",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Abrogat. (la 31-12-2024, Articolul 23 , Sectiunea a 4-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul III | Secţiunea a 4-a",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Abrogat. (la 31-12-2024, Articolul 24 , Sectiunea a 4-a , Capitolul III a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul IV - Asigurarea securității rețelelor și sistemelor informatice | Secţiunea 1 - Cerințele minime de securitate",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "(1) În vederea asigurării unui nivel comun de securitate a rețelelor și sistemelor informatice, operatorii de servicii esențiale și furnizorii de servicii digitale au obligația de a respecta normele tehnice elaborate de DNCS în temeiul prevederilor art. 20 lit. b) . (2) DNCS elaborează, cu consultarea autorităților care reglementează sectoarele și subsectoarele prevăzute în anexă, ghiduri în sprijinul implementării măsurilor minime de securitate pentru operatorii și furnizorii prevăzuți în prezenta lege. (3) Normele tehnice prevăzute la alin. (1) aplicabile operatorilor de servicii esențiale se stabilesc în baza cel puțin a următoarelor categorii de activități de asigurare a securității rețelelor și sistemelor informatice: a) managementul drepturilor de acces; b) conștientizarea și instruirea utilizatorilor; c) jurnalizarea și asigurarea trasabilității activităților în cadrul rețelelor și sistemelor informatice; d) testarea și evaluarea securității rețelelor și sistemelor informatice; e) managementul configurațiilor rețelelor și sistemelor informatice; f) asigurarea disponibilității serviciului esențial și a funcționării rețelelor și sistemelor informatice; g) managementul continuității funcționării serviciului esențial; h) managementul identificării și autentificării utilizatorilor; i) răspunsul la incidente; j) mentenanța rețelelor și sistemelor informatice; k) managementul suporturilor de memorie externă; l) asigurarea protecției fizice a rețelelor și sistemelor informatice; m) realizarea planurilor de securitate; n) asigurarea securității personalului; o) analizarea și evaluarea riscurilor; p) asigurarea protecției produselor și serviciilor aferente rețelelor și sistemelor informatice; q) managementul vulnerabilităților și alertelor de securitate. (4) Normele tehnice prevăzute la alin. (1) aplicabile furnizorilor de servicii digitale se stabilesc în baza următoarelor categorii de activități de asigurare a securității rețelelor și sistemelor informatice: a) securitatea sistemelor și a instalațiilor; b) gestionarea incidentelor; c) gestionarea continuității activității; d) monitorizarea, auditarea și testarea; e) conformitatea cu standardele europene și internaționale. (5) În implementarea măsurilor de la alin. (1) operatorii de servicii esențiale: a) identifică rețelele și sistemele informatice care susțin furnizarea de servicii esențiale; b) elaborează și implementează politici și planuri proprii de securitate a rețelelor și sistemelor informatice; c) asigură managementul incidentelor care afectează securitatea rețelelor și sistemelor informatice; d) previn accesul neautorizat la rețelele și sistemele informatice; e) previn diseminarea datelor deținute la nivelul rețelelor și sistemelor informatice către alte persoane decât cele autorizate să cunoască conținutul acestora; f) implementează un sistem de management al riscului; g) implementează planuri de acțiune pe niveluri de alertă de securitate a rețelelor și sistemelor informatice; h) asigură continuitatea serviciilor. (6) Normele tehnice prevăzute la alin. (1) se emit cu luarea în considerare a cerințelor și standardelor europene și internaționale fără a impune sau a discrimina în favoarea utilizării unui anumit tip de tehnologie."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul IV - Asigurarea securității rețelelor și sistemelor informatice | Secţiunea a 2-a - Notificarea incidentelor de securitate",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "(1) Notificările efectuate de operatorii de servicii esențiale în temeiul art. 10 alin. (1) lit. c) trebuie să îndeplinească condițiile și să conțină informațiile prevăzute în normele tehnice prevăzute la art. 20 lit. c) . (2) Notificările efectuate de furnizorii de servicii digitale în temeiul prevederilor art. 12 alin. (1) lit. c) trebuie să îndeplinească condițiile și să conțină informațiile prevăzute în normele tehnice prevăzute la art. 20 lit. c) . (3) Notificarea incidentelor conține, în mod obligatoriu, următoarele informații: a) elementele de identificare ale infrastructurii și operatorului sau furnizorului în cauză; b) descrierea incidentului; c) perioada de desfășurare a incidentului; d) impactul estimat al incidentului; e) măsuri preliminare adoptate; f) lista de autorități ale statului afectate de incident; g) întinderea geografică potențială a incidentului; h) date despre efecte potențial transfrontaliere ale incidentului. (4) Notificarea prevăzută la alin. (1) și (2) nu va conține: a) informații clasificate; b) date care pot aduce atingere drepturilor și libertăților cetățenești ori intereselor legitime ale unor terțe entități implicate în incident, în condițiile legii. (5) DNCS, în calitate de autoritate competentă la nivel național, elaborează și actualizează, prin decizie a directorului general publicată în Monitorul Oficial al României, Partea I, formularele necesare notificărilor de incident efectuate în temeiul prezentului articol, detaliind informațiile și documentațiile necesar a fi furnizate. (6) DNCS, în calitate de CSIRT național, va stabili și va aduce la cunoștința publicului, precum și operatorilor și furnizorilor menționați în prezenta lege mijloacele de comunicare pentru efectuarea notificărilor cerute prin prezenta lege. (7) Notificările privind incidentele ce fac obiectul prezentei legi pot fi făcute și de către echipele CSIRT ale entităților de drept public sau privat ori care deservesc un anumit sector de activitate ori de către furnizorii de servicii de securitate aflați în relație contractuală, conform atribuțiilor ce le revin în baza actului de înființare ori a contractului de prestări servicii, după caz. (8) Notificarea făcută de o echipă CSIRT în temeiul alin. (7) echivalează cu notificarea făcută de operatorul sau furnizorul afectat, acesta purtând întreaga răspundere pentru conținutul notificării și îndeplinirea celorlalte obligații ce îi revin conform prezentei legi. (9) Obligația de a notifica un incident de către furnizorii de servicii digitale se aplică doar în cazul în care aceștia au acces la informațiile necesare pentru a evalua impactul unui incident asupra parametrilor menționați la art. 28 alin. (2) . (10) Entitățile care nu au fost identificate drept operatori de servicii esențiale și nu sunt furnizori de servicii digitale pot notifica voluntar DNCS, în calitate de CSIRT național, furnizând cel puțin informațiile prevăzute la alin. (3) , incidentele care au un impact semnificativ asupra continuității serviciilor pe care le furnizează. (11) DNCS tratează notificările obligatorii cu prioritate față de notificările voluntare. (12) Notificările voluntare se tratează doar atunci când această prelucrare nu împiedică îndeplinirea celorlalte obligații ce îi revin autorității competente la nivel național și în limita resurselor existente. (13) Notificarea voluntară nu impune entității notificatoare nicio obligație care nu i-ar fi revenit dacă nu ar fi făcut notificarea. (14) Notificările prevăzute la alin. (1) și (2) nu atrag răspunderea pentru entitățile care notifică, în condițiile respectării obligațiilor prevăzute de prezenta lege."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul IV - Asigurarea securității rețelelor și sistemelor informatice | Secţiunea a 3-a - Managementul incidentelor",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "După primirea notificării, DNCS, în calitate de CSIRT național: a) evaluează preliminar impactul incidentului la nivel național și alertează, sesizează ori notifică sau, după caz, poate solicita operatorului sau furnizorului să alerteze alte entități afectate precum și autoritățile cu responsabilități în prevenirea, limitarea și combaterea efectelor incidentului, precum și autoritățile prevăzute la art. 16 , potrivit legii; b) poate solicita informații suplimentare operatorului sau furnizorului care a făcut notificarea în vederea îndeplinirii obligațiilor ce îi revin, menționând termenul de furnizare a acestora; c) oferă operatorului sau furnizorului care a făcut notificarea, atunci când circumstanțele o permit, informații care ar putea sprijini administrarea incidentului; d) în calitate de punct unic de contact, informează celelalte state membre sau partenere afectate dacă incidentul are un impact semnificativ asupra continuității serviciilor esențiale ori a serviciilor digitale în statele respective; e) în urma analizei incidentelor, poate, după caz, declanșa acțiune de control pentru verificarea respectării cerințelor prezentei legi; f) poate lua măsurile prevăzute la art. 41 ; g) coordonează la nivel național răspunsul la incident în colaborare cu celelalte autorități și entități publice sau private, conform domeniului de activitate și responsabilitate."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul IV - Asigurarea securității rețelelor și sistemelor informatice | Secţiunea a 3-a - Managementul incidentelor",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "(1) Impactul unui incident se determină ținând cont cel puțin de următorii parametri: (i) în cazul operatorilor de servicii esențiale: a) numărul de utilizatori afectați de perturbarea serviciului esențial; b) durata incidentului; c) distribuția geografică în ceea ce privește zona afectată de incident; (ii) în cazul furnizorilor de servicii digitale: a) numărul de utilizatori afectați de incident, în special utilizatori care se bazează pe serviciul pentru furnizarea propriilor servicii; b) durata incidentului; c) distribuția geografică în ceea ce privește zona afectată de incident; d) amploarea perturbării funcționării serviciului; e) amploarea impactului asupra activităților economice și societale. (2) DNCS, după consultarea GdLINIS, elaborează și actualizează normele tehnice de stabilire a impactului pentru categoriile de operatori și furnizori prevăzuți de prezenta lege care se aprobă prin hotărâre a Guvernului inițiată de Directoratul Național de Securitate Cibernetică . (la 24-07-2020, Alineatul (2) din Articolul 28 , Sectiunea a 3-a , Capitolul IV a fost modificat de Punctul 6, Articolul I din ORDONANȚA DE URGENȚĂ nr. 119 din 22 iulie 2020, publicată în MONITORUL OFICIAL nr. 658 din 24 iulie 2020 ) (3) Criteriile prevăzute la pct. 2. se aplică și notificărilor voluntare efectuate în temeiul prevederilor art. 26 alin. (10)."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul IV - Asigurarea securității rețelelor și sistemelor informatice | Secţiunea a 3-a - Managementul incidentelor",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "(1) DNCS poate înștiința publicul, atunci când informarea este necesară pentru a preveni un incident sau pentru a se administra un incident în curs. (2) Pentru incidentele care afectează un operator de servicii esențiale sau un furnizor de servicii digitale, informarea menționată la alin. (1) se realizează după consultarea prealabilă a acestuia asupra conținutului înștiințării. (3) În cazul furnizorilor de servicii digitale, informarea publicului specificată la alin. (1) poate fi făcută și direct de către aceștia la solicitarea DNCS ori a autorităților sau echipelor CSIRT ale altor state membre afectate."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul IV - Asigurarea securității rețelelor și sistemelor informatice | Secţiunea a 3-a - Managementul incidentelor",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "(1) În activitățile de identificare a operatorilor de servicii esențiale și furnizorilor de servicii digitale, de control, de primire a notificărilor privitoare la incidente și de management al acestora desfășurate în baza prezentei legi, precum și în procesele interne, DNCS protejează interesele de securitate și comerciale ale operatorului de servicii esențiale și ale furnizorului de servicii digitale, precum și confidențialitatea informațiilor furnizate. (2) Cu excepția informațiilor necesare înștiințării de la art. 29 alin. (1) , informațiile prelucrate în sensul îndeplinirii obligațiilor de la alin. (1) nu fac parte din categoria informațiilor de interes public așa cum acestea sunt reglementate în Legea nr. 544/2001 privind liberul acces la informațiile de interes public, cu modificările și completările ulterioare. (3) Informațiile confidențiale conform legislației naționale și normelor Uniunii Europene, precum cele privind secretul comercial, fac obiectul schimbului de informații cu Comisia Europeană și cu alte autorități numai dacă acest lucru este necesar pentru aplicarea prezentei legi. (4) Informațiile care fac obiectul schimbului menționat la alin. (3) se limitează la informații relevante și proporționale cu scopul urmărit. (5) Schimbul de informații menționat la alin. (3) se va face cu garantarea păstrării confidențialității informațiilor și protejarea securității și intereselor comerciale ale operatorilor de servicii esențiale și ale furnizorilor de servicii digitale. (6) Prelucrările de date cu caracter personal ce intră sub incidența prezentei legi se efectuează cu respectarea reglementărilor legale privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal. (7) Notificările realizate în temeiul prezentei legi nu afectează obligațiile operatorilor de date cu caracter personal stabilite potrivit art. 33 și 34 din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE. (8) În scopul îndeplinirii atribuțiilor ori furnizării serviciilor prevăzute de prezenta lege, precum și în scopul prevenirii și răspunsului la incidentele de securitate informatică ori al cooperării la nivel național, comunitar și internațional în prevenirea și răspunsul la incidentele de securitate informatică, DNCS colectează, primește, prelucrează și transmite date și informații ce pot constitui sau pot conține date cu caracter personal, în limitele legislației aplicabile, cu asigurarea respectării prevederilor alin. (6) ."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul V - Audit și autorizare | Secţiunea 1 - Auditul de securitate a rețelelor și sistemelor informatice aparținând operatorilor de servicii esențiale sau furnizorilor de servicii digitale",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Poate fi auditor de securitate a rețelelor și sistemelor informatice persoana fizică sau persoana juridică ce realizează audit de securitate a rețelelor și sistemelor informatice, adică desfășoară acea activitate prin care se realizează o evaluare sistematică a tuturor politicilor, procedurilor și măsurilor de protecție implementate la nivelul rețelelor și sistemelor informatice, în vederea identificării disfuncțiilor și vulnerabilităților și a furnizării unor soluții de remediere a acestora."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul V - Audit și autorizare | Secţiunea 1 - Auditul de securitate a rețelelor și sistemelor informatice aparținând operatorilor de servicii esențiale sau furnizorilor de servicii digitale",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "(1) Auditul de securitate specificat la art. 8 alin. (4) , respectiv art. 10 alin. (2) lit. b) și art. 12 alin. (2) lit. b) se realizează de către auditorii de securitate informatică ce dețin atestat valabil eliberat de către DNCS pentru a audita rețele și sisteme informatice ce deservesc servicii esențiale sau servicii digitale în sensul prezentei legi. (2) În acest sens DNCS: a) întreține și actualizează Registrul auditorilor menționați la alin. (1) ; b) elaborează și transmite spre aprobare Directoratului Național de Securitate Cibernetică, în conformitate cu prevederile art. 20 lit. e) și s) , regulamentul pentru atestarea și verificarea auditorilor de securitate informatică pentru rețelele și sistemele informatice aparținând operatorilor de servicii esențiale sau furnizorilor de servicii digitale și stabilește condițiile de valabilitate pentru atestatele acordate; c) acordă, prelungește, suspendă sau retrage atestarea pentru auditorii de securitate informatică pentru rețelele și sistemele informatice aparținând operatorilor de servicii esențiale sau furnizorilor de servicii digitale, în conformitate cu prevederile regulamentului prevăzut la lit. b) ; d) verifică în urma sesizărilor sau din oficiu, în conformitate cu prevederile art. 35-42 , îndeplinirea de către auditorii atestați în temeiul prezentei legi a obligațiilor legale ce le revin; e) elaborează și aprobă, prin decizie a directorului general publicată în Monitorul Oficial al României, Partea I, tematicile pentru specializarea auditorilor în vederea atestării prevăzute la lit. c) și autorizează, verifică, suspendă sau retrage autorizarea formatorilor din domeniul auditului de securitate informatică pentru rețelele și sistemele informatice ale operatorilor de servicii esențiale și furnizorilor de servicii digitale. (3) Nu pot realiza auditul solicitat la art. 10 alin. (2) lit. b) , respectiv art. 12 alin. (2) lit. b): a) auditorii atestați care asigură în mod curent servicii de securitate informatică ori servicii de tip CSRIT operatorului de servicii esențiale sau furnizorului de servicii digitale ori sunt angajați ai acestora; b) auditorul care are un contract de prestări servicii pentru rețeaua și sistemul supus auditului aflat în desfășurare la momentul la care se efectuează auditul sau într-un termen mai mic de un an; c) auditorul care a mai efectuat 3 audituri consecutive la același operator de servicii esențiale sau furnizor de servicii digitale. (4) Activitatea de audit se efectuează potrivit standardelor și specificațiilor europene și internaționale aplicabile în domeniu. (5) Tematicile de audit vor ține seama de normele tehnice în vigoare privind securitatea rețelelor și sistemelor informatice ale operatorilor de servicii esențiale și ale furnizorilor de servicii digitale elaborate în temeiul prezentei legi. (6) Atestatele au o valabilitate de 3 ani. (7) Constituie excepție de la prevederile alin. (1) auditul de securitate realizat la nivelul instituțiilor cu responsabilități în domeniul apărării, ordinii publice și securității naționale, precum și pentru serviciile puse la dispoziție de către acestea. (8) Lista standardelor și specificațiilor europene și internaționale prevăzute la alin. (4) se elaborează și se aprobă prin decizie a directorului general al DNCS, se actualizează periodic și se publică în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul V - Audit și autorizare | Secţiunea a 2-a - Autorizarea echipelor CSIRT ce deservesc rețele și sisteme informatice din categoria serviciilor esențiale și serviciilor digitale",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "(1) Echipele CSIRT care deservesc operatori de servicii esențiale ori furnizori de servicii digitale se autorizează de către DNCS în calitate de autoritate competentă la nivel național. (2) În acest sens DNCS: a) întreține și actualizează Registrul echipelor CSIRT prevăzute la alin. (1) ; b) elaborează și transmite spre aprobare Directoratului Național de Securitate Cibernetică, în conformitate cu prevederile art. 20 lit. e) și s) , regulamentul pentru autorizarea și verificarea echipelor CSIRT care deservesc operatorii de servicii esențiale sau furnizorii de servicii digitale și stabilește condițiile de valabilitate pentru autorizațiile acordate; c) acordă, prelungește, suspendă sau retrage autorizarea pentru echipele CSIRT, în conformitate cu prevederile regulamentului prevăzut la lit. b) ; d) verifică în urma sesizărilor sau din oficiu, în conformitate cu prevederile art. 35-42 , îndeplinirea de către echipele CSIRT autorizate în temeiul prezentei legi a obligațiilor legale ce le revin; e) elaborează tematicile pentru formarea membrilor echipelor CSIRT în vederea autorizării prevăzute la lit. c) și autorizează, verifică, suspendă sau retrage autorizarea formatorilor din domeniul asigurării de servicii de tip CSIRT pentru rețelele și sistemele informatice ale operatorilor de servicii esențiale și furnizorilor de servicii digitale. (3) În vederea autorizării, echipa CSIRT trebuie să îndeplinească condițiile prevăzute în normele tehnice elaborate în temeiul prevederilor art. 20 lit. e) . (4) Autorizațiile au o valabilitate de 3 ani."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul VI | Secţiunea a 2-a - Autorizarea echipelor CSIRT ce deservesc rețele și sisteme informatice din categoria serviciilor esențiale și serviciilor digitale",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "Abrogat. (la 31-12-2024, Articolul 34 , Capitolul VI a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Abrogat. (la 31-12-2024, Articolul 35 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Abrogat. (la 31-12-2024, Articolul 36 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Abrogat. (la 31-12-2024, Articolul 37 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "Abrogat. (la 31-12-2024, Articolul 38 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Abrogat. (la 31-12-2024, Articolul 39 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Abrogat. (la 31-12-2024, Articolul 40 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Abrogat. (la 31-12-2024, Articolul 41 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul VII | Secţiunea 1",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Abrogat. (la 31-12-2024, Articolul 42 , Sectiunea 1 , Capitolul VII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul VIII | Secţiunea 1",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Abrogat. (la 31-12-2024, Articolul 43 , Capitolul VIII a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul IX | Secţiunea 1",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Abrogat. (la 31-12-2024, Articolul 44 , Capitolul IX a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul IX | Secţiunea 1",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Abrogat. (la 31-12-2024, Articolul 45 , Capitolul IX a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul IX | Secţiunea 1",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "Abrogat. (la 31-12-2024, Articolul 46 , Capitolul IX a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul IX | Secţiunea 1",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "Abrogat. (la 31-12-2024, Articolul 47 , Capitolul IX a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul IX | Secţiunea 1",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "Abrogat. (la 31-12-2024, Articolul 48 , Capitolul IX a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul IX | Secţiunea 1",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "Abrogat. (la 31-12-2024, Articolul 49 , Capitolul IX a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Capitolul IX | Secţiunea 1",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "Abrogat. (la 31-12-2024, Articolul 50 , Capitolul IX a fost abrogat de Litera a) , Alineatul (1) , Articolul 66 , Capitolul X din ORDONANȚA DE URGENȚĂ nr. 155 din 30 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1332 din 31 decembrie 2024 )"
     }
   ],
-  "definitions": [
-    {
-      "term": "Network and information system",
-      "definition": "An electronic communications network, any device or group of interconnected devices that process digital data, or digital data stored, processed, retrieved or transmitted by such systems.",
-      "source_provision": "Art.2"
-    },
-    {
-      "term": "Operator of essential services",
-      "definition": "A public or private entity of a type referred to in Annex II that provides a service essential for the maintenance of critical societal or economic activities, which depends on network and information systems, and where an incident would have a significant disruptive effect.",
-      "source_provision": "Art.2"
-    },
-    {
-      "term": "Digital service provider",
-      "definition": "A legal person that provides an online marketplace, online search engine, or cloud computing service within the meaning of Directive (EU) 2016/1148.",
-      "source_provision": "Art.2"
-    },
-    {
-      "term": "DNSC",
-      "definition": "Directoratul Național de Securitate Cibernetică (National Directorate for Cyber Security) - the national competent authority for the security of network and information systems in Romania.",
-      "source_provision": "Art.4"
-    },
-    {
-      "term": "CERT-RO",
-      "definition": "The national Computer Security Incident Response Team of Romania, acting as the CSIRT under the NIS Directive.",
-      "source_provision": "Art.5"
-    }
-  ]
+  "definitions": []
 }

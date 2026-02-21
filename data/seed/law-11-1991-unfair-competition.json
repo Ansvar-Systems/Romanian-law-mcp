@@ -1,171 +1,226 @@
 {
   "id": "law-11-1991",
   "type": "statute",
-  "title": "Legea nr. 11/1991 privind combaterea concurenței neloiale",
-  "title_en": "Law 11/1991 on combating unfair competition",
-  "short_name": "Unfair Competition Law",
+  "title": "LEGE nr. 11 din 29 ianuarie 1991",
+  "title_en": "Law No. 11/1991 on Combating Unfair Competition",
+  "short_name": "Legea concurentei neloiale",
   "status": "in_force",
   "issued_date": "1991-01-29",
-  "in_force_date": "1991-02-09",
-  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1439",
-  "description": "Romania's law on unfair competition, including protection of trade secrets and confidential business information, aligned with Directive (EU) 2016/943 on the protection of undisclosed know-how and business information.",
+  "in_force_date": "1991-01-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1440",
+  "description": "Core unfair-competition law, including anti-confusion, trade secret protections, and sanctions for unfair commercial practices.",
   "provisions": [
     {
       "provision_ref": "Art.1",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.1",
-      "title": "Scope",
-      "content": "This law regulates the prevention and combating of unfair competition in order to ensure fair competition, in compliance with honest commercial practices. This law applies to all natural and legal persons, Romanian or foreign, that carry out commercial activities on the territory of Romania. Unfair competition means any act or practice contrary to honest practices in commercial activities, which is capable of causing damage to another undertaking."
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta lege are drept scop asigurarea unei concurențe loiale, cu respectarea uzanțelor cinstite și a principiului general al bunei-credințe, pentru protejarea interesului legitim public și/sau privat, prin aplicarea normelor de drept contravențional, penal sau civil, după caz. (2) Întreprinderile au obligația să acționeze cu respectarea uzanțelor cinstite, în conformitate cu principiul general al bunei-credințe și cu prezenta lege. (3) Dispozițiile prezentei legi se aplică întreprinderilor și persoanelor fizice, române sau străine, care săvârșesc practici de concurență neloială. (la 20-06-2022, Articolul 1 a fost modificat de Punctul 1, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
+    },
+    {
+      "provision_ref": "Art.1^1",
+      "section": "1^1",
+      "title": "Articolul 1^1",
+      "content": "În înțelesul prezentei legi, expresiile de mai jos au următoarele semnificații: a) concurență loială - situația de piață în care fiecare întreprindere încearcă să obțină vânzări, profit și/sau cotă de piață, oferind cea mai bună combinație practică de prețuri, calitate și servicii conexe, cu respectarea uzanțelor cinstite și a principiului general al bunei-credințe; b) practici comerciale - acțiunea, omisiunea, demersul sau comunicarea comercială a unei întreprinderi, realizată în legătură directă cu producerea, furnizarea, promovarea și comercializarea unui produs sau a unui serviciu; c) uzanțe cinstite - ansamblu de practici sau reguli general recunoscute care se aplică în relațiile comerciale dintre întreprinderi, în scopul prevenirii încălcării drepturilor și intereselor legitime private ale acestora; d) poziție superioară de negociere - situația în care se află o întreprindere care nu deține o poziție dominantă conform prevederilor art. 6 alin. (3) din Legea concurenței nr. 21/1996, republicată , cu modificările și completările ulterioare, situație determinată de caracteristici ale pieței, în măsură să favorizeze apariția unor dezechilibre semnificative generate de factori, precum structura specifică a lanțului de producție sau de distribuție, vulnerabilitatea față de factori externi, perisabilitatea sau sezonalitatea, și de relația specifică dintre aceasta și alte întreprinderi care desfășoară activitate pe piețe diferite, relație analizată în baza următoarelor criterii cumulative: 1. existența unui raport dezechilibrat de forțe, ca urmare a unor elemente precum cota de piață sau notorietatea mărcii; 2. importanța relației comerciale pentru activitatea celeilalte întreprinderi, ca urmare a unor elemente precum ponderea semnificativă a vânzărilor sau a achizițiilor sale în activitatea celeilalte întreprinderi, rolul critic al produselor sau serviciilor sale pentru derularea activității celeilalte întreprinderi sau existența unor investiții semnificative din partea acesteia din urmă, realizate în vederea onorării raporturilor comerciale stabilite; 3. absența unei soluții alternative echivalente pentru cealaltă întreprindere; e) secret comercial - informațiile care îndeplinesc cumulativ următoarele cerințe: 1. sunt secrete în sensul că nu sunt, ca întreg sau astfel cum se prezintă sau se articulează elementele acestora, cunoscute la nivel general sau ușor accesibile persoanelor din cercurile care se ocupă, în mod normal, de tipul de informații în cauză; 2. au valoare comercială prin faptul că sunt secrete; 3. au făcut obiectul unor măsuri rezonabile, în circumstanțele date, luate de către persoana care deține în mod legal controlul asupra informațiilor respective, pentru a fi păstrate secrete; f) deținătorul secretului comercial - orice persoană fizică sau juridică care deține controlul legal asupra unui secret comercial; g) întreprindere - definită conform art. 2 alin. (2) din Legea concurenței nr. 21/1996, republicată , cu modificările și completările ulterioare; h) angajat - persoană fizică ce a avut sau are calitatea de salariat, reprezentant sau colaborator extern al unei întreprinderi; i) sesizare - petiție/reclamație formulată în scris de către o persoană fizică sau juridică având ca obiect posibile practici de concurență neloială; j) informații confidențiale - orice informații, altele decât secretele comerciale, a căror dezvăluire neautorizată este de natură să producă daune unei întreprinderi. (la 20-06-2022, Articolul 1^1 a fost modificat de Punctul 2, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
     },
     {
       "provision_ref": "Art.2",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.2",
-      "title": "Definitions",
-      "content": "For the purposes of this law: a) trade secret means any information which: is not generally known among or readily accessible to persons within the circles that normally deal with the kind of information in question; has commercial value because it is secret; and has been subject to reasonable steps to keep it secret by the person lawfully in control of the information; b) unfair competition means any act or practice contrary to honest commercial practices which damages or is capable of damaging a competitor or the competitive environment; c) honest commercial practices means conduct conforming to the usages observed by businesspersons carrying on activity in the same field of commerce."
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Constituie concurență neloială, în sensul prezentei legi, și sunt interzise următoarele practici comerciale ale întreprinderii și/sau ale angajatului care contravin uzanțelor cinstite și principiului general al bunei-credințe și care produc sau sunt susceptibile să producă prejudicii altor întreprinderi, după cum urmează: a) denigrarea unei întreprinderi concurente sau a produselor/serviciilor sale, de natură să îi lezeze interesele legitime, realizată prin comunicarea ori răspândirea de către o altă întreprindere sau un fost sau actual angajat de informații care nu corespund realității; b) deturnarea clientelei unei întreprinderi concurente de către un fost sau actual angajat, prin folosirea unor informații despre care acesta avea cunoștință la momentul săvârșirii faptei că reprezintă secrete comerciale sau informații confidențiale și a căror dezvăluire poate dăuna semnificativ intereselor acelei întreprinderi; c) discreditarea activității unei întreprinderi concurente sau a produselor și serviciilor sale, realizată de către o altă întreprindere sau un fost sau actual angajat, prin recurgerea la acțiuni menite să atragă pierderea bunei reputații sau a credibilității acesteia, prin alte mijloace decât cele prevăzute la lit. a) ; d) orice alte practici comerciale care contravin uzanțelor cinstite și principiului general al bunei-credințe și care produc sau pot produce pagube concurenților. (2) În perioadele de stare de mobilizare parțială sau totală a forțelor armate și stare de război, stare de asediu și stare de urgență, stare de alertă sau alte situații de criză stabilite explicit prin acte normative, pentru produsele, categoriile de produse sau serviciile stabilite ca fiind în situație de risc speculativ prin hotărâre a Guvernului, sunt interzise practicile de concurență neloială care contravin uzanțelor cinstite și principiului general al bunei-credințe, săvârșite de întreprinderi față de alte întreprinderi, care constau în: practicarea unor prețuri nejustificat de mari, limitarea în mod nejustificat a producției sau a vânzărilor, acumularea de mărfuri de pe piața externă sau internă în scopul creării unui deficit pe piața românească și revânzării lor ulterioare la un preț crescut în mod nejustificat. (3) Este, de asemenea, practică de concurență neloială care contravine uzanțelor cinstite și principiului general al bunei-credințe exploatarea poziției superioare de negociere a unei întreprinderi față de o altă întreprindere cu care s-a aflat sau se află într-o relație comercială de natură să îi producă acesteia din urmă un prejudiciu semnificativ și să fie de natură să afecteze concurența pe piață, realizată prin acțiuni sau inacțiuni precum: refuzul nejustificat de a furniza sau de a cumpăra bunuri sau servicii, nerespectarea clauzelor contractuale privind plata, furnizarea sau achiziția, impunerea unor condiții nejustificat de oneroase sau discriminatorii față de obiectul contractului sau modificarea ori încetarea nejustificată a relațiilor comerciale cu întreprinderea parteneră. (4) Prevederile alin. (2) nu se aplică atunci când faptele identificate sunt săvârșite în asemenea condiții încât să reprezinte practici anticoncurențiale prevăzute de Legea nr. 21/1996, republicată , cu modificările și completările ulterioare, și/sau art. 101 sau 102 din Tratatul privind Funcționarea Uniunii Europene . (5) Prevederile alin. (3) nu se aplică domeniului reglementat de Legea nr. 321/2009 privind comercializarea produselor alimentare, republicată, cu modificările și completările ulterioare, și domeniului reglementat de Legea nr. 81/2022 privind practicile comerciale neloiale dintre întreprinderi în cadrul lanțului de aprovizionare agricol și alimentar. (la 20-07-2022, Articolul 2 a fost modificat de Punctul 3, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
+    },
+    {
+      "provision_ref": "Art.2^1",
+      "section": "2^1",
+      "title": "Articolul 2^1",
+      "content": "(1) Consiliul Concurenței, în calitate de autoritate administrativă autonomă în domeniul concurenței, asigură protecția întreprinderilor împotriva practicilor de concurență neloială în limita competențelor încredințate prin prezenta lege. (2) Protecția comercianților împotriva publicității înșelătoare și comparative se asigură potrivit prevederilor Legii nr. 158/2008 privind publicitatea înșelătoare și publicitatea comparativă, republicată. (3) Protejarea intereselor economice ale consumatorilor se asigură potrivit prevederilor Legii nr. 363/2007 , cu modificările ulterioare. (4) Protejarea intereselor colective ale publicului în domeniul serviciilor media audiovizuale se realizează potrivit prevederilor Legii audiovizualului nr. 504/2002 , cu modificările și completările ulterioare. (5) Protecția drepturilor de proprietate industrială în domeniul mărcilor și indicațiilor geografice se asigură potrivit Legii nr. 84/1998 privind mărcile și indicațiile geografice, republicată, cu modificările ulterioare. (6) Protecția desenelor și modelelor industriale se asigură potrivit Legii nr. 129/1992 privind protecția desenelor și modelelor, republicată. (7) Protecția brevetelor de invenții se asigură potrivit Legii nr. 64/1991 privind brevetele de invenție, republicată, cu modificările ulterioare. (8) Protecția topografiilor și produselor se asigură potrivit Legii nr. 16/1995 privind protecția topografiilor produselor semiconductoare, republicată. (la 09-08-2014, Art. 2^1 a fost introdus de pct. 4 al art. I din ORDONANȚA nr. 12 din 31 iulie 2014, publicată în MONITORUL OFICIAL nr. 586 din 6 august 2014. )"
     },
     {
       "provision_ref": "Art.3",
-      "chapter": "Chapter II - Acts of Unfair Competition",
-      "section": "Art.3",
-      "title": "General Prohibition",
-      "content": "The following acts shall constitute unfair competition and shall be prohibited: a) any act or practice contrary to honest commercial practices that causes or is likely to cause damage to a competitor; b) the misuse of another undertaking's reputation by using its trade name, signs, marks, or other identifying elements without authorisation; c) misleading the public with respect to the nature, characteristics, quality, or origin of goods or services; d) discrediting a competitor through the dissemination of false information about its activity, products, or services."
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Încălcarea obligației prevăzute la art. 1 atrage răspundere civilă, contravențională ori penală, în condițiile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3^1",
+      "section": "3^1",
+      "title": "Articolul 3^1",
+      "content": "(1) Consiliul Concurenței constată și sancționează practicile de concurență neloială în limita competențelor prevăzute de prezenta lege, din oficiu sau la sesizare, atunci când în cauză există un interes public constând într-o afectare a bunei funcționări a pieței. (2) Consiliul Concurenței evaluează măsura în care o posibilă practică de concurență neloială afectează interesul public potrivit următoarelor criterii: a) gradul ridicat de pericol social; b) importanța sau dimensiunea sectorului economic vizat, numărul de întreprinderi implicate în săvârșirea faptei, numărul de întreprinderi afectate; sau c) durata practicii de concurență neloială. (3) În cazul în care Consiliul Concurenței apreciază că nu este îndeplinit niciunul dintre criteriile prevăzute la alin. (2) va comunica autorului sesizării decizia de a nu interveni, motivată de lipsa interesului public, în termen de 45 de zile de la data la care sesizarea este considerată completă. (4) În vederea evaluării practicilor de concurență neloială autorii sesizărilor trebuie să furnizeze indiciile și, în măsura în care le sunt disponibile, elementele de probă, în legătură cu posibila practică de concurență neloială, interesul legitim și cu prejudiciul produs sau iminența producerii acestuia, precum și toate informațiile necesare analizei cazului, solicitate de către Consiliul Concurenței, sesizarea fiind completă la data primirii tuturor documentelor și informațiilor. (5) În cazul în care Consiliul Concurenței constată că sesizarea este incompletă și autorul acesteia nu o completează în termenul acordat de către autoritatea de concurență, sesizarea se consideră a fi retrasă, urmând a fi instrumentată din oficiu dacă există suficient temei. (6) În situația în care Consiliul Concurenței constată că practicile sesizate nu intră sub incidența legii, va răspunde în scris în termen de 30 de zile de la data la care sesizarea este considerată completă. (7) În cazul în care Consiliul Concurenței apreciază că o posibilă practică de concurență neloială afectează interesul legitim public, dispune efectuarea unei cercetări aprofundate cu privire la aceasta, prin ordin al președintelui Consiliului Concurenței, ce poate fi contestat numai odată cu decizia prin care se finalizează cercetarea aprofundată. Ordinul se comunică autorului sesizării și întreprinderilor care fac obiectul cercetării aprofundate. (8) În urma efectuării cercetării aprofundate prevăzute la alin. (7) , Consiliul Concurenței poate constata prin decizie săvârșirea practicii de concurență neloială, dispune interzicerea acesteia și aplică amenzi pentru contravențiile prevăzute la art. 4 alin. (1) din prezenta lege. (9) Consiliul Concurenței poate impune, prin decizie, pe o perioadă determinată, orice măsură interimară pe care o consideră necesară, înainte de finalizarea cercetării aprofundate, în cazul unei urgențe determinate de riscul unui prejudiciu grav și ireparabil, în cazul în care constată, la o primă evaluare, existența unor fapte interzise expres de lege și care trebuie eliminate. Înainte de luarea unei măsuri interimare, părțile implicate pot prezenta în scris punctul lor de vedere. Consiliul Concurenței va stabili, prin instrucțiuni, condițiile, termenele și procedura pentru adoptarea unor măsuri interimare. (10) Deciziile Consiliului Concurenței, emise în temeiul prezentei legi, vor fi motivate și comunicate părților în termen de maximum 60 de zile de la deliberare și pot fi atacate la Curtea de Apel București - Secția de contencios administrativ, în termen de 30 de zile de la comunicare. Sentința va fi pronunțată fără drept de apel, împotriva ei putând fi declarat recurs la Înalta Curte de Casație și Justiție (11) În cazul în care, la finalizarea cercetării aprofundate, se constată că aceasta nu a condus la descoperirea unor dovezi suficiente pentru încălcarea legii, care să justifice impunerea de măsuri sau sancțiuni, Consiliul Concurenței va decide închiderea acesteia. (la 20-06-2022, Articolul 3^1 a fost modificat de Punctul 4, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
+    },
+    {
+      "provision_ref": "Art.3^2",
+      "section": "3^2",
+      "title": "Articolul 3^2",
+      "content": "(1) Consiliul Concurenței va stabili prin regulament procedura de constatare și sancționare a practicilor de concurență neloială și va emite instrucțiuni și orientări pentru punerea în aplicare a prezentei legi, care se aprobă prin ordin emis de președintele Consiliului Concurenței ce va fi publicat în Monitorul Oficial al României, Partea I. (2) Deciziile Consiliului Concurenței rămase definitive prin care se constată și, după caz, se sancționează practicile de concurență neloială au caracter probator cu privire la săvârșirea acestora pentru instanța de judecată învestită cu soluționarea acțiunilor în despăgubire pentru prejudiciile cauzate de respectivele practici de concurență neloială. (la 20-06-2022, Articolul 3^2 a fost modificat de Punctul 5, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
+    },
+    {
+      "provision_ref": "Art.3^3",
+      "section": "3^3",
+      "title": "Articolul 3^3",
+      "content": "(1) Deciziile adoptate de către Consiliul Concurenței prin care se aplică sancțiuni contravenționale constituie titluri executorii, fără vreo altă formalitate, în termen de 30 de zile de la comunicarea acestora. (2) Deciziile adoptate de către Consiliul Concurenței se publică pe pagina de internet a instituției, ținându-se seama de interesele legitime ale întreprinderilor în cauză, astfel încât secretul comercial să nu fie divulgat, inclusiv cu respectarea principiilor protecției datelor cu caracter personal. (la 20-06-2022, Articolul 3^3 a fost modificat de Punctul 6, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
+    },
+    {
+      "provision_ref": "Art.3^4",
+      "section": "3^4",
+      "title": "Articolul 3^4",
+      "content": "(1) Inspectorii de concurență pot solicita întreprinderilor, angajaților, autorităților și instituțiilor publice, precum și terților care dețin date relevante informațiile și documentele care le sunt necesare pentru instrumentarea cazurilor de practici de concurență neloială și pot intervieva, cu excepția inspectorilor de concurență debutanți, orice persoană care a consimțit acest lucru, indicând temeiul legal, scopul, termenele, precum și sancțiunile prevăzute de lege. (2) În vederea identificării posibilelor practici de concurență neloială ale întreprinderilor, precum și pentru identificarea uzanțelor cinstite existente în relațiile dintre acestea în diverse sectoare economice, Consiliul Concurenței poate efectua analize preliminare, în realizarea cărora poate solicita date și documente de la orice persoană fizică sau juridică ce ar putea deține informații relevante, indicând temeiul legal, scopul, termenele, precum și sancțiunile prevăzute de lege. (3) Informațiile colectate potrivit prevederilor alin. (1) și (2) pot fi folosite numai în scopul aplicării legislației în domeniul concurenței. (4) În scopul constatării și sancționării practicilor de concurență neloială, potrivit competențelor sale, Consiliul Concurenței utilizează instrumentele investigative și aplică procedurile prevăzute la art. 36-40 din Legea concurenței nr. 21/1996, republicată , cu modificările și completările ulterioare. (la 20-06-2022, Articolul 3^4 a fost modificat de Punctul 7, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
     },
     {
       "provision_ref": "Art.4",
-      "chapter": "Chapter II - Acts of Unfair Competition",
-      "section": "Art.4",
-      "title": "Trade Secret Protection",
-      "content": "The unlawful acquisition, use or disclosure of trade secrets shall constitute an act of unfair competition. The acquisition of a trade secret shall be considered unlawful whenever carried out by means of: a) unauthorised access to, appropriation of, or copying of any documents, objects, materials, substances or electronic files lawfully under the control of the trade secret holder, containing the trade secret or from which the trade secret can be deduced; b) theft, bribery, deception, breach or inducement of breach of a confidentiality agreement or any other duty not to disclose the trade secret; c) any other conduct which, under the circumstances, is considered contrary to honest commercial practices. This provision aligns with Article 4 of Directive (EU) 2016/943."
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Constituie contravenții săvârșirea practicilor de concurență neloială care afectează interesul public, prevăzute la art. 2 alin. (1) lit. a)-c) , alin. (2) și alin. (3) , și se sancționează după cum urmează: a) amendă de la 50.000 lei la 500.000 lei pentru contravențiile săvârșite de persoane juridice; b) amendă de la 5.500 lei la 11.000 lei pentru contravențiile săvârșite de persoane fizice. (2) În cazul în care persoanele fizice sau juridice recunosc, în mod expres, săvârșirea practicilor de concurență neloială prevăzute la art. 2 , care afectează interesul public, în termen de 30 de zile de la comunicarea concluziilor rezultate în urma cercetării aprofundate, termen acordat pentru exprimarea punctului de vedere cu privire la faptele imputate, autoritatea de concurență poate aplica o reducere a amenzii cu un procent cuprins între 10% și 20% din amenda finală. Termenul acordat pentru exprimarea punctului de vedere cu privire la faptele imputate în cazul contravenției prevăzute la art. 2 alin. (2) și, implicit, pentru recunoașterea faptei este de 7 zile. (3) Exercitarea de către persoanele fizice sau juridice a acțiunii în anulare a deciziei Consiliului Concurenței, în privința aspectelor care fac obiectul recunoașterii, atrage pierderea beneficiului prevăzut la alin. (2) , referitor la reducerea cuantumului amenzii. La solicitarea Consiliului Concurenței, instanța va soluționa acțiunea în anulare înlăturând beneficiul reducerii acordat pentru recunoaștere și va stabili amenda în consecință. (4) Constituie contravenție următoarele fapte săvârșite de către persoane fizice sau juridice: a) furnizarea de informații inexacte, incomplete sau care induc în eroare ori de documente incomplete sau nefurnizarea informațiilor și documentelor solicitate potrivit prevederilor art. 3^4 ; b) furnizarea de informații, documente, înregistrări și evidențe într-o formă incompletă în timpul inspecțiilor desfășurate; c) refuzul nejustificat al întreprinderilor de a se supune inspecțiilor desfășurate potrivit prevederilor art. 3^4 alin. (4) ; d) nerespectarea măsurilor impuse de către Consiliul Concurenței prevăzute la art. 3^1 alin. (8) și (9) . (5) Săvârșirea de către întreprinderi a contravențiilor prevăzute la alin. (4) se sancționează cu amendă de la 10.000 lei la 100.000 lei. În cazul autorităților și instituțiilor publice amenda va fi stabilită în intervalul de 5.000 lei-50.000 lei. (6) Săvârșirea de către persoanele fizice a contravențiilor prevăzute la alin. (4) se sancționează cu amendă de la 600 lei la 2.500 lei. (7) În cazul nerespectării măsurilor prevăzute la art. 3^1 alin. (8) și (9) , Consiliul Concurenței poate obliga persoanele juridice la plata unor amenzi cominatorii în cuantum de 5.000 lei, pentru fiecare zi de întârziere. În cazul persoanelor fizice amenda cominatorie este în sumă de 500 lei pentru fiecare zi de întârziere. (la 20-07-2022, Articolul 4 a fost modificat de Punctul 8, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
+    },
+    {
+      "provision_ref": "Art.4^1",
+      "section": "4^1",
+      "title": "Articolul 4^1",
+      "content": "(1) Individualizarea sancțiunilor pentru contravențiile prevăzute la art. 4 se face ținând seama de gravitatea și durata faptei, cu respectarea principiului eficacității, proporționalității și al efectului disuasiv al sancțiunii aplicate. Prin instrucțiuni adoptate de către Consiliul Concurenței se stabilesc și celelalte elemente în funcție de care se face individualizarea sancțiunilor, precum: a) veniturile totale anuale ale întreprinderii realizate pe teritoriul României, veniturile realizate la nivelul unui punct de lucru sau alte tipuri de venituri; b) circumstanțele atenuante și agravante; c) capacitatea întreprinderii de a plăti amenda; d) majorarea specifică pe care o poate stabili Consiliul Concurenței în realizarea efectului disuasiv. (2) Prin excepție de la prevederile art. 13 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, aplicarea sancțiunilor contravenționale prevăzute la art. 4 se prescrie în termen de 3 ani de la data săvârșirii contravențiilor. În cazul contravențiilor continue sau continuate, prescripția începe să curgă de la data încetării ultimului act sau fapt de concurență neloială în cauză. (3) Orice act de procedură întreprins de către Consiliul Concurenței în scopul analizei preliminare sau în scopul cercetării aprofundate a unei încălcări a legii, precum solicitări de informații, în scris, ordin al președintelui Consiliului Concurenței de declanșare a unei cercetări aprofundate, desfășurarea de inspecții, comunicarea concluziilor analizei, întrerupe cursul termenelor de prescripție prevăzute la alin. (2) . Întreruperea termenului de prescripție produce efect de la data comunicării acțiunii întreprinse de către Consiliul Concurenței, făcută către cel puțin o persoană fizică sau juridică care a participat la săvârșirea încălcării legii. (4) Constatarea și sancționarea contravențiilor prevăzute la art. 4 alin. (1) și (4) lit. a) și d) se realizează prin decizie a Consiliului Concurenței, care se comunică potrivit termenului prevăzut la art. 3^1 alin. (10) . (5) Constatarea și sancționarea contravențiilor prevăzute la art. 4 alin. (4) lit. b) și c) se realizează de către inspectorii de concurență, cu excepția inspectorilor de concurență debutanți. (6) Contravențiilor prevăzute de prezenta lege nu li se aplică prevederile art. 22 alin. (2) din Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale. (7) Contravențiilor prevăzute la art. 4 alin. (1) și (4) lit. a) și d) nu li se aplică prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare. (8) Contravențiilor prevăzute la art. 4 alin. (4) lit. b) și c) li se aplică prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor aprobată cu modificările și completările ulterioare, cu excepția art. 5 - 7 , art. 28 alin. (1) și art. 29 . (9) Limitele amenzilor contravenționale prevăzute de prezenta lege poate fi actualizat prin hotărâre a Guvernului, în funcție de rata inflației. (10) Prin derogare de la prevederile art. 32 alin. (1) și art. 34 alin. (2) din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, împotriva proceselor-verbale de constatare a contravențiilor și de aplicare a sancțiunilor prevăzute la art. 4 alin. (4) lit. b) și c) se poate introduce plângere la Judecătoria Sectorului 1 București, în termen de 15 zile de la comunicare. Hotărârea instanței poate fi atacată numai cu apel ce se soluționează de Secția de contencios administrativ și fiscal a Tribunalului București. (la 20-07-2022, Articolul 4^1 a fost modificat de Punctul 9, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
     },
     {
       "provision_ref": "Art.5",
-      "chapter": "Chapter II - Acts of Unfair Competition",
-      "section": "Art.5",
-      "title": "Lawful Acquisition of Trade Secrets",
-      "content": "The acquisition of a trade secret shall be considered lawful when obtained by: a) independent discovery or creation; b) observation, study, disassembly, or testing of a product or object that has been made publicly available or that is lawfully in the possession of the acquirer; c) exercise of the right of workers or workers' representatives to information and consultation in accordance with applicable labour law; d) any other practice which, under the circumstances, is in conformity with honest commercial practices. This provision aligns with Article 3 of Directive (EU) 2016/943."
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Constituie infracțiune și se pedepsește cu închisoare de la 3 luni la 2 ani sau cu amendă: a) folosirea unei firme, embleme sau a unui ambalaj de natură să producă confuzie cu cele folosite legitim de alt comerciant; b) folosirea în scop comercial a rezultatelor unor experimentări sau a altor informații confidențiale în legătură cu acestea, transmise autorităților competente în scopul obținerii autorizațiilor de comercializare a produselor farmaceutice ori a produselor chimice destinate agriculturii, care conțin compuși chimici noi; c) divulgarea, achiziționarea sau utilizarea secretului comercial de către terți, ca rezultat al unei acțiuni de spionaj comercial ori industrial, dacă prin aceasta sunt afectate interesele sau activitatea unei persoane juridice; d) divulgarea sau folosirea secretelor comerciale de către persoane împuternicite de deținătorii legitimi ai acestor secrete pentru a-i reprezenta în fața autorităților publice ori a instituțiilor publice, dacă prin aceasta sunt afectate interesele sau activitatea unei persoane juridice; e) folosirea de către o persoană dintre cele prevăzute la art. 175 alin. (1) din Codul penal a secretelor comerciale de care a luat cunoștință în exercitarea atribuțiilor de serviciu, dacă prin aceasta sunt afectate interesele sau activitatea unei persoane juridice; f) producerea în orice mod, importul, exportul, depozitarea, oferirea spre vânzare ori vânzarea unor mărfuri sau servicii purtând mențiuni false privind brevetele de invenții, brevetele pentru soiuri de plante, mărcile, indicațiile geografice, desenele ori modelele industriale, topografiile de produse semiconductoare, alte tipuri de proprietate intelectuală, cum ar fi aspectul exterior al firmei, designul vitrinelor sau cel vestimentar al personalului, mijloacele publicitare și altele asemenea, originea și caracteristicile mărfurilor, precum și cu privire la numele producătorului sau al comerciantului, în scopul de a-i induce în eroare pe ceilalți comercianți și pe beneficiari. Prin mențiuni false privind originea mărfurilor, în sensul alin. 1 lit. f) , se înțelege orice indicații de natură a face să se creadă că mărfurile au fost produse într-o anumită localitate, într-un anumit teritoriu sau într-un anumit stat. Nu se socotește mențiune falsă privind originea mărfurilor denumirea unui produs al cărui nume a devenit generic și indică în comerț numai natura lui, în afară de cazul în care denumirea este însoțită de o mențiune care ar putea face să se creadă că are acea origine. (la 01-02-2014, Art. 5 a fost modificat de art. 34 din LEGEA nr. 187 din 24 octombrie 2012, publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )"
     },
     {
       "provision_ref": "Art.6",
-      "chapter": "Chapter II - Acts of Unfair Competition",
-      "section": "Art.6",
-      "title": "Employee Obligations",
-      "content": "Employees who have access to trade secrets in the course of their employment shall maintain the confidentiality of such information both during and after the termination of their employment relationship. Non-disclosure and non-competition clauses in employment contracts shall be valid and enforceable to the extent provided by the Labour Code. Employers shall take reasonable measures to inform employees of the confidential nature of trade secrets to which they have access."
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Abrogat. (la 09-08-2014, Art. 6 a fost abrogat de pct. 8 al art. I din ORDONANȚA nr. 12 din 31 iulie 2014, publicată în MONITORUL OFICIAL nr. 586 din 6 august 2014. )"
     },
     {
       "provision_ref": "Art.7",
-      "chapter": "Chapter II - Acts of Unfair Competition",
-      "section": "Art.7",
-      "title": "Whistleblower Protection",
-      "content": "The acquisition, use or disclosure of a trade secret shall be considered lawful to the extent that it is carried out for revealing misconduct, wrongdoing, or illegal activity, provided that the person acted for the purpose of protecting the general public interest. This exception applies to disclosures made to competent authorities and, where appropriate, to the media, in accordance with the applicable legislation on whistleblower protection. This provision aligns with Article 5 of Directive (EU) 2016/943."
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Orice persoană care are un interes legitim privat se poate adresa direct instanțelor de judecată competente pentru încetarea și interzicerea practicilor de concurență neloială, pentru acoperirea prejudiciilor patrimoniale și morale suferite ca urmare a acestora, fără a fi necesară parcurgerea vreunei formalități în fața Consiliului Concurenței. (2) Acțiunile izvorând dintr-o practică de concurență neloială sunt de competența tribunalului locului săvârșirii faptei sau în a cărui rază teritorială se găsește sediul pârâtului; în lipsa unui sediu este competent tribunalul domiciliului pârâtului. (3) În vederea prevenirii unei pagube iminente, instanțele judecătorești competente pot dispune, în procedură de urgență, în cazul în care constată, la o primă evaluare, existența unor practici de concurență neloială, încetarea, respectiv interzicerea acestora până la soluționarea cauzei. (4) Instanța, la cererea reclamantului, poate dispune, pe cheltuiala autorului încălcării, măsura publicării, integrale sau parțiale, a hotărârii judecătorești cu privire la o practică de concurență neloială, într-un ziar de largă circulație, disponibil în format fizic și în format digital. (5) În scopul soluționării pe cale amiabilă a diferendelor dintre părți, izvorând din încălcarea dispozițiilor prezentei legi, și fără a aduce atingere dreptului acestora de a sesiza Consiliul Concurenței, părțile pot recurge la procedura medierii, conform prevederilor Legii nr. 192/2006 privind medierea și organizarea profesiei de mediator, cu modificările și completările ulterioare. (6) Orice încercare de a se ajunge la un acord prin mediere cu privire la soluționarea diferendelor dintre părți nu afectează drepturile acestora de a iniția acțiuni în justiție în orice moment înainte de procesul de mediere, pe parcursul său sau după ce acesta a luat sfârșit. (la 20-06-2022, Articolul 7 a fost modificat de Punctul 10, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
     },
     {
       "provision_ref": "Art.8",
-      "chapter": "Chapter III - Civil Remedies",
-      "section": "Art.8",
-      "title": "Injunctive Relief",
-      "content": "The person whose rights have been infringed by an act of unfair competition may seek injunctive relief before the competent court, including: a) the cessation or prohibition of the unlawful act; b) the prohibition of the manufacture, offering, placing on the market, or use of infringing goods; c) the seizure and, where appropriate, the destruction of infringing goods and materials used for the production of such goods; d) interim and precautionary measures to prevent further damage."
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Acțiunea penală în cazurile prevăzute la art. 5 se pune în mișcare la plângerea prealabilă a persoanei vătămate, la sesizarea camerei de comerț și industrie teritoriale sau a altei organizații profesionale. (la 20-06-2022, Articolul 8 a fost modificat de Punctul 11, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )"
+    },
+    {
+      "provision_ref": "Art.8^1",
+      "section": "8^1",
+      "title": "Articolul 8^1",
+      "content": "(1) În scopul definirii și implementării politicilor publice în domeniul combaterii concurenței neloiale, se constituie Consiliul interinstituțional în domeniul combaterii concurenței neloiale, ca organism nepermanent, în următoarea componență: a) Ministerul Finanțelor Publice; b) autoritatea națională de concurență; c) autoritatea responsabilă de protecția drepturilor în domeniul audiovizualului; d) autoritatea națională pentru protecția consumatorilor; e) autoritatea responsabilă de protecția proprietății industriale; f) autoritatea responsabilă de protecția drepturilor de autor și a drepturilor conexe. (2) Consiliul interinstituțional în domeniul combaterii concurenței neloiale va fi coordonat de Ministerul Finanțelor Publice. (3) Consiliul Concurenței va asigura secretariatul lucrărilor Consiliului interinstituțional în domeniul combaterii concurenței neloiale, prevăzut la alin. (1) . (la 09-08-2014, Art. 8^1 a fost introdus de pct. 9 al art. I din ORDONANȚA nr. 12 din 31 iulie 2014, publicată în MONITORUL OFICIAL nr. 586 din 6 august 2014. )"
+    },
+    {
+      "provision_ref": "Art.8^2",
+      "section": "8^2",
+      "title": "Articolul 8^2",
+      "content": "(1) Anual, Consiliul interinstituțional în domeniul combaterii concurenței neloiale va emite un raport asupra implementării legislației în domeniul combaterii concurenței neloiale, care va fi înaintat Guvernului prin grija Ministerului Finanțelor Publice. (2) Raportul va cuprinde o analiză cu privire la principalele aspecte în materia combaterii concurenței neloiale și propuneri privind politicile publice în domeniu. (la 09-08-2014, Art. 8^2 a fost introdus de pct. 9 al art. I din ORDONANȚA nr. 12 din 31 iulie 2014, publicată în MONITORUL OFICIAL nr. 586 din 6 august 2014. )"
+    },
+    {
+      "provision_ref": "Art.8^3",
+      "section": "8^3",
+      "title": "Articolul 8^3",
+      "content": "Modul de numire a membrilor, rolul, funcționarea și organizarea Consiliul interinstituțional în domeniul combaterii concurenței neloiale vor fi stabilite prin hotărâre a Guvernului, la propunerea Ministerului Finanțelor Publice. (la 09-08-2014, Art. 8^3 a fost introdus de pct. 9 al art. I din ORDONANȚA nr. 12 din 31 iulie 2014, publicată în MONITORUL OFICIAL nr. 586 din 6 august 2014. )"
     },
     {
       "provision_ref": "Art.9",
-      "chapter": "Chapter III - Civil Remedies",
-      "section": "Art.9",
-      "title": "Damages",
-      "content": "The person who has suffered damage as a result of an act of unfair competition shall be entitled to compensation for the damage suffered. The amount of damages shall be determined by the court taking into account: a) the negative economic consequences, including lost profits, which the injured party has suffered; b) the unfair profits made by the infringer; c) where appropriate, elements other than economic factors, such as the moral prejudice caused by the unlawful acquisition, use or disclosure of a trade secret. As an alternative, the court may set the damages as a lump sum based on elements such as the amount of royalties or fees which would have been due had the infringer requested authorisation."
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Abrogat. (la 01-02-2014, Art. 9 a fost abrogat de pct. 3 al art. 27 din LEGEA nr. 255 din 19 iulie 2013 publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
     },
     {
       "provision_ref": "Art.10",
-      "chapter": "Chapter III - Civil Remedies",
-      "section": "Art.10",
-      "title": "Preservation of Confidentiality in Proceedings",
-      "content": "In judicial proceedings concerning the unlawful acquisition, use or disclosure of trade secrets, the courts shall take the measures necessary to preserve the confidentiality of the trade secret. These measures may include: restricting access to documents containing trade secrets; restricting access to hearings; making available a non-confidential version of judicial decisions with trade secret content redacted. This provision aligns with Article 9 of Directive (EU) 2016/943."
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Abrogat. (la 01-02-2014, Art. 10 a fost abrogat de pct. 3 al art. 27 din LEGEA nr. 255 din 19 iulie 2013 publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
     },
     {
       "provision_ref": "Art.11",
-      "chapter": "Chapter III - Civil Remedies",
-      "section": "Art.11",
-      "title": "Limitation Period",
-      "content": "Actions for unfair competition shall be subject to a limitation period of 3 years from the date on which the injured party became aware or should have become aware of the act of unfair competition and the identity of the person who committed it, but no later than 6 years from the date of the act. For continuing acts of unfair competition, the limitation period shall begin to run from the date on which the act ceased."
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Abrogat. (la 01-02-2014, Art. 11 a fost abrogat de pct. 3 al art. 27 din LEGEA nr. 255 din 19 iulie 2013 publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
     },
     {
       "provision_ref": "Art.12",
-      "chapter": "Chapter IV - Administrative and Criminal Sanctions",
-      "section": "Art.12",
-      "title": "Administrative Sanctions",
-      "content": "Acts of unfair competition that do not constitute criminal offences shall be sanctioned with administrative fines from 5,000 to 50,000 RON. The fines shall be applied by the Competition Council or, for consumer-related infringements, by the National Authority for Consumer Protection. The sanctions shall be proportionate and dissuasive."
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Abrogat. (la 01-02-2014, Art. 12 a fost abrogat de pct. 3 al art. 27 din LEGEA nr. 255 din 19 iulie 2013 publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
     },
     {
       "provision_ref": "Art.13",
-      "chapter": "Chapter IV - Administrative and Criminal Sanctions",
-      "section": "Art.13",
-      "title": "Criminal Penalties",
-      "content": "The following acts shall constitute criminal offences: a) the use of a commercial or industrial secret, acquired by unlawful means, if the act causes damage — punishable by imprisonment from 6 months to 2 years or by a fine; b) the disclosure by a person of a commercial or industrial secret to which they have access by virtue of their employment, knowing that the disclosure will cause damage — punishable by imprisonment from 3 months to 2 years or by a fine; c) causing confusion with a competitor's products or services, where committed with intent — punishable by imprisonment from 3 months to 1 year or by a fine."
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Abrogat. (la 01-02-2014, Art. 13 a fost abrogat de pct. 3 al art. 27 din LEGEA nr. 255 din 19 iulie 2013 publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
     },
     {
       "provision_ref": "Art.14",
-      "chapter": "Chapter IV - Administrative and Criminal Sanctions",
-      "section": "Art.14",
-      "title": "Publication of Judgments",
-      "content": "The court may order the publication of the judgment, at the expense of the infringer, in one or more national or local newspapers, and on the website of the infringer, where appropriate. The publication shall contain the main findings of the court and the sanctions applied. This measure aims to restore the reputation of the injured party and to deter future unfair competition acts."
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Abrogat. (la 09-08-2014, Art. 14 a fost abrogat de pct. 10 al art. I din ORDONANȚA nr. 12 din 31 iulie 2014, publicată în MONITORUL OFICIAL nr. 586 din 6 august 2014. )"
     },
     {
       "provision_ref": "Art.15",
-      "chapter": "Chapter V - Competition Council Powers",
-      "section": "Art.15",
-      "title": "Competition Council Role",
-      "content": "The Competition Council shall investigate and sanction acts of unfair competition in accordance with this law and the Competition Law. The Competition Council may conduct investigations, request information and documents, carry out inspections, and impose sanctions. The decisions of the Competition Council may be challenged before the competent administrative court."
-    },
-    {
-      "provision_ref": "Art.16",
-      "chapter": "Chapter V - Competition Council Powers",
-      "section": "Art.16",
-      "title": "Cooperation with EU Authorities",
-      "content": "The Competition Council shall cooperate with the European Commission and the competition authorities of other Member States in the investigation and sanctioning of unfair competition acts having cross-border effects. The exchange of information between the Competition Council and EU authorities shall be carried out in accordance with applicable EU legislation, including Regulation (EC) 1/2003."
-    },
-    {
-      "provision_ref": "Art.17",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.17",
-      "title": "Relationship with Trade Secrets Directive",
-      "content": "The provisions of this law relating to the protection of trade secrets shall be interpreted in accordance with Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure. Where the provisions of this law differ from the requirements of the Directive, the provisions offering greater protection shall prevail."
-    },
-    {
-      "provision_ref": "Art.18",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.18",
-      "title": "Implementing Regulations",
-      "content": "The Government shall adopt implementing regulations as necessary for the application of this law. Professional associations and chambers of commerce may adopt codes of conduct and good practice guidelines complementing the provisions of this law."
-    },
-    {
-      "provision_ref": "Art.19",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.19",
-      "title": "International Application",
-      "content": "This law shall apply to acts of unfair competition committed on the territory of Romania, regardless of the nationality or domicile of the perpetrator. Acts of unfair competition committed abroad that produce effects on the Romanian market shall also fall under the scope of this law, in accordance with applicable conflict of laws rules."
-    },
-    {
-      "provision_ref": "Art.20",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.20",
-      "title": "Entry into Force",
-      "content": "This law shall enter into force on the date of its publication in Monitorul Oficial al României. Any contrary provisions shall be repealed."
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Prezenta lege intră în vigoare la data publicării ei în Monitorul Oficial al României."
     }
   ],
   "definitions": [
     {
-      "term": "Trade secret",
-      "definition": "Information which is not generally known or readily accessible, has commercial value because it is secret, and has been subject to reasonable steps to keep it secret by the person lawfully in control of the information.",
+      "term": "concurență loială",
+      "definition": "situația de piață în care fiecare întreprindere încearcă să obțină vânzări, profit și/sau cotă de piață, oferind cea mai bună combinație practică de prețuri, calitate și servicii conexe, cu respectarea uzanțelor cinstite și a principiului general al bunei-credințe",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "practici comerciale",
+      "definition": "acțiunea, omisiunea, demersul sau comunicarea comercială a unei întreprinderi, realizată în legătură directă cu producerea, furnizarea, promovarea și comercializarea unui produs sau a unui serviciu",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "uzanțe cinstite",
+      "definition": "ansamblu de practici sau reguli general recunoscute care se aplică în relațiile comerciale dintre întreprinderi, în scopul prevenirii încălcării drepturilor și intereselor legitime private ale acestora",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "poziție superioară de negociere",
+      "definition": "situația în care se află o întreprindere care nu deține o poziție dominantă conform prevederilor art. 6 alin. (3) din Legea concurenței nr",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "secret comercial",
+      "definition": "informațiile care îndeplinesc cumulativ următoarele cerințe: 1",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "deținătorul secretului comercial",
+      "definition": "orice persoană fizică sau juridică care deține controlul legal asupra unui secret comercial",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "întreprindere",
+      "definition": "definită conform art. 2 alin. (2) din Legea concurenței nr. 21/1996, republicată , cu modificările și completările ulterioare",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "angajat",
+      "definition": "persoană fizică ce a avut sau are calitatea de salariat, reprezentant sau colaborator extern al unei întreprinderi",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "sesizare",
+      "definition": "petiție/reclamație formulată în scris de către o persoană fizică sau juridică având ca obiect posibile practici de concurență neloială",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "informații confidențiale",
+      "definition": "orice informații, altele decât secretele comerciale, a căror dezvăluire neautorizată este de natură să producă daune unei întreprinderi. (la 20-06-2022, Articolul 1^1 a fost modificat de Punctul 2, Articolul 5, Capitolul II din ORDONANȚA DE URGENȚĂ nr. 84 din 16 iunie 2022, publicată în MONITORUL OFICIAL nr. 601 din 20 iunie 2022 )",
+      "source_provision": "Art.1^1"
+    },
+    {
+      "term": "orice alte practici comerciale care contravin uzanțelor cinstite și principiului general al bunei",
+      "definition": "credințe și care produc sau pot produce pagube concurenților",
       "source_provision": "Art.2"
     },
     {
-      "term": "Unfair competition",
-      "definition": "Any act or practice contrary to honest commercial practices which damages or is capable of damaging a competitor or the competitive environment.",
-      "source_provision": "Art.2"
-    },
-    {
-      "term": "Honest commercial practices",
-      "definition": "Conduct conforming to the usages observed by businesspersons carrying on activity in the same field of commerce.",
-      "source_provision": "Art.2"
+      "term": ", se înțelege orice indicații de natură a face să se creadă că mărfurile au fost produse într",
+      "definition": "o anumită localitate, într-un anumit teritoriu sau într-un anumit stat. Nu se socotește mențiune falsă privind originea mărfurilor denumirea unui produs al cărui nume a devenit generic și indică în comerț numai natura lui, în afară de cazul în care denumirea este însoțită de o mențiune care ar putea face să se creadă că are acea origine. (la 01-02-2014, Art. 5 a fost modificat de art. 34 din LEGEA nr. 187 din 24 octombrie 2012, publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )",
+      "source_provision": "Art.5"
     }
   ]
 }

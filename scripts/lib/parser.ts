@@ -1,37 +1,11 @@
-/**
- * HTML parser for Romanian legislation from the Sejm ELI API (api.sejm.gov.pl).
- *
- * Parses the structured HTML served by the ELI text endpoint into seed JSON.
- * The HTML structure uses:
- *
- * - <div class="unit unit_chpt" id="chpt_N"> for chapters (Rozdział)
- * - <div class="unit unit_arti" id="chpt_N-arti_M"> for articles (Art.)
- * - <h3> inside articles for article number (Art. N.)
- * - <div class="unit unit_pass"> for numbered paragraphs (ustępy)
- * - <div class="unit unit_pint"> for numbered points (punkty)
- * - <div data-template="xText" class="pro-text"> for text content
- *
- * Romanian legislation references: Dz.U. YYYY poz. NNNN
- * API endpoint: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-
-export interface ActIndexEntry {
+export interface LawTarget {
   id: string;
-  title: string;
-  titleEn: string;
-  shortName: string;
+  seedFile: string;
+  documentId: number;
+  title_en: string;
+  short_name: string;
   status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issuedDate: string;
-  inForceDate: string;
-  /** ISAP display address, e.g. "Dz.U. 2018 poz. 1000" */
-  dziennikRef: string;
-  /** Year of publication in Dziennik Ustaw */
-  year: number;
-  /** Position number (poz.) in Dziennik Ustaw */
-  poz: number;
-  /** Human-readable URL on ISAP */
-  url: string;
-  description?: string;
+  description: string;
 }
 
 export interface ParsedProvision {
@@ -48,401 +22,488 @@ export interface ParsedDefinition {
   source_provision?: string;
 }
 
-export interface ParsedAct {
+export interface ParsedLaw {
   id: string;
   type: 'statute';
   title: string;
   title_en: string;
   short_name: string;
   status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issued_date: string;
-  in_force_date: string;
+  issued_date?: string;
+  in_force_date?: string;
   url: string;
-  description?: string;
+  description: string;
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
 }
 
-/**
- * Strip HTML tags and decode common entities, normalising whitespace.
- */
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&shy;/g, '')
+export const TARGET_LAWS: LawTarget[] = [
+  {
+    id: 'law-11-1991',
+    seedFile: 'law-11-1991-unfair-competition.json',
+    documentId: 1440,
+    title_en: 'Law No. 11/1991 on Combating Unfair Competition',
+    short_name: 'Legea concurentei neloiale',
+    status: 'in_force',
+    description:
+      'Core unfair-competition law, including anti-confusion, trade secret protections, and sanctions for unfair commercial practices.',
+  },
+  {
+    id: 'law-190-2018',
+    seedFile: 'law-190-2018-gdpr.json',
+    documentId: 203151,
+    title_en: 'Law No. 190/2018 Implementing GDPR',
+    short_name: 'Legea GDPR',
+    status: 'in_force',
+    description:
+      'Romanian GDPR implementation law setting national rules on processing contexts, supervisory powers, and sanctions.',
+  },
+  {
+    id: 'law-242-2022',
+    seedFile: 'law-242-2022-digital-interoperability.json',
+    documentId: 257856,
+    title_en: 'Law No. 242/2022 on Data Exchange and National Interoperability Platform',
+    short_name: 'Legea interoperabilitatii',
+    status: 'in_force',
+    description:
+      'Framework for administrative interoperability and data exchange between public-sector information systems.',
+  },
+  {
+    id: 'law-286-2009-cyber',
+    seedFile: 'law-286-2009-criminal-code-cyber.json',
+    documentId: 109855,
+    title_en: 'Criminal Code (Law No. 286/2009)',
+    short_name: 'Codul penal',
+    status: 'in_force',
+    description:
+      'Romanian Criminal Code, including cybercrime-relevant offences (e.g., unauthorized access and system-related crimes).',
+  },
+  {
+    id: 'law-362-2018',
+    seedFile: 'law-362-2018-cybersecurity.json',
+    documentId: 209670,
+    title_en: 'Law No. 362/2018 on a High Common Level of Network and Information Systems Security',
+    short_name: 'Legea NIS',
+    status: 'in_force',
+    description:
+      'Romania NIS implementation law on cybersecurity obligations, incident reporting, and competent authorities.',
+  },
+  {
+    id: 'law-365-2002',
+    seedFile: 'law-365-2002-ecommerce.json',
+    documentId: 77218,
+    title_en: 'Law No. 365/2002 on Electronic Commerce (Republished)',
+    short_name: 'Legea comertului electronic',
+    status: 'in_force',
+    description:
+      'Romania e-commerce framework covering online services, information duties, and intermediary liability provisions.',
+  },
+  {
+    id: 'law-455-2001',
+    seedFile: 'law-455-2001-esignatures.json',
+    documentId: 157828,
+    title_en: 'Law No. 455/2001 on Electronic Signature (Republished)',
+    short_name: 'Legea semnaturii electronice',
+    status: 'in_force',
+    description:
+      'Legal framework for electronic signatures and related trust-service effects in Romanian law.',
+  },
+  {
+    id: 'law-506-2004',
+    seedFile: 'law-506-2004-ecomms-privacy.json',
+    documentId: 56973,
+    title_en: 'Law No. 506/2004 on Privacy in the Electronic Communications Sector',
+    short_name: 'Legea ePrivacy',
+    status: 'in_force',
+    description:
+      'Sectoral communications privacy law on confidentiality, traffic data, and electronic communications processing.',
+  },
+  {
+    id: 'law-544-2001',
+    seedFile: 'law-544-2001-foia.json',
+    documentId: 31413,
+    title_en: 'Law No. 544/2001 on Free Access to Public Interest Information',
+    short_name: 'Legea accesului la informatii',
+    status: 'in_force',
+    description:
+      'Romanian freedom-of-information law establishing access rights, obligations of authorities, and remedies.',
+  },
+  {
+    id: 'oug-98-2010',
+    seedFile: 'oug-98-2010-critical-infrastructure.json',
+    documentId: 123547,
+    title_en:
+      'Emergency Ordinance No. 98/2010 on Identification, Designation and Protection of Critical Infrastructures',
+    short_name: 'OUG infrastructuri critice',
+    status: 'in_force',
+    description:
+      'Critical infrastructure protection framework, including designation criteria and institutional responsibilities.',
+  },
+];
+
+interface HeadingState {
+  part?: string;
+  title?: string;
+  chapter?: string;
+  section?: string;
+}
+
+interface HeadingEvent {
+  pos: number;
+  level: 'part' | 'title' | 'chapter' | 'section';
+  text: string;
+}
+
+const MONTHS_RO: Record<string, string> = {
+  ianuarie: '01',
+  februarie: '02',
+  martie: '03',
+  aprilie: '04',
+  mai: '05',
+  iunie: '06',
+  iulie: '07',
+  august: '08',
+  septembrie: '09',
+  octombrie: '10',
+  noiembrie: '11',
+  decembrie: '12',
+};
+
+const ENTITY_MAP: Record<string, string> = {
+  amp: '&',
+  lt: '<',
+  gt: '>',
+  quot: '"',
+  apos: "'",
+  nbsp: ' ',
+  shy: '',
+};
+
+function decodeHtmlEntities(text: string): string {
+  return text.replace(/&(#x?[0-9a-fA-F]+|[a-zA-Z]+);/g, (_, entity: string) => {
+    if (entity.startsWith('#x') || entity.startsWith('#X')) {
+      const codePoint = parseInt(entity.slice(2), 16);
+      return Number.isFinite(codePoint) ? String.fromCodePoint(codePoint) : _;
+    }
+
+    if (entity.startsWith('#')) {
+      const codePoint = parseInt(entity.slice(1), 10);
+      return Number.isFinite(codePoint) ? String.fromCodePoint(codePoint) : _;
+    }
+
+    return ENTITY_MAP[entity] ?? _;
+  });
+}
+
+function stripTags(html: string): string {
+  return html.replace(/<[^>]+>/g, ' ');
+}
+
+function normalizeWhitespace(text: string): string {
+  return text
     .replace(/\u00a0/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
 
-/**
- * Find the chapter heading (Rozdział) for a given article position.
- * Searches backwards from the article position for the nearest chapter div.
- */
-function findChapterHeading(html: string, articlePos: number): string | undefined {
-  const beforeArticle = html.substring(Math.max(0, articlePos - 10000), articlePos);
-
-  // Look for the last chapter heading: Rozdział N ... Title
-  // Pattern in ISAP HTML: <div class="unit unit_chpt"...> <h3> Rozdział N ... Title </h3>
-  const chapterMatches = [
-    ...beforeArticle.matchAll(/Rozdzia[łl]\s*&nbsp;\s*(\d+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (chapterMatches.length > 0) {
-    const last = chapterMatches[chapterMatches.length - 1];
-    const chapterNum = last[1].trim();
-    // Try to find the title in subsequent <P> or <SPAN> tags
-    const afterChapter = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterChapter.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Rozdział ${chapterNum} - ${title}`
-      : `Rozdział ${chapterNum}`;
-  }
-
-  // Also check for Dział (Division) used in larger codes
-  const dzialMatches = [
-    ...beforeArticle.matchAll(/Dzia[łl]\s*&nbsp;\s*([IVXLCDM]+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (dzialMatches.length > 0) {
-    const last = dzialMatches[dzialMatches.length - 1];
-    const dzialNum = last[1].trim();
-    const afterDzial = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterDzial.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Dział ${dzialNum} - ${title}`
-      : `Dział ${dzialNum}`;
-  }
-
-  return undefined;
+function cleanHtmlText(html: string): string {
+  return normalizeWhitespace(decodeHtmlEntities(stripTags(html)));
 }
 
-/**
- * Parse HTML from the Sejm ELI API (api.sejm.gov.pl/eli/acts/DU/YYYY/POZ/text.html)
- * to extract provisions from a Romanian statute.
- *
- * The HTML uses div-based structure:
- *   <div class="unit unit_arti" id="chpt_N-arti_M" data-id="arti_M">
- *     <h3><B>Art. M.</B></h3>
- *     <div class="unit-inner">
- *       <div class="unit unit_pass">
- *         <h3>1.</h3>
- *         <div class="unit-inner">
- *           <div data-template="xText">...content...</div>
- *         </div>
- *       </div>
- *     </div>
- *   </div>
- */
-export function parseRomanianHtml(html: string, act: ActIndexEntry): ParsedAct {
-  const provisions: ParsedProvision[] = [];
+function parseRomanianDate(text: string): string | undefined {
+  const match = text.match(/(\d{1,2})\s+([a-zăâîșţț]+)\s+(\d{4})/iu);
+  if (!match) return undefined;
+
+  const day = match[1].padStart(2, '0');
+  const monthName = match[2].toLowerCase();
+  const year = match[3];
+  const month = MONTHS_RO[monthName];
+  if (!month) return undefined;
+
+  return `${year}-${month}-${day}`;
+}
+
+function extractConsolidatedForm(html: string): string {
+  const start = html.indexOf('<div id="div_Formaconsolidata"');
+  if (start < 0) {
+    throw new Error('Could not locate consolidated form container (div_Formaconsolidata).');
+  }
+
+  const end = html.indexOf('<div id="div_Formerepublicate"', start);
+  if (end < 0) {
+    return html.slice(start);
+  }
+
+  return html.slice(start, end);
+}
+
+function extractBalancedSpan(html: string, start: number): { value: string; end: number } | null {
+  if (start < 0 || start >= html.length || !html.startsWith('<span', start)) {
+    return null;
+  }
+
+  const tokenRegex = /<\/?span\b[^>]*>/gi;
+  tokenRegex.lastIndex = start;
+
+  let depth = 0;
+  let end = -1;
+
+  let token = tokenRegex.exec(html);
+  while (token) {
+    const raw = token[0];
+    const isClosing = raw.startsWith('</');
+    const isSelfClosing = /\/>\s*$/.test(raw);
+
+    if (isClosing) {
+      depth -= 1;
+      if (depth === 0) {
+        end = tokenRegex.lastIndex;
+        break;
+      }
+    } else if (!isSelfClosing) {
+      depth += 1;
+    }
+
+    token = tokenRegex.exec(html);
+  }
+
+  if (end < 0) return null;
+
+  return { value: html.slice(start, end), end };
+}
+
+function extractClassSpanInnerHtml(html: string, className: string): string | undefined {
+  const classRegex = new RegExp(`<span class=\"[^\"]*\\b${className}\\b[^\"]*\"[^>]*>`, 'i');
+  const startMatch = classRegex.exec(html);
+  if (!startMatch || startMatch.index === undefined) {
+    return undefined;
+  }
+
+  const absoluteStart = startMatch.index;
+  const balanced = extractBalancedSpan(html, absoluteStart);
+  if (!balanced) return undefined;
+
+  return balanced.value
+    .replace(/^<span\b[^>]*>/i, '')
+    .replace(/<\/span>\s*$/i, '');
+}
+
+function normalizeArticleContent(bodyHtml: string): string {
+  let text = bodyHtml;
+
+  text = text.replace(/<!--[^]*?-->/g, ' ');
+  text = text.replace(/<span[^>]*class=\"[^\"]*TAG_COLLAPSED[^\"]*\"[^>]*>[^]*?<\/span>/gi, ' ');
+  text = text.replace(/<span[^>]*class=\"[^\"]*_SHORT[^\"]*\"[^>]*>[^]*?<\/span>/gi, ' ');
+  text = text.replace(/<br\s*\/?\s*>/gi, '\n');
+  text = text.replace(/<\/p>/gi, '\n');
+
+  const cleaned = decodeHtmlEntities(stripTags(text));
+  const lines = cleaned
+    .split('\n')
+    .map(line => normalizeWhitespace(line))
+    .filter(line => line.length > 0);
+
+  return normalizeWhitespace(lines.join(' '));
+}
+
+function parseSectionFromTitle(title: string, fallbackIndex: number): string {
+  const patterns = [
+    /Articolul\s+([0-9]+(?:\^[0-9]+)?[A-Za-z]?)/i,
+    /Art\.\s*([0-9]+(?:\^[0-9]+)?[A-Za-z]?)/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = title.match(pattern);
+    if (match?.[1]) {
+      return match[1].replace(/\s+/g, '');
+    }
+  }
+
+  return String(fallbackIndex);
+}
+
+function parseHeadingEvents(html: string): HeadingEvent[] {
+  const events: HeadingEvent[] = [];
+
+  const mappings: Array<{ regex: RegExp; level: HeadingEvent['level']; denClass: string }> = [
+    { regex: /<span class=\"[^\"]*S_PRT_TTL[^\"]*\"[^>]*>/gi, level: 'part', denClass: 'S_PRT_DEN' },
+    { regex: /<span class=\"[^\"]*S_TTL_TTL[^\"]*\"[^>]*>/gi, level: 'title', denClass: 'S_TTL_DEN' },
+    { regex: /<span class=\"[^\"]*S_CAP_TTL[^\"]*\"[^>]*>/gi, level: 'chapter', denClass: 'S_CAP_DEN' },
+    { regex: /<span class=\"[^\"]*S_SEC_TTL[^\"]*\"[^>]*>/gi, level: 'section', denClass: 'S_SEC_DEN' },
+  ];
+
+  for (const { regex, level, denClass } of mappings) {
+    let match = regex.exec(html);
+    while (match) {
+      const openStart = match.index;
+      const ttlBlock = extractBalancedSpan(html, openStart);
+      if (ttlBlock) {
+        const ttlText = cleanHtmlText(ttlBlock.value);
+
+        const windowEnd = Math.min(html.length, ttlBlock.end + 1200);
+        const trailing = html.slice(ttlBlock.end, windowEnd);
+        const denRegex = new RegExp(`<span class=\"[^\"]*${denClass}[^\"]*\"[^>]*>([\\s\\S]*?)<\\/span>`, 'i');
+        const denMatch = denRegex.exec(trailing);
+        const denText = denMatch ? cleanHtmlText(denMatch[1]) : '';
+
+        const text = [ttlText, denText].filter(Boolean).join(' - ');
+        if (text) {
+          events.push({ pos: openStart, level, text });
+        }
+      }
+
+      match = regex.exec(html);
+    }
+  }
+
+  return events.sort((a, b) => a.pos - b.pos);
+}
+
+function buildHeadingAtPosition(events: HeadingEvent[], pos: number): HeadingState {
+  const state: HeadingState = {};
+
+  for (const event of events) {
+    if (event.pos >= pos) break;
+    if (event.level === 'part') state.part = event.text;
+    if (event.level === 'title') state.title = event.text;
+    if (event.level === 'chapter') state.chapter = event.text;
+    if (event.level === 'section') state.section = event.text;
+  }
+
+  return state;
+}
+
+function headingToString(heading: HeadingState): string | undefined {
+  const parts = [heading.part, heading.title, heading.chapter, heading.section].filter(Boolean);
+  if (parts.length === 0) return undefined;
+  return parts.join(' | ');
+}
+
+function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
   const definitions: ParsedDefinition[] = [];
+  const seen = new Set<string>();
 
-  // Match all article divs: <div class="unit unit_arti ..." id="...-arti_N" data-id="arti_N">
-  const articleRegex = /<div[^>]*class="unit unit_arti[^"]*"[^>]*id="([^"]*-)?arti_(\d+[a-z_]*)"[^>]*data-id="arti_(\d+[a-z_]*)"[^>]*>/gi;
-  const articleStarts: { fullId: string; artNum: string; pos: number }[] = [];
+  for (const provision of provisions) {
+    const contentLower = provision.content.toLowerCase();
+    if (!/(în sensul|se înțelege|reprezintă|în înțelesul)/i.test(contentLower)) {
+      continue;
+    }
 
-  let match: RegExpExecArray | null;
-  while ((match = articleRegex.exec(html)) !== null) {
-    // Skip nested articles inside amendment provisions (chpt_12-arti_111-arti_22_2 etc.)
-    const fullId = match[0];
-    const idAttr = fullId.match(/id="([^"]+)"/)?.[1] ?? '';
-    // Count how many "arti_" segments appear in the ID
-    const artiSegments = (idAttr.match(/arti_/g) ?? []).length;
-    if (artiSegments > 1) continue;
+    const letterPattern = /([a-z])\)\s*([^;:.]{2,120}?)\s*(?:-|–|:)\s*([^;]{8,500})(?=;\s*[a-z]\)|\.|$)/gi;
+    let letterMatch = letterPattern.exec(provision.content);
+    while (letterMatch) {
+      const term = normalizeWhitespace(letterMatch[2]);
+      const definition = normalizeWhitespace(letterMatch[3]);
+      const key = term.toLowerCase();
 
-    articleStarts.push({
-      fullId: idAttr,
-      artNum: match[3],
-      pos: match.index,
+      if (term.length > 1 && definition.length > 8 && !seen.has(key)) {
+        definitions.push({ term, definition, source_provision: provision.provision_ref });
+        seen.add(key);
+      }
+
+      letterMatch = letterPattern.exec(provision.content);
+    }
+
+    const quotedPattern = /[„\"]([^\"”]+)[\"”]\s*(?:-|–|:)\s*([^;.]{8,500})(?=[.;]|$)/g;
+    let quotedMatch = quotedPattern.exec(provision.content);
+    while (quotedMatch) {
+      const term = normalizeWhitespace(quotedMatch[1]);
+      const definition = normalizeWhitespace(quotedMatch[2]);
+      const key = term.toLowerCase();
+
+      if (term.length > 1 && definition.length > 8 && !seen.has(key)) {
+        definitions.push({ term, definition, source_provision: provision.provision_ref });
+        seen.add(key);
+      }
+
+      quotedMatch = quotedPattern.exec(provision.content);
+    }
+  }
+
+  return definitions;
+}
+
+function parseProvisions(html: string): ParsedProvision[] {
+  const provisions: ParsedProvision[] = [];
+  const headingEvents = parseHeadingEvents(html);
+
+  const articleStartRegex = /<span class=\"[^\"]*\bS_ART\b[^\"]*\"[^>]*id=\"id_art[^\"]*\"[^>]*>/gi;
+  const starts: number[] = [];
+  let startMatch = articleStartRegex.exec(html);
+  while (startMatch) {
+    starts.push(startMatch.index);
+    startMatch = articleStartRegex.exec(html);
+  }
+
+  for (let i = 0; i < starts.length; i += 1) {
+    const start = starts[i];
+    const end = i + 1 < starts.length ? starts[i + 1] : html.length;
+    const articleChunk = html.slice(start, end);
+
+    const titleHtml = extractClassSpanInnerHtml(articleChunk, 'S_ART_TTL');
+    if (!titleHtml) continue;
+
+    const denHtml = extractClassSpanInnerHtml(articleChunk, 'S_ART_DEN');
+    const articleTitle = cleanHtmlText(titleHtml);
+    const articleDen = denHtml ? cleanHtmlText(denHtml) : '';
+    const fullTitle = [articleTitle, articleDen].filter(Boolean).join(' - ');
+
+    const bodyStartMatch = /<span class=\"[^\"]*S_ART_BDY[^\"]*\"[^>]*>/i.exec(articleChunk);
+    if (!bodyStartMatch || bodyStartMatch.index === undefined) continue;
+
+    const bodySpan = extractBalancedSpan(articleChunk, bodyStartMatch.index);
+    if (!bodySpan) continue;
+
+    const bodyInnerHtml = bodySpan.value
+      .replace(/^<span\b[^>]*>/i, '')
+      .replace(/<\/span>\s*$/i, '');
+
+    const content = normalizeArticleContent(bodyInnerHtml);
+    if (!content) continue;
+
+    const section = parseSectionFromTitle(articleTitle, i + 1);
+    const heading = buildHeadingAtPosition(headingEvents, start);
+
+    provisions.push({
+      provision_ref: `Art.${section}`,
+      chapter: headingToString(heading),
+      section,
+      title: fullTitle || `Articolul ${section}`,
+      content,
     });
   }
 
-  for (let i = 0; i < articleStarts.length; i++) {
-    const article = articleStarts[i];
-    const startPos = article.pos;
+  return provisions;
+}
 
-    // Extract content up to next article or end
-    const endPos = i + 1 < articleStarts.length
-      ? articleStarts[i + 1].pos
-      : html.length;
-    const articleHtml = html.substring(startPos, endPos);
+export function parseRomanianLawHtml(rawHtml: string, target: LawTarget): ParsedLaw {
+  const html = extractConsolidatedForm(rawHtml);
+  const denHtml = extractClassSpanInnerHtml(html, 'S_DEN');
+  if (!denHtml) {
+    throw new Error(`Could not extract law title (S_DEN) for ${target.id}`);
+  }
 
-    // Extract article number from <h3><B>Art. N.</B></h3> or <h3><B>Art. N<sup>...</B></h3>
-    const artHeadingMatch = articleHtml.match(
-      /<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*(\d+[a-z]*)\b/i
-    );
+  const title = cleanHtmlText(denHtml);
+  const issuedDate = parseRomanianDate(title);
+  const provisions = parseProvisions(html);
+  const definitions = extractDefinitions(provisions);
 
-    const artNum = artHeadingMatch
-      ? artHeadingMatch[1].trim()
-      : article.artNum.replace(/_/g, '');
-
-    // Normalize: remove underscores from article numbers like "22_2"
-    const normalizedNum = artNum.replace(/_/g, '');
-    const provisionRef = `art${normalizedNum}`;
-
-    // Find chapter heading
-    const chapter = findChapterHeading(html, startPos);
-
-    // Extract text content, stripping HTML
-    // Remove the article heading to avoid duplication
-    const contentHtml = articleHtml
-      .replace(/<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*\d+[a-z]*\.?\s*<\/B>\s*<\/h3>/i, '');
-    let content = stripHtml(contentHtml);
-
-    // Skip very short articles (likely just structural markers)
-    if (content.length < 5) continue;
-
-    // Cap content at 12K characters
-    if (content.length > 12000) {
-      content = content.substring(0, 12000);
-    }
-
-    // Build a title from the first sentence or paragraph if meaningful
-    const title = `Art. ${normalizedNum}`;
-
-    provisions.push({
-      provision_ref: provisionRef,
-      chapter,
-      section: normalizedNum,
-      title,
-      content,
-    });
-
-    // Extract definitions from definition articles
-    // Romanian acts use "ilekroć mowa" (whenever mentioned), "rozumie się przez to"
-    // (this is understood as), or "oznacza" (means)
-    if (
-      content.includes('ilekro') ||
-      content.includes('rozumie si') ||
-      content.includes('oznacza') ||
-      content.includes('nale') && content.includes('rozumie')
-    ) {
-      extractDefinitions(content, provisionRef, definitions);
-    }
+  if (provisions.length === 0) {
+    throw new Error(`No provisions extracted for ${target.id}`);
   }
 
   return {
-    id: act.id,
+    id: target.id,
     type: 'statute',
-    title: act.title,
-    title_en: act.titleEn,
-    short_name: act.shortName,
-    status: act.status,
-    issued_date: act.issuedDate,
-    in_force_date: act.inForceDate,
-    url: act.url,
-    description: act.description,
+    title,
+    title_en: target.title_en,
+    short_name: target.short_name,
+    status: target.status,
+    issued_date: issuedDate,
+    in_force_date: issuedDate,
+    url: `https://legislatie.just.ro/Public/DetaliiDocument/${target.documentId}`,
+    description: target.description,
     provisions,
     definitions,
   };
 }
-
-/**
- * Extract definitions from Romanian legal text.
- *
- * Romanian definitions typically use patterns like:
- *   - "«term» – oznacza ..." ("term" – means ...)
- *   - "N) term – ..." (numbered list of definitions)
- *   - "ilekroć ... mowa o «term» – rozumie się przez to ..."
- */
-function extractDefinitions(
-  text: string,
-  sourceProvision: string,
-  definitions: ParsedDefinition[],
-): void {
-  // Pattern: numbered definitions like "1) term - definition;"
-  const numberedDefRegex = /\d+\)\s+([^–\-]+?)\s+[–\-]\s+(.*?)(?=;\s*\d+\)|$)/g;
-  let defMatch: RegExpExecArray | null;
-
-  while ((defMatch = numberedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/;$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-
-  // Pattern: «quoted term» – definition
-  const quotedDefRegex = /[„«\u201e]([^"»\u201d]+)["\u201d»]\s*[–\-]\s*(.*?)(?=[;.]\s*[„«\u201e]|[;.]\s*$)/g;
-  while ((defMatch = quotedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/[;.]$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-}
-
-/**
- * Pre-configured list of key Romanian Acts to ingest.
- *
- * Source: api.sejm.gov.pl (Sejm ELI API)
- * URL pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * These are the most important Romanian statutes for cybersecurity, data protection,
- * and compliance use cases. References use the Dziennik Ustaw (Journal of Laws)
- * format: Dz.U. YYYY poz. NNNN.
- */
-export const KEY_ROMANIAN_ACTS: ActIndexEntry[] = [
-  {
-    id: 'dpa-2018',
-    title: 'Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych',
-    titleEn: 'Personal Data Protection Act 2018',
-    shortName: 'UODO 2018',
-    status: 'in_force',
-    issuedDate: '2018-05-10',
-    inForceDate: '2018-05-25',
-    dziennikRef: 'Dz.U. 2018 poz. 1000',
-    year: 2018,
-    poz: 1000,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000',
-    description: 'GDPR implementing provisions (RODO); establishes UODO (Urząd Ochrony Danych Osobowych) as the supervisory authority; covers certification, codes of conduct, and administrative penalties',
-  },
-  {
-    id: 'ksc-2018',
-    title: 'Ustawa z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa',
-    titleEn: 'National Cybersecurity System Act 2018 (KSC)',
-    shortName: 'KSC',
-    status: 'in_force',
-    issuedDate: '2018-07-05',
-    inForceDate: '2018-08-28',
-    dziennikRef: 'Dz.U. 2018 poz. 1560',
-    year: 2018,
-    poz: 1560,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560',
-    description: 'NIS Directive implementation; establishes national cybersecurity system with CSIRT teams (CSIRT NASK, CSIRT GOV, CSIRT MON); covers essential services operators and digital service providers',
-  },
-  {
-    id: 'ksh-2000',
-    title: 'Ustawa z dnia 15 września 2000 r. - Kodeks spółek handlowych',
-    titleEn: 'Commercial Companies Code (KSH)',
-    shortName: 'KSH',
-    status: 'in_force',
-    issuedDate: '2000-09-15',
-    inForceDate: '2001-01-01',
-    dziennikRef: 'Dz.U. 2000 nr 94 poz. 1037',
-    year: 2000,
-    poz: 1037,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000940037',
-    description: 'Comprehensive commercial companies law governing partnerships (spółka jawna, komandytowa, etc.) and capital companies (sp. z o.o. and S.A.); corporate governance requirements',
-  },
-  {
-    id: 'kodeks-karny-1997',
-    title: 'Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny',
-    titleEn: 'Criminal Code (Kodeks karny)',
-    shortName: 'KK',
-    status: 'in_force',
-    issuedDate: '1997-06-06',
-    inForceDate: '1998-09-01',
-    dziennikRef: 'Dz.U. 1997 nr 88 poz. 553',
-    year: 1997,
-    poz: 553,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553',
-    description: 'Criminal Code; cybercrime provisions in Art. 267 (unauthorized access), Art. 268 (data destruction), Art. 268a (computer sabotage), Art. 269 (sabotage of critical systems), Art. 269a (DoS), Art. 269b (hacking tools)',
-  },
-  {
-    id: 'e-services-2002',
-    title: 'Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną',
-    titleEn: 'Act on Provision of Electronic Services',
-    shortName: 'E-Services Act',
-    status: 'in_force',
-    issuedDate: '2002-07-18',
-    inForceDate: '2002-10-10',
-    dziennikRef: 'Dz.U. 2002 nr 144 poz. 1204',
-    year: 2002,
-    poz: 1204,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204',
-    description: 'E-Commerce Directive implementation; regulates electronic services, ISP liability, spam prohibition, electronic contracts',
-  },
-  {
-    id: 'telecom-2004',
-    title: 'Ustawa z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne',
-    titleEn: 'Telecommunications Law',
-    shortName: 'PT',
-    status: 'in_force',
-    issuedDate: '2004-07-16',
-    inForceDate: '2004-09-03',
-    dziennikRef: 'Dz.U. 2004 nr 171 poz. 1800',
-    year: 2004,
-    poz: 1800,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041711800',
-    description: 'Telecommunications regulation; data retention, communications security, network integrity obligations, UKE (Office of Electronic Communications) authority',
-  },
-  {
-    id: 'constitution-1997',
-    title: 'Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.',
-    titleEn: 'Constitution of the Republic of Poland',
-    shortName: 'Konstytucja RP',
-    status: 'in_force',
-    issuedDate: '1997-04-02',
-    inForceDate: '1997-10-17',
-    dziennikRef: 'Dz.U. 1997 nr 78 poz. 483',
-    year: 1997,
-    poz: 483,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483',
-    description: 'Supreme law; Art. 47 (privacy), Art. 49 (communication secrecy), Art. 51 (personal data protection), Art. 54 (freedom of expression)',
-  },
-  {
-    id: 'kodeks-cywilny-1964',
-    title: 'Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny',
-    titleEn: 'Civil Code (Kodeks cywilny)',
-    shortName: 'KC',
-    status: 'in_force',
-    issuedDate: '1964-04-23',
-    inForceDate: '1965-01-01',
-    dziennikRef: 'Dz.U. 1964 nr 16 poz. 93',
-    year: 1964,
-    poz: 93,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093',
-    description: 'Core private law; personality rights protection (Art. 23-24), contract law, liability for damages, electronic declarations of intent',
-  },
-  {
-    id: 'banking-law-1997',
-    title: 'Ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe',
-    titleEn: 'Banking Law',
-    shortName: 'PB',
-    status: 'in_force',
-    issuedDate: '1997-08-29',
-    inForceDate: '1998-01-01',
-    dziennikRef: 'Dz.U. 1997 nr 140 poz. 939',
-    year: 1997,
-    poz: 939,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400939',
-    description: 'Banking regulation; banking secrecy obligations, outsourcing of banking activities, IT security requirements for banks, cloud computing provisions',
-  },
-  {
-    id: 'kpa-1960',
-    title: 'Ustawa z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego',
-    titleEn: 'Code of Administrative Procedure (KPA)',
-    shortName: 'KPA',
-    status: 'in_force',
-    issuedDate: '1960-06-14',
-    inForceDate: '1961-01-01',
-    dziennikRef: 'Dz.U. 1960 nr 30 poz. 168',
-    year: 1960,
-    poz: 168,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168',
-    description: 'Administrative procedure code; governs proceedings before UODO (data protection authority), UKE, and other regulators; electronic administration provisions',
-  },
-];

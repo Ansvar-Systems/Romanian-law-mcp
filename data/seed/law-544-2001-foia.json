@@ -1,152 +1,197 @@
 {
   "id": "law-544-2001",
   "type": "statute",
-  "title": "Legea nr. 544/2001 privind liberul acces la informațiile de interes public",
-  "title_en": "Law 544/2001 on free access to public interest information",
-  "short_name": "Freedom of Information Law",
+  "title": "LEGE nr. 544 din 12 octombrie 2001",
+  "title_en": "Law No. 544/2001 on Free Access to Public Interest Information",
+  "short_name": "Legea accesului la informatii",
   "status": "in_force",
   "issued_date": "2001-10-12",
-  "in_force_date": "2001-12-22",
+  "in_force_date": "2001-10-12",
   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31413",
-  "description": "Romania's freedom of information law guaranteeing citizens' right of access to information of public interest held by public authorities and institutions.",
+  "description": "Romanian freedom-of-information law establishing access rights, obligations of authorities, and remedies.",
   "provisions": [
     {
       "provision_ref": "Art.1",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.1",
-      "title": "Right of Access",
-      "content": "The access to information of public interest is guaranteed by this law, in accordance with the principles of transparency and democratic governance. Every person has the right to request and obtain from public authorities and institutions, under the conditions of this law, information of public interest. Public authorities and institutions are obliged to ensure the correct information of citizens on public affairs and on matters of personal interest."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Accesul liber și neîngrădit al persoanei la orice informații de interes public, definite astfel prin prezenta lege, constituie unul dintre principiile fundamentale ale relațiilor dintre persoane și autoritățile publice, în conformitate cu Constituția României și cu documentele internaționale ratificate de Parlamentul României."
     },
     {
       "provision_ref": "Art.2",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.2",
-      "title": "Definitions",
-      "content": "For the purposes of this law: a) information of public interest means any information which refers to or results from the activities of a public authority or institution, regardless of the medium on which it is recorded or the form in which it is expressed; b) public authority or institution means any authority or public institution as well as any autonomous administration operating with public funds; c) classified information means information that, due to the levels of importance and the consequences that unauthorised disclosure or dissemination would cause, must be protected."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În sensul prezentei legi: a) prin autoritate sau instituție publică se înțelege orice autoritate ori instituție publică ce utilizează sau administrează resurse financiare publice, orice regie autonomă, societate reglementată de Legea societăților nr. 31/1990 , republicată, cu modificările și completările ulterioare, aflată sub autoritatea sau, după caz, în coordonarea ori în subordinea unei autorități publice centrale sau locale și la care statul român sau, după caz, o unitate administrativ-teritorială este acționar unic ori majoritar, precum și orice operator sau operator regional, astfel cum aceștia sunt definiți în Legea serviciilor comunitare de utilități publice nr. 51/2006 , republicată, cu modificările și completările ulterioare. De asemenea, se supun prevederilor prezentei legi partidele politice, federațiile sportive și organizațiile neguvernamentale de utilitate publică, care beneficiază de finanțare din bani publici; (la 17-07-2016, Lit. a) a art. 2 a fost modificată de art. unic din LEGEA nr. 144 din 12 iulie 2016 publicată în MONITORUL OFICIAL nr. 528 din 14 iulie 2016. ) b) prin informație de interes public se înțelege orice informație care privește activitățile sau rezulta din activitățile unei autorități publice sau instituții publice, indiferent de suportul ori de forma sau de modul de exprimare a informației; c) prin informație cu privire la datele personale se înțelege orice informație privind o persoana fizică identificată sau identificabilă."
     },
     {
       "provision_ref": "Art.3",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.3",
-      "title": "Transparency Principles",
-      "content": "The right to information is guaranteed. Access to information of public interest shall not be restricted except in cases expressly provided for by law. Public authorities and institutions are obliged to proactively make available to the public certain categories of information of public interest, through their own websites, official publications, and information points."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Asigurarea de către autoritățile și instituțiile publice a accesului la informațiile de interes public se face din oficiu sau la cerere, prin intermediul compartimentului pentru relații publice sau al persoanei desemnate în acest scop."
     },
     {
       "provision_ref": "Art.4",
-      "chapter": "Chapter II - Proactive Disclosure",
-      "section": "Art.4",
-      "title": "Information Disclosed Ex Officio",
-      "content": "Each public authority or institution shall make publicly available, ex officio, the following information: a) normative acts regulating the organisation and operation of the authority; b) the organisational structure, departments, operating schedule, and contact details; c) the names of the persons in management positions and their professional responsibilities; d) the coordination of official information or press relations; e) sources of funding, the budget, and the balance sheet; f) programmes and strategies; g) lists of documents of public interest; h) lists of categories of documents produced or managed by the authority."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Pentru asigurarea accesului oricărei persoane la informațiile de interes public autoritățile și instituțiile publice au obligația de a organiza compartimente specializate de informare și relații publice sau de a desemna persoane cu atribuții în acest domeniu. (2) Atribuțiile, organizarea și funcționarea compartimentelor de relații publice se stabilesc, pe baza dispozițiilor prezentei legi, prin regulamentul de organizare și funcționare a autorității sau instituției publice respective."
     },
     {
       "provision_ref": "Art.5",
-      "chapter": "Chapter II - Proactive Disclosure",
-      "section": "Art.5",
-      "title": "Means of Proactive Disclosure",
-      "content": "The information referred to in Article 4 shall be made available through: a) display at the headquarters of the authority or institution or publication in Monitorul Oficial; b) the media; c) own publications; d) the authority's or institution's website; e) information and documentation centres established within the authority. Each public authority shall designate a spokesperson or a press and public relations office responsible for the proactive disclosure of information."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Fiecare autoritate sau instituție publică are obligația să comunice din oficiu următoarele informații de interes public: a) actele normative care reglementează organizarea și funcționarea autorității sau instituției publice; b) structura organizatorică, atribuțiile departamentelor, programul de funcționare, programul de audiențe al autorității sau instituției publice; c) numele și prenumele persoanelor din conducerea autorității sau a instituției publice și ale funcționarului responsabil cu difuzarea informațiilor publice; d) coordonatele de contact ale autorității sau instituției publice, respectiv: denumirea, sediul, numerele de telefon, fax, adresa de e-mail și adresa paginii de Internet; e) sursele financiare, bugetul și bilanțul contabil; f) programele și strategiile proprii; g) lista cuprinzând documentele de interes public; h) lista cuprinzând categoriile de documente produse și/sau gestionate, potrivit legii; i) modalitățile de contestare a deciziei autorității sau a instituției publice în situația în care persoana se considera vătămată în privința dreptului de acces la informațiile de interes public solicitate. (2) Autoritățile și instituțiile publice au obligația să publice și să actualizeze anual un buletin informativ care va cuprinde informațiile prevăzute la alin. (1) . (3) Autoritățile publice sunt obligate să dea din oficiu publicității un raport periodic de activitate, cel puțin anual, care va fi publicat în Monitorul Oficial al României, Partea a III-a. (la 26-02-2002, Alin. (3) al art. 5 a fost modificat de RECTIFICAREA nr. 544 din 12 octombrie 2001, publicată în MONITORUL OFICIAL nr. 145 din 26 februarie 2002. ) (4) Accesul la informațiile prevăzute la alin. (1) se realizează prin: a) afișare la sediul autorității sau al instituției publice ori prin publicare în Monitorul Oficial al României sau în mijloacele de informare în masă, în publicații proprii, precum și în pagina de Internet proprie; b) consultarea lor la sediul autorității sau al instituției publice, în spatii special destinate acestui scop. (5) Autoritățile și instituțiile publice au obligația să pună la dispoziția persoanelor interesate contractele de privatizare încheiate după intrarea în vigoare a prezentei legi, prin consultarea la sediul acestora. Prevederile de mai sus nu se aplica în cazul contractelor de privatizare care se încadrează în sfera de aplicare a dispozițiilor art. 12 alin. (1) . (la 29-06-2007, Alin. (5) al art. 5 a fost introdus de art. unic din LEGEA nr. 188 din 19 iunie 2007, publicată în MONITORUL OFICIAL nr. 425 din 26 iunie 2007. )"
     },
     {
       "provision_ref": "Art.6",
-      "chapter": "Chapter III - Information on Request",
-      "section": "Art.6",
-      "title": "Information Requests",
-      "content": "Any person has the right to request information of public interest from any public authority or institution, in writing or verbally. The request shall contain sufficient details to identify the information sought. No justification or demonstration of an interest in the requested information shall be required. Public authorities may request the identity of the applicant only where necessary for the purpose of sending the information."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) Orice persoană are dreptul să solicite și să obțină de la autoritățile și instituțiile publice, în condițiile prezentei legi, informațiile de interes public. (2) Autoritățile și instituțiile publice sunt obligate să asigure persoanelor, la cererea acestora, informațiile de interes public solicitate în scris sau verbal. (3) Solicitarea în scris a informațiilor de interes public cuprinde următoarele elemente: a) autoritatea sau instituția publică la care se adresează cererea; b) informația solicitată, astfel încât să permită autorității sau instituției publice identificarea informației de interes public; c) numele, prenumele și semnătura solicitantului, precum și adresa la care se solicită primirea răspunsului."
     },
     {
       "provision_ref": "Art.7",
-      "chapter": "Chapter III - Information on Request",
-      "section": "Art.7",
-      "title": "Response Deadlines",
-      "content": "Public authorities and institutions shall respond to information requests within 10 working days from the date of registration of the request. Where the requested information requires a complex search, the response deadline may be extended to 30 working days, with notification to the applicant within the initial 10-day period. Where the requested information has already been made publicly available, the response shall consist of indicating the source where the information can be found."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Autoritățile și instituțiile publice au obligația să răspundă în scris la solicitarea informațiilor de interes public în termen de 10 zile sau, după caz, în cel mult 30 de zile de la înregistrarea solicitării, în funcție de dificultatea, complexitatea, volumul lucrărilor documentare și de urgența solicitării. În cazul în care durata necesara pentru identificarea și difuzarea informației solicitate depășește 10 zile, răspunsul va fi comunicat solicitantului în maximum 30 de zile, cu condiția înștiințării acestuia în scris despre acest fapt în termen de 10 zile. (2) Refuzul comunicării informațiilor solicitate se motivează și se comunica în termen de 5 zile de la primirea petițiilor. (3) Solicitarea și obținerea informațiilor de interes public se pot realiza, dacă sunt întrunite condițiile tehnice necesare, și în format electronic."
     },
     {
       "provision_ref": "Art.8",
-      "chapter": "Chapter III - Information on Request",
-      "section": "Art.8",
-      "title": "Verbal Information Requests",
-      "content": "The information of public interest requested verbally shall be communicated on the spot. Where the information requested verbally is too complex to be communicated on the spot, the applicant shall be directed to submit a written request. Public authorities shall establish dedicated information points where citizens can make verbal requests and receive information."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Pentru informațiile solicitate verbal funcționării din cadrul compartimentelor de informare și relații publice au obligația să precizeze condițiile și formele în care are loc accesul la informațiile de interes public și pot furniza pe loc informațiile solicitate. (2) În cazul în care informațiile solicitate nu sunt disponibile pe loc, persoana este îndrumată să solicite în scris informația de interes public, urmând ca cererea să îi fie rezolvată în termenele prevăzute la art. 7 . (3) Informațiile de interes public solicitate verbal se comunica în cadrul unui program minim stabilit de conducerea autorității sau instituției publice, care va fi afișat la sediul acesteia și care se va desfășura în mod obligatoriu în timpul funcționării instituției, incluzând și o zi pe săptămână, după programul de funcționare. (4) Activitățile de registratură privind petițiile nu se pot include în acest program și se desfășoară separat. (5) Informațiile de interes public solicitate verbal de către mijloacele de informare în masă vor fi comunicate, de regulă, imediat sau în cel mult 24 de ore."
     },
     {
       "provision_ref": "Art.9",
-      "chapter": "Chapter III - Information on Request",
-      "section": "Art.9",
-      "title": "Costs",
-      "content": "Access to information of public interest is free of charge. Copies of documents containing information of public interest shall be provided upon payment of the cost of reproduction. The fees charged shall not exceed the actual costs of reproduction and shall not constitute an obstacle to the exercise of the right of access to information."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) În cazul în care solicitarea de informații implică realizarea de copii de pe documentele deținute de autoritatea sau instituția publică, costul serviciilor de copiere este suportat de solicitant, în condițiile legii. (2) Dacă în urma informațiilor primite petentul solicită informații noi privind documentele aflate în posesia autorității sau a instituției publice, aceasta solicitare va fi tratată ca o nouă petiție, răspunsul fiind trimis în termenele prevăzute la art. 7 și 8 ."
     },
     {
       "provision_ref": "Art.10",
-      "chapter": "Chapter IV - Exceptions",
-      "section": "Art.10",
-      "title": "Exemptions from Access",
-      "content": "The following categories of information are exempt from free access: a) information classified as state secrets or service secrets, in accordance with the applicable legislation; b) information concerning commercial or financial activities, where disclosure would harm the competitive position or commercial interests of the holder; c) information concerning personal data, the disclosure of which would constitute an infringement of the right to privacy, in accordance with applicable data protection legislation; d) information concerning ongoing judicial proceedings, where disclosure could prejudice the proper administration of justice; e) information concerning ongoing deliberations of the authorities and institutions, where disclosure could prejudice the decision-making process."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Nu este supusă prevederilor art. 7-9 activitatea autorităților și instituțiilor publice de răspunsuri la petiții și de audiente, desfășurată potrivit specificului competentelor acestora, dacă aceasta privește alte aprobări, autorizări, prestări de servicii și orice alte solicitări în afara informațiilor de interes public."
     },
     {
       "provision_ref": "Art.11",
-      "chapter": "Chapter IV - Exceptions",
-      "section": "Art.11",
-      "title": "Public Interest Override",
-      "content": "The right to information shall prevail over the exceptions set out in Article 10 when the public interest in disclosure outweighs the interest protected by the restriction. Public authorities and institutions shall assess, on a case-by-case basis, whether the information requested falls under an exception and whether the public interest in disclosure overrides the restriction."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Persoanele care efectuează studii și cercetări în folos propriu sau în interes de serviciu au acces la fondul documentaristic al autorității sau al instituției publice pe baza solicitării personale, în condițiile legii. (2) Copiile de pe documentele deținute de autoritatea sau de instituția publică se realizează în condițiile art. 9 ."
+    },
+    {
+      "provision_ref": "Art.11^1",
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "11^1",
+      "title": "Articolul 11^1",
+      "content": "Orice autoritate contractantă, astfel cum este definita prin lege, are obligația să pună la dispoziția persoanei fizice sau juridice interesate, în condițiile prevăzute la art. 7 , contractele de achiziții publice. (la 16-10-2006, Art. 11^1 a fost introdus de pct. 1 al art. unic din LEGEA nr. 380 din 5 octombrie 2006, publicată în MONITORUL OFICIAL nr. 846 din 13 octombrie 2006. )"
     },
     {
       "provision_ref": "Art.12",
-      "chapter": "Chapter V - Remedies",
-      "section": "Art.12",
-      "title": "Administrative Complaint",
-      "content": "The applicant who considers that the right of access to information of public interest has been infringed may file an administrative complaint to the head of the public authority or institution within 30 days from the notification of the refusal or from the expiry of the response deadline. The administrative complaint shall be resolved within 15 working days from the date of registration."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) Se exceptează de la accesul liber al cetățenilor, prevăzut la art. 1 și, respectiv, la art. 11^1 , următoarele informații: (la 16-10-2006, Partea introductivă a alin. (1) al art. 12 a fost modificată de pct. 2 al art. unic din LEGEA nr. 380 din 5 octombrie 2006, publicată în MONITORUL OFICIAL nr. 846 din 13 octombrie 2006. ) a) informațiile din domeniul apărării naționale, siguranței și ordinii publice, dacă fac parte din categoriile informațiilor clasificate, potrivit legii; b) informațiile privind deliberările autorităților, precum și cele care privesc interesele economice și politice ale României, dacă fac parte din categoria informațiilor clasificate, potrivit legii; c) informațiile privind activitățile comerciale sau financiare, dacă publicitatea acestora aduce atingere dreptului de proprietate intelectuală ori industrială, precum și principiului concurentei loiale, potrivit legii; (la 14-10-2006, Lit. c) a alin. (1) al art. 12 a fost modificată de pct. 2 al art. unic din LEGEA nr. 371 din 5 octombrie 2006, publicată în MONITORUL OFICIAL nr. 837 din 11 octombrie 2006. ) d) informațiile cu privire la datele personale, potrivit legii; e) informațiile privind procedura în timpul anchetei penale sau disciplinare, dacă se periclitează rezultatul anchetei, se dezvăluie surse confidențiale ori se pun în pericol viața, integritatea corporală, sănătatea unei persoane în urma anchetei efectuate sau în curs de desfășurare; f) informațiile privind procedurile judiciare, dacă publicitatea acestora aduce atingere asigurării unui proces echitabil ori interesului legitim al oricăreia dintre părțile implicate în proces; g) informațiile a căror publicare prejudiciază măsurile de protecție a tinerilor. (2) Răspunderea pentru aplicarea masurilor de protejare a informațiilor aparținând categoriilor prevăzute la alin. (1) revine persoanelor și autorităților publice care dețin astfel de informații, precum și instituțiilor publice abilitate prin lege să asigure securitatea informațiilor."
     },
     {
       "provision_ref": "Art.13",
-      "chapter": "Chapter V - Remedies",
-      "section": "Art.13",
-      "title": "Judicial Remedy",
-      "content": "If the administrative complaint is rejected or if no response is received within the prescribed deadline, the applicant may file an action before the administrative court. The action may be filed within 30 days from the communication of the response to the administrative complaint or from the expiry of the response deadline. The court shall hear the case urgently and may order the public authority to provide the information requested."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Informațiile care favorizează sau ascund încălcarea legii de către o autoritate sau o instituție publică nu pot fi incluse în categoria informațiilor clasificate și constituie informații de interes public."
     },
     {
       "provision_ref": "Art.14",
-      "chapter": "Chapter V - Remedies",
-      "section": "Art.14",
-      "title": "Sanctions",
-      "content": "Failure by public officials to comply with the obligations established by this law shall constitute a disciplinary offence and shall be sanctioned accordingly. Unjustified refusal to provide information of public interest shall be sanctioned with a fine from 500 to 5,000 RON. The failure of the head of the public authority to designate a person responsible for the application of this law shall be sanctioned with a fine from 1,000 to 5,000 RON."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea 1 - Dispoziții comune privind accesul la informațiile de interes public",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) Informațiile cu privire la datele personale ale cetățeanului pot deveni informații de interes public numai în măsura în care afectează capacitatea de exercitare a unei funcții publice. (2) Informațiile publice de interes personal nu pot fi transferate intre autoritățile publice decât în temeiul unei obligații legale ori cu acordul prealabil în scris al persoanei care are acces la acele informații potrivit art. 2 ."
     },
     {
       "provision_ref": "Art.15",
-      "chapter": "Chapter VI - Annual Reporting",
-      "section": "Art.15",
-      "title": "Annual Report",
-      "content": "Each public authority and institution shall prepare an annual report on the implementation of this law, which shall include: the total number of requests received, the number of requests granted and rejected, the categories of information most frequently requested, the response times, and the number of administrative complaints and judicial actions filed. The annual report shall be made public through the authority's website."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "(1) Accesul mijloacelor de informare în masa la informațiile de interes public este garantat. (2) Activitatea de culegere și de difuzare a informațiilor de interes public, desfășurată de mijloacele de informare în masa, constituie o concretizare a dreptului cetățenilor de a avea acces la orice informație de interes public."
     },
     {
       "provision_ref": "Art.16",
-      "chapter": "Chapter VI - Annual Reporting",
-      "section": "Art.16",
-      "title": "Monitoring by the Government",
-      "content": "The Government, through the General Secretariat, shall monitor the implementation of this law by all public authorities and institutions. The General Secretariat shall prepare an annual consolidated report on the implementation of the law, which shall be submitted to the Parliament. The consolidated report shall include statistical data, best practices identified, and recommendations for improving the transparency of public authorities."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Pentru asigurarea accesului mijloacelor de informare în masa la informațiile de interes public autoritățile și instituțiile publice au obligația să desemneze un purtător de cuvânt, de regula din cadrul compartimentelor de informare și relații publice."
     },
     {
       "provision_ref": "Art.17",
-      "chapter": "Chapter VII - Final Provisions",
-      "section": "Art.17",
-      "title": "Relationship with Other Legislation",
-      "content": "This law shall apply without prejudice to the provisions of other laws regulating the classification, protection, and disclosure of specific categories of information. Where other laws establish more favourable conditions for access to information, those provisions shall prevail. The provisions of this law shall be interpreted in favour of the applicant's right of access to information."
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "(1) Autoritățile publice au obligația să organizeze periodic, de regula o data pe luna, conferințe de presa pentru aducerea la cunoștință a informațiilor de interes public. (2) În cadrul conferințelor de presa autoritățile publice sunt obligate să răspundă cu privire la orice informații de interes public."
     },
     {
       "provision_ref": "Art.18",
-      "chapter": "Chapter VII - Final Provisions",
-      "section": "Art.18",
-      "title": "Entry into Force",
-      "content": "This law shall enter into force 60 days from the date of its publication in Monitorul Oficial al României. Within 60 days from the entry into force of this law, public authorities and institutions shall adopt the internal regulations necessary for its application."
-    }
-  ],
-  "definitions": [
-    {
-      "term": "Information of public interest",
-      "definition": "Any information which refers to or results from the activities of a public authority or institution, regardless of the medium on which it is recorded or the form in which it is expressed.",
-      "source_provision": "Art.2"
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "(1) Autoritățile publice au obligația să acorde fără discriminare acreditare ziariștilor și reprezentanților mijloacelor de informare în masa. (2) Acreditarea se acordă la cerere, în termen de doua zile de la înregistrarea acesteia. (3) Autoritățile publice pot refuza acordarea acreditării sau pot retrage acreditarea unui ziarist numai pentru fapte care împiedică desfășurarea normala a activității autorității publice și care nu privesc opiniile exprimate în presă de respectivul ziarist, în condițiile și în limitele legii. (4) Refuzul acordării acreditării și retragerea acreditării unui ziarist se comunică în scris și nu afectează dreptul organismului de presă de a obține acreditarea pentru un alt ziarist."
     },
     {
-      "term": "Classified information",
-      "definition": "Information that, due to the levels of importance and the consequences that unauthorised disclosure or dissemination would cause, must be protected in accordance with applicable security legislation.",
-      "source_provision": "Art.2"
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Autoritățile și instituțiile publice au obligația să informeze în timp util mijloacele de informare în masă asupra conferințelor de presa sau oricăror alte acțiuni publice organizate de acestea. (2) Autoritățile și instituțiile publice nu pot interzice în nici un fel accesul mijloacelor de informare în masă la acțiunile publice organizate de acestea. (3) Autoritățile publice care sunt obligate prin legea proprie de organizare și funcționare să desfășoare activități specifice în prezenta publicului sunt obligate să permită accesul presei la acele activități, în difuzarea materialelor obținute de ziariști urmând să se țină seama doar de deontologia profesională."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul II - Organizarea și asigurarea accesului la informațiile de interes public | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Mijloacele de informare în masa nu au obligația să publice informațiile furnizate de autoritățile sau de instituțiile publice."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul III - Sancțiuni | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "(1) Refuzul explicit sau tacit al angajatului desemnat al unei autorități ori instituții publice pentru aplicarea prevederilor prezentei legi constituie abatere și atrage răspunderea disciplinara a celui vinovat. (2) Împotriva refuzului prevăzut la alin. (1) se poate depune reclamație la conducătorul autorității sau al instituției publice respective în termen de 30 de zile de la luarea la cunoștință de către persoana lezată. (3) Dacă după cercetarea administrativa reclamația se dovedește întemeiată, răspunsul se transmite persoanei lezate în termen de 15 zile de la depunerea reclamației și va conține atât informațiile de interes public solicitate inițial, cât și menționarea sancțiunilor disciplinare luate împotriva celui vinovat."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul III - Sancțiuni | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "(1) În cazul în care o persoana se considera vătămată în drepturile sale, prevăzute în prezenta lege, aceasta poate face plângere la secția de contencios administrativ a tribunalului în a carei raza teritorială domiciliază sau în a carei raza teritorială se afla sediul autorității ori al instituției publice. Plângerea se face în termen de 30 de zile de la data expirării termenului prevăzut la art. 7 . (2) Instanța poate obliga autoritatea sau instituția publică să furnizeze informațiile de interes public solicitate și să plătească daune morale și/sau patrimoniale. (3) Hotărârea tribunalului este supusă recursului. (4) Decizia Curții de apel este definitiva și irevocabilă. (5) Atât plângerea, cât și recursul se judecă în instanță, în procedură de urgență, și sunt scutite de taxă de timbru. (la 02-06-2012, Alin. (5) al art. 22 a fost modificat de art. 42 din LEGEA nr. 76 din 24 mai 2012 publicată în MONITORUL OFICIAL nr. 365 din 30 mai 2012. )"
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "(1) Prezenta lege va intra în vigoare la 60 de zile de la data publicării în Monitorul Oficial al României, Partea I. (2) În termen de 60 de zile de la data publicării prezentei legi în Monitorul Oficial al României, Partea I, Guvernul va elabora, la inițiativa Ministerului Informațiilor Publice, normele metodologice de aplicare a acesteia."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "(1) În termen de 60 de zile de la data intrării în vigoare a prezentei legi Ministerul Informațiilor Publice, Ministerul Comunicațiilor și Tehnologiei Informației și Ministerul Finanțelor Publice vor înainta Guvernului propuneri privind masurile necesare pentru ca informațiile de interes public să devină disponibile în mod progresiv prin intermediul unor baze de date informatizate accesibile publicului la nivel național. (2) Masurile prevăzute la alin. (1) vor privi inclusiv dotarea autorităților și instituțiilor publice cu echipamentele de tehnica de calcul adecvate."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Dispoziții speciale privind accesul mijloacelor de informare în masă la informațiile de interes public",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Pe data intrării în vigoare a prezentei legi se abroga orice prevederi contrare."
     }
-  ]
+  ],
+  "definitions": []
 }

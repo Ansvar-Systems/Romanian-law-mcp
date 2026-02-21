@@ -1,29 +1,29 @@
 /**
- * Rate-limited HTTP client for Romanian legislation from the Sejm ELI API.
+ * Rate-limited HTTP client for Romania's official legal portal.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
+ * Source:
+ *   https://legislatie.just.ro/Public/DetaliiDocument/{documentId}
  *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * - 1200ms minimum delay between requests (government server friendly)
+ * - explicit User-Agent for ingestion provenance
+ * - retries for transient 429/5xx failures
  */
 
-const USER_AGENT = 'Romanian-Law-MCP/1.0 (https://github.com/Ansvar-Systems/romanian-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+const USER_AGENT =
+  'Ansvar-Law-MCP/1.0 (+https://github.com/Ansvar-Systems/Romanian-law-mcp; legal-data-ingestion)';
+const MIN_DELAY_MS = 1200;
 
 let lastRequestTime = 0;
 
-async function rateLimit(): Promise<void> {
+function sleep(ms: number): Promise<void> {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function applyRateLimit(): Promise<void> {
   const now = Date.now();
   const elapsed = now - lastRequestTime;
   if (elapsed < MIN_DELAY_MS) {
-    await new Promise(resolve => setTimeout(resolve, MIN_DELAY_MS - elapsed));
+    await sleep(MIN_DELAY_MS - elapsed);
   }
   lastRequestTime = Date.now();
 }
@@ -31,43 +31,40 @@ async function rateLimit(): Promise<void> {
 export interface FetchResult {
   status: number;
   body: string;
-  contentType: string;
   url: string;
+  contentType: string;
 }
 
-/**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
- */
-export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
-  await rateLimit();
+export async function fetchLegislation(url: string, maxRetries = 3): Promise<FetchResult> {
+  await applyRateLimit();
 
-  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+  for (let attempt = 0; attempt <= maxRetries; attempt += 1) {
     const response = await fetch(url, {
       headers: {
         'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
       },
       redirect: 'follow',
     });
 
+    const body = await response.text();
+
     if (response.status === 429 || response.status >= 500) {
       if (attempt < maxRetries) {
-        const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
-        await new Promise(resolve => setTimeout(resolve, backoff));
+        const backoffMs = (attempt + 1) * 1500;
+        console.log(`  HTTP ${response.status} for ${url}; retrying in ${backoffMs}ms`);
+        await sleep(backoffMs);
         continue;
       }
     }
 
-    const body = await response.text();
     return {
       status: response.status,
       body,
-      contentType: response.headers.get('content-type') ?? '',
       url: response.url,
+      contentType: response.headers.get('content-type') ?? '',
     };
   }
 
-  throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
+  throw new Error(`Unable to fetch ${url} after ${maxRetries + 1} attempts`);
 }

@@ -1,176 +1,224 @@
 {
   "id": "oug-98-2010",
   "type": "statute",
-  "title": "Ordonanța de urgență a Guvernului nr. 98/2010 privind identificarea, desemnarea și protecția infrastructurilor critice",
-  "title_en": "Government Emergency Ordinance 98/2010 on the identification, designation and protection of critical infrastructure",
-  "short_name": "Critical Infrastructure OUG",
+  "title": "ORDONANȚĂ DE URGENȚĂ nr. 98 din 3 noiembrie 2010",
+  "title_en": "Emergency Ordinance No. 98/2010 on Identification, Designation and Protection of Critical Infrastructures",
+  "short_name": "OUG infrastructuri critice",
   "status": "in_force",
   "issued_date": "2010-11-03",
-  "in_force_date": "2010-11-08",
-  "url": "https://legislatie.just.ro/Public/DetaliiDocument/123268",
-  "description": "Romania's transposition of Directive 2008/114/EC on European Critical Infrastructure (ECI), establishing the framework for identifying, designating and protecting national and European critical infrastructures.",
+  "in_force_date": "2010-11-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/123547",
+  "description": "Critical infrastructure protection framework, including designation criteria and institutional responsibilities.",
   "provisions": [
     {
       "provision_ref": "Art.1",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.1",
-      "title": "Scope",
-      "content": "This emergency ordinance establishes the procedure for identifying, designating and protecting critical infrastructures, transposing Directive 2008/114/EC of the Council of 8 December 2008 on the identification and designation of European critical infrastructures and the assessment of the need to improve their protection. This ordinance applies to national critical infrastructure (ICN) and European critical infrastructure (ICE) located on the territory of Romania."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta ordonanță de urgență stabilește cadrul legal privind identificarea, desemnarea infrastructurilor critice naționale/europene și evaluarea necesității de a îmbunătăți protecția acestora, în scopul creșterii capacității de asigurare a stabilității, securității și siguranței sistemelor economico-sociale și protecției persoanelor. (2) Protecția infrastructurilor critice naționale constituie componentă a securității naționale. (la 13-12-2023, Articolul 1, Capitolul I a fost completat de Punctul 1., Articolul I din LEGEA nr. 344 din 10 noiembrie 2023, publicată în MONITORUL OFICIAL nr. 1029 din 13 noiembrie 2023 )"
     },
     {
       "provision_ref": "Art.2",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.2",
-      "title": "Definitions",
-      "content": "For the purposes of this ordinance: a) critical infrastructure means an element, system, or part thereof located on the territory of Romania which is essential for the maintenance of vital societal functions, health, safety, security, economic or social well-being of the population, and the disruption or destruction of which would have a significant impact on Romania; b) European critical infrastructure (ICE) means critical infrastructure located in Romania the disruption or destruction of which would have a significant impact on at least two Member States; c) operator of critical infrastructure means the natural or legal person responsible for the operation and management of a critical infrastructure; d) operator security plan (PSO) means a document identifying the critical infrastructure assets and the security measures implemented for their protection."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Dispozițiile prezentei ordonanțe de urgență se aplică tuturor persoanelor juridice de drept public sau privat care desfășoară activități și furnizează servicii esențiale de interes național în sectoarele și subsectoarele prevăzute în anexa nr. 1 . (la 02-09-2018, Alineatul (1) din Articolul 2 , Capitolul I a fost modificat de Punctul 1, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (2) Prevederile prezentei ordonanțe de urgență se aplică în mod corespunzător sectoarelor stabilite prin directive ale Uniunii Europene."
     },
     {
       "provision_ref": "Art.3",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.3",
-      "title": "Critical Infrastructure Sectors",
-      "content": "Critical infrastructures shall be identified in the following sectors: a) energy (electricity, oil, gas); b) transport (air, rail, water, road); c) information and communication technology; d) water supply; e) food supply; f) health; g) financial services; h) public administration; i) public order and national security; j) industry (chemical, nuclear); k) space. The Government may extend the list of sectors by decision."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În sensul prezentei ordonanțe de urgență, termenii și expresiile de mai jos au următoarea semnificație: a) infrastructură critică națională, denumită în continuare ICN, este atât un element, un sistem sau o componentă a acestuia, aflat pe teritoriul național, care este esențial pentru menținerea funcțiilor vitale ale societății, a sănătății, siguranței, securității, bunăstării sociale ori economice a persoanelor și a cărui perturbare sau distrugere ar avea un impact semnificativ la nivel național ca urmare a incapacității de a menține respectivele funcții, cât și proiectul unui obiectiv strategic de interes național a cărui construcție este imperios necesară pentru salvgardarea interesului național; (la 30-08-2019, Litera a) din Articolul 3 , Capitolul I a fost modificată de Punctul 1, Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 27 august 2019, publicată în MONITORUL OFICIAL nr. 717 din 30 august 2019 ) b) abrogată; (la 02-12-2024, Litera b) , Articolul 3 , Capitolul I a fost abrogată de Punctul 1. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) c) protecția infrastructurilor critice, denumită în continuare PIC - ansamblul unitar de procese și activități organizate și desfășurate în scopul asigurării funcționalității, continuității serviciilor și integrității ICN/ICE pentru a descuraja, diminua și neutraliza o amenințare, un risc sau un punct vulnerabil prin identificarea, implementarea și menținerea măsurilor de securitate, organizatorice, tehnice, procedurale și de altă natură rezultate în urma derulării proceselor de management al riscului. PIC cuprinde, într-o enumerare neexhaustivă, activitățile desfășurate pentru identificarea și desemnarea ICN/ICE, procesele de management de risc, asigurarea protecției informațiilor sensibile specifice domeniului, realizarea planurilor de securitate ale operatorilor de infrastructură critică, denumite în continuare PSO, stabilirea ofițerilor de legătură pentru securitatea ICN/ICE, pregătirea personalului, modul de realizare a comunicării și avertizării timpurii, precum și exerciții, rapoarte, testări ale viabilității PSO, reevaluări și actualizări ale documentelor elaborate; (la 02-09-2018, Litera c) din Articolul 3 , Capitolul I a fost modificată de Punctul 2, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) d) analiză de risc - analizarea scenariilor de amenințări semnificative, pentru a evalua vulnerabilitatea și impactul potențial al perturbării sau al distrugerii ICN/ICE; e) autoritate publică responsabilă - instituție publică desemnată în condițiile prezentei ordonanțe de urgență, care, potrivit competențelor și atribuțiilor legale, răspunde de organizarea și desfășurarea activităților în domeniile corespunzătoare sectoarelor și subsectoarelor de infrastructuri critice prezentate în anexa nr. 1 ; (la 30-08-2019, Litera e) din Articolul 3 , Capitolul I a fost modificată de Punctul 1, Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 27 august 2019, publicată în MONITORUL OFICIAL nr. 717 din 30 august 2019 ) f) proprietari/operatori/administratori de ICN/ICE sunt acele entități responsabile cu investițiile într-un element, sistem sau componentă a acestuia, desemnat ca ICN sau ICE, conform prezentei ordonanțe de urgență, și/sau cu operarea/ administrarea curentă a acestora; g) praguri critice - valori-limită stabilite în funcție de gravitatea impactului, perturbării sau al distrugerii unei infrastructuri și care determină identificarea acesteia ca ICN/ICE; h) Rețeaua de alertă privind infrastructurile critice, denumită în continuare CIWIN - sistem securizat de informare și comunicare destinat asistenței instituțiilor naționale și celorlalte state membre pentru schimbul de informații referitoare la vulnerabilitățile, măsurile adecvate reducerii acestora și strategiile de diminuare a riscurilor; i) informații sensibile privind protecția infrastructurilor criticeinformații cu privire la o infrastructură critică ce ar putea fi utilizate, în cazul divulgării, în scopul planificării și al realizării unor acțiuni care să determine perturbarea sau distrugerea instalațiilor unor infrastructuri critice; j) servicii esențiale - acele servicii, facilități ori activități care sunt sau ar putea fi necesare pentru a asigura un standard minim de trai și bunăstare a societății și a căror degradare sau întrerupere a furnizării lor, ca urmare a perturbării ori distrugerii sistemului fizic de bază, ar afecta semnificativ siguranța sau securitatea populației și funcționarea instituțiilor statului. k) PSO - documentul de planificare la nivel strategic, cu caracter operativ prin procedurile asociate, elaborat pentru fiecare ICN/ICE desemnată și destinat realizării managementului riscurilor de la nivelul ICN/ICE, care definește scopul, obiectivele, cerințele și măsurile de securitate ale acestora; (la 02-09-2018, Articolul 3 din Capitolul I a fost completat de Punctul 3, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) l) reziliența ICN/ICE - capacitatea acesteia de a absorbi șocul inițial, de a se adapta ca urmare a producerii unui hazard sau a unei amenințări și de a-și reveni în urma producerii acestora pentru a asigura în continuare serviciile esențiale ale societății; (la 02-09-2018, Articolul 3 din Capitolul I a fost completat de Punctul 3, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) m) funcții vitale - acele servicii care sunt esențiale pentru funcționarea societății, cum ar fi: managementul afacerilor guvernamentale; activitățile internaționale; apărarea națională; securitatea internă; funcționarea economiei și a infrastructurii; securitatea veniturilor populației și nivelul de trai. (la 02-09-2018, Articolul 3 din Capitolul I a fost completat de Punctul 3, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) n) obiectiv strategic de interes național - element, sistem sau rețea din infrastructura teritorială de orice tip sau de suport tehnic decizional necesar managementului politico-militar al Sistemului securității naționale și menținerii echilibrului societal în ansamblul general al statului român. (la 30-08-2019, Articolul 3 din Capitolul I a fost completat de Punctul 2, Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 27 august 2019, publicată în MONITORUL OFICIAL nr. 717 din 30 august 2019 )"
     },
     {
       "provision_ref": "Art.4",
-      "chapter": "Chapter II - Identification and Designation",
-      "section": "Art.4",
-      "title": "Identification Criteria",
-      "content": "The identification of critical infrastructure shall be based on cross-cutting criteria, including: a) the casualty criterion - assessed in terms of the potential number of fatalities or injuries; b) the economic effects criterion - assessed in terms of the significance of economic loss or degradation of products or services; c) the public effects criterion - assessed in terms of the impact on public confidence, physical suffering and disruption of daily life. Sectoral criteria specific to each sector shall also be applied."
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Coordonarea, la nivel național, a activităților privind identificarea, desemnarea și protecția ICN/ICE se realizează de către prim-ministru, prin consilierul desemnat. În vederea îndeplinirii responsabilităților stabilite prin prezenta ordonanță de urgență prim-ministrul emite decizii. (2) Responsabilitatea pentru organizarea și desfășurarea activităților necesare implementării legislației specifice domeniului PIC revine Ministerului Afacerilor Interne, denumit în continuare M.A.I., prin Centrul Național de Coordonare a Protecției Infrastructurilor Critice, denumit în continuare CNCPIC. (3) M.A.I., prin CNCPIC, asigură planificarea strategică, coordonarea, monitorizarea permanentă și controlul asupra stadiului implementării activităților reglementate prin prezenta ordonanță de urgență, punctul național de contact în relația cu alte state membre ale Uniunii Europene, Comisia Europeană, Organizația Tratatului Atlanticului de Nord și alte organizații și organisme internaționale, precum și managementul rețelei de alertă privind infrastructurile critice - Critical Infrastructure Warning Information Network (CIWIN) la nivel național. (4) Dispozițiile prezentei ordonanțe de urgență referitoare la coordonarea și controlul activităților privind identificarea, desemnarea și protecția infrastructurilor critice se aplică Serviciului Român de Informații, Serviciului de Informații Externe și Serviciului de Telecomunicații Speciale, numai în măsura în care acestea nu contravin statutelor și legilor proprii de organizare și funcționare ori altor acte normative care le reglementează activitatea. (5) În scopul evaluării modului de îndeplinire a responsabilităților ce decurg din legislația specifică domeniului protecției infrastructurilor critice de către autoritățile publice responsabile, prim-ministrul poate dispune executarea unor activități de control în conformitate cu prevederile legale."
     },
     {
       "provision_ref": "Art.5",
-      "chapter": "Chapter II - Identification and Designation",
-      "section": "Art.5",
-      "title": "Designation Process",
-      "content": "The designation of national critical infrastructure shall be carried out by the competent sectoral authorities in coordination with the Centre for Coordination of Critical Infrastructure Protection (CPCIC). European critical infrastructure designation shall be carried out in consultation with the Member States concerned, in accordance with the bilateral and multilateral procedures established by Directive 2008/114/EC. The designation shall be reviewed at least every two years."
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) La nivelul Guvernului, sub coordonarea consilierului desemnat potrivit art. 4 alin. (1) , se înființează și funcționează grupul de lucru interinstituțional pentru PIC. (la 19-03-2011, Alin. (1) al art. 5 a fost modificat de pct. 2 al art. I din LEGEA nr. 18 din 11 martie 2011, publicată în MONITORUL OFICIAL nr. 183 din 16 martie 2011. ) (2) Componența, atribuțiile și modul de organizare a Grupului de lucru interinstituțional se stabilesc prin hotărâre a Guvernului."
     },
     {
       "provision_ref": "Art.6",
-      "chapter": "Chapter II - Identification and Designation",
-      "section": "Art.6",
-      "title": "CPCIC Functions",
-      "content": "The Centre for Coordination of Critical Infrastructure Protection (CPCIC) shall: a) coordinate the overall process of critical infrastructure identification and designation at the national level; b) serve as the contact point for European critical infrastructure matters with the European Commission and other Member States; c) manage the national database of critical infrastructures; d) provide guidance and support to operators of critical infrastructure in developing operator security plans; e) coordinate the national risk assessment relating to critical infrastructure."
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) Autoritățile publice responsabile efectuează, împreună cu proprietarii/operatorii/administratorii de ICN/ICE, o evaluare a riscurilor și amenințărilor subsectoarelor ICN/ICE, în termen de un an de la desemnarea infrastructurii critice drept ICN/ICE în cadrul subsectoarelor respective. Evaluarea conține inclusiv propuneri cu privire la necesitatea îmbunătățirii protecției ICN/ICE desemnate în cadrul subsectoarelor și se prezintă spre aprobare primului-ministru. Ulterior, evaluarea se realizează anual. (1^1) Autoritățile publice responsabile împreună cu proprietarii/operatorii/administratorii de ICN/ICE elaborează anual informări privind riscurile și incidentele semnificative, precum și evoluția amenințărilor în sectoarele/subsectoarele ICN/ICE și formulează propuneri cu privire la necesitatea îmbunătățirii protecției acestora, pe care le înaintează CNCPIC în vederea elaborării unui raport integrat, care va fi înaintat spre aprobare prim-ministrului. (la 02-09-2018, Articolul 6 din Capitolul II a fost completat de Punctul 5, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (1^2) Documentele prevăzute la alin. (1^1) se transmit CNCPIC până la data de 15 decembrie a fiecărui an în vederea elaborării raportului anual privind stadiul PIC la nivel național, care se înaintează spre aprobare prim-ministrului. (la 02-09-2018, Articolul 6 din Capitolul II a fost completat de Punctul 5, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (2) Proprietarii/operatorii/administratorii de ICN/ICE au obligația de a informa autoritățile publice responsabile despre orice modificare survenită la nivelul ICN/ICE desemnată. (3) Abrogat. (la 02-12-2024, Alineatul (3) , Articolul 6 , Capitolul II a fost abrogat de Punctul 2. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (4) Abrogat. (la 02-12-2024, Alineatul (4) , Articolul 6 , Capitolul II a fost abrogat de Punctul 2. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (5) Abrogat. (la 02-12-2024, Alineatul (5) , Articolul 6 , Capitolul II a fost abrogat de Punctul 2. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (6) Abrogat. (la 02-12-2024, Alineatul (6) , Articolul 6 , Capitolul II a fost abrogat de Punctul 2. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.6^1",
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "6^1",
+      "title": "Articolul 6^1",
+      "content": "(1) M.A.I., prin CNCPIC, sprijină autoritățile publice responsabile și proprietarii/operatorii/administratorii de ICN/ICE, asigurându-le accesul la informații cu privire la cele mai bune practici și metode disponibile, facilitează participarea la acțiunile coordonate de către Comisia Europeană în materie de formare și de schimb de informații privind noi evoluții tehnice în materie de PIC și organizează cooperarea între autoritățile publice responsabile la nivel național, precum și colaborarea acestora și a proprietarilor/operatorilor/administratorilor de ICN/ICE cu instituțiile similare din statele membre ale Uniunii Europene, cu Comisia Europeană, NATO și alte organizații și organisme internaționale cu activități/atribuții în domeniu. (2) CNCPIC are următoarele atribuții principale: a) elaborează proiectele actelor normative în domeniul PIC și documentele de planificare strategică specifice, pe care le supune analizei reprezentanților autorităților publice responsabile reprezentate în grupul de lucru interinstituțional pentru PIC, în vederea inițierii ulterioare, de către M.A.I., a procedurilor legale de avizare și adoptare; b) elaborează și actualizează normele metodologice pentru realizarea/echivalarea/revizuirea PSO, structura-cadru a PSO și atribuțiile ofițerului de legătură pentru securitatea ICN/ICE, din cadrul structurii specializate desemnate la nivelul autorităților publice responsabile și la nivelul proprietarilor/operatorilor/ administratorilor de ICN/ICE, pe care le supune aprobării prin decizie a prim-ministrului, în condițiile legii; c) sprijină, la solicitarea autorităților publice responsabile, procesul de elaborare a instrucțiunilor, regulamentelor, normelor și standardelor de securitate sectoriale în domeniul PIC; d) elaborează, supune dezbaterii în cadrul grupului de lucru interinstituțional pentru PIC și propune spre aprobare prin decizie a prim-ministrului metodologia de autorizare a ofițerilor de legătură pentru securitatea ICN/ICE; e) evaluează anual și ori de câte ori se impune, pe baza datelor furnizate de autoritățile publice responsabile, riscurile, amenințările și vulnerabilitățile la adresa ICN/ICE și informează prim-ministrul, prin consilierul desemnat, cu privire la necesitatea îmbunătățirii nivelului de protecție al acestora; f) asigură secretariatul tehnic permanent al grupului de lucru interinstituțional pentru PIC; g) elaborează și propune spre aprobare, prin decizie a prim-ministrului, Planul anual de verificare a stadiului implementării legislației în domeniul PIC de către autoritățile publice responsabile și proprietarii/operatorii/administratorii de ICN/ICE; h) asigură consultanță de specialitate autorităților publice responsabile și proprietarilor/operatorilor/administratorilor de ICN/ICE desemnate, la solicitarea acestora; i) monitorizează stadiul de elaborare a PSO la nivel național, precum și al testării viabilității acestora prin exerciții; j) îndeplinește rolul de compartiment desemnat la nivelul M.A.I. în condițiile art. 8 ; k) elaborează orientări privind modalitățile de realizare a managementului protecției infrastructurilor critice. (3) În aplicarea art. 4 alin. (2) , M.A.I., prin personal desemnat din cadrul CNCPIC, desfășoară activități de control în baza planului elaborat în condițiile alin. (2) lit. g) , constată contravenții și aplică sancțiuni în condițiile legii."
+    },
+    {
+      "provision_ref": "Art.6^2",
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "6^2",
+      "title": "Articolul 6^2",
+      "content": "(1) Autoritățile publice responsabile se stabilesc prin hotărâre a Guvernului, la propunerea M.A.I., prin CNCPIC. (2) Serviciul Român de Informații, Serviciul de Informații Externe și Serviciul de Telecomunicații Speciale sunt autorități publice responsabile pentru infrastructurile critice din competență, aferente sectoarelor de ICN «Tehnologia informației și comunicațiilor» și «Securitate națională» prevăzute în anexa nr. 1 . (3) M.A.I., prin CNCPIC, identifică potențiale ICN/ICE care nu se află în sfera de responsabilitate a niciunei autorități publice responsabile, potrivit procedurii de identificare prevăzute în anexa nr. 2 . (4) Autoritățile publice responsabile pentru ICN/ICE identificate în condițiile alin. (3) se stabilesc prin hotărâre a Guvernului, la propunerea M.A.I., prin CNCPIC, avizată în cadrul grupului de lucru interinstituțional pentru PIC."
+    },
+    {
+      "provision_ref": "Art.6^3",
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "6^3",
+      "title": "Articolul 6^3",
+      "content": "(1) La nivelul M.A.I., prin CNCPIC, se constituie și este administrat un mecanism de comunicare și avertizare timpurie, denumit în continuare MeCAT, destinat asigurării managementului integrat al protecției ICN/ICE cu rolul de sistem național securizat de informare în domeniul protecției ICN/ICE. (2) MeCAT asigură cadrul unitar al schimbului de informații privind incidente, amenințări, vulnerabilități și riscuri identificate în legătură cu aceste tipuri de infrastructuri, necesare atât în procesul de prevenție și combatere a riscurilor și amenințărilor, cât și pentru diminuarea impactului generat de incapacitatea de a menține serviciile esențiale furnizate de acestea."
     },
     {
       "provision_ref": "Art.7",
-      "chapter": "Chapter III - Protection Requirements",
-      "section": "Art.7",
-      "title": "Operator Security Plans",
-      "content": "Each operator of a designated critical infrastructure shall develop and maintain an Operator Security Plan (PSO - Plan de Securitate al Operatorului). The PSO shall include: a) identification of important assets; b) a risk analysis based on major threat scenarios, vulnerability assessment, and potential impact analysis; c) identification, selection and prioritisation of countermeasures and procedures, distinguishing between permanent and graduated security measures; d) emergency and recovery procedures. The PSO shall be reviewed and updated at least annually."
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Abrogat. (la 02-09-2018, Alineatul (1) din Articolul 7 , Capitolul II a fost abrogat de Punctul 8, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (2) Autoritățile publice responsabile au următoarele atribuții: a) stabilesc criteriile sectoriale/intersectoriale și pragurile critice aferente și elaborează, după caz, metodologii specifice de lucru pentru aplicarea acestora în vederea identificării potențialelor ICN/ICE; (la 02-09-2018, Litera a) din Alineatul (2) , Articolul 7 , Capitolul II a fost modificată de Punctul 9, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) b) coordonează activitățile specifice procesului de identificare a ICN/ICE, în domeniul de responsabilitate; c) propun desemnarea ICN/ICE corespunzător sectoarelor aflate în responsabilitate; d) informează, la solicitarea CNCPIC, asupra stadiului de implementare a actelor normative în domeniu; (la 02-09-2018, Litera d) din Alineatul (2) , Articolul 7 , Capitolul II a fost modificată de Punctul 9, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) e) verifică modul de îndeplinire de către proprietarii/ operatorii/administratorii de ICN/ICE a obligațiilor stabilite prin prezenta ordonanță de urgență și aplică, prin personalul împuternicit, sancțiuni pentru nerespectarea acestora; f) avizează PSO pentru ICN/ICE desemnate aflate în responsabilitate; (la 02-09-2018, Litera f) din Alineatul (2) , Articolul 7 , Capitolul II a fost modificată de Punctul 9, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) g) participă, la solicitarea M.A.I., prin CNCPIC, la discuțiile bilaterale/multilaterale în vederea desemnării ICE; (la 02-09-2018, Litera g) din Alineatul (2) , Articolul 7 , Capitolul II a fost modificată de Punctul 9, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) h) stabilesc/dispun, după caz, măsuri de îmbunătățire a activității specifice ICN/ICE în domeniul de responsabilitate; i) informează M.A.I., prin CNCPIC, asupra stadiului identificării ICN/ICE din domeniul de responsabilitate; (la 02-09-2018, Litera i) din Alineatul (2) , Articolul 7 , Capitolul II a fost modificată de Punctul 9, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) j) asigură resursele financiare necesare organizării și desfășurării activităților specifice în domeniul PIC pentru ICN/ICE aflate în nemijlocita responsabilitate, în limita bugetului alocat; (la 02-09-2018, Litera j) din Alineatul (2) , Articolul 7 , Capitolul II a fost modificată de Punctul 9, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) k) abrogată; (la 02-12-2024, Litera k) , Alineatul (2) , Articolul 7 , Capitolul II a fost abrogată de Punctul 3. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) l) stabilesc măsuri de reducere a vulnerabilităților ICN/ICE din responsabilitate și de îmbunătățire a rezilienței acestora; (la 02-09-2018, Alineatul (2) din Articolul 7 , Capitolul II a fost completat de Punctul 10, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) m) notifică CNCPIC cu privire la participarea personalului propriu și a celui din cadrul proprietarilor/operatorilor/ administratorilor de ICN/ICE din responsabilitate la activități internaționale specifice domeniului PIC și prezintă grupului de lucru interinstituțional pentru PIC aspectele discutate în cadrul activităților la care au participat; (la 02-09-2018, Alineatul (2) din Articolul 7 , Capitolul II a fost completat de Punctul 10, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) n) participă, la solicitarea CNCPIC, la activități de control, organizate în condițiile art. 6^1 alin. (3) . (la 02-09-2018, Alineatul (2) din Articolul 7 , Capitolul II a fost completat de Punctul 10, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (3) Abrogat. (la 02-09-2018, Alineatul (3) din Articolul 7 , Capitolul II a fost abrogat de Punctul 8, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 )"
+    },
+    {
+      "provision_ref": "Art.7^1",
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "7^1",
+      "title": "Articolul 7^1",
+      "content": "Proprietarii/operatorii/administratorii de ICN/ICE au următoarele atribuții: a) desemnează, pentru fiecare ICN/ICE aflată în responsabilitate, un ofițer de legătură pentru securitatea ICN/ICE; b) elaborează pentru fiecare ICN/ICE din responsabilitate PSO și îl transmite spre avizare autorităților publice responsabile; c) desfășoară activitățile referitoare la protecția ICN/ICE desemnate aflate în responsabilitate; d) participă la solicitarea autorităților publice responsabile sau a CNCPIC la activități specifice domeniului; e) participă, potrivit competențelor, la operaționalizarea MeCAT; f) informează autoritățile publice responsabile cu privire la orice modificare ce poate avea impact asupra protecției ICN/ICE; g) informează autoritățile publice responsabile și CNCPIC cu privire la participarea la activități naționale/internaționale specifice domeniului PIC, precum și la aspectele discutate în cadrul acestor activități; h) implementează măsuri de reducere a vulnerabilităților ICN/ICE din responsabilitate și de îmbunătățire a rezilienței acestora; i) asigură autorizarea ofițerilor de legătură pentru securitatea ICN/ICE desemnați pentru fiecare ICN din responsabilitate; j) asigură resursele financiare necesare organizării și desfășurării activităților referitoare la protecția ICN/ICE aflate în responsabilitate."
     },
     {
       "provision_ref": "Art.8",
-      "chapter": "Chapter III - Protection Requirements",
-      "section": "Art.8",
-      "title": "Security Liaison Officer",
-      "content": "Each operator of a designated European critical infrastructure shall designate a Security Liaison Officer (OLS - Ofițer de Legătură pentru Securitate), in accordance with Article 6 of Directive 2008/114/EC. The Security Liaison Officer shall act as the point of contact for security-related issues between the operator and the competent sectoral authority and the CPCIC. The OLS shall coordinate the implementation of the operator security plan and liaise with national and EU authorities."
+      "chapter": "Capitolul II - Roluri și responsabilități",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Fiecare autoritate publică responsabilă, precum și fiecare proprietar/operator/administrator de ICN/ICE care au în responsabilitate mai mult de o ICN/ICE au obligația să constituie/să desemneze o structură/un compartiment de specialitate în domeniul ICN/ICE, care va îndeplini și rolul de punct de contact pentru aspectele care țin de securitatea infrastructurilor critice între proprietarii/operatorii/administratorii de ICN/ICE și autoritățile publice responsabile. (2) Autoritățile publice responsabile și proprietarii/operatorii/ administratorii de ICN/ICE care au în responsabilitate o singură ICN/ICE au obligația să desemneze un ofițer de legătură pentru securitatea ICN/ICE care va îndeplini și rolul de punct de contact pentru aspectele care țin de securitatea infrastructurilor critice între proprietarii/operatorii/administratorii de ICN/ICE și autoritățile publice responsabile. (3) Structura/compartimentul de la alin. (1) este condus(ă) de un ofițer de legătură pentru securitatea ICN/ICE și se află în nemijlocita subordonare a conducătorului autorității publice responsabile sau a proprietarului/operatorului/administratorului de ICN/ICE. (4) Autoritățile publice responsabile stabilesc și implementează un mecanism de comunicare adecvat cu ofițerii de legătură pentru securitatea ICN/ICE de la nivelul proprietarilor/ operatorilor/administratorilor de ICN/ICE, în scopul realizării schimbului de date relevante privind riscurile și amenințările identificate în legătură cu ICN/ICE respectivă, cu asigurarea securității informațiilor clasificate/sensibile referitoare la protecția infrastructurilor critice, conform reglementărilor în vigoare. (5) În termen de un an de la desemnarea unei ICN/ICE, autoritățile publice responsabile și proprietarii/operatorii/ administratorii de ICN/ICE au obligația să asigure pregătirea ofițerilor de legătură pentru securitatea ICN/ICE și a personalului desemnat să îndeplinească atribuții în domeniul protecției infrastructurilor critice în unitățile de învățământ pentru formare și dezvoltare profesională abilitate, în condițiile legii. (6) Ofițerii de legătură pentru securitatea ICN/ICE se evaluează și se autorizează periodic în condițiile stabilite prin metodologia de autorizare care se aprobă prin decizie a prim-ministrului."
     },
     {
       "provision_ref": "Art.9",
-      "chapter": "Chapter III - Protection Requirements",
-      "section": "Art.9",
-      "title": "Risk Assessment",
-      "content": "The CPCIC, in coordination with the competent sectoral authorities, shall conduct a national risk assessment relating to critical infrastructure at least every three years. The risk assessment shall consider: a) all-hazards approach covering natural disasters, technological accidents, and intentional attacks including terrorism and cyber threats; b) interdependencies and cascading effects between different critical infrastructure sectors; c) cross-border risks and dependencies on critical infrastructure in other Member States."
+      "chapter": "Capitolul III - Identificarea, desemnarea și protecția ICN/ICE",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) În conformitate cu procedura prevăzută în anexa nr. 2 , autoritățile publice responsabile identifică potențialele ICN/ICE care corespund criteriilor sectoriale și intersectoriale și se încadrează în definițiile prevăzute la art. 3 lit. a) și b) . (2) Criteriile sectoriale și pragurile critice aferente, definite în funcție de gravitatea impactului perturbării sau al distrugerii unei anumite infrastructuri, se stabilesc prin ordine ale conducătorilor autorităților publice responsabile, potrivit domeniilor din responsabilitate, pentru ICN și potențiale ICE. (3) Criteriile intersectoriale ce stau la baza identificării ICN/ICE sunt următoarele: a) criteriul privind victimele, evaluat în funcție de numărul posibil de decese sau vătămări; b) criteriul privind efectele economice, evaluat în funcție de importanța pierderilor economice și/sau a degradării produselor sau serviciilor, inclusiv eventualele efecte asupra mediului; c) criteriul privind efectul asupra populației, evaluat în funcție de impactul asupra încrederii acesteia, suferința fizică sau perturbarea vieții cotidiene, inclusiv pierderea de servicii esențiale. (4) Criteriile intersectoriale nu sunt cumulative pentru identificarea ICN/ICE. (5) Pragurile critice aferente criteriilor intersectoriale, definite în funcție de gravitatea impactului perturbării sau al distrugerii unei anumite infrastructuri se stabilesc prin hotărâre a Guvernului. (6) Persoanele juridice de drept public sau privat care desfășoară activități și furnizează servicii esențiale de interes național în sectoarele și subsectoarele prevăzute în anexa nr. 1 au obligația de a participa, la solicitarea autorităților publice responsabile sau a M.A.I. prin CNCPIC, la procesul de identificare și desemnare a ICN/ICE. (la 02-09-2018, Alineatul (6) din Articolul 9 , Capitolul III a fost modificat de Punctul 13, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (7) Pentru stabilirea criteriilor sectoriale/intersectoriale și a pragurilor critice aferente, autoritățile publice responsabile pot colabora și cu alte autorități sau persoane juridice în condițiile în care ICN/ICE ar putea genera efecte în domeniul de responsabilitate al acestora. (la 02-09-2018, Alineatul (7) din Articolul 9 , Capitolul III a fost modificat de Punctul 13, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (8) Sectoarele stabilite pentru punerea în aplicare a prezentei ordonanțe de urgență sunt cele prevăzute în anexa nr. 1 . (la 02-12-2024, Alineatul (8) , Articolul 9 , Capitolul III a fost modificat de Punctul 4. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (9) Abrogat. (la 02-12-2024, Alineatul (9) , Articolul 9 , Capitolul III a fost abrogat de Punctul 5. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.9^1",
+      "chapter": "Capitolul III - Identificarea, desemnarea și protecția ICN/ICE",
+      "section": "9^1",
+      "title": "Articolul 9^1",
+      "content": "(1) Obiectivele strategice de interes național aflate în stadiul de proiectare, care îndeplinesc criteriile sectoriale și intersectoriale aferente procedurii de identificare și desemnare a ICN, se supun prevederilor legislației în domeniul protecției infrastructurilor critice. (2) Normele metodologice pentru identificarea obiectivelor strategice de interes național, aflate în stadiul de proiectare, se stabilesc prin hotărâre a Guvernului. (la 30-08-2019, Capitolul III a fost completat de Punctul 3, Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 27 august 2019, publicată în MONITORUL OFICIAL nr. 717 din 30 august 2019 )"
     },
     {
       "provision_ref": "Art.10",
-      "chapter": "Chapter III - Protection Requirements",
-      "section": "Art.10",
-      "title": "Physical Security Measures",
-      "content": "Operators of designated critical infrastructure shall implement appropriate physical security measures, including: a) perimeter protection and access control systems; b) detection and surveillance systems; c) protection of key assets and systems; d) personnel security measures, including background checks for personnel with access to sensitive areas; e) resilience measures ensuring the continuity of essential functions during disruptions."
+      "chapter": "Capitolul III - Identificarea, desemnarea și protecția ICN/ICE",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) În urma procesului de identificare a potențialelor ICN/ICE, autoritățile publice responsabile propun M.A.I., prin CNCPIC, desemnarea ICN/ICE. (la 02-09-2018, Alineatul (1) din Articolul 10 , Capitolul III a fost modificat de Punctul 14, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (2) Desemnarea ICN/ICE se aprobă prin hotărâre a Guvernului. (la 02-09-2018, Alineatul (2) din Articolul 10 , Capitolul III a fost modificat de Punctul 14, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (3) Abrogat. (la 02-12-2024, Alineatul (3) , Articolul 10 , Capitolul III a fost abrogat de Punctul 6. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (4) Abrogat. (la 02-12-2024, Alineatul (4) , Articolul 10 , Capitolul III a fost abrogat de Punctul 6. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (5) Abrogat. (la 02-12-2024, Alineatul (5) , Articolul 10 , Capitolul III a fost abrogat de Punctul 6. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (6) Abrogat. (la 02-12-2024, Alineatul (6) , Articolul 10 , Capitolul III a fost abrogat de Punctul 6. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (7) Abrogat. (la 02-12-2024, Alineatul (7) , Articolul 10 , Capitolul III a fost abrogat de Punctul 6. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 ) (8) Autoritățile publice responsabile informează proprietarul/operatorul/administratorul de ICN/ICE cu privire la desemnarea acesteia ca ICN/ICE în termen de 10 zile de la intrarea în vigoare a actului normativ de desemnare. (9) Abrogat. (la 02-09-2018, Alineatul (9) din Articolul 10 , Capitolul III a fost abrogat de Punctul 15, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 )"
     },
     {
       "provision_ref": "Art.11",
-      "chapter": "Chapter III - Protection Requirements",
-      "section": "Art.11",
-      "title": "Cyber Security Measures",
-      "content": "Operators of designated critical infrastructure whose operations depend on network and information systems shall implement appropriate cyber security measures in coordination with the requirements of Law 362/2018 on cybersecurity. These measures shall include: a) network segmentation and access control for operational technology (OT) systems; b) monitoring and detection of cyber incidents; c) incident response and recovery procedures; d) regular security testing and vulnerability assessments; e) supply chain security for digital components."
+      "chapter": "Capitolul III - Identificarea, desemnarea și protecția ICN/ICE",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) În termen de 9 luni de la desemnarea unei infrastructuri drept ICN/ICE, proprietarul/operatorul/ administratorul de ICN/ICE elaborează PSO și îl transmite spre avizare autorităților publice responsabile. (2) PSO identifică elementele de infrastructură critică ale ICN/ICE și soluțiile de securitate existente sau care urmează să fie puse în aplicare pentru protecția acestora. (3) Cerințele minime privind conținutul PSO sunt prevăzute în anexa nr. 3 . (4) Autoritățile publice responsabile se asigură, în termen de un an de la desemnarea în sectorul de responsabilitate a unei infrastructuri drept ICN/ICE, că există un PSO sau un echivalent al acestuia. În cazul ICE termenul poate fi prelungit numai în situații excepționale, cu acordul prim-ministrului și notificarea Comisiei Europene în acest sens de către M.A.I., prin CNCPIC. (la 02-09-2018, Alineatul (4) din Articolul 11 , Capitolul III a fost modificat de Punctul 16, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (5) În cazul în care se constată un echivalent al PSO, acesta este evaluat, testat și, dacă este necesar, revizuit și actualizat de către proprietarul/operatorul/administratorul de ICN/ICE, conform cerințelor minime privind conținutul PSO. (6) PSO este implementat, evaluat, testat și, dacă este necesar, revizuit și actualizat de către proprietarii/operatorii/ administratorii de ICN/ICE, periodic, la intervale de cel mult 2 ani, precum și ori de câte ori este necesar. (la 02-09-2018, Alineatul (6) din Articolul 11 , Capitolul III a fost modificat de Punctul 16, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (7) Abrogat. (la 02-12-2024, Alineatul (7) , Articolul 11 , Capitolul III a fost abrogat de Punctul 7. , Articolul 27 , Capitolul VII din LEGEA nr. 294 din 27 noiembrie 2024, publicată în MONITORUL OFICIAL nr. 1189 din 29 noiembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.11^1",
+      "chapter": "Capitolul III - Identificarea, desemnarea și protecția ICN/ICE",
+      "section": "11^1",
+      "title": "Articolul 11^1",
+      "content": "(1) Persoanele fizice sau juridice de drept public sau privat care dețin, cu orice titlu, terenuri, construcții sau instalații tehnologice, în perimetrul cărora sunt amplasate sau instalate elemente de ICN/ICE, au obligația să permită necondiționat accesul personalului specializat de la nivelul proprietarului/operatorului/administratorului de ICN/ICE, în vederea remedierii disfuncționalităților sau realizării mentenanței sistemelor. (2) Pentru pagubele cauzate pe timpul desfășurării intervențiilor prevăzute la alin. (1) , proprietarii/operatorii/ administratorii de ICN/ICE au obligația de a plăti celor îndreptățiți contravaloarea expertizelor, precum și cuantumul despăgubirilor stabilite de către evaluatori autorizați, în termen de 60 de zile de la data definitivării expertizei. (3) Expertizele prevăzute la alin. (2) se vor efectua după desfășurarea intervențiilor prevăzute la alin. (1) . (4) Criteriile și modul de acordare a despăgubirilor prevăzute la alin. (2) se stabilesc prin ordine comune ale conducătorilor autorităților publice responsabile, potrivit domeniilor din responsabilitate."
+    },
+    {
+      "provision_ref": "Art.11^2",
+      "chapter": "Capitolul III - Identificarea, desemnarea și protecția ICN/ICE",
+      "section": "11^2",
+      "title": "Articolul 11^2",
+      "content": "La încheierea oricăror acte privind înstrăinarea prin vânzare-cumpărare, precum și prin orice altă modalitate, a unor elemente de ICN/ICE sau a unor obiective ce dețin calitatea de ICN/ICE, având capital de stat sau mixt, proprietarii/operatorii/administratorii respectivi au obligația să solicite, cu 60 de zile înainte, prin intermediul autorității publice responsabile, avizul de conformitate al Consiliului Suprem de Apărare a Țării, cu excepția subsectoarelor ”bănci” și ”trezorerie și sisteme de plăți” din cadrul sectorului ”financiar-bancar”, a căror activitate este reglementată prin legi speciale."
     },
     {
       "provision_ref": "Art.12",
-      "chapter": "Chapter IV - Information Sharing and Cooperation",
-      "section": "Art.12",
-      "title": "Information Sharing",
-      "content": "Information relating to the identification, designation and protection of critical infrastructure shall be classified as service secrets or state secrets, as appropriate, in accordance with the applicable legislation on the protection of classified information. The exchange of information on European critical infrastructure between Romania and other Member States and the European Commission shall be carried out in accordance with the security arrangements established under Directive 2008/114/EC."
+      "chapter": "Capitolul IV - Contravenții și sancțiuni",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Constituie contravenții următoarele fapte săvârșite de către autoritățile publice responsabile și/sau proprietarii/operatorii/administratorii de ICN/ICE: (la 02-09-2018, Partea introductivă a Articolului 12 din Capitolul IV a fost modificată de Punctul 17, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) a) neluarea măsurilor de constituire a compartimentului specializat în domeniul ICN/ICE, conform art. 8 alin. (1) ; b) neîndeplinirea obligațiilor prevăzute la art. 8 alin. (5) ; c) nerespectarea dispozițiilor privind participarea la procesul de identificare și desemnare a ICN/ICE, potrivit dispozițiilor art. 9 alin. (6) ; (la 30-08-2019, Litera c) din Articolul 12 , Capitolul IV a fost modificată de Punctul 4, Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 27 august 2019, publicată în MONITORUL OFICIAL nr. 717 din 30 august 2019 ) d) neîntocmirea PSO conform art. 11 alin. (1) ; e) nerespectarea obligației de evaluare, revizuire și actualizare a PSO prevăzută la art. 11 alin. (6) , precum și neîndeplinirea sarcinilor prevăzute în PSO ori a măsurilor stabilite de autoritățile publice responsabile în scopul avizării PSO."
     },
     {
       "provision_ref": "Art.13",
-      "chapter": "Chapter IV - Information Sharing and Cooperation",
-      "section": "Art.13",
-      "title": "International Cooperation",
-      "content": "Romania shall cooperate with other Member States and with the European Commission for the purpose of improving the protection of European critical infrastructure, in accordance with Article 7 of Directive 2008/114/EC. The CPCIC shall participate in the contact points meetings and shall contribute to the development of common guidelines and best practices for the protection of critical infrastructure."
+      "chapter": "Capitolul IV - Contravenții și sancțiuni",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) Contravențiile prevăzute la art. 12 se sancționează după cum urmează: a) cu amendă de la 2.000 lei la 5.000 lei, contravențiile prevăzute la art. 12 lit. a)-c) ; b) cu amendă de la 10.000 lei la 30.000 lei, contravențiile prevăzute la art. 12 lit. d) și e) . (2) Constatarea contravențiilor și aplicarea sancțiunilor prevăzute în prezenta ordonanță de urgență se realizează de către: a) personalul împuternicit din cadrul autorităților publice responsabile pentru sectoarele de ICN/ICE aflate în responsabilitate; b) personalul CNCPIC în condițiile prevăzute la art. 6^1 alin. (3) . (la 02-09-2018, Alineatul (2) din Articolul 13 , Capitolul IV a fost modificat de Punctul 18, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 ) (3) Contravențiilor prevăzute la art. 12 le sunt aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare."
     },
     {
       "provision_ref": "Art.14",
-      "chapter": "Chapter V - Supervision and Sanctions",
-      "section": "Art.14",
-      "title": "Supervision",
-      "content": "The competent sectoral authorities, in coordination with the CPCIC, shall supervise compliance with the requirements of this ordinance by operators of critical infrastructure. Supervisory activities shall include inspections, audits, and the review of operator security plans. The CPCIC shall report to the Government annually on the status of critical infrastructure protection in Romania."
+      "chapter": "Capitolul V - Dispoziții finale",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) Procesul de identificare și desemnare a ICN se încheie la data de 30 noiembrie 2010 și se revizuiește periodic*). (2) Procesul de identificare și desemnare a ICE se încheie până la 12 ianuarie 2011 și se revizuiește periodic. (3) După finalizarea activităților prevăzute la alin. (2) Comisia Europeană va fi informată de îndată, de către M.A.I., prin CNCPIC, asupra măsurilor dispuse pentru transpunerea prevederilor directivei, transmițând totodată textele și tabelul de concordanță. (la 02-09-2018, Alineatul (3) din Articolul 14 , Capitolul V a fost modificat de Punctul 19, Articolul I din LEGEA nr. 225 din 1 august 2018, publicată în MONITORUL OFICIAL nr. 677 din 03 august 2018 )"
+    },
+    {
+      "provision_ref": "Art.14^1",
+      "chapter": "Capitolul V - Dispoziții finale",
+      "section": "14^1",
+      "title": "Articolul 14^1",
+      "content": "(1) Autoritățile publice responsabile și structurile abilitate conform legii se asigură că informațiile clasificate cu privire la protecția ICN/ICE utilizate la nivel național, precum și cele transmise statelor membre sau Comisiei Europene nu sunt utilizate în alt scop decât cel al PIC. (2) Informațiile sensibile privind protecția infrastructurilor critice se clasifică, după caz, la un nivel adecvat, în condițiile legii. Diseminarea acestor informații se face potrivit principiului nevoii de a cunoaște, atât în relația cu autoritățile publice responsabile, proprietarii/operatorii/administratorii de ICN/ICE, cât și cu celelalte state membre. (3) Orice persoană care operează cu informații clasificate în temeiul prezentei ordonanțe de urgență în numele statului român sau al Comisiei Europene este supusă unei verificări de securitate la nivelul adecvat. (4) Dispozițiile alin. (1) și (2) se aplică în egală măsură informațiilor exprimate verbal și nescrise în timpul reuniunilor în cadrul cărora se discută subiecte sensibile."
     },
     {
       "provision_ref": "Art.15",
-      "chapter": "Chapter V - Supervision and Sanctions",
-      "section": "Art.15",
-      "title": "Sanctions",
-      "content": "Non-compliance with the requirements of this ordinance shall be sanctioned with administrative fines. Failure to develop or update the operator security plan shall be sanctioned with a fine from 10,000 to 50,000 RON. Failure to designate a security liaison officer shall be sanctioned with a fine from 5,000 to 25,000 RON. Failure to notify relevant incidents to the competent authorities shall be sanctioned with a fine from 5,000 to 30,000 RON. Repeated non-compliance may result in the revocation of operating licences."
+      "chapter": "Capitolul V - Dispoziții finale",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "(1) Prin hotărâre a Guvernului se aprobă: a) componența, atribuțiile și modul de organizare a Grupului de lucru interinstituțional, prevăzute la art. 5 alin. (2) , în termen de 30 de zile de la data intrării în vigoare a prezentei ordonanțe de urgență; b) pragurile critice aferente criteriilor intersectoriale, prevăzute la art. 9 alin. (5) , în termen de 60 de zile de la data intrării în vigoare a prezentei ordonanțe de urgență; c) desemnarea ICN, prevăzută la art. 10 alin. (2) , până la data de 30 noiembrie 2010*). (2) Ordinele conducătorilor autorităților publice, prevăzute la art. 9 alin. (2) se emit în termen de 60 de zile de la data intrării în vigoare a prezentei ordonanțe de urgență."
     },
     {
       "provision_ref": "Art.16",
-      "chapter": "Chapter V - Supervision and Sanctions",
-      "section": "Art.16",
-      "title": "Emergency Measures",
-      "content": "In situations of imminent threat to critical infrastructure, the Government, on the proposal of the CPCIC and the competent sectoral authorities, may order emergency protection measures, including the deployment of additional security forces, the restriction of access to the critical infrastructure and its vicinity, and the activation of emergency response plans. These measures shall be proportionate and limited in duration."
-    },
-    {
-      "provision_ref": "Art.17",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.17",
-      "title": "Implementing Regulations",
-      "content": "The Government shall adopt implementing regulations within 90 days from the entry into force of this ordinance, establishing detailed criteria for the identification and designation of critical infrastructure, the content and format of operator security plans, and the procedures for information exchange with other Member States and the European Commission."
-    },
-    {
-      "provision_ref": "Art.18",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.18",
-      "title": "Relationship with CER Directive",
-      "content": "This ordinance shall be applied in conjunction with any national legislation transposing Directive (EU) 2022/2557 of the European Parliament and of the Council on the resilience of critical entities (CER Directive), which will replace Directive 2008/114/EC. Until the transposition of the CER Directive into national law, this ordinance shall continue to apply."
-    },
-    {
-      "provision_ref": "Art.19",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.19",
-      "title": "Transitional Provisions",
-      "content": "Operators of existing critical infrastructure shall submit their operator security plans within 6 months from the date of designation. Critical infrastructure designated before the entry into force of this ordinance shall be subject to review under the criteria established herein within 12 months from the entry into force."
-    },
-    {
-      "provision_ref": "Art.20",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.20",
-      "title": "Entry into Force",
-      "content": "This emergency ordinance shall enter into force on the date of its publication in Monitorul Oficial al României. This ordinance transposes Directive 2008/114/EC of the Council of 8 December 2008 on the identification and designation of European critical infrastructures and the assessment of the need to improve their protection."
+      "chapter": "Capitolul V - Dispoziții finale",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Anexele nr. 1-3 fac parte integrantă din prezenta ordonanță de urgență."
     }
   ],
   "definitions": [
     {
-      "term": "Critical infrastructure",
-      "definition": "An element, system, or part thereof located on the territory of Romania which is essential for the maintenance of vital societal functions, health, safety, security, economic or social well-being of the population, and the disruption or destruction of which would have a significant impact.",
-      "source_provision": "Art.2"
+      "term": "protecția infrastructurilor critice, denumită în continuare PIC",
+      "definition": "ansamblul unitar de procese și activități organizate și desfășurate în scopul asigurării funcționalității, continuității serviciilor și integrității ICN/ICE pentru a descuraja, diminua și neutraliza o amenințare, un risc sau un punct vulnerabil prin identificarea, implementarea și menținerea măsurilor de securitate, organizatorice, tehnice, procedurale și de altă natură rezultate în urma derulării proceselor de management al riscului",
+      "source_provision": "Art.3"
     },
     {
-      "term": "European critical infrastructure (ICE)",
-      "definition": "Critical infrastructure located in Romania the disruption or destruction of which would have a significant impact on at least two Member States.",
-      "source_provision": "Art.2"
+      "term": "analiză de risc",
+      "definition": "analizarea scenariilor de amenințări semnificative, pentru a evalua vulnerabilitatea și impactul potențial al perturbării sau al distrugerii ICN/ICE",
+      "source_provision": "Art.3"
     },
     {
-      "term": "Operator Security Plan (PSO)",
-      "definition": "A document identifying the critical infrastructure assets and the security measures implemented for their protection, including risk analysis, countermeasures, and emergency procedures.",
-      "source_provision": "Art.2"
+      "term": "autoritate publică responsabilă",
+      "definition": "instituție publică desemnată în condițiile prezentei ordonanțe de urgență, care, potrivit competențelor și atribuțiilor legale, răspunde de organizarea și desfășurarea activităților în domeniile corespunzătoare sectoarelor și subsectoarelor de infrastructuri critice prezentate în anexa nr",
+      "source_provision": "Art.3"
     },
     {
-      "term": "CPCIC",
-      "definition": "Centre for Coordination of Critical Infrastructure Protection - the national coordination body for critical infrastructure protection in Romania.",
-      "source_provision": "Art.6"
+      "term": "proprietari/operatori/administratori de ICN/ICE sunt acele entități responsabile cu investițiile într",
+      "definition": "un element, sistem sau componentă a acestuia, desemnat ca ICN sau ICE, conform prezentei ordonanțe de urgență, și/sau cu operarea/ administrarea curentă a acestora",
+      "source_provision": "Art.3"
+    },
+    {
+      "term": "praguri critice",
+      "definition": "valori-limită stabilite în funcție de gravitatea impactului, perturbării sau al distrugerii unei infrastructuri și care determină identificarea acesteia ca ICN/ICE",
+      "source_provision": "Art.3"
+    },
+    {
+      "term": "Rețeaua de alertă privind infrastructurile critice, denumită în continuare CIWIN",
+      "definition": "sistem securizat de informare și comunicare destinat asistenței instituțiilor naționale și celorlalte state membre pentru schimbul de informații referitoare la vulnerabilitățile, măsurile adecvate reducerii acestora și strategiile de diminuare a riscurilor",
+      "source_provision": "Art.3"
+    },
+    {
+      "term": "servicii esențiale",
+      "definition": "acele servicii, facilități ori activități care sunt sau ar putea fi necesare pentru a asigura un standard minim de trai și bunăstare a societății și a căror degradare sau întrerupere a furnizării lor, ca urmare a perturbării ori distrugerii sistemului fizic de bază, ar afecta semnificativ siguranța sau securitatea populației și funcționarea instituțiilor statului",
+      "source_provision": "Art.3"
+    },
+    {
+      "term": "obiectiv strategic de interes național",
+      "definition": "element, sistem sau rețea din infrastructura teritorială de orice tip sau de suport tehnic decizional necesar managementului politico-militar al Sistemului securității naționale și menținerii echilibrului societal în ansamblul general al statului român. (la 30-08-2019, Articolul 3 din Capitolul I a fost completat de Punctul 2, Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 27 august 2019, publicată în MONITORUL OFICIAL nr. 717 din 30 august 2019 )",
+      "source_provision": "Art.3"
     }
   ]
 }

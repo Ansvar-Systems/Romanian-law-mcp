@@ -3,19 +3,19 @@ mcp_name: "Romanian Law MCP"
 jurisdiction: "RO"
 
 sources:
-  - name: "Legislatie.just.ro"
-    authority: "Ministerul Justiției (Ministry of Justice of Romania)"
+  - name: "Portal Legislativ"
+    authority: "Ministerul Justiției din România"
     official_portal: "https://legislatie.just.ro"
     retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
+    update_frequency: "unknown"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Romanian Government Open Data (public domain under Romanian Copyright Law Art. 9)"
-      url: "https://legislatie.just.ro"
-      summary: "Official legislative texts are public domain"
+      type: "government_terms"
+      url: "https://legislatie.just.ro/Public/Acasa"
+      summary: "Official legislative texts are publicly accessible on the Ministry of Justice portal."
     coverage:
-      scope: "Key Romanian legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Consolidated Romanian acts published on Portal Legislativ, including laws, emergency ordinances, and codes."
+      limitations: "No official public JSON API detected; extraction is from HTML structure and currently scoped to the 10 selected statutes."
     languages:
       - "ro"
 

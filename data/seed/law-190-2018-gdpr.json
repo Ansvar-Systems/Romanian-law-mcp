@@ -1,171 +1,158 @@
 {
   "id": "law-190-2018",
   "type": "statute",
-  "title": "Legea nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679",
-  "title_en": "Law 190/2018 on measures for implementing Regulation (EU) 2016/679 (GDPR)",
-  "short_name": "GDPR Implementation Law",
+  "title": "LEGE nr. 190 din 18 iulie 2018",
+  "title_en": "Law No. 190/2018 Implementing GDPR",
+  "short_name": "Legea GDPR",
   "status": "in_force",
-  "issued_date": "2018-07-31",
-  "in_force_date": "2018-08-31",
-  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203371",
-  "description": "Romania's primary legislation implementing the General Data Protection Regulation (EU) 2016/679, establishing national rules for personal data processing, the supervisory authority (ANSPDCP), and enforcement measures.",
+  "issued_date": "2018-07-18",
+  "in_force_date": "2018-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203151",
+  "description": "Romanian GDPR implementation law setting national rules on processing contexts, supervisory powers, and sanctions.",
   "provisions": [
     {
       "provision_ref": "Art.1",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.1",
-      "title": "Scope",
-      "content": "This law establishes the measures necessary for the implementation of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation - GDPR). This law regulates the framework for the processing of personal data, the rights of data subjects, and the obligations of data controllers and processors operating within the territory of Romania."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege stabilește măsurile necesare punerii în aplicare la nivel național, în principal, a prevederilor art. 6 alin. (2) , art. 9 alin. (4) , art. 37-39 , 42 , 43 , art. 83 alin. (7) , art. 85 și ale art. 87-89 din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date și de abrogare a Directivei 95/46/CE, publicat în Jurnalul Oficial al Uniunii Europene, seria L, nr. 119 din 4 mai 2016, denumit în continuare Regulamentul general privind protecția datelor."
     },
     {
       "provision_ref": "Art.2",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.2",
-      "title": "Definitions",
-      "content": "For the purposes of this law, the terms and expressions used shall have the meanings established by Regulation (EU) 2016/679. Additionally, the following terms shall have the following meanings: a) the Authority - the National Supervisory Authority for Personal Data Processing (Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal - ANSPDCP); b) national identification number - the personal numerical code (CNP) or any other unique identifier assigned by public authorities."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În aplicarea Regulamentului general privind protecția datelor și a prezentei legi, termenii și expresiile de mai jos se definesc după cum urmează: a) autorități și organisme publice - Camera Deputaților și Senatul, Administrația Prezidențială, Guvernul, ministerele, celelalte organe de specialitate ale administrației publice centrale, autoritățile și instituțiile publice autonome, autoritățile administrației publice locale și de la nivel județean, alte autorități publice, precum și instituțiile din subordinea/coordonarea acestora. În sensul prezentei legi, sunt asimilate autorităților/organismelor publice și unitățile de cult și asociațiile și fundațiile de utilitate publică; b) număr de identificare național - numărul prin care se identifică o persoană fizică în anumite sisteme de evidență și care are aplicabilitate generală, cum ar fi: codul numeric personal, seria și numărul actului de identitate, numărul pașaportului, al permisului de conducere, numărul de asigurare socială de sănătate; c) plan de remediere - anexă la procesul-verbal de constatare și sancționare a contravenției, întocmit în condițiile prevăzute la art. 11 , prin care Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal, denumită în continuare Autoritatea națională de supraveghere, stabilește măsuri și un termen de remediere; d) măsură de remediere - soluție dispusă de Autoritatea națională de supraveghere în planul de remediere în vederea îndeplinirii de către autoritatea/organismul public a obligațiilor prevăzute de lege; e) termen de remediere - perioada de timp de cel mult 90 de zile de la data comunicării procesului-verbal de constatare și sancționare a contravenției, în care autoritatea/organismul public are posibilitatea remedierii neregulilor constatate și îndeplinirii obligațiilor legale; f) îndeplinirea unei sarcini care servește unui interes public - include acele activități ale partidelor politice sau ale organizațiilor cetățenilor aparținând minorităților naționale, ale organizațiilor neguvernamentale, care servesc realizării obiectivelor prevăzute de dreptul constituțional sau de dreptul internațional public ori funcționării sistemului democratic, incluzând încurajarea participării cetățenilor în procesul de luare a deciziilor și a pregătirii politicilor publice, respectiv promovarea principiilor și valorilor democrației. (2) În cuprinsul prezentei legi sunt, de asemenea, aplicabile definițiile prevăzute la art. 4 din Regulamentul general privind protecția datelor."
     },
     {
       "provision_ref": "Art.3",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.3",
-      "title": "National Supervisory Authority",
-      "content": "The National Supervisory Authority for Personal Data Processing (ANSPDCP) is the independent public authority established to monitor and ensure the application of Regulation (EU) 2016/679 and of this law. The Authority shall exercise its powers and duties with complete independence, in accordance with Article 51 of Regulation (EU) 2016/679."
+      "chapter": "Capitolul II - Reguli speciale privind prelucrarea unor categorii de date cu caracter personal",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Prelucrarea datelor genetice, biometrice sau a datelor privind sănătatea, în scopul realizării unui proces decizional automatizat sau pentru crearea de profiluri, este permisă cu consimțământul explicit al persoanei vizate sau dacă prelucrarea este efectuată în temeiul unor dispoziții legale exprese, cu instituirea unor măsuri corespunzătoare pentru protejarea drepturilor, libertăților și intereselor legitime ale persoanei vizate. (2) Prelucrarea datelor privind sănătatea realizată în scopul asigurării sănătății publice, astfel cum este definită în Regulamentul (CE) nr. 1.338/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 privind statisticile comunitare referitoare la sănătatea publică, precum și la sănătatea și siguranța la locul de muncă, publicat în Jurnalul Oficial al Uniunii Europene, seria L, nr. 354/70 din 31 decembrie 2008, nu se poate efectua ulterior, în alte scopuri, de către terțe entități."
     },
     {
       "provision_ref": "Art.4",
-      "chapter": "Chapter II - Special Categories of Data",
-      "section": "Art.4",
-      "title": "Processing of National Identification Numbers",
-      "content": "The processing of the national identification number, including the personal numerical code (CNP), shall be carried out only where necessary, with appropriate safeguards for the rights and freedoms of the data subject. The national identification number may be processed when the data subject has given explicit consent, when processing is expressly provided for by law, or when processing is necessary for reasons of substantial public interest, in accordance with Article 9(2)(g) of Regulation (EU) 2016/679."
+      "chapter": "Capitolul II - Reguli speciale privind prelucrarea unor categorii de date cu caracter personal",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Prelucrarea unui număr de identificare național, inclusiv prin colectarea sau dezvăluirea documentelor ce îl conțin, se poate efectua în situațiile prevăzute de art. 6 alin. (1) din Regulamentul general privind protecția datelor. (2) Prelucrarea unui număr de identificare național, inclusiv prin colectarea sau dezvăluirea documentelor ce îl conțin, în scopul prevăzut la art. 6 alin. (1) lit. f) din Regulamentul general privind protecția datelor, respectiv al realizării intereselor legitime urmărite de operator sau de o parte terță, se efectuează cu instituirea de către operator a următoarelor garanții: a) punerea în aplicare de măsuri tehnice și organizatorice adecvate pentru respectarea, în special, a principiului reducerii la minimum a datelor, precum și pentru asigurarea securității și confidențialității prelucrărilor de date cu caracter personal, conform dispozițiilor art. 32 din Regulamentul general privind protecția datelor; b) numirea unui responsabil pentru protecția datelor, în conformitate cu prevederile art. 10 din prezenta lege; c) stabilirea de termene de stocare în funcție de natura datelor și scopul prelucrării, precum și de termene specifice în care datele cu caracter personal trebuie șterse sau revizuite în vederea ștergerii; d) instruirea periodică cu privire la obligațiile ce le revin a persoanelor care, sub directa autoritate a operatorului sau a persoanei împuternicite de operator, prelucrează date cu caracter personal."
     },
     {
       "provision_ref": "Art.5",
-      "chapter": "Chapter II - Special Categories of Data",
-      "section": "Art.5",
-      "title": "Processing of Biometric and Genetic Data",
-      "content": "The processing of biometric data for the purpose of uniquely identifying a natural person, and the processing of genetic data, shall be permitted only in the cases provided for in Article 9(2) of Regulation (EU) 2016/679 and subject to appropriate safeguards. Such processing shall be subject to a data protection impact assessment in accordance with Article 35 of the Regulation."
+      "chapter": "Capitolul II - Reguli speciale privind prelucrarea unor categorii de date cu caracter personal",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "În cazul în care sunt utilizate sisteme de monitorizare prin mijloace de comunicații electronice și/sau prin mijloace de supraveghere video la locul de muncă, prelucrarea datelor cu caracter personal ale angajaților, în scopul realizării intereselor legitime urmărite de angajator, este permisă numai dacă: a) interesele legitime urmărite de angajator sunt temeinic justificate și prevalează asupra intereselor sau drepturilor și libertăților persoanelor vizate; b) angajatorul a realizat informarea prealabilă obligatorie, completă și în mod explicit a angajaților; c) angajatorul a consultat sindicatul sau, după caz, reprezentanții angajaților înainte de introducerea sistemelor de monitorizare; d) alte forme și modalități mai puțin intruzive pentru atingerea scopului urmărit de angajator nu și-au dovedit anterior eficiența; și e) durata de stocare a datelor cu caracter personal este proporțională cu scopul prelucrării, dar nu mai mare de 30 de zile, cu excepția situațiilor expres reglementate de lege sau a cazurilor temeinic justificate."
     },
     {
       "provision_ref": "Art.6",
-      "chapter": "Chapter II - Special Categories of Data",
-      "section": "Art.6",
-      "title": "Processing of Health Data",
-      "content": "The processing of data concerning health shall be permitted where necessary for the purposes of preventive or occupational medicine, medical diagnosis, the provision of health or social care, or the management of health or social care systems and services, in accordance with Article 9(2)(h) of Regulation (EU) 2016/679. Professional secrecy obligations shall apply to persons processing health data."
+      "chapter": "Capitolul II - Reguli speciale privind prelucrarea unor categorii de date cu caracter personal",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "În cazul în care prelucrarea datelor personale și speciale este necesară pentru îndeplinirea unei sarcini care servește unui interes public conform art. 6 alin. (1) lit. e) și art. 9 lit. g) din Regulamentul general privind protecția datelor se efectuează cu instituirea de către operator sau de către partea terță a următoarelor garanții: a) punerea în aplicare a măsurilor tehnice și organizatorice adecvate pentru respectarea principiilor enumerate la art. 5 din Regulamentul general privind protecția datelor, în special a reducerii la minimum a datelor, respectiv a principiului integrității și confidențialității; b) numirea unui responsabil pentru protecția datelor, dacă aceasta este necesară în conformitate cu art. 10 din prezenta lege; c) stabilirea de termene de stocare în funcție de natura datelor și scopul prelucrării, precum și de termene specifice în care datele cu caracter personal trebuie șterse sau revizuite în vederea ștergerii."
     },
     {
       "provision_ref": "Art.7",
-      "chapter": "Chapter III - Processing in Specific Contexts",
-      "section": "Art.7",
-      "title": "Processing for Archiving, Research and Statistical Purposes",
-      "content": "The processing of personal data for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes, in accordance with Article 89 of Regulation (EU) 2016/679, shall be subject to appropriate safeguards. These safeguards shall include technical and organisational measures to ensure respect for the principle of data minimisation, including pseudonymisation where purposes can be fulfilled in that manner."
+      "chapter": "Capitolul III - Derogări",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "În vederea asigurării unui echilibru între dreptul la protecția datelor cu caracter personal, libertatea de exprimare și dreptul la informație, prelucrarea în scopuri jurnalistice sau în scopul exprimării academice, artistice sau literare poate fi efectuată, dacă aceasta privește date cu caracter personal care au fost făcute publice în mod manifest de către persoana vizată sau care sunt strâns legate de calitatea de persoană publică a persoanei vizate ori de caracterul public al faptelor în care este implicată, prin derogare de la următoarele capitole din Regulamentul general privind protecția datelor: a) capitolul II - Principii; b) capitolul III - Drepturile persoanei vizate; c) capitolul IV - Operatorul și persoana împuternicită de operator; d) capitolul V - Transferurile de date cu caracter personal către țări terțe sau organizații internaționale; e) capitolul VI - Autorități de supraveghere independente; f) capitolul VII - Cooperare și coerență; g) capitolul IX - Dispoziții referitoare la situații specifice de prelucrare."
     },
     {
       "provision_ref": "Art.8",
-      "chapter": "Chapter III - Processing in Specific Contexts",
-      "section": "Art.8",
-      "title": "Processing in the Employment Context",
-      "content": "The processing of personal data in the employment context, including for the purposes of recruitment, performance of the employment contract, management and termination of the employment relationship, shall be carried out in accordance with Article 88 of Regulation (EU) 2016/679. Employers acting as data controllers shall implement appropriate safeguards, in particular regarding transparency of processing and transfer of personal data within a group of undertakings."
+      "chapter": "Capitolul III - Derogări",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Prevederile art. 15 , 16 , 18 și 21 din Regulamentul general privind protecția datelor nu se aplică în cazul în care datele cu caracter personal sunt prelucrate în scopuri de cercetare științifică sau istorică ori în scopuri statistice, în măsura în care drepturile menționate la aceste articole sunt de natură să facă imposibilă sau să afecteze în mod grav realizarea scopurilor specifice, iar derogările respective sunt necesare pentru îndeplinirea acestor scopuri. (la 01-12-2019, Alineatul (1) din Articolul 8 , Capitolul III a fost modificat de ARTICOLUL UNIC din LEGEA nr. 233 din 27 noiembrie 2019, publicată în MONITORUL OFICIAL nr. 956 din 28 noiembrie 2019 ) (2) Prevederile art. 15 , 16 , 18 , 19 , 20 și 21 din Regulamentul general privind protecția datelor nu se aplică în cazul în care datele cu caracter personal sunt prelucrate în scopuri de arhivare în interes public, în măsura în care drepturile menționate la aceste articole sunt de natură să facă imposibilă sau să afecteze în mod grav realizarea scopurilor specifice, iar aceste derogări sunt necesare pentru îndeplinirea acestor scopuri. (3) Derogările prevăzute la alin. (1) și (2) sunt aplicabile numai sub rezerva existenței garanțiilor corespunzătoare pentru drepturile și libertățile persoanelor vizate, prevăzute la art. 89 alin. (1) din Regulamentul general privind protecția datelor. (4) În cazul în care prelucrarea menționată la alin. (1) și (2) servește în același timp și altui scop, derogările se aplică numai prelucrării în scopurile menționate la alineatele respective."
     },
     {
       "provision_ref": "Art.9",
-      "chapter": "Chapter III - Processing in Specific Contexts",
-      "section": "Art.9",
-      "title": "Children's Data",
-      "content": "In Romania, the age at which a child can give valid consent for information society services as referred to in Article 8(1) of Regulation (EU) 2016/679 shall be 16 years. Where the child is below the age of 16, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child."
+      "chapter": "Capitolul III - Derogări",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) În vederea asigurării proporționalității și a unui echilibru între dreptul la protecția datelor cu caracter personal și a datelor speciale și prelucrarea unor astfel de date de către partidele politice și organizațiile cetățenilor aparținând minorităților naționale, organizațiilor neguvernamentale, se vor realiza următoarele garanții: a) informarea persoanei vizate despre prelucrarea datelor cu caracter personal; b) garantarea transparenței informațiilor, a comunicărilor și a modalităților de exercitare a drepturilor persoanei vizate; c) garantarea dreptului de rectificare și ștergere. (2) Prelucrarea datelor cu caracter personal și special este permisă partidelor politice și organizațiilor cetățenilor aparținând minorităților naționale, organizațiilor neguvernamentale, în vederea realizării obiectivelor acestora, fără consimțământul expres al persoanei vizate, dar cu condiția să se prevadă garanțiile corespunzătoare, menționate la alineatul precedent."
     },
     {
       "provision_ref": "Art.10",
-      "chapter": "Chapter III - Processing in Specific Contexts",
-      "section": "Art.10",
-      "title": "Freedom of Expression and Information",
-      "content": "The processing of personal data for journalistic purposes, academic artistic or literary expression shall benefit from exemptions and derogations from certain provisions of Regulation (EU) 2016/679, in accordance with Article 85 thereof, where necessary to reconcile the right to the protection of personal data with the freedom of expression and information."
+      "chapter": "Capitolul IV - Responsabilul cu protecția datelor",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) Operatorii și persoanele împuternicite de operator desemnează un responsabil cu protecția datelor în situațiile și condițiile prevăzute la art. 37-39 din Regulamentul general privind protecția datelor. (2) În cazul în care operatorul sau persoana împuternicită de operator este o autoritate publică sau un organism public, astfel cum este definit la art. 2 alin. (1) lit. a) , poate fi desemnat un responsabil cu protecția datelor, unic pentru mai multe dintre aceste autorități sau organisme, luând în considerare structura organizatorică și dimensiunea acestora. (3) Activitatea și sarcinile responsabilului cu protecția datelor se realizează cu respectarea prevederilor art. 38 și 39 din Regulamentul general privind protecția datelor și a reglementărilor legale naționale aplicabile."
     },
     {
       "provision_ref": "Art.11",
-      "chapter": "Chapter IV - Data Protection Officer",
-      "section": "Art.11",
-      "title": "Designation of Data Protection Officer",
-      "content": "The data controller and the processor shall designate a data protection officer in the cases provided for in Article 37 of Regulation (EU) 2016/679. Public authorities and bodies, except courts acting in their judicial capacity, shall designate a data protection officer. The data protection officer shall be designated on the basis of professional qualities and, in particular, expert knowledge of data protection law and practices."
+      "chapter": "Capitolul V - Organisme de certificare",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Acreditarea organismelor de certificare prevăzute la art. 43 din Regulamentul general privind protecția datelor se realizează de Asociația de Acreditare din România - RENAR, în calitate de organism național de acreditare, în conformitate cu Regulamentul (CE) nr. 765/2008 al Parlamentului European și al Consiliului din 9 iulie 2008 de stabilire a cerințelor de acreditare și de supraveghere a pieței în ceea ce privește comercializarea produselor și de abrogare a Regulamentului (CEE) nr. 339/93, publicat în Jurnalul Oficial al Uniunii Europene, seria L, nr. 218 din 13 august 2008, precum și în conformitate cu Ordonanța Guvernului nr. 23/2009 privind activitatea de acreditare a organismelor de evaluare a conformității, aprobată cu modificări prin Legea nr. 256/2011 (2) Organismele de certificare vor fi acreditate potrivit reglementărilor legale aplicabile, în conformitate cu standardul EN-ISO/IEC 17065 și cu cerințele suplimentare stabilite de Autoritatea națională de supraveghere, precum și cu respectarea prevederilor art. 43 din Regulamentul general privind protecția datelor."
     },
     {
       "provision_ref": "Art.12",
-      "chapter": "Chapter IV - Data Protection Officer",
-      "section": "Art.12",
-      "title": "Position and Tasks of the DPO",
-      "content": "The data protection officer shall perform the tasks provided for in Article 39 of Regulation (EU) 2016/679. The data controller and processor shall ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data. The data protection officer shall report directly to the highest management level of the controller or processor."
+      "chapter": "Capitolul VI - Măsuri corective și sancțiuni",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) Încălcarea dispozițiilor enumerate la art. 83 alin. (4)-(6) din Regulamentul general privind protecția datelor constituie contravenție. (2) Sancțiunile contravenționale principale sunt avertismentul și amenda contravențională. (3) Încălcarea prevederilor art. 3-9 din prezenta lege constituie contravenție și se sancționează în condițiile prevăzute la art. 83 alin. (5) din Regulamentul general privind protecția datelor. (4) Constatarea contravențiilor prevăzute de prezenta lege și aplicarea sancțiunilor contravenționale, precum și a celorlalte măsuri corective prevăzute de art. 58 din Regulamentul general privind protecția datelor se fac de Autoritatea națională de supraveghere, în conformitate cu dispozițiile Regulamentului general privind protecția datelor, ale Legii nr. 102/2005 privind înființarea, organizarea și funcționarea Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal, cu modificările și completările ulterioare, și ale prezentei legi."
     },
     {
       "provision_ref": "Art.13",
-      "chapter": "Chapter V - Remedies and Sanctions",
-      "section": "Art.13",
-      "title": "Right to Lodge a Complaint",
-      "content": "Any data subject who considers that the processing of personal data relating to him or her infringes this law or Regulation (EU) 2016/679 shall have the right to lodge a complaint with the Authority (ANSPDCP), in accordance with Article 77 of the Regulation. The complaint shall be filed in writing and shall contain the identification data of the complainant and of the data controller, the description of the alleged infringement, and the date when the data subject became aware of the infringement."
+      "chapter": "Capitolul VI - Măsuri corective și sancțiuni",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) În cazul constatării încălcării prevederilor Regulamentului general privind protecția datelor și ale prezentei legi de către autoritățile/organismele publice, Autoritatea națională de supraveghere încheie un proces-verbal de constatare și sancționare a contravenției prin care se aplică sancțiunea avertismentului și la care anexează un plan de remediere. (2) Termenul de remediere se stabilește în funcție de riscurile asociate prelucrării, precum și demersurile necesar a fi îndeplinite pentru asigurarea conformități prelucrării. (3) În termen de 10 zile de la data expirării termenului de remediere, Autoritatea națională de supraveghere poate să reia controlul. (4) Responsabilitatea îndeplinirii măsurilor de remediere revine autorității/organismului public care, potrivit legii, poartă răspunderea contravențională pentru faptele constatate. (5) Modelul planului de remediere care se anexează la procesul-verbal de constatare și sancționare a contravenției este prevăzut în anexa Plan de remediere, care face parte integrantă din prezenta lege."
     },
     {
       "provision_ref": "Art.14",
-      "chapter": "Chapter V - Remedies and Sanctions",
-      "section": "Art.14",
-      "title": "Administrative Fines",
-      "content": "The Authority shall impose administrative fines in accordance with Article 83 of Regulation (EU) 2016/679. For infringements of the provisions of this law, the Authority may impose administrative fines of up to 10,000,000 EUR or up to 2% of the total worldwide annual turnover of the preceding financial year, whichever is higher. For infringements of the basic principles for processing, data subjects' rights, or transfers of personal data, fines may reach 20,000,000 EUR or up to 4% of total worldwide annual turnover."
+      "chapter": "Capitolul VI - Măsuri corective și sancțiuni",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) Dacă în urma controlului prevăzut la art. 13 alin. (3) se constată faptul că autoritățile/organismele publice nu au adus la îndeplinire în totalitate măsurile prevăzute în planul de remediere, Autoritatea națională de supraveghere, în funcție de circumstanțele fiecărui caz în parte, poate aplica sancțiunea contravențională a amenzii, cu luarea în considerare a criteriilor prevăzute la art. 83 alin. (2) din Regulamentul general privind protecția datelor. (2) Constituie contravenție încălcarea de către autoritățile/organismele publice a următoarelor dispoziții din Regulamentul general privind protecția datelor, referitoare la: a) obligațiile operatorului și ale persoanei împuternicite de operator în conformitate cu prevederile art. 8 , art. 11 , art. 25-39 , art. 42 și 43 ; b) obligațiile organismului de certificare în conformitate cu art. 42 și 43 ; c) obligațiile organismului de monitorizare în conformitate cu art. 41 alin. (4) . (3) Constituie contravenție încălcarea de către autoritățile/organismele publice a dispozițiilor art. 3-9 din prezenta lege. (4) Contravențiile prevăzute la alin. (2) și (3) se sancționează cu amendă de la 10.000 lei până la 100.000 lei. (5) Constituie contravenție încălcarea de către autoritățile/organismele publice a următoarelor dispoziții din Regulamentul general privind protecția datelor, referitoare la: a) principiile de bază pentru prelucrare, inclusiv condițiile privind consimțământul, în conformitate cu art. 5-7 și art. 9 ; b) drepturile persoanelor vizate în conformitate cu art. 12-22 ; c) transferurile de date cu caracter personal către un destinatar dintr-o țară terță sau o organizație internațională, în conformitate cu art. 44-49 ; d) orice obligații în temeiul legislației naționale adoptate în temeiul capitolului IX ; e) nerespectarea unei decizii sau a unei limitări temporare sau definitive asupra prelucrării sau a suspendării fluxurilor de date, emisă de către Autoritatea națională de supraveghere în temeiul art. 58 alin. (2) , sau neacordarea accesului, prin încălcarea dispozițiilor art. 58 alin. (1) . (6) Prin derogare de la prevederile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, contravențiile prevăzute la alin. (5) se sancționează cu amendă de la 10.000 lei până la 200.000 lei. (7) Constituie contravenție încălcarea de către autoritățile/organismele publice a unei decizii emise de Autoritatea națională de supraveghere în conformitate cu art. 58 alin. (2) coroborat cu art. 83 alin. (2) din Regulamentul general privind protecția datelor. (8) Prin derogare de la prevederile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 , cu modificările și completările ulterioare, contravențiile prevăzute la alin. (7) se sancționează cu amendă de la 10.000 lei până la 200.000 lei."
     },
     {
-      "provision_ref": "Art.15",
-      "chapter": "Chapter V - Remedies and Sanctions",
-      "section": "Art.15",
-      "title": "Criminal Penalties",
-      "content": "The processing of personal data by an automated or non-automated means, by a person who has no legitimate right to do so, with the purpose of obtaining benefits for themselves or for others, or with the purpose of causing damage, shall be punishable by imprisonment from 1 to 5 years. Where the offence is committed with regard to special categories of personal data or data concerning criminal convictions, the penalties shall be increased."
+      "provision_ref": "Art.14^2",
+      "chapter": "Capitolul VI - Măsuri corective și sancțiuni",
+      "section": "14^2",
+      "title": "Articolul 14^2",
+      "content": "(1) Sancțiunile contravenționale principale pe care le aplică Autoritatea națională de supraveghere, potrivit art. 58 alin. (2) lit. b) și i) din Regulamentul general privind protecția datelor, sunt avertismentul și amenda. Aplicarea amenzii se face în condițiile art. 83 din Regulamentul general privind protecția datelor."
     },
     {
       "provision_ref": "Art.16",
-      "chapter": "Chapter V - Remedies and Sanctions",
-      "section": "Art.16",
-      "title": "Corrective Powers",
-      "content": "The Authority shall exercise the corrective powers provided for in Article 58(2) of Regulation (EU) 2016/679, including the power to issue warnings, reprimands, orders to comply, temporary or definitive limitations on processing, ordering the rectification or erasure of personal data, imposing administrative fines, and ordering the suspension of data flows to a recipient in a third country."
-    },
-    {
-      "provision_ref": "Art.17",
-      "chapter": "Chapter VI - International Transfer",
-      "section": "Art.17",
-      "title": "International Data Transfers",
-      "content": "The transfer of personal data to a third country or to an international organisation shall be carried out in accordance with Chapter V of Regulation (EU) 2016/679. The Authority may, on its own initiative or at the request of a data controller, authorise transfers based on binding corporate rules, standard contractual clauses, codes of conduct, or certification mechanisms approved in accordance with the Regulation."
-    },
-    {
-      "provision_ref": "Art.18",
-      "chapter": "Chapter VI - International Transfer",
-      "section": "Art.18",
-      "title": "Derogations for Specific Situations",
-      "content": "In the absence of an adequacy decision or appropriate safeguards, transfers of personal data to a third country may take place only in the specific situations provided for in Article 49 of Regulation (EU) 2016/679, including where the data subject has explicitly consented, where the transfer is necessary for the performance of a contract, or where the transfer is necessary for important reasons of public interest recognised in Romanian or Union law."
-    },
-    {
-      "provision_ref": "Art.19",
-      "chapter": "Chapter VII - Final Provisions",
-      "section": "Art.19",
-      "title": "Repeal",
-      "content": "Law no. 677/2001 on the protection of individuals with regard to the processing of personal data and the free movement of such data is hereby repealed. All references in existing legislation to Law no. 677/2001 shall be construed as references to this law and to Regulation (EU) 2016/679, as applicable."
-    },
-    {
-      "provision_ref": "Art.20",
-      "chapter": "Chapter VII - Final Provisions",
-      "section": "Art.20",
-      "title": "Entry into Force",
-      "content": "This law shall enter into force 30 days from the date of its publication in Monitorul Oficial al României (Official Gazette of Romania). This law was adopted by the Parliament of Romania in compliance with the provisions of Article 75 and Article 76(2) of the Constitution of Romania, republished."
+      "chapter": "Capitolul VI - Măsuri corective și sancțiuni",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Prezenta lege intră în vigoare la 5 zile de la data publicării în Monitorul Oficial al României, Partea I."
     }
   ],
   "definitions": [
     {
-      "term": "ANSPDCP",
-      "definition": "Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (National Supervisory Authority for Personal Data Processing) - the independent public authority responsible for monitoring the application of data protection legislation in Romania.",
+      "term": "autorități și organisme publice",
+      "definition": "Camera Deputaților și Senatul, Administrația Prezidențială, Guvernul, ministerele, celelalte organe de specialitate ale administrației publice centrale, autoritățile și instituțiile publice autonome, autoritățile administrației publice locale și de la nivel județean, alte autorități publice, precum și instituțiile din subordinea/coordonarea acestora. În sensul prezentei legi, sunt asimilate autorităților/organismelor publice și unitățile de cult și asociațiile și fundațiile de utilitate publică",
       "source_provision": "Art.2"
     },
     {
-      "term": "National identification number",
-      "definition": "The personal numerical code (CNP - Cod Numeric Personal) or any other unique identifier assigned to a person by public authorities for identification purposes.",
+      "term": "număr de identificare național",
+      "definition": "numărul prin care se identifică o persoană fizică în anumite sisteme de evidență și care are aplicabilitate generală, cum ar fi: codul numeric personal, seria și numărul actului de identitate, numărul pașaportului, al permisului de conducere, numărul de asigurare socială de sănătate",
       "source_provision": "Art.2"
     },
     {
-      "term": "Data Protection Officer",
-      "definition": "A person designated by the data controller or processor to ensure compliance with data protection rules, designated on the basis of professional qualities and expert knowledge of data protection law.",
-      "source_provision": "Art.11"
+      "term": "plan de remediere",
+      "definition": "anexă la procesul-verbal de constatare și sancționare a contravenției, întocmit în condițiile prevăzute la art. 11 , prin care Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal, denumită în continuare Autoritatea națională de supraveghere, stabilește măsuri și un termen de remediere",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "măsură de remediere",
+      "definition": "soluție dispusă de Autoritatea națională de supraveghere în planul de remediere în vederea îndeplinirii de către autoritatea/organismul public a obligațiilor prevăzute de lege",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "termen de remediere",
+      "definition": "perioada de timp de cel mult 90 de zile de la data comunicării procesului-verbal de constatare și sancționare a contravenției, în care autoritatea/organismul public are posibilitatea remedierii neregulilor constatate și îndeplinirii obligațiilor legale",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "îndeplinirea unei sarcini care servește unui interes public",
+      "definition": "include acele activități ale partidelor politice sau ale organizațiilor cetățenilor aparținând minorităților naționale, ale organizațiilor neguvernamentale, care servesc realizării obiectivelor prevăzute de dreptul constituțional sau de dreptul internațional public ori funcționării sistemului democratic, incluzând încurajarea participării cetățenilor în procesul de luare a deciziilor și a pregătirii politicilor publice, respectiv promovarea principiilor și valorilor democrației",
+      "source_provision": "Art.2"
     }
   ]
 }

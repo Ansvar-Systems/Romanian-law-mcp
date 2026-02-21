@@ -1,30 +1,16 @@
 #!/usr/bin/env tsx
 /**
- * Romanian Law MCP -- Ingestion Pipeline
+ * Romanian Law MCP real-data ingestion.
  *
- * Fetches Romanian legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Romanian Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Romanian legislation is public domain under Art. 4 of the Copyright Act
+ * Fetches official legislation HTML from legislatie.just.ro and rebuilds
+ * JSON seed files in data/seed from real article text.
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseRomanianHtml, KEY_ROMANIAN_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchLegislation } from './lib/fetcher.js';
+import { parseRomanianLawHtml, TARGET_LAWS, type LawTarget } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,19 +18,37 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+interface CliArgs {
+  limit: number | null;
+  skipFetch: boolean;
+}
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+interface IngestResult {
+  id: string;
+  documentId: number;
+  status: string;
+  provisions: number;
+  definitions: number;
+  url: string;
+}
+
+function parseArgs(): CliArgs {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
 
-  for (let i = 0; i < args.length; i++) {
-    if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
-      i++;
-    } else if (args[i] === '--skip-fetch') {
+  for (let i = 0; i < args.length; i += 1) {
+    const arg = args[i];
+    if (arg === '--limit' && args[i + 1]) {
+      const parsed = Number.parseInt(args[i + 1], 10);
+      if (!Number.isNaN(parsed) && parsed > 0) {
+        limit = parsed;
+      }
+      i += 1;
+      continue;
+    }
+
+    if (arg === '--skip-fetch') {
       skipFetch = true;
     }
   }
@@ -52,135 +56,143 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
-}
-
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Romanian Acts from api.sejm.gov.pl...\n`);
-
-  fs.mkdirSync(SOURCE_DIR, { recursive: true });
+function cleanSeedDirectory(expectedFiles: string[]): void {
   fs.mkdirSync(SEED_DIR, { recursive: true });
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
+  const expected = new Set(expectedFiles);
+  const current = fs.readdirSync(SEED_DIR).filter(name => name.endsWith('.json'));
 
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
-
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
+  for (const file of current) {
+    if (!expected.has(file)) {
+      fs.rmSync(path.join(SEED_DIR, file), { force: true });
     }
+  }
+}
+
+function sourceFileFor(target: LawTarget): string {
+  return path.join(SOURCE_DIR, `${target.id}.html`);
+}
+
+function seedFileFor(target: LawTarget): string {
+  return path.join(SEED_DIR, target.seedFile);
+}
+
+async function fetchOrLoadHtml(target: LawTarget, skipFetch: boolean): Promise<string> {
+  const sourcePath = sourceFileFor(target);
+  if (skipFetch && fs.existsSync(sourcePath)) {
+    return fs.readFileSync(sourcePath, 'utf-8');
+  }
+
+  const url = `https://legislatie.just.ro/Public/DetaliiDocument/${target.documentId}`;
+  const response = await fetchLegislation(url);
+
+  if (response.status !== 200) {
+    throw new Error(`HTTP ${response.status} from ${url}`);
+  }
+
+  if (!/text\/html/i.test(response.contentType)) {
+    throw new Error(`Unexpected content type ${response.contentType} from ${url}`);
+  }
+
+  if (!response.body.includes('div_Formaconsolidata')) {
+    throw new Error(`Missing consolidated form container in ${url}`);
+  }
+
+  fs.mkdirSync(SOURCE_DIR, { recursive: true });
+  fs.writeFileSync(sourcePath, response.body);
+  return response.body;
+}
+
+async function ingestTargets(targets: LawTarget[], skipFetch: boolean): Promise<IngestResult[]> {
+  cleanSeedDirectory(targets.map(t => t.seedFile));
+
+  const results: IngestResult[] = [];
+
+  for (const target of targets) {
+    const url = `https://legislatie.just.ro/Public/DetaliiDocument/${target.documentId}`;
+    process.stdout.write(`Fetching ${target.id} (${target.documentId})... `);
 
     try {
-      let html: string;
+      const html = await fetchOrLoadHtml(target, skipFetch);
+      const parsed = parseRomanianLawHtml(html, target);
 
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
+      fs.writeFileSync(seedFileFor(target), `${JSON.stringify(parsed, null, 2)}\n`);
 
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
-      }
-
-      const parsed = parseRomanianHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
+      console.log(`OK (${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions)`);
       results.push({
-        act: act.shortName,
+        id: target.id,
+        documentId: target.documentId,
+        status: 'OK',
         provisions: parsed.provisions.length,
         definitions: parsed.definitions.length,
-        status: 'OK',
+        url,
       });
     } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
+      const message = error instanceof Error ? error.message : String(error);
+      console.log(`SKIP (${message})`);
+      results.push({
+        id: target.id,
+        documentId: target.documentId,
+        status: `SKIP: ${message}`,
+        provisions: 0,
+        definitions: 0,
+        url,
+      });
     }
-
-    processed++;
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Romanian Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+  return results;
+}
+
+function printReport(results: IngestResult[]): void {
+  const ok = results.filter(r => r.status === 'OK');
+  const skipped = results.filter(r => r.status !== 'OK');
+
+  const totalProvisions = ok.reduce((sum, row) => sum + row.provisions, 0);
+  const totalDefinitions = ok.reduce((sum, row) => sum + row.definitions, 0);
+
+  console.log('\n' + '='.repeat(84));
+  console.log('Romanian Law MCP Ingestion Report');
+  console.log('='.repeat(84));
+  console.log('Source portal: https://legislatie.just.ro');
+  console.log(`Fetched laws: ${ok.length}/${results.length}`);
+  console.log(`Skipped laws: ${skipped.length}`);
+  console.log(`Total provisions: ${totalProvisions}`);
+  console.log(`Total definitions: ${totalDefinitions}`);
+  console.log('');
+
+  for (const row of results) {
+    console.log(
+      `${row.id.padEnd(22)} ${String(row.provisions).padStart(4)} prov  ${String(row.definitions).padStart(3)} def  ${row.status}`,
+    );
   }
+
+  if (skipped.length > 0) {
+    console.log('\nSkipped entries (not ingested):');
+    for (const row of skipped) {
+      console.log(`- ${row.id} (${row.url}): ${row.status}`);
+    }
+  }
+
   console.log('');
 }
 
 async function main(): Promise<void> {
   const { limit, skipFetch } = parseArgs();
+  const targets = limit ? TARGET_LAWS.slice(0, limit) : TARGET_LAWS;
 
-  console.log('Romanian Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Romanian Copyright Act)`);
+  console.log('Romanian Law MCP — Real data ingestion');
+  console.log('Portal: https://legislatie.just.ro');
+  console.log('Method: HTML scrape (official consolidated document pages)');
+  if (limit) console.log(`--limit ${limit}`);
+  if (skipFetch) console.log('--skip-fetch');
+  console.log('');
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
-
-  const acts = limit ? KEY_ROMANIAN_ACTS.slice(0, limit) : KEY_ROMANIAN_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  const results = await ingestTargets(targets, skipFetch);
+  printReport(results);
 }
 
 main().catch(error => {
-  console.error('Fatal error:', error);
+  console.error('Fatal ingestion error:', error);
   process.exit(1);
 });

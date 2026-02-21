@@ -1,171 +1,239 @@
 {
   "id": "law-365-2002",
   "type": "statute",
-  "title": "Legea nr. 365/2002 privind comerțul electronic",
-  "title_en": "Law 365/2002 on electronic commerce",
-  "short_name": "E-Commerce Law",
+  "title": "LEGE nr. 365 din 7 iunie 2002 (**republicată**)",
+  "title_en": "Law No. 365/2002 on Electronic Commerce (Republished)",
+  "short_name": "Legea comertului electronic",
   "status": "in_force",
   "issued_date": "2002-06-07",
-  "in_force_date": "2002-06-19",
-  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37050",
-  "description": "Romania's transposition of Directive 2000/31/EC (E-Commerce Directive), establishing rules for information society services, electronic contracts, liability of intermediary service providers, and online commercial communications.",
+  "in_force_date": "2002-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/77218",
+  "description": "Romania e-commerce framework covering online services, information duties, and intermediary liability provisions.",
   "provisions": [
     {
       "provision_ref": "Art.1",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.1",
-      "title": "Scope",
-      "content": "This law establishes the conditions for the provision of information society services, transposing Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the internal market (E-Commerce Directive). This law applies to information society service providers established in Romania and to information society services provided to recipients in Romania."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Definiții În înțelesul prezentei legi, următorii termeni se definesc astfel: 1. serviciu al societății informaționale - orice serviciu care se efectuează utilizându-se mijloace electronice și prezintă următoarele caracteristici: a) este efectuat în considerarea unui folos patrimonial, procurat ofertantului în mod obișnuit de către destinatar; b) nu este necesar ca ofertantul și destinatarul să fie fizic prezenți simultan în același loc; c) este efectuat prin transmiterea informației la cererea individuală a destinatarului; 2. mijloace electronice - echipamente electronice și rețele de cablu, fibră optică, radio, satelit și altele asemenea, utilizate pentru prelucrarea, stocarea sau transmiterea informației; 3. furnizor de servicii - orice persoană fizică sau juridică ce pune la dispoziție unui număr determinat sau nedeterminat de persoane un serviciu al societății informaționale; 4. furnizor de servicii stabilit într-un stat - un furnizor de servicii având un sediu stabil pe teritoriul unui stat și care desfășoară efectiv o activitate economică utilizând acel sediu stabil pe teritoriul unui stat, pentru o perioadă nedeterminată; stabilirea unui furnizor de servicii într-un stat nu este determinată în mod necesar de locul în care sunt amplasate mijloacele tehnice și tehnologice necesare furnizării serviciului; 5. domeniu - o zonă dintr-un sistem informatic, deținută ca atare de o persoană fizică sau juridică ori de un grup de persoane fizice sau juridice în scopul prelucrării, stocării ori transferului de date; 6. destinatar al serviciului sau destinatar - orice persoană fizică sau juridică ce utilizează, în scopuri comerciale, profesionale sau de altă natură, un serviciu al societății informaționale, în special în scopul căutării de informații sau al furnizării accesului la acestea; 7. consumator - orice persoană fizică ce acționează în alte scopuri decât cele ale activității sale comerciale sau profesionale; 8. comunicare comercială - orice formă de comunicare destinată să promoveze, direct sau indirect, produsele, serviciile, imaginea, numele ori denumirea, firma sau emblema unui comerciant ori membru al unei profesii reglementate; nu constituie prin ele însele comunicări comerciale următoarele: informațiile permițând accesul direct la activitatea unei persoane fizice sau juridice, în special pe nume de domeniu sau o adresă de poștă electronică, comunicările legate de produsele, serviciile, imaginea, numele ori mărcile unei persoane fizice sau juridice, efectuate de un terț independent față de persoana în cauză, mai ales atunci când sunt realizate cu titlu gratuit; 9. legislație coordonată - prevederile în vigoare ale legilor naționale, aplicabile activităților ce fac obiectul serviciilor societății informaționale sau furnizorilor de servicii în privința: a) condițiilor pe care trebuie să le îndeplinească furnizorii de servicii în vederea începerii acestor activități, precum sunt cele legate de eventualele calificări, autorizații sau notificări necesare; b) condițiilor pe care trebuie să le îndeplinească furnizorii de servicii pentru desfășurarea acestor activități, precum sunt cele care privesc conduita acestora, calitatea sau conținutul serviciilor oferite, inclusiv în materie de publicitate și încheiere a contractelor, sau cele care privesc răspunderea furnizorilor; 10. nu constituie obiect al legislației coordonate: a) cerințele aplicabile bunurilor ca atare și livrării acestora; b) cerințele aplicabile serviciilor care nu sunt prestate prin mijloace electronice; 11. instrument de plată electronică - un instrument care permite titularului său să efectueze următoarele tipuri de operațiuni: a) transferuri de fonduri, altele decât cele ordonate și executate de către instituții financiare; b) retrageri de numerar, precum și încărcarea și descărcarea unui instrument de monedă electronică; 12. instrument de plată cu acces la distanță - instrument de plată electronică prin intermediul căruia titularul său poate să își acceseze fondurile deținute într-un cont la o instituție financiară și să autorizeze efectuarea unei plăți, utilizând un cod personal de identificare sau un alt mijloc de identificare similar; 13. instrument de monedă electronică - instrument de plată electronică reîncărcabil, altul decât instrumentul de plată cu acces la distanță, pe care unitățile de valoare sunt stocate electronic și care permite titularului său să efectueze tipurile de operațiuni menționate la pct. 11 ; 14. titular - persoană care deține un instrument de plată electronică pe baza unui contract încheiat cu un emitent, în condițiile prevăzute de lege; 15. date de identificare - orice informații care pot permite sau facilita efectuarea tipurilor de operațiuni menționate la pct. 11 , precum un cod de identificare, numele sau denumirea, domiciliul ori sediul, numărul de telefon, fax, adresa de poștă electronică, numărul de înmatriculare sau alte mijloace similare de identificare, codul de înregistrare fiscală, codul numeric personal și altele asemenea; 16. activitate profesională reglementată - activitatea profesională pentru care accesul sau exercitarea în România este condiționată, direct sau indirect, în conformitate cu legislația română în vigoare, de deținerea unui document care să ateste nivelul de formare profesională."
     },
     {
       "provision_ref": "Art.2",
-      "chapter": "Chapter I - General Provisions",
-      "section": "Art.2",
-      "title": "Definitions",
-      "content": "For the purposes of this law: a) information society service means any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services; b) service provider means any natural or legal person providing an information society service; c) recipient of the service means any natural or legal person who, for professional or other purposes, uses an information society service; d) commercial communication means any form of communication designed to promote, directly or indirectly, the goods, services or image of a company, organisation or person pursuing a commercial, industrial or craft activity or exercising a regulated profession."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Scop și domeniu de aplicare (1) Prezenta lege are ca scop stabilirea condițiilor de furnizare a serviciilor societății informaționale, precum și prevederea ca infracțiuni a unor fapte săvârșite în legătură cu securitatea domeniilor utilizate în comerțul electronic, emiterea și utilizarea instrumentelor de plată electronică și cu utilizarea datelor de identificare în vederea efectuării de operațiuni financiare, pentru asigurarea unui cadru favorabil liberei circulații și dezvoltării în condiții de securitate a acestor servicii. (2) Nu constituie servicii ale societății informaționale, în sensul prezentei legi, activitățile care nu întrunesc elementele definiției prevăzute la art. 1 pct. 1 , în special următoarele: a) oferta de servicii care necesită prezența fizică a furnizorului și a destinatarului, chiar dacă prestarea serviciilor respective implică utilizarea de echipamente electronice; b) oferta de servicii care presupun manipularea unor bunuri corporale de către destinatar, chiar dacă prestarea serviciilor respective implică utilizarea de echipamente electronice; c) oferta de bunuri sau servicii care nu este prezentată destinatarului prin transmiterea informației la cererea individuală a acestuia și care este destinată recepției simultane de către un număr nelimitat de persoane (punct-multipunct); d) activități care se efectuează prin intermediul serviciilor de telefonie vocală, telefax, telex, servicii de radiodifuziune și televiziune, inclusiv serviciile de teletext; e) serviciile de telefonie vocală, telefax sau telex; f) schimbul de informații prin poșta electronică sau prin alte mijloace de comunicare individuală echivalente, între persoane care acționează în scopuri străine activității lor comerciale sau profesionale; g) relația contractuală dintre un angajat și angajatorul său. (3) Prezenta lege nu se aplică următoarelor activități: a) activitatea notarilor publici, în măsura în care aceasta presupune o participare directă și specifică la exercitarea prerogativelor autorității publice; b) activitățile de reprezentare juridică în fața organelor de jurisdicție și de urmărire penală; c) jocurile de noroc cu câștiguri în bani, loteriile și pariurile. (4) Dispozițiile prezentei legi se completează cu: a) dispozițiile legale în materie fiscală; b) dispozițiile legale care reglementează protecția persoanelor în privința prelucrării datelor cu caracter personal și libera circulație a acestor date, precum și cele care reglementează prelucrarea datelor cu caracter personal și protecția vieții private în sectorul telecomunicațiilor; c) prevederile Legii concurenței nr. 21/1996 , republicată. (5) În măsura în care nu conține dispoziții derogatorii, prezenta lege se completează cu dispozițiile legale privind încheierea, validitatea și efectele actelor juridice, cu celelalte prevederi legale care au ca scop protecția consumatorilor și a sănătății publice."
     },
     {
       "provision_ref": "Art.3",
-      "chapter": "Chapter II - Information Requirements",
-      "section": "Art.3",
-      "title": "General Information Requirements",
-      "content": "A service provider shall make available to the recipients of the service and to competent authorities, in a form which is easily, directly and permanently accessible, at least the following information: the name of the service provider, the geographic address at which the service provider is established, contact details including email address, the trade register number, tax identification number, and where the activity is subject to an authorisation scheme, the details of the relevant supervisory authority."
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Aplicarea legii române în cazul serviciilor societății informaționale (1) Prezenta lege se aplică furnizorilor de servicii stabiliți în România și serviciilor oferite de aceștia. (2) De la data intrării în vigoare a prezentei legi serviciile societății informaționale sunt supuse: a) exclusiv prevederilor în vigoare ale legilor române care fac parte din legislația coordonată, în cazul în care sunt oferite de furnizori de servicii stabiliți în România; b) exclusiv prevederilor în vigoare ale legilor statului în cauză care fac parte din legislația coordonată, în cazul în care sunt oferite de furnizori de servicii stabiliți într-un stat membru al Uniunii Europene. (3) Libera circulație a serviciilor societății informaționale oferite de un furnizor stabilit într-un stat membru al Uniunii Europene nu poate fi restrânsă în România prin aplicarea unor prevederi legale care fac parte din legislația coordonată. (4) Alin. (2) și (3) nu se aplică în următoarele domenii: a) dreptul de proprietate intelectuală și dreptul de proprietate industrială; b) emisiunea de monedă electronică, în condițiile prevăzute în normele metodologice de aplicare a prezentei legi; c) publicitatea pentru organisme de investiții colective în valori mobiliare; d) activitățile de asigurare, în condițiile prevăzute în normele metodologice de aplicare a prezentei legi; e) libertatea părților de a alege legea aplicabilă contractului, când părțile au acest drept; f) obligații rezultate din contractele încheiate cu consumatorii; g) cerințele de formă prevăzute pentru validitatea actelor juridice prin care se creează, se modifică, se sting sau se transmit drepturi reale asupra unor bunuri imobile situate pe teritoriul României. (5) Autoritățile publice pot lua măsuri derogatorii de la prevederile alin. (3) numai în următoarele condiții: a) măsura este necesară pentru motive de ordine publică, desfășurarea instrucției penale, protecția minorilor, lupta împotriva oricărei forme de incitare la ură din rațiune de rasă, sex, religie sau naționalitate, atingeri aduse demnității umane, protecția sănătății publice, apărarea și siguranța națională, protecția consumatorilor, inclusiv a investitorilor; b) măsura vizează un serviciu al societății informaționale care aduce atingere uneia dintre valorile enumerate la lit. a) sau prezintă un risc serios și grav la adresa acestor valori; c) măsura este proporțională cu scopul urmărit; d) sunt respectate procedurile de colaborare, consultare sau informare prevăzute în normele metodologice de aplicare a prezentei legi."
     },
     {
       "provision_ref": "Art.4",
-      "chapter": "Chapter II - Information Requirements",
-      "section": "Art.4",
-      "title": "Commercial Communications",
-      "content": "Commercial communications which are part of, or constitute, an information society service shall be clearly identifiable as such. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Promotional offers, such as discounts, premiums and gifts, shall be clearly identifiable as such, and the conditions which are to be met to qualify for them shall be easily accessible and presented clearly and unambiguously."
+      "chapter": "Capitolul II - Furnizarea serviciilor societății informaționale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Principiile furnizării serviciilor societății informaționale (1) Furnizarea de servicii ale societății informaționale de către persoanele fizice sau juridice nu este supusă niciunei autorizări prealabile și se desfășoară în concordanță cu principiile concurenței libere și loiale, cu respectarea dispozițiilor legale în vigoare. (2) Prevederile alin. (1) nu aduc atingere dispozițiilor legale care impun autorizarea prealabilă în vederea desfășurării unor activități de către persoanele fizice sau juridice, dacă dispozițiile în cauză nu vizează în mod expres și exclusiv serviciile societății informaționale sau furnizorii de servicii, în înțelesul prezentei legi. (3) Furnizarea de servicii ale societății informaționale de către furnizorii de servicii stabiliți în statele membre ale Uniunii Europene se face, până la momentul aderării României la Uniunea Europeană, în condițiile prevăzute în Acordul european instituind o asociere între România, pe de o parte, și Comunitățile Europene și statele membre ale acestora, pe de altă parte. (4) Furnizarea de servicii ale societății informaționale de către furnizorii de servicii stabiliți în alte state se face în condițiile acordurilor bilaterale încheiate cu statele respective, la care România este parte."
     },
     {
       "provision_ref": "Art.5",
-      "chapter": "Chapter II - Information Requirements",
-      "section": "Art.5",
-      "title": "Unsolicited Commercial Communications",
-      "content": "Unsolicited commercial communications by electronic mail shall be clearly and unambiguously identifiable as such as soon as they are received by the recipient. Service providers undertaking unsolicited commercial communications by electronic mail shall consult regularly and respect the opt-out registers in which natural persons who do not wish to receive such commercial communications can register themselves."
+      "chapter": "Capitolul II - Furnizarea serviciilor societății informaționale",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Informații generale (1) Furnizorul de servicii are obligația de a pune la dispoziție destinatarilor și autorităților publice mijloace care să permită accesul facil, direct, permanent și gratuit cel puțin la următoarele informații: a) numele sau denumirea furnizorului de servicii; b) domiciliul sau sediul furnizorului de servicii; c) numerele de telefon, fax, adresa de poștă electronică și orice alte date necesare contactării furnizorului de servicii în mod direct și efectiv; d) numărul de înmatriculare sau alte mijloace similare de identificare, în cazul în care furnizorul de servicii este înscris în registrul comerțului sau în alt registru public similar; e) codul de înregistrare fiscală; f) datele de identificare ale autorității competente, în cazul în care activitatea furnizorului de servicii este supusă unui regim de autorizare; g) titlul profesional și statul în care a fost acordat, corpul profesional sau orice alt organism similar din care face parte, indicarea reglementărilor aplicabile profesiei respective în statul în care furnizorul de servicii este stabilit, precum și a mijloacelor de acces la acestea, în cazul în care furnizorul de servicii desfășoară o activitate profesională reglementată; h) tarifele aferente serviciilor oferite, care trebuie indicate cu respectarea normelor privind comercializarea produselor și serviciilor de piață, cu precizarea scutirii, includerii sau neincluderii taxei pe valoarea adăugată, precum și a cuantumului acesteia; i) includerea sau neincluderea în preț a cheltuielilor de livrare, precum și valoarea acestora, dacă este cazul; j) orice alte informații pe care furnizorul de servicii este obligat să le pună la dispoziție destinatarilor, în conformitate cu prevederile legale în vigoare. (2) Obligația prevăzută la alin. (1) se consideră îndeplinită în cazul în care furnizorul unui serviciu afișează aceste informații într-o formă clară, vizibil și permanent, în interiorul paginii de web prin intermediul căreia este oferit serviciul respectiv, în condițiile menționate la alin. (1) . (3) Furnizorul de servicii are obligația de a se asigura că informațiile puse la dispoziție conform alin. (1) sunt actualizate și pot fi utilizate de autoritățile publice în vederea primirii oricăror comunicări potrivit legii. (la 18-04-2024, Articolul 5 , Capitolul II a fost completat de Punctul 1. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 )"
     },
     {
       "provision_ref": "Art.6",
-      "chapter": "Chapter III - Electronic Contracts",
-      "section": "Art.6",
-      "title": "Validity of Electronic Contracts",
-      "content": "Contracts concluded by electronic means shall produce all legal effects that the law recognises for valid contracts. A contract shall not be denied legal validity or enforceability solely on the grounds that it is concluded by electronic means. The provisions of the Civil Code and other applicable legislation regarding the formation, validity, and effects of contracts shall apply accordingly to electronic contracts."
+      "chapter": "Capitolul II - Furnizarea serviciilor societății informaționale",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Comunicările comerciale (1) Efectuarea de comunicări comerciale prin poșta electronică este interzisă, cu excepția cazului în care destinatarul și-a exprimat în prealabil consimțământul expres pentru a primi asemenea comunicări. (2) Comunicările comerciale care constituie un serviciu al societății informaționale sau o parte a acestuia, în măsura în care sunt permise, trebuie să respecte cel puțin următoarele condiții: a) să fie clar identificabile ca atare; b) persoana fizică sau juridică în numele căreia sunt făcute să fie clar identificată; c) ofertele promoționale, precum reducerile, premiile și cadourile, să fie clar identificabile, iar condițiile care trebuie îndeplinite pentru obținerea lor să fie ușor accesibile și clar prezentate; d) competițiile și jocurile promoționale să fie clar identificabile ca atare, iar condițiile de participare să fie ușor accesibile și clar prezentate; e) orice alte condiții impuse prin dispozițiile legale în vigoare. (3) Comunicările comerciale care constituie un serviciu al societății informaționale sau o parte a acestuia, atunci când acest serviciu este furnizat de un membru al unei profesii reglementate, sunt permise sub condiția respectării dispozițiilor legale și a reglementărilor aplicabile profesiei respective, care privesc, în special, independența, demnitatea și onoarea profesiei, secretul profesional și corectitudinea față de clienți și față de ceilalți membri ai profesiei. (4) Furnizorii de servicii ale societății informaționale care efectuează comunicări comerciale au obligația de a respecta prevederile alin. (1)-(3) ."
     },
     {
       "provision_ref": "Art.7",
-      "chapter": "Chapter III - Electronic Contracts",
-      "section": "Art.7",
-      "title": "Information Prior to Contract Formation",
-      "content": "Before the conclusion of the contract, the service provider shall provide the recipient with the following information in a clear, comprehensible and unambiguous manner: the different technical steps to follow to conclude the contract, whether or not the concluded contract will be filed by the service provider and whether it will be accessible, the technical means for identifying and correcting input errors prior to the placing of the order, and the languages offered for the conclusion of the contract."
+      "chapter": "Capitolul III - Contractele încheiate prin mijloace electronice",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Validitatea, efectele juridice și proba contractelor încheiate prin mijloace electronice (1) Contractele încheiate prin mijloace electronice produc toate efectele pe care legea le recunoaște contractelor, atunci când sunt întrunite condițiile cerute de lege pentru validitatea acestora. (2) Pentru validitatea contractelor încheiate prin mijloace electronice nu este necesar consimțământul prealabil al părților asupra utilizării mijloacelor electronice. (3) Proba încheierii contractelor prin mijloace electronice și a obligațiilor care rezultă din aceste contracte este supusă dispozițiilor dreptului comun în materie de probă și prevederilor Legii nr. 455/2001 privind semnătura electronică."
     },
     {
       "provision_ref": "Art.8",
-      "chapter": "Chapter III - Electronic Contracts",
-      "section": "Art.8",
-      "title": "Order Placement and Acknowledgement",
-      "content": "The service provider shall acknowledge receipt of the recipient's order without undue delay and by electronic means. The order and the acknowledgement of receipt are deemed to be received when the parties to whom they are addressed are able to access them. The service provider shall make available to the recipient appropriate, effective and accessible technical means allowing the identification and correction of input errors prior to the placing of the order."
+      "chapter": "Capitolul III - Contractele încheiate prin mijloace electronice",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Informarea destinatarilor (1) Furnizorul de servicii este obligat să pună la dispoziție destinatarului, înainte ca destinatarul să trimită oferta de a contracta sau acceptarea ofertei ferme de a contracta făcute de furnizorul de servicii, cel puțin următoarele informații, care trebuie să fie exprimate în mod clar, neechivoc și într-un limbaj accesibil: a) etapele tehnice care trebuie urmate pentru a încheia contractul; b) dacă contractul, odată încheiat, este stocat sau nu de către furnizorul de servicii și dacă este accesibil sau nu; c) mijloacele tehnice pe care furnizorul de servicii le pune la dispoziție destinatarului pentru identificarea și corectarea erorilor survenite cu ocazia introducerii datelor; d) limba în care se poate încheia contractul; e) codurile de conduită relevante la care furnizorul de servicii subscrie, precum și informații despre modul în care aceste coduri pot fi consultate prin mijloace electronice; f) orice alte condiții impuse prin dispozițiile legale în vigoare. (2) Furnizorul de servicii are obligația să ofere destinatarului posibilitatea de a utiliza un procedeu tehnic adecvat, eficace și accesibil, care să permită identificarea și corectarea erorilor survenite cu ocazia introducerii datelor, anterior trimiterii ofertei sau acceptării acesteia. (3) Furnizorul de servicii poate deroga de la dispozițiile alin. (1) și (2) numai în situația în care a convenit altfel cu destinatarul, cu condiția că niciuna dintre părți să nu aibă calitatea de consumator. (4) Clauzele și condițiile generale ale contractului propus trebuie puse la dispoziție destinatarului într-un mod care să îi permită acestuia să le stocheze și să le reproducă. (5) Prevederile alin. (1)-(3) nu se aplică în privința contractelor încheiate exclusiv prin poștă electronică sau prin alte mijloace de comunicare individuală echivalente."
     },
     {
       "provision_ref": "Art.9",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
-      "section": "Art.9",
-      "title": "Mere Conduit",
-      "content": "Where an information society service is provided that consists of the transmission in a communications network of information provided by a recipient of the service, or the provision of access to a communications network, the service provider shall not be liable for the information transmitted, on condition that the provider does not initiate the transmission, does not select the receiver of the transmission, and does not select or modify the information contained in the transmission, in accordance with Article 12 of Directive 2000/31/EC."
+      "chapter": "Capitolul III - Contractele încheiate prin mijloace electronice",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Încheierea contractului prin mijloace electronice (1) Dacă părțile nu au convenit altfel, contractul se consideră încheiat în momentul în care acceptarea ofertei de a contracta a ajuns la cunoștința ofertantului. (2) Contractul care, prin natura sa ori la cererea beneficiarului, impune o executare imediată a prestației caracteristice se consideră încheiat în momentul în care debitorul acesteia a început executarea, în afară de cazul în care ofertantul a cerut ca în prealabil să i se comunice acceptarea. În acest ultim caz se aplică prevederile alin. (1) . (3) În cazul în care destinatarul trimite prin mijloace electronice oferta de a contracta sau acceptarea ofertei ferme de a contracta făcute de furnizorul de servicii, furnizorul de servicii are obligația de a confirma primirea ofertei sau, după caz, a acceptării acesteia, în unul dintre următoarele moduri: a) trimiterea unei dovezi de primire prin poștă electronică sau printr-un alt mijloc de comunicare individuală echivalent, la adresa indicată de către destinatar, fără întârziere; b) confirmarea primirii ofertei sau a acceptării ofertei, printr-un mijloc echivalent celui utilizat pentru trimiterea ofertei sau a acceptării ofertei, de îndată ce oferta sau acceptarea a fost primită de furnizorul de servicii, cu condiția ca această confirmare să poată fi stocată și reprodusă de către destinatar. (4) Oferta sau acceptarea ofertei, precum și confirmarea primirii ofertei sau a acceptării ofertei, efectuate în unul dintre modurile prevăzute la alin. (3) , se consideră primite atunci când părțile cărora le sunt adresate pot să le acceseze. (5) Prevederile alin. (3) nu se aplică în privința contractelor încheiate exclusiv prin poștă electronică sau prin alte mijloace de comunicare individuală echivalente."
     },
     {
       "provision_ref": "Art.10",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
-      "section": "Art.10",
-      "title": "Caching",
-      "content": "Where an information society service is provided that consists of the transmission in a communications network of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient the information's onward transmission to other recipients of the service, subject to conditions set out in Article 13 of Directive 2000/31/EC."
+      "chapter": "Capitolul III - Contractele încheiate prin mijloace electronice",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Condiții privind păstrarea sau prezentarea informației (1) Acolo unde legea impune ca informația să fie prezentată sau păstrată în forma sa originală, această cerință este îndeplinită dacă sunt întrunite în mod cumulativ următoarele condiții: a) există garanția integrității informației, asigurată prin respectarea standardelor naționale în domeniu, din momentul în care a fost generată; b) mesajul este semnat utilizându-se semnătura electronică calificată sau semnătura electronică avansată a emitentului; (la 08-10-2024, Litera b) , Alineatul (1) , Articolul 10 , Capitolul III a fost modificată de Alineatul (4) , Articolul 36 , Capitolul IX din LEGEA nr. 214 din 5 iulie 2024, publicată în MONITORUL OFICIAL nr. 647 din 8 iulie 2024 ) c) informația poate fi imediat furnizată și prezentată la cerere. (2) Destinatarul comerciant acționează pe riscul propriu, dacă a știut sau ar fi trebuit să știe, în concordanță cu practicile comerciale curente sau ca urmare a folosirii procedurilor convenite expres cu emitentul, că informația conținută într-un mesaj electronic a fost alterată în timpul transmiterii sau prelucrării sale."
     },
     {
       "provision_ref": "Art.11",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
-      "section": "Art.11",
-      "title": "Hosting",
-      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient of the service, on condition that the provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent, or upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information, in accordance with Article 14 of Directive 2000/31/EC."
+      "chapter": "Capitolul IV - Răspunderea furnizorilor de servicii",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Principii generale (1) Furnizorii de servicii sunt supuși dispozițiilor legale referitoare la răspunderea civilă, penală și contravențională, în măsura în care prin prezenta lege nu se dispune altfel. (2) Furnizorii de servicii răspund pentru informația furnizată de ei înșiși sau pe seama lor. (3) Furnizorii de servicii nu răspund pentru informația transmisă, stocată sau la care facilitează accesul, în condițiile prevăzute la art. 4-6 și art. 8 din Regulamentul (UE) 2022/2.065 al Parlamentului European și al Consiliului din 19 octombrie 2022 privind o piață unică pentru serviciile digitale și de modificare a Directivei 2000/31/CE (Regulamentul privind serviciile digitale). (la 18-04-2024, Alineatul (3) , Articolul 11 , Capitolul IV a fost modificat de Punctul 2. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 )"
     },
     {
       "provision_ref": "Art.12",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
-      "section": "Art.12",
-      "title": "No General Monitoring Obligation",
-      "content": "Service providers shall not be subject to a general obligation to monitor the information which they transmit or store, nor to a general obligation actively to seek facts or circumstances indicating illegal activity. This provision shall not affect any targeted monitoring obligations in specific cases, nor does it affect orders by national authorities in accordance with national legislation."
+      "chapter": "Capitolul IV - Răspunderea furnizorilor de servicii",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Abrogat. (la 18-04-2024, Articolul 12 , Capitolul IV a fost abrogat de Punctul 3. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 )"
     },
     {
       "provision_ref": "Art.13",
-      "chapter": "Chapter V - Supervision and Sanctions",
-      "section": "Art.13",
-      "title": "Supervisory Authority",
-      "content": "The Ministry of Communications and Information Technology, the National Authority for Consumer Protection (ANPC), and other sector-specific authorities shall supervise the application of this law within their respective competences. The ANPC shall be responsible for supervising compliance with consumer protection requirements applicable to information society services."
+      "chapter": "Capitolul IV - Răspunderea furnizorilor de servicii",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Abrogat. (la 18-04-2024, Articolul 13 , Capitolul IV a fost abrogat de Punctul 3. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 )"
     },
     {
       "provision_ref": "Art.14",
-      "chapter": "Chapter V - Supervision and Sanctions",
-      "section": "Art.14",
-      "title": "Administrative Sanctions",
-      "content": "Failure to comply with the information requirements set out in this law shall be sanctioned with a fine from 1,000 to 10,000 RON. Failure to comply with the requirements relating to commercial communications shall be sanctioned with a fine from 5,000 to 50,000 RON. Failure to acknowledge receipt of orders within the time limits prescribed shall be sanctioned with a fine from 500 to 5,000 RON."
+      "chapter": "Capitolul IV - Răspunderea furnizorilor de servicii",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Abrogat. (la 18-04-2024, Articolul 14 , Capitolul IV a fost abrogat de Punctul 3. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 )"
     },
     {
       "provision_ref": "Art.15",
-      "chapter": "Chapter V - Supervision and Sanctions",
-      "section": "Art.15",
-      "title": "Judicial Remedies",
-      "content": "Any person whose rights have been infringed by the provision of an information society service may seek judicial remedies, including injunctive relief and damages, before the competent Romanian courts. The courts may order the cessation or prevention of any infringement and may order the service provider to take appropriate corrective measures."
+      "chapter": "Capitolul IV - Răspunderea furnizorilor de servicii",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Abrogat. (la 18-04-2024, Articolul 15 , Capitolul IV a fost abrogat de Punctul 3. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 )"
     },
     {
       "provision_ref": "Art.16",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.16",
-      "title": "Country of Origin Principle",
-      "content": "Information society services provided by a service provider established in Romania shall comply with the national provisions applicable in Romania falling within the coordinated field. Romania shall not restrict the freedom to provide information society services from another Member State for reasons falling within the coordinated field, subject to the derogations permitted by Directive 2000/31/EC."
+      "chapter": "Capitolul V - Supraveghere și control",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Obligațiile furnizorilor de servicii (1) Furnizorii de servicii sunt obligați să informeze de îndată autoritățile publice competente despre activitățile cu aparență nelegală desfășurate de destinatarii serviciilor lor sau despre informațiile cu aparență nelegală furnizate de aceștia. (2) Furnizorii de servicii sunt obligați să comunice de îndată autorităților prevăzute la alin. (1) , la cererea acestora, informații care să permită identificarea destinatarilor serviciilor lor, cu care acești furnizori au încheiat contracte privind stocarea permanentă a informației. (3) Furnizorii de servicii sunt obligați să întrerupă, temporar sau permanent, transmiterea într-o rețea de comunicații ori stocarea informației furnizate de un destinatar al serviciului respectiv, în special prin eliminarea informației sau blocarea accesului la aceasta, accesul la o rețea de comunicații ori prestarea oricărui alt serviciu al societății informaționale, dacă aceste măsuri au fost dispuse de autoritatea publică definită la art. 17 alin. (2) ; această autoritate publică poate acționa din oficiu sau ca urmare a plângerii ori sesizării unei persoane interesate. (4) Plângerea prevăzută la alin. (3) poate fi făcută de către orice persoană care se consideră prejudiciată prin conținutul informației în cauză. Plângerea sau sesizarea se întocmește în formă scrisă, cu arătarea motivelor pe care se întemeiază, și va fi în mod obligatoriu datată și semnată. Plângerea nu poate fi înaintată dacă o cerere în justiție, având același obiect și aceleași părți, a fost anterior introdusă. (5) Decizia autorității trebuie motivată și se comunică părților interesate în termen de 30 de zile de la data primirii plângerii sau a sesizării ori, dacă autoritatea a acționat din oficiu, în termen de 15 zile de la data la care a fost emisă. (6) Împotriva unei decizii luate potrivit prevederilor alin. (3) persoana interesată poate formula contestație în termen de 15 zile de la comunicare, sub sancțiunea decăderii, la instanța de contencios administrativ competentă. Cererea se judecă de urgență, cu citarea părților. Sentința este definitivă."
     },
     {
       "provision_ref": "Art.17",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.17",
-      "title": "Codes of Conduct",
-      "content": "Trade associations and organisations representing consumers and professional bodies shall be encouraged to draw up codes of conduct at the national level in order to contribute to the proper implementation of the provisions of this law. Codes of conduct may address, inter alia, consumer protection, fair commercial practices, and the protection of minors in the online environment."
+      "chapter": "Capitolul V - Supraveghere și control",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Autorități competente (1) Autoritatea pentru Digitalizarea României, denumită în continuare Autoritatea, este competentă să supravegheze și să controleze respectarea de către furnizorii de servicii a prevederilor prezentei legi și a normelor metodologice de aplicare a acesteia, să constate contravențiile și să aplice sancțiunile prevăzute la art. 22 , cu excepția situației în care sancțiunile se aplică de alte instituții sau autorități publice ce dețin atribuții cu privire la supravegherea unui anumit sector sau domeniu de activitate. (la 18-04-2024, Alineatul (1) , Articolul 17 , Capitolul V a fost modificat de Punctul 4. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (2) Fără a aduce atingere prevederilor alin. (1) , prin autorități publice, în sensul art. 3 alin. (5) , art. 5 , art. 16 alin. (1) și (3) , art. 23 alin. (2) din prezenta lege și art. 4-6 din Regulamentul (UE) 2022/2.065, se înțeleg acele autorități ale administrației publice sau, acolo unde este cazul, instanțe de judecată a căror competență în materia respectivă este stabilită prin dispozițiile legale în vigoare, aplicabile în fiecare caz. (la 18-04-2024, Alineatul (2) , Articolul 17 , Capitolul V a fost modificat de Punctul 4. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (3) Autoritatea poate solicita furnizorilor de servicii orice informații necesare în vederea exercitării atribuțiilor sale, menționând baza legală și scopul solicitării, și poate stabili termene până la care aceste informații să îi fie furnizate, sub sancțiunea prevăzută de prezenta lege. (4) În vederea descoperirii și investigării încălcărilor prevederilor prezentei legi și ale normelor sale de aplicare, Autoritatea acționează prin personalul de control împuternicit în acest scop. (5) În exercitarea atribuțiilor de investigare, personalul de control împuternicit în acest scop al Autorității sau al oricărei altei autorități sau instituții publice ce deține atribuții cu privire la supravegherea unui anumit sector sau domeniu de activitate poate solicita furnizorilor de servicii ale societății informaționale datele și/sau informațiile care îi sunt necesare, menționând baza legală și scopul solicitării, și poate stabili termene până la care aceste informații să îi fie furnizate, sub sancțiunea prevăzută de lege. (la 18-04-2024, Alineatul (5) , Articolul 17 , Capitolul V a fost modificat de Punctul 4. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (6) Autoritatea dispune efectuarea de investigații, în condițiile prezentei legi, din oficiu sau la primirea unei plângeri ori sesizări din partea oricărei persoane. (7) Personalul de control împuternicit în acest scop al Autorității sau al oricărei alte autorități sau instituții publice care exercită atribuții cu privire la supravegherea unui anumit sector sau domeniu de activitate poate să solicite declarații sau orice documente necesare pentru îndeplinirea misiunii, să sigileze, să ridice orice registre, acte financiar-contabile și comerciale sau alte evidențe, eliberând persoanei supuse investigației copii de pe originale, ori să obțină copii, lăsându-i acesteia originalele; de asemenea, este autorizat să facă inspecții inopinate, al căror rezultat va fi consemnat într-un proces-verbal de constatare, și să primească, la convocare sau la fața locului, informații și justificări. (la 18-04-2024, Alineatul (7) , Articolul 17 , Capitolul V a fost modificat de Punctul 4. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (8) Organele administrației publice centrale și locale, precum și oricare alte autorități și instituții publice sunt obligate să permită personalului de control împuternicit în acest scop al Autorității accesul la documentele, datele și informațiile deținute de acestea, în măsura în care sunt necesare îndeplinirii misiunii legale a Autorității, cu respectarea prevederilor legale privind accesul la informații clasificate. (la 18-04-2024, Alineatul (8) , Articolul 17 , Capitolul V a fost modificat de Punctul 4. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (9) Personalul de control împuternicit în acest scop, primind acces la documentele, datele și informațiile menționate la alin. (8) , este ținut la observarea strictă a caracterului de secret de stat sau secret de serviciu, atribuit legal respectivelor documente, date și informații. (10) Autoritatea sesizează organele de urmărire penală ori de câte ori constată încălcări ale legii penale. (11) Autoritatea informează furnizorii de servicii, destinatarii, statele membre ale Uniunii Europene și Comisia Europeană cu privire la toate aspectele legate de aplicarea prevederilor prezentei legi și cooperează cu autoritățile competente din alte state în vederea exercitării eficiente a supravegherii și controlului asupra activității furnizorilor de servicii. (12) Abrogat. (la 18-04-2024, Alineatul (12) , Articolul 17 , Capitolul V a fost abrogat de Punctul 5. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (13) Pentru scopurile aplicării prezentei legi, până la înființarea Autorității atribuțiile acesteia sunt îndeplinite de Ministerul Comunicațiilor și Tehnologiei Informației."
     },
     {
       "provision_ref": "Art.18",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.18",
-      "title": "Out-of-Court Dispute Resolution",
-      "content": "This law shall not affect the availability of out-of-court dispute resolution mechanisms, including online dispute resolution. Service providers and consumers may use alternative dispute resolution mechanisms, including mediation and arbitration, provided for by Romanian legislation or by EU regulations, including Regulation (EU) 524/2013 on online dispute resolution for consumer disputes."
+      "chapter": "Capitolul V - Supraveghere și control",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Coduri de conduită (1) Asociațiile și organizațiile neguvernamentale cu caracter profesional ori comercial sau cele constituite în scopul protecției consumatorilor, a minorilor ori a persoanelor cu handicap își pot elabora propriile coduri de conduită sau coduri comune cu Autoritatea și Ministerul Justiției, în vederea aplicării corespunzătoare a prevederilor prezentei legi. (2) Autoritatea și Ministerul Justiției vor urmări includerea în codurile de conduită prevăzute la alin. (1) în special a unor prevederi referitoare la: a) soluționarea litigiilor pe cale extrajudiciară; b) întreruperea, temporară sau permanentă, a transmiterii într-o rețea de comunicații sau a stocării informației furnizate de un destinatar al serviciului, în special prin eliminarea informației ori blocarea accesului la aceasta, a accesului la o rețea de comunicații sau a prestării oricărui alt serviciu al societății informaționale; c) protecția destinatarilor cu privire la efectuarea comunicărilor comerciale; d) protecția minorilor și a demnității umane. (3) Autoritatea și Ministerul Justiției susțin: a) traducerea codurilor de conduită în limbi de circulație internațională; b) facilitarea accesului la codurile de conduită prin mijloace electronice; c) popularizarea codurilor de conduită la nivel național și transmiterea acestora, precum și a evaluărilor privind aplicarea și impactul lor practic către statele membre ale Uniunii Europene și către Comisia Europeană."
     },
     {
       "provision_ref": "Art.19",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.19",
-      "title": "Regulated Professions",
-      "content": "Members of regulated professions permitted to provide information society services shall comply with the professional rules regarding independence, dignity and honour, professional secrecy, and fair treatment of clients. Commercial communications by members of regulated professions shall comply with the rules governing the profession, in particular those concerning independence, dignity and honour, professional secrecy, and fairness towards clients and other members of the profession."
+      "chapter": "Capitolul VI - Soluționarea litigiilor",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Acțiuni în justiție (1) Persoanele care au calitate procesuală activă, potrivit prevederilor alin. (2) , pot solicita instanței obligarea pârâtului la încetarea oricărei acțiuni sau abțineri contrare prevederilor prezentei legi, interzicerea reluării ei în viitor și obligarea pârâtului la despăgubiri pentru prejudiciul suferit. (2) Au calitate procesuală activă pentru introducerea acțiunii prevăzute la alin. (1) : a) persoanele fizice și juridice ce se pretind titulare ale unui drept subiectiv prevăzut de prezenta lege sau ale unui interes care nu se poate realiza decât pe calea justiției; b) asociațiile și organizațiile neguvernamentale prevăzute la art. 18 alin. (1) ; c) Autoritatea Națională pentru Protecția Consumatorilor, oficiile pentru protecția consumatorilor județene și Oficiul pentru protecția consumatorilor al municipiului București; d) entitățile constituite în scopul protecției consumatorilor în statele membre ale Uniunii Europene, în condițiile prevăzute de normele metodologice de aplicare a prezentei legi. (3) Acțiunea prevăzută la alin. (1) se prescrie în termen de un an de la data acțiunii sau a abținerii care a justificat introducerea ei. (4) Persoanele care au calitate procesuală activă, potrivit prevederilor alin. (2) , pot solicita instanței, pe cale de ordonanță președințială, încetarea oricărei acțiuni sau abțineri contrare prevederilor prezentei legi, în condițiile prevăzute de Codul de procedură civilă."
     },
     {
       "provision_ref": "Art.20",
-      "chapter": "Chapter VI - Final Provisions",
-      "section": "Art.20",
-      "title": "Entry into Force",
-      "content": "This law shall enter into force on the date of its publication in Monitorul Oficial al României. This law transposes Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the internal market."
+      "chapter": "Capitolul VI - Soluționarea litigiilor",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Soluționarea litigiilor pe cale extrajudiciară (1) Furnizorii de servicii și destinatarii pot supune litigiile născute între ei arbitrajului, în condițiile prevăzute de lege, precum și celorlalte căi extrajudiciare de soluționare a litigiilor, prevăzute de codurile de conduită elaborate potrivit art. 18 . (2) Utilizarea mijloacelor electronice în cadrul soluționării litigiilor pe cale extrajudiciară este posibilă în condițiile prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul VII - Sancțiuni civile și contravenționale",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Nulitatea relativă a contractelor privind servicii ale societății informaționale Orice contract privind furnizarea de servicii ale societății informaționale este anulabil la cererea destinatarului, dacă a fost încheiat cu un furnizor de servicii care: a) nu a pus la dispoziție destinatarului, în condițiile prevăzute de lege, informațiile prevăzute la art. 5 lit. a)-i) , ori nu a furnizat toate aceste informații, sau a furnizat informații inexacte; b) nu a pus la dispoziție destinatarului, în condițiile prevăzute de lege, informațiile menționate la art. 8 alin. (1) lit. a)-e) , ori nu a furnizat toate aceste informații, sau a furnizat informații inexacte, dacă nu sunt aplicabile prevederile art. 8 alin. (3) sau (5) ; c) a încălcat obligația prevăzută la art. 8 alin. (2) , dacă nu sunt aplicabile prevederile art. 8 alin. (3) sau (5) ; d) a încălcat obligația prevăzută la art. 8 alin. (4) ."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul VII - Sancțiuni civile și contravenționale",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Contravenții Constituie contravenție, dacă nu este săvârșită în astfel de condiții încât, potrivit legii penale, să constituie infracțiune, și se sancționează cu amendă de la 1.000 lei la 100.000 lei fapta furnizorului de servicii care: (la 18-04-2024, Partea introductivă a articolului 22 , Capitolul VII a fost modificată de Punctul 6. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) a) efectuează comunicări comerciale încălcând condițiile stabilite la art. 6 alin. (1) și alin. (2) lit. a)-d) ; b) nu pune la dispoziție destinatarilor și autorităților publice, în condițiile prevăzute de lege, informațiile prevăzute la art. 5 lit. a)-i) , ori nu furnizează toate aceste informații, sau furnizează informații inexacte; c) nu pune la dispoziție destinatarului, în condițiile prevăzute de lege, informațiile prevăzute la art. 8 alin. (1) lit. a)-e) , ori nu furnizează toate aceste informații, sau furnizează informații inexacte, dacă nu sunt aplicabile prevederile art. 8 alin. (3) sau (5) ; d) încalcă obligația prevăzută la art. 8 alin. (2) , dacă nu sunt aplicabile prevederile art. 8 alin. (3) sau (5) ; e) încalcă obligația prevăzută la art. 8 alin. (4) ; f) încalcă obligația prevăzută la art. 9 alin. (3) ; g) încalcă obligațiile prevăzute la art. 16 alin. (1)-(3) ; h) nu furnizează informațiile solicitate potrivit art. 17 alin. (3) sau (5) , ori nu furnizează toate aceste informații, sau furnizează informații inexacte."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul VII - Sancțiuni civile și contravenționale",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Constatarea contravențiilor și aplicarea sancțiunilor (1) Constatarea contravenției prevăzute la art. 22 lit. a) și aplicarea sancțiunii corespunzătoare se fac, la sesizarea oricărei persoane sau din oficiu, de către reprezentanții împuterniciți ai Autorității pentru Digitalizarea României sau ai Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal. (la 18-04-2024, Alineatul (1) , Articolul 23 , Capitolul VII a fost modificat de Punctul 7. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (2) Constatarea contravențiilor și aplicarea sancțiunilor prevăzute la art. 22 lit. b)-h) se fac de către reprezentanții împuterniciți ai Autorității pentru Digitalizarea României sau ai celorlalte autorități sau instituții publice care exercită atribuții cu privire la supravegherea unui anumit sector sau domeniu de activitate, după caz, la sesizarea oricărei persoane sau din oficiu, prin procesul-verbal de constatare a contravenției și de aplicare a sancțiunii. (la 18-04-2024, Alineatul (2) , Articolul 23 , Capitolul VII a fost modificat de Punctul 7. , Articolul 52 , Capitolul VIII din LEGEA nr. 50 din 18 martie 2024, publicată în MONITORUL OFICIAL nr. 232 din 19 martie 2024 ) (3) Constatarea contravențiilor se poate face, în toate cazurile, și de către ofițerii sau subofițerii*) de poliție. (4) Contravențiilor prevăzute la art. 22 le sunt aplicabile prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare. _____________ *) Gradul militar \"subofițer de poliție\" a fost înlocuit cu gradul profesional \"agent de poliție\" prin Legea nr. 360/2002 privind Statutul polițistului, publicată în Monitorul Oficial al României, Partea I, nr. 440 din 24 iunie 2002."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul VIII - Infracțiuni săvârșite în legătură cu emiterea și utilizarea instrumentelor de plată electronică și cu utilizarea datelor de identificare în vederea efectuării de operațiuni financiare",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Abrogat. (la 01-02-2014, Art. 24 a fost abrogat de pct. 2 al art. 107 din LEGEA nr. 187 din 24 octombrie 2012 publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )"
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul VIII - Infracțiuni săvârșite în legătură cu emiterea și utilizarea instrumentelor de plată electronică și cu utilizarea datelor de identificare în vederea efectuării de operațiuni financiare",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Abrogat. (la 01-02-2014, Art. 25 a fost abrogat de pct. 2 al art. 107 din LEGEA nr. 187 din 24 octombrie 2012 publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )"
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul VIII - Infracțiuni săvârșite în legătură cu emiterea și utilizarea instrumentelor de plată electronică și cu utilizarea datelor de identificare în vederea efectuării de operațiuni financiare",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Abrogat. (la 01-02-2014, Art. 26 a fost abrogat de pct. 2 al art. 107 din LEGEA nr. 187 din 24 octombrie 2012 publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )"
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul VIII - Infracțiuni săvârșite în legătură cu emiterea și utilizarea instrumentelor de plată electronică și cu utilizarea datelor de identificare în vederea efectuării de operațiuni financiare",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Abrogat. (la 01-02-2014, Art. 27 a fost abrogat de pct. 2 al art. 107 din LEGEA nr. 187 din 24 octombrie 2012 publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )"
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul VIII - Infracțiuni săvârșite în legătură cu emiterea și utilizarea instrumentelor de plată electronică și cu utilizarea datelor de identificare în vederea efectuării de operațiuni financiare",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Abrogat. (la 01-02-2014, Art. 28 a fost abrogat de pct. 2 al art. 107 din LEGEA nr. 187 din 24 octombrie 2012 publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )"
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul VIII - Infracțiuni săvârșite în legătură cu emiterea și utilizarea instrumentelor de plată electronică și cu utilizarea datelor de identificare în vederea efectuării de operațiuni financiare",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Abrogat. (la 01-02-2014, Art. 29 a fost abrogat de pct. 2 al art. 107 din LEGEA nr. 187 din 24 octombrie 2012 publicată în MONITORUL OFICIAL nr. 757 din 12 noiembrie 2012. )"
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul IX - Dispoziții finale",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Sarcina probei în cazul litigiilor privind furnizarea de servicii ale societății informaționale În cazul oricărui litigiu privind furnizarea unui serviciu al societății informaționale, declanșat între furnizorul serviciului respectiv și un destinatar al acestui serviciu, sarcina probei îndeplinirii obligațiilor prevăzute la art. 5 , 6 , 8 și 9 revine furnizorului de servicii dacă destinatarul are calitatea de consumator."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul IX - Dispoziții finale",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Abrogarea unor dispoziții contrare Litera f) a articolului 6 din Ordonanța Guvernului nr. 130/2000 privind regimul juridic al contractelor la distanță, aprobată cu modificări și completări prin Legea nr. 51/2003 , se abrogă."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul IX - Dispoziții finale",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Intrarea în vigoare și aplicarea legii (1) În termen de 3 luni de la data publicării prezentei legi în Monitorul Oficial al României, Partea I, Ministerul Comunicațiilor și Tehnologiei Informației va elabora normele metodologice de aplicare a acesteia, care se aprobă prin hotărâre a Guvernului. (2) Prezenta lege intră în vigoare la data publicării ei în Monitorul Oficial al României, Partea I, și se pune în aplicare la 3 luni de la data intrării în vigoare."
     }
   ],
-  "definitions": [
-    {
-      "term": "Information society service",
-      "definition": "Any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.",
-      "source_provision": "Art.2"
-    },
-    {
-      "term": "Service provider",
-      "definition": "Any natural or legal person providing an information society service.",
-      "source_provision": "Art.2"
-    },
-    {
-      "term": "Commercial communication",
-      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services or image of a company, organisation or person pursuing a commercial, industrial or craft activity or exercising a regulated profession.",
-      "source_provision": "Art.2"
-    }
-  ]
+  "definitions": []
 }
