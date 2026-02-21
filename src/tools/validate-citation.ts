@@ -32,6 +32,7 @@ export interface ValidateCitationResult {
  */
 function parseCitation(citation: string): { documentRef: string; sectionRef?: string } | null {
   const trimmed = citation.trim();
+  if (trimmed.length === 0) return null;
 
   // "Section N <Act>" or "Section N, <Act>"
   const sectionFirst = trimmed.match(
