@@ -45,7 +45,7 @@ export async function listSources(
       sources: [
         {
           name: 'Legislatie.just.ro',
-          authority: 'Romanian Government, Office of Parliamentary Counsel',
+          authority: 'Ministerul Justiției (Ministry of Justice of Romania)',
           url: 'https://www.legislatie.just.ro',
           license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
           coverage:

@@ -39,7 +39,7 @@ const LIST_SOURCES_TOOL: Tool = {
   name: 'list_sources',
   description:
     'Returns detailed provenance metadata for all data sources used by this server, ' +
-    'including the Legislatie.just.ro (Romanian Government, Office of Parliamentary Counsel). ' +
+    'including the Legislatie.just.ro (Ministerul Justiției (Ministry of Justice of Romania)). ' +
     'Use this to understand what data is available, its authority, coverage scope, and known limitations. ' +
     'Also returns dataset statistics (document counts, provision counts) and database build timestamp. ' +
     'Call this FIRST when you need to understand what Romanian legal data this server covers.',

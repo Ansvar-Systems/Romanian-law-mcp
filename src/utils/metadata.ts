@@ -33,8 +33,8 @@ export function generateResponseMetadata(
     data_source: 'Legislatie.just.ro (legislatie.just.ro) — Ministerul Justiției (Ministry of Justice of Romania)',
     jurisdiction: 'RO',
     disclaimer:
-      'This data is sourced from the Legislatie.just.ro under CC BY 4.0 licence. ' +
-      'The authoritative versions are maintained by the Australian Government. ' +
+      'This data is sourced from the Legislatie.just.ro under public domain. ' +
+      'The authoritative versions are maintained by Ministerul Justiției (Ministry of Justice of Romania). ' +
       'Always verify with the official Legislatie.just.ro portal (legislatie.just.ro).',
     freshness,
   };
