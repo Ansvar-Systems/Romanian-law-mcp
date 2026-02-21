@@ -428,20 +428,32 @@ function parseProvisions(html: string): ParsedProvision[] {
   const headingEvents = parseHeadingEvents(html);
 
   const articleStartRegex = /<span class=\"[^\"]*\bS_ART\b[^\"]*\"[^>]*id=\"id_art[^\"]*\"[^>]*>/gi;
-  const starts: number[] = [];
+  let topLevelEnd = -1;
   let startMatch = articleStartRegex.exec(html);
-  while (startMatch) {
-    starts.push(startMatch.index);
-    startMatch = articleStartRegex.exec(html);
-  }
+  let index = 0;
 
-  for (let i = 0; i < starts.length; i += 1) {
-    const start = starts[i];
-    const end = i + 1 < starts.length ? starts[i + 1] : html.length;
-    const articleChunk = html.slice(start, end);
+  while (startMatch) {
+    const start = startMatch.index;
+    if (start < topLevelEnd) {
+      startMatch = articleStartRegex.exec(html);
+      continue;
+    }
+
+    const articleSpan = extractBalancedSpan(html, start);
+    if (!articleSpan) {
+      startMatch = articleStartRegex.exec(html);
+      continue;
+    }
+
+    topLevelEnd = articleSpan.end;
+    const articleChunk = articleSpan.value;
+    index += 1;
 
     const titleHtml = extractClassSpanInnerHtml(articleChunk, 'S_ART_TTL');
-    if (!titleHtml) continue;
+    if (!titleHtml) {
+      startMatch = articleStartRegex.exec(html);
+      continue;
+    }
 
     const denHtml = extractClassSpanInnerHtml(articleChunk, 'S_ART_DEN');
     const articleTitle = cleanHtmlText(titleHtml);
@@ -449,19 +461,28 @@ function parseProvisions(html: string): ParsedProvision[] {
     const fullTitle = [articleTitle, articleDen].filter(Boolean).join(' - ');
 
     const bodyStartMatch = /<span class=\"[^\"]*S_ART_BDY[^\"]*\"[^>]*>/i.exec(articleChunk);
-    if (!bodyStartMatch || bodyStartMatch.index === undefined) continue;
+    if (!bodyStartMatch || bodyStartMatch.index === undefined) {
+      startMatch = articleStartRegex.exec(html);
+      continue;
+    }
 
     const bodySpan = extractBalancedSpan(articleChunk, bodyStartMatch.index);
-    if (!bodySpan) continue;
+    if (!bodySpan) {
+      startMatch = articleStartRegex.exec(html);
+      continue;
+    }
 
     const bodyInnerHtml = bodySpan.value
       .replace(/^<span\b[^>]*>/i, '')
       .replace(/<\/span>\s*$/i, '');
 
     const content = normalizeArticleContent(bodyInnerHtml);
-    if (!content) continue;
+    if (!content) {
+      startMatch = articleStartRegex.exec(html);
+      continue;
+    }
 
-    const section = parseSectionFromTitle(articleTitle, i + 1);
+    const section = parseSectionFromTitle(articleTitle, index);
     const heading = buildHeadingAtPosition(headingEvents, start);
 
     provisions.push({
@@ -471,6 +492,8 @@ function parseProvisions(html: string): ParsedProvision[] {
       title: fullTitle || `Articolul ${section}`,
       content,
     });
+
+    startMatch = articleStartRegex.exec(html);
   }
 
   return provisions;
