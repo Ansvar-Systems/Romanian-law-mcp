@@ -1,0 +1,157 @@
+{
+  "id": "law-455-2001",
+  "type": "statute",
+  "title": "Legea nr. 455/2001 privind semnătura electronică",
+  "title_en": "Law 455/2001 on electronic signatures",
+  "short_name": "Electronic Signatures Law",
+  "status": "in_force",
+  "issued_date": "2001-07-18",
+  "in_force_date": "2001-08-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30603",
+  "description": "Romania's legislation on electronic signatures, establishing the legal framework for the use, recognition, and validation of electronic signatures and trust services.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Scope",
+      "content": "This law establishes the legal regime of electronic signatures and the conditions under which they are recognised as having equivalent legal value to handwritten signatures. This law also establishes the framework for the provision of certification services and trust services in the field of electronic signatures, in alignment with Regulation (EU) 910/2014 of the European Parliament and of the Council on electronic identification and trust services (eIDAS Regulation)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law: a) electronic signature means data in electronic form which is attached to or logically associated with other electronic data and which is used by the signatory to sign; b) advanced electronic signature means an electronic signature which is uniquely linked to the signatory, is capable of identifying the signatory, is created using electronic signature creation data that the signatory can use under their sole control, and is linked to the data signed in such a manner that any subsequent change in the data is detectable; c) qualified electronic signature means an advanced electronic signature that is created by a qualified electronic signature creation device and is based on a qualified certificate for electronic signatures; d) signatory means a natural person who creates an electronic signature."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter II - Legal Effects",
+      "section": "Art.3",
+      "title": "Legal Equivalence",
+      "content": "A qualified electronic signature shall have the equivalent legal effect of a handwritten signature. A qualified electronic signature based on a qualified certificate issued in one Member State shall be recognised as a qualified electronic signature in all other Member States, in accordance with Article 25 of Regulation (EU) 910/2014. An electronic signature shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in an electronic form or that it does not meet the requirements for qualified electronic signatures."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - Legal Effects",
+      "section": "Art.4",
+      "title": "Electronic Documents",
+      "content": "An electronic document to which a qualified electronic signature is attached or associated shall be considered to fulfil the requirement of written form and shall be equivalent to a private document signed by hand. The legal effects of electronic documents shall be assessed in accordance with the rules of evidence established by the Civil Code and the Civil Procedure Code, taking into account the level of assurance provided by the electronic signature."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter III - Trust Service Providers",
+      "section": "Art.5",
+      "title": "Certification Service Providers",
+      "content": "Trust service providers offering qualified trust services shall be supervised by the competent national authority. Trust service providers issuing qualified certificates for electronic signatures shall verify the identity of the signatory, issue certificates containing accurate information, and ensure the reliability and security of their services. The provision of trust services shall not be subject to prior authorisation."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter III - Trust Service Providers",
+      "section": "Art.6",
+      "title": "Obligations of Trust Service Providers",
+      "content": "Trust service providers shall: a) take appropriate technical and organisational measures to manage the risks posed to the security of the trust services they provide; b) notify the supervisory authority and, where applicable, other relevant bodies, of any breach of security or loss of integrity that has a significant impact on the trust service provided; c) maintain a current termination plan to ensure continuity of service; d) use trustworthy systems and products protected against modification and ensure the technical security and reliability of the processes supported by them."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter III - Trust Service Providers",
+      "section": "Art.7",
+      "title": "Qualified Certificates",
+      "content": "Qualified certificates for electronic signatures shall contain the information specified in Annex I to Regulation (EU) 910/2014, including: the indication that the certificate is issued as a qualified certificate, the identity of the trust service provider, the name of the signatory or a pseudonym, the electronic signature validation data corresponding to the electronic signature creation data, the period of validity of the certificate, and the advanced electronic signature or seal of the issuing trust service provider."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter III - Trust Service Providers",
+      "section": "Art.8",
+      "title": "Liability of Trust Service Providers",
+      "content": "A qualified trust service provider shall be liable for damage intentionally or negligently caused to any natural or legal person due to a failure to comply with the obligations under this law and under Regulation (EU) 910/2014. The burden of proving the intention or negligence of a non-qualified trust service provider shall lie with the natural or legal person claiming the damage. The intention or negligence of a qualified trust service provider shall be presumed unless that qualified trust service provider proves that the damage was not caused intentionally or negligently."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter IV - Supervisory Authority",
+      "section": "Art.9",
+      "title": "National Supervisory Authority",
+      "content": "The Ministry of Communications and Digital Transformation, through the designated specialised structure, shall act as the supervisory body for trust service providers, in accordance with Article 17 of Regulation (EU) 910/2014. The supervisory body shall grant qualified status to trust service providers and to the trust services they provide, supervise qualified trust service providers, and maintain a trusted list of qualified trust service providers and qualified trust services."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter IV - Supervisory Authority",
+      "section": "Art.10",
+      "title": "Trusted List",
+      "content": "The supervisory body shall establish, maintain and publish a trusted list containing information related to the qualified trust service providers for which it is responsible, together with information related to the qualified trust services provided by them, in accordance with Article 22 of Regulation (EU) 910/2014. The trusted list shall be published in a secured form suitable for automated processing."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter V - Electronic Seals and Timestamps",
+      "section": "Art.11",
+      "title": "Electronic Seals",
+      "content": "An electronic seal shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in an electronic form or that it does not meet the requirements for qualified electronic seals. A qualified electronic seal shall enjoy the presumption of integrity of the data and of correctness of the origin of that data to which the qualified electronic seal is linked."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter V - Electronic Seals and Timestamps",
+      "section": "Art.12",
+      "title": "Electronic Timestamps",
+      "content": "An electronic timestamp shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in an electronic form or that it does not meet the requirements for qualified electronic timestamps. A qualified electronic timestamp shall enjoy the presumption of the accuracy of the date and the time it indicates and the integrity of the data to which the date and time are bound."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter V - Electronic Seals and Timestamps",
+      "section": "Art.13",
+      "title": "Electronic Registered Delivery Services",
+      "content": "Data sent and received using an electronic registered delivery service shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in an electronic form or that it does not meet the requirements of the qualified electronic registered delivery service. Data sent and received using a qualified electronic registered delivery service shall enjoy the presumption of the integrity of the data, the sending of that data by the identified sender, its receipt by the identified addressee and the accuracy of the date and time of sending and receipt indicated by the service."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter VI - Electronic Identification",
+      "section": "Art.14",
+      "title": "Electronic Identification Schemes",
+      "content": "Electronic identification means issued under a notified electronic identification scheme of another Member State shall be recognised in Romania for the purpose of cross-border authentication for public online services, in accordance with Article 6 of Regulation (EU) 910/2014. The Government shall establish the conditions for the recognition and use of electronic identification means for access to Romanian public online services."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter VII - Sanctions",
+      "section": "Art.15",
+      "title": "Administrative Sanctions",
+      "content": "Non-compliance with the obligations established by this law and by Regulation (EU) 910/2014 shall be sanctioned with administrative fines. Trust service providers who fail to comply with security requirements shall be sanctioned with fines from 5,000 to 100,000 RON. Trust service providers who fail to notify security breaches shall be sanctioned with fines from 2,000 to 50,000 RON. In cases of serious non-compliance, the supervisory body may withdraw the qualified status of the trust service provider."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Chapter VII - Sanctions",
+      "section": "Art.16",
+      "title": "Criminal Provisions",
+      "content": "The falsification of electronic signatures, qualified certificates, or electronic seals shall constitute a criminal offence and shall be punished in accordance with the provisions of the Criminal Code relating to the falsification of documents. The use of falsified electronic signatures, certificates, or seals with the knowledge that they are falsified shall be punished with imprisonment from 6 months to 3 years."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Chapter VIII - Final Provisions",
+      "section": "Art.17",
+      "title": "Relationship with eIDAS Regulation",
+      "content": "This law shall be applied in conjunction with Regulation (EU) 910/2014 on electronic identification and trust services for electronic transactions in the internal market. Where Regulation (EU) 910/2014 directly regulates a matter covered by this law, the provisions of the Regulation shall prevail. This law provides supplementary national provisions for matters not directly regulated by the Regulation."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Chapter VIII - Final Provisions",
+      "section": "Art.18",
+      "title": "Entry into Force",
+      "content": "This law shall enter into force 30 days from the date of its publication in Monitorul Oficial al României. The implementing regulations shall be adopted by the Government within 60 days from the entry into force of this law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electronic signature",
+      "definition": "Data in electronic form which is attached to or logically associated with other electronic data and which is used by the signatory to sign.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Qualified electronic signature",
+      "definition": "An advanced electronic signature that is created by a qualified electronic signature creation device and is based on a qualified certificate for electronic signatures.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Trust service provider",
+      "definition": "A natural or legal person who provides one or more trust services, either as a qualified or as a non-qualified trust service provider.",
+      "source_provision": "Art.5"
+    }
+  ]
+}

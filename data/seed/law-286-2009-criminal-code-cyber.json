@@ -1,0 +1,164 @@
+{
+  "id": "law-286-2009-cyber",
+  "type": "statute",
+  "title": "Legea nr. 286/2009 - Codul Penal (Infracțiuni informatice)",
+  "title_en": "Law 286/2009 - Criminal Code (Cybercrime provisions, Art. 249-252, 360-365)",
+  "short_name": "Criminal Code - Cybercrime",
+  "status": "in_force",
+  "issued_date": "2009-07-17",
+  "in_force_date": "2014-02-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/109855",
+  "description": "Selected cybercrime provisions from the Romanian Criminal Code (Legea nr. 286/2009), covering computer fraud, offences against data and computer systems, and related crimes transposing the Budapest Convention and Directive 2013/40/EU on attacks against information systems.",
+  "provisions": [
+    {
+      "provision_ref": "Art.249",
+      "chapter": "Title II, Chapter IV - Fraud committed by computer systems",
+      "section": "Art.249",
+      "title": "Computer Fraud",
+      "content": "The introduction, modification or deletion of computer data, the restriction of access to such data, or any interference with the operation of a computer system, with the purpose of obtaining an undue benefit for oneself or for another person, where it causes a loss to a person, shall be punishable by imprisonment from 2 to 7 years. Where the act is committed in the exercise of professional duties or by a person who has access to the system by virtue of their employment, the penalty shall be imprisonment from 3 to 10 years and a ban on exercising certain rights."
+    },
+    {
+      "provision_ref": "Art.250",
+      "chapter": "Title II, Chapter IV - Fraud committed by computer systems",
+      "section": "Art.250",
+      "title": "Computer Fraud - Electronic Payment Instruments",
+      "content": "Carrying out a financial operation, making a transfer of funds, operating a cash dispenser, or making a purchase using an electronic payment instrument, without the consent of the holder of the instrument, by using false data or by any other fraudulent means, shall be punishable by imprisonment from 2 to 7 years. The attempt shall also be punishable."
+    },
+    {
+      "provision_ref": "Art.251",
+      "chapter": "Title II, Chapter IV - Fraud committed by computer systems",
+      "section": "Art.251",
+      "title": "Computer-Assisted Forgery",
+      "content": "The introduction, modification or deletion of computer data or the restriction of access to such data, resulting in inauthentic data with the purpose of being used as authentic data for legal purposes, shall be punishable by imprisonment from 1 to 5 years. The use of such inauthentic data, with the knowledge that they are inauthentic, for legal purposes, shall be punishable by the same penalty."
+    },
+    {
+      "provision_ref": "Art.252",
+      "chapter": "Title II, Chapter IV - Fraud committed by computer systems",
+      "section": "Art.252",
+      "title": "Transfer of Possession by Computer Fraud",
+      "content": "Causing a person to transfer property, to establish, modify or extinguish a right in rem or a claim by introducing, modifying or deleting computer data, by restricting access to such data or by any other interference with the operation of a computer system, with intent to cause damage, shall be punishable by imprisonment from 2 to 7 years."
+    },
+    {
+      "provision_ref": "Art.360",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.360",
+      "title": "Illegal Access to a Computer System",
+      "content": "Unauthorised access to a computer system shall be punishable by imprisonment from 3 months to 3 years or by a fine. Where the act is committed with the purpose of obtaining computer data, the penalty shall be imprisonment from 6 months to 5 years. Where the act is committed against a computer system to which access is restricted or prohibited, or by infringing security measures, the penalty shall be imprisonment from 2 to 7 years. This provision implements Article 2 of Directive 2013/40/EU of the European Parliament and of the Council on attacks against information systems."
+    },
+    {
+      "provision_ref": "Art.361",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.361",
+      "title": "Illegal Interception of Data",
+      "content": "The illegal interception of a non-public transmission of computer data to, from or within a computer system, including electromagnetic emissions from a computer system carrying such data, shall be punishable by imprisonment from 1 to 5 years. This provision implements Article 3 of Directive 2013/40/EU on attacks against information systems."
+    },
+    {
+      "provision_ref": "Art.362",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.362",
+      "title": "Data Interference",
+      "content": "The unauthorised modification, deletion, deterioration, alteration, restriction of access to, or transfer of computer data shall be punishable by imprisonment from 1 to 5 years. Where the act causes serious consequences, the penalty shall be imprisonment from 2 to 7 years. This provision implements Article 5 of Directive 2013/40/EU on attacks against information systems."
+    },
+    {
+      "provision_ref": "Art.363",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.363",
+      "title": "System Interference",
+      "content": "The serious hindering, without authorisation, of the functioning of a computer system by inputting, transmitting, modifying, deleting, deteriorating, altering or restricting access to computer data shall be punishable by imprisonment from 2 to 7 years. Where the act is committed against a computer system of public interest or against a critical infrastructure system, the penalty shall be imprisonment from 3 to 10 years. This provision implements Article 4 of Directive 2013/40/EU on attacks against information systems."
+    },
+    {
+      "provision_ref": "Art.364",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.364",
+      "title": "Illegal Operations with Computer Devices and Programs",
+      "content": "The production, sale, import, distribution or making available, in any form, of a device or computer program designed or adapted primarily for the purpose of committing any of the offences referred to in Articles 360-363, or of a computer password, access code, or similar data by which the whole or any part of a computer system is capable of being accessed, with intent that they should be used for the purpose of committing any of the offences referred to in Articles 360-363, shall be punishable by imprisonment from 1 to 5 years. The possession of items referred to above, with intent that they should be used for the purpose of committing the offences, shall be punishable by the same penalty. This provision implements Article 7 of Directive 2013/40/EU."
+    },
+    {
+      "provision_ref": "Art.365",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.365",
+      "title": "Illegal Operations with Computer Data",
+      "content": "The unauthorised transfer of computer data from a computer system or from a computer data storage medium, or the unauthorised copying of computer data, shall be punishable by imprisonment from 1 to 5 years. Where the offence is committed against a computer system belonging to or used by a public authority, a public institution, a financial or credit institution, or against a computer system containing classified data, the penalty shall be imprisonment from 2 to 7 years."
+    },
+    {
+      "provision_ref": "Art.360-agg",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.360-agg",
+      "title": "Aggravating Circumstances",
+      "content": "The penalties for the offences referred to in Articles 360-365 shall be increased by one third of the maximum penalty where: a) the offence is committed against a computer system belonging to or used by a national defence institution, a public order institution, or an intelligence service; b) the offence is committed by an organised criminal group; c) the offence caused particularly serious consequences, including damage to critical infrastructure. These aggravating circumstances align with the requirements of Article 9 of Directive 2013/40/EU on attacks against information systems."
+    },
+    {
+      "provision_ref": "Art.360-jur",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.360-jur",
+      "title": "Jurisdiction",
+      "content": "Romanian criminal law shall apply to the offences referred to in Articles 360-365 committed on Romanian territory or aboard Romanian-flagged vessels or aircraft. Romanian criminal law shall also apply where the offence is committed abroad by a Romanian citizen or by a stateless person domiciled in Romania, or where the offence produces effects on Romanian territory. These jurisdictional rules ensure compliance with the requirements for extraterritorial jurisdiction under the Budapest Convention on Cybercrime."
+    },
+    {
+      "provision_ref": "Art.249-attempt",
+      "chapter": "Title II, Chapter IV - Fraud committed by computer systems",
+      "section": "Art.249-attempt",
+      "title": "Attempt and Preparatory Acts",
+      "content": "The attempt to commit the offences referred to in Articles 249-252 and 360-365 shall be punishable. Preparatory acts for the offences referred to in Article 363 (system interference) and Article 364 (illegal operations with computer devices) shall also be treated as offences. The penalty for attempt shall be between half the minimum and half the maximum penalty prescribed for the completed offence."
+    },
+    {
+      "provision_ref": "Art.360-coop",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.360-coop",
+      "title": "International Cooperation",
+      "content": "For the investigation and prosecution of the offences referred to in Articles 360-365, Romanian judicial authorities shall cooperate with the competent authorities of other states in accordance with the applicable international conventions, including the Council of Europe Convention on Cybercrime (Budapest Convention), bilateral mutual legal assistance treaties, and the applicable EU legislation on cross-border cooperation in criminal matters."
+    },
+    {
+      "provision_ref": "Art.362-sp",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.362-sp",
+      "title": "Special Procedural Provisions",
+      "content": "The investigation of offences under Articles 360-365 may involve the use of special investigative measures, including the interception of communications, undercover operations, and the search of computer systems, in accordance with the provisions of the Criminal Procedure Code. The preservation and production of computer data for the purposes of criminal investigations shall be carried out in accordance with Articles 168-172 of the Criminal Procedure Code."
+    },
+    {
+      "provision_ref": "Art.365-confiscation",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.365-confiscation",
+      "title": "Confiscation and Extended Confiscation",
+      "content": "Computer devices, programs, and data used or intended for use in committing the offences referred to in Articles 360-365 shall be subject to confiscation. The proceeds of the offences, including financial benefits obtained through computer fraud or other computer-related crimes, shall be subject to confiscation or, where appropriate, extended confiscation in accordance with the provisions of the Criminal Code on confiscation."
+    },
+    {
+      "provision_ref": "Art.249-civil",
+      "chapter": "Title II, Chapter IV - Fraud committed by computer systems",
+      "section": "Art.249-civil",
+      "title": "Civil Liability and Damages",
+      "content": "The person who suffers damage as a result of the offences referred to in Articles 249-252 and 360-365 shall be entitled to seek compensation for material and moral damages from the perpetrator in accordance with the civil liability provisions of the Civil Code. The civil action may be brought within the criminal proceedings or separately before the civil courts. Joint and several liability shall apply where multiple perpetrators are involved."
+    },
+    {
+      "provision_ref": "Art.363-botnet",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.363-botnet",
+      "title": "Botnet-Related Offences",
+      "content": "The creation or operation of a network of compromised computers (botnet) for the purpose of committing any of the offences referred to in Articles 360-365 or for the purpose of carrying out distributed denial of service attacks shall be punishable by imprisonment from 3 to 10 years. The use of a botnet to target critical infrastructure or essential services shall be considered an aggravating circumstance, with penalties increased by up to one half. This provision addresses the increasing threat of botnet-based attacks as highlighted in Directive 2013/40/EU."
+    },
+    {
+      "provision_ref": "Art.360-reporting",
+      "chapter": "Title VII, Chapter VI - Offences against the security of computer data and systems",
+      "section": "Art.360-reporting",
+      "title": "Reporting and Statistics",
+      "content": "The Directorate for Investigating Organised Crime and Terrorism (DIICOT) shall compile annual statistics on cybercrime offences investigated and prosecuted under Articles 360-365. These statistics shall be communicated to the European Commission in accordance with Article 14 of Directive 2013/40/EU and shall include data on the number of offences reported, the number of persons prosecuted and convicted, and the types of sanctions applied."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Computer system",
+      "definition": "Any device or group of interconnected devices, one or more of which performs automatic processing of data pursuant to a program.",
+      "source_provision": "Art.360"
+    },
+    {
+      "term": "Computer data",
+      "definition": "Any representation of facts, information, or concepts in a form suitable for processing in a computer system, including a program suitable for causing a computer system to perform a function.",
+      "source_provision": "Art.360"
+    },
+    {
+      "term": "Botnet",
+      "definition": "A network of compromised computers controlled remotely without the knowledge or consent of their owners, used to carry out coordinated cyberattacks or other malicious activities.",
+      "source_provision": "Art.363-botnet"
+    }
+  ]
+}

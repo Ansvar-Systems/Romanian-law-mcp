@@ -1,0 +1,183 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Romanian Law MCP",
+  "description": "Golden contract tests for the Romanian Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "ro-001",
+      "category": "article_retrieval",
+      "description": "Retrieve GDPR Implementation Law Art. 1 (Law 190/2018) -- scope of GDPR implementing measures",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Law 190/2018 on measures for implementing Regulation (EU) 2016/679",
+        "provision_ref": "Art.1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["personal data", "Regulation (EU) 2016/679", "GDPR"],
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ro-002",
+      "category": "article_retrieval",
+      "description": "Retrieve NIS Cybersecurity Law Art. 5 (Law 362/2018) -- CERT-RO CSIRT functions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "NIS Cybersecurity Law",
+        "provision_ref": "Art.5"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["CERT-RO", "CSIRT", "incident"],
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ro-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Criminal Code Art. 360 -- illegal access to a computer system",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Criminal Code - Cybercrime",
+        "provision_ref": "Art.360"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["computer system", "unauthorised", "access"],
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ro-004",
+      "category": "article_retrieval",
+      "description": "Retrieve E-Commerce Law Art. 11 (Law 365/2002) -- hosting provider liability",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "E-Commerce Law",
+        "provision_ref": "Art.11"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["storage", "hosting", "information", "recipient"],
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ro-005",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns GDPR and ePrivacy provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["personal data"]
+      }
+    },
+    {
+      "id": "ro-006",
+      "category": "search",
+      "description": "Full-text search for 'cybersecurity' returns NIS and related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybersecurity"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["cybersecurity", "security", "network"]
+      }
+    },
+    {
+      "id": "ro-007",
+      "category": "search",
+      "description": "Full-text search for 'critical infrastructure' returns OUG 98/2010 provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "critical infrastructure"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["critical infrastructure", "essential", "protection"]
+      }
+    },
+    {
+      "id": "ro-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Law 190/2018 Art. 14 includes legislatie.just.ro URL",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "GDPR Implementation Law",
+        "provision_ref": "Art.14"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "legislatie\\.just\\.ro",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ro-009",
+      "category": "citation_roundtrip",
+      "description": "Citation for Law 362/2018 Art. 15 includes legislatie.just.ro URL",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "law-362-2018",
+        "provision_ref": "Art.15"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "legislatie\\.just\\.ro",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ro-010",
+      "category": "eu_cross_reference",
+      "description": "Law 362/2018 cross-references NIS Directive (EU) 2016/1148",
+      "tool": "get_eu_basis",
+      "input": {
+        "document_id": "NIS Cybersecurity Law"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["2016/1148", "Directive"]
+      }
+    },
+    {
+      "id": "ro-011",
+      "category": "negative_test",
+      "description": "Non-existent Romanian law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Legea nr. 9999/2099 privind lucruri fictive",
+        "provision_ref": "Art.1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ro-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "GDPR Implementation Law",
+        "provision_ref": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}

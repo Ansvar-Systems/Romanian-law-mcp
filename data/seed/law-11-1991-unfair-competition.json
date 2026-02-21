@@ -1,0 +1,171 @@
+{
+  "id": "law-11-1991",
+  "type": "statute",
+  "title": "Legea nr. 11/1991 privind combaterea concurenței neloiale",
+  "title_en": "Law 11/1991 on combating unfair competition",
+  "short_name": "Unfair Competition Law",
+  "status": "in_force",
+  "issued_date": "1991-01-29",
+  "in_force_date": "1991-02-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1439",
+  "description": "Romania's law on unfair competition, including protection of trade secrets and confidential business information, aligned with Directive (EU) 2016/943 on the protection of undisclosed know-how and business information.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Scope",
+      "content": "This law regulates the prevention and combating of unfair competition in order to ensure fair competition, in compliance with honest commercial practices. This law applies to all natural and legal persons, Romanian or foreign, that carry out commercial activities on the territory of Romania. Unfair competition means any act or practice contrary to honest practices in commercial activities, which is capable of causing damage to another undertaking."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law: a) trade secret means any information which: is not generally known among or readily accessible to persons within the circles that normally deal with the kind of information in question; has commercial value because it is secret; and has been subject to reasonable steps to keep it secret by the person lawfully in control of the information; b) unfair competition means any act or practice contrary to honest commercial practices which damages or is capable of damaging a competitor or the competitive environment; c) honest commercial practices means conduct conforming to the usages observed by businesspersons carrying on activity in the same field of commerce."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter II - Acts of Unfair Competition",
+      "section": "Art.3",
+      "title": "General Prohibition",
+      "content": "The following acts shall constitute unfair competition and shall be prohibited: a) any act or practice contrary to honest commercial practices that causes or is likely to cause damage to a competitor; b) the misuse of another undertaking's reputation by using its trade name, signs, marks, or other identifying elements without authorisation; c) misleading the public with respect to the nature, characteristics, quality, or origin of goods or services; d) discrediting a competitor through the dissemination of false information about its activity, products, or services."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - Acts of Unfair Competition",
+      "section": "Art.4",
+      "title": "Trade Secret Protection",
+      "content": "The unlawful acquisition, use or disclosure of trade secrets shall constitute an act of unfair competition. The acquisition of a trade secret shall be considered unlawful whenever carried out by means of: a) unauthorised access to, appropriation of, or copying of any documents, objects, materials, substances or electronic files lawfully under the control of the trade secret holder, containing the trade secret or from which the trade secret can be deduced; b) theft, bribery, deception, breach or inducement of breach of a confidentiality agreement or any other duty not to disclose the trade secret; c) any other conduct which, under the circumstances, is considered contrary to honest commercial practices. This provision aligns with Article 4 of Directive (EU) 2016/943."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter II - Acts of Unfair Competition",
+      "section": "Art.5",
+      "title": "Lawful Acquisition of Trade Secrets",
+      "content": "The acquisition of a trade secret shall be considered lawful when obtained by: a) independent discovery or creation; b) observation, study, disassembly, or testing of a product or object that has been made publicly available or that is lawfully in the possession of the acquirer; c) exercise of the right of workers or workers' representatives to information and consultation in accordance with applicable labour law; d) any other practice which, under the circumstances, is in conformity with honest commercial practices. This provision aligns with Article 3 of Directive (EU) 2016/943."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter II - Acts of Unfair Competition",
+      "section": "Art.6",
+      "title": "Employee Obligations",
+      "content": "Employees who have access to trade secrets in the course of their employment shall maintain the confidentiality of such information both during and after the termination of their employment relationship. Non-disclosure and non-competition clauses in employment contracts shall be valid and enforceable to the extent provided by the Labour Code. Employers shall take reasonable measures to inform employees of the confidential nature of trade secrets to which they have access."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter II - Acts of Unfair Competition",
+      "section": "Art.7",
+      "title": "Whistleblower Protection",
+      "content": "The acquisition, use or disclosure of a trade secret shall be considered lawful to the extent that it is carried out for revealing misconduct, wrongdoing, or illegal activity, provided that the person acted for the purpose of protecting the general public interest. This exception applies to disclosures made to competent authorities and, where appropriate, to the media, in accordance with the applicable legislation on whistleblower protection. This provision aligns with Article 5 of Directive (EU) 2016/943."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter III - Civil Remedies",
+      "section": "Art.8",
+      "title": "Injunctive Relief",
+      "content": "The person whose rights have been infringed by an act of unfair competition may seek injunctive relief before the competent court, including: a) the cessation or prohibition of the unlawful act; b) the prohibition of the manufacture, offering, placing on the market, or use of infringing goods; c) the seizure and, where appropriate, the destruction of infringing goods and materials used for the production of such goods; d) interim and precautionary measures to prevent further damage."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter III - Civil Remedies",
+      "section": "Art.9",
+      "title": "Damages",
+      "content": "The person who has suffered damage as a result of an act of unfair competition shall be entitled to compensation for the damage suffered. The amount of damages shall be determined by the court taking into account: a) the negative economic consequences, including lost profits, which the injured party has suffered; b) the unfair profits made by the infringer; c) where appropriate, elements other than economic factors, such as the moral prejudice caused by the unlawful acquisition, use or disclosure of a trade secret. As an alternative, the court may set the damages as a lump sum based on elements such as the amount of royalties or fees which would have been due had the infringer requested authorisation."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter III - Civil Remedies",
+      "section": "Art.10",
+      "title": "Preservation of Confidentiality in Proceedings",
+      "content": "In judicial proceedings concerning the unlawful acquisition, use or disclosure of trade secrets, the courts shall take the measures necessary to preserve the confidentiality of the trade secret. These measures may include: restricting access to documents containing trade secrets; restricting access to hearings; making available a non-confidential version of judicial decisions with trade secret content redacted. This provision aligns with Article 9 of Directive (EU) 2016/943."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter III - Civil Remedies",
+      "section": "Art.11",
+      "title": "Limitation Period",
+      "content": "Actions for unfair competition shall be subject to a limitation period of 3 years from the date on which the injured party became aware or should have become aware of the act of unfair competition and the identity of the person who committed it, but no later than 6 years from the date of the act. For continuing acts of unfair competition, the limitation period shall begin to run from the date on which the act ceased."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter IV - Administrative and Criminal Sanctions",
+      "section": "Art.12",
+      "title": "Administrative Sanctions",
+      "content": "Acts of unfair competition that do not constitute criminal offences shall be sanctioned with administrative fines from 5,000 to 50,000 RON. The fines shall be applied by the Competition Council or, for consumer-related infringements, by the National Authority for Consumer Protection. The sanctions shall be proportionate and dissuasive."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter IV - Administrative and Criminal Sanctions",
+      "section": "Art.13",
+      "title": "Criminal Penalties",
+      "content": "The following acts shall constitute criminal offences: a) the use of a commercial or industrial secret, acquired by unlawful means, if the act causes damage — punishable by imprisonment from 6 months to 2 years or by a fine; b) the disclosure by a person of a commercial or industrial secret to which they have access by virtue of their employment, knowing that the disclosure will cause damage — punishable by imprisonment from 3 months to 2 years or by a fine; c) causing confusion with a competitor's products or services, where committed with intent — punishable by imprisonment from 3 months to 1 year or by a fine."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter IV - Administrative and Criminal Sanctions",
+      "section": "Art.14",
+      "title": "Publication of Judgments",
+      "content": "The court may order the publication of the judgment, at the expense of the infringer, in one or more national or local newspapers, and on the website of the infringer, where appropriate. The publication shall contain the main findings of the court and the sanctions applied. This measure aims to restore the reputation of the injured party and to deter future unfair competition acts."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter V - Competition Council Powers",
+      "section": "Art.15",
+      "title": "Competition Council Role",
+      "content": "The Competition Council shall investigate and sanction acts of unfair competition in accordance with this law and the Competition Law. The Competition Council may conduct investigations, request information and documents, carry out inspections, and impose sanctions. The decisions of the Competition Council may be challenged before the competent administrative court."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Chapter V - Competition Council Powers",
+      "section": "Art.16",
+      "title": "Cooperation with EU Authorities",
+      "content": "The Competition Council shall cooperate with the European Commission and the competition authorities of other Member States in the investigation and sanctioning of unfair competition acts having cross-border effects. The exchange of information between the Competition Council and EU authorities shall be carried out in accordance with applicable EU legislation, including Regulation (EC) 1/2003."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.17",
+      "title": "Relationship with Trade Secrets Directive",
+      "content": "The provisions of this law relating to the protection of trade secrets shall be interpreted in accordance with Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure. Where the provisions of this law differ from the requirements of the Directive, the provisions offering greater protection shall prevail."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.18",
+      "title": "Implementing Regulations",
+      "content": "The Government shall adopt implementing regulations as necessary for the application of this law. Professional associations and chambers of commerce may adopt codes of conduct and good practice guidelines complementing the provisions of this law."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.19",
+      "title": "International Application",
+      "content": "This law shall apply to acts of unfair competition committed on the territory of Romania, regardless of the nationality or domicile of the perpetrator. Acts of unfair competition committed abroad that produce effects on the Romanian market shall also fall under the scope of this law, in accordance with applicable conflict of laws rules."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.20",
+      "title": "Entry into Force",
+      "content": "This law shall enter into force on the date of its publication in Monitorul Oficial al României. Any contrary provisions shall be repealed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Trade secret",
+      "definition": "Information which is not generally known or readily accessible, has commercial value because it is secret, and has been subject to reasonable steps to keep it secret by the person lawfully in control of the information.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Unfair competition",
+      "definition": "Any act or practice contrary to honest commercial practices which damages or is capable of damaging a competitor or the competitive environment.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Honest commercial practices",
+      "definition": "Conduct conforming to the usages observed by businesspersons carrying on activity in the same field of commerce.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

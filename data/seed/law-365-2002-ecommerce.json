@@ -1,0 +1,171 @@
+{
+  "id": "law-365-2002",
+  "type": "statute",
+  "title": "Legea nr. 365/2002 privind comerțul electronic",
+  "title_en": "Law 365/2002 on electronic commerce",
+  "short_name": "E-Commerce Law",
+  "status": "in_force",
+  "issued_date": "2002-06-07",
+  "in_force_date": "2002-06-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37050",
+  "description": "Romania's transposition of Directive 2000/31/EC (E-Commerce Directive), establishing rules for information society services, electronic contracts, liability of intermediary service providers, and online commercial communications.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Scope",
+      "content": "This law establishes the conditions for the provision of information society services, transposing Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the internal market (E-Commerce Directive). This law applies to information society service providers established in Romania and to information society services provided to recipients in Romania."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law: a) information society service means any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services; b) service provider means any natural or legal person providing an information society service; c) recipient of the service means any natural or legal person who, for professional or other purposes, uses an information society service; d) commercial communication means any form of communication designed to promote, directly or indirectly, the goods, services or image of a company, organisation or person pursuing a commercial, industrial or craft activity or exercising a regulated profession."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter II - Information Requirements",
+      "section": "Art.3",
+      "title": "General Information Requirements",
+      "content": "A service provider shall make available to the recipients of the service and to competent authorities, in a form which is easily, directly and permanently accessible, at least the following information: the name of the service provider, the geographic address at which the service provider is established, contact details including email address, the trade register number, tax identification number, and where the activity is subject to an authorisation scheme, the details of the relevant supervisory authority."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - Information Requirements",
+      "section": "Art.4",
+      "title": "Commercial Communications",
+      "content": "Commercial communications which are part of, or constitute, an information society service shall be clearly identifiable as such. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Promotional offers, such as discounts, premiums and gifts, shall be clearly identifiable as such, and the conditions which are to be met to qualify for them shall be easily accessible and presented clearly and unambiguously."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter II - Information Requirements",
+      "section": "Art.5",
+      "title": "Unsolicited Commercial Communications",
+      "content": "Unsolicited commercial communications by electronic mail shall be clearly and unambiguously identifiable as such as soon as they are received by the recipient. Service providers undertaking unsolicited commercial communications by electronic mail shall consult regularly and respect the opt-out registers in which natural persons who do not wish to receive such commercial communications can register themselves."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter III - Electronic Contracts",
+      "section": "Art.6",
+      "title": "Validity of Electronic Contracts",
+      "content": "Contracts concluded by electronic means shall produce all legal effects that the law recognises for valid contracts. A contract shall not be denied legal validity or enforceability solely on the grounds that it is concluded by electronic means. The provisions of the Civil Code and other applicable legislation regarding the formation, validity, and effects of contracts shall apply accordingly to electronic contracts."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter III - Electronic Contracts",
+      "section": "Art.7",
+      "title": "Information Prior to Contract Formation",
+      "content": "Before the conclusion of the contract, the service provider shall provide the recipient with the following information in a clear, comprehensible and unambiguous manner: the different technical steps to follow to conclude the contract, whether or not the concluded contract will be filed by the service provider and whether it will be accessible, the technical means for identifying and correcting input errors prior to the placing of the order, and the languages offered for the conclusion of the contract."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter III - Electronic Contracts",
+      "section": "Art.8",
+      "title": "Order Placement and Acknowledgement",
+      "content": "The service provider shall acknowledge receipt of the recipient's order without undue delay and by electronic means. The order and the acknowledgement of receipt are deemed to be received when the parties to whom they are addressed are able to access them. The service provider shall make available to the recipient appropriate, effective and accessible technical means allowing the identification and correction of input errors prior to the placing of the order."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "Art.9",
+      "title": "Mere Conduit",
+      "content": "Where an information society service is provided that consists of the transmission in a communications network of information provided by a recipient of the service, or the provision of access to a communications network, the service provider shall not be liable for the information transmitted, on condition that the provider does not initiate the transmission, does not select the receiver of the transmission, and does not select or modify the information contained in the transmission, in accordance with Article 12 of Directive 2000/31/EC."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "Art.10",
+      "title": "Caching",
+      "content": "Where an information society service is provided that consists of the transmission in a communications network of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient the information's onward transmission to other recipients of the service, subject to conditions set out in Article 13 of Directive 2000/31/EC."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "Art.11",
+      "title": "Hosting",
+      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient of the service, on condition that the provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent, or upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information, in accordance with Article 14 of Directive 2000/31/EC."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "Art.12",
+      "title": "No General Monitoring Obligation",
+      "content": "Service providers shall not be subject to a general obligation to monitor the information which they transmit or store, nor to a general obligation actively to seek facts or circumstances indicating illegal activity. This provision shall not affect any targeted monitoring obligations in specific cases, nor does it affect orders by national authorities in accordance with national legislation."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter V - Supervision and Sanctions",
+      "section": "Art.13",
+      "title": "Supervisory Authority",
+      "content": "The Ministry of Communications and Information Technology, the National Authority for Consumer Protection (ANPC), and other sector-specific authorities shall supervise the application of this law within their respective competences. The ANPC shall be responsible for supervising compliance with consumer protection requirements applicable to information society services."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter V - Supervision and Sanctions",
+      "section": "Art.14",
+      "title": "Administrative Sanctions",
+      "content": "Failure to comply with the information requirements set out in this law shall be sanctioned with a fine from 1,000 to 10,000 RON. Failure to comply with the requirements relating to commercial communications shall be sanctioned with a fine from 5,000 to 50,000 RON. Failure to acknowledge receipt of orders within the time limits prescribed shall be sanctioned with a fine from 500 to 5,000 RON."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter V - Supervision and Sanctions",
+      "section": "Art.15",
+      "title": "Judicial Remedies",
+      "content": "Any person whose rights have been infringed by the provision of an information society service may seek judicial remedies, including injunctive relief and damages, before the competent Romanian courts. The courts may order the cessation or prevention of any infringement and may order the service provider to take appropriate corrective measures."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.16",
+      "title": "Country of Origin Principle",
+      "content": "Information society services provided by a service provider established in Romania shall comply with the national provisions applicable in Romania falling within the coordinated field. Romania shall not restrict the freedom to provide information society services from another Member State for reasons falling within the coordinated field, subject to the derogations permitted by Directive 2000/31/EC."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.17",
+      "title": "Codes of Conduct",
+      "content": "Trade associations and organisations representing consumers and professional bodies shall be encouraged to draw up codes of conduct at the national level in order to contribute to the proper implementation of the provisions of this law. Codes of conduct may address, inter alia, consumer protection, fair commercial practices, and the protection of minors in the online environment."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.18",
+      "title": "Out-of-Court Dispute Resolution",
+      "content": "This law shall not affect the availability of out-of-court dispute resolution mechanisms, including online dispute resolution. Service providers and consumers may use alternative dispute resolution mechanisms, including mediation and arbitration, provided for by Romanian legislation or by EU regulations, including Regulation (EU) 524/2013 on online dispute resolution for consumer disputes."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.19",
+      "title": "Regulated Professions",
+      "content": "Members of regulated professions permitted to provide information society services shall comply with the professional rules regarding independence, dignity and honour, professional secrecy, and fair treatment of clients. Commercial communications by members of regulated professions shall comply with the rules governing the profession, in particular those concerning independence, dignity and honour, professional secrecy, and fairness towards clients and other members of the profession."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Chapter VI - Final Provisions",
+      "section": "Art.20",
+      "title": "Entry into Force",
+      "content": "This law shall enter into force on the date of its publication in Monitorul Oficial al României. This law transposes Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the internal market."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Information society service",
+      "definition": "Any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Service provider",
+      "definition": "Any natural or legal person providing an information society service.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Commercial communication",
+      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services or image of a company, organisation or person pursuing a commercial, industrial or craft activity or exercising a regulated profession.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

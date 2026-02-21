@@ -1,0 +1,171 @@
+{
+  "id": "law-190-2018",
+  "type": "statute",
+  "title": "Legea nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679",
+  "title_en": "Law 190/2018 on measures for implementing Regulation (EU) 2016/679 (GDPR)",
+  "short_name": "GDPR Implementation Law",
+  "status": "in_force",
+  "issued_date": "2018-07-31",
+  "in_force_date": "2018-08-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203371",
+  "description": "Romania's primary legislation implementing the General Data Protection Regulation (EU) 2016/679, establishing national rules for personal data processing, the supervisory authority (ANSPDCP), and enforcement measures.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Scope",
+      "content": "This law establishes the measures necessary for the implementation of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation - GDPR). This law regulates the framework for the processing of personal data, the rights of data subjects, and the obligations of data controllers and processors operating within the territory of Romania."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law, the terms and expressions used shall have the meanings established by Regulation (EU) 2016/679. Additionally, the following terms shall have the following meanings: a) the Authority - the National Supervisory Authority for Personal Data Processing (Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal - ANSPDCP); b) national identification number - the personal numerical code (CNP) or any other unique identifier assigned by public authorities."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.3",
+      "title": "National Supervisory Authority",
+      "content": "The National Supervisory Authority for Personal Data Processing (ANSPDCP) is the independent public authority established to monitor and ensure the application of Regulation (EU) 2016/679 and of this law. The Authority shall exercise its powers and duties with complete independence, in accordance with Article 51 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - Special Categories of Data",
+      "section": "Art.4",
+      "title": "Processing of National Identification Numbers",
+      "content": "The processing of the national identification number, including the personal numerical code (CNP), shall be carried out only where necessary, with appropriate safeguards for the rights and freedoms of the data subject. The national identification number may be processed when the data subject has given explicit consent, when processing is expressly provided for by law, or when processing is necessary for reasons of substantial public interest, in accordance with Article 9(2)(g) of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter II - Special Categories of Data",
+      "section": "Art.5",
+      "title": "Processing of Biometric and Genetic Data",
+      "content": "The processing of biometric data for the purpose of uniquely identifying a natural person, and the processing of genetic data, shall be permitted only in the cases provided for in Article 9(2) of Regulation (EU) 2016/679 and subject to appropriate safeguards. Such processing shall be subject to a data protection impact assessment in accordance with Article 35 of the Regulation."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter II - Special Categories of Data",
+      "section": "Art.6",
+      "title": "Processing of Health Data",
+      "content": "The processing of data concerning health shall be permitted where necessary for the purposes of preventive or occupational medicine, medical diagnosis, the provision of health or social care, or the management of health or social care systems and services, in accordance with Article 9(2)(h) of Regulation (EU) 2016/679. Professional secrecy obligations shall apply to persons processing health data."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter III - Processing in Specific Contexts",
+      "section": "Art.7",
+      "title": "Processing for Archiving, Research and Statistical Purposes",
+      "content": "The processing of personal data for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes, in accordance with Article 89 of Regulation (EU) 2016/679, shall be subject to appropriate safeguards. These safeguards shall include technical and organisational measures to ensure respect for the principle of data minimisation, including pseudonymisation where purposes can be fulfilled in that manner."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter III - Processing in Specific Contexts",
+      "section": "Art.8",
+      "title": "Processing in the Employment Context",
+      "content": "The processing of personal data in the employment context, including for the purposes of recruitment, performance of the employment contract, management and termination of the employment relationship, shall be carried out in accordance with Article 88 of Regulation (EU) 2016/679. Employers acting as data controllers shall implement appropriate safeguards, in particular regarding transparency of processing and transfer of personal data within a group of undertakings."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter III - Processing in Specific Contexts",
+      "section": "Art.9",
+      "title": "Children's Data",
+      "content": "In Romania, the age at which a child can give valid consent for information society services as referred to in Article 8(1) of Regulation (EU) 2016/679 shall be 16 years. Where the child is below the age of 16, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter III - Processing in Specific Contexts",
+      "section": "Art.10",
+      "title": "Freedom of Expression and Information",
+      "content": "The processing of personal data for journalistic purposes, academic artistic or literary expression shall benefit from exemptions and derogations from certain provisions of Regulation (EU) 2016/679, in accordance with Article 85 thereof, where necessary to reconcile the right to the protection of personal data with the freedom of expression and information."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter IV - Data Protection Officer",
+      "section": "Art.11",
+      "title": "Designation of Data Protection Officer",
+      "content": "The data controller and the processor shall designate a data protection officer in the cases provided for in Article 37 of Regulation (EU) 2016/679. Public authorities and bodies, except courts acting in their judicial capacity, shall designate a data protection officer. The data protection officer shall be designated on the basis of professional qualities and, in particular, expert knowledge of data protection law and practices."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter IV - Data Protection Officer",
+      "section": "Art.12",
+      "title": "Position and Tasks of the DPO",
+      "content": "The data protection officer shall perform the tasks provided for in Article 39 of Regulation (EU) 2016/679. The data controller and processor shall ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data. The data protection officer shall report directly to the highest management level of the controller or processor."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter V - Remedies and Sanctions",
+      "section": "Art.13",
+      "title": "Right to Lodge a Complaint",
+      "content": "Any data subject who considers that the processing of personal data relating to him or her infringes this law or Regulation (EU) 2016/679 shall have the right to lodge a complaint with the Authority (ANSPDCP), in accordance with Article 77 of the Regulation. The complaint shall be filed in writing and shall contain the identification data of the complainant and of the data controller, the description of the alleged infringement, and the date when the data subject became aware of the infringement."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter V - Remedies and Sanctions",
+      "section": "Art.14",
+      "title": "Administrative Fines",
+      "content": "The Authority shall impose administrative fines in accordance with Article 83 of Regulation (EU) 2016/679. For infringements of the provisions of this law, the Authority may impose administrative fines of up to 10,000,000 EUR or up to 2% of the total worldwide annual turnover of the preceding financial year, whichever is higher. For infringements of the basic principles for processing, data subjects' rights, or transfers of personal data, fines may reach 20,000,000 EUR or up to 4% of total worldwide annual turnover."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter V - Remedies and Sanctions",
+      "section": "Art.15",
+      "title": "Criminal Penalties",
+      "content": "The processing of personal data by an automated or non-automated means, by a person who has no legitimate right to do so, with the purpose of obtaining benefits for themselves or for others, or with the purpose of causing damage, shall be punishable by imprisonment from 1 to 5 years. Where the offence is committed with regard to special categories of personal data or data concerning criminal convictions, the penalties shall be increased."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Chapter V - Remedies and Sanctions",
+      "section": "Art.16",
+      "title": "Corrective Powers",
+      "content": "The Authority shall exercise the corrective powers provided for in Article 58(2) of Regulation (EU) 2016/679, including the power to issue warnings, reprimands, orders to comply, temporary or definitive limitations on processing, ordering the rectification or erasure of personal data, imposing administrative fines, and ordering the suspension of data flows to a recipient in a third country."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Chapter VI - International Transfer",
+      "section": "Art.17",
+      "title": "International Data Transfers",
+      "content": "The transfer of personal data to a third country or to an international organisation shall be carried out in accordance with Chapter V of Regulation (EU) 2016/679. The Authority may, on its own initiative or at the request of a data controller, authorise transfers based on binding corporate rules, standard contractual clauses, codes of conduct, or certification mechanisms approved in accordance with the Regulation."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Chapter VI - International Transfer",
+      "section": "Art.18",
+      "title": "Derogations for Specific Situations",
+      "content": "In the absence of an adequacy decision or appropriate safeguards, transfers of personal data to a third country may take place only in the specific situations provided for in Article 49 of Regulation (EU) 2016/679, including where the data subject has explicitly consented, where the transfer is necessary for the performance of a contract, or where the transfer is necessary for important reasons of public interest recognised in Romanian or Union law."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.19",
+      "title": "Repeal",
+      "content": "Law no. 677/2001 on the protection of individuals with regard to the processing of personal data and the free movement of such data is hereby repealed. All references in existing legislation to Law no. 677/2001 shall be construed as references to this law and to Regulation (EU) 2016/679, as applicable."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.20",
+      "title": "Entry into Force",
+      "content": "This law shall enter into force 30 days from the date of its publication in Monitorul Oficial al României (Official Gazette of Romania). This law was adopted by the Parliament of Romania in compliance with the provisions of Article 75 and Article 76(2) of the Constitution of Romania, republished."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ANSPDCP",
+      "definition": "Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (National Supervisory Authority for Personal Data Processing) - the independent public authority responsible for monitoring the application of data protection legislation in Romania.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "National identification number",
+      "definition": "The personal numerical code (CNP - Cod Numeric Personal) or any other unique identifier assigned to a person by public authorities for identification purposes.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Data Protection Officer",
+      "definition": "A person designated by the data controller or processor to ensure compliance with data protection rules, designated on the basis of professional qualities and expert knowledge of data protection law.",
+      "source_provision": "Art.11"
+    }
+  ]
+}

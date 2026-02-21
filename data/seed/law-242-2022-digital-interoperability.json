@@ -1,0 +1,176 @@
+{
+  "id": "law-242-2022",
+  "type": "statute",
+  "title": "Legea nr. 242/2022 privind schimbul de date între sisteme informatice și crearea platformei naționale de interoperabilitate",
+  "title_en": "Law 242/2022 on data exchange between information systems and the creation of the national interoperability platform",
+  "short_name": "Digital Interoperability Law",
+  "status": "in_force",
+  "issued_date": "2022-07-20",
+  "in_force_date": "2022-07-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/258035",
+  "description": "Romania's legislation on digital government interoperability, establishing the national interoperability platform for data exchange between public information systems and promoting digital government services.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Scope and Objectives",
+      "content": "This law establishes the legal framework for the exchange of data between the information systems of public institutions and authorities, and creates the National Interoperability Platform (Platforma Națională de Interoperabilitate - PNI). The objective is to simplify administrative procedures, reduce bureaucracy, apply the once-only principle, and ensure the interoperability of public information systems in accordance with the European Interoperability Framework and Regulation (EU) 2018/1724 establishing a single digital gateway."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law: a) interoperability means the ability of information systems to exchange data and to enable the sharing of information and knowledge between them; b) National Interoperability Platform (PNI) means the technical infrastructure managed by the Authority for Digitalisation of Romania (ADR) through which the exchange of data between public information systems is carried out; c) once-only principle means the principle according to which citizens and businesses should provide information to public authorities only once, and public authorities should share and reuse this data internally; d) public information system means any information system owned, operated, or managed by a public institution or authority."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.3",
+      "title": "Once-Only Principle",
+      "content": "Public institutions and authorities shall apply the once-only principle when providing public services. Citizens and businesses shall not be required to provide information or documents to a public authority that are already available in the information systems of other public authorities connected to the National Interoperability Platform. Public authorities shall obtain the required information through the PNI, subject to compliance with data protection legislation, including Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - National Interoperability Platform",
+      "section": "Art.4",
+      "title": "Platform Establishment",
+      "content": "The National Interoperability Platform (PNI) shall be established and managed by the Authority for Digitalisation of Romania (ADR). The PNI shall provide a secure, reliable, and scalable infrastructure for the exchange of data between public information systems. The PNI shall support standardised data formats, application programming interfaces (APIs), and secure communication protocols."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter II - National Interoperability Platform",
+      "section": "Art.5",
+      "title": "Connection Requirements",
+      "content": "All public institutions and authorities that operate information systems containing data relevant to the provision of public services shall connect their systems to the National Interoperability Platform within the timeframes established by the implementing regulations. The connection shall be carried out using standardised APIs and data formats established by the ADR. The costs of connection shall be borne by the respective public institutions."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter II - National Interoperability Platform",
+      "section": "Art.6",
+      "title": "Data Exchange Protocols",
+      "content": "Data exchange through the PNI shall be carried out based on standardised data exchange protocols established by the ADR. These protocols shall ensure: a) the authenticity and integrity of transmitted data; b) the confidentiality of data during transmission; c) the non-repudiation of data exchanges; d) the traceability of all data exchanges for audit purposes; e) compliance with data protection requirements, including purpose limitation and data minimisation."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter II - National Interoperability Platform",
+      "section": "Art.7",
+      "title": "Security Requirements",
+      "content": "The National Interoperability Platform shall comply with national and EU cybersecurity requirements, including Law 362/2018 on cybersecurity and relevant standards. The ADR shall implement appropriate technical and organisational security measures, including encryption, access control, logging and monitoring, regular security audits, and incident response procedures. The security of the PNI shall be regularly assessed by CERT-RO."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter III - Data Protection and Privacy",
+      "section": "Art.8",
+      "title": "Data Protection Compliance",
+      "content": "The exchange of personal data through the National Interoperability Platform shall comply with Regulation (EU) 2016/679 (GDPR) and Law 190/2018. A data protection impact assessment shall be conducted before connecting any information system containing personal data to the PNI. The ADR and the connecting public authorities shall act as joint controllers or as controller and processor, as appropriate, and shall establish appropriate arrangements in accordance with Article 26 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter III - Data Protection and Privacy",
+      "section": "Art.9",
+      "title": "Purpose Limitation",
+      "content": "Data obtained through the National Interoperability Platform shall be used only for the specific purpose for which the data exchange was authorised. Public authorities shall not store or further process data obtained through the PNI beyond what is necessary for the specific administrative procedure. Automated decision-making based on data obtained through the PNI shall comply with Article 22 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter III - Data Protection and Privacy",
+      "section": "Art.10",
+      "title": "Audit Trail and Transparency",
+      "content": "All data exchanges through the National Interoperability Platform shall be logged for audit purposes. Citizens shall have the right to access the log of data exchanges involving their personal data. The ADR shall provide a public dashboard showing aggregate statistics on the usage of the PNI, while ensuring the protection of personal data and classified information."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter IV - Governance",
+      "section": "Art.11",
+      "title": "Authority for Digitalisation of Romania",
+      "content": "The Authority for Digitalisation of Romania (ADR) shall be responsible for the governance and management of the National Interoperability Platform. The ADR shall: a) establish the technical standards and specifications for the PNI; b) approve the connection of information systems to the PNI; c) monitor the availability and performance of the PNI; d) provide technical support to public institutions connecting to the PNI; e) report annually to the Government on the status and usage of the PNI."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter IV - Governance",
+      "section": "Art.12",
+      "title": "Interoperability Catalogue",
+      "content": "The ADR shall maintain an Interoperability Catalogue listing all information systems connected to the PNI, the types of data available for exchange, the APIs and data formats used, and the access conditions. The catalogue shall be accessible to all public institutions and authorities. The catalogue shall be updated as new systems are connected or existing connections are modified."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter IV - Governance",
+      "section": "Art.13",
+      "title": "European Interoperability",
+      "content": "The National Interoperability Platform shall be designed to be interoperable with the technical systems of other EU Member States and with EU-level interoperability platforms, including those established under Regulation (EU) 2018/1724 (Single Digital Gateway) and the ISA2 programme. Romania shall participate in EU-level interoperability initiatives and shall ensure the alignment of the PNI with the European Interoperability Framework."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter V - Open Data",
+      "section": "Art.14",
+      "title": "Open Data Requirements",
+      "content": "Public institutions and authorities connected to the National Interoperability Platform shall make available, where appropriate, anonymised or non-personal datasets through open data portals, in accordance with Directive (EU) 2019/1024 on open data and the re-use of public sector information. The ADR shall coordinate with the relevant authorities to ensure the availability and quality of open data datasets."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter V - Open Data",
+      "section": "Art.15",
+      "title": "Digital Public Services",
+      "content": "Public institutions and authorities shall progressively make their administrative procedures available online through digital public services. Digital public services shall be accessible through the national electronic single point of contact and shall use the National Interoperability Platform for back-office data exchange. The ADR shall maintain a catalogue of available digital public services."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Chapter VI - Sanctions",
+      "section": "Art.16",
+      "title": "Sanctions",
+      "content": "Non-compliance with the obligations established by this law shall be sanctioned with administrative fines. Failure to connect information systems to the PNI within the prescribed timeframes shall be sanctioned with a fine from 5,000 to 50,000 RON. Unauthorised access to data through the PNI shall be sanctioned with a fine from 10,000 to 100,000 RON. Breach of data protection requirements in the context of data exchanges through the PNI shall be sanctioned in accordance with Regulation (EU) 2016/679 and Law 190/2018."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.17",
+      "title": "Implementing Regulations",
+      "content": "The Government shall adopt implementing regulations within 120 days from the entry into force of this law, establishing the technical standards, connection procedures, data formats, and security requirements for the National Interoperability Platform. The implementing regulations shall be developed by the ADR in consultation with the relevant public institutions and the ANSPDCP."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.18",
+      "title": "Transitional Provisions",
+      "content": "Existing data exchange agreements between public institutions shall remain in force until the respective information systems are connected to the National Interoperability Platform. Public institutions shall migrate their existing data exchange arrangements to the PNI within the timeframes established by the implementing regulations."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.19",
+      "title": "Funding",
+      "content": "The development and operation of the National Interoperability Platform shall be funded from the state budget, EU structural and investment funds, and other available funding sources. The ADR shall prepare an annual budget proposal for the development and operation of the PNI. Romania may use funding from the Recovery and Resilience Facility for digital government initiatives related to the PNI."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.20",
+      "title": "Entry into Force",
+      "content": "This law shall enter into force on the date of its publication in Monitorul Oficial al României. Within 30 days from the entry into force of this law, the Government shall ensure the establishment of the organisational structures necessary for the management of the National Interoperability Platform."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Interoperability",
+      "definition": "The ability of information systems to exchange data and to enable the sharing of information and knowledge between them.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "National Interoperability Platform (PNI)",
+      "definition": "The technical infrastructure managed by the Authority for Digitalisation of Romania (ADR) through which the exchange of data between public information systems is carried out.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Once-only principle",
+      "definition": "The principle according to which citizens and businesses should provide information to public authorities only once, and public authorities should share and reuse this data internally.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "ADR",
+      "definition": "Autoritatea pentru Digitalizarea României (Authority for Digitalisation of Romania) - the public authority responsible for digital governance and the National Interoperability Platform.",
+      "source_provision": "Art.11"
+    }
+  ]
+}

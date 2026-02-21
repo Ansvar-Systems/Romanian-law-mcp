@@ -1,0 +1,136 @@
+{
+  "id": "law-506-2004",
+  "type": "statute",
+  "title": "Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice",
+  "title_en": "Law 506/2004 on personal data processing and privacy protection in the electronic communications sector",
+  "short_name": "ePrivacy Law",
+  "status": "in_force",
+  "issued_date": "2004-11-17",
+  "in_force_date": "2004-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/56694",
+  "description": "Romania's transposition of Directive 2002/58/EC (ePrivacy Directive), regulating privacy and personal data processing in electronic communications, including rules on cookies, unsolicited communications, traffic data, and location data.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Scope",
+      "content": "This law regulates the processing of personal data and the protection of private life in the electronic communications sector, transposing Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (ePrivacy Directive). This law applies to the processing of personal data in connection with the provision of publicly available electronic communications services in public communications networks in Romania."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law: a) electronic communications service means a service normally provided for remuneration which consists wholly or mainly of the conveyance of signals on electronic communications networks; b) traffic data means any data processed for the purpose of the conveyance of a communication on an electronic communications network or for the billing thereof; c) location data means any data processed in an electronic communications network indicating the geographical position of the terminal equipment of a user; d) cookies means data stored on a user's terminal equipment by the provider of an electronic communications service or information society service."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter II - Confidentiality of Communications",
+      "section": "Art.3",
+      "title": "Confidentiality of Electronic Communications",
+      "content": "The confidentiality of electronic communications and related traffic data transmitted by means of a public communications network and publicly available electronic communications services shall be guaranteed. The interception, listening, storage or other kinds of surveillance of communications and related traffic data by persons other than the users, without the consent of the users concerned, shall be prohibited, except when legally authorised in accordance with this law and applicable criminal procedure legislation."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - Confidentiality of Communications",
+      "section": "Art.4",
+      "title": "Cookies and Similar Technologies",
+      "content": "The storing of information, or the gaining of access to information already stored, in the terminal equipment of a subscriber or user is only allowed on condition that the subscriber or user concerned has given his or her consent, having been provided with clear and comprehensive information, in accordance with Regulation (EU) 2016/679, about the purposes of the processing. This shall not prevent any technical storage or access for the sole purpose of carrying out the transmission of a communication or as strictly necessary to provide an information society service explicitly requested by the subscriber or user."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter III - Traffic and Location Data",
+      "section": "Art.5",
+      "title": "Traffic Data",
+      "content": "Traffic data relating to subscribers and users processed and stored by the provider of a public communications network or publicly available electronic communications service shall be erased or made anonymous when it is no longer needed for the purpose of the transmission of a communication. Traffic data necessary for subscriber billing and interconnection payments may be processed until the end of the period during which the bill may be lawfully challenged or payment pursued."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter III - Traffic and Location Data",
+      "section": "Art.6",
+      "title": "Location Data",
+      "content": "Where location data other than traffic data relating to users or subscribers of public communications networks or publicly available electronic communications services can be processed, such data may only be processed when they are made anonymous, or with the consent of the users or subscribers, to the extent and for the duration necessary for the provision of a value added service. The service provider must inform the users or subscribers, prior to obtaining their consent, of the type of location data other than traffic data which will be processed, of the purposes and duration of the processing and whether the data will be transmitted to a third party."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter IV - Unsolicited Communications",
+      "section": "Art.7",
+      "title": "Unsolicited Communications (Spam)",
+      "content": "The use of automated calling and communication systems without human intervention (automatic calling machines), facsimile machines, or electronic mail for the purposes of direct marketing may only be allowed in respect of subscribers or users who have given their prior consent (opt-in), in accordance with Article 13 of Directive 2002/58/EC. Electronic mail for direct marketing purposes sent by a natural or legal person who has obtained the electronic contact details of a customer in the context of a sale of a product or service may be permitted without prior consent, provided the customer is given a clear and distinct opportunity to object (opt-out) at the time of collection and on each subsequent communication."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter IV - Unsolicited Communications",
+      "section": "Art.8",
+      "title": "Calling Line Identification",
+      "content": "Where the presentation of calling line identification is offered, the provider of publicly available electronic communications services shall offer the calling user the possibility of preventing the presentation of the calling line identification on a per-call or per-line basis. The called subscriber shall have the possibility of rejecting incoming calls where the calling line identification has been prevented by the calling user. Where presentation of connected line identification is offered, the called subscriber shall have the possibility of preventing the presentation of the connected line identification to the calling user."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter V - Security",
+      "section": "Art.9",
+      "title": "Security of Processing",
+      "content": "The provider of a publicly available electronic communications service shall take appropriate technical and organisational measures to safeguard the security of its services, if necessary in conjunction with the provider of the public communications network with respect to network security. Having regard to the state of the art and the cost of their implementation, these measures shall ensure a level of security appropriate to the risk presented."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter V - Security",
+      "section": "Art.10",
+      "title": "Data Breach Notification",
+      "content": "In the case of a personal data breach, the provider of publicly available electronic communications services shall notify the personal data breach to the Authority (ANSPDCP) without undue delay. Where the personal data breach is likely to adversely affect the personal data or privacy of a subscriber or user, the provider shall also notify the subscriber or user of the breach without undue delay. Notification to the subscriber or user shall describe the nature of the personal data breach and the measures recommended to mitigate the possible adverse effects."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter VI - Supervisory Authority and Sanctions",
+      "section": "Art.11",
+      "title": "Supervisory Authority",
+      "content": "The National Supervisory Authority for Personal Data Processing (ANSPDCP) and the National Authority for Management and Regulation in Communications (ANCOM) shall ensure the implementation of this law within their respective competences. ANSPDCP shall supervise compliance with the provisions relating to the processing of personal data, while ANCOM shall supervise compliance with the provisions specific to the electronic communications sector."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter VI - Supervisory Authority and Sanctions",
+      "section": "Art.12",
+      "title": "Administrative Sanctions",
+      "content": "Infringements of the provisions of this law shall be sanctioned with administrative fines. Failure to comply with the provisions on confidentiality of communications, traffic data, or location data shall be sanctioned with a fine from 5,000 to 100,000 RON. Failure to comply with the provisions on unsolicited communications shall be sanctioned with a fine from 1,000 to 50,000 RON. The sanctions shall be applied by the ANSPDCP or by ANCOM, as appropriate."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter VI - Supervisory Authority and Sanctions",
+      "section": "Art.13",
+      "title": "Criminal Penalties",
+      "content": "The unlawful interception, recording, storage, or other form of surveillance of electronic communications without the consent of the persons concerned, outside the cases provided for by law, shall constitute a criminal offence and shall be punished with imprisonment from 1 to 5 years. Where the offence is committed by a person who has access to the communications by virtue of their professional duties, the penalty shall be increased."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.14",
+      "title": "Relationship with GDPR",
+      "content": "This law shall be applied in conjunction with Regulation (EU) 2016/679 (General Data Protection Regulation). Where this law contains specific provisions relating to the processing of personal data in the electronic communications sector, those provisions shall prevail over the general provisions of the Regulation as lex specialis. For matters not specifically regulated by this law, the provisions of Regulation (EU) 2016/679 shall apply."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.15",
+      "title": "Entry into Force",
+      "content": "This law shall enter into force on the date of its publication in Monitorul Oficial al României. This law transposes Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector, as amended by Directive 2009/136/EC."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Traffic data",
+      "definition": "Any data processed for the purpose of the conveyance of a communication on an electronic communications network or for the billing thereof.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Location data",
+      "definition": "Any data processed in an electronic communications network or by an electronic communications service indicating the geographical position of the terminal equipment of a user.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Cookies",
+      "definition": "Data stored on a user's terminal equipment by the provider of an electronic communications service or information society service.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

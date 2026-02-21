@@ -1,0 +1,152 @@
+{
+  "id": "law-544-2001",
+  "type": "statute",
+  "title": "Legea nr. 544/2001 privind liberul acces la informațiile de interes public",
+  "title_en": "Law 544/2001 on free access to public interest information",
+  "short_name": "Freedom of Information Law",
+  "status": "in_force",
+  "issued_date": "2001-10-12",
+  "in_force_date": "2001-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/31413",
+  "description": "Romania's freedom of information law guaranteeing citizens' right of access to information of public interest held by public authorities and institutions.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Right of Access",
+      "content": "The access to information of public interest is guaranteed by this law, in accordance with the principles of transparency and democratic governance. Every person has the right to request and obtain from public authorities and institutions, under the conditions of this law, information of public interest. Public authorities and institutions are obliged to ensure the correct information of citizens on public affairs and on matters of personal interest."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law: a) information of public interest means any information which refers to or results from the activities of a public authority or institution, regardless of the medium on which it is recorded or the form in which it is expressed; b) public authority or institution means any authority or public institution as well as any autonomous administration operating with public funds; c) classified information means information that, due to the levels of importance and the consequences that unauthorised disclosure or dissemination would cause, must be protected."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.3",
+      "title": "Transparency Principles",
+      "content": "The right to information is guaranteed. Access to information of public interest shall not be restricted except in cases expressly provided for by law. Public authorities and institutions are obliged to proactively make available to the public certain categories of information of public interest, through their own websites, official publications, and information points."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - Proactive Disclosure",
+      "section": "Art.4",
+      "title": "Information Disclosed Ex Officio",
+      "content": "Each public authority or institution shall make publicly available, ex officio, the following information: a) normative acts regulating the organisation and operation of the authority; b) the organisational structure, departments, operating schedule, and contact details; c) the names of the persons in management positions and their professional responsibilities; d) the coordination of official information or press relations; e) sources of funding, the budget, and the balance sheet; f) programmes and strategies; g) lists of documents of public interest; h) lists of categories of documents produced or managed by the authority."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter II - Proactive Disclosure",
+      "section": "Art.5",
+      "title": "Means of Proactive Disclosure",
+      "content": "The information referred to in Article 4 shall be made available through: a) display at the headquarters of the authority or institution or publication in Monitorul Oficial; b) the media; c) own publications; d) the authority's or institution's website; e) information and documentation centres established within the authority. Each public authority shall designate a spokesperson or a press and public relations office responsible for the proactive disclosure of information."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter III - Information on Request",
+      "section": "Art.6",
+      "title": "Information Requests",
+      "content": "Any person has the right to request information of public interest from any public authority or institution, in writing or verbally. The request shall contain sufficient details to identify the information sought. No justification or demonstration of an interest in the requested information shall be required. Public authorities may request the identity of the applicant only where necessary for the purpose of sending the information."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter III - Information on Request",
+      "section": "Art.7",
+      "title": "Response Deadlines",
+      "content": "Public authorities and institutions shall respond to information requests within 10 working days from the date of registration of the request. Where the requested information requires a complex search, the response deadline may be extended to 30 working days, with notification to the applicant within the initial 10-day period. Where the requested information has already been made publicly available, the response shall consist of indicating the source where the information can be found."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter III - Information on Request",
+      "section": "Art.8",
+      "title": "Verbal Information Requests",
+      "content": "The information of public interest requested verbally shall be communicated on the spot. Where the information requested verbally is too complex to be communicated on the spot, the applicant shall be directed to submit a written request. Public authorities shall establish dedicated information points where citizens can make verbal requests and receive information."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter III - Information on Request",
+      "section": "Art.9",
+      "title": "Costs",
+      "content": "Access to information of public interest is free of charge. Copies of documents containing information of public interest shall be provided upon payment of the cost of reproduction. The fees charged shall not exceed the actual costs of reproduction and shall not constitute an obstacle to the exercise of the right of access to information."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter IV - Exceptions",
+      "section": "Art.10",
+      "title": "Exemptions from Access",
+      "content": "The following categories of information are exempt from free access: a) information classified as state secrets or service secrets, in accordance with the applicable legislation; b) information concerning commercial or financial activities, where disclosure would harm the competitive position or commercial interests of the holder; c) information concerning personal data, the disclosure of which would constitute an infringement of the right to privacy, in accordance with applicable data protection legislation; d) information concerning ongoing judicial proceedings, where disclosure could prejudice the proper administration of justice; e) information concerning ongoing deliberations of the authorities and institutions, where disclosure could prejudice the decision-making process."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter IV - Exceptions",
+      "section": "Art.11",
+      "title": "Public Interest Override",
+      "content": "The right to information shall prevail over the exceptions set out in Article 10 when the public interest in disclosure outweighs the interest protected by the restriction. Public authorities and institutions shall assess, on a case-by-case basis, whether the information requested falls under an exception and whether the public interest in disclosure overrides the restriction."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter V - Remedies",
+      "section": "Art.12",
+      "title": "Administrative Complaint",
+      "content": "The applicant who considers that the right of access to information of public interest has been infringed may file an administrative complaint to the head of the public authority or institution within 30 days from the notification of the refusal or from the expiry of the response deadline. The administrative complaint shall be resolved within 15 working days from the date of registration."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter V - Remedies",
+      "section": "Art.13",
+      "title": "Judicial Remedy",
+      "content": "If the administrative complaint is rejected or if no response is received within the prescribed deadline, the applicant may file an action before the administrative court. The action may be filed within 30 days from the communication of the response to the administrative complaint or from the expiry of the response deadline. The court shall hear the case urgently and may order the public authority to provide the information requested."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter V - Remedies",
+      "section": "Art.14",
+      "title": "Sanctions",
+      "content": "Failure by public officials to comply with the obligations established by this law shall constitute a disciplinary offence and shall be sanctioned accordingly. Unjustified refusal to provide information of public interest shall be sanctioned with a fine from 500 to 5,000 RON. The failure of the head of the public authority to designate a person responsible for the application of this law shall be sanctioned with a fine from 1,000 to 5,000 RON."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter VI - Annual Reporting",
+      "section": "Art.15",
+      "title": "Annual Report",
+      "content": "Each public authority and institution shall prepare an annual report on the implementation of this law, which shall include: the total number of requests received, the number of requests granted and rejected, the categories of information most frequently requested, the response times, and the number of administrative complaints and judicial actions filed. The annual report shall be made public through the authority's website."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Chapter VI - Annual Reporting",
+      "section": "Art.16",
+      "title": "Monitoring by the Government",
+      "content": "The Government, through the General Secretariat, shall monitor the implementation of this law by all public authorities and institutions. The General Secretariat shall prepare an annual consolidated report on the implementation of the law, which shall be submitted to the Parliament. The consolidated report shall include statistical data, best practices identified, and recommendations for improving the transparency of public authorities."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.17",
+      "title": "Relationship with Other Legislation",
+      "content": "This law shall apply without prejudice to the provisions of other laws regulating the classification, protection, and disclosure of specific categories of information. Where other laws establish more favourable conditions for access to information, those provisions shall prevail. The provisions of this law shall be interpreted in favour of the applicant's right of access to information."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "Art.18",
+      "title": "Entry into Force",
+      "content": "This law shall enter into force 60 days from the date of its publication in Monitorul Oficial al României. Within 60 days from the entry into force of this law, public authorities and institutions shall adopt the internal regulations necessary for its application."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Information of public interest",
+      "definition": "Any information which refers to or results from the activities of a public authority or institution, regardless of the medium on which it is recorded or the form in which it is expressed.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Classified information",
+      "definition": "Information that, due to the levels of importance and the consequences that unauthorised disclosure or dissemination would cause, must be protected in accordance with applicable security legislation.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

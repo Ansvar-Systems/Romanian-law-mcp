@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Romanian Law MCP",
+  "jurisdiction": "RO",
+  "provisions": [
+    {
+      "id": "ro-hash-001",
+      "description": "Law 190/2018 Art. 1 -- scope and purpose of GDPR implementing provisions",
+      "upstream_url": "https://legislatie.just.ro/Public/DetaliiDocument/203371",
+      "selector_hint": "Art. 1 - Scope",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Regulation (EU) 2016/679"
+    },
+    {
+      "id": "ro-hash-002",
+      "description": "Law 362/2018 Art. 1 -- scope of the NIS cybersecurity transposition law",
+      "upstream_url": "https://legislatie.just.ro/Public/DetaliiDocument/209670",
+      "selector_hint": "Art. 1 - Scope and Objectives",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Directive (EU) 2016/1148"
+    },
+    {
+      "id": "ro-hash-003",
+      "description": "Criminal Code Art. 360 -- illegal access to a computer system",
+      "upstream_url": "https://legislatie.just.ro/Public/DetaliiDocument/109855",
+      "selector_hint": "Art. 360 - Illegal Access",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "computer system"
+    },
+    {
+      "id": "ro-hash-004",
+      "description": "Law 365/2002 Art. 1 -- scope of the e-commerce law",
+      "upstream_url": "https://legislatie.just.ro/Public/DetaliiDocument/37050",
+      "selector_hint": "Art. 1 - Scope",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "information society services"
+    },
+    {
+      "id": "ro-hash-005",
+      "description": "Law 506/2004 Art. 4 -- cookies and similar technologies (ePrivacy)",
+      "upstream_url": "https://legislatie.just.ro/Public/DetaliiDocument/56694",
+      "selector_hint": "Art. 4 - Cookies",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "terminal equipment"
+    },
+    {
+      "id": "ro-hash-006",
+      "description": "OUG 98/2010 Art. 7 -- operator security plans for critical infrastructure",
+      "upstream_url": "https://legislatie.just.ro/Public/DetaliiDocument/123268",
+      "selector_hint": "Art. 7 - Operator Security Plans",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Operator Security Plan"
+    }
+  ]
+}

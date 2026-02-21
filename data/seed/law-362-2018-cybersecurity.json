@@ -1,0 +1,181 @@
+{
+  "id": "law-362-2018",
+  "type": "statute",
+  "title": "Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice",
+  "title_en": "Law 362/2018 on ensuring a common high level of security of network and information systems (NIS Transposition)",
+  "short_name": "NIS Cybersecurity Law",
+  "status": "in_force",
+  "issued_date": "2018-12-28",
+  "in_force_date": "2019-01-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209670",
+  "description": "Romania's transposition of Directive (EU) 2016/1148 (NIS Directive) establishing national cybersecurity requirements for operators of essential services and digital service providers.",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.1",
+      "title": "Scope and Objectives",
+      "content": "This law establishes a framework for the governance of cybersecurity at the national level, transposing Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (NIS Directive). The law establishes requirements for operators of essential services and digital service providers to implement appropriate security measures and report significant incidents."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.2",
+      "title": "Definitions",
+      "content": "For the purposes of this law: a) network and information system means an electronic communications network, any device or group of interconnected devices that process digital data, or digital data stored, processed, retrieved or transmitted by such systems; b) security of network and information systems means the ability to resist, at a given level of confidence, any action that compromises the availability, authenticity, integrity or confidentiality of stored or transmitted data or related services; c) operator of essential services means a public or private entity providing a service essential for the maintenance of critical societal or economic activities; d) digital service provider means a legal person providing online marketplace, online search engine, or cloud computing services; e) incident means any event having an actual adverse effect on the security of network and information systems."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "Art.3",
+      "title": "National Cybersecurity Strategy",
+      "content": "The Government shall adopt and update the National Cybersecurity Strategy, which shall establish the strategic objectives and priorities, the governance framework, and the measures to achieve a high common level of security of network and information systems at the national level. The strategy shall address risk assessment, incident response, international cooperation, public-private partnerships, and cybersecurity education and awareness."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Chapter II - National Governance Framework",
+      "section": "Art.4",
+      "title": "National Competent Authority",
+      "content": "The National Directorate for Cyber Security (Directoratul Național de Securitate Cibernetică - DNSC) is designated as the national competent authority for the security of network and information systems, in accordance with Article 8 of Directive (EU) 2016/1148. The DNSC shall coordinate the implementation of this law, supervise compliance by operators of essential services and digital service providers, and cooperate with EU institutions and other Member States."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Chapter II - National Governance Framework",
+      "section": "Art.5",
+      "title": "CSIRT Functions",
+      "content": "CERT-RO shall act as the national Computer Security Incident Response Team (CSIRT) in accordance with Article 9 of Directive (EU) 2016/1148. CERT-RO shall monitor incidents at the national level, provide early warnings, alerts and announcements, respond to incidents, provide risk and incident analysis, and promote the adoption of standardised practices for incident and risk management. CERT-RO shall participate in the CSIRT network established under Article 12 of the Directive."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Chapter II - National Governance Framework",
+      "section": "Art.6",
+      "title": "Single Point of Contact",
+      "content": "The DNSC shall serve as the single point of contact for cross-border cooperation on the security of network and information systems, in accordance with Article 8(3) of Directive (EU) 2016/1148. The single point of contact shall liaise with the European Commission, the cooperation group, and the CSIRT network, and shall coordinate with national authorities to ensure a coherent application of this law."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Chapter III - Operators of Essential Services",
+      "section": "Art.7",
+      "title": "Identification of Operators of Essential Services",
+      "content": "The DNSC shall identify operators of essential services established in Romania in the following sectors: energy, transport, banking, financial market infrastructures, health, drinking water supply and distribution, and digital infrastructure, in accordance with Article 5 of Directive (EU) 2016/1148. An entity shall be identified as an operator of essential services where it provides a service essential for the maintenance of critical societal or economic activities, the provision of that service depends on network and information systems, and an incident would have a significant disruptive effect on the provision of the service."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Chapter III - Operators of Essential Services",
+      "section": "Art.8",
+      "title": "Security Requirements for Operators",
+      "content": "Operators of essential services shall take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems which they use in the provision of essential services. These measures shall ensure a level of security appropriate to the risk, taking into account state-of-the-art technology, applicable standards, and the specific risks. Measures shall cover systems and facilities security, incident handling, business continuity management, supply chain security, and security testing and auditing."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Chapter III - Operators of Essential Services",
+      "section": "Art.9",
+      "title": "Incident Notification for Operators",
+      "content": "Operators of essential services shall notify CERT-RO without undue delay of incidents having a significant impact on the continuity of the essential services they provide, in accordance with Article 14 of Directive (EU) 2016/1148. The notification shall include information to enable CERT-RO to determine any cross-border impact of the incident. The significance of the impact shall be determined based on the number of users affected, the duration of the incident, and the geographical spread."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Chapter IV - Digital Service Providers",
+      "section": "Art.10",
+      "title": "Security and Notification for Digital Service Providers",
+      "content": "Digital service providers shall identify and take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems which they use to offer services within the Union, in accordance with Article 16 of Directive (EU) 2016/1148. Digital service providers shall notify CERT-RO of any incident having a substantial impact on the provision of their services. Micro and small enterprises as defined in Commission Recommendation 2003/361/EC are exempted from the requirements of this article."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Chapter IV - Digital Service Providers",
+      "section": "Art.11",
+      "title": "Supervision of Digital Service Providers",
+      "content": "The DNSC shall exercise supervisory powers over digital service providers established in Romania in a reactive manner, when provided with evidence of non-compliance. Where the DNSC has reason to believe that a digital service provider does not comply with the requirements of this law, it may require the provider to supply information, evidence, and undergo a security audit by a qualified independent body."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Chapter V - Cooperation",
+      "section": "Art.12",
+      "title": "National Cooperation",
+      "content": "The DNSC shall establish cooperation mechanisms with other national authorities responsible for the security of network and information systems in specific sectors, including the Romanian Intelligence Service (SRI), the Ministry of National Defence, and sector-specific regulators. Information sharing between the DNSC and these authorities shall be conducted in accordance with applicable national security legislation."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Chapter V - Cooperation",
+      "section": "Art.13",
+      "title": "EU Cooperation Group",
+      "content": "Romania, through the DNSC, shall participate in the cooperation group established under Article 11 of Directive (EU) 2016/1148 to support and facilitate strategic cooperation and the exchange of information among Member States. The DNSC shall contribute to the development of strategic guidance, the exchange of best practices, and the assessment of national strategies and the effectiveness of CSIRTs."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Chapter VI - Auditing and Compliance",
+      "section": "Art.14",
+      "title": "Security Audits",
+      "content": "The DNSC may require operators of essential services to undergo security audits conducted by qualified independent bodies or by DNSC personnel. The results of security audits shall be provided to the DNSC. The costs of security audits requested by the DNSC shall be borne by the operator of essential services. Security audits shall assess the effectiveness of technical and organisational measures implemented to comply with the requirements of this law."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Chapter VI - Auditing and Compliance",
+      "section": "Art.15",
+      "title": "Sanctions",
+      "content": "Non-compliance with the requirements established by this law shall be sanctioned by administrative fines. Failure to implement appropriate security measures shall be sanctioned with a fine from 5,000 to 50,000 RON. Failure to notify significant incidents shall be sanctioned with a fine from 3,000 to 30,000 RON. For repeated infringements or particularly serious breaches, fines may be increased up to 100,000 RON. The DNSC may also issue compliance orders and, in extreme cases, order the temporary suspension of certain activities."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Chapter VII - Sectoral Requirements",
+      "section": "Art.16",
+      "title": "Energy Sector",
+      "content": "Operators of essential services in the energy sector, including electricity, oil, and gas subsectors, shall implement sector-specific security measures established by the National Energy Regulatory Authority (ANRE) in coordination with the DNSC. These measures shall take into account the specificities of the energy sector and the applicable EU legislation, including Regulation (EU) 2019/941 on risk-preparedness in the electricity sector."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Chapter VII - Sectoral Requirements",
+      "section": "Art.17",
+      "title": "Transport Sector",
+      "content": "Operators of essential services in the transport sector, including air, rail, water, and road transport subsectors, shall implement sector-specific security measures established by the Ministry of Transport in coordination with the DNSC. These measures shall address the security of operational technology (OT) systems used in transport operations and shall take into account applicable international and EU transport safety and security standards."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Chapter VII - Sectoral Requirements",
+      "section": "Art.18",
+      "title": "Health Sector",
+      "content": "Operators of essential services in the health sector, including healthcare settings, EU reference laboratories, and entities carrying out research and development activities of medicinal products, shall implement sector-specific security measures established by the Ministry of Health in coordination with the DNSC. These measures shall address the protection of patient data, medical devices connected to network and information systems, and the continuity of healthcare services."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Chapter VIII - Final Provisions",
+      "section": "Art.19",
+      "title": "Implementing Regulations",
+      "content": "The Government shall adopt implementing regulations within 90 days from the entry into force of this law, establishing detailed technical requirements, identification criteria for operators of essential services, incident notification procedures, and audit methodologies. The implementing regulations shall be developed by the DNSC in consultation with sector-specific regulators and relevant stakeholders."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Chapter VIII - Final Provisions",
+      "section": "Art.20",
+      "title": "Entry into Force",
+      "content": "This law transposes Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union. This law shall enter into force 15 days from the date of its publication in Monitorul Oficial al României."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Network and information system",
+      "definition": "An electronic communications network, any device or group of interconnected devices that process digital data, or digital data stored, processed, retrieved or transmitted by such systems.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Operator of essential services",
+      "definition": "A public or private entity of a type referred to in Annex II that provides a service essential for the maintenance of critical societal or economic activities, which depends on network and information systems, and where an incident would have a significant disruptive effect.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Digital service provider",
+      "definition": "A legal person that provides an online marketplace, online search engine, or cloud computing service within the meaning of Directive (EU) 2016/1148.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "DNSC",
+      "definition": "Directoratul Național de Securitate Cibernetică (National Directorate for Cyber Security) - the national competent authority for the security of network and information systems in Romania.",
+      "source_provision": "Art.4"
+    },
+    {
+      "term": "CERT-RO",
+      "definition": "The national Computer Security Incident Response Team of Romania, acting as the CSIRT under the NIS Directive.",
+      "source_provision": "Art.5"
+    }
+  ]
+}
