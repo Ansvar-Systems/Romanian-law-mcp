@@ -4,14 +4,14 @@
  * Source:
  *   https://legislatie.just.ro/Public/DetaliiDocument/{documentId}
  *
- * - 1200ms minimum delay between requests (government server friendly)
+ * - 1000ms minimum delay between requests (government server friendly)
  * - explicit User-Agent for ingestion provenance
  * - retries for transient 429/5xx failures
  */
 
 const USER_AGENT =
   'Ansvar-Law-MCP/1.0 (+https://github.com/Ansvar-Systems/Romanian-law-mcp; legal-data-ingestion)';
-const MIN_DELAY_MS = 1200;
+const MIN_DELAY_MS = 1000;
 
 let lastRequestTime = 0;
 
