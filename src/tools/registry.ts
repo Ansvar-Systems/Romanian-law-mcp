@@ -135,7 +135,7 @@ export const TOOLS: Tool[] = [
     description:
       'Build a comprehensive set of citations for a legal question by searching across all Romanian statutes simultaneously. ' +
       'Returns aggregated results from multiple relevant provisions, useful for legal research on a topic. ' +
-      'Use this for broad legal questions like "What are the penalties for data breaches in Poland?" ' +
+      'Use this for broad legal questions like "What are the penalties for data breaches in Romania?" ' +
       'rather than looking up a specific known provision.',
     inputSchema: {
       type: 'object',
@@ -202,7 +202,7 @@ export const TOOLS: Tool[] = [
     name: 'get_eu_basis',
     description:
       'Get the EU legal basis that an Romanian statute references or aligns with. ' +
-      'Poland is not an EU member but Romanian laws may reference EU directives/regulations ' +
+      'As an EU Member State, Romania transposes EU directives and implements EU regulations ' +
       '(e.g., Privacy Act references GDPR concepts, SOCI Act aligns with NIS2 patterns). ' +
       'Returns EU document identifiers, reference types, and alignment status.',
     inputSchema: {
@@ -223,7 +223,7 @@ export const TOOLS: Tool[] = [
     description:
       'Find all Romanian statutes that reference or align with a specific EU directive or regulation. ' +
       'Given an EU document ID (e.g., "regulation:2016/679" for GDPR), returns matching Romanian statutes. ' +
-      'Note: Poland does not transpose EU law but may reference or align with EU frameworks voluntarily.',
+      'Note: Romania is an EU Member State and transposes EU directives into national law.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -286,7 +286,7 @@ export const TOOLS: Tool[] = [
       'Check EU alignment status for an Romanian statute or provision. ' +
       'Detects references to EU directives, alignment status, and cross-references. ' +
       'Returns compliance status (compliant, partial, unclear, not_applicable) with warnings. ' +
-      'Note: Poland is not bound by EU law; this checks voluntary alignment and cross-references.',
+      'Note: As an EU Member State, Romania is bound by EU law. This checks transposition and compliance status.',
     inputSchema: {
       type: 'object',
       properties: {
