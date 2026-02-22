@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305022",
+  "type": "statute",
+  "title": "LEGE nr. 209 din 8 decembrie 2025",
+  "short_name": "lege 209 08 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-08",
+  "in_force_date": "2025-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305022",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 209 08/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea nr. 176/2018 privind internshipul, publicată în Monitorul Oficial al României, Partea I, nr. 626 din 19 iulie 2018, cu completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 4, alineatul (1) se modifică și va avea următorul cuprins: Articolul 4 (1) În funcție de numărul de salariați, organizația-gazdă poate încheia în mod simultan contracte de internship pentru un număr de interni care nu poate fi mai mare de 10% din numărul total al salariaților. 2. După articolul 20 se introduce un nou articol, art. 20^1, cu următorul cuprins: Articolul 20^1 (1) Pe perioada derulării contractului de internship, internul are dreptul la un număr de zile de odihnă plătite, direct proporțional cu durata programului de internship. (2) În situația în care internul nu solicită zilele de odihnă pe durata contractuală, acestea nu vor fi compensate de organizația-gazdă la finalul programului de internship. 3. La articolul 22, alineatul (6) se modifică și va avea următorul cuprins: (6) Pentru a beneficia de sumele prevăzute la alin. (3), reprezentanții organizațiilor-gazdă depun o cerere la agențiile teritoriale pentru ocuparea forței de muncă, în maximum 6 luni de la expirarea termenului prevăzut la alin. (3), însoțită de copia certificatului de internship al internului."
+    }
+  ],
+  "definitions": []
+}

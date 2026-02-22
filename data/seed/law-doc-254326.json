@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254326",
+  "type": "statute",
+  "title": "LEGE nr. 110 din 20 aprilie 2022",
+  "short_name": "lege 110 20 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-20",
+  "in_force_date": "2022-04-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254326",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 110 20/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 116 din 4 octombrie 2021 privind modificarea și completarea Legii nr. 56/2020 pentru recunoașterea meritelor personalului medical participant la acțiuni medicale împotriva COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 951 din 5 octombrie 2021."
+    }
+  ],
+  "definitions": []
+}

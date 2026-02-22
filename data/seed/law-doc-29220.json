@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-29220",
+  "type": "statute",
+  "title": "LEGE nr. 320 din 26 iunie 2001",
+  "short_name": "lege 320 26 06 2001",
+  "status": "in_force",
+  "issued_date": "2001-06-26",
+  "in_force_date": "2001-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/29220",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 320 26/06/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 137 din 22 septembrie 1999 privind modificarea și completarea Legii nr. 108/1999 pentru înființarea și organizarea Inspecției Muncii, publicată în Monitorul Oficial al României, Partea I, nr. 461 din 23 septembrie 1999, cu următoarea modificare: – La articolul I punctul 2 , alineatul (4) al articolului 22 va avea următorul cuprins: (4) Veniturile prevăzute la alin. (3) se vor folosi pentru acoperirea unei cote-părți din cheltuielile curente de capital, precum și pentru constituirea și utilizarea, numai până la data aplicării prevederilor art. 14 din prezenta lege, a fondului de stimulare a personalului încadrat la aceasta instituție. Modul de repartizare a stimulentelor se stabilește prin decizie emisă de inspectorul general de stat."
+    }
+  ],
+  "definitions": []
+}

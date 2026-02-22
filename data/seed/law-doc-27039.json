@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-27039",
+  "type": "statute",
+  "title": "LEGE nr. 22 din 22 februarie 2001 (*actualizată*)",
+  "short_name": "lege 22 22 02 2001",
+  "status": "in_force",
+  "issued_date": "2001-02-22",
+  "in_force_date": "2001-02-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/27039",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 22 22/02/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Convenţia privind evaluarea impactului asupra mediului în context transfrontieră, adoptată la Espoo la 25 februarie 1991."
+    }
+  ],
+  "definitions": []
+}

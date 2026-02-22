@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-48697",
+  "type": "statute",
+  "title": "LEGE nr. 571 din 22 decembrie 2003 (*actualizată*)",
+  "short_name": "lege 571 22 12 2003",
+  "status": "in_force",
+  "issued_date": "2003-12-22",
+  "in_force_date": "2003-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/48697",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 571 22/12/2003",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "privind Codul fiscal"
+    },
+    {
+      "provision_ref": "Par.2",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "(actualizată la data de 4 noiembrie 2015*)"
+    },
+    {
+      "provision_ref": "Par.3",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "---------- COD FISCAL 22/12/2003"
+    }
+  ],
+  "definitions": []
+}

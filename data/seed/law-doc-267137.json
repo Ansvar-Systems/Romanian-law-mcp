@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-267137",
+  "type": "statute",
+  "title": "LEGE nr. 93 din 12 aprilie 2023",
+  "short_name": "lege 93 12 04 2023",
+  "status": "in_force",
+  "issued_date": "2023-04-12",
+  "in_force_date": "2023-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/267137",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 93 12/04/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După articolul 166 din Legea nr. 207/2015 privind Codul de procedură fiscală , publicată în Monitorul Oficial al României, Partea I, nr. 547 din 23 iulie 2015, cu modificările și completările ulterioare, se introduce un nou articol, art. 166^1, cu următorul cuprins: Articolul 166^1 Reguli speciale privind stingerea creanțelor fără plată Prin excepție de la prevederile art. 167, creanțele fiscale ale contribuabilului, certe, lichide și exigibile, față de bugetele locale, stabilite prin hotărâri judecătorești definitive, se sting la cererea contribuabilului și prin compensarea acestora cu obligațiile sale restante, curente sau viitoare către bugetul de stat, fără compensare între bugete, indiferent dacă obligațiile și, respectiv, creanțele supuse stingerii sunt administrate sau nu de aceeași autoritate publică. Procedura de stingere și schimb de informații între organele fiscale locale și organele fiscale centrale se aprobă prin ordin comun al ministrului finanțelor și al ministrului dezvoltării, lucrărilor publice și administrației, inițiat la propunerea ANAF."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile art. 166^1 din Legea nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare, se aplică și pentru stingerea creanțelor contribuabililor asupra bugetelor locale, stabilite prin hotărâri judecătorești rămase definitive până la intrarea în vigoare a prezentei legi și nestinse până la această dată."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Ordinul comun prevăzut la art. I din prezenta lege se emite și se publică în Monitorul Oficial al României, Partea I, în termen de maximum 30 de zile de la intrarea în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

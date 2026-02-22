@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187777",
+  "type": "statute",
+  "title": "LEGE nr. 33 din 27 martie 2017",
+  "short_name": "lege 33 27 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-27",
+  "in_force_date": "2017-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187777",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 33 27/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă extinderea aplicării de către România a regimului de privilegii şi imunităţi prevăzute de Convenţia cu privire la privilegiile şi imunităţile instituţiilor specializate, aprobată de Adunarea Generală a Organizaţiei Naţiunilor Unite la 21 noiembrie 1947, la care România a aderat prin Decretul nr. 343/1970 , pentru instituţiile specializate ale Organizaţiei Naţiunilor Unite prevăzute în anexă."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-103526",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 13 martie 2009",
+  "short_name": "lege 39 13 03 2009",
+  "status": "in_force",
+  "issued_date": "2009-03-13",
+  "in_force_date": "2009-03-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/103526",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 13/03/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 83 din 24 iunie 2008 pentru modificarea și completarea Legii nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale, publicată în Monitorul Oficial al României, Partea I, nr. 471 din 26 iunie 2008, cu următoarea modificare: – La articolul unic punctul 1, alineatul (2) al articolului 9 va avea următorul cuprins: (2) Datele de stare civilă actualizate pentru toți cetățenii români, cetățenii Uniunii Europene și ai statelor membre ale Spațiului Economic European și străinii care au înregistrată rezidența/șederea în România, precum și ale persoanelor pentru care CNPAS întocmește documentații de plată și/sau efectuează plata unor prestații sociale vor fi furnizate acesteia, gratuit, de Ministerul Administrației și Internelor, prin Centrul Național de Administrare a Bazelor de Date privind Evidența Persoanelor sau prin Oficiul Român pentru Imigrări, după caz."
+    }
+  ],
+  "definitions": []
+}

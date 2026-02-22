@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299224",
+  "type": "statute",
+  "title": "LEGE nr. 114 din 23 iunie 2025",
+  "short_name": "lege 114 23 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-23",
+  "in_force_date": "2025-06-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299224",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 114 23/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 2 din 31 ianuarie 2025 pentru modificarea Legii nr. 185/2017 privind asigurarea calității în sistemul de sănătate, adoptată în temeiul art. 1 pct. VI.1 din Legea nr. 332/2024 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 92 din 31 ianuarie 2025."
+    }
+  ],
+  "definitions": []
+}

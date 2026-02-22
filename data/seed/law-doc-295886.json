@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-295886",
+  "type": "statute",
+  "title": "LEGE nr. 31 din 25 martie 2025",
+  "short_name": "lege 31 25 03 2025",
+  "status": "in_force",
+  "issued_date": "2025-03-25",
+  "in_force_date": "2025-03-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/295886",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 31 25/03/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de sediu dintre Guvernul României și Centrul european de competențe în domeniul industrial, tehnologic și de cercetare în materie de securitate cibernetică, semnat la București la 27 septembrie 2024."
+    }
+  ],
+  "definitions": []
+}

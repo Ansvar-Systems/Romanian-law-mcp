@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30600",
+  "type": "statute",
+  "title": "LEGE nr. 154 din 5 aprilie 1937",
+  "short_name": "lege 154 05 04 1937",
+  "status": "in_force",
+  "issued_date": "1937-04-05",
+  "in_force_date": "1937-04-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30600",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 154 05/04/1937",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Administraţia Casei Scoalelor şi a Culturii Poporului, de pe lîngă Ministerul Educatiunii Naţionale, este autorizat, a vinde, prin buna învoiala, locuitorilor din com. Vădeni-Preajba şi comunele limitrofe, judeţului Gorj, terenul paduros al mosiei Vădeni-Preajba, jud. Gorj, proprietate a acelei administratiuni, Fondul \"D. Pleniceanu\"."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Preţul acestei vânzări se va stabili de comun acord între Casa Scoalelor şi locuitori, pe baza unei expertize prealabile ce se va face de către o comisie de specialişti. Plata terenului se va face în numerar. Avizul Consiliului Legislativ, secţia I, Nr. 55/937. Desbateri: Senat Nr. 44-1936/37; Camera Nr. 53-1936/37. Votat de Senat la 13 Martie şi de Adunarea Deputaţilor la 18 Martie 1937. ---------------"
+    }
+  ],
+  "definitions": []
+}

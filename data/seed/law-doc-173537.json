@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173537",
+  "type": "statute",
+  "title": "LEGE nr. 302 din 27 noiembrie 2015",
+  "short_name": "lege 302 27 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-27",
+  "in_force_date": "2015-11-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173537",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 302 27/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (3) al articolului 56 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul, publicată în Monitorul Oficial al României, Partea I, nr. 373 din 10 iulie 2001, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"(3) Avizarea documentaţiilor de interes general - toate categoriile din domeniul amenajării teritoriului, precum şi din domeniul urbanismului iniţiate de autorităţile şi instituţiile administraţiei publice - se face fără perceperea de taxe şi/sau tarife.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-22780",
+  "type": "statute",
+  "title": "LEGE nr. 181 din 26 iunie 1930",
+  "short_name": "lege 181 26 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-26",
+  "in_force_date": "1930-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22780",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 181 26/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Ministerul de Justiţie este autorizat sa schimbe cu Ministerul de Agricultura şi Domenii suprafaţa de 7.000 mp, proprietatea Directiunii Generale a Penitenciarelor şi Institutelor de Prevenire, situata lîngă penitenciarul din oraşul Craiova, cu o suprafaţa de 18 ha, proprietatea Ministerului de Agricultura şi Domenii, situata între loturile invalizilor din rasboiu, calea ferată, raul Amaradia şi lotul destinat scoalei de Agricultura Isalnita. Pe terenul ce se cedează Ministerului de Agricultura şi Domenii se va cladi o şcoala. Desbateri: Senat Nr. 45-1929/30; Camera Nr. 78-1929/30. Votat de Senat la 3 Iunie 1930 şi de Adunarea deputaţilor la 20 Iunie 1930. -----"
+    }
+  ],
+  "definitions": []
+}

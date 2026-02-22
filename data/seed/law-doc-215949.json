@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-215949",
+  "type": "statute",
+  "title": "LEGE nr. 126 din 5 iulie 2019",
+  "short_name": "lege 126 05 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-05",
+  "in_force_date": "2019-07-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/215949",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 126 05/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 64 din Ordonanța de urgență a Guvernului nr. 23/2008 privind pescuitul și acvacultura, publicată în Monitorul Oficial al României, Partea I, nr. 180 din 10 martie 2008, aprobată cu modificări și completări prin Legea nr. 317/2009 , cu modificările și completările ulterioare, litera k) se modifică și va avea următorul cuprins: k) producerea, importul, deținerea, comercializarea sau utilizarea uneltelor de plasă de tip monofilament, cu excepția setcilor folosite pentru pescuitul calcanului, cu mărimea ochiului de minimum 400 mm;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-18457",
+  "type": "statute",
+  "title": "LEGE nr. 110 din 16 iunie 1999",
+  "short_name": "lege 110 16 06 1999",
+  "status": "in_force",
+  "issued_date": "1999-06-16",
+  "in_force_date": "1999-06-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/18457",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 110 16/06/1999",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 24 din 30 ianuarie 1998 privind aprobarea plafonului de îndatorare publică externa a României pentru anul 1998, emisă în temeiul art. 1 lit. a) din Legea nr. 221/1997 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 41 din 30 ianuarie 1998, cu următoarea modificare: – La articolul unic, alineatul 1 va avea următorul cuprins: Plafonul de îndatorare publică externa a României pentru anul 1998 se stabilește la suma de 2.250 milioane dolari S.U.A."
+    }
+  ],
+  "definitions": []
+}

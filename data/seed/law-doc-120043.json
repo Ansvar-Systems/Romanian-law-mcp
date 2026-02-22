@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-120043",
+  "type": "statute",
+  "title": "LEGE nr. 128 din 30 iunie 2010",
+  "short_name": "lege 128 30 06 2010",
+  "status": "in_force",
+  "issued_date": "2010-06-30",
+  "in_force_date": "2010-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/120043",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 128 30/06/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 13 din 29 ianuarie 2010 pentru modificarea și completarea unor acte normative în domeniul justiției în vederea transpunerii Directivei 2006/123/CE a Parlamentului European și a Consiliului din 12 decembrie 2006 privind serviciile în cadrul pieței interne, adoptată în temeiul art. 1 pct. II din Legea nr. 9/2010 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 70 din 30 ianuarie 2010, cu următoarea modificare: – La articolul IV punctul 6, articolul 11^1 se modifică și va avea următorul cuprins: Articolul 11^1 Experții criminaliști autorizați potrivit prezentei ordonanțe au obligația să notifice Ministerului Justiției, în termen de 30 de zile, orice schimbare a datelor comunicate la momentul dobândirii calității."
+    }
+  ],
+  "definitions": []
+}

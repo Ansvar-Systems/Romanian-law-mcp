@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-174358",
+  "type": "statute",
+  "title": "LEGE nr. 344 din 22 decembrie 2015",
+  "short_name": "lege 344 22 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-22",
+  "in_force_date": "2015-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174358",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 344 22/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Ordonanţa de urgenţă a Guvernului nr. 98/2010 privind identificarea, desemnarea şi protecţia infrastructurilor critice, publicată în Monitorul Oficial al României, Partea I, nr. 757 din 12 noiembrie 2010, aprobată cu modificări prin Legea nr. 18/2011 , se modifică după cum urmează: 1. La articolul 7 alineatul (2), litera g) se modifică şi va avea următorul cuprins: \"g) participă, la solicitarea M.A.I., prin Centrul de coordonare a PIC, la discuţiile bilaterale/multilaterale în vederea identificării şi desemnării ICE;\". 2. La articolul 10, alineatul (6) se modifică şi va avea următorul cuprins: \"(6) Desemnarea ICE se realizează pe baza consimţământului scris al autorităţilor competente din România şi din statele membre care ar putea fi afectate semnificativ, cu acceptul statului membru pe al cărui teritoriu se află infrastructura care urmează să fie desemnată drept ICE, şi se aprobă prin hotărâre a Guvernului.\""
+    }
+  ],
+  "definitions": []
+}

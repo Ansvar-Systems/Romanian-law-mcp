@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257639",
+  "type": "statute",
+  "title": "LEGE nr. 223 din 15 iulie 2022",
+  "short_name": "lege 223 15 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-15",
+  "in_force_date": "2022-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257639",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 223 15/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul semnat de partea română la București, la 5 martie 2020, la Acordul dintre Guvernul României, Guvernul Republicii Slovace, Cabinetul de Miniștri al Ucrainei și Guvernul Republicii Ungare privind înființarea Batalionului multinațional de geniu, semnat la Budapesta la 18 ianuarie 2002, ratificat prin Legea nr. 583/2002 ."
+    }
+  ],
+  "definitions": []
+}

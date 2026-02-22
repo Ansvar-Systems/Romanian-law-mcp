@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-196764",
+  "type": "statute",
+  "title": "LEGE nr. 24 din 15 ianuarie 2018",
+  "short_name": "lege 24 15 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-15",
+  "in_force_date": "2018-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196764",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 24 15/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 28 din Legea nr. 411/2004 privind fondurile de pensii administrate privat, republicată în Monitorul Oficial al României, Partea I, nr. 482 din 18 iulie 2007, cu modificările și completările ulterioare, alineatul (3) se modifică și va avea următorul cuprins: (3) Activele fondului de pensii nu pot constitui garanții și nu pot fi utilizate pentru acordarea de credite, sub sancțiunea nulității absolute a actelor prin care se constituie garanția sau se acordă creditul, cu excepția garanției/marjei/colateralului constituite/constituit pentru tranzacționarea instrumentelor financiare derivate stabilite prin normele Autorității de Supraveghere Financiară, utilizate doar în măsura în care contribuie la scăderea riscurilor investiției sau facilitează gestionarea eficientă a portofoliului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 90 din Legea nr. 204/2006 privind pensiile facultative, publicată în Monitorul Oficial al României, Partea I, nr. 470 din 31 mai 2006, cu modificările și completările ulterioare, alineatul (3) se modifică și va avea următorul cuprins: (3) Activele fondului de pensii facultative nu pot constitui garanții și nu pot fi utilizate pentru acordarea de credite, sub sancțiunea nulității absolute a actelor prin care se constituie garanția sau se acordă creditul, cu excepția garanției/ marjei/colateralului constituite/constituit pentru tranzacționarea instrumentelor financiare derivate stabilite prin normele Autorității de Supraveghere Financiară, utilizate doar în măsura în care contribuie la scăderea riscurilor investiției sau facilitează gestionarea eficientă a portofoliului."
+    }
+  ],
+  "definitions": []
+}

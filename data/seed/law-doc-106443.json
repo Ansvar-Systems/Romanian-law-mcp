@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-106443",
+  "type": "statute",
+  "title": "LEGE nr. 193 din 27 mai 2009",
+  "short_name": "lege 193 27 05 2009",
+  "status": "in_force",
+  "issued_date": "2009-05-27",
+  "in_force_date": "2009-05-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/106443",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 193 27/05/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 193 din 25 noiembrie 2008 privind modificarea și completarea art. 37 și 39 din Legea nr. 46/2008 - Codul silvic, publicată în Monitorul Oficial al României, Partea I, nr. 825 din 8 decembrie 2008, cu următoarele modificări și completări: 1. La articolul unic punctul 1, litera b) a alineatului (1) al articolului 37 va avea următorul cuprins: b) structuri de primire turistică cu funcțiuni de cazare turistică, unități de cult, obiective sociale, sportive și medicale, construcții hidrotehnice de interes local. În înțelesul prezentei legi, categoria obiective sociale nu include locuințele individuale și ansamblurile rezidențiale edificate în fondul forestier proprietate publică; 2. La articolul unic, după punctul 1 se introduce un nou punct, punctul 1^1, cu următorul cuprins: 1^1. La articolul 37 alineatul (1), litera c) va avea următorul cuprins: c) locuințe sau case de vacanță, numai în fondul forestier proprietate privată a persoanelor fizice și juridice; 3. La articolul unic punctul 2, litera e) a alineatului (1) al articolului 37 va avea următorul cuprins: e) rețele de surse de apă potabilă și canalizare, rețele și sisteme de comunicații, precum și drumuri de interes județean și local; 4. La articolul unic punctul 4, alineatul (6) al articolului 39 va avea următorul cuprins: (6) Este interzisă aprobarea ocupării temporare de terenuri din fondul forestier administrat/pentru care sunt asigurate serviciile silvice de către un ocol silvic pentru operatorii economici și succesorii în drepturi ai acestora, în situația în care aceștia nu au redat circuitului silvic, în condițiile alin. (5), terenurile forestiere ocupate anterior din fondul forestier național, cu excepția situațiilor de urgență reglementate în condițiile legii."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a alineatului (1) al articolului 37 va avea următorul cuprins",
+      "definition": "b) structuri de primire turistică cu funcțiuni de cazare turistică, unități de cult, obiective sociale, sportive și medicale, construcții hidrotehnice de interes local",
+      "source_provision": "Art.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250243",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 4 ianuarie 2022",
+  "short_name": "lege 1 04 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-04",
+  "in_force_date": "2022-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250243",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 04/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Tratatul dintre România și Regatul Thailandei privind transferarea persoanelor condamnate și cooperarea în executarea pedepselor, semnat la New York la 25 septembrie 2019."
+    }
+  ],
+  "definitions": []
+}

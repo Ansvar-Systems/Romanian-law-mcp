@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-53100",
+  "type": "statute",
+  "title": "LEGE nr. 286 din 24 iunie 2004",
+  "short_name": "lege 286 24 06 2004",
+  "status": "in_force",
+  "issued_date": "2004-06-24",
+  "in_force_date": "2004-06-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/53100",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 286 24/06/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul 2 litera a) al articolului 4 din Legea nr. 80/1995 privind Statutul cadrelor militare, publicată în Monitorul Oficial al României, Partea I, nr. 155 din 20 iulie 1995, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Pot fi ofițeri, maiștri militari sau subofițeri în activitate persoanele care au cetățenie română și domiciliul în țară;"
+    }
+  ],
+  "definitions": []
+}

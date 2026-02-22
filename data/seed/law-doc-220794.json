@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-220794",
+  "type": "statute",
+  "title": "LEGE nr. 235 din 9 decembrie 2019",
+  "short_name": "lege 235 09 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-09",
+  "in_force_date": "2019-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/220794",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 235 09/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de cooperare dintre Guvernul României și Guvernul Republicii Moldova în domeniul prevenirii și combaterii corupției, semnat la 19 decembrie 2018 la Chișinău."
+    }
+  ],
+  "definitions": []
+}

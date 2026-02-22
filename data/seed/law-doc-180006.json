@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-180006",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 7 iulie 2016",
+  "short_name": "lege 125 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180006",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) România aderă la Centrul european pentru interdependenţă şi solidaritate mondială, creat prin Rezoluţia (89)14, adoptată de Comitetul de Miniştri al Consiliului Europei la 16 noiembrie 1989, a cărui continuare a fost confirmată prin Rezoluţia (93)51, adoptată de Comitetul de Miniştri al Consiliului Europei la 21 octombrie 1993. (2) Pentru coordonarea acţiunii instituţiilor implicate în implementarea acordului prevăzut la alin. (1) se desemnează ca autorităţi competente Ministerul Afacerilor Externe şi Ministerul Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice prin Agenţia Naţională pentru Egalitatea de Şanse între Femei şi Bărbaţi (ANES)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Contribuţia României la bugetul destinat implementării Acordului parţial extins este comunicată anual de Secretariatul General al Consiliului Europei şi se suportă de la bugetul de stat, în mod egal, prin bugetele Ministerului Afacerilor Externe şi Ministerului Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice prin Agenţia Naţională pentru Egalitatea de Şanse între Femei şi Bărbaţi (ANES). (2) Ministerul Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice prin Agenţia Naţională pentru Egalitatea de Şanse între Femei şi Bărbaţi (ANES) va fi reprezentat în Comitetul executiv şi va stabili mandatul României în cadrul acestui comitet."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Cheltuielile de participare la reuniunile grupului de cooperare în materie se suportă de la bugetul de stat prin bugetul Ministerului Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice prin Agenţia Naţională pentru Egalitatea de Şanse între Femei şi Bărbaţi (ANES)."
+    }
+  ],
+  "definitions": []
+}

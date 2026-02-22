@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-228023",
+  "type": "statute",
+  "title": "LEGE nr. 139 din 21 iulie 2020",
+  "short_name": "lege 139 21 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-21",
+  "in_force_date": "2020-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228023",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 139 21/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 18/2020 pentru completarea unor acte normative în domeniul transportului naval, publicată în Monitorul Oficial al României, Partea I, nr. 103 din 11 februarie 2020."
+    }
+  ],
+  "definitions": []
+}

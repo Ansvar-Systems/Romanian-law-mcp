@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-233395",
+  "type": "statute",
+  "title": "LEGE nr. 256 din 18 noiembrie 2020",
+  "short_name": "lege 256 18 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-18",
+  "in_force_date": "2020-11-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/233395",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 256 18/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 4 iunie Ziua Tratatului de la Trianon."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În scopul marcării Zilei Tratatului de la Trianon se organizează, la nivel național și local, manifestări cultural-educative și științifice consacrate conștientizării semnificației și importanței Tratatului de la Trianon. (2) Autoritățile administrației publice centrale și locale pot sprijini material și logistic, din bugetele proprii, organizarea și desfășurarea manifestărilor prevăzute la alin. (1). (3) Instituțiile publice, din fonduri proprii, precum și organizațiile neguvernamentale și reprezentanții societății civile pot sprijini manifestările organizate de către autoritățile administrației publice centrale și locale."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Guvernul și autoritățile administrației publice centrale și locale vor lua măsurile necesare pentru ca în această zi să fie arborat drapelul României, în conformitate cu prevederile Legii nr. 75/1994 privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României de către autoritățile și instituțiile publice, cu completările ulterioare. (2) Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, vor include în programele lor emisiuni ori aspecte de la manifestările dedicate acestei zile."
+    }
+  ],
+  "definitions": []
+}

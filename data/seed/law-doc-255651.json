@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-255651",
+  "type": "statute",
+  "title": "LEGE nr. 149 din 23 mai 2022",
+  "short_name": "lege 149 23 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-23",
+  "in_force_date": "2022-05-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255651",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 149 23/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 137 din 28 decembrie 2021 pentru completarea Ordonanței de urgență a Guvernului nr. 3/2021 privind unele măsuri pentru recrutarea și plata personalului implicat în procesul de vaccinare împotriva COVID-19 și stabilirea unor măsuri în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 1242 din 29 decembrie 2021."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Începând cu data intrării în vigoare a prezentei legi, efectuarea activității de testare cu teste rapide antigen din proba nazofaringiană în vederea depistării infecției cu SARS-CoV-2 se face de către farmaciile comunitare și oficinele comunitare rurale aflate în relații contractuale cu casele de asigurări de sănătate, în baza unui contract distinct, de natură civilă, încheiat cu casa de asigurări de sănătate de către reprezentantul legal al furnizorului de medicamente în cadrul căreia funcționează farmacia comunitară/oficina comunitară rurală. Modelul de contract, documentele în baza cărora se încheie contractul, condițiile de raportare și validare a activităților realizate și modalitatea de plată se stabilesc prin ordin al ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate. (2) Activitatea de testare prevăzută la alin. (1) se realizează în cadrul farmaciilor comunitare/oficinelor comunitare rurale avizate de către direcțiile de sănătate publică, respectiv a municipiului București, în condițiile Ordinului ministrului sănătății nr. 644/2021 privind activitatea de testare în farmacii comunitare și oficine comunitare rurale, utilizând teste antigenice rapide pentru diagnosticarea infecției cu SARS-CoV-2, cu completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-164488",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 7 ianuarie 2015",
+  "short_name": "lege 1 07 01 2015",
+  "status": "in_force",
+  "issued_date": "2015-01-07",
+  "in_force_date": "2015-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/164488",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 07/01/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 91 din 2 octombrie 2013 privind procedurile de prevenire a insolvenţei şi de insolvenţă, publicată în Monitorul Oficial al României, Partea I, nr. 620 din 4 octombrie 2013."
+    }
+  ],
+  "definitions": []
+}

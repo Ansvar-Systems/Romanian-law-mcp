@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-147003",
+  "type": "statute",
+  "title": "LEGE nr. 99 din 12 aprilie 2013",
+  "short_name": "lege 99 12 04 2013",
+  "status": "in_force",
+  "issued_date": "2013-04-12",
+  "in_force_date": "2013-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/147003",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 99 12/04/2013",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 24 din 30 august 2011 privind unele măsuri în domeniul evaluării bunurilor, adoptată în temeiul art. 1 pct. I.12 din Legea nr. 131/2011 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 628 din 2 septembrie 2011, cu următoarele modificări: 1. La articolul 20 alineatul (2), litera b) se abrogă. 2. La articolul 20 alineatul (2), litera c) va avea următorul cuprins: c) cel puțin un membru al consiliului de administrație sau administratorul unic al societății reglementate de Legea societăților nr. 31/1990 , republicată, cu modificările și completările ulterioare, să dețină calitatea de evaluator autorizat;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Denumirea \"Uniunea Națională a Evaluatorilor Autorizați din România\", respectiv \"Uniunea\" din cuprinsul Ordonanței Guvernului nr. 24/2011 privind unele măsuri în domeniul evaluării bunurilor se înlocuiește cu denumirea \"Asociația Națională a Evaluatorilor Autorizați din România\", respectiv \"Asociația\". (2) În cuprinsul celorlalte acte normative în vigoare, denumirea \"Uniunea Națională a Evaluatorilor Autorizați din România\" se înlocuiește cu denumirea \"Asociația Națională a Evaluatorilor Autorizați din România\"."
+    }
+  ],
+  "definitions": []
+}

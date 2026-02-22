@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-11843",
+  "type": "statute",
+  "title": "LEGE nr. 154 din 16 septembrie 1997",
+  "short_name": "lege 154 16 09 1997",
+  "status": "in_force",
+  "issued_date": "1997-09-16",
+  "in_force_date": "1997-09-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/11843",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 154 16/09/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 18 din 15 mai 1997 privind asigurarea unor facilități furnizorilor de îngrășăminte chimice și de produse de uz fitosanitar, publicată în Monitorul Oficial al României, Partea I, nr. 93 din 19 mai 1997, cu modificarea articolului 2 , care va avea următorul cuprins: Articolul 2 Taxa pe valoarea adăugată și impozitul pe profit, aferente valorii produselor livrate în condițiile art. 1, se vor achită la bugetul de stat la termenele scadente prevăzute în contractele încheiate de furnizori cu producătorii agricoli, dar nu mai târziu de 31 decembrie 1997."
+    }
+  ],
+  "definitions": []
+}

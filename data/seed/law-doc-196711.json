@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196711",
+  "type": "statute",
+  "title": "LEGE nr. 16 din 12 ianuarie 2018",
+  "short_name": "lege 16 12 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-12",
+  "in_force_date": "2018-01-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196711",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 16 12/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 82 din 16 noiembrie 2016 pentru aprobarea Statutului special al funcției publice specifice de inspector social și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 965 din 29 noiembrie 2016."
+    }
+  ],
+  "definitions": []
+}

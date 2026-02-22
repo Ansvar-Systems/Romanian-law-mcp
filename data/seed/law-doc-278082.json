@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-278082",
+  "type": "statute",
+  "title": "LEGE nr. 13 din 10 ianuarie 2024",
+  "short_name": "lege 13 10 01 2024",
+  "status": "in_force",
+  "issued_date": "2024-01-10",
+  "in_force_date": "2024-01-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/278082",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 13 10/01/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 62/2019 privind activitatea consulară, publicată în Monitorul Oficial al României, Partea I, nr. 299 din 18 aprilie 2019, cu modificările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 26, după alineatul (2) se introduc trei noi alineate, alineatele (3)-(5), cu următorul cuprins: (3) Cererea de servicii consulare se depune personal sau, după caz, se transmite în format electronic. (4) În funcție de tipul de serviciu consular solicitat și de opțiunea titularului cererii, documentele eliberate în cadrul activității consulare se ridică personal sau, după caz, se expediază prin servicii de curierat, cu suportarea cheltuielilor de expediție de către solicitanți, ori se transmit în format electronic, după ce au fost emise și semnate cu semnătură electronică calificată. (5) Categoriile de servicii consulare care se pot solicita, respectiv presta în format electronic, documentele eliberate care se pot expedia prin servicii de curierat, procedura de depunere și soluționare a cererilor respective, precum și orice alte aspecte conexe se stabilesc prin ordin al ministrului afacerilor externe. 2. La articolul 65 alineatul (1), litera a) se modifică și va avea următorul cuprins: a) Sistemul informatic pentru managementul integrat al serviciilor pentru cetățeni, prin care sunt procesate cererile de servicii consulare, se înregistrează cetățenii români aflați în străinătate, se procesează și se centralizează evaluările, sugestiile și propunerile venite de la cetățeni, se poartă corespondența interinstituțională, se ține evidența cazurilor de asistență și protecție consulară, se emit și se eliberează, după caz, documente specifice; 3. La articolul 67, după alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: (2^1) Diplomații cu atribuții consulare și funcționarii consulari utilizează, după caz, semnături electronice calificate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordinul ministrului afacerilor externe prevăzut la art. 26 alin. (5) din Legea nr. 62/2019 privind activitatea consulară, cu modificările ulterioare, precum și cu modificările și completările aduse prin prezenta lege, se emite în termen de 90 de zile de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

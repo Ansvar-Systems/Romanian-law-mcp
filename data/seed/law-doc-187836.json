@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187836",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 29 martie 2017",
+  "short_name": "lege 39 29 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-29",
+  "in_force_date": "2017-03-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187836",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 29/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 77 din 9 noiembrie 2016 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020, publicată în Monitorul Oficial al României, Partea I, nr. 920 din 16 noiembrie 2016."
+    }
+  ],
+  "definitions": []
+}

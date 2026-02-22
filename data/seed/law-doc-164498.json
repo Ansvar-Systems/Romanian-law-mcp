@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-164498",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 7 ianuarie 2015",
+  "short_name": "lege 6 07 01 2015",
+  "status": "in_force",
+  "issued_date": "2015-01-07",
+  "in_force_date": "2015-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/164498",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 07/01/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 23 din 26 august 2014 pentru completarea art. 8 din Ordonanţa de urgenţă a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar, adoptată în temeiul art. 1 pct. I.10 din Legea nr. 119/2014 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 636 din 29 august 2014, cu următoarea modificare: - La articolul unic, alineatul (7) se modifică şi va avea următorul cuprins: \"(7) Prin excepţie de la prevederile alin. (1) şi (2), sumele reprezentând garanţiile care se recuperează în anii următori celui în care au fost constituite de către Ministerul Apărării Naţionale, Ministerul Afacerilor Interne, Serviciul Român de Informaţii şi Serviciul de Informaţii Externe pentru contracte de închiriere privind spaţiile de locuit reprezentând locuinţe de serviciu pentru personalul trimis în misiune permanentă în străinătate se virează în conturi de disponibil deschise pe numele instituţiilor respective şi pot fi utilizate cu aceeaşi destinaţie pentru plata unor noi garanţii. Angajarea, ordonanţarea şi plata garanţiilor din conturile de disponibil se fac în limita soldurilor acestora."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-26280",
+  "type": "statute",
+  "title": "LEGE nr. 8 din 29 ianuarie 1924",
+  "short_name": "lege 8 29 01 1924",
+  "status": "in_force",
+  "issued_date": "1924-01-29",
+  "in_force_date": "1924-01-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/26280",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 8 29/01/1924",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute, cu rezervele formulate, aderarea României la Convenţiunea, Statutul şi Protocolul adiţional asupra căilor navigabile de interes internaţional, încheiat la Barcelona la 20 Aprilie 1921. Copie şi traducere de pe zisele Convenţiuni, Statut şi Protocol se alătură la legea de faţa."
+    }
+  ],
+  "definitions": []
+}

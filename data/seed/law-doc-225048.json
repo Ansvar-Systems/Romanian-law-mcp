@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-225048",
+  "type": "statute",
+  "title": "LEGE nr. 50 din 27 aprilie 2020",
+  "short_name": "lege 50 27 04 2020",
+  "status": "in_force",
+  "issued_date": "2020-04-27",
+  "in_force_date": "2020-04-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/225048",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 50 27/04/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 13 alineatul (1) din Ordonanța Guvernului nr. 39/2005 privind cinematografia, publicată în Monitorul Oficial al României, Partea I, nr. 704 din 4 august 2005, aprobată cu modificări și completări prin Legea nr. 328/2006 , cu modificările și completările ulterioare, litera e^1) se modifică și va avea următorul cuprins: e^1) un procent de 4% din sumele colectate la bugetul de stat de la operatorii economici care desfășoară activități în domeniul jocurilor de noroc va fi direcționat anual către Fondul cinematografic pentru încurajarea și susținerea industriei cinematografice. Suma se virează Fondului cinematografic de către Agenția Națională de Administrare Fiscală până la data de 31 mai a anului în curs pentru anul precedent și nu se supune regularizării conform prevederilor art. 66 alin. (1) din Legea nr. 500/2002 privind finanțele publice, cu modificările și completările ulterioare;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 10 zile de la intrarea în vigoare a prevederilor prezentei legi, Ministerul Finanțelor Publice elaborează procedura de aplicare a dispozițiilor prevăzute la art. 13 alin. (1) lit. e^1) din Ordonanța Guvernului nr. 39/2005 privind cinematografia, aprobată cu modificări și completări prin Legea nr. 328/2006 , cu modificările și completările ulterioare, astfel cum au fost modificate prin art. I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Ordonanța Guvernului nr. 39/2005 privind cinematografia, publicată în Monitorul Oficial al României, Partea I, nr. 704 din 4 august 2005, aprobată cu modificări și completări prin Legea nr. 328/2006 , cu modificările și completările ulterioare, inclusiv cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-281877",
+  "type": "statute",
+  "title": "LEGE nr. 102 din 16 aprilie 2024",
+  "short_name": "lege 102 16 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-16",
+  "in_force_date": "2024-04-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281877",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 102 16/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 8 din 25 ianuarie 2024 pentru modificarea Ordonanței de urgență a Guvernului nr. 124/2021 privind stabilirea cadrului instituțional și financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare și reziliență, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență, adoptată în temeiul art. 1 pct. IX.3 din Legea nr. 413/2023 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 69 din 25 ianuarie 2024, cu următoarea completare: – La articolul I, după punctul 2 se introduce un nou punct, pct. 2^1, cu următorul cuprins: 2^1. La articolul 2, litera s) se modifică și va avea următorul cuprins: s) contract de finanțare - act juridic supus regulilor de drept public, cu titlu oneros, de adeziune, comutativ și sinalagmatic, prin care se stabilesc drepturile și obligațiile corelative ale părților în vederea implementării reformelor și/sau investițiilor prevăzute în cadrul PNRR, încheiat între coordonatorii de reforme și/sau investiții, respectiv responsabilii de implementare a investițiilor specifice locale/agențiile/ structurile de implementare și beneficiari, pentru finanțarea implementării proiectului, pe durata implementării jalonului/țintei, dar nu mai târziu de data transmiterii către Comisia Europeană a cererii de plată în care acestea sunt incluse, și în conformitate cu obligațiile asumate, cuprinzând informațiile prevăzute în cadrul mecanismului de implementare și control din anexa la Decizia de punere în aplicare a Consiliului din 3 noiembrie 2021 de aprobare a evaluării Planului de redresare și reziliență al României, cu evidențierea distinctă a finanțării publice naționale care se asigură de fiecare parte din contract, pe surse de finanțare, în cazul în care aceasta este necesară pentru finanțarea proiectului, inclusiv componenta din PNRR în cadrul căreia se încheie contractul;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Coordonatorii de reformă și/sau investiții pot încheia acte adiționale pentru prelungirea duratei contractelor de finanțare semnate în cadrul apelurilor lansate în Planul național de redresare și reziliență, pentru atingerea jaloanelor/ țintelor din anexa la Decizia de punere în aplicare a Consiliului de modificare a Deciziei de punere în aplicare din 29 octombrie 2021 de aprobare a evaluării planului de redresare și reziliență al României, dar fără a depăși data transmiterii către Comisia Europeană a cererii de plată în care acestea sunt incluse."
+    }
+  ],
+  "definitions": []
+}

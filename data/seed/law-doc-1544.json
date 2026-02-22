@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-1544",
+  "type": "statute",
+  "title": "LEGE Nr. 66 din 1 noiembrie 1991",
+  "short_name": "lege 66 01 11 1991",
+  "status": "in_force",
+  "issued_date": "1991-11-01",
+  "in_force_date": "1991-11-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1544",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 66 01/11/1991",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ministerului Sănătăţii constituirea, pentru anul 1991, a unui fond special în suma de 9,9 miliarde lei, pentru completarea resurselor bugetare care au fost majorate cu suma de 3,0 miliarde lei prin indexare, în vederea acoperirii integrale a cheltuielilor necesare procurării medicamentelor şi materialelor sanitare, întreţinerii şi funcţionarii unităţilor, inclusiv cheltuieli de personal, reparaţiilor curente şi capitale, achiziţionării de echipament şi obiecte de inventar, dotări, precum şi finanţarea altor cheltuieli ale unităţilor sanitare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Fondul special se constituie din excedentul de venituri în suma de 8,9 miliarde lei, rămas din cota de 2% stabilită prin Hotărîrea Guvernului nr. 219/1991, precum şi din veniturile obţinute din activitatea unităţilor sanitare, în suma de 1,0 miliarde lei."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Efectuarea cheltuielilor din fondul special urmează să se facă pe măsura realizării veniturilor prevăzute."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Guvernul va elabora şi va pune în practica un program special pentru creşterea producţiei de medicamente şi de materiale sanitare, precum şi pentru asigurarea valutei necesare importurilor de completare."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Prezenta lege se aplică în anul 1991. Această lege a fost adoptată de Senat în şedinţa din 30 octombrie 1991. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Camerei Deputaţilor în şedinţa din 30 octombrie 1991. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea pentru constituirea şi utilizarea fondului special, pe anul 1991, la Ministerul Sănătăţii şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU --------------------"
+    }
+  ],
+  "definitions": []
+}

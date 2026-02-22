@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-167815",
+  "type": "statute",
+  "title": "LEGE nr. 101 din 7 mai 2015",
+  "short_name": "lege 101 07 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-07",
+  "in_force_date": "2015-05-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167815",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 101 07/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 10 din Legea nr. 299/2007 privind sprijinul acordat românilor de pretutindeni, republicată, în Monitorul Oficial al României, Partea I, nr. 261 din 22 aprilie 2009, cu modificările ulterioare, se modifică şi va avea următorul cuprins: \"Art. 10. - Se instituie Ziua românilor de pretutindeni, care se va sărbători în fiecare an în ultima duminică din luna mai.\""
+    }
+  ],
+  "definitions": []
+}

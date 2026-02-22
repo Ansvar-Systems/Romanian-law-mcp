@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219983",
+  "type": "statute",
+  "title": "LEGE nr. 226 din 22 noiembrie 2019",
+  "short_name": "lege 226 22 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-22",
+  "in_force_date": "2019-11-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219983",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 226 22/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 18 din 19 martie 2019 privind modificarea și completarea art. II din Legea nr. 145/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 18/2018 privind adoptarea unor măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 222 din 21 martie 2019."
+    }
+  ],
+  "definitions": []
+}

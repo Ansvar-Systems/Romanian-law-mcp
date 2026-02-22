@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-22708",
+  "type": "statute",
+  "title": "LEGE nr. 165 din 27 martie 1944",
+  "short_name": "lege 165 27 03 1944",
+  "status": "in_force",
+  "issued_date": "1944-03-27",
+  "in_force_date": "1944-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22708",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 165 27/03/1944",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Articolul 26 din Codul Comercial va avea următorul cuprins: Registrele obligatorii vor fi numerotate pe fiecare pagina şi afară de registrul copier, parafate de un judecător al tribunalului locului de reşedinţa al comerciantului, sau de către judecătorul de pace respectiv, în localităţile unde nu exista tribunal. Pe ultima pagina a acestor registre, judecătorul va constata numărul filelor ce compun fiecare registru şi va semna aceasta certificare, punând sigiliul tribunalul sau al judecătoriei. Formalităţile prevăzute de articolul de faţa se vor putea efectua la începutul noului an, chiar dacă registrele folosite în anul expirat nu au fost încheiate şi vizate, în condiţiunile articolului următor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Articolul 27 din Codul Comercial va avea următorul cuprins: Registrele pe care comerciantul este obligat a le avea, afară de copier, vor fi prezentate tribunalului sau judecătorului de pace, la finele fiecărui an comercial şi cel mult pînă la încheierea bilanţului, spre încheiere şi viza. Tribunalul sau judecătorul de pace va pune imediat, sub ultima operaţiune înscrisă, următoarea viza: \"Astăzi, la .............. anul ................ s-a prezentat registrul (jurnal Inventar) al comerciantului ................ şi s-a vizat cu a noastră semnatura, punîndu-se şi sigiliul tribunalului sau judecătoriei\"."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Dispoziţiunile adăugate la articolul 26 şi 27 din Codul Comercial, au caracter interpretativ. Dat în Bucureşti, la 27 martie 1944. ANTONESCU Mareşal al României şi Conducătorul Statului -------"
+    }
+  ],
+  "definitions": []
+}

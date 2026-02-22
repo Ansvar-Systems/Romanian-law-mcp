@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-260920",
+  "type": "statute",
+  "title": "LEGE nr. 289 din 31 octombrie 2022",
+  "short_name": "lege 289 31 10 2022",
+  "status": "in_force",
+  "issued_date": "2022-10-31",
+  "in_force_date": "2022-10-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/260920",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 289 31/10/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Convenția privind Organizația Internațională de Asistență Maritimă pentru Navigație*), deschisă spre semnare în perioada 27 ianuarie 2021-26 ianuarie 2022, semnată de România la Paris la 23 septembrie 2021. *) Traducere."
+    }
+  ],
+  "definitions": []
+}

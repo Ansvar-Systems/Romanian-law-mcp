@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219607",
+  "type": "statute",
+  "title": "LEGE nr. 200 din 7 noiembrie 2019",
+  "short_name": "lege 200 07 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-07",
+  "in_force_date": "2019-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219607",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 200 07/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 98 din 15 noiembrie 2018 privind modificarea art. 2 alin. (1) din Ordonanța Guvernului nr. 115/1999 pentru ratificarea Acordului de împrumut dintre România, reprezentată prin Ministerul Finanțelor, și Fondul Internațional pentru Dezvoltare Agricolă privind Proiectul de dezvoltare rurală a Munților Apuseni, în valoare de 12,4 milioane DST, semnat la Roma la 10 mai 1999, publicată în Monitorul Oficial al României, Partea I, nr. 977 din 19 noiembrie 2018."
+    }
+  ],
+  "definitions": []
+}

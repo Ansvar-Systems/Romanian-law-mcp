@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-207042",
+  "type": "statute",
+  "title": "LEGE nr. 266 din 19 noiembrie 2018",
+  "short_name": "lege 266 19 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-19",
+  "in_force_date": "2018-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/207042",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 266 19/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 15 din 7 martie 2018 pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 225 din 13 martie 2018."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-299805",
+  "type": "statute",
+  "title": "LEGE nr. 133 din 14 iulie 2025",
+  "short_name": "lege 133 14 07 2025",
+  "status": "in_force",
+  "issued_date": "2025-07-14",
+  "in_force_date": "2025-07-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299805",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 133 14/07/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 15 august ca Ziua Maramureșului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu prilejul Zilei Maramureșului, autoritățile publice, autoritățile administrației publice centrale și locale, instituțiile publice de cultură din țară și străinătate, precum și organizațiile aparținând minorităților naționale pot organiza activități culturale, sociale, educative și artistice prin care să fie promovate istoria, tradițiile, obiceiurile și patrimoniul cultural ale Maramureșului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Autoritățile administrației publice centrale și locale, serviciile publice deconcentrate, cu atribuții în domeniile culturii, turismului și educației, precum și instituțiile de învățământ superior pot acorda sprijin material, financiar și logistic pentru organizarea de evenimente culturale și educative dedicate Zilei Maramureșului, în limita resurselor financiare și logistice disponibile. (2) Autoritățile și instituțiile prevăzute la alin. (1) pot organiza manifestări culturale în colaborare cu muzee, centre culturale, școli, instituții religioase, asociații și fundații care au ca obiect de activitate promovarea patrimoniului cultural și istoric al Maramureșului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Cu ocazia sărbătoririi anuale a Zilei Maramureșului, Agenția Națională de Presă AGERPRES, Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot produce, difuza sau redifuza conținut editorial care promovează acțiunile și activitățile realizate cu ocazia manifestărilor dedicate Zilei Maramureșului."
+    }
+  ],
+  "definitions": []
+}

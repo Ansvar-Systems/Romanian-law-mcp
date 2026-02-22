@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-38",
+  "type": "statute",
+  "title": "LEGE Nr. 535 din 12 iulie 1945",
+  "short_name": "lege 535 12 07 1945",
+  "status": "in_force",
+  "issued_date": "1945-07-12",
+  "in_force_date": "1945-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/38",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 535 12/07/1945",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La art. 14 din legea Nr. 312, publicată în Monitorul Oficial Nr. 94 din 24 Aprilie 1945, pentru urmărirea şi sancţionarea celor vinovaţi de dezastrul tarii sau de crime de război, între alin. 4 şi 5 se adauga următoarele: \"Prin derogare de la dispoziţiunile art. 21 din legea pentru Înaltă Curte de Casaţie şi Justiţie, republicată la 14 Septembrie 1939, cu modificările ulterioare, judecata recursurilor în secţiuni unite se va face şi în timpul vacantei mari. Pentru formarea completului de judecată a secţiunilor unite se va determina câte 5 consilieri de fiecare secţiune peste numărul acelor care formează completul obişnuit de vacanta. Desemnarea se va face prin înţelegere între consilierii Curţii, iar în caz contrar, prin tragere la sorţi de către primul-preşedinte, pe secţie, în şedinţa publică, cel mai târziu la 15 Iulie. Primul-preşedinte şi preşedinţii Înaltei Curţi de Casaţie vor putea lua parte la judecata acestor recursuri\". ---------------------"
+    }
+  ],
+  "definitions": []
+}

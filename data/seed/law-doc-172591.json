@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172591",
+  "type": "statute",
+  "title": "LEGE nr. 253 din 2 noiembrie 2015",
+  "short_name": "lege 253 02 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-02",
+  "in_force_date": "2015-11-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172591",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 253 02/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 19 din 10 iunie 2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 36/2013 privind aplicarea în perioada 2013-2018 a unor măsuri de protecţie socială acordată persoanelor disponibilizate prin concedieri colective efectuate în baza planurilor de disponibilizare, publicată în Monitorul Oficial al României, Partea I, nr. 433 din 17 iunie 2015."
+    }
+  ],
+  "definitions": []
+}

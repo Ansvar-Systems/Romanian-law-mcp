@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-180085",
+  "type": "statute",
+  "title": "LEGE nr. 137 din 7 iulie 2016",
+  "short_name": "lege 137 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180085",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 137 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se aprobă contul general anual de execuţie a bugetului asigurărilor sociale de stat pe anul 2014, cuprinzând venituri în sumă de 52.318,9 milioane lei, cheltuieli în sumă de 52.091,4 milioane lei şi un excedent în sumă de 227,5 milioane lei. (2) Structura contului general anual de execuţie a bugetului asigurărilor sociale de stat pe anul 2014 este prevăzută în anexele nr. 1/03, 2/03/01-2/03/04."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Se aprobă contul general anual de execuţie a bugetului asigurărilor pentru şomaj pe anul 2014, cuprinzând venituri în sumă de 1.790,0 milioane lei, cheltuieli în sumă de 1.557,5 milioane lei şi un excedent în sumă de 232,5 milioane lei. (2) Structura contului general anual de execuţie a bugetului asigurărilor pentru şomaj pe anul 2014 este prevăzută în anexele nr. 1/04, 2/04 şi 5/04."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Anexele nr. 1/03, 2/03/01-2/03/04, 1/04, 2/04 şi 5/04 fac parte integrantă din prezenta lege."
+    }
+  ],
+  "definitions": []
+}

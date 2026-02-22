@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-259855",
+  "type": "statute",
+  "title": "LEGE nr. 276 din 3 octombrie 2022",
+  "short_name": "lege 276 03 10 2022",
+  "status": "in_force",
+  "issued_date": "2022-10-03",
+  "in_force_date": "2022-10-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/259855",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 276 03/10/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 7 din 25 august 2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 3/2021 privind unele măsuri pentru recrutarea și plata personalului implicat în procesul de vaccinare împotriva COVID-19 și stabilirea unor măsuri în domeniul sănătății, adoptată în temeiul art. 1 pct. V.4 din Legea nr. 195/2021 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 830 din 31 august 2021."
+    }
+  ],
+  "definitions": []
+}

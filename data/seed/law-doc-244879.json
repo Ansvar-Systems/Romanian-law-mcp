@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-244879",
+  "type": "statute",
+  "title": "LEGE nr. 215 din 22 iulie 2021",
+  "short_name": "lege 215 22 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-22",
+  "in_force_date": "2021-07-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244879",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 215 22/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 15 noiembrie ca Ziua Revoltei Anticomuniste de la Brașov din 1987."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Președintele României, Guvernul, autoritățile administrației publice centrale și locale, structurile asociative neguvernamentale interesate organizează manifestări prilejuite de comemorarea zilei prevăzute la art. 1 . (2) Fondurile necesare alocate pentru comemorarea diverselor evenimente ale Revoltei Anticomuniste de la Brașov din 1987 pot fi asigurate și din bugetele locale sau din bugetul autorităților și instituțiilor publice."
+    }
+  ],
+  "definitions": []
+}

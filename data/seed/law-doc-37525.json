@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-37525",
+  "type": "statute",
+  "title": "LEGE nr. 478 din 9 iulie 2002",
+  "short_name": "lege 478 09 07 2002",
+  "status": "in_force",
+  "issued_date": "2002-07-09",
+  "in_force_date": "2002-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37525",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 478 09/07/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 29 litera e) din Legea nr. 80/1995 privind Statutul cadrelor militare, publicată în Monitorul Oficial al României, Partea I, nr. 155 din 20 iulie 1995, cu modificările și completările ulterioare, se modifica și va avea următorul cuprins: e) constituirea în diferite forme de asociere cu caracter profesional, tehnico-științific, cultural, sportiv-recreativ sau caritabil, cu excepția celor sindicale ori care contravin comenzii unice, ordinii și disciplinei specifice instituției armatei, este permisă în condițiile stabilite prin regulamentele militare."
+    }
+  ],
+  "definitions": []
+}

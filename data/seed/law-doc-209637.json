@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209637",
+  "type": "statute",
+  "title": "LEGE nr. 9 din 4 ianuarie 2019",
+  "short_name": "lege 9 04 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-04",
+  "in_force_date": "2019-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209637",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 9 04/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 47 din 8 iunie 2018 privind stabilirea unor măsuri de urgentare a absorbției fondurilor europene, publicată în Monitorul Oficial al României, Partea I, nr. 492 din 14 iunie 2018, cu următoarea modificare: – La articolul unic alineatul (1), litera a) va avea următorul cuprins: a) tramvaie, troleibuze, autobuze electrice sau care folosesc orice tip de combustibil alternativ, inclusiv puncte de reîncărcare și alte echipamente, utilizate pentru prestarea serviciului de transport public local;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-285210",
+  "type": "statute",
+  "title": "LEGE nr. 215 din 9 iulie 2024",
+  "short_name": "lege 215 09 07 2024",
+  "status": "in_force",
+  "issued_date": "2024-07-09",
+  "in_force_date": "2024-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/285210",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 215 09/07/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 122 din 28 decembrie 2023 pentru modificarea art. 13 alin. (3) din Ordonanța de urgență a Guvernului nr. 97/2005 privind evidența, domiciliul, reședința și actele de identitate ale cetățenilor români, publicată în Monitorul Oficial al României, Partea I, nr. 1187 din 29 decembrie 2023."
+    }
+  ],
+  "definitions": []
+}

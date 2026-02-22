@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-63085",
+  "type": "statute",
+  "title": "LEGE nr. 225 din 11 iulie 2005",
+  "short_name": "lege 225 11 07 2005",
+  "status": "in_force",
+  "issued_date": "2005-07-11",
+  "in_force_date": "2005-07-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/63085",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 225 11/07/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 44 din 26 mai 2005 privind emisiunea din anul 2005 a municipiului București de titluri de valoare denominate în EUR, publicată în Monitorul Oficial al României, Partea I, nr. 469 din 2 iunie 2005, cu următoarele modificări și completări: 1. Titlul ordonanței de urgență va avea următorul cuprins: ORDONANȚĂ DE URGENȚĂ privind emisiunea din anul 2005 de titluri de valoare denominate în euro de către Consiliul General al Municipiului București 2. Articolul unic va avea următorul cuprins: Articolul UNIC Pentru titlurile de valoare, denominate în euro, emise în anul 2005 de municipiul București, nu sunt aplicabile dispozițiile art. 59 alin. (4) din Ordonanța de urgență a Guvernului nr. 45/2003 privind finanțele publice locale, aprobată cu modificări și completări prin Legea nr. 108/2004 , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-282383",
+  "type": "statute",
+  "title": "LEGE nr. 116 din 29 aprilie 2024",
+  "short_name": "lege 116 29 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-29",
+  "in_force_date": "2024-04-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282383",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 116 29/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 104 din 30 iunie 2022 pentru modificarea și completarea Legii nr. 17/2014 privind unele măsuri de reglementare a vânzării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, publicată în Monitorul Oficial al României, Partea I, nr. 657 din 30 iunie 2022, cu următoarele completări: 1. La articolul I, înaintea punctului 1 se introduce un nou punct, cu următorul cuprins: – La articolul 2, alineatul (1) se modifică și va avea următorul cuprins: Articolul 2 (1) Terenurile agricole situate în intravilan și terenurile care formează un singur imobil, identificat printr-un singur număr cadastral, compuse parțial dintr-o suprafață majoritară aflată în intravilan, cu categoria de folosință curți-construcții, și parțial în extravilan, cu destinație agricolă, nu intră sub incidența prezentei reglementări. 2. La articolul I, după punctul 12 se introduce un nou punct, punctul 12^1, cu următorul cuprins: 12^1. La articolul 16, după alineatul (1) se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Înstrăinarea prin vânzare a terenurilor agricole situate în extravilan fără respectarea prevederilor art. 4^2 referitoare la obligația de plată a impozitului este interzisă și se sancționează cu nulitatea relativă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 1.952 din Legea nr. 287/2009 privind Codul civil, republicată în Monitorul Oficial al României, Partea I, nr. 505 din 15 iulie 2011, cu modificările și completările ulterioare, după alineatul (4) se introduce un nou alineat, alineatul (5), cu următorul cuprins: (5) În cazul contractelor de asociere în participație încheiate între o instituție publică și un operator economic privat, în care aportul instituției publice este terenul domeniu public al statului, nu se aplică prevederile alin. (2) și (3)."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-228624",
+  "type": "statute",
+  "title": "LEGE nr. 163 din 3 august 2020",
+  "short_name": "lege 163 03 08 2020",
+  "status": "in_force",
+  "issued_date": "2020-08-03",
+  "in_force_date": "2020-08-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228624",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 163 03/08/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 65 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, alineatul (5) se modifică și va avea următorul cuprins: (5) Persoanele care au locuit cel puțin 30 de ani în zonele afectate de poluarea remanentă din cauza extracției, preparării și arderii cărbunelui sau a șisturilor bituminoase, a extracției și prelucrării minereurilor feroase și neferoase cu conținut de praf sau de emisii de gaze cu efect de seră, cupru, plumb, sulf, cadmiu, arseniu, zinc, mangan, fluor, clor, feldspat și siliciu sau de radiații din minereuri radioactive, hidrogen sulfurat, crom trivalent, crom hexavalent, a pulberilor metalice și/sau de cocs metalurgic, precum și a emisiilor de amoniac și derivate, respectiv localitățile Baia Mare, Copșa Mică, Zlatna, Târgu Mureș, Drobeta-Turnu Severin, Târnăveni, Slatina, Turnu Măgurele, Râmnicu Vâlcea, Petroșani, Vulcan, Lupeni, Petrila, Aninoasa, Uricani, Hunedoara, Călan, Brad, Criscior, Vețel, Șoimuș, Baia de Criș, Ghelari, Teliuc, Certej, Băița, Orăștie, Deva din județul Hunedoara, pe o rază de 8 km în jurul acestor localități, beneficiază de reducerea vârstei standard de pensionare cu 2 ani fără penalizarea prevăzută la alin. (4)."
+    }
+  ],
+  "definitions": []
+}

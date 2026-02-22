@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35567",
+  "type": "statute",
+  "title": "LEGE nr. 89 din 3 aprilie 1948",
+  "short_name": "lege 89 03 04 1948",
+  "status": "in_force",
+  "issued_date": "1948-04-03",
+  "in_force_date": "1948-04-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35567",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 89 03/04/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute Acordul între Guvernul Republicii Populare Române şi Guvernul Republicii Federative Populare Jugoslave, cu privire la colaborarea reciprocă a societăţilor de navigaţie fluviala, la ranfluarea şi restituirea vaselor româneşti în apele jugoslave ale Dunării, şi la întreţinerea navigabilitatii senalului Dunării în sectoarele de frontieră, afară de sectorul Cataractelor (Gherdapului), semnat la Belgrad la 19 Martie 1948."
+    }
+  ],
+  "definitions": []
+}

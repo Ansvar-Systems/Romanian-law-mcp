@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-34521",
+  "type": "statute",
+  "title": "LEGE nr. 511 din 5 septembrie 1940",
+  "short_name": "lege 511 05 09 1940",
+  "status": "in_force",
+  "issued_date": "1940-09-05",
+  "in_force_date": "1940-09-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34521",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 511 05/09/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Investim pe d-l General Ion Antonescu, preşedintele Consiliului de Miniştri, cu depline puteri pentru conducerea Statului Roman."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Regele exercita următoarele prerogative regale: a) El este Capul Ostirii; b) El are dreptul de a bate moneda; c) El conferă decoratiunile române; d) El are dreptul de graţiere, amnistie şi reduceri de pedepse; e) El primeşte şi acreditează ambasadorii şi miniştrii plenipotentiari; f) El încheie tratate; g) Modificarea legilor organice, numirea ministrilor şi subsecretarilor de Stat se va face prin decrete regale contrasemnate de preşedintele Consiliului de Miniştri."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Toate celelalte puteri ale Statului se exercită de preşedintele Consiliului de Miniştri. ------------"
+    }
+  ],
+  "definitions": []
+}

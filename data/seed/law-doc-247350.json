@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247350",
+  "type": "statute",
+  "title": "LEGE nr. 247 din 11 octombrie 2021",
+  "short_name": "lege 247 11 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-11",
+  "in_force_date": "2021-10-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247350",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 247 11/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 38 din 30 mai 2019 privind modificarea Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală și pentru modificarea și completarea Legii nr. 411/2004 privind fondurile de pensii administrate privat, publicată în Monitorul Oficial al României, Partea I, nr. 434 din 31 mai 2019, cu următoarele modificări: 1. La articolul II punctul 5, alineatul (1) al articolului 60 se modifică și va avea următorul cuprins: Articolul 60 (1) Capitalul social minim necesar pentru administrarea unui fond de pensii administrat privat este echivalentul în lei, calculat la cursul de schimb al Băncii Naționale a României, al sumei de 4 milioane euro. 2. La articolul II, punctul 6 se abrogă."
+    }
+  ],
+  "definitions": []
+}

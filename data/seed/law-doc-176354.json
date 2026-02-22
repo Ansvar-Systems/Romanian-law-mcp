@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-176354",
+  "type": "statute",
+  "title": "LEGE nr. 22 din 4 martie 2016",
+  "short_name": "lege 22 04 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-04",
+  "in_force_date": "2016-03-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176354",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 22 04/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 8 martie Ziua femeii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se declară ziua de 19 noiembrie Ziua bărbatului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Autoritățile administrației publice locale pot organiza manifestări și acțiuni publice dedicate sărbătoririi acestor zile."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Societatea Română de Televiziune și Societatea Română de Radiodifuziune vor putea include în programele lor emisiuni dedicate promovării drepturilor femeii sau, după caz, drepturilor bărbatului."
+    }
+  ],
+  "definitions": []
+}

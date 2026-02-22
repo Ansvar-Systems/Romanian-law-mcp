@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-2231",
+  "type": "statute",
+  "title": "LEGE Nr. 41 din 20 aprilie 1992",
+  "short_name": "lege 41 20 04 1992",
+  "status": "in_force",
+  "issued_date": "1992-04-20",
+  "in_force_date": "1992-04-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2231",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 41 20/04/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Sumele donate de salariaţi din fondul de premiere constituit, potrivit art. 3 din Hotărîrea Guvernului nr. 127/1991, de regiile autonome şi societăţile comerciale cu capital de stat, pentru ajutorarea persoanelor sinistrate din judeţele Bacau, Neamt şi Suceava, sînt scutite de plată impozitului prevăzut de Legea nr. 32/1991."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Pe data intrării în vigoare a prezentei legi se abroga Hotărîrea Guvernului nr. 620/1991 privind scutirea de impozit pe salarii a sumelor donate din fondul de premiere a salariaţilor pentru ajutorarea persoanelor sinistrate din judeţele Bacau, Neamt şi Suceava. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 25 februarie 1992, cu respectarea art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR MARŢIAN DAN Această lege a fost adoptată de Senat în şedinţa din 14 aprilie 1992, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU"
+    }
+  ],
+  "definitions": []
+}

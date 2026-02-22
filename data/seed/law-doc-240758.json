@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240758",
+  "type": "statute",
+  "title": "LEGE nr. 62 din 6 aprilie 2021",
+  "short_name": "lege 62 06 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-06",
+  "in_force_date": "2021-04-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240758",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 62 06/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 142 din 19 august 2020 pentru prelungirea termenelor privind depunerea unor documente prevăzute în sarcina asociațiilor și fundațiilor, publicată în Monitorul Oficial al României, Partea I, nr. 771 din 24 august 2020."
+    }
+  ],
+  "definitions": []
+}

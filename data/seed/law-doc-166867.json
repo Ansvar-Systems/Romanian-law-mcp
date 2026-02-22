@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166867",
+  "type": "statute",
+  "title": "LEGE nr. 62 din 31 martie 2015",
+  "short_name": "lege 62 31 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-31",
+  "in_force_date": "2015-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166867",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 62 31/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 27 din 20 mai 2014 privind unele măsuri pentru completarea reţelei sanitare proprii a Ministerului Transporturilor şi pentru aprobarea unor măsuri financiare, publicată în Monitorul Oficial al României, Partea I, nr. 384 din 23 mai 2014."
+    }
+  ],
+  "definitions": []
+}

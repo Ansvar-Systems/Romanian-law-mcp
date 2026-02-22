@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209008",
+  "type": "statute",
+  "title": "LEGE nr. 315 din 17 decembrie 2018",
+  "short_name": "lege 315 17 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-17",
+  "in_force_date": "2018-12-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209008",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 315 17/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 5 din Ordonanța de urgență a Guvernului nr. 102/2005 privind libera circulație pe teritoriul României a cetățenilor statelor membre ale Uniunii Europene, Spațiului Economic European și a cetățenilor Confederației Elvețiene, republicată în Monitorul Oficial al României, Partea I, nr. 774 din 2 noiembrie 2011, cu modificările și completările ulterioare, alineatul (3) se modifică și va avea următorul cuprins: (3) Viza de intrare pentru persoanele prevăzute la alin. (2) se acordă, la cerere, de misiunile diplomatice și oficiile consulare ale României, cu aprobarea prealabilă a Centrului Național de Vize din cadrul Ministerului Afacerilor Externe, fără plata taxelor consulare, în cel mai scurt termen și pe baza unei proceduri accelerate. Documentele necesare pentru eliberarea vizei de intrare se stabilesc prin norme metodologice, aprobate prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

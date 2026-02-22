@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-304568",
+  "type": "statute",
+  "title": "LEGE nr. 185 din 19 noiembrie 2025",
+  "short_name": "lege 185 19 11 2025",
+  "status": "in_force",
+  "issued_date": "2025-11-19",
+  "in_force_date": "2025-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/304568",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 185 19/11/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 25 din 16 aprilie 2025 pentru asigurarea unor împrumuturi din Trezoreria Statului, publicată în Monitorul Oficial al României, Partea I, nr. 343 din 16 aprilie 2025, cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-280704",
+  "type": "statute",
+  "title": "LEGE nr. 73 din 2 aprilie 2024",
+  "short_name": "lege 73 02 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-02",
+  "in_force_date": "2024-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280704",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 73 02/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 92^1 alineatul (2) din Legea fondului funciar nr. 18/1991 , republicată în Monitorul Oficial al României, Partea I, nr. 1 din 5 ianuarie 1998, cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) a terenurilor agricole din extravilan pentru realizarea obiectivelor de interes public, finanțate de la bugetul de stat sau bugetul local, ai căror beneficiari sunt autoritățile și instituțiile administrației publice, prin Planul urbanistic zonal/Planul urbanistic general sau în procedura de avizare pentru aprobarea acestor planuri care conțin terenuri agricole din extravilan;"
+    }
+  ],
+  "definitions": []
+}

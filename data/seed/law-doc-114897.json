@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-114897",
+  "type": "statute",
+  "title": "LEGE nr. 389 din 23 decembrie 2009",
+  "short_name": "lege 389 23 12 2009",
+  "status": "in_force",
+  "issued_date": "2009-12-23",
+  "in_force_date": "2009-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/114897",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 389 23/12/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (2) al articolului unic din Legea nr. 316/2007 privind aprobarea aderării Consiliului Legislativ la Asociația Consiliilor de Stat și a Jurisdicțiilor Administrative Supreme din Uniunea Europeană, publicată în Monitorul Oficial al României, Partea I, nr. 784 din 19 noiembrie 2007, se modifică și va avea următorul cuprins: (2) Sumele necesare pentru plata cotizației anuale ce revine Consiliului Legislativ în această calitate se asigură de la bugetul de stat, prin bugetul anual aprobat Consiliului Legislativ."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Pentru anul 2009, cotizația ce revine Consiliului Legislativ, în calitate de membru cu drepturi depline al Asociației Consiliilor de Stat și a Jurisdicțiilor Administrative Supreme din Uniunea Europeană, este de 1.250 euro."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-188640",
+  "type": "statute",
+  "title": "LEGE nr. 79 din 26 aprilie 2017",
+  "short_name": "lege 79 26 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-26",
+  "in_force_date": "2017-04-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188640",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 79 26/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea asistenţei sociale nr. 292/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 905 din 20 decembrie 2011, cu modificările ulterioare, se modifică şi se completează după cum urmează: 1. La articolul 30 alineatul (3), litera a) se modifică şi va avea următorul cuprins: a) servicii cu cazare, pe perioadă determinată sau nedeterminată: centre rezidenţiale, locuinţe protejate, internate de tip social, adăposturi de noapte etc.; 2. La articolul 30 alineatul (4), după litera c) se introduce o nouă literă, litera c^1), cu următorul cuprins: c^1) în internate de tip social; 3. La articolul 73 alineatul (2), după litera d) se introduce o nouă literă, litera e), cu următorul cuprins: e) servicii sociale destinate asigurării cazării şi îngrijirii unor elevi, studenţi şi tineri, care provin din familii aflate în situaţii de dificultate, în internate de tip social. 4. La articolul 73, alineatul (3) se modifică şi va avea următorul cuprins: (3) Serviciile sociale prevăzute la alin. (2) pot fi acordate în instituţii/unităţi de asistenţă socială, respectiv în centre de zi, centre rezidenţiale, internate de tip social, precum şi la domiciliul familiei, la domiciliul persoanei care acordă îngrijire copilului sau în comunitate. 5. La articolul 74, alineatul (2) se modifică şi va avea următorul cuprins: (2) În cazul serviciilor sociale prevăzute la art. 73 alin. (2) lit. b), d) şi e), precum şi al altor servicii sociale destinate copilului din familie, stabilite prin legea specială, părinţii pot suporta o parte din cheltuielile aferente acestora, achitând o contribuţie stabilită în funcţie de nivelul costului serviciului pe beneficiar şi de nivelul veniturilor pe membru de familie. Cuantumul contribuţiei, serviciile oferite, obligaţiile şi drepturile părţilor sunt înscrise în contractul de furnizare de servicii, încheiat între furnizor şi părinte/reprezentantul legal al copilului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "După articolul 1 din Legea nr. 34/1998 privind acordarea unor subvenţii asociaţiilor şi fundaţiilor române cu personalitate juridică, care înfiinţează şi administrează unităţi de asistenţă socială, publicată în Monitorul Oficial al României, Partea I, nr. 29 din 27 ianuarie 1998, se introduce un nou articol, articolul 1^1, cu următorul cuprins: Articolul 1^1 De prevederile art. 1 beneficiază în mod corespunzător şi cultele recunoscute în România, acreditate ca furnizori de servicii sociale potrivit legii."
+    }
+  ],
+  "definitions": []
+}

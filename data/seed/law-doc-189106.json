@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189106",
+  "type": "statute",
+  "title": "LEGE nr. 95 din 5 mai 2017",
+  "short_name": "lege 95 05 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-05",
+  "in_force_date": "2017-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189106",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 95 05/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 15 din 9 februarie 2017 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 51/2015 privind unele măsuri pentru realizarea de investiţii la operatorii economici din industria de apărare şi pentru modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 118 din 13 februarie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-178026",
+  "type": "statute",
+  "title": "LEGE nr. 70 din 25 aprilie 2016",
+  "short_name": "lege 70 25 04 2016",
+  "status": "in_force",
+  "issued_date": "2016-04-25",
+  "in_force_date": "2016-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178026",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 70 25/04/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul multilateral al autorităţilor competente pentru schimb automat de informaţii privind conturi financiare, semnat la Berlin la 29 octombrie 2014*), denumit în continuare Acord. Notă ────────── *) Traducere oficială din limba engleză. ──────────"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Ministerul Finanţelor Publice, prin ordin al ministrului, este autorizat să menţioneze autorităţile competente din celelalte state cu care se realizează schimbul automat de informaţii privind conturile financiare. (2) Ministerul Finanţelor Publice, prin ordin al ministrului, este autorizat să indice, după caz, măsurile şi procedurile necesare pentru aplicarea Acordului prevăzut la art. 1."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Contribuţia României pentru finanţarea Secretariatului Organismului de Coordonare a Acordului multilateral al autorităţilor competente pentru schimb automat de informaţii privind conturi financiare se plăteşte anual din bugetul Ministerului Finanţelor Publice, începând cu anul semnării Acordului."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183000",
+  "type": "statute",
+  "title": "LEGE nr. 190 din 20 octombrie 2016",
+  "short_name": "lege 190 20 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-20",
+  "in_force_date": "2016-10-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183000",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 190 20/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul de sediu dintre România şi Centrul Sud-Est European de Aplicare a Legii, semnat la Bucureşti la 22 iulie 2015."
+    }
+  ],
+  "definitions": []
+}

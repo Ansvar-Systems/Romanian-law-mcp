@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-180178",
+  "type": "statute",
+  "title": "LEGE nr. 121 din 1 iulie 2016",
+  "short_name": "lege 121 01 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-01",
+  "in_force_date": "2016-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180178",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 121 01/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă încetarea valabilităţii, prin denunţare, a Convenţiei din 5 iulie 1890, semnată la Bruxelles, privind înfiinţarea unei Uniuni Internaţionale pentru publicarea tarifelor vamale, ratificată prin Legea nr. 1.862/1892 , publicată în Monitorul Oficial, Partea I, nr. 56 din 12 iunie 1892."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se aprobă încetarea valabilităţii, prin denunţare, a Protocolului de la Bruxelles din 16 decembrie 1949, prin care se modifică Convenţia privind înfiinţarea Uniunii Internaţionale pentru publicarea tarifelor vamale din 5 iulie 1890, la care România a aderat în baza Decretului Prezidiului Marii Adunări Naţionale a Republicii Populare Române nr. 562/1956, publicat în Buletinul Oficial, Partea I, nr. 28 din 5 noiembrie 1956."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Afacerilor Externe va face cunoscută, prin publicare în Monitorul Oficial al României, Partea I, în conformitate cu art. 34 alin. (5) din Legea nr. 590/2003 privind tratatele, data la care instrumentele juridice internaţionale prevăzute la art. 1 şi 2 îşi încetează valabilitatea."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "law-doc-105648",
+  "type": "statute",
+  "title": "LEGE nr. 136 din 5 mai 2009",
+  "short_name": "lege 136 05 05 2009",
+  "status": "in_force",
+  "issued_date": "2009-05-05",
+  "in_force_date": "2009-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/105648",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 136 05/05/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 217 din 4 decembrie 2008 privind reluarea pentru anul 2009 a Programului de stimulare a înnoirii Parcului auto naţional, publicată în Monitorul Oficial al României, Partea I, nr. 848 din 17 decembrie 2008, cu următoarele modificări: 1. La articolul 3, literele b), c) şi e) se modifică şi vor avea următorul cuprins: \"b) autoturism uzat - orice autoturism înmatriculat în România având o vechime mai mare sau egală cu 10 ani de la anul fabricaţiei, care conţine cumulativ următoarele componente esenţiale: motorul, transmisia, trenul de rulare, caroseria, şasiul, precum şi echipamentele electronice de gestionare a funcţiilor vehiculului şi dispozitivul catalizator, dacă acestea au fost prevăzute din fabricaţie; c) autoturism nou - orice autoturism care nu a fost înmatriculat niciodată; ........................................................................... e) producător validat - orice persoană juridică, producător sau importator de autoturisme autorizat ori distribuitor autorizat al acestora, căreia i-a fost aprobată cererea de înscriere în Program.\" 2. La articolul 4, alineatul (1) se modifică şi va avea următorul cuprins: \"Art. 4. - (1) Orice persoană juridică, producător, importator sau distribuitor autorizat al acestora, care solicită validarea pentru înscrierea în Program, depune la Autoritate o documentaţie care va fi asimilată proiectelor de mediu în sensul Ordonanţei de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu, aprobată cu modificări şi completări prin Legea nr. 105/2006 , cu modificările şi completările ulterioare.\" 3. La articolul 5, alineatul (2) se modifică şi va avea următorul cuprins: \"(2) Autoritatea face publică lista producătorilor validaţi.\" Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ROBERTA ALMA ANASTASE PREŞEDINTELE SENATULUI MIRCEA-DAN GEOANĂ Bucureşti, 5 mai 2009. Nr. 136. -------"
+    }
+  ],
+  "definitions": [
+    {
+      "term": ", c) şi e) se modifică şi vor avea următorul cuprins",
+      "definition": "\"b) autoturism uzat - orice autoturism înmatriculat în România având o vechime mai mare sau egală cu 10 ani de la anul fabricaţiei, care conţine cumulativ următoarele componente esenţiale: motorul, transmisia, trenul de rulare, caroseria, şasiul, precum şi echipamentele electronice de gestionare a funcţiilor vehiculului şi dispozitivul catalizator, dacă acestea au fost prevăzute din fabricaţie",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "producător validat",
+      "definition": "orice persoană juridică, producător sau importator de autoturisme autorizat ori distribuitor autorizat al acestora, căreia i-a fost aprobată cererea de înscriere în Program.\" 2. La articolul 4, alineatul (1) se modifică şi va avea următorul cuprins: \"Art. 4",
+      "source_provision": "Art.1"
+    }
+  ]
+}

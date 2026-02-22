@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-28534",
+  "type": "statute",
+  "title": "LEGE nr. 31 din 27 decembrie 1967",
+  "short_name": "lege 31 27 12 1967",
+  "status": "in_force",
+  "issued_date": "1967-12-27",
+  "in_force_date": "1967-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/28534",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 31 27/12/1967",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 884/1967 privind inventiile, inovatiile şi rationalizarile. ------------"
+    }
+  ],
+  "definitions": []
+}

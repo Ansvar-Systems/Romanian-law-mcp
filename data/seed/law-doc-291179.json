@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-291179",
+  "type": "statute",
+  "title": "LEGE nr. 285 din 20 noiembrie 2024",
+  "short_name": "lege 285 20 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-20",
+  "in_force_date": "2024-11-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/291179",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 285 20/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, publicată în Monitorul Oficial al României, Partea I, nr. 700 din 24 septembrie 2014, se modifică după cum urmează: 1. Articolul 1 va avea următorul cuprins: Articolul 1 Prin derogare de la prevederile Legii nr. 360/2023 privind sistemul public de pensii, debitele constituite sau care urmează a fi constituite în sarcina beneficiarilor sistemului public de pensii, reprezentând sume încasate necuvenit cu titlu de pensie, indemnizație socială pentru pensionari și indemnizație pentru însoțitor, nu se recuperează. 2. Articolul 2 va avea următorul cuprins: Articolul 2 Debitele care au drept cauză culpa debitorului, cum ar fi folosirea de către acesta a unor documente eliberate cu nerespectarea legii, declararea de către acesta a unor date neconforme realității, care au avut drept urmare stabilirea eronată a pensiei, nerespectarea obligațiilor care revin, potrivit legii, pensionarilor, inclusiv cele referitoare la cumulul pensiei cu venituri salariale, asimilate salariilor sau, după caz, cu venituri din activități independente, nu fac obiectul scutirii de la plată, potrivit prevederilor prezentei legi. 3. Articolul 3 va avea următorul cuprins: Articolul 3 Scutirea de la plată a debitelor prevăzute la art. 1, conform prevederilor prezentei legi, se aplică indiferent de categoria de pensie de care beneficiază sau a beneficiat pensionarul, la momentul constatării existenței debitelor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Prezenta lege intră în vigoare la data de întâi a lunii următoare datei publicării în Monitorul Oficial al României, Partea I. (2) În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Ordinul ministrului muncii, familiei, protecției sociale și persoanelor vârstnice și al ministrului finanțelor publice nr. 2.073/1.623/2014 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, precum și a Procedurii de efectuare a restituirilor, cu modificările ulterioare, se modifică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Prevederile art. 1 din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, cu modificările aduse prin prezenta lege, se aplică în mod corespunzător și debitelor constituite anterior datei de intrare în vigoare a Legii nr. 360/2023 privind sistemul public de pensii, în sarcina beneficiarilor sistemului public de pensii, reprezentând sume încasate necuvenit cu titlu de pensie, indemnizație socială pentru pensionari și indemnizație pentru însoțitor, nerecuperate."
+    }
+  ],
+  "definitions": []
+}

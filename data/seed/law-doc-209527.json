@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209527",
+  "type": "statute",
+  "title": "LEGE nr. 347 din 27 decembrie 2018",
+  "short_name": "lege 347 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209527",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 347 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (1) al articolului 24 din Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările ulterioare, se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Pacientul are dreptul de a desemna, printr-un acord consemnat în anexa la foaia de observație clinică generală, o persoană care să aibă acces deplin, atât în timpul vieții pacientului, cât și după decesul pacientului, la informațiile cu caracter confidențial din foaia de observație."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-180216",
+  "type": "statute",
+  "title": "LEGE nr. 155 din 15 iulie 2016",
+  "short_name": "lege 155 15 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-15",
+  "in_force_date": "2016-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180216",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 155 15/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările şi completările ulterioare, se modifică şi se completează după cum urmează: 1. La articolul 56, alineatul (5) se modifică şi va avea următorul cuprins: \"(5) Stagiul complet de cotizare este de 20 de ani pentru persoanele care au realizat cel puţin 20 de ani în locuri de muncă prevăzute la art. 30 alin. (1) lit. a) din lege, respectiv de 30 de ani pentru persoanele care au realizat cel puţin 20 de ani în locuri de muncă prevăzute la art. 30 alin. (1) lit. f) din lege.\" 2. La articolul 57, alineatul (3) se modifică şi va avea următorul cuprins: \"(3) Pentru persoanele prevăzute la alin. (1), stagiul complet de cotizare este de 15 ani, în cazul celor care au desfăşurat activitate în zona I de expunere la radiaţii, respectiv de 17 ani, în cazul celor care au desfăşurat activitate în zona a II-a de expunere la radiaţii.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) De prevederile art. 56 şi 57 din Legea nr. 263/2010 beneficiază, la cerere, şi persoanele ale căror drepturi de pensie s-au deschis în perioada 1 ianuarie 2011 şi data intrării în vigoare a prezentei legi. (2) Drepturile de pensie recalculate se cuvin şi se plătesc începând cu luna următoare înregistrării acesteia la casa teritorială de pensii din raza de domiciliu sau de reşedinţă a solicitantului."
+    }
+  ],
+  "definitions": []
+}

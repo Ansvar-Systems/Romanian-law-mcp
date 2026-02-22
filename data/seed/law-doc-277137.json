@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277137",
+  "type": "statute",
+  "title": "LEGE nr. 377 din 8 decembrie 2023",
+  "short_name": "lege 377 08 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-08",
+  "in_force_date": "2023-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277137",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 377 08/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 82 din 16 iunie 2022 privind unele măsuri pentru acordarea de granturi din fonduri externe nerambursabile pentru investiții destinate capacităților de prestare de servicii și retehnologizării, în vederea refacerii capacității de reziliență, publicată în Monitorul Oficial al României, Partea I, nr. 598 din 20 iunie 2022, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

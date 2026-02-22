@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-241905",
+  "type": "statute",
+  "title": "LEGE nr. 103 din 28 aprilie 2021",
+  "short_name": "lege 103 28 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-28",
+  "in_force_date": "2021-04-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241905",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 103 28/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 21 alineatul (1) din Legea educației fizice și sportului nr. 69/2000 , publicată în Monitorul Oficial al României, Partea I, nr. 200 din 9 mai 2000, cu modificările și completările ulterioare, litera f) se abrogă."
+    }
+  ],
+  "definitions": []
+}

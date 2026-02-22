@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-227887",
+  "type": "statute",
+  "title": "LEGE nr. 134 din 16 iulie 2020",
+  "short_name": "lege 134 16 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-16",
+  "in_force_date": "2020-07-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227887",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 134 16/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 16 august ca Ziua națională pentru comemorarea martirilor Brâncoveni și de conștientizare a violențelor împotriva creștinilor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În semn de conștientizare de către cetățenii români a violențelor și persecuțiilor la care au fost și sunt supuși și astăzi creștinii în lume se iluminează în roșu, între orele 20,00-24,00, următoarele clădiri: Parlamentul României, Guvernul României, sediile autorităților administrației publice centrale și locale, Arcul de Triumf și Palatul Mogoșoaia."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Cu prilejul acestei zile se pot organiza manifestări publice și pot avea loc slujbe religioase, în locurile în care se desfășoară evenimente comemorative autorizate, conform legii."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Cheltuielile alocate pentru organizarea evenimentelor prilejuite cu ocazia zilei de 16 august pot fi asigurate din bugetul autorităților administrației publice centrale și locale, în limita alocațiilor bugetare aprobate. (2) Organizațiile neguvernamentale interesate pot acorda sprijin logistic și/sau financiar, după caz, pentru organizarea de manifestări dedicate comemorării acestei zile."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "În ziua de 16 august, Societatea Română de Radiodifuziune, Societatea Română de Televiziune și Agenția Națională de Presă AGERPRES pot difuza cu prioritate emisiuni și materiale informative pe temele prevăzute la art. 1 ."
+    }
+  ],
+  "definitions": []
+}

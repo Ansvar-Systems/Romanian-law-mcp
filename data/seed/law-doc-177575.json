@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-177575",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 12 aprilie 2016",
+  "short_name": "lege 60 12 04 2016",
+  "status": "in_force",
+  "issued_date": "2016-04-12",
+  "in_force_date": "2016-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177575",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 12/04/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 27 din 19 august 2015 pentru modificarea şi completarea Legii nr. 197/2012 privind asigurarea calităţii în domeniul serviciilor sociale, adoptată în temeiul art. 1 pct. VIII.1 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 642 din 24 august 2015."
+    }
+  ],
+  "definitions": []
+}

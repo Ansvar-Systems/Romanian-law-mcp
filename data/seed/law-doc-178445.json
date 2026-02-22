@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-178445",
+  "type": "statute",
+  "title": "LEGE nr. 92 din 11 mai 2016",
+  "short_name": "lege 92 11 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-11",
+  "in_force_date": "2016-05-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178445",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 92 11/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 6 din 27 ianuarie 2016 pentru modificarea art. 28 alin. (4^1) din Ordonanţa de urgenţă a Guvernului nr. 49/2009 privind libertatea de stabilire a prestatorilor de servicii şi libertatea de a furniza servicii în România, adoptată în temeiul art. 1 pct. VI.1 din Legea nr. 346/2015 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 65 din 28 ianuarie 2016."
+    }
+  ],
+  "definitions": []
+}

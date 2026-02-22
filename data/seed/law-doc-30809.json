@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30809",
+  "type": "statute",
+  "title": "LEGE nr. 187 din 28 iunie 1930",
+  "short_name": "lege 187 28 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-28",
+  "in_force_date": "1930-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30809",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 187 28/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se deschid trei credite extraordinare rambursabile de trezorerie, în suma totală de lei 30.000.000 pe seama Ministerului Agriculturii şi Domeniilor, din care sînt: - Lei 22.000.000 pentru plata arenzilor cuvenite pe anul 1930, proprietarilor expropriati în baza legilor agrare din Vechiul Regat, Bucovina şi Ardeal; - Lei 5.500.000 pentru plata arenzilor pe anul 1925, rămase neachitate şi datorite de către Stat proprietarilor expropriati în baza legilor agrare din Vechiul Regat, Bucovina şi Ardeal; - Lei 2.500.000 pentru plata arenzilor pe anii 1926-1930 inclusiv, pentru terenul expropriat în Dobrogea-Noua. Lei 30.000.000 total."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Aceste credite extraordinare rambursabile de trezorerie se vor acoperi din încasările reale efectuate de către administraţiile financiare, în contul acestor trei credite prin împlinirea debitelor de arenda ce se stabilesc de către Ministerul Agriculturii şi Domeniilor, direcţiunea aplicării reformei agrare asupra satenilor şi comunelor cari folosesc terenurile expropriate în chestiune. În mod excepţional însă, şi pînă la o limita de 10 la suta a cuantumului acestor trei credite, se va putea ordonanţa şi fără acoperire de încasări reale. Desbateri: Camera Nr. 57-1929/30; Senat Nr. 48-1929/30. Votat de Adunarea Deputaţilor la 23 Mai şi de Senat la 6 Iunie 1930. --------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187781",
+  "type": "statute",
+  "title": "LEGE nr. 35 din 27 martie 2017",
+  "short_name": "lege 35 27 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-27",
+  "in_force_date": "2017-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187781",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 35 27/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (3) al articolului 23 din Legea nr. 217/2003 pentru prevenirea şi combaterea violenţei în familie, republicată în Monitorul Oficial al României, Partea I, nr. 205 din 24 martie 2014, cu modificările şi completările ulterioare, se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) Prin aceeaşi hotărâre, instanţa poate dispune luarea unei măsuri de control al respectării ordinului de protecţie şi pentru prevenirea încălcării acestuia, precum: a) obligarea agresorului de a se prezenta periodic, la un interval de timp stabilit de instanţă potrivit împrejurărilor, la secţia de poliţie competentă cu supravegherea respectării ordinului de protecţie; b) obligarea agresorului de a da informaţii organului de poliţie cu privire la noua locuinţă, în cazul în care prin ordin s-a dispus evacuarea lui din locuinţa familiei."
+    }
+  ],
+  "definitions": []
+}

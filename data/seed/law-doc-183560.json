@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-183560",
+  "type": "statute",
+  "title": "LEGE nr. 210 din 9 noiembrie 2016",
+  "short_name": "lege 210 09 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-09",
+  "in_force_date": "2016-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183560",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 210 09/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "(1) La intrarea în vigoare a prezentei legi se desfiinţează Agenţia Naţională pentru Inspecţia Muncii şi Securitate Socială. (2) Începând cu data intrării în vigoare a prezentei legi, Inspecţia Muncii şi Agenţia Naţională pentru Plăţi şi Inspecţie Socială îşi vor desfăşura în continuare activitatea în conformitate cu dispoziţiile Legii nr. 108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii, republicată în Monitorul Oficial al României, Partea I, nr. 290 din 3 mai 2012, cu modificările ulterioare, şi ale Ordonanţei de urgenţă a Guvernului nr. 113/2011 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Plăţi şi Inspecţie Socială, publicată în Monitorul Oficial al României, Partea I, nr. 921 din 23 decembrie 2011, aprobată cu modificări şi completări prin Legea nr. 198/2012 ."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanţa de urgenţă a Guvernului nr. 86/2014 privind stabilirea unor măsuri de reorganizare la nivelul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 920 din 17 decembrie 2014, aprobată cu modificări şi completări prin Legea nr. 174/2015 , cu modificările ulterioare, se modifică după cum urmează: 1. Articolul 5 se abrogă. 2. La articolul 18 alineatul (1), literele d) şi e) se abrogă."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "La articolul 30 din Legea nr. 219/2015 privind economia socială, publicată în Monitorul Oficial al României, Partea I, nr. 561 din 28 iulie 2015, litera b) se modifică şi va avea următorul cuprins: \"b) Agenţia Naţională pentru Plăţi şi Inspecţie Socială, pentru contravenţiile prevăzute la art. 29 lit. d).\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227644",
+  "type": "statute",
+  "title": "LEGE nr. 98 din 29 iunie 2020",
+  "short_name": "lege 98 29 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-29",
+  "in_force_date": "2020-06-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227644",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 98 29/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se acceptă amendamentele adoptate la cea de-a 12-a sesiune a Adunării Generale a Organizației Interguvernamentale privind Transporturile Internaționale Feroviare (OTIF), desfășurată la Berna în perioada 29-30 septembrie 2015, la Convenția privind transporturile internaționale feroviare (COTIF) și anexele D (CUV), F (APTU) și G (ATMF), semnată la Berna la 9 mai 1980, ratificată prin Decretul Consiliului de Stat nr. 100/1983 ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-169803",
+  "type": "statute",
+  "title": "LEGE nr. 197 din 9 iulie 2015",
+  "short_name": "lege 197 09 07 2015",
+  "status": "in_force",
+  "issued_date": "2015-07-09",
+  "in_force_date": "2015-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169803",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 197 09/07/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 8 din 26 februarie 2014 pentru modificarea şi completarea unor acte normative şi alte măsuri fiscal-bugetare, publicată în Monitorul Oficial al României, Partea I, nr. 151 din 28 februarie 2014, cu următoarele modificări: 1. La articolul VII punctul 2, literele a), b) şi g) ale alineatului (1) al articolului 3 vor avea următorul cuprins: \"a) acordarea de asistenţă şi prestarea de servicii profesionale în domeniul fiscal, inclusiv realizarea de expertize fiscale extrajudiciare la solicitarea organelor fiscale sau a oricăror altor persoane sau entităţi interesate; b) prestarea de servicii şi asistenţă de specialitate pentru întocmirea declaraţiilor fiscale; ........................................................................ g) realizarea de expertize fiscale judiciare la solicitarea organelor judecătoreşti sau de cercetare penală. În acest caz, art. 42 din Legea nr. 134/2010 privind Codul de procedură civilă , republicată, se aplică în mod corespunzător. Expertizele fiscale judiciare se realizează numai de consultanţii fiscali activi înscrişi în evidenţele Ministerului Justiţiei - Serviciul profesii juridice conexe;\". 2. La articolul VII punctul 2, litera h) a alineatului (1) al articolului 3 se abrogă. 3. La articolul VII punctul 4, alineatul (6) al articolului 4 va avea următorul cuprins: \"(6) Pe perioada stagiului prevăzut la alin. (5), consultanţii fiscali asistenţi trebuie să urmeze, anual, un curs de formare profesională organizat de Camera Consultanţilor Fiscali.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La anexa nr. 1 \"Lista utilizatorilor reţelelor de telecomunicaţii speciale\" la Legea nr. 92/1996 privind organizarea şi funcţionarea Serviciului de Telecomunicaţii Speciale, publicată în Monitorul Oficial al României, Partea I, nr. 169 din 30 iulie 1996, cu modificările şi completările ulterioare, punctul 5 se modifică şi va avea următorul cuprins: \"5. Administraţia publică centrală şi locală şi/sau unităţile aflate în subordinea, în administrarea sau sub autoritatea acesteia care desfăşoară activităţi de interes public naţional.\""
+    }
+  ],
+  "definitions": []
+}

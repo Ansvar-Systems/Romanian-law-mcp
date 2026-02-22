@@ -1,0 +1,357 @@
+{
+  "id": "law-doc-28344",
+  "type": "statute",
+  "title": "LEGE nr. 1.184 din 4 aprilie 1931",
+  "short_name": "lege 1184 04 04 1931",
+  "status": "in_force",
+  "issued_date": "1931-04-04",
+  "in_force_date": "1931-04-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/28344",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1184 04/04/1931",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pământurile cu care au fost improprietariti locuitorii colonisti şi domenieni din Basarabia în virtutea legii din 13 Iunie 1874, modificată şi completată prin legea din 19 Fevruarie 1875, pământurile aflate în indiviziune, fie între ele, fie cu bunurile ce constituiesc \"Fondul imobilelor basarabene\", creat prin legea pentru reforma agrară în Basarabia din 13 Martie 1920, fie cu orice alte proprietăţi, se vor măsura, comasa şi parcela, conform prescripţiunilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Suprafaţa de teren cuvenită fiecărui locuitor ce are drept la pămînt pe baza legilor din 13 Iunie 1874 şi 19 Fevruarie 1875, se va stabili pe baza rolurilor din 1874-1875 şi a titlurilor de proprietate, avându-se în vedere şi situaţia de fapt din fiecare sat. Ea se compune din: a) Locul de casa ce poseda în vatra satului, grădinile, viile, livezile sau plantatiunile ce aparţin personal şi pentru care are un drept de posesiune tolerată; b) Restul ce-i revine din terenul de cultura pînă la completarea întinderii totale ce i se cuvine."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Constatarea drepturilor cuvenite fiecărui locuitor se va face de către o Comisiune prezidata de către judecătorul ocolului respectiv, din care va mai face parte primarul satului sau un delegat al său membru în consiliul comunal, secretarul comunal şi doi locuitori desemnaţi de locuitori în faţa judecătorului în momentul constituirii Comisiunii. Aceasta comisiune va întocmi un tablou cuprinzînd pe toţi locuitorii cari deţin pămînt din cel provenit prin improprietarirea facuta în baza legilor menţionate la art. precedent, cu arătarea titlurilor în baza cărora poseda, fără a se tine seama de schimbările provenite prin aplicarea legii de reforma agrară."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Acest tablou se va afişa pe usa primăriei respective timp de 15 zile, aducandu-se aceasta de către primar la cunoştinţa locuitorilor prin strigări şi bătăi de toba. La expirarea celor 15 zile, primarul comunei, sau locţiitorul sau legal, asistat de secretar, vor încheia un proces verbal în dublu exemplar, în care se va menţiona ziua în care s-a făcut afişarea tabloului şi ca s-au făcut strigări şi bătăi de toba. Tabloul astfel întocmit, împreună cu un proces-verbal de afişare, se va trimite preşedintelui tribunalului respectiv."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Toţi cei nemultumiti cu datele înscrise în tabloul alcătuit, conform art. 3, vor putea face apel printr-o cerere scrisă adresată preşedintelui tribunalului respectiv, în termen de cel mult 15 zile dela data afişării specificate la art. 4 din prezenta lege. Neintroducerea unei astfel de cereri face definitiv pentru toate părţile interesate tabloul întocmit conform art. precedent, fără nici o alta cale de atac. În acest caz, preşedintele tribunalului, printr-un jurnal, va conformă tabloul comunicând de îndată aceasta primăriei respective."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "În caz cînd contra tabloului întocmit, conform art. 3 din prezenta lege, s-a făcut apel, preşedintele tribunalului va fixa de îndată termen de judecată, înaintea tribunalului. În termen de cel mult trei luni dela data introducerii apelului, tribunalului va pronunţa hotărîrea sa, în care se va specifică modificările ce eventual urmează a se aduce tabloului specificat la art. 3 din prezenta lege. Hotărîrea se va trimite prin îngrijirea grefei tribunalului în termen de cel mult o luna dela pronunţare secretarului satului respectiv care, în termen de cel mult 5 zile dela primire o va inainta părţilor interesate, sub luare de dovada, în care va menţiona data predării. Dovada de inmanare se va trimite de secretarul comunal în aceeaşi zi tribunalului, spre a se anexa la dosarul respectiv."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Cei nemultumiti cu hotărîrea tribunalului vor putea face recurs la Curtea de apel, în termen de o luna dela comunicare. Recursul se va depune la grefa tribunalului."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Curtea de apel va judeca recursul cu precădere şi gasindu-l întemeiat va evoca fondul, judecand în ultima instanţa."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Deciziunea Curţii sau sentinta tribunalului rămasă definitivă prin neatacare cu recurs se va trimite, prin grefa respectiva, primăriei, spre a modifica tabloul menţionat la art. 3, în conformitate cu aceste hotărîri."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul 1 - Dispoziţiuni generale",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Copie după tabloul rămas definitiv se va inainta de urgenta de către primărie directiunii cadastrului, care va dispune executarea lucrării de măsurătoare, comasare şi parcelare."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Delegatul cadastrului însărcinat cu executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare a terenului aflat în indiviziune într-un sat, va fixa, data începerii lucrărilor pe teren şi va dispune printr-o încunoştiinţare colectivă, chemarea tuturor părţilor interesate, la stabilirea hotarelor: primăria satului respectiv, vecinii, precum şi oricine ar avea vreun drept de orice natură."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Încunoştiinţarea colectivă va fi semnată personal de delegatul directiunii cadastrului şi va cuprinde: numele satului pe teritoriul căruia se afla terenul în indiviziune, anul, luna, ziua şi ora fixată pentru începerea lucrărilor, cînd părţile chemate se vor infatisa în localul primăriei, aducând toate planurile sau actele ce vor avea şi pe care îşi sprijină pretentiunile lor. Aceasta încunoştiinţare va fi trimisa cu cel puţin 15 zile mai înainte de ziua înfăţişării, atît secretarului satului respectiv, cat şi tuturor secretarilor satelor vecine, cari o vor afişa pe uşile primăriilor, aducând aceasta şi la cunoştinţa publică prin strigări şi bătăi de toba în prima Duminica ce precede ziua înfăţişării. Încunoştiinţarea colectivă va rămîne afişată timp de 10 zile şi la expirarea acestui termen secretarii satelor vor încheia câte un proces-verbal de constatarea afisarilor. Aceste procese-verbale vor fi trimise secretarului satului pe teritoriul căruia se afla terenul în indiviziune, spre a fi predate delegatului cadastrului. Existenta proceselor-verbale de constatarea afisarilor la dosarul lucrării, face completa dovada ca părţile interesate au fost regulat chemate."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Odată începute lucrările, părţile interesate vor putea să le urmărească pe teren pînă la terminarea lor."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Delegatul Cadastrului, pe baza actelor prezentate, a informatiunilor luate, a declaratiunii părţilor şi în prezenta lor, de vor voi sa asiste, va alege, de acord cu ele, pe teren, toate punctele de hotar cari vor fi figurate şi pe plan. În caz de neînţelegere, delegatul Cadastrului va alege linia de hotar pe limita posesiunii actuale. Delegatul Cadastrului va întocmi apoi un proces-verbal de începerea lucrării, în care va constata îndeplinirea procedurii de chemarea părţilor, actele şi planurile înfăţişate şi modul cum au decurs pe teren operaţiunile de alegerea hotarelor."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "După terminarea acestei operaţiuni, delegatul Cadastrului va proceda la executarea lucrărilor tehnice de măsurătoare, atît a perimetrului general, cat şi a tuturor detaliilor interioare, după care va adresa un al doilea proces-verbal, în care va constata: suprafaţa terenului măsurat, atît în total cat şi parţial, pe categorii de folosinţă a terenului, precum şi hotarele, în mod amănunţit, despre fiecare vecinătate."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Câte un exemplar din procesele-verbale menţionate la art. 14 şi 15, împreună cu o copie de pe plan, se vor trimite de delegatul Cadastrului, atît secretarului satului respectiv, cat şi secretarilor satelor vecine, care de îndată le vor afişa pe uşile primăriilor, timp de 10 zile, aducandu-se şi la cunoştinţa publică prin strigări şi bătăi de toba. La expirarea termenului de afişare, secretarii satelor vor încheia procese-verbale de constatarea afişării, din care un exemplar îl vor inainta delegatului Cadastrului. Câte un exemplar al lucrărilor încheiate de delegatul Cadastrului, împreună cu planul ridicat şi cu dovezile de constatarea afisarilor de către secretari, vor rămîne la dosar."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Toţi cei nemultumiti de lucrarea de măsurătoare şi alegere a hotarelor vor putea face contestaţie la judecătoria ocolului de care depinde satul a cărui moşie se divizeaza, în termen de 15 zile libere dela data expirării termenului de afişare a proceselor-verbale ale delegatului Cadastrului la primărie, fie ca lucrarea s-a făcut în prezenta lor, fie ca au fost lipsa."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Contestaţia, facuta în dublu exemplar, va cuprinde numele, prenumele şi domiciliul contestatorului şi va arata toate motivele contestaţiei. Ea va fi însoţită de toate actele, în copie sau original, de care contestatorul voieşte să se servească."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Judecătorul de ocol, în cel mult 10 zile dela primirea contestaţiei, va trimite un exemplar Directiunii Cadastrului, căreia îi va face copii de pe toate lucrările respective, precum şi un memoriu de modul cum s-a făcut lucrarea. După primirea acestor din urma lucrări va fixa termen de judecată şi va dispune citarea părţilor, pronunţând hotărîrea, în termen de maximum doua luni dela primirea lucrărilor cadastrului."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Contestatorul va fi citat la domiciliul arătat prin contestaţie; Direcţiunea Cadastrului, la sediul sau din Bucureşti; iar toţi ceilalţi, cari ar putea avea vreun interes, printr-o încunoştiinţare colectivă. Aceasta încunoştiinţare colectivă va fi trimisa, cel puţin cu o luna înainte de ziua înfăţişării, atît secretarului satului de care aparţine terenul măsurat, cat şi tuturor secretarilor satelor vecine, care de îndată o vor afişa pe uşile primăriilor, aducând aceasta la cunoştinţa publică prin strigări şi bătăi de toba. Încunoştiinţarea colectivă va rămîne afişată timp de 10 zile, iar la expirarea acestui termen, secretarii satelor vor încheia câte un proces-verbal de constatarea afisarilor. Procesele-verbale prin care secretarii constata afişarea, se vor trimite de aceştia, cu cel puţin 10 zile mai înainte de ziua înfăţişării grefei judecătoriei, care le va ataşa la dosarul contestaţiei. Existenta acestor procese-verbale la dosar face deplina dovada ca părţile interesate au fost regulat chemate."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Judecătorul de ocol va judeca contestaţia, bazându-se pe probele ce i se vor prezenta, putând face cercetări sau ordonă verificarea măsurătorilor. Verificarea se va face de către doi experţi, şi anume: un delegat al cadastrului şi un inginer ales de contestator. În caz de divergenţe între aceştia, judecătorul va desemna din oficiu un al treilea inginer expert."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Introducerea contestaţiei peste termenul fixat la art. 17, va avea ca efect anularea ei."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Hotărîrea se va redacta în cel mult o luna dela pronunţare şi se va trimite secretarului satului, spre a o inmana părţilor, conform normelor prevăzute la art. 6 din prezenta lege, iar directiunii cadastrului, prin prefectura poliţiei Capitalei."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Cei nemultumiti cu hotărîrea judecătoriei vor putea face recurs la tribunal în termen de o luna dela comunicare, după normele prevăzute la art. 7, iar judecarea recursului se va face conform prescripţiunilor prevăzute la art. 8."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Sentinta tribunalului, sau hotărîrea judecătoriei rămasă definitivă prin neatacare cu recurs, se va trimite prin grefa respectiva directiunii cadastrului pentru executare."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Dacă după masuratoarea rămasă definitivă se va constata o suprafaţa totală mai mica decât cea prevăzută în tabloul menţionat la art. 10 din prezenta lege, se va reduce proporţional suprafaţa cuvenită fiecăruia. Dacă însă se va găsi o suprafaţa mai mare, diferenţa în plus va rămîne proprietatea primăriei satului respectiv, cu destinaţie fie pentru impadurire, fie pentru mărirea vetrei satului, fie pentru improprietarirea celor lipsiţi de pămînt, cărora li se va vinde cu un preţ indoit decât cel fixat în localitate pentru exproprierea efectuată pe baza legii pentru reforma agrară din Basarabia din 13 Martie 1920."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Pe baza datelor obţinute la măsurătoare, delegatul cadastrului va întocmi un tablou cu numele celor îndreptăţiţi, specificand suprafeţele deţinute de fiecare pentru loc de casa în vatra satului, grădini, vii, livezi, păduri şi plantatiuni de orice natura, precum şi suprafaţa ce i se mai cuvine ca teren de cultura şi imas, pînă la completarea suprafeţei totale la care are drept, conform tabloului dela art. 10, cu modificările aduse eventual în baza dispoziţiunilor art. 26 din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "În comunele unde s-au făcut exproprieri şi improprietariri pe baza legii de reforma agrară pentru Basarabia din 1920, delegatul cadastrului şi delegatul oficiului judeţean de agricultura, luînd de baza tabloul prevăzut la art. 27 din prezenta lege, şi pe cel întocmit de comisiunea de improprietarire, vor întocmi un tablou nominal, cu indicarea în coloane separate, a suprafeţelor cuvenite fiecărui improprietarit, atît în baza legilor din 1874 şi 1875, cat şi a legii agrare din 13 Martie 1920. Dacă după masuratoarea rămasă definitivă se va constata ca suprafaţa totală expropriata este mai mica decât cea prevăzută în tablourile comisiunii de improprietarire, se va reduce proporţional suprafaţa cuvenită fiecărui improprietarit."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Cota intangibila fixată proprietarului prin hotărîrea de expropriere nu va putea fi redusă în nici un caz, iar terenurile inexpropriabile prevăzute în hotărîrile de expropriere pronunţate conform legii de reforma agrară pentru Basarabia din 1920, se vor lasă în suprafaţa reală gasita la măsurătoare."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Pământul de pasune (imas), pentru toţi locuitorii din raza unui sat, se va alege de preferinta în apropierea satului, sau unde se va găsi teren propriu pentru acest scop. Suprafaţa imasului va fi de cel puţin 10 la suta din suprafaţa terenului arabil al mosiei, reducându-se proporţional aceasta suprafaţa din cea cuvenită fiecărui lotas. În calculul acestei suprafeţe nu va intra cota atribuită proprietarului pe baza legii de reforma agrară din Basarabia din 6 Martie 1920. Imasului astfel determinat în mod definitiv pe teren constituie averea comuna a cooperatorilor cari, conform legii pentru organizarea, administrarea şi exploatarea pasunilor, sînt obligaţi să se constituie în asociaţie de pasunat, în termen de 6 luni dela delimitarea imasului."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Ordinea distribuirii loturilor se va stabili prin tragere la sorţi. Ziua şi ora destinate pentru efectuarea acestei operaţiuni se vor fixa de către delegatul cadastrului şi se vor aduce la cunoştinţa locuitorilor de către secretarul comunal. Convocarea va cuprinde locul, ziua şi ora începerii lucrării şi se va afişa pe usa primăriei cu cel puţin 5 zile înaintea termenului fixat, anunţându-se totodată şi prin strigări şi bătăi de toba. De îndeplinirea acestor formalităţi secretarul statutului va încheia un proces-verbal, pe care-l va trimite delegatului cadastrului, spre a-l ataşa la dosarul lucrării. Existenta la dosar a procesului-verbal menţionat mai sus, face completa dovada ca locuitorii au fost regulat chemaţi."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "În ziua convocării, în prezenta delegatului cadastrului, a delegatului Oficiului agricol judeţean şi a secretarului, locuitorii vor fi strigati, în ordinea în care sînt înscrişi în tabloul prevăzut la art. 28 din prezenta lege, spre a trage la sorţi, în vederea stabilirii ordinei în care se va face distribuirea loturilor. Strigarea şi tragerea la sorţi se va face, fie individual, fie pe grupe de improprietariti, cuprinzînd pe membrii aceloraşi familii, dacă aceştia o vor cere. Pentru locuitorii absenţi va trage la sorţi primarul, făcându-se despre aceasta menţiune în procesul verbal ce se va încheia. Constatarea executării lucrării de tragere la sorţi se va face printr-un proces-verbal întocmit în doua exemplare, din care unul se va păstra în arhiva primăriei, iar al doilea exemplar se va lua de delegatul cadastrului, pentru a se ataşa la dosarul lucrării."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "O comisiune compusa din delegatul cadastrului, delegatul Oficiului agricol judeţean, primarul sau locţiitorul sau legal şi secretarul satului, împreună cu delegaţii locuitorilor, avînd în vedere situaţia locală şi rezultatul masuratorii, vor stabili un proiect parcelar amănunţit al distribuirii terenului de cultura cuvenit celor îndreptăţiţi, fixând ordinea şi sensul în care se va face aşezarea şi numerotarea loturilor."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "Loturile vor fi constituite dintr-una sau cel mult două parcele, după diferitele calităţi ale pămîntului. Parcelele nu vor putea fi mai mici de un hectar. Parcelele vor avea o formă cat mai regulată, cu dimensiuni alese astfel ca lăţimea lor să fie cam de 1/4-1/5 din lungime. Capetele parcelelor vor fi obligatoriu marcate pe teren prin borne de piatra naturala sau de beton armat. Costul bornelor, inclusiv transportul şi ingropatul lor în pămînt, va fi în sarcina lotasilor."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Pe baza ordinei stabilite prin tragere la sorţi şi a proiectului de parcelare, prevăzut la art. 33, delegatul Cadastrului va proceda la parcelarea pe plan şi aplicarea pe teren a portiunilor cuvenite locuitorilor, conform tabloului prevăzut la art. 28."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "După terminarea executării lucrărilor de aplicare a parcelarii pe teren, delegatul Cadastrului va comunică în scris ziua ce se va fixa pentru predarea loturilor celor îndreptăţiţi şi cari vor fi anuntati din vreme, din afisari, strigări şi bătăi de toba. În ziua fixată, delegatul Cadastrului, însoţit de delegatul Oficiului Agricol Judeţean, primar, secretar şi de locuitorii interesaţi, se va transporta pe teren şi va preda fiecăruia lotul ce i s-a atribuit. Loturile celor absenţi sau ale acelora ce vor refuza a le primi se vor da în primire primarului, sau în lipsa acestuia, secretarului, prin proces-verbal, care va fi opozabil titularului respectiv. În intervalul pînă la prezentarea titularului pământul se va putea arenda anual de primărie, prin licitaţie publică orala, iar venitul se va consemna pe seama şi la dispoziţia titularului. Executarea lucrării de predare se va constata printr-un proces-verbal, dresat în 4 exemplare, luându-se câte un exemplar de delegatul Cadastrului, unul de primar şi doua de delegatul Oficiului Agricol Judeţean, din care un exemplar îl va trimite Camerei de agricultura. Copii de pe planul parcelar se vor trimite de Direcţiunea Cadastrului, Camerei de agricultura şi primăriei respective."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul 2 - Executarea lucrărilor tehnice de măsurătoare, comasare şi parcelare",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Pe baza planului parcelar şi a datelor înscrise în tabloul menţionat la art. 28, Ministerul Agriculturii şi Domeniilor va elibera titluri individuale de proprietate."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul 3 - Plata lucrărilor",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "Pentru lucrările de măsurătoare şi aplicare a parcelarii locuitorii ce primesc pămînt vor plati statului următoarele preţuri: a) 100 lei pentru fiecare loc de casa în vatra satului; b) 100 lei hectarul pentru locurile de vii, livezi de pomi sau plantatiuni; c) 80 lei hectarul pentru loturile de cultura, pasune sau improductive; d) 25 lei de fiecare borna ingropata în pămînt."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul 3 - Plata lucrărilor",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Plata cuvenită statului pentru executarea lucrărilor se va face pe baza preţurilor unitare specificate în art. precedent şi se va împlini de agenţii fiscului, conform legii de urmărire a veniturilor statului."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul 3 - Plata lucrărilor",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Ministerul de Finanţe va pune la dispoziţiunea Ministerului Agriculturii şi Domenii, direcţiunea cadastrului, sumele necesare pentru executarea lucrărilor de măsurătoare, parcelare şi aplicarea parcelarii, prin deschidere de credite extraordinare, rambursabile din sumele ce se vor incasa dela locuitori, pe baza art. precedent."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Locurile necultivabile, ca: rapi, prunduri, matcile apelor şi stufariile, conform art. 11 din legea din 19 Fevruarie 1875, se vor rezerva pe seama satelor care vor fi datoare a le pune în valoare prin impadurire sau alte mijloace de exploatare."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Suprafaţa terenului ocupat de şosele naţionale, judeţene, vicinale sau comunale, precum şi strazile din interiorul satelor nu va intră în calcul. Pentru aceste drumuri publice se vor destina latimile respective, conform legilor în vigoare."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Suprafaţa drumurilor dintre parcele va fi cuprinsă în suprafaţa loturilor."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Toate actele judiciare şi extra-judiciare, făcute în executarea legii de faţa, sînt scutite de orice taxe de timbru."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Primării, funcţionarii administrativi şi grefierii, cari nu vor executa îndatoririle impuse prin această lege, în afară de pedeapsa disciplinară, vor fi pedepsiţi potrivit dispoziţiunilor art. 190 din codul penal."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "Suprafeţele înscrise în tablourile de care se face menţiune, în prezenta lege, vor fi indicate în hectare şi metri patrati. Pentru transformarea desetinelor în hectare se va considera o desetina egala cu un hectar şi noua sute douăzeci şi cinci mp (1 ha, 0925 mp)."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "Se vor respecta ieşirile din indiviziune făcute în mod definitiv, cu planuri inginereşti pînă la data promulgării prezentei legi, fie pe cale judecătorească, fie prin buna învoiala a obstei locale."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "Un regulament de administraţie publică va putea lămuri şi completa dispoziţiunile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul 4 - Dispoziţiuni finale",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "Toate legile, regulamentele şi dispoziţiunile contrarii prezentei legi, sînt şi rămîn abrogate. Această lege s-a votat de Adunarea Deputaţilor în şedinţa dela 27 Martie anul 1931 şi s-a adoptat cu unanimitate de una suta douasprezece voturi. Preşedinte, ST. CICIO POP (L. S. A. D.) Secretar, Pr. Ştefan Cercel Această lege s-a votat de Senat în şedinţa dela 1 Aprilie anul 1931 şi s-a adoptat cu majoritate de sasezeci şi noua voturi, contra unu. Vice-preşedinte I. CLINCIU (L. S. S.) Secretar N. N. Botez Promulgăm această lege şi ordonăm ca ea să fie investită cu sigiliul Statului şi publicată în Monitorul Oficial. (L. S. St.) CAROL Ministrul agriculturii şi domeniilor ad interim Ion Mihalache Ministrul justiţiei Dr. Voicu Nitescu -------------"
+    }
+  ],
+  "definitions": []
+}

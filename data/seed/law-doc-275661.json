@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275661",
+  "type": "statute",
+  "title": "LEGE nr. 292 din 24 octombrie 2023",
+  "short_name": "lege 292 24 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-24",
+  "in_force_date": "2023-10-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275661",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 292 24/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Palestinei privind cooperarea în prevenirea și combaterea criminalității organizate, a terorismului și a altor infracțiuni, semnat la 19 iulie 2022 la București."
+    }
+  ],
+  "definitions": []
+}

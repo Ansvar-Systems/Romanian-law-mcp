@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-261217",
+  "type": "statute",
+  "title": "LEGE nr. 295 din 4 noiembrie 2022",
+  "short_name": "lege 295 04 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-04",
+  "in_force_date": "2022-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261217",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 295 04/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 52 din Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente, publicată în Monitorul Oficial al României, Partea I, nr. 553 din 24 iulie 2015, cu modificările și completările ulterioare, alineatul (14) se modifică și va avea următorul cuprins: (14) Nu pot candida persoanele care, la data depunerii candidaturii, nu îndeplinesc condițiile prevăzute de lege, condițiile prevăzute la art. 37 din Constituția României, republicată , pentru a fi alese și persoanele care la data depunerii candidaturii au fost condamnate definitiv la pedepse privative de libertate pentru infracțiuni săvârșite cu intenție, dacă nu a intervenit reabilitarea, amnistia postcondamnatorie sau dezincriminarea."
+    }
+  ],
+  "definitions": []
+}

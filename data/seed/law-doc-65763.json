@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-65763",
+  "type": "statute",
+  "title": "LEGE nr. 310 din 8 noiembrie 2005",
+  "short_name": "lege 310 08 11 2005",
+  "status": "in_force",
+  "issued_date": "2005-11-08",
+  "in_force_date": "2005-11-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/65763",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 310 08/11/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 60 din 23 iunie 2005 pentru modificarea Legii nr. 80/1995 privind Statutul cadrelor militare, publicată în Monitorul Oficial al României, Partea I, nr. 555 din 29 iunie 2005, cu următoarea modificare: La articolul I punctul 1, litera d) a articolului 36 va avea următorul cuprins: d) ofițeri în rezervă care au promovat testele de aptitudini și îndeplinesc celelalte condiții stabilite prin ordin al miniștrilor sau al șefilor instituțiilor componente ale sistemului apărării naționale, ordinii publice și securității naționale, în vederea chemării sau rechemării în activitate;"
+    }
+  ],
+  "definitions": []
+}

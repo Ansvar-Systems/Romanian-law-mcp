@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276208",
+  "type": "statute",
+  "title": "LEGE nr. 333 din 9 noiembrie 2023",
+  "short_name": "lege 333 09 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-09",
+  "in_force_date": "2023-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276208",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 333 09/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 126 din 15 decembrie 2021 pentru modificarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru acordarea unei indemnizații compensatorii pentru persoanele cu handicap, publicată în Monitorul Oficial al României, Partea I, nr. 1189 din 15 decembrie 2021."
+    }
+  ],
+  "definitions": []
+}

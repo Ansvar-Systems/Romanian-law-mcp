@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276212",
+  "type": "statute",
+  "title": "LEGE nr. 335 din 9 noiembrie 2023",
+  "short_name": "lege 335 09 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-09",
+  "in_force_date": "2023-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276212",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 335 09/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 36 din 6 aprilie 2022 privind stabilirea unor măsuri de protecție socială a salariaților în contextul conflictului armat din Ucraina, precum și ca urmare a sancțiunilor internaționale aplicate Federației Ruse și Belarusului, publicată în Monitorul Oficial al României, Partea I, nr. 340 din 7 aprilie 2022."
+    }
+  ],
+  "definitions": []
+}

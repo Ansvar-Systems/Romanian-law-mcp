@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-208730",
+  "type": "statute",
+  "title": "LEGE nr. 308 din 12 decembrie 2018",
+  "short_name": "lege 308 12 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-12",
+  "in_force_date": "2018-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208730",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 308 12/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acceptă Acordul de înființare a Băncii Asiatice de Investiții în Infrastructură, încheiat la Beijing la 29 iunie 2015."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se acceptă Rezoluția nr. 40 privind admiterea României ca membru al Băncii Asiatice de Investiții în Infrastructură, adoptată de Consiliul guvernatorilor Băncii Asiatice de Investiții în Infrastructură la 12 mai 2017."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Valoarea capitalului subscris de România este de 153 milioane dolari SUA, din care valoarea capitalului subscris și vărsat este de 30,6 milioane dolari SUA. (2) Plata contravalorii în lei a capitalului subscris și vărsat se realizează cu încadrare în fondurile aprobate cu această destinație în bugetul Ministerului Finanțelor Publice, în condițiile legii. Plata capitalului vărsat se achită în 5 tranșe anuale egale. Prima tranșă anuală va fi achitată la momentul sau înainte de data depunerii instrumentului de acceptare a Acordului de înființare, dar nu mai târziu de 31 decembrie 2018. (3) Plata eventualelor contribuții viitoare la capitalul Băncii Asiatice de Investiții în Infrastructură se asigură din fondurile prevăzute cu această destinație în bugetul Ministerului Finanțelor Publice, în condițiile legii."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Se desemnează Ministerul Finanțelor Publice și, respectiv, Banca Națională a României pentru îndeplinirea atribuțiilor prevăzute de Acordul de înființare a Băncii Asiatice de Investiții în Infrastructură."
+    }
+  ],
+  "definitions": []
+}

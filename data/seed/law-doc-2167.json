@@ -1,0 +1,56 @@
+{
+  "id": "law-doc-2167",
+  "type": "statute",
+  "title": "LEGE Nr. 20 din 9 martie 1992",
+  "short_name": "lege 20 09 03 1992",
+  "status": "in_force",
+  "issued_date": "1992-03-09",
+  "in_force_date": "1992-03-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2167",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 09/03/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Începînd cu data de 1 ianuarie 1992 salariile de baza şi celelalte drepturi din luna octombrie 1991, prevăzute de Legea nr. 53/1991 pentru deputaţi, senatori şi personalul din aparatul Parlamentului României, de Legea nr. 40/1991 pentru Preşedinte, Guvernul României şi personalul Presedentiei, guvernului şi al celorlalte organe ale puterii executive şi de Legea nr. 52/1991 pentru personalul din organele puterii judecătoreşti, se aplică potrivit prezentei legi corectate periodic cu o parte din creşterea prognozata a preţurilor de consum faţă de luna octombrie 1991. (2)Partea din creşterea prognozata a preţurilor de consum faţă de luna octombrie 1991, care se va lua în calcul la corectarea salariilor de baza şi a celorlalte drepturi, va fi cea care se va stabili pentru societăţile comerciale şi regiile autonome la care salariile se negociaza potrivit legii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Persoanele care cumulează, potrivit legii, pensia cu salariul, beneficiază în instituţiile publice, de diferenţa dintre creşterea rezultată din aplicarea prevederilor art. 1 la funcţia de baza şi indexarile cuprinse în pensie, de la data de 1 octombrie 1991."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Nivelurile noi ale salariilor stabilite potrivit art. 1 se calculează şi se transmit instituţiilor interesate de către Ministerul Muncii şi Protecţiei Sociale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Personalul de specialitate care prin natura obligaţiilor de serviciu îşi desfăşoară activitatea în majoritatea timpului, în locuri de muncă cu condiţii grele, periculoase sau vătămătoare, beneficiază de drepturile stabilite prin hotărîre a Guvernului pentru unităţile bugetare."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Persoanele solicitate temporar în calitate de colaboratori la Parlament, la Presedintie şi la Guvern, beneficiază de o indemnizaţie lunară pînă la nivelul salariului de baza minim brut pe ţara, stabilită în raport cu perioada de colaborare şi importanţa lucrărilor efectuate."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Ministerul Muncii şi Protecţiei Sociale, împreună cu Ministerul Economiei şi Finanţelor pot elabora precizări în legătură cu metodologia de aplicare a prevederilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.7",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Orice dispoziţie legală contrară prezentei legi se abroga."
+    }
+  ],
+  "definitions": []
+}

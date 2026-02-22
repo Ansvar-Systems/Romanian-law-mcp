@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196663",
+  "type": "statute",
+  "title": "LEGE nr. 5 din 5 ianuarie 2018",
+  "short_name": "lege 5 05 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196663",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 5 05/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de securitate dintre Guvernul României și Guvernul Marelui Ducat al Luxemburgului privind protecția reciprocă a informațiilor clasificate, semnat la București la 24 mai 2017."
+    }
+  ],
+  "definitions": []
+}

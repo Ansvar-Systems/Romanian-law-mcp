@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277812",
+  "type": "statute",
+  "title": "LEGE nr. 420 din 28 decembrie 2023",
+  "short_name": "lege 420 28 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-28",
+  "in_force_date": "2023-12-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277812",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 420 28/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 36^4 din Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006, republicată în Monitorul Oficial al României, Partea I, nr. 679 din 7 septembrie 2015, cu modificările și completările ulterioare, după alineatul (3) se introduc trei noi alineate, alineatele (3^1)-(3^3), cu următorul cuprins: (3^1) Venitul mediu disponibil pe o gospodărie la nivelul unității administrativ-teritoriale se determină în funcție de mediul de rezidență, urban sau rural, pe baza datelor publicate de Institutul Național de Statistică, ca diferență între veniturile totale medii lunare pe o gospodărie din mediul urban/rural și cheltuielile cu impozite, contribuții, cotizații, taxe în mediul urban/rural, la care se aplică un factor de ajustare calculat ca raport între câștigul salarial mediu brut lunar la nivelul județului și câștigul salarial mediu brut lunar la nivel național. (3^2) În cazul operatorilor regionali care furnizează/prestează serviciul la nivelul unui județ, în mai multe unități administrativ-teritoriale din mediul urban și/sau rural, venitul mediu disponibil la nivelul ariei de operare este suma veniturilor medii disponibile la nivelul fiecărui mediu de rezidență, ponderate cu populația din mediul respectiv, raportată la populația totală din aria de operare. Venitul mediu disponibil la nivelul fiecărui mediu de rezidență/județ, urban sau rural, se calculează similar cu venitul mediu disponibil la nivelul unității administrativ-teritoriale din mediul respectiv, conform prevederilor alin. (3^1). (3^3) În cazul operatorilor regionali care furnizează/prestează serviciul în mai multe județe, venitul mediu disponibil la nivelul ariei de operare este suma veniturilor medii disponibile, la nivelul fiecărui mediu de rezidență din fiecare județ, ponderate cu populația din mediul respectiv, raportată la populația totală din aria de operare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-295345",
+  "type": "statute",
+  "title": "LEGE nr. 15 din 12 martie 2025",
+  "short_name": "lege 15 12 03 2025",
+  "status": "in_force",
+  "issued_date": "2025-03-12",
+  "in_force_date": "2025-03-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/295345",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 15 12/03/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la dispozițiile art. 10 alin. 1 din Legea nr. 82/1993 privind constituirea Rezervației Biosferei „Delta Dunării“, cu modificările și completările ulterioare, se aprobă transmiterea unui imobil situat în municipiul Tulcea, județul Tulcea, aflat în domeniul public al statului, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din administrarea Administrației Rezervației Biosferei „Delta Dunării“, aflată în subordinea Ministerului Mediului, Apelor și Pădurilor, în administrarea Ministerului Apărării Naționale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "După preluare, imobilul transmis potrivit prevederilor art. 1 se utilizează de către Ministerul Apărării Naționale pentru realizarea unui proiect imobiliar de investiții în domeniul apărării."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Predarea-preluarea imobilului prevăzut la art. 1 se face pe bază de protocol încheiat între Ministerul Mediului, Apelor și Pădurilor, prin Administrația Rezervației Biosferei „Delta Dunării“, și Ministerul Apărării Naționale, în termen de 60 de zile de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

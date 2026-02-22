@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-124467",
+  "type": "statute",
+  "title": "LEGE nr. 256 din 14 decembrie 2010",
+  "short_name": "lege 256 14 12 2010",
+  "status": "in_force",
+  "issued_date": "2010-12-14",
+  "in_force_date": "2010-12-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/124467",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 256 14/12/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 5 mai ca Zi a limbii tătare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătoririi Zilei limbii tătare, în localităţile în care trăiesc membri ai comunităţii tătare se organizează manifestări culturale dedicate acestei sărbători. (2) Autorităţile centrale şi locale pot contribui cu sprijin logistic şi/sau financiar, după caz."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituţiile de învăţământ în care se predau limba tătară ca limbă maternă şi religia islamică, în ziua de 5 mai se organizează manifestări culturale dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Societatea Română de Televiziune şi Societatea Română de Radiodifuziune vor include, în cadrul emisiunilor dedicate minorităţilor naţionale, aspecte de la manifestările anuale ocazionate de sărbătorirea Zilei limbii tătare. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ROBERTA ALMA ANASTASE PREŞEDINTELE SENATULUI MIRCEA-DAN GEOANĂ Bucureşti, 14 decembrie 2010 Nr. 256. -------"
+    }
+  ],
+  "definitions": []
+}

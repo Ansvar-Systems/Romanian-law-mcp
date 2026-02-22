@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172376",
+  "type": "statute",
+  "title": "LEGE nr. 245 din 26 octombrie 2015",
+  "short_name": "lege 245 26 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-26",
+  "in_force_date": "2015-10-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172376",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 245 26/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 20 din 10 iunie 2015 privind stabilirea nivelului maxim al produsului apă grea destinat unităţilor 1-4 de la Centrala Nuclearo-Electrică Cernavodă pentru întreaga perioadă de exploatare a acestora, precum şi pentru gestionarea apei grele, publicată în Monitorul Oficial al României, Partea I, nr. 433 din 17 iunie 2015."
+    }
+  ],
+  "definitions": []
+}

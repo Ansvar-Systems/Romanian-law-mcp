@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-255676",
+  "type": "statute",
+  "title": "LEGE nr. 154 din 24 mai 2022",
+  "short_name": "lege 154 24 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-24",
+  "in_force_date": "2022-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255676",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 154 24/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 374/2013 privind utilizarea sistemelor destinate blocării și întreruperii radiocomunicațiilor în perimetrele unităților din subordinea Administrației Naționale a Penitenciarelor, publicată în Monitorul Oficial al României, Partea I, nr. 825 din 23 decembrie 2013, se modifică și se completează după cum urmează: 1. La articolul 1, alineatul (2) se modifică și va avea următorul cuprins: (2) În înțelesul prezentei legi, prin perimetre ale unităților din subordinea ANP se înțelege secțiile de deținere și alte spații din interiorul locurilor de deținere unde persoanele private de libertate desfășoară activități. 2. La articolul 2 alineatul (4), literele b) și d) se modifică și vor avea următorul cuprins: b) blochează și întrerupe comunicările efectuate de către persoanele private de libertate în alte condiții decât cele prevăzute de lege; .......................................................... d) este instalat în locuri aflate sub protecția personalului unității din subordinea ANP și inaccesibile persoanelor private de libertate; 3. La articolul 3, alineatul (2) se modifică și va avea următorul cuprins: (2) Instalarea, punerea în funcțiune și utilizarea sistemelor prevăzute la art. 2 alin. (4) se realizează în asemenea condiții încât să se evite apariția unor interferențe prejudiciabile asupra rețelelor și serviciilor de comunicații electronice din exteriorul unităților din subordinea ANP. 4. La articolul 3, după alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: (3) Sintagma interferență prejudiciabilă are înțelesul definit la art. 4 alin. (1) pct. 12 din Ordonanța de urgență a Guvernului nr. 111/2011 privind comunicațiile electronice, aprobată cu modificări și completări prin Legea nr. 140/2012 , cu modificările și completările ulterioare. 5. La articolul 6, alineatul (4) se modifică și va avea următorul cuprins: (4) Prin derogare de la prevederile art. 66 alin. (1) din Legea nr. 500/2002 privind finanțele publice, cu modificările și completările ulterioare, suma alocată achiziționării serviciilor destinate blocării și întreruperii radiocomunicațiilor în perimetrele unităților din subordinea ANP, precum și de consultanță și proiectare, încasată și neutilizată până la închiderea exercițiului bugetar, se reportează în anul următor, până la utilizarea integrală a sumei alocate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Administrația Națională a Penitenciarelor (ANP) este abilitată să utilizeze suma prevăzută la art. 6 alin. (1) și (4) din Legea nr. 374/2013 privind utilizarea sistemelor destinate blocării și întreruperii radiocomunicațiilor în perimetrele unităților din subordinea Administrației Naționale a Penitenciarelor și pentru achiziționarea altor servicii, echipamente sau sisteme de detecție, identificare și localizare, după caz, care să contribuie la diminuarea utilizării de către persoanele private de libertate a serviciilor de comunicații electronice furnizate prin intermediul undelor radio, dacă serviciile prevăzute la art. 5 alin. (1) din Legea nr. 374/2013 nu au fost achiziționate în termenul de 5 ani de la data intrării în vigoare a Legii nr. 374/2013 . (2) Serviciile, echipamentele sau sistemele de detecție, identificare și localizare prevăzute la alin. (1) au la bază diminuarea utilizării de către persoanele private de libertate a serviciilor de comunicații electronice furnizate prin intermediul undelor radio și trebuie să îndeplinească următoarele condiții tehnice minimale: a) nu depășesc limitele impuse de legislația națională în ceea ce privește expunerea populației generale la undele electromagnetice; b) nu perturbă activitatea curentă a unității din subordinea ANP; c) generează informațiile necesare pentru detecția, identificarea și localizarea dispozitivelor care utilizează serviciile de comunicații electronice din interiorul perimetrelor unităților aflate în subordinea Administrației Naționale a Penitenciarelor, în sensul art. 1 alin. (2) din Legea nr. 374/2013 . (3) Echipamentele sau sistemele de detecție, identificare și localizare trebuie să se afle sub protecția personalului unității din subordinea ANP și inaccesibile deținuților. (4) Achiziționarea serviciilor, echipamentelor sau sistemelor de detecție, identificare și localizare se face potrivit Ordonanței de urgență a Guvernului nr. 114/2011 privind atribuirea anumitor contracte de achiziții publice în domeniile apărării și securității, aprobată cu modificări și completări prin Legea nr. 195/2012 , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

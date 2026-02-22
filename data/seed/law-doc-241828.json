@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-241828",
+  "type": "statute",
+  "title": "LEGE nr. 98 din 26 aprilie 2021",
+  "short_name": "lege 98 26 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-26",
+  "in_force_date": "2021-04-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241828",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 98 26/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 28 din 28 iunie 2016 pentru modificarea și completarea Legii energiei electrice și a gazelor naturale nr. 123/2012 , publicată în Monitorul Oficial al României, Partea I, nr. 487 din 30 iunie 2016."
+    }
+  ],
+  "definitions": []
+}

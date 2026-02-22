@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299541",
+  "type": "statute",
+  "title": "LEGE nr. 118 din 1 iulie 2025",
+  "short_name": "lege 118 01 07 2025",
+  "status": "in_force",
+  "issued_date": "2025-07-01",
+  "in_force_date": "2025-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299541",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 118 01/07/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 52 din 23 mai 2024 pentru modificarea și abrogarea unor prevederi din acte normative în domeniul achizițiilor publice și achizițiilor sectoriale, publicată în Monitorul Oficial al României, Partea I, nr. 483 din 24 mai 2024."
+    }
+  ],
+  "definitions": []
+}

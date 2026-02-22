@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198431",
+  "type": "statute",
+  "title": "LEGE nr. 59 din 6 martie 2018",
+  "short_name": "lege 59 06 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-06",
+  "in_force_date": "2018-03-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198431",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 59 06/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 2 din Legea nr. 294/2007 privind derularea în România a proiectelor finanțate prin Programul NATO de Investiții în Securitate, publicată în Monitorul Oficial al României, Partea I, nr. 762 din 9 noiembrie 2007, cu modificările și completările ulterioare, litera f) se modifică și va avea următorul cuprins: f) bunuri NSIP în România - bunuri care se realizează în condițiile prezentei legi, care intră în proprietatea publică a statului român și în administrarea Ministerului Apărării Naționale;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275942",
+  "type": "statute",
+  "title": "LEGE nr. 302 din 1 noiembrie 2023",
+  "short_name": "lege 302 01 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-01",
+  "in_force_date": "2023-11-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275942",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 302 01/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 63 din 9 mai 2022 privind unele măsuri temporare pentru acordarea de sprijin material categoriilor de persoane aflate în situații de risc de deprivare materială și/sau risc de sărăcie extremă, suportate parțial din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestuia, publicată în Monitorul Oficial al României, Partea I, nr. 468 din 10 mai 2022, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

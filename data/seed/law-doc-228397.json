@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-228397",
+  "type": "statute",
+  "title": "LEGE nr. 156 din 24 iulie 2020",
+  "short_name": "lege 156 24 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-24",
+  "in_force_date": "2020-07-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228397",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 156 24/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, publicată în Monitorul Oficial al României, Partea I, nr. 492 din 28 iunie 2017, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La anexa nr. I capitolul III litera B, numărul curent 5 din tabel va avea următorul cuprins: 5 Episcop-vicar, episcop coajutor, episcop auxiliar, arhiereu-vicar 29 Senatori, deputați 2. La anexa nr. I capitolul III litera C, numărul curent 3 din tabel va avea următorul cuprins: 3 Secretar Cancelaria patriarhală, consilier eparhial, secretar eparhial, inspector eparhial, exarh, protopop 853 Profesor cu studii superioare, cu grad didactic II și vechime în învățământ între 10 și 15 ani"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Începând cu luna următoare celei în care intră în vigoare prezenta lege, cuantumul brut al salariilor de bază de care beneficiază personalul din Ministerul Tineretului și Sportului și personalul din federațiile sportive și din unitățile sportive din subordinea Ministerului Tineretului și Sportului, altul decât cel încadrat pe funcții de specialitate, se stabilește la nivelul prevăzut de lege pentru anul 2021."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Începând cu luna următoare celei în care intră în vigoare prezenta lege, cuantumul brut al salariilor de bază de care beneficiază personalul din unitățile de cercetare științifică, dezvoltare tehnologică și proiectare se stabilește la nivelul prevăzut de lege pentru anul 2021."
+    }
+  ],
+  "definitions": []
+}

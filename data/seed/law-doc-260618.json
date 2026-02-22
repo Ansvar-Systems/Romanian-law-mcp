@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-260618",
+  "type": "statute",
+  "title": "LEGE nr. 284 din 19 octombrie 2022",
+  "short_name": "lege 284 19 10 2022",
+  "status": "in_force",
+  "issued_date": "2022-10-19",
+  "in_force_date": "2022-10-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/260618",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 284 19/10/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Regatului Arabiei Saudite privind cooperarea în domeniul apărării, semnat la Riad la 24 ianuarie 2022."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201739",
+  "type": "statute",
+  "title": "LEGE nr. 141 din 18 iunie 2018",
+  "short_name": "lege 141 18 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201739",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 141 18/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 94 din 8 decembrie 2016 pentru modificarea și completarea Legii apelor nr. 107/1996 , publicată în Monitorul Oficial al României, Partea I, nr. 1005 din 14 decembrie 2016."
+    }
+  ],
+  "definitions": []
+}

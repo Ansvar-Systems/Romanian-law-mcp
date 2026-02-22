@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-211725",
+  "type": "statute",
+  "title": "LEGE nr. 40 din 6 martie 2019",
+  "short_name": "lege 40 06 03 2019",
+  "status": "in_force",
+  "issued_date": "2019-03-06",
+  "in_force_date": "2019-03-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/211725",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 40 06/03/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 63 din 12 iulie 2018 privind compensarea unor creanțe reciproce între statul român și persoanele beneficiare ale legilor din domeniul restituirii proprietății, precum și pentru prorogarea unui termen, publicată în Monitorul Oficial al României, Partea I, nr. 602 din 13 iulie 2018, cu următoarea modificare: – La articolul 1 alineatul (2), litera c) se modifică și va avea următorul cuprins: c) ordinul emis de șeful Cancelariei Prim-ministrului în temeiul Legii nr. 9/1998, republicată , cu modificările și completările ulterioare, decizia de plată emisă de Autoritatea Națională pentru Restituirea Proprietăților, respectiv decizia de validare emisă de Autoritatea Națională pentru Restituirea Proprietăților cu privire la hotărâri emise de comisiile județene, respectiv a municipiului București, în temeiul Legii nr. 9/1998, republicată , cu modificările și completările ulterioare;"
+    }
+  ],
+  "definitions": []
+}

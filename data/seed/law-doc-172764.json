@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172764",
+  "type": "statute",
+  "title": "LEGE nr. 265 din 6 noiembrie 2015",
+  "short_name": "lege 265 06 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-06",
+  "in_force_date": "2015-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172764",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 265 06/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 68 din 21 octombrie 2014 privind modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 803 din 4 noiembrie 2014, cu modificările ulterioare, cu următoarea modificare: - Articolul IV se modifică şi va avea următorul cuprins: \"Art. IV. - Proiectele tehnice realizate prin derularea unor contracte de către Ministerul Dezvoltării Regionale şi Administraţiei Publice în cadrul Programului naţional de dezvoltare a infrastructurii, aprobat prin Ordonanţa de urgenţă a Guvernului nr. 105/2010 , aprobată cu modificări şi completări prin Legea nr. 15/2011 , cu modificările şi completările ulterioare, se transmit cu titlu gratuit către unităţile administrativ-teritoriale beneficiare.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-198",
+  "type": "statute",
+  "title": "LEGE nr. 19 din 24 iunie 1968",
+  "short_name": "lege 19 24 06 1968",
+  "status": "in_force",
+  "issued_date": "1968-06-24",
+  "in_force_date": "1968-06-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 19 24/06/1968",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "În vederea lucrărilor de sistematizare, construcţii, inclusiv cele de locuinţe, se declara indisponibile şi expropriabile, prin efectul prezentei legi, terenurile fără construcţii, proprietate a persoanelor fizice sau juridice, aflate în perimetrul construibil al municipiului Bucureşti, al celorlalte municipii sau al oraşelor. Tot astfel se declara indisponibile şi expropriabile părţile din terenurile cu construcţii, în măsura în care depăşesc suprafeţele stabilite pe baza detaliilor de sistematizare aprobate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Terenurile prevăzute la art. 1 nu vor putea fi înstrăinate sau grevate cu sarcini reale, proprietarii pastrindu-şi posesia şi folosinţă lor. Aceste terenuri se transmit prin moştenire."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Proprietarul are dreptul să-şi construiască o locuinta pentru el şi familia sa pe terenul indisponibil, cu respectarea prevederilor de sistematizare şi cu condiţia de a construi în termen de doi ani de la eliberarea autorizaţiei. Pentru motive întemeiate, comitetul executiv al consiliului popular care a eliberat autorizaţia poate acorda prelungirea termenului cu cel mult un an."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "În cazul în care, datorită prevederilor de sistematizare, terenul nu poate fi folosit pentru construirea unei singure locuinţe, comitetul executiv al consiliului popular al municipiului, oraşului sau al sectorului municipiului Bucureşti va putea să ofere în schimb proprietarului un teren corespunzător pentru o astfel de construcţie. ------------"
+    }
+  ],
+  "definitions": []
+}

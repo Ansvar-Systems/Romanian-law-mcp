@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195083",
+  "type": "statute",
+  "title": "LEGE nr. 223 din 27 noiembrie 2017",
+  "short_name": "lege 223 27 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-27",
+  "in_force_date": "2017-11-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195083",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 223 27/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 23 din 22 martie 2017 pentru modificarea Legii dialogului social nr. 62/2011 și a art. 11 alin. (2) lit. c) din Legea nr. 248/2013 privind organizarea și funcționarea Consiliului Economic și Social, publicată în Monitorul Oficial al României, Partea I, nr. 214 din 29 martie 2017."
+    }
+  ],
+  "definitions": []
+}

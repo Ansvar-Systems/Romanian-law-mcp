@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172465",
+  "type": "statute",
+  "title": "LEGE nr. 247 din 28 octombrie 2015",
+  "short_name": "lege 247 28 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-28",
+  "in_force_date": "2015-10-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172465",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 247 28/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 108 din 11 decembrie 2013 pentru prorogarea termenului prevăzut la alin. (1) al art. 56 din Legea nr. 185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate, publicată în Monitorul Oficial al României, Partea I, nr. 793 din 17 decembrie 2013."
+    }
+  ],
+  "definitions": []
+}

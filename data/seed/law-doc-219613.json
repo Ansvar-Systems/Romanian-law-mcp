@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219613",
+  "type": "statute",
+  "title": "LEGE nr. 203 din 7 noiembrie 2019",
+  "short_name": "lege 203 07 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-07",
+  "in_force_date": "2019-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219613",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 203 07/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 5 din 15 februarie 2018 pentru completarea art. 4 din Legea serviciilor de transport public local nr. 92/2007 , publicată în Monitorul Oficial al României, Partea I, nr. 152 din 19 februarie 2018."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-283108",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 21 mai 2024",
+  "short_name": "lege 144 21 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-21",
+  "in_force_date": "2024-05-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283108",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 21/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Emiratelor Arabe Unite privind cooperarea în domeniul militar, semnat la Abu Dhabi la 22 iunie 2022."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Acordul conține informații clasificate și se comunică doar instituțiilor interesate."
+    }
+  ],
+  "definitions": []
+}

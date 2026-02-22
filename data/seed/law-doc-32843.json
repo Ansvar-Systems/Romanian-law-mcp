@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-32843",
+  "type": "statute",
+  "title": "LEGE nr. 729 din 4 decembrie 2001",
+  "short_name": "lege 729 04 12 2001",
+  "status": "in_force",
+  "issued_date": "2001-12-04",
+  "in_force_date": "2001-12-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32843",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 729 04/12/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 120 din 30 iunie 1999 privind unele măsuri de restructurare financiară a Băncii Agricole - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 313 din 30 iunie 1999, cu următoarea modificare: – Alineatul (5) al articolului 1 va avea următorul cuprins: (5) Titlurile de stat vor fi emise în limita plafonului stabilit la alin. (1), la data preluării efective a titlurilor de participare de către Agenția de Valorificare a Activelor Bancare și vor fi răscumpărate în doua rate anuale egale, începând cu data de 15 iulie 2000. Titlurile de stat sunt negociabile și poarta o dobânda a carei rata este egala cu rata medie lunară a dobânzii active practicate de bănci în relațiile cu clienții nebancari. Rata medie lunară a dobânzii active este calculată de Banca Naționala a României pe baza datelor transmise de bănci. Dobânda se plătește trimestrial, până la data de 27 a lunii următoare trimestrului pentru care se face plata."
+    }
+  ],
+  "definitions": []
+}

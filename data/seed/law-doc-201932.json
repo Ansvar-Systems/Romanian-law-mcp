@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201932",
+  "type": "statute",
+  "title": "LEGE nr. 151 din 22 iunie 2018",
+  "short_name": "lege 151 22 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-22",
+  "in_force_date": "2018-06-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201932",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 151 22/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Memorandumul de înțelegere dintre Guvernul României și Guvernul Georgiei privind asigurarea reciprocă a sprijinului națiunii gazdă, semnat la Batumi la 11 octombrie 2017."
+    }
+  ],
+  "definitions": []
+}

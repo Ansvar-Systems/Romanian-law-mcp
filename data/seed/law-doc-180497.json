@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-180497",
+  "type": "statute",
+  "title": "LEGE nr. 161 din 21 iulie 2016",
+  "short_name": "lege 161 21 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-21",
+  "in_force_date": "2016-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180497",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 161 21/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Guvernul Insulei Man privind schimbul de informaţii în domeniul fiscal, semnat la Londra la 4 noiembrie 2015."
+    }
+  ],
+  "definitions": []
+}

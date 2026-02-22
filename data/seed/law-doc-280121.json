@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-280121",
+  "type": "statute",
+  "title": "LEGE nr. 52 din 18 martie 2024",
+  "short_name": "lege 52 18 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-18",
+  "in_force_date": "2024-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280121",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 52 18/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acceptă amendamentul*) la Acordul Băncii Internaționale pentru Reconstrucție și Dezvoltare propus prin Rezoluția nr. 696 din 10 iulie 2023, privind eliminarea prevederilor referitoare la limita de creditare, aprobată de Consiliul Guvernatorilor Băncii Internaționale pentru Reconstrucție și Dezvoltare. *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Finanțelor este autorizat să notifice Băncii Internaționale pentru Reconstrucție și Dezvoltare acceptarea de către România a amendamentului propus prin Rezoluția nr. 696 din 10 iulie 2023 la Acordul Băncii Internaționale pentru Reconstrucție și Dezvoltare, la care România a aderat prin Decretul Consiliului de Stat nr. 494/1972 , publicată în Buletinul Oficial nr. 146 din 9 decembrie 1972."
+    }
+  ],
+  "definitions": []
+}

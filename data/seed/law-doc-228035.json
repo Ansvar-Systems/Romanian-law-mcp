@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-228035",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 22 iulie 2020",
+  "short_name": "lege 144 22 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-22",
+  "in_force_date": "2020-07-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228035",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 22/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 15 octombrie ca Ziua națională a comerțului electronic."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ziua națională a comerțului electronic poate fi organizată de către autoritățile administrației publice centrale și locale, de către persoane fizice sau juridice, precum și de către societatea civilă, împreună sau separat, prin organizarea și/sau participarea la manifestări sau acțiuni cu caracter social sau științific, cu scopul informării și conștientizării cu privire la existența comerțului electronic."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Autoritățile administrației publice centrale și locale pot acorda, în limita alocațiilor bugetare aprobate, fonduri din bugetele proprii, precum și suport logistic, pentru organizarea manifestărilor și acțiunilor prevăzute la art. 2."
+    }
+  ],
+  "definitions": []
+}

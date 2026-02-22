@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-193920",
+  "type": "statute",
+  "title": "LEGE nr. 198 din 12 octombrie 2017",
+  "short_name": "lege 198 12 10 2017",
+  "status": "in_force",
+  "issued_date": "2017-10-12",
+  "in_force_date": "2017-10-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/193920",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 198 12/10/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 17 din 23 februarie 2017 privind unele măsuri în domeniul învățământului, publicată în Monitorul Oficial al României, Partea I, nr. 145 din 27 februarie 2017."
+    }
+  ],
+  "definitions": []
+}

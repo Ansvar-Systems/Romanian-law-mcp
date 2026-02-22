@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276271",
+  "type": "statute",
+  "title": "LEGE nr. 345 din 10 noiembrie 2023",
+  "short_name": "lege 345 10 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-10",
+  "in_force_date": "2023-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276271",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 345 10/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 187 din 28 decembrie 2022 privind unele măsuri pentru îndeplinirea unor jaloane din Planul național de redresare și reziliență în domeniul investițiilor publice și analizelor de cheltuieli, publicată în Monitorul Oficial al României, Partea I, nr. 1271 din 29 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

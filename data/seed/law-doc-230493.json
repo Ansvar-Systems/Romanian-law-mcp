@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-230493",
+  "type": "statute",
+  "title": "LEGEA nr. 209 din 25 septembrie 2020 (*republicată*)",
+  "short_name": "lege 209 25 09 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-25",
+  "in_force_date": "2020-09-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/230493",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 209 25/09/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prin lucrător frontalier, în sensul prezentei legi, se înțelege persoana care îndeplinește, cumulativ, următoarele condiții: a) își exercită activitatea profesională pe teritoriul unui stat vecin, altul decât cel de domiciliu/reședință/rezidență, în baza unui contract de muncă valabil, încheiat pe durată nedeterminată sau pe durată determinată; b) revine periodic, zilnic sau cel puțin săptămânal, în statul de domiciliu/reședință/rezidență. (2) În baza acordurilor bilaterale încheiate între statele menționate la alin. (1) , angajatorii lucrătorilor frontalieri eliberează, la cerere, un certificat privind încadrarea în muncă a acestora."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În punctele de trecere a frontierei de stat rutiere unde infrastructura o permite, Ministerul Afacerilor Interne, prin Poliția de Frontieră Română, deschide benzi speciale de trecere dedicate lucrătorilor frontalieri care posedă certificatul prevăzut la art. 1 alin. (2) ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Afacerilor Interne, prin Inspectoratul General al Poliției de Frontieră, asigură personal de specialitate, echipamente specifice de control și infrastructura de comunicații și informatică, în vederea operaționalizării benzilor speciale de trecere prevăzute la art. 2 , cu sprijinul administratorilor acestora, dacă este cazul."
+    }
+  ],
+  "definitions": []
+}

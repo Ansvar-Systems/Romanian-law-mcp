@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275936",
+  "type": "statute",
+  "title": "LEGE nr. 299 din 1 noiembrie 2023",
+  "short_name": "lege 299 01 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-01",
+  "in_force_date": "2023-11-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275936",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 299 01/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 66 din 11 mai 2022 pentru completarea Legii nr. 16/2017 privind detașarea salariaților în cadrul prestării de servicii transnaționale, publicată în Monitorul Oficial al României, Partea I, nr. 476 din 12 mai 2022."
+    }
+  ],
+  "definitions": []
+}

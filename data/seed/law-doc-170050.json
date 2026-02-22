@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-170050",
+  "type": "statute",
+  "title": "LEGE nr. 204 din 16 iulie 2015",
+  "short_name": "lege 204 16 07 2015",
+  "status": "in_force",
+  "issued_date": "2015-07-16",
+  "in_force_date": "2015-07-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/170050",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 204 16/07/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Guvernul Republicii Cehe privind mormintele de război, semnat la Bucureşti la 6 octombrie 2014."
+    }
+  ],
+  "definitions": []
+}

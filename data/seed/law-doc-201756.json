@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201756",
+  "type": "statute",
+  "title": "LEGE nr. 137 din 18 iunie 2018",
+  "short_name": "lege 137 18 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201756",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 137 18/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 7 din 22 februarie 2018 privind modificarea Legii nr. 54/2016 pentru asigurarea de la bugetul de stat, prin bugetul Ministerului Sănătății, a sumelor necesare acoperirii plății TVA aferente bunurilor și serviciilor achiziționate în cadrul Programului privind reducerea poverii tuberculozei în România, prin reformarea sistemului de control al tuberculozei și consolidarea gestionării tuberculozei rezistente la medicamente, prin asigurarea accesului universal la diagnostic și tratament și abordarea nevoilor grupurilor de populație cu risc, pentru perioada 1 aprilie 2015-31 martie 2018, implementat de Fundația Romanian Angel Appeal, publicată în Monitorul Oficial al României, Partea I, nr. 177 din 26 februarie 2018."
+    }
+  ],
+  "definitions": []
+}

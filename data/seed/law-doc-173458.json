@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173458",
+  "type": "statute",
+  "title": "LEGE nr. 300 din 25 noiembrie 2015",
+  "short_name": "lege 300 25 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-25",
+  "in_force_date": "2015-11-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173458",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 300 25/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 34 din 26 august 2015 privind aprobarea plăţii contribuţiei anuale de participare a României la Comitetul pentru Investiţii sesiune lărgită din Cadrul Organizaţiei pentru Cooperare şi Dezvoltare Economică şi pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, adoptată în temeiul art. 1 pct. I.7 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 651 din 27 august 2015."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-241175",
+  "type": "statute",
+  "title": "LEGE nr. 97 din 19 aprilie 2021",
+  "short_name": "lege 97 19 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-19",
+  "in_force_date": "2021-04-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241175",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 97 19/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 99 din 14 decembrie 2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, publicată în Monitorul Oficial al României, Partea I, nr. 1.005 din 19 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

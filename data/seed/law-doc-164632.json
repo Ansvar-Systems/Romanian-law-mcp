@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-164632",
+  "type": "statute",
+  "title": "LEGE nr. 5 din 7 ianuarie 2015",
+  "short_name": "lege 5 07 01 2015",
+  "status": "in_force",
+  "issued_date": "2015-01-07",
+  "in_force_date": "2015-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/164632",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 5 07/01/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Înţelegerea în domeniul securităţii sociale dintre Guvernul României şi Guvernul Quebecului, semnată la Quebec la 19 noiembrie 2013."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257004",
+  "type": "statute",
+  "title": "LEGE nr. 196 din 4 iulie 2022",
+  "short_name": "lege 196 04 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-04",
+  "in_force_date": "2022-07-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257004",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 196 04/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 28 din Legea nr. 370/2004 pentru alegerea Președintelui României, republicată în Monitorul Oficial al României, Partea I, nr. 650 din 12 septembrie 2011, cu modificările și completările ulterioare, după alineatul (1) se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Nu pot candida persoanele care, la data depunerii candidaturii, au fost condamnate definitiv la pedepse privative de libertate pentru infracțiuni săvârșite cu intenție, dacă nu a intervenit reabilitarea, amnistia postcondamnatorie sau dezincriminarea."
+    }
+  ],
+  "definitions": []
+}

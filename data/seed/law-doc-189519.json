@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189519",
+  "type": "statute",
+  "title": "LEGE nr. 113 din 24 mai 2017",
+  "short_name": "lege 113 24 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-24",
+  "in_force_date": "2017-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189519",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 113 24/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 89 din 29 noiembrie 2016 privind instituirea cadrului legal pentru facilitarea transportului gratuit pe calea ferată română în vederea exercitării dreptului de vot la alegerile parlamentare din data de 11 decembrie 2016 de către elevii şi studenţii din România, publicată în Monitorul Oficial al României, Partea I, nr. 978 din 6 decembrie 2016."
+    }
+  ],
+  "definitions": []
+}

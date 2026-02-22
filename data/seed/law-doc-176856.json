@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176856",
+  "type": "statute",
+  "title": "LEGE nr. 29 din 17 martie 2016",
+  "short_name": "lege 29 17 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-17",
+  "in_force_date": "2016-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176856",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 29 17/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Convenţia dintre România şi Republica Bulgaria pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnată la Craiova la 24 aprilie 2015."
+    }
+  ],
+  "definitions": []
+}

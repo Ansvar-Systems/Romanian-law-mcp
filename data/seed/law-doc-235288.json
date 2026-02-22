@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-235288",
+  "type": "statute",
+  "title": "LEGE nr. 289 din 15 decembrie 2020",
+  "short_name": "lege 289 15 12 2020",
+  "status": "in_force",
+  "issued_date": "2020-12-15",
+  "in_force_date": "2020-12-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/235288",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 289 15/12/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 108 din 1 iulie 2020 pentru completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 595 din 7 iulie 2020 cu următoarea modificare: – La articolul I punctul 1 , litera g) a alineatului (1) al articolului 30 se modifică și va avea următorul cuprins: g) activitățile din industria de armament referitoare la: fabricarea, manipularea, transportul nitroglicerinei, explozivilor, pulberilor negre, pulberilor fără fum, produselor pirotehnice în unitățile de producție a explozivilor, precum și fabricarea nitrocelulozelor și a celuloidului în aceleași unități de producție a explozivilor; fabricarea munițiilor și a elementelor de muniții, locurile de muncă în care se execută operații cu exploziv de inițiere, exploziv cu caracteristică de sensibilitate mare, precum și locurile de muncă în care se execută operații cu explozivi aromatici, la care angajații vin în contact direct cu aceștia; operații de distrugere a munițiilor încărcate și a elementelor de muniții încărcate, a pulberilor, a explozivilor și a produselor pirotehnice; delaborarea munițiilor și a elementelor pirotehnice încărcate cu substanțe explozive sau incendiare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) De prevederile art. 30 alin. (4^3) și art. 56 alin. (1) lit. d) , alin. (2) lit. d) și alin. (3) lit. d) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, beneficiază, la cerere, și persoanele ale căror drepturi de pensie s-au deschis anterior datei intrării în vigoare a prezentei legi. (2) Drepturile de pensie recalculate conform alin. (1) se acordă începând cu luna următoare celei în care a fost depusă solicitarea. (3) În situația în care, după aplicarea prevederilor alin. (1) și (2), rezultă un cuantum al pensiei mai mic decât cel cuvenit sau aflat în plată, se păstrează cuantumul mai avantajos."
+    }
+  ],
+  "definitions": []
+}

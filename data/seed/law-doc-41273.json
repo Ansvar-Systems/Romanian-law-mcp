@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-41273",
+  "type": "statute",
+  "title": "LEGE nr. 4 din 9 ianuarie 2003",
+  "short_name": "lege 4 09 01 2003",
+  "status": "in_force",
+  "issued_date": "2003-01-09",
+  "in_force_date": "2003-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/41273",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4 09/01/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 124 din 2 octombrie 2002 pentru modificarea și completarea Legii nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, publicată în Monitorul Oficial al României, Partea I, nr. 740 din 10 octombrie 2002, cu următoarea completare: – La articolul I, după punctul 5 se introduce punctul 5^1 cu următorul cuprins: 5^1. Alineatul (1) al articolului 86 va avea următorul cuprins: Articolul 86 (1) Pentru crearea de noi locuri de muncă prin înființarea sau dezvoltarea de întreprinderi mici și mijlocii, unități cooperatiste, asociații familiale, precum și activități independente desfășurate de persoane fizice autorizate se pot acorda, din bugetul asigurărilor pentru șomaj, credite în condiții avantajoase."
+    }
+  ],
+  "definitions": []
+}

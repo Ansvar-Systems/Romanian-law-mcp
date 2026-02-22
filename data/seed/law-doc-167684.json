@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-167684",
+  "type": "statute",
+  "title": "LEGE nr. 94 din 30 aprilie 2015",
+  "short_name": "lege 94 30 04 2015",
+  "status": "in_force",
+  "issued_date": "2015-04-30",
+  "in_force_date": "2015-04-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167684",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 94 30/04/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Organizaţia Internaţională de Poliţie Criminală - INTERPOL privind privilegiile şi imunităţile participanţilor la cea de-a 43-a Conferinţă Regională Europeană a Organizaţiei Internaţionale de Poliţie Criminală - INTERPOL de la Bucureşti, încheiat prin schimb de scrisori*) semnate la 30 ianuarie 2015 la Bucureşti şi la 25 februarie 2015 la Lyon, denumit în continuare Acord. Notă ────────── *) Traducere. ──────────"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prevederile Acordului se aplică în perioada 12-22 mai 2015."
+    }
+  ],
+  "definitions": []
+}

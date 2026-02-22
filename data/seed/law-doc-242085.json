@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242085",
+  "type": "statute",
+  "title": "LEGE nr. 126 din 6 mai 2021",
+  "short_name": "lege 126 06 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-06",
+  "in_force_date": "2021-05-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242085",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 126 06/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 180 din 22 octombrie 2020 pentru modificarea și completarea Legii nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, a Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, precum și pentru stabilirea unor măsuri cu privire la acordarea concediilor medicale, publicată în Monitorul Oficial al României, Partea I, nr. 982 din 23 octombrie 2020, cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

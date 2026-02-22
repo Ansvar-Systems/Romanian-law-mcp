@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-209382",
+  "type": "statute",
+  "title": "LEGE nr. 329 din 21 decembrie 2018",
+  "short_name": "lege 329 21 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-21",
+  "in_force_date": "2018-12-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209382",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 329 21/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 7 din Legea nr. 185/2017 privind asigurarea calității în sistemul de sănătate, publicată în Monitorul Oficial al României, Partea I, nr. 599 din 26 iulie 2017, alineatul (5) se modifică și va avea următorul cuprins: (5) Acreditarea este o condiție obligatorie pentru unitățile sanitare care prestează sau nu servicii în relație cu sistemul public de asigurări de sănătate, cu excepția cabinetelor de medicină de familie, a cabinetelor medicale dentare și a cabinetelor medicale din ambulatoriul de specialitate organizate conform Ordonanței Guvernului nr. 124/1998 privind organizarea și funcționarea cabinetelor medicale, republicată, cu modificările și completările ulterioare, și Legii societăților nr. 31/1990, republicată , cu modificările și completările ulterioare, precum și a laboratoarelor de analize medicale și de anatomie patologică. Prezenta lege nu se aplică unităților farmaceutice - farmacii și oficine de circuit deschis."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 249, partea introductivă a alineatului (3) se modifică și va avea următorul cuprins: (3) CNAS încheie contracte cu unitățile sanitare acreditate, precum și cu cabinetele de medicină de familie, cabinetele medicale dentare și cabinetele medicale din ambulatoriul de specialitate organizate conform Ordonanței Guvernului nr. 124/1998 privind organizarea și funcționarea cabinetelor medicale, republicată, cu modificările și completările ulterioare, și Legii societăților nr. 31/1990, republicată, cu modificările și completările ulterioare, precum și cu laboratoarele de analize medicale și de anatomie patologică, care respectă următoarele condiții: 2. La articolul 249, alineatul (4) se abrogă."
+    }
+  ],
+  "definitions": []
+}

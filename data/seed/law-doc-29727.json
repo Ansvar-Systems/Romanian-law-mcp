@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-29727",
+  "type": "statute",
+  "title": "LEGE nr. 433 din 18 iulie 2001",
+  "short_name": "lege 433 18 07 2001",
+  "status": "in_force",
+  "issued_date": "2001-07-18",
+  "in_force_date": "2001-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/29727",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 433 18/07/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 5 din 11 ianuarie 2001 privind unele măsuri pentru accelerarea și finalizarea procesului de privatizare a Societății Naționale de Telecomunicații \"Romtelecom\" S.A., publicată în Monitorul Oficial al României, Partea I, nr. 28 din 16 ianuarie 2001, cu următoarea modificare: – Articolul 1 va avea următorul cuprins: Articolul 1 Pentru accelerarea și finalizarea procesului de privatizare a Societății Naționale de Telecomunicații «Romtelecom» - S.A. Ministerul Comunicațiilor și Tehnologiei Informatiei preia de la Autoritatea pentru Privatizare și Administrarea Participatiilor Statului toate atribuțiile legate de exercitarea drepturilor și obligațiilor pe care statul le are în calitatea sa de acționar la aceasta societate."
+    }
+  ],
+  "definitions": []
+}

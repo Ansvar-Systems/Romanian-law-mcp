@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-256092",
+  "type": "statute",
+  "title": "LEGE nr. 174 din 9 iunie 2022",
+  "short_name": "lege 174 09 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-09",
+  "in_force_date": "2022-06-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/256092",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 174 09/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Moldova privind recunoașterea reciprocă a diplomelor, certificatelor și titlurilor științifice, semnat la București la 23 noiembrie 2021."
+    }
+  ],
+  "definitions": []
+}

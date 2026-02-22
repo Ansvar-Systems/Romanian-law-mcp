@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-244043",
+  "type": "statute",
+  "title": "LEGE nr. 185 din 1 iulie 2021",
+  "short_name": "lege 185 01 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-01",
+  "in_force_date": "2021-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244043",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 185 01/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 86^1 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată în Monitorul Oficial al României, Partea I, nr. 1 din 3 ianuarie 2008, cu modificările și completările ulterioare, după alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: (2^1) Prin excepție de la prevederile alin. (2), în situația în care copilului cu dizabilități îi sunt eliberate, consecutiv, două certificate de încadrare în grad de handicap grav, fiecare având termenul de valabilitate de 2 ani, ulterior, Comisia pentru protecția copilului eliberează un certificat valabil până la vârsta de 18 ani, pe baza unor criterii biopsihosociale specifice, elaborate de Ministerul Sănătății împreună cu Ministerul Muncii și Protecției Sociale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 60 de zile de la data intrării în vigoare a prezentei legi se aprobă prin ordin comun al ministrului sănătății și al ministrului muncii și protecției sociale criteriile biopsihosociale prevăzute la art. 86^1 alin. (2^1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, precum și cu completările aduse prin prezenta lege."
+    }
+  ],
+  "definitions": []
+}

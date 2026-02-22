@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239311",
+  "type": "statute",
+  "title": "LEGE nr. 35 din 16 martie 2021",
+  "short_name": "lege 35 16 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239311",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 35 16/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 77 din 21 mai 2020 pentru completarea Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică, publicată în Monitorul Oficial al României, Partea I, nr. 432 din 22 mai 2020."
+    }
+  ],
+  "definitions": []
+}

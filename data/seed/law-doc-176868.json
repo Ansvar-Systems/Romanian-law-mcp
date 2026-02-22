@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176868",
+  "type": "statute",
+  "title": "LEGE nr. 28 din 17 martie 2016",
+  "short_name": "lege 28 17 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-17",
+  "in_force_date": "2016-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176868",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 28 17/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Convenţia dintre România şi Republica Italiană pentru evitarea dublei impuneri cu privire la impozitele pe venit şi prevenirea evaziunii fiscale şi Protocolul adiţional la convenţie, semnate la Riga la 25 aprilie 2015."
+    }
+  ],
+  "definitions": []
+}

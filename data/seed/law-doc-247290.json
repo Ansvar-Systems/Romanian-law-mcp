@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247290",
+  "type": "statute",
+  "title": "LEGE nr. 243 din 8 octombrie 2021",
+  "short_name": "lege 243 08 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-08",
+  "in_force_date": "2021-10-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247290",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 243 08/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (3) al articolului 1 din Legea nr. 406/2001 privind acordarea unor drepturi persoanelor care au avut calitatea de șef al statului român, publicată în Monitorul Oficial al României, Partea I, nr. 386 din 16 iulie 2001, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: (3) Nu beneficiază de prevederile prezentei legi persoana căreia i-a încetat calitatea de șef al statului român ca urmare a săvârșirii unei infracțiuni pentru care a fost condamnată definitiv sau ca urmare a demiterii din funcție prin referendum și nici persoana despre care s-a constatat definitiv că a avut calitatea de lucrător al Securității sau de colaborator al acesteia."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-270211",
+  "type": "statute",
+  "title": "LEGE nr. 123 din 15 mai 2023",
+  "short_name": "lege 123 15 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-15",
+  "in_force_date": "2023-05-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270211",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 123 15/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea fondului funciar nr. 18/1991, republicată în Monitorul Oficial al României, Partea I, nr. 1 din 5 ianuarie 1998, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 11, după alineatul (4) se introduce un nou alineat, alineatul (5), cu următorul cuprins: (5) Prevederile alin. (4) nu se aplică situațiilor prevăzute la art. 27 alin. (2^1). 2. La articolul 27, alineatul (2^1) se modifică și va avea următorul cuprins: (2^1) Deținătorii sau moștenitorii acestora care nu s-au înscris în cooperativa agricolă de producție, nu au predat sau nu li s-au preluat la stat terenurile prin acte translative de proprietate pot solicita, la cerere, comisiei județene emiterea titlului de proprietate în condițiile prezentei legi, astfel: a) dacă deținătorii sau moștenitorii acestora figurează cu terenul în registrele agricole sau registrele cadastrale și în evidențele fiscale; b) pentru terenul în cauză nu a fost deschisă carte funciară în baza Legii cadastrului și a publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare; c) terenul nu face obiectul cererilor de reconstituire sau constituire a dreptului de proprietate de către alte persoane și nici nu s-a eliberat anterior titlu de proprietate cu privire la acesta. 3. La articolul 92 alineatul (2), litera c) se modifică și va avea următorul cuprins: c) care servesc activităților pentru protecția animalelor, agricole și/sau serviciilor conexe, respectiv: depozite de îngrășăminte minerale ori naturale, construcții de compostare, silozuri pentru furaje, magazii, șoproane, silozuri pentru depozitarea și conservarea semințelor de consum, inclusiv spațiile administrative aferente acestora, platformele și spațiile de depozitare a produselor agricole primare, adăposturi de animale și exploatații zootehnice/ferme zootehnice, sere, solare, răsadnițe, ciupercării, obiective specifice producerii de energie electrică din surse regenerabile, exclusiv în scopul asigurării energiei pentru consumul propriu al exploatației, amplasate în cadrul fermelor, spații de prelucrare/procesare/comercializare a produselor vegetale și zootehnice, imobile cu destinație agroturistică pentru proiectele cu finanțare din fonduri europene;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 6 luni de la intrarea în vigoare a prezentei legi, deținătorii sau moștenitorii terenurilor prevăzuți la art. 27 alin. (2^1) din Legea fondului funciar nr. 18/1991, republicată , cu modificările și completările ulterioare, pot depune cerere personal sau prin poștă, cu confirmare de primire, pentru emiterea titlului de proprietate, la primăria localităților în a cărei rază teritorială se află terenul."
+    }
+  ],
+  "definitions": []
+}

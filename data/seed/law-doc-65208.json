@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-65208",
+  "type": "statute",
+  "title": "LEGE nr. 256 din 21 septembrie 2005",
+  "short_name": "lege 256 21 09 2005",
+  "status": "in_force",
+  "issued_date": "2005-09-21",
+  "in_force_date": "2005-09-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/65208",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 256 21/09/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 47 din 1 iunie 2005 privind unele măsuri care trebuie luate pentru punerea în aplicare a Legii nr. 348/2004 privind denominarea monedei naționale, publicată în Monitorul Oficial al României, Partea I, nr. 492 din 10 iunie 2005, cu următoarea modificare: – Articolul 4 va avea următorul cuprins: Articolul 4 Prin excepție de la prevederile art. 3, salariile de bază, pensiile, indiferent de sursa de finanțare, și indemnizațiile de șomaj vor fi întregite la un leu în favoarea persoanei care beneficiază de dreptul respectiv."
+    }
+  ],
+  "definitions": []
+}

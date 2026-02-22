@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-260288",
+  "type": "statute",
+  "title": "LEGE nr. 282 din 10 octombrie 2022",
+  "short_name": "lege 282 10 10 2022",
+  "status": "in_force",
+  "issued_date": "2022-10-10",
+  "in_force_date": "2022-10-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/260288",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 282 10/10/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 75 din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 75 (1) Un medic de familie poate fi titularul unui singur cabinet. (2) Cabinetele de medicină de familie pot deschide cel mult două puncte secundare de lucru dacă solicitantul asigură un program fracționat de minimum 10 ore pe săptămână în norma lui de bază sau peste norma lui de bază. (3) Punctele de lucru pot fi deschise în mediul rural în aceeași unitate administrativ-teritorială sau în alte unități unde există deficit de medici stabilit de către o comisie organizată la nivelul direcțiilor de sănătate publică județene sau a municipiului București, alcătuită din: – un reprezentant al casei de asigurări de sănătate județene sau a municipiului București; – un reprezentant al direcției de sănătate publică județene sau a municipiului București; – un reprezentant al colegiului județean al medicilor sau al municipiului București. (4) Serviciile medicale prestate potrivit prevederilor alin. (2) și (3) sunt decontate în integralitate, conform legislației în vigoare, indiferent dacă au fost prestate de către medicul de familie titular al cabinetului sau de către medicii angajați ai cabinetului. (5) Autoritățile administrației publice locale pot acorda facilități și stimulente aferente înființării și funcționării punctului secundar de lucru, în conformitate cu dispozițiile legale în vigoare. (6) În baza dispozițiilor alin. (5), autoritățile administrației publice locale pot încheia cu reprezentantul legal al punctului secundar de lucru un contract civil în care să se consemneze drepturile și obligațiile părților. (7) Prevederile alin. (5) și (6) se aplică și punctelor de lucru deja înființate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 60 de zile de la intrarea în vigoare a prezentei legi, Ministerul Sănătății și Casa Națională de Asigurări de Sănătate vor modifica normele de aplicare a contractului-cadru în acord cu prevederile din prezenta lege."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196420",
+  "type": "statute",
+  "title": "LEGE nr. 10 din 5 ianuarie 2018",
+  "short_name": "lege 10 05 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196420",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 05/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 8 din 4 august 2017 pentru modificarea și completarea Ordonanței Guvernului nr. 29/2015 privind gestionarea și utilizarea fondurilor externe nerambursabile și a cofinanțării publice naționale, pentru obiectivul „Cooperare teritorială europeană“, în perioada 2014-2020, adoptată în temeiul art. 1 pct. III.5 din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 649 din 8 august 2017."
+    }
+  ],
+  "definitions": []
+}

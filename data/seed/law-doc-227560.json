@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-227560",
+  "type": "statute",
+  "title": "LEGE nr. 102 din 2 iulie 2020",
+  "short_name": "lege 102 02 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-02",
+  "in_force_date": "2020-07-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227560",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 102 02/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea societăților nr. 31/1990, republicată în Monitorul Oficial al României, Partea I, nr. 1.066 din 17 noiembrie 2004, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. Articolul 14 se abrogă. 2. La articolul 17, alineatele (1) și (3) se modifică și vor avea următorul cuprins: Articolul 17 (1) La autentificarea actului constitutiv în cazurile prevăzute la art. 5 sau, după caz, la darea de dată certă a acestuia se va prezenta dovada eliberată de oficiul registrului comerțului privind disponibilitatea și rezervarea firmei. .................................................................................................. (3) La înmatricularea societății și la schimbarea sediului social se va prezenta la sediul oficiului registrului comerțului documentul care atestă dreptul de folosință asupra spațiului cu destinație de sediu social înregistrat la organul fiscal din cadrul Agenției Naționale de Administrare Fiscală în a cărui circumscripție se situează imobilul cu destinație de sediu social. 3. La articolul 17, alineatul (4) se abrogă. 4. La articolul 17, după alineatul (5) se introduce un nou alineat, alineatul (6), cu următorul cuprins: (6) Avizul privind schimbarea destinației imobilelor colective cu regim de locuință, prevăzut de Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor, cu modificările ulterioare, nu este necesar atunci când administratorul sau, după caz, administratorii declară pe propria răspundere faptul că la sediul social nu se desfășoară activitate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Guvernul va revizui normele metodologice de aplicare a prezentelor modificări în termen de 60 de zile de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

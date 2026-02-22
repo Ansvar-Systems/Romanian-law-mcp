@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270028",
+  "type": "statute",
+  "title": "LEGE nr. 111 din 8 mai 2023",
+  "short_name": "lege 111 08 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-08",
+  "in_force_date": "2023-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270028",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 111 08/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 156 din 3 septembrie 2020 privind unele măsuri pentru susținerea dezvoltării teritoriale a localităților urbane și rurale din România cu finanțare din fonduri externe nerambursabile, publicată în Monitorul Oficial al României, Partea I, nr. 820 din 7 septembrie 2020, cu următoarea modificare: – La articolul 6, alineatul (10) se modifică și va avea următorul cuprins: (10) Pentru regiunea București-Ilfov repartizarea fondurilor destinate pentru dezvoltare urbană în cadrul programului operațional pentru categoriile de intervenții prevăzute la art. 1 alin. (1) se face după următoarele reguli: a) 50% din fondurile alocate pentru dezvoltare urbană se repartizează pentru Primăria Generală a Municipiului București și pentru primăriile de sector, pe bază de apel de proiecte de tip competitiv; b) 50% din fondurile alocate pentru dezvoltare urbană se repartizează pentru cele 8 orașe din județul Ilfov, pe bază de apel de proiecte de tip competitiv."
+    }
+  ],
+  "definitions": []
+}

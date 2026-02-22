@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239222",
+  "type": "statute",
+  "title": "LEGE nr. 26 din 15 martie 2021",
+  "short_name": "lege 26 15 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-15",
+  "in_force_date": "2021-03-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239222",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 26 15/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 9 din 4 februarie 2020 privind aprobarea Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 150 de unități de învățământ preuniversitar de stat, publicată în Monitorul Oficial al României, Partea I, nr. 93 din 7 februarie 2020, cu rectificarea publicată în Monitorul Oficial al României, Partea I, nr. 1195 din 8 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

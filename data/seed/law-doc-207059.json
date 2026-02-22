@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-207059",
+  "type": "statute",
+  "title": "LEGE nr. 263 din 14 noiembrie 2018",
+  "short_name": "lege 263 14 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-14",
+  "in_force_date": "2018-11-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/207059",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 263 14/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Tratatul de extrădare dintre România și Republica Argentina , semnat la New York la 22 septembrie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-220024",
+  "type": "statute",
+  "title": "LEGE nr. 228 din 25 noiembrie 2019",
+  "short_name": "lege 228 25 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-25",
+  "in_force_date": "2019-11-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/220024",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 228 25/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 4 din 30 ianuarie 2019 privind reorganizarea sistemului național de clasificare a carcaselor de bovine, porcine și ovine, precum și monitorizarea, controlul și raportarea prețurilor de piață a carcaselor și ale animalelor vii, adoptată în temeiul art. 1 pct. III.1 din Legea nr. 4/2019 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 81 din 31 ianuarie 2019."
+    }
+  ],
+  "definitions": []
+}

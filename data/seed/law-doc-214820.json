@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-214820",
+  "type": "statute",
+  "title": "LEGE nr. 112 din 4 iunie 2019",
+  "short_name": "lege 112 04 06 2019",
+  "status": "in_force",
+  "issued_date": "2019-06-04",
+  "in_force_date": "2019-06-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/214820",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 112 04/06/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 16 din 9 aprilie 2014 privind modificarea și completarea Legii educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 266 din 10 aprilie 2014, cu următoarea modificare: – La articolul unic punctul 1, articolul 253 se abrogă."
+    }
+  ],
+  "definitions": []
+}

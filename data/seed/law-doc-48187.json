@@ -1,0 +1,56 @@
+{
+  "id": "law-doc-48187",
+  "type": "statute",
+  "title": "LEGE nr. 502 din 26 noiembrie 2003",
+  "short_name": "lege 502 26 11 2003",
+  "status": "in_force",
+  "issued_date": "2003-11-26",
+  "in_force_date": "2003-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/48187",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 502 26/11/2003",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "Parlamentul României adoptă prezenta lege."
+    },
+    {
+      "provision_ref": "Par.2",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "Se aprobă Ordonanța Guvernului nr. 33 din 30 ianuarie 2003 privind înființarea Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV, adoptată în temeiul art. 1 pct. II.11 din Legea nr. 680/2002 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 62 din 1 februarie 2003, cu următoarea modificare: – La articolul 1, alineatele (3) , (4) și (5) se abrogă."
+    },
+    {
+      "provision_ref": "Par.3",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "Această lege a fost adoptată de Camera Deputaților în ședința din 21 octombrie 2003, cu respectarea prevederilor art. 74 alin. (2) din Constituția României ."
+    },
+    {
+      "provision_ref": "Par.4",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "Această lege a fost adoptată de Senat în ședința din 13 noiembrie 2003, cu respectarea prevederilor art. 76 alin. (2) din Constituția României , republicată."
+    },
+    {
+      "provision_ref": "Par.5",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "București, 26 noiembrie 2003."
+    },
+    {
+      "provision_ref": "Par.6",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "Nr. 502."
+    },
+    {
+      "provision_ref": "Par.7",
+      "section": "7",
+      "title": "Paragraful 7",
+      "content": "-----"
+    }
+  ],
+  "definitions": []
+}

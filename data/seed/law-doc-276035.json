@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276035",
+  "type": "statute",
+  "title": "LEGE nr. 310 din 3 noiembrie 2023",
+  "short_name": "lege 310 03 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-03",
+  "in_force_date": "2023-11-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276035",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 310 03/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 53 din 28 iunie 2018 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, publicată în Monitorul Oficial al României, Partea I, nr. 549 din 2 iulie 2018."
+    }
+  ],
+  "definitions": []
+}

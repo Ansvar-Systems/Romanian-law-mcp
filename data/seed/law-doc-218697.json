@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-218697",
+  "type": "statute",
+  "title": "LEGE nr. 165 din 3 octombrie 2019",
+  "short_name": "lege 165 03 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-03",
+  "in_force_date": "2019-10-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/218697",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 165 03/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După alineatul (1) al articolului 234 din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, se introduc trei noi alineate, alineatele (2)-(4), cu următorul cuprins: (2) La cerere, casa de asigurări de sănătate la care este luată în evidență persoana asigurată comunică în termen de 45 de zile persoanei asigurate sau reprezentantului legal al acesteia, după caz, lista cu serviciile medicale, medicamentele și dispozitivele medicale de care a beneficiat persoana asigurată în anul precedent, decontate din bugetul Fondului național unic de asigurări sociale de sănătate, cu precizarea contravalorii acestora, a furnizorilor care le-au efectuat/eliberat, precum și a datei efectuării/eliberării acestora. (3) Lista cu serviciile medicale, medicamentele și dispozitivele medicale de care a beneficiat persoana asigurată în anul precedent, decontate din bugetul Fondului național unic de asigurări sociale de sănătate, va putea fi accesată de asigurat și prin intermediul dosarului electronic al pacientului. (4) CNAS efectuează, anual sau ori de câte ori este cazul, analize, studii și prelucrări de date în scopul transparentizării modului în care serviciile medicale, medicamentele și dispozitivele medicale sunt decontate din bugetul Fondului național unic de asigurări sociale de sănătate, cu respectarea dispozițiilor legale privind protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 60 de zile de la intrarea în vigoare a prezentei legi, Ministerul Sănătății va elabora normele metodologice pentru implementarea acesteia."
+    }
+  ],
+  "definitions": []
+}

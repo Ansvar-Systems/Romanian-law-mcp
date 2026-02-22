@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-211906",
+  "type": "statute",
+  "title": "LEGE nr. 51 din 18 martie 2019",
+  "short_name": "lege 51 18 03 2019",
+  "status": "in_force",
+  "issued_date": "2019-03-18",
+  "in_force_date": "2019-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/211906",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 51 18/03/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul de aderare a Republicii Macedonia de Nord la Tratatul Atlanticului de Nord , semnat la Bruxelles la 6 februarie 2019."
+    }
+  ],
+  "definitions": []
+}

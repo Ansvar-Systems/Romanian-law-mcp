@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166513",
+  "type": "statute",
+  "title": "LEGE nr. 51 din 19 martie 2015",
+  "short_name": "lege 51 19 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-19",
+  "in_force_date": "2015-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166513",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 51 19/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 4 din 23 iulie 2014 privind prorogarea unor termene prevăzute în Ordonanţa de urgenţă a Guvernului nr. 2/2014 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi pentru modificarea şi completarea unor acte normative, adoptată în temeiul art. 1 pct. X din Legea nr. 119/2014 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 556 din 28 iulie 2014."
+    }
+  ],
+  "definitions": []
+}

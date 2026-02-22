@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-284180",
+  "type": "statute",
+  "title": "LEGE nr. 192 din 19 iunie 2024",
+  "short_name": "lege 192 19 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-19",
+  "in_force_date": "2024-06-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/284180",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 192 19/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La alineatul (1) al art. 456 din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, după lit. x) se introduce o nouă literă, lit. x^1), cu următorul cuprins: x^1) clădirile clasate ca monumente istorice, de arhitectură sau arheologice, indiferent de titularul dreptului de proprietate sau de administrare, care nu au fațada stradală și/sau principală renovată sau reabilitată conform prevederilor Legii nr. 422/2001 privind protejarea monumentelor istorice, republicată, cu modificările și completările ulterioare, pentru perioada realizării lucrărilor de renovare sau reabilitare, începând cu data autorizației de construcție și până la data procesului-verbal de recepție finală privind lucrările efectuate, cu respectarea prevederilor Ordonanței de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 , aprobată cu modificări și completări prin Legea nr. 20/2015, cu modificările și completările ulterioare;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În cazul lucrărilor de renovare sau reabilitare în curs de execuție la data intrării în vigoare a legii pentru completarea alin. (1) al art. 456 din Legea nr. 227/2015 privind Codul fiscal , scutirea se aplică potrivit prevederilor art. III , până la data procesului-verbal de recepție finală."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Prevederile prezentei legi intră în vigoare la data de 1 ianuarie 2025."
+    }
+  ],
+  "definitions": []
+}

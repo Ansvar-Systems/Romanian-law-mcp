@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30646",
+  "type": "statute",
+  "title": "LEGE nr. 742 din 2 noiembrie 1940",
+  "short_name": "lege 742 02 11 1940",
+  "status": "in_force",
+  "issued_date": "1940-11-02",
+  "in_force_date": "1940-11-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30646",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 742 02/11/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Sînt scutite de taxa timbrului de aviatie de un leu, prevăzută de legea fondului naţional al aviaţiei din 13 Octomvrie 1938, petitiunile adresate autorităţilor publice de către refugiatii din teritoriile cedate, atunci cînd sînt făcute în legătură cu evacuarea. Aceasta scutire se aplică şi petitiunilor din categoria de mai sus, care au fost înaintate autorităţilor fără sa fi fost timbrate cu timbrul aviaţiei. -------------"
+    }
+  ],
+  "definitions": []
+}

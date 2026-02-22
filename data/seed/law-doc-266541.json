@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-266541",
+  "type": "statute",
+  "title": "LEGE nr. 72 din 31 martie 2023",
+  "short_name": "lege 72 31 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-31",
+  "in_force_date": "2023-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266541",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 72 31/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 150 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, publicată în Monitorul Oficial al României, Partea I, nr. 555 din 5 iulie 2019, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 150 (1) Primarul depune jurământul prevăzut la art. 117 în ședința privind ceremonia de constituire a consiliului local sau în fața judecătorului delegat, în camera de consiliu, în cazul în care ședința privind ceremonia de constituire a consiliului local nu are loc în termen de 30 de zile de la data alegerilor sau în cazul când, din alte motive temeinice, acesta nu a putut depune jurământul în această ședință. Încheierea judecătorului delegat este definitivă și se comunică de îndată prefectului și secretarului general al unității/subdiviziunii administrativ-teritoriale."
+    }
+  ],
+  "definitions": []
+}

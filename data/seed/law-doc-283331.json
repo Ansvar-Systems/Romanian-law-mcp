@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283331",
+  "type": "statute",
+  "title": "LEGE nr. 152 din 24 mai 2024",
+  "short_name": "lege 152 24 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-24",
+  "in_force_date": "2024-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283331",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 152 24/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 97 din 9 noiembrie 2023 pentru aprobarea Planului de amenajare a spațiului maritim, publicată în Monitorul Oficial al României, Partea I, nr. 1027 din 10 noiembrie 2023."
+    }
+  ],
+  "definitions": []
+}

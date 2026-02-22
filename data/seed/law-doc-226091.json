@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-226091",
+  "type": "statute",
+  "title": "LEGE nr. 67 din 26 mai 2020",
+  "short_name": "lege 67 26 05 2020",
+  "status": "in_force",
+  "issued_date": "2020-05-26",
+  "in_force_date": "2020-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/226091",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 67 26/05/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 9 din Legea apelor nr. 107/1996 , publicată în Monitorul Oficial al României, Partea I, nr. 244 din 8 octombrie 1996, cu modificările și completările ulterioare, după alineatul (4) se introduc două noi alineate, alineatele (5) și (6), cu următorul cuprins: (5) Sursele de apă subterană, apă curgătoare, lacurile și lacurile de acumulare cu folosință energetică pot fi utilizate pentru irigații, fără plata contribuției specifice de gospodărire a apelor, pe perioada stării de urgență instituite pe teritoriul României prin Decretul nr. 195/2020 , precum și pe o perioadă de 6 luni de la încetarea acesteia. (6) Pe durata stării de urgență instituite pe teritoriul României prin Decretul nr. 195/2020 , precum și pe o perioadă de 6 luni de la încetarea acesteia, pentru obținerea avizelor de gospodărire a apelor în vederea executării lucrărilor de investiții în infrastructura de irigații se vor elimina toate taxele, iar termenele de eliberare a acestora vor fi reduse la jumătate."
+    }
+  ],
+  "definitions": []
+}

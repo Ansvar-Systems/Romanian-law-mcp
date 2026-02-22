@@ -1,0 +1,560 @@
+{
+  "id": "law-doc-12",
+  "type": "statute",
+  "title": "LEGE nr. 93 din 13 aprilie 1933",
+  "short_name": "lege 93 13 04 1933",
+  "status": "in_force",
+  "issued_date": "1933-04-13",
+  "in_force_date": "1933-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/12",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 93 13/04/1933",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Partea I - Cadastrul funciar şi cărţile funduare | Capitolul 1 - Dispoziţiuni generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se institue regimul cadastral şi de carte funduara pentru toate proprietăţile funciare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Partea I - Cadastrul funciar şi cărţile funduare | Capitolul 1 - Dispoziţiuni generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cadastrul funciar cuprinde descrierea tuturor proprietăţilor funciare şi reprezentarea lor topografica pe harti."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Partea I - Cadastrul funciar şi cărţile funduare | Capitolul 1 - Dispoziţiuni generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Cartea funduara cuprinde descrierea proprietăţilor funciare cu arătarea drepturilor reale imobiliare. Drepturile personale, faptele, sau raporturile juridice în legătură cu bunurile cuprinse în cartea funduara, vor fi înscrise în cartea funduara, numai în cazurile cînd legea prevede expres aceasta înscriere."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Partea I - Cadastrul funciar şi cărţile funduare | Capitolul 2 - Organele de aplicare a legii",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Lucrările tehnice de cadastru se vor executa de Ministerul Agriculturii şi Domeniilor în regie, în întreprindere, sau cum se va găsi mai avantajos pentru Stat, pe bază de caiete de sarcini alcătuite de Direcţia Cadastrului şi aprobate de Ministru cel mai târziu pînă la finele lunei Ianuarie a fiecărui an."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Partea I - Cadastrul funciar şi cărţile funduare | Capitolul 2 - Organele de aplicare a legii",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Pentru redactarea şi administrarea judiciară a cărţilor funduare se înfiinţează în măsura necesităţilor pe lîngă judecătoriile din circumscripţiile Curţilor de Apel Bucureşti, Chişinău, Constanta, Craiova, Galaţi şi Iaşi câte o secţiune de carte funduara condusă de un judecător dintre judecătorii în funcţiune, un director de carte funduara, un ajutor de director de carte funduara şi personalul necesar."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Partea I - Cadastrul funciar şi cărţile funduare | Capitolul 2 - Organele de aplicare a legii",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Pe lîngă Ministerul Justiţiei va funcţiona, dela promulgarea legii de faţa, un consiliu al cărţilor funduare format din patru jurişti numiţi de Ministerul de justiţie şi un inginer cadastral numit de Ministerul Agriculturii şi Domeniilor, cu îndatorirea de a da Ministerului de Justiţie avize asupra normelor, directivelor, instrucţiunilor şi regulamentelor necesare, desavarsirii lucrărilor de redactare, rectificare şi punere în funcţiune a cărţilor funduare. Ministerul de Justiţie poate angaja şi da delegaţie magistraţilor pensionari şi funcţionarilor fosti în serviciul cărţilor funduare, pentru aplicarea dispoziţiunilor cuprinse în articolele dela 39 pînă la 42."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 1 - Principii generale",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Scopul cadastrului funciar este: a) De a procura elementele necesare infiintarii, completării, rectificarii sau reconstituirii cărţilor funduare şi hartilor acestora; b) De a crea o baza justa pentru stabilirea contributiunilor publice asupra proprietăţilor funciare. c) De a facilita executarea lucrărilor de reforma agrară, de colonizare şi de comasare a proprietăţilor; d) De a da siguranţa tranzactiunilor asupra imobilelor şi a înlesni creditul funciar; e) De a cunoaşte întinderea şi valoarea economică a proprietăţilor imobiliare ale Statului şi particularilor."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 1 - Principii generale",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Părţile esenţiale ale cadastrului sînt: a) Hartile cadastrale, planurile şi schiţele lor; b) Registrul cadastral; c) Dosarele pe baza cărora s'au făcut inscripţiunile cadastrale, şi d) Indexele cadastrale."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 1 - Principii generale",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Lucrările cadastrale se vor face pe comune. Fiecare comuna constituie unul sau mai multe teritorii cadastrale. Se socoteşte proprietate funciară în înţelesul acestei legi, o parte a suprafeţei naturale a solului, care este despartita de părţile invecinate prin o delimitare stabilă şi vizibila sau prin hotar de exploatare, diferind de părţile invecinate prin felul de cultura sau folosinţă. Fiecare proprietate funciară este desenată geometriceste în cadastrul funciar. Proprietatea funciară astfel desenată se numeşte parcela şi este individualizata prin un număr. Terenul din cuprinsul aceleaşi proprietăţi, dacă nu depăşeşte 100 mp pentru vii, grădini şi terenuri neproductive, sau 800 mp pentru celelalte proprietăţi, nu va forma o parcela, ci se va uni la o parcela invecinata a aceluiaşi posesor cu care are o identitate mai apropiată în ce priveşte venitul cadastral. Dacă însă acest teren prezintă un interes istoric, sau este grevat deosebit de sarcini, el va forma o parcela distinctă."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 1 - Principii generale",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Proprietatea funciară va fi indicată după următoarele ramuri de cultura sau folosinţă: A. Imobile cu venit cadastral, adică imobile care principal sînt supuse contributiunilor publice după destinaţiunea lor economică, se împart în: a) Arabile; b) Faneata; c) Grădini; d) Vii; e) Păşuni; f) Păduri, zăvoaie (bercuri); g) Trestis (stufaris); h) Balti, lacuri naturale şi artificiale întrucât nu intră în prevederile punctului B. B. Imobile fără venit cadastral şi anume: a) Terenuri cladite şi curţi; b) Terenuri neproductive, balti, mlastini, lacuri naturale sau artificiale întru cat nu se exploatează economic, sau nu aduc vreun venit prin exploatarea pescuitului sau a turbei."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 1 - Principii generale",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Dosarele cadastrului funciar sînt publice. Funcţionarii însărcinaţi cu păstrarea lor le vor pune la dispoziţiunea celor interesaţi, cari le vor putea cerceta numai în prezenta funcţionarului. Ei vor libera copii legalizate dacă petitionarii achită taxele stabilite de Ministerul Agriculturii şi Domeniilor."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Operaţiunile cadastrale de măsurătoare, necesare realizării cadastrului funciar, se vor face potrivit planului Ministerului Agriculturii şi Domeniilor. Lucrările de geodezie se vor executa conform unui regulament special. Operaţiunile tehnice cadastrale începute nu pot fi întrerupte decât la 15 Decemvrie şi reincepute la 1 Martie. Lucrările de detaliu se vor executa potrivit aprobării Ministerului Agriculturii şi Domeniilor, pe baza avizului tehnic al Directiunii Cadastrului, prin orice metoda grafica, numerică, fotogrametrica sau combinate. Operaţiunile de măsurare şi cartografiere, se vor face şi unde ele exista, se vor rectifica pe baza sistemului metric."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Pentru executarea lucrărilor tehnice cadastrale, Statul este în drept a folosi, fără despăgubire, orice imobile particulare în scopul asezarii semnalelor de triangulatie, piramidelor geodezice, de poligonare, măsurare şi de nivelment. El poate expropria portiunile de teren necesare asezarii semnalelor geodezice atunci cînd proprietarul terenului s'ar opune la aceasta aşezare. Procedura va fi aceea prevăzută în legea de expropriere pentru cauza de utilitate publică."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Delegaţii tehnici cadastrali şi ajutorii lor însărcinaţi cu operaţiunile de triangulatie cu construcţii de semnale sau de piramide, în operaţiunile de măsurătoare, clasificare, revizuire sau de control sînt îndreptăţiţi a avea acces la imobilele străine şi a lua probe din sol necesare pentru analize chimice."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Delimitarea hotarelor comunale se va face potrivit dispoziţiunilor prevăzute în legea pentru organizarea administraţiei locale. Ministerul Agriculturii şi Domeniilor, Direcţiunea Cadastrului, va tine la dispoziţia comisiunilor administrative de delimitare comunală, delegaţii săi, pentru toate referinţele şi lucrările tehnice necesare."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Acolo unde hotarele comunale sînt stabilite şi necontestate de părţi, rămînînd astfel definitive, fie prin necontestarea lucrărilor comisiunilor de delimitare, fie prin epuizarea căilor de atac prevăzute de legile administrative, delegatul cadastrului va executa schita hotarelor, însemnând punctele fixate şi va consemna în procesul sau verbal şi descrierea lor topografica. Hotarele comunale vor fi însemnate cu pietre de delimitare, tip cadastral, stabile şi vizibile, după care se va proceda la masuratoarea parcelara. Costul pietrelor de delimitare a hotarelor va fi suportat în mod obligator de comunele interesate la delimitare în măsura intereselor lor."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Inginerul delegat va comunică primăriei cu cel puţin 30 zile înainte începerea operaţiunilor tehnice. Primarul va înştiinţa prin afişare şi prin mijloacele de publicitate obişnuite în comuna pe posesorii terenurilor să se prezinte în persoana sau prin mandatarii lor autorizaţi pentru a da lămuriri privitoare la identificarea şi limitele posesiunilor."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Înainte de începerea lucrărilor de măsurare parcelara, autorităţile comunale vor trasa şi fixa pe teren prin semne vizibile şi stabile drumurile de exploatare şi drumurile de hotare, iar posesorii proprietăţilor funciare vor fixa prin semne vizibile limitele posesiunilor lor. Comunele vor pune la dispoziţia delegaţilor şi comisiunilor în mod gratuit birourile necesare, asigurându-le posibilitatea de a lucra."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Delegatul Directiunii Cadastrului asistat de doi delegaţi ai primăriei, ascultând pe cei interesaţi, va proceda la: a) Identificarea, măsurarea şi delimitarea proprietăţilor funciare, precum şi la stabilirea posesiunilor imobiliare din comuna; b) Constatarea acordului posesorilor invecinati asupra hotarelor terenurilor; c) Înregistrarea litigiilor de hotare şi precizarea portiunilor litigioase în cazul cînd s'ar ivi neintelegeri între posesorii invecinati. În cazul unor astfel de neintelegeri inginerul cadastral va fixa ambele hotare provizorii a suprafeţelor litigioase. d) Întocmirea planului parcelar cadastral al comunei şi indicatorului alfabetic şi topografic al posesorilor. Cetele de moşneni, obştiile săteşti, precum şi celelalte colectivităţi de persoane, cari fără a forma o asociaţiune cu caracter de persoana juridică sînt de obşte cunoscute sub o denumire colectivă, vor fi înscrise în indicatorul alfabetic cu denumirea lor colectivă; tot odată se va alcătui un tablou potrivit hotărîrilor judecătoreşti şi a legilor speciale în vigoare, cu numele persoanelor individuale, care împreună constituesc colectivitatea, notandu-se în dreptul fiecărui devălmaş şi partea ce i se cuvine, determinata în fracţiuni, în raport cu întregul. Acest tablou va fi anexat indicatorului alfabetic din care face parte integrantă. Dacă persoanele individuale, care constituesc colectivitatea, poseda imobilul în părţi divizate, aceasta se va nota de asemenea în tablou; Despre toate lucrările se vor încheia procese-verbale."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Ministerul Agriculturii şi Domeniilor, prin personalul de control, va verifica lucrările tehnice de măsurare, executate de inginerul delegat. Aceasta verificare se va putea face şi în etape, înainte de terminarea lucrărilor de măsurare parcelara în măsura în care inginerul şi-a terminat lucrările în comuna, sau într'o parte a acesteia."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "După verificarea lucrărilor cadastrale într'o comuna, pe teren, delegatul cadastrului va face cunoscut celor interesaţi planurile întocmite pentru ca ei să poată cere eventuale rectificari."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "După terminarea operaţiunilor cadastrale pe teren, delegatul cadastrului va calcula suprafaţa imobilelor măsurate şi va redacta în ordinea numerilor topografice, registrul cadastral funciar. Acesta va fi redactat pe comune şi va fi completat de comisiunea de clasificare prevăzută de art. 29."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Registrul cadastral funciar va cuprinde în esenta următoarele: a) Numărul topografic al parcelelor şi indicarea părţii de hotar în care se afla; b) Ramura de cultura potrivit indicatiunilor dela art. 10, clasa şi îmbunătăţirile aflate pe bunurile imobiliare; c) Suprafaţa parcelelor în hectare şi mp; d) Venitul net cadastral; e) Numele şi pronumele posesorilor, eventual porecla şi domiciliul acestora."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 2 - Operaţiunile cadastrale",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Un exemplar din registrul cadastral cu anexele lui şi cu planul original cadastral se vor păstra în arhiva Directiunei Cadastrului. Al doilea exemplar împreună cu planul cadastral şi cu indicatorul topografic şi alfabetic al posesorilor va fi predat judecătoriei pentru redactarea foilor de carte funduara. Cu aceasta ocaziune vor fi predate judecătoriei şi procesele-verbale şi schiţele referitoare la litigiile privind limitele proprietăţilor invecinate, constatate cu ocazia masuratoarei. Al treilea exemplar al registrului cadastral, împreună cu planurile de posesiune şi registrul alfabetic al posesorilor, se va preda comisiunii cadastrale pentru clasificarea şi evaluarea proprietăţilor, în vederea completarei."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 3 - Normele şi lucrările cadastrale de clasificare",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "În vederea stabilirii venitului cadastral, Ministerul Agriculturii şi Domeniilor va fixa pe ţara regiuni de evaluare după ce va lua şi avizul Camerelor de agricultura. Regiunile se împart în zone după condiţiile solului, climei, legăturilor de comunicaţie şi economice. În fiecare zona şi pentru fiecare ramura de cultura se desemnează terenuri de model pentru determinarea claselor de calitate a parcelelor. Numărul claselor de calitate în interiorul unei zone nu poate depăşi opt clase într'o ramura de cultura. Fiecare proprietate funciară cu venit cadastral se va ingloba într'o clasa de calitate prin comparatie cu terenurile model."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 3 - Normele şi lucrările cadastrale de clasificare",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Parcelele avînd o suprafaţa pînă la 5.000 mp vor fi cuprinse într'o singura clasa rezultată din media claselor ce le compun. Proprietăţile temporar ameliorate se vor clasifica la fel cu proprietăţile invecinate neameliorate. Pădurile formate dintr'un singur trup mai mic de 30 ha, se vor considera ca o singura clasa după însuşirea solului, densitatea şi esenta arborilor aflaţi în trupul clasificat. Pădurile formate dintr'un singur trup mai mare de 30 ha, cu diferenţe însemnate în valoarea solului, densitatea şi esenta arborilor se vor considera ca făcînd parte din mai multe clase de calitate."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 3 - Normele şi lucrările cadastrale de clasificare",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Ministerul Agriculturii şi Domeniilor va publică pe regiuni venitul cadastral la clasele de calitate stabilite în zonele de clasificare pentru fiecare ramura de cultura, luînd ca baza venitul mediu al terenului de model. Venitul cadastral este cîştigul net ce rămîne pentru posesorul imobilului după scăderea cheltuielilor obişnuite în zona de clasificare şi necesare culturei solului şi producţiei în sistemul de economie al majorităţii posesorilor. La calcularea acestor cheltuieli nu se va lua în considerare situaţiunea materială individuală a posesorului şi nici sarcinile ce grevează imobilul. La evaluarea venitului unor asfel de parcele care în întregime sau numai parţial sînt amenajate cu instalatiuni de apărare sau ameliorare mai importante (diguri de apărare contra inundaţiilor, instalatiuni de irigatiune sau drenaj, apărări de maluri şi iazuri etc.), şi care reclama o permanenta cheltuiala de întreţinere şi funcţionare, se va adaoga şi aceasta cheltuiala la spesele de exploatare."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 3 - Normele şi lucrările cadastrale de clasificare",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Modificările provizorii făcute ramurilor de cultura pe o parcela nu vor forma obiect de procedura sau modificare cadastrala. Se exceptează numai viile cari, distruse de insecte vătămătoare, boale criptogamice sau alte împrejurări, au fost desfiinţate şi destinate vremelnic pentru alta cultura, precum şi terenurile distruse de inundaţii, întru cat li s'ar fi schimbat complet compozitia lor. Dacă via va fi refăcută, posesorul sau este obligat a declara aceasta la primăria comunală în termen de 60 zile dela data începerii lucrărilor de refacere. Primăria va informa Serviciul cadastral respectiv."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 3 - Normele şi lucrările cadastrale de clasificare",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Ministerul Agriculturii şi Domeniilor, Direcţiunea Cadastrului, după terminarea operaţiunilor tehnice, va dispune în termen de cel mai târziu doua luni executarea lucrărilor de clasificare pe teren. Lucrările de clasificare pe teren se vor executa de comisiunea cadastrala de clasificare compusa din: 1. Delegatul cadastrului ca preşedinte. 2. Primarul (preşedintele comisiei interimare) sau inlocuitorul sau, împreună cu membrii comitetului agricol local. 3. Notarul comunei ca secretar. Începerea lucrărilor comisiunii va fi anunţată prin primărie, după formele uzitate în localitate, cu 30 zile înainte. Lucrările comisiunii sînt publice. Cei interesaţi sînt obligaţi sa dea acesteia toate lămuririle de care va avea nevoie. Despre lucrările comisiunii se vor încheia procese verbale în doua exemplare, din care unul se va păstra în arhiva comunală ca document în legătură cu clasificarea proprietăţilor cadastrale funciare, iar al doilea va fi predat Directiunii Cadastrului."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 3 - Normele şi lucrările cadastrale de clasificare",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Cei nemultumiti cu evaluarea venitului cadastral vor putea face în termen de 30 zile întâmpinare motivată la comisiunea agricolă judeteana de evaluare, formată din inspectorul de evaluare cadastrala ca preşedinte, din un delegat al Camerei agricole şi un delegat al administraţiei financiare. Comisiunea apreciind va rectifica erorile de evaluare ţinînd seama de clasa de calitate a solului şi de zona în care este situat. Împotriva hotărîrii Comisiei judeţene cei interesaţi vor putea face întâmpinare în termen de 30 zile dela comunicarea acelei hotărîri prin organele administrative, la Ministerul Agriculturii şi Domeniilor."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 3 - Normele şi lucrările cadastrale de clasificare",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Lucrările de clasificare şi identificare cadastrala, rămase definitive, vor fi înaintate - de comisiunea prima - Inspectoratului de evaluare şi identificare cadastrala pentru completarea lor cu venitul net cadastral stabilit. După completarea lor cu venitul net cadastral stabilit, o copie a acestor lucrări va fi înaintată administraţiei financiare pentru fixarea impozitului agricol, iar alta copie va fi predată primăriei comunale. Actele originale vor fi păstrate în arhiva Directiunii Cadastrului."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 4 - Penalităţi referitoare la cadastru",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Cel care va distruge sau deplasa semnele de delimitare sau de măsurătoare este obligat a restitui Statului, comunelor sau celor interesaţi cheltuelile făcute cu restabilirea lor. Infractorul va plati părţii civile şi daune interese. Cei ce se vor opune ordinelor date de autorităţile competinte, relativ la lucrările cadastrale se vor pedepsi cu amendă dela 1.000-10.000 lei şi deosebit daune interese către Ministerul Agriculturii şi Domeniilor. De asemenea vor putea fi urmăriţi şi pe cale penală conform codurilor în vigoare."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 4 - Penalităţi referitoare la cadastru",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "Dacă unul sau mai mulţi membrii ai comisiunilor prevăzute în legea de faţa, fără motiv temeinic nu s'ar prezenta la termenele fixate, zadarnicind sau ingreunand lucrările prin aceasta lipsa, vor fi amendati cu amendă pînă la 200 lei în comunele rurale şi pînă la 500 lei în comunele urbane şi municipii. Cheltuielile în plus ivite din cauza amânării lucrărilor comisiunii vor fi suportate de membrul care a lipsit."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Partea II - Cadastru funciar | Capitolul 4 - Penalităţi referitoare la cadastru",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "Ofiţerii de poliţie judiciară, precum şi delegaţii cadastrului vor constata prin procese-verbale, contravenţiile la legea de faţa, inaintandu-le judecătoriei pentru a hotărî. Procesele-verbale de contravenţie nu pot fi anulate pentru vicii de forma. În termen de 10 zile libere dela comunicarea hotărîrii se poate face recurs la tribunalul locului unde s'a constatat contravenţia. El va fi motivat prin petitiunea de recurs sub pedeapsa de nulitate."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 1 - Părţile constitutive a cărţilor funduare şi cuprinsul lor",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Cartea funduara va cuprinde, în afară de titulatura, trei părţi: I. Descriptiunea imobilului şi inscripţiunile privitoare la imobil; II. Inscripţiunile privitoare la proprietate; III. Inscripţiunile privitoare la sarcini."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 1 - Părţile constitutive a cărţilor funduare şi cuprinsul lor",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Foaia de carte funduara conţine unul sau mai multe corpuri de carte funduara. Orice imobil care în natura sau cu privire la scopul economic urmărit de proprietar, formează o unitate economică, poate constitui un corp de carte funduara. Mai multe imobile aparţinînd aceluiaşi proprietar vor putea constitui un singur corp de carte funduara, cînd nu sînt gravate cu sarcini diferite şi au puncte comune de hotar. Acelaşi proprietar poate să aibă mai multe imobile înscrise pe diferite foi de carte funduara. Coproprietatea asupra imobilelor cari fac obiectul unui corp de carte funduara va fi înscrisă în fracţiuni determinate în raport cu întregul. Fiecare fracţiune astfel determinata, formând o proprietate distinctă, va putea fi grevata în mod separat cu sarcini. Dacă dintr'un registru de mutatiune sau din actele prezentate de părţi ar rezultă ca imobilul - obiectul cercetărilor - ar fi proprietatea a doua sau mai multe persoane în fracţiuni determinate în raport cu întregul şi întru cat aceşti coproprietari s'ar găsi totuşi în posesiunea unor părţi teritoriale distincte, la cererea unanima a coproprietarilor se va forma din parcelele ce sînt în posesia fiecăruia câte un corp de carte funduara, înscriindu-se într'o foaie separată sau adăugându-se, la cerere, la corpul funciar existent pentru aceeaşi persoana în acelaşi registru. Imobilele asupra cărora exista proprietate individuală pe etaje sau apartamente, vor forma atâtea corpuri de carte funduara câte proprietăţi individuale sînt. Astfel de imobile vor fi înscrise într'o foaie deosebită şi nu vor putea fi întrunite cu celelalte proprietăţi ale aceluiaşi proprietar."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 1 - Părţile constitutive a cărţilor funduare şi cuprinsul lor",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Imobilele cari potrivit normelor de drept civil în vigoare fac parte din domeniul public şi servesc la folosinţă tuturor, se vor înscrie în suplimentul cărţii funduare a comunei. Nu se vor înscrie în cartea funduara: a) Imobilele căilor ferate ale Statului, precum şi ale întreprinderilor de cale ferată pentru utilitate publică; b) Imobilele supuse regimului minier."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 1 - Părţile constitutive a cărţilor funduare şi cuprinsul lor",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "Înscrierea imobilelor în cartea funduara se va face numai pe baza lucrărilor cadastrale şi a planurilor acestora, întemeiate pe masuratoarea oficială a cadastrului."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 2 - Proiectul registrului de carte funduara",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "După primirea registrului cadastral funciar, a planului cadastral şi a indicatoarelor topografice şi alfabetice a posesorilor, judecătoria înştiinţează Ministerul Justiţiei, care, dacă s'au făcut şi lucrările prevăzute de art. 7, alin. 2, va dispune facerea lucrărilor de alcătuire a cărţilor funduare pe comune, delegand în acest scop un judecător. Acolo unde lucrările de măsurătoare cadastrala sînt terminate de mai mulţi ani, fără să se fi alcătuit documentele necesare redactarii cărţilor funduare, Direcţiunea Cadastrului va alcătui lucrările de măsurătoare şi va pregati fără întîrziere documentele necesare judecătorului delegat."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 2 - Proiectul registrului de carte funduara",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Judecătorul va comunică primăriei comunale cu cel puţin 30 de zile înainte, data începerii lucrărilor, cerând acesteia alcătuirea unui tablou de schimbările intervenite dela alcătuirea actelor cadastrului pînă la zi în posesiunile funciare. Judecătorul va verifica şi identifica terenurile, comparand parcelele din actele cadastrului, cu situaţiunea noua de fapt arătată în tabloul primăriei comunale. El va stabili care parcele de teren pot constitui prin ele insile corpuri de carte funduara, precum şi denumirile eventuale cu care un corp de carte funduara e îndeobşte cunoscut. Despre lucrările judecătorului se vor încheia procese-verbale pentru utilizarea lor la redactarea inscripţiunilor referitoare la proprietate. De asemenea judecătorul va aduna datele necesare din registrele de inscriptiuni şi transcripţiuni şi din registrele de proprietate, precum şi din hotărîrile definitive date în materie de reforma agrară."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 2 - Proiectul registrului de carte funduara",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Judecătorul-delegat, asistat de grefier, va stabili: a) Drepturile în legătură cu posesiunea imobilului, precum şi servituţile rurale şi urbane ce îl grevează; b) Drepturile de proprietate, coproprietate, de proprietate individuală, pe etaje sau apartamente, precum şi restrangerile privitoare la capacitatea proprietarilor. Despre cercetările şi stabilirile sale, judecătorul va încheia procese-verbale semnate şi de cei interesaţi, invitaţi pentru aceasta de primăria comunală, prin formele uzitate în comuna. Judecătorul va numi reprezentanţii acelor posesori incapabili, care trebuiesc citaţi şi ai căror reprezentanţi legali nu sînt cunoscuţi, sau dacă neputându-se infatisa, nu au numit mandatari. Neinfatisandu-se una din persoanele citate, magistratul care conduce cercetarea, îi va numi un reprezentant, dacă mersul lucrărilor ar necesita aceasta."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 2 - Proiectul registrului de carte funduara",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "După terminarea cercetărilor şi verificărilor, judecătorul-delegat va face inscripţiunile provizorii referitoare la posesiune şi la proprietate. Inscripţiunile referitoare la sarcini se vor face numai pentru servituţi rurale sau urbane şi pentru sarcinile necontestate de părţi. Un exemplar al acestora, împreună cu indicatoarele topografice şi alfabetice, cu schite şi planul parcelar cadastral, cu procesele-verbale dresate asupra cercetărilor făcute, vor fi depuse la judecătorie, secţia Cărţii funduare, iar al doilea exemplar la primăria comunală, pentru ca părţile interesate să poată lua act de inscripţiunile făcute."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 2 - Proiectul registrului de carte funduara",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Judecătoria, secţiunea de Carte funduara, primind actele, va invita prin ordonanţa inserată în Monitorul Oficial şi în Monitorul judeţului, asemenea prin afişare la sediul primăriilor comunale pe toţi cei interesaţi sa formuleze obiectiunile lor motivate referitoare la inscripţiunile din ele, în termen de 3 luni dela data afişării. Judecătoria apreciind, va prelungi termenul cu încă o luna. Primăria comunală, prin toate mijloacele de publicitate obişnuite în localitate, va înştiinţa pe cei interesaţi de cuprinsul ordonanţei judecătoriei."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 2 - Proiectul registrului de carte funduara",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "După expirarea termenului, judecătorul de carte funduara va proceda la examinarea memoriilor depuse, deplasandu-se în localitate. Obiectiunile contra exactitatii inscripţiunilor întemeiate pe orice acte publice şi particulare pot fi depuse atît la judecătorie, cat şi la primărie sau făcute verbal în faţa judecătorului. Primăria va transmite de îndată judecătoriei cererile cu toate anexele. Dacă aceste obiecţiuni se întemeiază pe acte cari nu erau cunoscute cînd s'au făcut primele cercetări, se vor lua măsuri pentru lămurirea desavarsita a inscripţiunilor făcute. Gasindu-se obiectiunile întemeiate, se vor face completările sau rectificările necesare. Rezultatul cercetărilor ca şi hotărîrea luată de magistrat se vor consemna în proces-verbal. Cu aceasta ocaziune vor fi soluţionate de către judecător şi litigiile privind limitele proprietăţilor invecinate, potrivit dreptului comun."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 2 - Proiectul registrului de carte funduara",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "După terminarea procedurii arătată în articolul precedent, toate actele se vor inainta secţiunii tribunalului de notariat, sau în lipsa, celei desemnate de primul-preşedinte. Tribunalul va examina dacă s'a procedat legal la cercetări şi întru cat va constata lipsuri, va lua dispoziţiuni pentru înlăturarea lor şi la nevoie va dispune noi cercetări, iar actele aflate în regula se vor inainta judecătoriei pentru redactarea proiectului de carte funduara."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "Proiectele cărţii funduare vor fi înaintate comisiunii de control de pe lîngă tribunal, dacă le va găsi alcătuite potrivit dispoziţiunilor legii de faţa, a regulamentelor şi instrucţiunilor le va declara prin ordonanţa prezidentiala, publicată în Monitorul Oficial şi afişată la sediul primăriei comunale şi a judecătoriei de ocol drept cărţi funduare legale şi va dispune începerea procedurii de rectificare."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "Ordonanţa Tribunalului va arata teritoriul pentru care s'au întocmit cărţile funduare, circumscripţiile judecătoreşti, locul unde cărţile funduare vor putea fi examinate de cei interesaţi şi data dela care acestea sînt declarate cărţi funduare legale. Ordonanţa va mai face cunoscut ca începînd dela ziua arătată, drepturile de proprietate, de ipoteca sau alte drepturi reale asupra imobilelor înscrise în cartea funduara nu se pot dobândi, margini, transfera asupra altor persoane sau desfiinta decât numai prin înscrierea în noul registru de proprietate. Ordonanţa va mai conţine somatiunea de a face declaraţiunile arătate în articolul următor; va indica instanţa la care se vor depune declaraţiunile şi va fixa termenul-care nu va fi mai lung de zece luni nici mai scurt de 4 luni-indicandu-se precis ziua în care termenul expira; va arata ca nerespectarea termenului va avea ca urmare legală pierderea dreptului de a valorifica pretentiunile supuse declaratiunii faţă de tertele persoane care au dobîndit cu buna credinţa drepturi reale pe baza inscripţiunilor făcute în noile cărţi funduare şi rămase necontestate."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "Vor fi somate a face declaraţiuni: a) Toate persoanele care, avînd un drept cîştigat înainte de ziua inaugurarii cărţilor funduare, ar pretinde o modificare a inscriptiunii privitoare la raportul de proprietate sau posesiune, indiferent dacă acea modificare ar trebui să se facă prin dezlipire, alipire sau transcriere, prin schimbarea caracterizarii imobilelor sau în alt mod; b) Toate persoanele care au dobîndit înainte de ziua inaugurarii cărţilor funduare drepturi de ipoteca, de servitute sau alte drepturi reale, asupra imobilelor înscrise în registru, întru cat aceste drepturi nefiind înscrise cu ocaziunea infiintarii noilor registre, vor putea să fie înscrise ca \"sarcini vechi\". Obligaţiunea de a face declaraţiunea subzistă şi în cazul cînd dreptul supus declaratiunii este invederat în registru proprietăţii sau într'un registru de transcripţiuni sau inscriptiuni, în registrul foilor dotale sau de urmărire, sau într'o deciziune, sentinta sau alta hotărîre judecătorească, sau dacă partea a introdus la o instanţa o cerere privitoare la acest drept. Ordonanţa va trebui sa menţioneze expres aceasta din urma dispoziţiune."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "Declaraţiunea facuta conform cu dispoziţiunea art. 48, litera a, va fi menţionată în cartea funduara. Dacă nu s'a făcut dovada ca s'a pornit proces asupra obiectului declaraţiunilor se va ordonă dezbatere din oficiu, atît cu persoanele contra cărora s'a făcut declaraţiunea, cat şi cu persoanele care conform cu conţinutul cărţii funduare au un interes juridic în cauza."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "Aceasta desbatere se va putea ordonă pentru lămurirea cauzei şi la faţa locului, dacă nu se va ajunge la un acord, părţile care au cerut modificarea inscriptiunii vor fi indrumate la proces, acordându-li-se pentru introducerea acţiunii un termen potrivit. Dacă părţile vor ajunge la un acord, modificarea inscriptiunii se va trece în cartea funduara."
+    },
+    {
+      "provision_ref": "Art.51",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "51",
+      "title": "Articolul 51",
+      "content": "Menţiunea declaratiunii va fi radiată dacă partea a pierdut termenul acordat pentru introducerea acţiunii sau dacă acţiunea introdusă a fost definitiv respinsă."
+    },
+    {
+      "provision_ref": "Art.52",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "52",
+      "title": "Articolul 52",
+      "content": "Au valoarea unei inscriptiuni funciare toate inscripţiunile existente la data inaugurarii cărţilor funduare, dacă nu s'a declarat în termenul fixat de ordonanţa nici o pretentiune contrară inscriptiunii, sau s'a pierdut termenul acordat pentru introducerea acţiunii, sau dacă acţiunea introdusă a fost definitiv respinsă."
+    },
+    {
+      "provision_ref": "Art.53",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "53",
+      "title": "Articolul 53",
+      "content": "Declaraţiunea facuta conform cu dispoziţiunea art. 48 litera b trebuie să arate rangul dreptului pretins, precum şi corpul de carte funduara asupra căruia trebuie să se facă inscriptiunea, indicând şi numărul foaiei cărţii funduare. În declaraţiune se va mai arata temeiul pe care se sprijină dreptul şi rangul pretins; documentele doveditoare se vor prezenta sau se vor arata unde sînt depuse sau înscrise."
+    },
+    {
+      "provision_ref": "Art.54",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "54",
+      "title": "Articolul 54",
+      "content": "Drepturile declarate ca sarcini, în conformitate cu dispoziţiunile art. 53, vor fi înscrise cu arătarea rangului pretins asupra corpului funciar respectiv, sub inscriptiunea \"sarcini vechi\"."
+    },
+    {
+      "provision_ref": "Art.55",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "55",
+      "title": "Articolul 55",
+      "content": "După expirarea termenului fixat în prima ordonanţa, pentru declaraţiunea drepturilor ca sarcini, Tribunalul va publică o a doua ordonanţa. Aceasta va arata de asemenea teritoriul peste care se întinde cartea funduara şi pentru care, în urma ordonanţei întâia, s'a făcut şi completat inscriptiunea sarcinilor vechi şi va soma pe toţi acei care prin existenta sau rangul unei inscriptiuni s'ar crede vătămaţi în drepturile lor, să facă contestaţia înăuntrul termenului fixat în ordonanţa, adăugându-se ca în caz contrar inscripţiunile vor avea valoare de inscriptiuni funciare. Termenul nu va fi mai scurt de 3 luni, nici mai lung de 6 luni. În ordonanţa se va indica precis după calendar ultima zi a termenului."
+    },
+    {
+      "provision_ref": "Art.56",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "56",
+      "title": "Articolul 56",
+      "content": "Contestaţia facuta în contra inscriptiunii unui drept ca sarcina sau în contra rangului se va menţiona în cartea funduara. Dacă nu s'a făcut dovada ca s'a pornit proces asupra obiectului contestaţiei, se va ordonă desbaterea din oficiu atît cu persoanele în contra cărora s'a îndreptat contestaţia, cat şi cu persoanele cari, conform cu conţinutul cărţii funduare, au un interes juridic în cauza. Ajungând părţile în cursul desbaterii la un acord asupra unei modificări a inscriptiunii, aceasta modificare va fi înscrisă în cartea funduara. Dacă însă părţile nu vor putea sa ajungă la un acord, instanţa va hotărî care dintre părţi, ale carei pretenţiuni au rămas contestate, va fi indrumata la proces, fixându-i-se în acest scop un termen care se va socoti din ziua în care hotărîrea a rămas definitivă."
+    },
+    {
+      "provision_ref": "Art.57",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "57",
+      "title": "Articolul 57",
+      "content": "Dacă făcându-se contestaţie, partea însăşi în favoarea căreia s'a făcut inscriptiunea, fiind indrumata la proces, n'a pornit procesul în termenul fixat sau a pierdut procesul prin sentinta definitivă, inscriptiunea se radiază sau se rectifica, precum existenta însăşi, sau numai rangul dreptului, a fost contestat. Dacă adversarul fiind indrumat la proces n'a pornit procesul în termenul fixat, sau a pierdut procesul prin sentinta definitivă, va fi radiată menţiunea contestaţiei, iar inscriptiunea va câştiga valoarea unei inscriptiuni funciare."
+    },
+    {
+      "provision_ref": "Art.58",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "58",
+      "title": "Articolul 58",
+      "content": "Au valoarea unei inscriptiuni funciare şi inscripţiunile cari au fost făcute în urma unei declaraţiuni, dacă înăuntrul termenului fixat prin ordonanţa nu s'a făcut în contra lor nicio contestaţie, sau în caz de contestaţie şi îndrumare la proces, partea a pierdut termenul pentru introducerea acţiunii sau a fost respinsă printr'o hotărîre definitivă."
+    },
+    {
+      "provision_ref": "Art.59",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "59",
+      "title": "Articolul 59",
+      "content": "În procedura de rectificare a cărţilor funduare, căile de atac în contra hotărîrilor judecătoreşti se regulează după dreptul comun."
+    },
+    {
+      "provision_ref": "Art.60",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "60",
+      "title": "Articolul 60",
+      "content": "Ordonanţele prevăzute în dispoziţiunile de mai sus se vor publică din oficiu de câte trei ori, fiecare, la intervale de cel puţin o luna, atît în Monitorul Oficial, cat şi în doua sau mai multe din cele mai răspândite ziare din circumscripţia Curţii de Apel şi se vor afişa şi anunta prin mijloacele obişnuite în comunele pentru cari conform cu textul ordonanţelor s'au înfiinţat noile cărţi funduare. În afară de publicarea ordonanţelor, se va avea grija ca părţile interesate să fie şi în alt mod lamurite asupra importantei procedurii de rectificare. Se vor lua în deosebi măsurile prevăzute de legi pentru apărarea drepturilor minorilor, precum şi celor puşi sub interdicţie sau asistaţi de un Consiliu judiciar."
+    },
+    {
+      "provision_ref": "Art.61",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "61",
+      "title": "Articolul 61",
+      "content": "Declaraţiunile şi contestaţiunile introduse după expirarea termenului fixat în ordonanţa se vor respinge din oficiu."
+    },
+    {
+      "provision_ref": "Art.62",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "62",
+      "title": "Articolul 62",
+      "content": "În procesele la care partea a fost indrumata în baza dispoziţiunilor de mai sus, competinţa instanţelor se regulează după dreptul comun."
+    },
+    {
+      "provision_ref": "Art.63",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "63",
+      "title": "Articolul 63",
+      "content": "Dacă asupra unui imobil sau unui drept real ce grevează acel imobil se eliberează un extras din cartea funduara, într'un timp cînd procedura de rectificare cu privire la acel imobil nu e încă terminată, aceasta împrejurare se va arata în extrasul liberat."
+    },
+    {
+      "provision_ref": "Art.64",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "64",
+      "title": "Articolul 64",
+      "content": "După determinarea procedurii oranduita prin articolele de mai sus, coalele cari aparţin aceleiaşi cărţi funduare vor fi prevăzute cu numerele de ordine şi legate în volum. Paginile fiecărui volum vor fi numerotate, numărul lor va fi indicat pe prima pagina şi adeverit de şeful instanţei, cu iscalitura lui proprie şi aplicarea sigiliului oficiului. Arhiva"
+    },
+    {
+      "provision_ref": "Art.65",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "65",
+      "title": "Articolul 65",
+      "content": "Dosarele privitoare la înfiinţarea cărţilor fundure se vor păstra în arhiva instanţei competenţa pentru ţinerea acestor registre. Pe lîngă fiecare carte funduara se vor păstra şi planurile funciare pentru demonstrarea situaţiei şi configuraţiei parcelelor. De asemenea se vor tine indice asupra parcelelor şi proprietarilor. Actele şi documentele pe baza cărora s'a făcut vreo inscriptiune în cartea funduara se vor păstra în copie legalizată la dosarul cartei funduare în care s'a trecut inscriptiunea. Procedura pentru completarea sau reconstituirea cărţilor funduare"
+    },
+    {
+      "provision_ref": "Art.66",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 3 - Declararea proiectelor drept cărţi funduare legale",
+      "section": "66",
+      "title": "Articolul 66",
+      "content": "Dispoziţiunile procedurii pentru înfiinţarea cărţilor funduare se vor aplica prin analogie şi în cazul cînd o carte funduara urmează să fie completată prin înscrierea unui imobil, care nu e încă înscris în niciun registru, precum şi în cazul cînd o carte funduara sau o parte urmează să fie reconstituita, dacă s'a distrus sau a devenit inutilizabila."
+    },
+    {
+      "provision_ref": "Art.67",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "67",
+      "title": "Articolul 67",
+      "content": "Institutiunile de cadastru existente în Ardeal, Banat şi Bucovina vor fi coordonate, supunându-le aceloraşi norme şi aceluiaşi regim, cu respectarea dispoziţiunilor din articolele 72 şi 75. Prin reambularea întregului teritoriu al acestor provincii, se va revizui, completa şi întru cat va fi necesar, se va restabili reţeaua de triangulatie; se vor revizui lucrările de identificare a tuturor terenurilor aşezate pe teritoriul amintit şi se vor înscrie în cadastru schimbările observate în configuratiunea, întinderea şi cultura terenurilor, precum şi persoana posesorilor lor."
+    },
+    {
+      "provision_ref": "Art.68",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "68",
+      "title": "Articolul 68",
+      "content": "Schimbările observate în configuratiunea, întinderea şi cultura terenurilor, precum şi în persoana posesorilor, vor fi comunicate instanţelor de carte funduara competenţa, care vor proceda la rectificarea cărţilor funduare conform legilor în vigoare pe teritoriul respectiv."
+    },
+    {
+      "provision_ref": "Art.69",
+      "chapter": "Partea III - Cărţile funduare | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "69",
+      "title": "Articolul 69",
+      "content": "Dacă s'ar constata ca o carte funduara în întregime sau pentru o parte însemnată a ei este cu totul obscura din cauza multiplelor schimbări ivite fie în cuprinsul imobilelor, fie în persoana proprietarilor, sau pentru orice alta cauza, Ministerul Justiţiei, în urma raportului documentat al instanţei funduare şi după avizul prealabil al tribunalului competent, va putea sa ordone chiar o noua înfiinţare a cărţii funduare a comunei, în întregime sau în parte, aplicându-se în acest caz dispoziţiunile legii de faţa."
+    },
+    {
+      "provision_ref": "Art.70",
+      "chapter": "Partea IV - Venituri | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "70",
+      "title": "Articolul 70",
+      "content": "Cheltuielile necesare lucrărilor de realizare a Cadastrului funciar şi de alcătuire a cărţilor funduare se vor acoperi din următoarele taxe anuale asupra venitului net impozabil a imobilelor şi anume: a) De 1% pentru livezile cu pomi şi vii; de 0,5% pentru terenurile arabile şi faneata; de 0,3% pentru pasune, şi de 0,5% asupra valorii locative a imobilelor orasanesti cladite. Clădirile noi nu sînt scutite de plată acestei taxe; b) Din taxele încasate după lucrările extraordinare a personalului Ministerului Agriculturii şi Domeniilor, Direcţiunea Cadastrului; c) Din amenzile încasate pentru infracţiunile în legătură cu lucrările cadastrale. Stabilirea taxelor pe venitul impozabil şi pe valoarea locativă a imobilelor cladite se va face de către primăriile comunale, iar încasarea lor de perceptiile Statului în conformitate cu dispoziţiunile legii pentru încasarea veniturilor publice."
+    },
+    {
+      "provision_ref": "Art.71",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "71",
+      "title": "Articolul 71",
+      "content": "De la data publicării legii de faţa, în afară de Ministerul Agriculturii şi Domeniilor, nicio autoritate nu este în drept a da dispoziţiuni cu caracter tehnic referitoare la completarea, rectificarea, reambularea, etc. lucrărilor cadastrale."
+    },
+    {
+      "provision_ref": "Art.72",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "72",
+      "title": "Articolul 72",
+      "content": "Lucrările cadastrale existente în tinuturile unite din fosta Monarhie Austro-Ungara rămîn în vigoare pînă cînd acestea vor putea fi revizuite, reambulate şi rectificate conform principiilor stabilite prin legea de faţa."
+    },
+    {
+      "provision_ref": "Art.73",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "73",
+      "title": "Articolul 73",
+      "content": "Lucrările tehnice de măsurătoare, parcelare, comasare şi în general orice lucrări în legătură cu aplicarea legilor de reforma agrară, de regulare a proprietăţii în Dobrogea-Noua şi Basarabia, se vor executa odată cu lucrările tehnice cadastrale prevăzute în legea de faţa."
+    },
+    {
+      "provision_ref": "Art.74",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "74",
+      "title": "Articolul 74",
+      "content": "Actualii antreprenori ai Directiunii Cadastrului, autorizaţi pentru lucrări de topometrie, avînd la baza cel puţin bacalaureatul sau studii echivalente conform dispoziţiilor prevăzute în legile învăţămîntului secundar, precum şi acei care sînt autorizaţi de cel puţin 10 ani pentru aceste lucrări, pot fi antreprenori pentru lucrările de geodezie şi cadastru numai după trecerea unui examen în specialitatea pentru care nu au fost autorizaţi pînă în prezent, organizat de Direcţiunea Cadastrului, cu un program analitic aprobat de Ministerul de Agricultura şi Domenii. Pentru lucrările de cadastru pot fi autorizaţi şi antreprenorii şi absolvenţii scoalelor de topometrie S. I-a şi S. II-a, inginerii hotarnici cari au lucrat pînă în prezent lucrări de reforma agrară timp de cinci ani."
+    },
+    {
+      "provision_ref": "Art.75",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "75",
+      "title": "Articolul 75",
+      "content": "Pe măsura ce lucrările de măsurătoare geodezica şi parcelara sînt complet terminate, toate legile şi regulamentele contrarii prezentei legi sînt şi rămîn abrogate. Legile şi regulamentele din tinuturile unite, referitoare la cărţile funduare, rămîn în vigoare pînă la revizuirea şi unificarea lor şi a dreptului imobiliar potrivit art. 137 din Constituţie."
+    },
+    {
+      "provision_ref": "Art.76",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "76",
+      "title": "Articolul 76",
+      "content": "Sînt scutite de timbre toate actele şi memoriile necesare părţilor pentru confecţionarea cărţilor funduare pînă la data declarării acestora ca registre legale de proprietate, precum şi actele în legătură cu procedura cadastrala pînă la definitivarea lucrărilor."
+    },
+    {
+      "provision_ref": "Art.77",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "77",
+      "title": "Articolul 77",
+      "content": "Regulamente de aplicare vor desvolta în mod amănunţit principiile legii de faţa, stabilind şi normele privitoare la evidenta cadastrului funciar, la rectificarea şi verificarea lui periodică, precum şi dispoziţiunile privitoare la coordonarea cărţilor funduare cu cadastrul."
+    },
+    {
+      "provision_ref": "Art.78",
+      "chapter": "Partea V - Dispoziţiuni finale şi tranzitorii | Capitolul 4 - Dispoziţiuni pentru Ardeal, Banat şi Bucovina",
+      "section": "78",
+      "title": "Articolul 78",
+      "content": "Legea de faţa intră în vigoare dela data publicării ei în Monitorul Oficial. Această lege s'a votat de Adunarea Deputaţilor în şedinţa dela 8 Aprilie anul 1933 şi s-a adoptat cu majoritate de una suta şase voturi, contra şase. Vicepreşedinte, VIRGIL GROSSU (L. S. A. D.). Secretar, N. S. Rusanescu Această lege s'a votat de Senat în şedinţa dela 11 Aprilie anul 1933 şi s'a adoptat cu majoritate de optzeci şi şase voturi, contra cinci. Preşedinte, N. COSTACHESCU (L. S. S.). Secretar, I. Eftimie Promulgăm această lege şi ordonăm ca ea să fie investită cu sigiliul Statului şi publicată în Monitorul Oficial. Data în Bucureşti, la 13 Aprilie 1933. (L. S. ST.). CAROL Ministrul agriculturii şi domeniilor, Dr. Voicu Nitescu Ministrul justiţiei, Mihai Popovici ----------------"
+    }
+  ],
+  "definitions": []
+}

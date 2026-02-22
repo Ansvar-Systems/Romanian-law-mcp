@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-40565",
+  "type": "statute",
+  "title": "LEGE nr. 651 din 7 decembrie 2002",
+  "short_name": "lege 651 07 12 2002",
+  "status": "in_force",
+  "issued_date": "2002-12-07",
+  "in_force_date": "2002-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/40565",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 651 07/12/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifica Acordul dintre Guvernul României și Guvernul Regatului Suediei privind promovarea și protejarea reciprocă a investițiilor, semnat la Stockholm la 29 mai 2002."
+    }
+  ],
+  "definitions": []
+}

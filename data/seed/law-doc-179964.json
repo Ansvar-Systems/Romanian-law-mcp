@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-179964",
+  "type": "statute",
+  "title": "LEGE nr. 136 din 7 iulie 2016",
+  "short_name": "lege 136 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/179964",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 136 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 10 din 31 iulie 2014 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2014, adoptată în temeiul art. 1 pct. I.2 din Legea nr. 119/2014 privind abilitarea Guvernului de a emite ordonanţe, publicată în Monitorul Oficial al României, Partea I, nr. 586 din 6 august 2014."
+    }
+  ],
+  "definitions": []
+}

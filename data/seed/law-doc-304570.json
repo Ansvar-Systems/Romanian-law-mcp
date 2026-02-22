@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-304570",
+  "type": "statute",
+  "title": "LEGE nr. 186 din 19 noiembrie 2025",
+  "short_name": "lege 186 19 11 2025",
+  "status": "in_force",
+  "issued_date": "2025-11-19",
+  "in_force_date": "2025-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/304570",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 186 19/11/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 74 din 21 iunie 2024 pentru modificarea unor acte normative în domeniul agriculturii, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, publicată în Monitorul Oficial al României, Partea I, nr. 589 din 25 iunie 2024."
+    }
+  ],
+  "definitions": []
+}

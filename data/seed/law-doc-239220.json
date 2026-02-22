@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239220",
+  "type": "statute",
+  "title": "LEGE nr. 25 din 15 martie 2021",
+  "short_name": "lege 25 15 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-15",
+  "in_force_date": "2021-03-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239220",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 25 15/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 46 din 9 aprilie 2020 pentru completarea art. 8 din Ordonanța de urgență a Guvernului nr. 11/2020 privind stocurile de urgență medicală, precum și unele măsuri aferente instituirii carantinei, publicată în Monitorul Oficial al României, Partea I, nr. 309 din 13 aprilie 2020."
+    }
+  ],
+  "definitions": []
+}

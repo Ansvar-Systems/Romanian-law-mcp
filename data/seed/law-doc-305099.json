@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305099",
+  "type": "statute",
+  "title": "LEGE nr. 213 din 10 decembrie 2025",
+  "short_name": "lege 213 10 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-10",
+  "in_force_date": "2025-12-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305099",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 213 10/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 118 din 26 august 2022 pentru completarea Ordonanței Guvernului nr. 26/2013 privind întărirea disciplinei financiare la nivelul unor operatori economici la care statul sau unitățile administrativ-teritoriale sunt acționari unici ori majoritari sau dețin direct ori indirect o participație majoritară, publicată în Monitorul Oficial al României, Partea I, nr. 846 din 29 august 2022."
+    }
+  ],
+  "definitions": []
+}

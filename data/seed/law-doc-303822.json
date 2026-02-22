@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303822",
+  "type": "statute",
+  "title": "LEGE nr. 176 din 30 octombrie 2025",
+  "short_name": "lege 176 30 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-30",
+  "in_force_date": "2025-10-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303822",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 176 30/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 136 din 27 noiembrie 2024 pentru completarea Ordonanței de urgență a Guvernului nr. 103/2006 privind unele măsuri pentru facilitarea cooperării polițienești internaționale, publicată în Monitorul Oficial al României, Partea I, nr. 1187 din 28 noiembrie 2024."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-206741",
+  "type": "statute",
+  "title": "LEGE nr. 257 din 12 noiembrie 2018",
+  "short_name": "lege 257 12 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-12",
+  "in_force_date": "2018-11-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/206741",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 257 12/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 68 din 5 octombrie 2017 pentru completarea Ordonanței de urgență a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule, publicată în Monitorul Oficial al României, Partea I, nr. 797 din 9 octombrie 2017."
+    }
+  ],
+  "definitions": []
+}

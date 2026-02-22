@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255603",
+  "type": "statute",
+  "title": "LEGE nr. 141 din 20 mai 2022",
+  "short_name": "lege 141 20 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-20",
+  "in_force_date": "2022-05-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255603",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 141 20/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 78 din 18 decembrie 2019 privind modificarea unor acte normative și stabilirea unor măsuri în domeniul agriculturii, precum și pentru aprobarea unor măsuri fiscal-bugetare, publicată în Monitorul Oficial al României, Partea I, nr. 1031 din 23 decembrie 2019."
+    }
+  ],
+  "definitions": []
+}

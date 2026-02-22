@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-174467",
+  "type": "statute",
+  "title": "LEGE nr. 351 din 23 decembrie 2015",
+  "short_name": "lege 351 23 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-23",
+  "in_force_date": "2015-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174467",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 351 23/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (1) al articolului 27 din Legea nr. 217/2003 pentru prevenirea şi combaterea violenţei în familie, republicată în Monitorul Oficial al României, Partea I, nr. 205 din 24 martie 2014, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"Art. 27. - (1) Cererile pentru emiterea ordinului de protecţie se judecă de urgenţă şi, în orice situaţie, soluţionarea acestora nu poate depăşi un termen de 72 de ore de la depunerea cererii. Cererile se judecă în camera de consiliu, participarea procurorului fiind obligatorie\"."
+    }
+  ],
+  "definitions": []
+}

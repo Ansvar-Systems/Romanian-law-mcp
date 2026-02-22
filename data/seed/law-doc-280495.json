@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-280495",
+  "type": "statute",
+  "title": "LEGE nr. 62 din 25 martie 2024",
+  "short_name": "lege 62 25 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-25",
+  "in_force_date": "2024-03-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280495",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 62 25/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 15 iulie ca „Ziua Mărcii Poștale Românești“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Romfilatelia - S.A. emite și difuzează anual un produs filatelic dedicat marcării „Zilei Mărcii Poștale Românești“."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Compania Națională Poșta Română - S.A. și Romfilatelia - S.A. organizează anual un târg al mărcilor poștale și al cărților poștale maxime, precum și, periodic, expoziții filatelice cu tematici diferite în care sunt expuse timbre poștale și emisiuni filatelice puse în circulație, de-a lungul vremii, în țară."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Autoritățile administrației publice locale, împreună cu inspectoratele școlare județene și Inspectoratul Școlar al Municipiului București, pot organiza, cu sprijinul cercurilor și asociațiilor filatelice locale, expoziții filatelice tematice."
+    }
+  ],
+  "definitions": []
+}

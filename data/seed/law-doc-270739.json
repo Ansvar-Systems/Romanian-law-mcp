@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-270739",
+  "type": "statute",
+  "title": "LEGE nr. 138 din 24 mai 2023",
+  "short_name": "lege 138 24 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-24",
+  "in_force_date": "2023-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270739",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 138 24/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 1, după litera c) se introduce o nouă literă, lit. c^1), cu următorul cuprins: c^1) prin medicină personalizată se înțelege îngrijirile de sănătate acordate pe baza unui model medical care folosește caracterizarea fenotipurilor și genotipurilor persoanelor, care constau în oferirea de servicii medicale preventive, de diagnostic, curative, de reabilitare, respectiv îngrijiri terminale specifice fiecărui pacient; 2. După articolul 36^1 se introduce un nou articol, art. 36^2, cu următorul cuprins: Articolul 36^2 (1) Pacientul are dreptul la medicină personalizată, pe baza recomandării medicale. (2) În vederea asigurării respectării dreptului prevăzut la alin. (1), medicul specialist are obligația de a pune la dispoziția pacientului informații fiabile, pertinente și ușor de înțeles referitoare la opțiunile privind intervențiile medicale propuse, inclusiv beneficiile preconizate și riscurile acestora. (3) Consimțământul pacientului este obligatoriu pentru fiecare intervenție medicală specifică medicinei personalizate. (4) Colectarea, partajarea, gestionarea și standardizarea datelor necesare pentru dezvoltarea și aplicarea medicinei personalizate se realizează în conformitate cu legislația privind protecția datelor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la 6 luni de la data publicării în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările și completările ulterioare, precum și cu completările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

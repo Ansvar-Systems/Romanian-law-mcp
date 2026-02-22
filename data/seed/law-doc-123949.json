@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-123949",
+  "type": "statute",
+  "title": "LEGE nr. 221 din 11 noiembrie 2010",
+  "short_name": "lege 221 11 11 2010",
+  "status": "in_force",
+  "issued_date": "2010-11-11",
+  "in_force_date": "2010-11-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/123949",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 221 11/11/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Convenţia privind drepturile persoanelor cu dizabilităţi, numită în continuare Convenţie, adoptată la New York de Adunarea Generală a Organizaţiei Naţiunilor Unite la 13 decembrie 2006, deschisă spre semnare la 30 martie 2007 şi semnată de România la 26 septembrie 2007, intrată în vigoare la data de 3 mai 2008."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În temeiul art. 33 din Convenţie, se desemnează Autoritatea Naţională pentru Persoanele cu Handicap în calitate de autoritate centrală de coordonare privind implementarea Convenţiei. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ROBERTA ALMA ANASTASE PREŞEDINTELE SENATULUI MIRCEA-DAN GEOANĂ Bucureşti, 11 noiembrie 2010. Nr. 221."
+    }
+  ],
+  "definitions": []
+}

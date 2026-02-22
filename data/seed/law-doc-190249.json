@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190249",
+  "type": "statute",
+  "title": "LEGE nr. 141 din 16 iunie 2017",
+  "short_name": "lege 141 16 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-16",
+  "in_force_date": "2017-06-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190249",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 141 16/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 91 din 29 noiembrie 2016 pentru modificarea și completarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, precum și pentru stabilirea unor măsuri în domeniul cinematografiei, publicată în Monitorul Oficial al României, Partea I, nr. 999 din 12 decembrie 2016."
+    }
+  ],
+  "definitions": []
+}

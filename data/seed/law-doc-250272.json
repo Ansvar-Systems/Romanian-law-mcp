@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250272",
+  "type": "statute",
+  "title": "LEGE nr. 8 din 5 ianuarie 2022",
+  "short_name": "lege 8 05 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-05",
+  "in_force_date": "2022-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250272",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 8 05/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 257 din Legea nr. 286/2009 privind Codul penal , publicată în Monitorul Oficial al României, Partea I, nr. 510 din 24 iulie 2009, cu modificările și completările ulterioare, alineatul (4) se modifică și va avea următorul cuprins: (4) Faptele prevăzute la alin. (1)-(3), comise asupra unui polițist sau jandarm, precum și asupra personalului silvic învestit cu exercițiul autorității publice, aflați în exercitarea atribuțiilor de serviciu sau în legătură cu exercitarea acestor atribuții, se sancționează cu pedeapsa prevăzută de lege pentru acea infracțiune, ale cărei limite se majorează cu jumătate."
+    }
+  ],
+  "definitions": []
+}

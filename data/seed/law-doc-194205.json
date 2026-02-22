@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-194205",
+  "type": "statute",
+  "title": "LEGE nr. 200 din 16 octombrie 2017",
+  "short_name": "lege 200 16 10 2017",
+  "status": "in_force",
+  "issued_date": "2017-10-16",
+  "in_force_date": "2017-10-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/194205",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 200 16/10/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Federale Germania privind protecția reciprocă a informațiilor clasificate, semnat la București la 14 decembrie 2016."
+    }
+  ],
+  "definitions": []
+}

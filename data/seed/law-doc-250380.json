@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250380",
+  "type": "statute",
+  "title": "LEGE nr. 15 din 11 ianuarie 2022",
+  "short_name": "lege 15 11 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-11",
+  "in_force_date": "2022-01-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250380",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 15 11/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 171 din 14 octombrie 2020 privind modificarea și completarea art. 58 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 950 din 15 octombrie 2020."
+    }
+  ],
+  "definitions": []
+}

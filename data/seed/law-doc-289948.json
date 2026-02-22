@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-289948",
+  "type": "statute",
+  "title": "LEGE nr. 263 din 22 octombrie 2024",
+  "short_name": "lege 263 22 10 2024",
+  "status": "in_force",
+  "issued_date": "2024-10-22",
+  "in_force_date": "2024-10-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/289948",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 263 22/10/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se acceptă majorarea cotei de participare a României la Fondul Monetar Internațional de la 1.811,4 milioane DST (Drepturi Speciale de Tragere) la 2.717,1 milioane DST, așa cum este prevăzut în anexa 1 la Rezoluția nr. 79-1 din 15 decembrie 2023, adoptată la Washington de Consiliul Guvernatorilor Fondului Monetar Internațional privind cea de-a șaisprezecea revizuire generală a cotelor. (2) Diferența de 905,7 milioane DST va fi achitată astfel: a) 226,4 milioane DST, reprezentând 25% din majorare, în DST; b) 679,3 milioane DST, reprezentând 75% din majorare, în lei, în contul nr. 1 al Fondului Monetar Internațional de la Banca Națională a României."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Suma de 226,4 milioane DST va fi achitată în DST prin debitarea contului de DST al României de la Fondul Monetar Internațional, administrat de către Banca Națională a României ca parte a rezervei valutare internaționale. (2) Echivalentul în lei al părții din majorarea de cotă, de 75%, care se varsă în lei, calculat la cursul LEU/DST valabil pentru tranzacțiile cu Fondul Monetar Internațional la data efectuării plății, se va reflecta în gestiunea Băncii Naționale a României în anul în care se face plata."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Banca Națională a României este însărcinată cu ducerea la îndeplinire a prevederilor prezentei legi."
+    }
+  ],
+  "definitions": []
+}

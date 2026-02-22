@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221940",
+  "type": "statute",
+  "title": "LEGE nr. 9 din 9 ianuarie 2020",
+  "short_name": "lege 9 09 01 2020",
+  "status": "in_force",
+  "issued_date": "2020-01-09",
+  "in_force_date": "2020-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221940",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 9 09/01/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța Guvernului nr. 13 din 8 iulie 2015 privind utilizarea unor date din registrele cu numele pasagerilor în cadrul cooperării transfrontaliere pentru prevenirea și combaterea actelor de terorism, a infracțiunilor conexe acestora și a infracțiunilor contra securității naționale, precum și pentru prevenirea și înlăturarea amenințărilor la adresa securității naționale, adoptată în temeiul art. 1 pct. VI. 1 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 520 din 13 iulie 2015."
+    }
+  ],
+  "definitions": []
+}

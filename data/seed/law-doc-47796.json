@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-47796",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 26 iulie 1967",
+  "short_name": "lege 18 26 07 1967",
+  "status": "in_force",
+  "issued_date": "1967-07-26",
+  "in_force_date": "1967-07-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/47796",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18 26/07/1967",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 712/1967 pentru înfiinţarea, organizarea şi funcţionarea Inspectoratului General de Stat pentru Controlul Calităţii Produselor de Export. -------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-283296",
+  "type": "statute",
+  "title": "LEGE nr. 155 din 27 mai 2024",
+  "short_name": "lege 155 27 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-27",
+  "in_force_date": "2024-05-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283296",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 155 27/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Universitatea „Danubius“ din Galați, înființată prin Legea nr. 409/2002 , își schimbă denumirea în „Universitatea Internațională Danubius“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În tot cuprinsul actelor normative , denumirea Universitatea „Danubius“ din Galați se înlocuiește cu denumirea „Universitatea Internațională Danubius“."
+    }
+  ],
+  "definitions": []
+}

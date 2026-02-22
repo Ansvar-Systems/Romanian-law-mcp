@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-15339",
+  "type": "statute",
+  "title": "LEGE nr. 161 din 30 iulie 1998",
+  "short_name": "lege 161 30 07 1998",
+  "status": "in_force",
+  "issued_date": "1998-07-30",
+  "in_force_date": "1998-07-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/15339",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 161 30/07/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Legea nr. 53/1991 privind indemnizațiile și celelalte drepturi ale senatorilor și deputaților, precum și salarizarea personalului din aparatul Parlamentului României, republicată în Monitorul Oficial al României, Partea I, nr. 23 din 31 ianuarie 1996, cu modificările ulterioare, se modifica și se completează după cum urmează: 1. La articolul 23, alineatul (1) va avea următorul cuprins: Articolul 23 (1) În scopul exercitării mandatului în circumscripțiile electorale, deputații primesc, lunar, o sumă forfetara din bugetul Camerei Deputaților, egala cu indemnizația lunară bruta a deputatului. 2. La articolul 23, după alineatul (2) se introduce alineatul (3) cu următorul cuprins: (3) În cazul în care spațiile necesare birourilor parlamentare nu pot fi asigurate de către consiliile locale și consiliile județene, acestea se pot închiria de la alte persoane juridice sau fizice. 3. La articolul 24, alineatul (1) va avea următorul cuprins: Articolul 24 (1) Chiria aferentă spațiilor, cheltuielile de întreținere, drepturile bănești ale persoanelor angajate în birourile parlamentare ale deputaților și alte cheltuieli aferente exercitării mandatului se asigura din sumele forfetare alocate deputaților."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Legea nr. 53/1991 , republicată în Monitorul Oficial al României, Partea I, nr. 23 din 31 ianuarie 1996, cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare."
+    }
+  ],
+  "definitions": []
+}

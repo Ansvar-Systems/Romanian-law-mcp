@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-173131",
+  "type": "statute",
+  "title": "LEGE nr. 283 din 18 noiembrie 2015",
+  "short_name": "lege 283 18 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-18",
+  "in_force_date": "2015-11-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173131",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 283 18/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 82/1993 privind constituirea Rezervației Biosferei \"Delta Dunării\", publicată în Monitorul Oficial al României, Partea I, nr. 283 din 7 decembrie 1993, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 10, alineatul 4^1 se modifică și va avea următorul cuprins: Pe întreg teritoriul rezervației, schimbarea utilizării terenurilor agricole folosite ca terenuri agricole productive sau amenajări piscicole se face cu acordul administratorului, numai în baza unor studii tehnice de specialitate. 2. La articolul 12, punctele 2^1 și 2^2 se modifică și vor avea următorul cuprins: 2^1. schimbarea utilizării terenurilor din amenajări agricole sau piscicole, cu excepția celor prevăzute la art. 10 alin. 4^1; 2^2. nerespectarea de către proprietarii, arendașii sau concesionarii terenurilor ocupate de amenajări agricole sau piscicole, a căror utilizare a fost schimbată, fără a avea la bază studii tehnice de specialitate, din care să rezulte necesitatea schimbării folosinței amenajării agricole sau piscicole;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) În termen de 12 luni de la data intrării în vigoare a prezentei legi, proprietarii, arendașii sau concesionarii terenurilor utilizate ca amenajări agricole sau piscicole, cărora le-au schimbat folosința, sunt obligați să efectueze studii tehnice de specialitate, cu acordul administratorului, din care să rezulte modalitatea utilizării amenajărilor agricole sau piscicole în cauză. (2) În termen de 3 ani de la data intrării în vigoare a prezentei legi, proprietarii/concesionarii terenurilor cărora le-au schimbat folosința, fără ca studiile de specialitate să justifice acest lucru, sunt obligați să le readucă la starea lor inițială sau, după caz, să le renatureze."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "La data intrării în vigoare a prezentei legi, articolul III din Legea nr. 122/2014 pentru completarea Legii nr. 82/1993 privind constituirea Rezervației Biosferei \"Delta Dunării\", publicată în Monitorul Oficial al României, Partea I, nr. 541 din 22 iulie 2014, se abrogă."
+    }
+  ],
+  "definitions": []
+}

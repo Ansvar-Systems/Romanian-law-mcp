@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-38736",
+  "type": "statute",
+  "title": "LEGE nr. 545 din 1 octombrie 2002",
+  "short_name": "lege 545 01 10 2002",
+  "status": "in_force",
+  "issued_date": "2002-10-01",
+  "in_force_date": "2002-10-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/38736",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 545 01/10/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la prevederile art. 10 din Legea nr. 26/1996 - Codul silvic, fondul forestier, proprietate publică a statului, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, trece din administrarea Regiei Naţionale a Pădurilor în administrarea şi gospodărirea în regim silvic a Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prin derogare de la prevederile art. 3 alin. (3) şi ale art. 4 din Legea fondului cinegetic şi a protecţiei vânatului nr. 103/1996 , cu modificările şi completările ulterioare, suprafaţa fondului forestier prevăzut la art. 1 se constituie în fond de vânătoare şi se atribuie în gestiune Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Fondul forestier prevăzut la art. 1 va fi gospodarit în regim silvic, prin structuri silvice constituite potrivit legii."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Fondul de vânătoare prevăzut la art. 2 va fi gestionat de Regia Autonomă \"Administraţia Patrimoniului Protocolului de Stat\", în conformitate cu prevederile legale în vigoare."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Regulamentul de organizare şi funcţionare a Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", aprobat prin Hotărârea Guvernului nr. 533/2002 , publicată în Monitorul Oficial al României, Partea I, nr. 391 din 7 iunie 2002, va fi modificat prin hotărâre a Guvernului, în conformitate cu dispoziţiile prezentei legi."
+    }
+  ],
+  "definitions": []
+}

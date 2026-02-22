@@ -1,0 +1,36 @@
+{
+  "id": "law-doc-263207",
+  "type": "statute",
+  "title": "LEGE nr. 378 din 27 decembrie 2022",
+  "short_name": "lege 378 27 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-27",
+  "in_force_date": "2022-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263207",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 378 27/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, publicată în Monitorul Oficial al României, Partea I, nr. 492 din 28 iunie 2017, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 16, după alineatul (2) se introduc două noi alineate, alin. (2^1) și (2^2), cu următorul cuprins: (2^1) Prin excepție de la prevederile art. 11 alin. (4), pentru personalul din aparatul propriu al consiliilor județene, primării și consilii locale, din instituțiile și serviciile publice de interes local și județean din subordinea acestora, nominalizat în echipele de proiecte finanțate din fonduri europene nerambursabile, nivelul veniturilor salariale, majorate potrivit alin. (1), nu poate depăși nivelul indemnizației lunare a funcției de viceprimar sau, după caz, a indemnizației lunare a vicepreședintelui consiliului județean, a viceprimarului municipiului București, corespunzător nivelului de organizare: comună, oraș, municipiu, sectoarele municipiului București, Primăria Generală a Municipiului București, majorată potrivit alin. (2). (2^2) Sumele necesare majorării salariale prevăzute la alin. (2^1) se suportă din bugetul proiectului finanțat din fonduri europene nerambursabile. 2. La anexa nr. I capitolul III, tabelul de la litera C) se modifică și va avea următorul cuprins: 1 Nr. crt. Funcția clericală, funcția de conducere din cadrul cultului sau asimilată Numărul de posturi Funcția didactică cu care se asimilează 1. Vicepreședinte uniune, vicar administrativ patriarhal, vicar general, secretar general, consilier patriarhal, prim-rabin 59 Profesor cu studii superioare, cu grad didactic I și vechime în învățământ peste 25 ani 2. Secretar patriarhal, inspector general bisericesc, vicar administrativ eparhial, vicar episcopal 45 Profesor cu studii superioare, cu grad didactic I și vechime în învățământ între 20 și 25 ani 3. Secretar Cancelaria patriarhală, consilier eparhial, secretar eparhial, inspector eparhial, exarh, protopop 1107 Profesor cu studii superioare, cu grad didactic II și vechime în învățământ între 10 și 15 ani 4. Stareț, superioară, egumen 532 Profesor cu studii superioare, cu grad didactic II și vechime în învățământ între 1 și 5 ani 3. La anexa nr. I capitolul III, tabelul de la litera D) se modifică și va avea următorul cuprins: 1 Nr. crt. Funcția clericală Numărul de posturi pentru care se asigură sprijin lunar la salarizare Funcția didactică cu care se asimilează Preot, diacon, pastor, vestitor, imam, rabin, cantor*), oficiant de cult 16.890 1. Cu studii superioare: 12.556 Profesor cu studii superioare gradul I 3.702 gradul didactic I gradul II 3.582 gradul didactic II definitiv 2.745 definitiv debutant 2.527 debutant 2. Cu studii medii: 4.334 Învățător, educator, maistru-instructor, cu studii medii gradul I 667 gradul didactic I gradul II 790 gradul didactic II definitiv 1.708 definitiv debutant 1.169 debutant *) Se utilizează la cultul mozaic.“ 4. La anexa nr. I capitolul III litera E articolul 9 alineatul (1), punctul (i) de la litera a) se modifică și va avea următorul cuprins: (i) 21.172 de contribuții pentru personalul neclerical angajat în unitățile de cult din țară prevăzute la art. 8 din prezenta anexă. Cuantumul contribuției lunare se stabilește prin legile bugetare anuale sau prin legile de rectificare a bugetului de stat și nu poate fi mai mic decât cuantumul stabilit, potrivit legii, pentru anul 2017; 5. La anexa nr. I capitolul III litera E articolul 9 alineatul (1), punctul (ii) de la litera b) se modifică și va avea următorul cuprins: (ii) 89 de contribuții pentru personalul neclerical trimis să deservească așezămintele din străinătate ale Bisericii Ortodoxe Române. Contribuția lunară reprezintă echivalentul în lei a 50% din drepturile în valută stabilite în cuantum net, prin asimilare cu funcțiile pe care este încadrat personalul român trimis să își desfășoare activitatea în cadrul misiunilor diplomatice, al oficiilor consulare și al altor forme de reprezentare a României în străinătate; 6. Abrogat. (la 08-03-2024, Punctul 6. , ARTICOLUL UNIC a fost abrogat de Articolul II din ORDONANȚA DE URGENȚĂ nr. 16 din 7 martie 2024, publicată în MONITORUL OFICIAL nr. 194 din 8 martie 2024 )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se modifică și va avea următorul cuprins",
+      "definition": "1 Nr. crt. Funcția clericală, funcția de conducere din cadrul cultului sau asimilată Numărul de posturi Funcția didactică cu care se asimilează 1. Vicepreședinte uniune, vicar administrativ patriarhal, vicar general, secretar general, consilier patriarhal, prim-rabin 59 Profesor cu studii superioare, cu grad didactic I și vechime în învățământ peste 25 ani 2",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "de la litera a) se modifică și va avea următorul cuprins",
+      "definition": "(i) 21.172 de contribuții pentru personalul neclerical angajat în unitățile de cult din țară prevăzute la art. 8 din prezenta anexă",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "de la litera b) se modifică și va avea următorul cuprins",
+      "definition": "(ii) 89 de contribuții pentru personalul neclerical trimis să deservească așezămintele din străinătate ale Bisericii Ortodoxe Române",
+      "source_provision": "Art.1"
+    }
+  ]
+}

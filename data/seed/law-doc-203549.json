@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-203549",
+  "type": "statute",
+  "title": "LEGE nr. 229 din 2 august 2018",
+  "short_name": "lege 229 02 08 2018",
+  "status": "in_force",
+  "issued_date": "2018-08-02",
+  "in_force_date": "2018-08-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203549",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 229 02/08/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Ministerul Afacerilor Externe emite cărți de identitate speciale membrilor misiunilor diplomatice, oficiilor consulare și personalului organizațiilor internaționale acreditate pe teritoriul României, precum și membrilor de familie și dependenților acestora. (2) Cărțile de identitate speciale, eliberate persoanelor prevăzute la alin. (1) în funcție de regimul juridic aplicabil acestora, în conformitate cu prevederile tratatelor internaționale la care România este parte, fac dovada calității oficiale a acestora în fața autorităților române, în vederea acordării de imunități și privilegii. (3) Cărțile de identitate speciale se eliberează persoanelor prevăzute la alin. (1) , gratuit, de Ministerul Afacerilor Externe."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Confecționarea, eliberarea și organizarea evidenței cărților de identitate speciale se realizează de către Direcția protocol din cadrul Ministerului Afacerilor Externe, cu respectarea dreptului internațional și a legislației interne aplicabile, inclusiv a normelor referitoare la protecția datelor cu caracter personal."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Cărțile de identitate speciale cuprind: a) fotografia titularului; b) numele de familie; c) prenumele; d) denumirea misiunii diplomatice/consulatului sau reprezentanței organizației internaționale; e) funcția; f) data nașterii; g) cetățenia; h) perioada de valabilitate; i) codul numeric personal, după caz; j) seria compusă din două litere și numărul compus din șase cifre; k) regimul juridic aplicabil titularului (convenția internațională/ acordul de sediu); l) emitent (Ministerul Afacerilor Externe); m) elementele de securizare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Formatul cărților de identitate speciale, documentele necesare în vederea emiterii acestora, precum și procedurile de eliberare și de retragere a cărților se stabilesc prin hotărâre a Guvernului, în termen de 60 de zile lucrătoare de la intrarea în vigoare a prezentei legi, care se va publica în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

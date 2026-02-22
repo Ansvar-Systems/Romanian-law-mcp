@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-216586",
+  "type": "statute",
+  "title": "LEGE nr. 140 din 18 iulie 2019",
+  "short_name": "lege 140 18 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-18",
+  "in_force_date": "2019-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216586",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 140 18/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre România și Ungaria privind protecția reciprocă a informațiilor clasificate, semnat la București la 3 octombrie 2018."
+    }
+  ],
+  "definitions": []
+}

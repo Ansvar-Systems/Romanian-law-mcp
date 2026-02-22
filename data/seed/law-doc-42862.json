@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-42862",
+  "type": "statute",
+  "title": "LEGE nr. 105 din 2 aprilie 2003",
+  "short_name": "lege 105 02 04 2003",
+  "status": "in_force",
+  "issued_date": "2003-04-02",
+  "in_force_date": "2003-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/42862",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 105 02/04/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 175 din 27 noiembrie 2002 pentru modificarea și completarea Ordonanței de urgenta a Guvernului nr. 95/2002 privind industria de apărare, publicată în Monitorul Oficial al României, Partea I, nr. 911 din 14 decembrie 2002, cu următoarea completare: – După punctul 1 se introduce punctul 1^1 cu următorul cuprins: 1^1. - După articolul 10 se introduce articolul 10^1 cu următorul cuprins: Articolul 10^1 Modul de calcul al drepturilor salariale prevăzute la art. 10 se stabilește prin norme metodologice elaborate de Ministerul Industriei și Resurselor și aprobate de Guvern."
+    }
+  ],
+  "definitions": []
+}

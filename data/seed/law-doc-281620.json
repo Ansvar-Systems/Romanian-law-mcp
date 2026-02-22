@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281620",
+  "type": "statute",
+  "title": "LEGE nr. 83 din 9 aprilie 2024",
+  "short_name": "lege 83 09 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-09",
+  "in_force_date": "2024-04-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281620",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 83 09/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 16 din Legea nr. 215/1997 privind Casa Socială a Constructorilor, publicată în Monitorul Oficial al României, Partea I, nr. 372 din 22 decembrie 1997, cu modificările ulterioare, după alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: (3) Sumele de bani prevăzute la alin. (1) constituie și sursa de finanțare a fondului pentru formarea profesională continuă, prevăzut la art. 4 alin. (1) lit. c)."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-179715",
+  "type": "statute",
+  "title": "LEGE nr. 120 din 1 iulie 2016",
+  "short_name": "lege 120 01 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-01",
+  "in_force_date": "2016-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/179715",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 120 01/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 116 din 23 decembrie 2013 privind măsurile necesare pentru funcţionarea comisiilor de evaluare din penitenciare, din centrele de reeducare şi din centrele de reţinere şi arestare preventivă, precum şi pentru stabilirea unor măsuri în vederea bunei funcţionări a instanţelor pe durata desfăşurării activităţii acestor comisii, publicată în Monitorul Oficial al României, Partea I, nr. 837 din 24 decembrie 2013."
+    }
+  ],
+  "definitions": []
+}

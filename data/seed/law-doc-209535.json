@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-209535",
+  "type": "statute",
+  "title": "LEGE nr. 357 din 27 decembrie 2018",
+  "short_name": "lege 357 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209535",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 357 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie anul 2019 ca „Anul Cărții“ în România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul sărbătoririi „Anului Cărții“ se organizează evenimente culturale dedicate acestei inițiative. (2) Autoritățile administrației publice centrale și locale pot acorda sprijin logistic și/sau financiar, după caz."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) În „Anul Cărții“ se lansează Programul național „România citește“, denumit în continuare Programul. Programul se va desfășura în cadrul unităților de învățământ primar și gimnazial și presupune organizarea de întâlniri săptămânale ale elevilor cu voluntari, precum părinți, personalități publice, jurnaliști. În cadrul Programului, voluntarii vor lectura împreună cu elevii fragmente din operele literare incluse în programa școlară. (2) Programul presupune și organizarea de întâlniri bianuale ale elevilor cu scriitori români contemporani, de anvergură națională sau locală, care să lectureze fragmente din propriile creații literare, în scopul încurajării lecturii și promovării acestora."
+    }
+  ],
+  "definitions": []
+}

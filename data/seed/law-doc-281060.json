@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281060",
+  "type": "statute",
+  "title": "LEGE nr. 80 din 4 aprilie 2024",
+  "short_name": "lege 80 04 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-04",
+  "in_force_date": "2024-04-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281060",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 80 04/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 48 din 14 aprilie 2022 privind plata diferențelor de drepturi salariale cuvenite personalului didactic din învățământul de stat pentru perioada 1 iulie 2017-31 august 2021, publicată în Monitorul Oficial al României, Partea I, nr. 377 din 15 aprilie 2022."
+    }
+  ],
+  "definitions": []
+}

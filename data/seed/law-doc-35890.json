@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35890",
+  "type": "statute",
+  "title": "LEGE nr. 19 din 9 decembrie 1982",
+  "short_name": "lege 19 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35890",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 19 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 65/1982 privind organizarea activităţii creselor şi gradinitelor şi stabilirea contribuţiei părinţilor pentru copiii din aceste unităţi. ────────────────"
+    }
+  ],
+  "definitions": []
+}

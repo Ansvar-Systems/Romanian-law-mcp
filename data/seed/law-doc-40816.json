@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-40816",
+  "type": "statute",
+  "title": "LEGE nr. 665 din 16 decembrie 2002",
+  "short_name": "lege 665 16 12 2002",
+  "status": "in_force",
+  "issued_date": "2002-12-16",
+  "in_force_date": "2002-12-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/40816",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 665 16/12/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 94 din 20 iunie 2002 privind transmiterea, cu titlu gratuit, a unui imobil, proprietate privată a statului, în proprietatea Comitetului Olimpic Roman, publicată în Monitorul Oficial al României, Partea I, nr. 463 din 28 iunie 2002, cu următoarea completare: – La articolul 1, după alineatul (2) se introduc alineatele (3) și (4) cu următorul cuprins: (3) Bunurile prevăzute la alin. (1) nu pot fi înstrăinate, donate, concesionate și nici date în administrare sau în folosință. (4) Dacă în termen de 10 ani Comitetul Olimpic Roman nu realizează investițiile la care s-a angajat, respectiv construirea unei piste de atletism, a unui bazin de inot de dimensiuni olimpice și a unei sali de sport cu facilități de antrenament și refacere, bunurile prevăzute la alin. (1) trec în proprietatea publică a statului."
+    }
+  ],
+  "definitions": []
+}

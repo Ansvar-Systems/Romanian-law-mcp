@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219808",
+  "type": "statute",
+  "title": "LEGE nr. 215 din 14 noiembrie 2019",
+  "short_name": "lege 215 14 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-14",
+  "in_force_date": "2019-11-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219808",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 215 14/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 18, litera a) va avea următorul cuprins: a) 4 luni pentru fiecare an lucrat în condiții deosebite de muncă; 2. La articolul 55 alineatul (1), litera a) va avea următorul cuprins: a) conform tabelului nr. 1, în situația persoanelor care au realizat stagii de cotizare în condiții deosebite de muncă; Tabelul nr. 1 Stagiul de cotizare realizat în condiții deosebite (ani împliniți) Reducerea vârstei standard de pensionare cu: Ani Luni 1 - 4 2 - 8 3 1 - 4 1 4 5 1 8 6 2 - 7 2 4 8 2 8 9 3 - 10 3 4 11 3 8 12 4 - 13 4 4 14 4 8 15 5 - 16 5 4 17 5 8 18 6 - 19 6 4 20 6 8 21 7 - 22 7 4 23 7 8 24 8 - 25 8 4 26 8 8 27 9 - 28 9 4 29 9 8 30 10 -"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-274810",
+  "type": "statute",
+  "title": "LEGE nr. 259 din 27 septembrie 2023",
+  "short_name": "lege 259 27 09 2023",
+  "status": "in_force",
+  "issued_date": "2023-09-27",
+  "in_force_date": "2023-09-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/274810",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 259 27/09/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre România și Muntenegru în domeniul securității sociale, semnat la 22 iulie 2022 la Podgorica."
+    }
+  ],
+  "definitions": []
+}

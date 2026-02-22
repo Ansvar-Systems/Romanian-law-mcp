@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252381",
+  "type": "statute",
+  "title": "LEGE nr. 40 din 3 martie 2022",
+  "short_name": "lege 40 03 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-03",
+  "in_force_date": "2022-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252381",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 40 03/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 87 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată în Monitorul Oficial al României, Partea I, nr. 1 din 3 ianuarie 2008, cu modificările și completările ulterioare, după alineatul (1^1) se introduce un nou alineat, alineatul (1^2), cu următorul cuprins: (1^2) Pentru persoanele cu handicap, pentru care comisia de evaluare a stabilit anterior încadrarea în gradul de handicap grav, cu excepția celor prevăzute la alin. (1^1), reevaluarea periodică se poate face la domiciliul persoanei, la cererea acesteia ori a reprezentantului său legal. Comisia de evaluare se deplasează la domiciliul persoanei după o prealabilă programare și informare a acesteia cu privire la data și ora efectuării evaluării periodice."
+    }
+  ],
+  "definitions": []
+}

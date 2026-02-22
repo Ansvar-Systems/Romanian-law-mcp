@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-228021",
+  "type": "statute",
+  "title": "LEGE nr. 138 din 21 iulie 2020",
+  "short_name": "lege 138 21 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-21",
+  "in_force_date": "2020-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228021",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 138 21/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară martiri și eroi ai națiunii române Vasile Nicula, Ion Oargă și Gheorghe Crișan, cunoscuți popular sub numele Horea, Cloșca și Crișan, pentru rolul, curajul, eroismul și sacrificiul lor din timpul răscoalei țărănești din anul 1784."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ceremoniile se vor desfășura anual în data de 2 noiembrie și pot fi marcate de autoritățile administrației publice centrale și locale, precum și de instituțiile publice de cultură din țară și din străinătate, prin organizarea unor programe și manifestări cu caracter cultural-științific."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Pentru a sublinia continuitatea sacrificiilor poporului român din Munții Apuseni și în tradiția eroilor martiri Horea, Cloșca și Crișan, la data de 8 noiembrie, se va comemora Ziua Martirilor Români de la Beliș."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Autoritățile administrației publice centrale și locale pot sprijini material sau logistic organizarea și desfășurarea programelor și manifestărilor prevăzute la art. 2 , în limita fondurilor disponibile. (2) Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni culturale ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

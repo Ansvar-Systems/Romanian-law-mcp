@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-227760",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 10 iulie 2020",
+  "short_name": "lege 125 10 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-10",
+  "in_force_date": "2020-07-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227760",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 10/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 18 iunie ca Ziua Victimelor Deportării în Timpul Regimului Comunist."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Președintele României, Guvernul, precum și celelalte autorități ale administrației publice centrale și locale pot organiza manifestări dedicate comemorării zilei prevăzute la art. 1. (2) Fondurile necesare pentru organizarea evenimentelor prilejuite de comemorarea Zilei Victimelor Deportării în Timpul Regimului Comunist pot fi asigurate din bugetele entităților prevăzute la alin. (1), în limita alocațiilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

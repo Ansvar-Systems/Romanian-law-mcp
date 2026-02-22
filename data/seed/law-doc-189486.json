@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-189486",
+  "type": "statute",
+  "title": "LEGE nr. 110 din 19 mai 2017",
+  "short_name": "lege 110 19 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-19",
+  "in_force_date": "2017-05-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189486",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 110 19/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 95/2006 privind reforma în domeniul sănătăţii, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările şi completările ulterioare, se completează după cum urmează: 1. La articolul 7, după litera l) se introduce o nouă literă, litera m), cu următorul cuprins: m) asigurarea în unităţile sanitare şi a personalului de specialitate de asistenţă medicală sau socială, după caz, cunoscător al limbii minorităţilor naţionale în unităţile administrativ-teritoriale în care cetăţenii minorităţilor naţionale fie au o pondere de peste 20% din numărul locuitorilor, fie numărul lor este de cel puţin 5.000, cu respectarea celorlalte prevederi din fişa postului. 2. La articolul 16 alineatul (1), după litera k) se introduce o nouă literă, litera l), cu următorul cuprins: l) elaborează normele de organizare şi funcţionare a unităţilor care asigură asistenţa de sănătate publică, cu luarea în considerare şi a prevederilor art. 7 lit. m), autorizează şi controlează activitatea instituţiilor de sănătate publică şi asigură funcţionarea unităţilor din subordine."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "După alineatul (5) al articolului 41 din Legea asistenţei sociale nr. 292/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 905 din 20 decembrie 2011, cu modificările şi completările ulterioare, se introduce un nou alineat, alineatul (6), cu următorul cuprins: (6) În unităţile administrativ-teritoriale în care cetăţenii minorităţilor naţionale fie au o pondere de peste 20% din numărul total al locuitorilor, fie numără cel puţin 5.000 de cetăţeni, prin grija autorităţilor administraţiei publice locale, instituţiile şi unităţile de asistenţă socială asigură şi personal cunoscător al limbii minorităţilor naţionale respective, cu respectarea celorlalte prevederi din fişa postului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Prezenta lege intră în vigoare la data de 1 ianuarie 2018."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-248935",
+  "type": "statute",
+  "title": "LEGE nr. 280 din 26 noiembrie 2021",
+  "short_name": "lege 280 26 11 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-26",
+  "in_force_date": "2021-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/248935",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 280 26/11/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 138 din 19 august 2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 118/2020 privind aprobarea Programului de susținere a întreprinderilor mici și mijlocii „IMM LEASING DE ECHIPAMENTE ȘI UTILAJE“, publicată în Monitorul Oficial al României, Partea I, nr. 762 din 20 august 2020."
+    }
+  ],
+  "definitions": []
+}

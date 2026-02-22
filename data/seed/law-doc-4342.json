@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-4342",
+  "type": "statute",
+  "title": "LEGE nr. 85 din 18 octombrie 1994",
+  "short_name": "lege 85 18 10 1994",
+  "status": "in_force",
+  "issued_date": "1994-10-18",
+  "in_force_date": "1994-10-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/4342",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 85 18/10/1994",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifica Convenția dintre România și Marele Ducat de Luxemburg pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și avere, semnată la Luxemburg la 14 decembrie 1993."
+    }
+  ],
+  "definitions": []
+}

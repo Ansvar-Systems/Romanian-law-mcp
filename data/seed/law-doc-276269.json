@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276269",
+  "type": "statute",
+  "title": "LEGE nr. 343 din 10 noiembrie 2023",
+  "short_name": "lege 343 10 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-10",
+  "in_force_date": "2023-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276269",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 343 10/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 23 din Ordonanța de urgență a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei și faunei sălbatice, publicată în Monitorul Oficial al României, Partea I, nr. 442 din 29 iunie 2007, aprobată cu modificări și completări prin Legea nr. 49/2011 , cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 23 (1) În rezervațiile științifice sunt interzise orice activități umane, cu excepția activităților de cercetare, protejare, reabilitare, promovare, punere în valoare și asigurare a continuității existenței obiectivelor pentru care au fost constituite, cu limitările descrise în planurile de management, cu acordul Academiei Române și al administratorului ariei naturale protejate."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183378",
+  "type": "statute",
+  "title": "LEGE nr. 200 din 4 noiembrie 2016",
+  "short_name": "lege 200 04 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-04",
+  "in_force_date": "2016-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183378",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 200 04/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 1 din 19 ianuarie 2016 pentru modificarea şi completarea Legii nr. 290/2004 privind cazierul judiciar, adoptată în temeiul art. 1 pct. III.2 din Legea nr. 346/2015 privind abilitarea Guvernului de a emite ordonanţe, publicată în Monitorul Oficial al României, Partea I, nr. 44 din 20 ianuarie 2016."
+    }
+  ],
+  "definitions": []
+}

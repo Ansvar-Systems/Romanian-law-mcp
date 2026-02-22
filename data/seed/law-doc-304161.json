@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-304161",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 13 noiembrie 2025",
+  "short_name": "lege 183 13 11 2025",
+  "status": "in_force",
+  "issued_date": "2025-11-13",
+  "in_force_date": "2025-11-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/304161",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 13/11/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 58 din 6 iunie 2024 pentru modificarea anexei la Ordonanța de urgență a Guvernului nr. 18/2024 privind aprobarea schemei de ajutor de stat IMM PLUS, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 533 din 7 iunie 2024."
+    }
+  ],
+  "definitions": []
+}

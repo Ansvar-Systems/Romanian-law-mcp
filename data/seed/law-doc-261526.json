@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-261526",
+  "type": "statute",
+  "title": "LEGE nr. 315 din 18 noiembrie 2022",
+  "short_name": "lege 315 18 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-18",
+  "in_force_date": "2022-11-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261526",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 315 18/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 75 din 2 iunie 2022 pentru completarea Legii nr. 82/1992 privind rezervele de stat, publicată în Monitorul Oficial al României, Partea I, nr. 546 din 3 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

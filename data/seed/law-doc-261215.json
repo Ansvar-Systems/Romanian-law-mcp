@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-261215",
+  "type": "statute",
+  "title": "LEGE nr. 294 din 4 noiembrie 2022",
+  "short_name": "lege 294 04 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-04",
+  "in_force_date": "2022-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261215",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 294 04/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001 , precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali, publicată în Monitorul Oficial al României, Partea I, nr. 349 din 20 mai 2015, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 6, partea introductivă a alineatului (2) se modifică și va avea următorul cuprins: (2) Nu au dreptul de a depune candidaturi și nu pot fi aleși: 2. La articolul 6 alineatul (2), după litera b) se introduce o nouă literă, litera c), cu următorul cuprins: c) persoanele care, la data depunerii candidaturii, nu îndeplinesc condițiile prevăzute de lege, condițiile prevăzute la art. 37 din Constituția României, republicată , pentru a fi alese și persoanele care la data depunerii candidaturii au fost condamnate definitiv la pedepse privative de libertate pentru infracțiuni săvârșite cu intenție, dacă nu a intervenit reabilitarea, amnistia postcondamnatorie sau dezincriminarea."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001 , precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali, publicată în Monitorul Oficial al României, Partea I, nr. 349 din 20 mai 2015, cu modificările și completările ulterioare, precum și cu modificarea și completarea aduse prin prezenta lege va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-62152",
+  "type": "statute",
+  "title": "LEGE nr. 161 din 30 mai 2005",
+  "short_name": "lege 161 30 05 2005",
+  "status": "in_force",
+  "issued_date": "2005-05-30",
+  "in_force_date": "2005-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/62152",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 161 30/05/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 11 din Ordonanța de urgență a Guvernului nr. 63/2003 privind organizarea și funcționarea Ministerului Administrației și Internelor, publicată în Monitorul Oficial al României, Partea I, nr. 462 din 28 iunie 2003, aprobată cu modificări și completări prin Legea nr. 604/2003 , cu modificările ulterioare, după alineatul (2) se introduc două alineate noi, alineatele (3) și (4), cu următorul cuprins: (3) În cadrul aparatului central al Ministerului Administrației și Internelor se înființează Direcția generală anticorupție, ca structură specializată pentru prevenirea și combaterea corupției în rândul personalului propriu. (4) Direcția generală anticorupție este subordonată direct ministrului administrației și internelor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Articolul 4 din Legea nr. 364/2004 privind organizarea și funcționarea poliției judiciare, publicată în Monitorul Oficial al României, Partea I, nr. 869 din 23 septembrie 2004, se modifică și va avea următorul cuprins: Articolul 4 Organele de cercetare ale poliției judiciare sunt organizate și funcționează în structura aparatului central al Ministerului Administrației și Internelor, în structura Inspectoratului General al Poliției Române, Inspectoratului General al Poliției de Frontieră Române și a unităților teritoriale ale acestora."
+    }
+  ],
+  "definitions": []
+}

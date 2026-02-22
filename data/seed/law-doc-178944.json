@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-178944",
+  "type": "statute",
+  "title": "LEGE nr. 116 din 31 mai 2016",
+  "short_name": "lege 116 31 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-31",
+  "in_force_date": "2016-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178944",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 116 31/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 24 din 30 iunie 2015 pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală, publicată în Monitorul Oficial al României, Partea I, nr. 473 din 30 iunie 2015, cu următoarea modificare: – La articolul I punctul 3 , alineatul (10) al articolului 222 se modifică și va avea următorul cuprins: (10) Durata privării de libertate dispusă prin măsura arestului la domiciliu se ia în considerare pentru calculul duratei maxime a măsurii arestării preventive a inculpatului în cursul urmăririi penale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 135/2010 privind Codul de procedură penală, publicată în Monitorul Oficial al României, Partea I, nr. 486 din 15 iulie 2010, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

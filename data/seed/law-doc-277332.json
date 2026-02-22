@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277332",
+  "type": "statute",
+  "title": "LEGE nr. 394 din 13 decembrie 2023",
+  "short_name": "lege 394 13 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-13",
+  "in_force_date": "2023-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277332",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 394 13/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 2 din 27 ianuarie 2022 pentru modificarea Legii nr. 190/2012 privind răspunderea furnizorilor de servicii de trafic aerian, adoptată în temeiul art. 1 pct. VI.7 din Legea nr. 311/2021 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 89 din 28 ianuarie 2022, cu următoarea modificare: – La articolul I punctul 1 , articolul 8 se modifică și va avea următorul cuprins: Articolul 8 Suma minimă asigurată pentru fiecare eveniment care a condus la producerea unor prejudicii unei terțe părți, în cazul contractului prevăzut la art. 7, se stabilește de furnizorul de servicii de trafic aerian în baza evaluării prejudiciului potențial pe care îl poate produce în exercitarea atribuțiilor ce îi revin, dar, în funcție de masa maximă la decolare a aeronavelor care pot opera în zona/zonele din spațiul aerian național pentru care este desemnat să furnizeze servicii de trafic aerian, nu va fi mai mică de: Masa maximă la decolare a aeronavei (kg) Suma minimă asigurată (milioane drepturi speciale de tragere) 0,75 1,5 3 7 18 80 150 300 500 ≥ 500.000 700"
+    }
+  ],
+  "definitions": []
+}

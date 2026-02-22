@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-244506",
+  "type": "statute",
+  "title": "LEGE nr. 205 din 19 iulie 2021",
+  "short_name": "lege 205 19 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-19",
+  "in_force_date": "2021-07-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244506",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 205 19/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 187 din 28 octombrie 2020 pentru modificarea Ordonanței de urgență a Guvernului nr. 144/2020 privind unele măsuri pentru alocarea de fonduri externe nerambursabile necesare desfășurării în condițiile de prevenție a activităților didactice aferente anului școlar/universitar 2020/2021 în contextul riscului de infecție cu coronavirus SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 1.005 din 29 octombrie 2020, cu următoarea completare: – La articolul unic, după punctul 3 se introduce un nou punct, punctul 4, cu următorul cuprins: 4. La articolul 4, după alineatul (15) se introduc două noi alineate, alineatele (16) și (17), cu următorul cuprins: (16) Cheltuielile aferente echipamentelor de protecție medicală/ dispozitivelor medicale, dezinfectanților și containerelor sanitare mobile sunt eligibile în măsura în care sunt folosite pentru activitățile didactice, pe perioada de valabilitate a acestora, dar nu mai târziu de 31 decembrie 2023. (17) Ghidurile solicitantului, aprobate prin ordin al ministrului investițiilor și proiectelor europene, prin care se stabilesc regulile de finanțare a echipamentelor de protecție medicală/dispozitivelor medicale, dezinfectanților și containerelor sanitare mobile, se modifică în mod corespunzător."
+    }
+  ],
+  "definitions": []
+}

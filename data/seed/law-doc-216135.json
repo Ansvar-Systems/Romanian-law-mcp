@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-216135",
+  "type": "statute",
+  "title": "LEGE nr. 137 din 12 iulie 2019",
+  "short_name": "lege 137 12 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-12",
+  "in_force_date": "2019-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216135",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 137 12/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Emiratelor Arabe Unite privind dobândirea, pe bază de reciprocitate, a dreptului de proprietate asupra terenurilor pentru buna funcționare a misiunilor diplomatice și oficiilor consulare, semnat la Abu Dhabi la 17 octombrie 2018."
+    }
+  ],
+  "definitions": []
+}

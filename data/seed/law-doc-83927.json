@@ -1,0 +1,231 @@
+{
+  "id": "law-doc-83927",
+  "type": "statute",
+  "title": "LEGE nr. 260 din 19 iulie 2007",
+  "short_name": "lege 260 19 07 2007",
+  "status": "in_force",
+  "issued_date": "2007-07-19",
+  "in_force_date": "2007-07-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/83927",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 260 19/07/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta lege stabileşte regimul juridic al documentelor în formă electronică ce conţin date privind operaţiunile economice de schimb sau vânzare de bunuri sau servicii între persoane care emit şi primesc facturi, bonuri fiscale sau chitanţe în formă electronică. (2) Facturile, bonurile fiscale şi chitanţele în formă electronică constituie documente justificative în înţelesul Legii contabilităţii nr. 82/1991 , republicată. (3) Prezenta lege se aplică persoanelor stabilite în România, în înţelesul prevederilor titlului VI din Legea nr. 571/2003 privind Codul fiscal, cu modificările şi completările ulterioare, şi care desfăşoară activităţi economice pe teritoriul României."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prezenta lege se completează cu dispoziţiile legale privind încheierea, validitatea şi efectele actelor juridice, precum şi cu cele prevăzute de Legea nr. 571/2003 , cu modificările şi completările ulterioare, şi de celelalte acte normative în vigoare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Nicio dispoziţie a prezentei legi nu poate fi interpretată în sensul limitării autonomiei de voinţă şi a libertăţii contractuale a părţilor."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "În înţelesul prezentei legi, termenii şi expresiile de mai jos se definesc după cum urmează: a) emiterea facturilor în formă electronică - operaţiunea de întocmire, semnare electronică şi marcare temporală a facturilor în formă electronică utilizând un sistem informatic omologat; b) semnătură electronică - semnătura electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat, în înţelesul Legii nr. 455/2001 privind semnătura electronică; c) marcă temporală - marca temporală în înţelesul Legii nr. 451/2004 privind marca temporală; d) factură în formă electronică - documentul în formă electronică ce caracterizează în mod unic şi neechivoc schimbul sau vânzarea de bunuri sau servicii, semnat cu semnătură electronică şi purtând marca temporală, care conţine datele cuprinse în formularul facturii şi care este înregistrat pe medii compatibile cu prelucrarea automată a datelor; e) pachet de facturi în formă electronică - două sau mai multe facturi în formă electronică, emise la momente de timp diferite şi transmise către acelaşi beneficiar la acelaşi moment de timp; f) lot de facturi în formă electronică - două sau mai multe facturi în formă electronică, emise la momente de timp diferite şi transmise către beneficiari diferiţi la acelaşi moment de timp; g) bon fiscal în formă electronică - documentul financiar-fiscal care întruneşte toate condiţiile impuse de prevederile legale în materie referitoare la conţinut, emis de echipamentele electronice de marcat, care conţine date înregistrate pe medii compatibile cu prelucrarea automată a datelor, semnat cu semnătură electronică şi purtând marca temporală; h) chitanţă în formă electronică - documentul financiar-fiscal care întruneşte toate condiţiile impuse de prevederile legale în materie referitoare la conţinut şi formă, înregistrat pe medii compatibile cu prelucrarea automată a datelor, semnat cu semnătură electronică şi purtând marca temporală; i) furnizor de servicii de facturare electronică - persoana fizică sau juridică care emite, transmite sau converteşte facturi, bonuri sau chitanţe în formă electronică, în nume propriu sau în numele unor terţi."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul II - Factura în formă electronică",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Persoana fizică sau juridică ce emite facturi, denumită în continuare emitent, poate să opteze pentru emiterea facturilor în formă electronică, cu condiţia garantării autenticităţii, originii şi integrităţii conţinutului, conform condiţiilor prevăzute de prezenta lege."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Factura în formă electronică",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Facturile şi chitanţele în formă electronică emise fără îndeplinirea condiţiilor prevăzute de prezenta lege nu au calitatea de document justificativ, în înţelesul prevederilor Legii nr. 82/1991 , republicată."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Factura în formă electronică | Secţiunea 1 - Emiterea facturilor",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Emiterea tuturor facturilor de către o persoană fizică sau juridică se face exclusiv în una dintre următoarele două modalităţi, la alegerea exclusivă a emitentului: în formă electronică sau pe suport de hârtie. (2) Emitentul poate opta pentru schimbarea modalităţii de emitere, cu notificarea Ministerului Economiei şi Finanţelor."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Factura în formă electronică | Secţiunea 1 - Emiterea facturilor",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Emitentul facturii în formă electronică răspunde pentru legalitatea, autenticitatea, originea şi integritatea conţinutului."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul II - Factura în formă electronică | Secţiunea 1 - Emiterea facturilor",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) Factura în formă electronică respectă formatul şi conţinutul stabilite de actele normative speciale şi va conţine marca temporală care certifică momentul emiterii şi semnătura electronică a emitentului facturii. (2) Certificatul aferent semnăturii electronice a emitentului facturii în formă electronică va conţine informaţii privind identificatorul fiscal şi numărul notificării înregistrate la Ministerul Economiei şi Finanţelor."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul II - Factura în formă electronică | Secţiunea 1 - Emiterea facturilor",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Emitentul este obligat să ţină evidenţa facturilor electronice emise într-un registru electronic de evidenţă a facturilor în formă electronică şi să menţioneze existenţa unui exemplar pe suport de hârtie, dacă este cazul. Operarea în acest registru se realizează conform regulilor de operare a registrelor similare pe suport de hârtie, completate cu normele metodologice emise de Ministerul Economiei şi Finanţelor în termen de 60 de zile de la data publicării prezentei legi."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul II - Factura în formă electronică | Secţiunea a 2-a - Transmiterea facturilor",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Transmiterea facturilor emise în formă electronică se face în una dintre următoarele două modalităţi: prin mijloace electronice, în condiţiile prevăzute de Legea nr. 571/2003 , cu modificările şi completările ulterioare, sau pe suport de hârtie. (2) Transmiterea unei facturi în formă electronică se poate face individual, în pachete sau în loturi."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul II - Factura în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) Emitentul facturii în formă electronică şi beneficiarul acesteia încheie un act juridic prin care se specifică anularea de comun acord a facturii sau a facturilor respective şi care conţine: a) seria şi numărul fiecărei facturi anulate; b) data emiterii fiecărei facturi anulate; c) data transmiterii fiecărei facturi anulate; d) data anulării; e) semnătura olografă a părţilor şi ştampila, unde este cazul. (2) Actul juridic se întocmeşte în 3 exemplare, din care un exemplar rămâne emitentului, unul beneficiarului, iar al treilea este păstrat de către persoana abilitată să opereze anularea facturii electronice. (3) Atât emitentul, cât şi beneficiarul operează modificarea în documentele care au avut la bază facturile respective, precum şi în Registrul electronic de evidenţă a facturilor în formă electronică. Emitentul anulează factura, specificând această operaţiune prin marcarea facturii în formă electronică ca fiind anulată, ataşând semnătura electronică şi marca temporală corespunzătoare momentului anulării, astfel încât anularea să fie evidenţiată la vizualizarea facturii în formă electronică. (4) Emitentul este obligat să notifice Ministerului Economiei şi Finanţelor anularea facturii în formă electronică, menţionând datele de identificare a fiecărei facturi anulate şi data la care a fost întocmit documentul prin care s-a convenit anularea. (5) Prevederile prezentei secţiuni se completează cu prevederile Legii nr. 571/2003 , cu modificările şi completările ulterioare, privind corectarea facturilor."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul III - Condiţiile pe care trebuie să le îndeplinească persoanele care emit facturi în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Emitentul facturii în formă electronică trebuie să îndeplinească următoarele condiţii: a) să utilizeze un sistem informatic omologat de Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei, în condiţiile cap. VIII; b) să dispună de mijloace tehnice şi umane corespunzătoare pentru garantarea securităţii, fiabilităţii şi continuităţii serviciilor de prelucrare a datelor în formă electronică; c) să folosească personal cu cunoştinţe de specialitate în domeniul tehnologiei semnăturii electronice şi cu o practică suficientă în ceea ce priveşte procedurile de securitate corespunzătoare; d) să fie în măsură să gestioneze şi să arhiveze toate informaţiile privind fiecare factură în formă electronică emisă, pe perioada de timp stabilită prin normele legale în vigoare; e) să utilizeze sisteme omologate pentru arhivarea de facturi în formă electronică în conformitate cu prevederile Legii nr. 135/2007 privind arhivarea documentelor în formă electronică. Pe durata arhivării, persoanele care au responsabilitatea arhivării vor lua măsuri ca orice factură în formă electronică să poată fi accesată numai de către emitent, beneficiar sau organele abilitate prin lege. Arhivarea facturilor în formă electronică se poate face şi de alte persoane decât emitentul acestora, în condiţiile în care acestea sunt autorizate în acest sens şi îndeplinesc condiţiile tehnice şi de personal prevăzute la lit. b) şi c)."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul III - Condiţiile pe care trebuie să le îndeplinească persoanele care emit facturi în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) Emitentul facturii în formă electronică este obligat să notifice Autorităţii Naţionale pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei orice modificare a sistemului informatic cu funcţii omologate pentru emiterea facturilor în formă electronică. Orice astfel de modificare este notificată cu cel puţin 45 de zile înainte de data punerii în funcţiune. (2) Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei avizează modificările aduse în termen de maximum 30 de zile de la data înregistrării notificării."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul III - Condiţiile pe care trebuie să le îndeplinească persoanele care emit facturi în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Ministerul Economiei şi Finanţelor verifică respectarea condiţiilor prevăzute pentru emiterea facturilor în formă electronică şi aplicarea dispoziţiilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul IV - Externalizarea serviciilor de emitere, transmitere şi arhivare a facturilor în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "(1) Activităţile de emitere, transmitere a facturilor în formă electronică, precum şi cele de arhivare a facturilor în formă electronică pot fi realizate şi de către alte persoane decât emitentul de drept al facturii în formă electronică, în următoarele condiţii: a) să îndeplinească condiţiile prevăzute la art. 13; b) să existe un contract valabil încheiat între emitentul de drept al facturii în formă electronică şi un furnizor de servicii de emitere a facturilor în formă electronică. (2) Certificatul aferent semnăturii electronice a persoanelor care prestează servicii de emitere, transmitere sau arhivare a facturilor în formă electronică va conţine informaţii privind calitatea de furnizor de servicii şi datele sale de identificare."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul IV - Externalizarea serviciilor de emitere, transmitere şi arhivare a facturilor în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "(1) Furnizorii de servicii de emitere a facturilor în formă electronică pot să presteze servicii de conversie a unei facturi deja emise pe suport de hârtie în factură în formă electronică, la cererea beneficiarului. (2) Conversia se poate realiza numai după factura în original. Factura în formă electronică rezultată dobândeşte calitatea de document justificativ numai după înscrierea precizării: \"prezenta factură este conformă cu originalul emis iniţial pe suport de hârtie având seria .... nr. .... din data de ...., emisă de .....\" şi ataşarea semnăturii electronice a furnizorului de servicii de emitere a facturilor în formă electronică, precum şi a mărcii temporale certificând momentul conversiei, atât în cazul facturilor individuale, cât şi în cazul în care conversia se face pentru un pachet sau lot de facturi."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul V - Chitanţa în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Chitanţa în formă electronică respectă condiţiile privind formatul şi conţinutul obligatorii stabilite de actele normative în vigoare şi conţine marca temporală şi semnătura electronică a emitentului chitanţei. (2) Certificatul aferent semnăturii electronice a emitentului chitanţei va conţine informaţii privind identificatorul fiscal şi numărul notificării înregistrate la Ministerul Economiei şi Finanţelor."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul V - Chitanţa în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Prevederile privind emiterea, transmiterea, stocarea, arhivarea, conversia şi utilizarea facturilor prevăzute în prezenta lege sunt aplicabile şi chitanţelor în formă electronică, cu excepţia acelor prevederi care din punct de vedere financiar-fiscal nu le sunt aplicabile."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul VI - Regimul documentelor în formă electronică aferente tranzacţiilor înregistrate prin intermediul caselor de marcat şi terminalelor automate bancare (bancomat) | Secţiunea a 3-a - Anularea facturilor",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Bonurile fiscale şi bonurile emise de casele de marcat şi de bancomatele bancare, în formă electronică, stocate la emitent, au acelaşi regim juridic ca şi cele emise pe hârtie."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul VI - Regimul documentelor în formă electronică aferente tranzacţiilor înregistrate prin intermediul caselor de marcat şi terminalelor automate bancare (bancomat) | Secţiunea a 3-a - Anularea facturilor",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "(1) Persoanele care au obligaţia de a emite bonuri prin intermediul caselor de marcat sau al terminalelor automate bancare (bancomat) pot păstra în formă electronică documentul generat în formă electronică în următoarele condiţii: a) să îndeplinească cerinţele privind asigurarea conformităţii informaţiilor înregistrate în formă electronică cu cele înscrise pe documentul pe hârtie; b) să arhiveze şi să asigure accesul la bonurile emise în formă electronică. (2) Ministerul Economiei şi Finanţelor va stabili condiţiile specifice de emitere a documentelor prevăzute la art. 21. (3) Ministerul Economiei şi Finanţelor autorizează persoanele care îndeplinesc condiţiile prevăzute la alin. (1) să păstreze în formă electronică bonurile emise de casele de marcat/bancomat. (4) Condiţiile de autorizare vor fi stabilite prin norme metodologice emise de Ministerul Economiei şi Finanţelor, în termen de 60 de zile de la data publicării prezentei legi."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul VI - Regimul documentelor în formă electronică aferente tranzacţiilor înregistrate prin intermediul caselor de marcat şi terminalelor automate bancare (bancomat) | Secţiunea a 3-a - Anularea facturilor",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Termenul de arhivare al bonurilor fiscale şi al bonurilor emise de casele de marcat de către bancomatele bancare, în formă electronică, va fi acelaşi cu cel prevăzut pentru cele emise pe suport de hârtie."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul VII - Registrul electronic al persoanelor care emit facturi, chitanţe şi bonuri fiscale în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "(1) În termen de 60 de zile de la data intrării în vigoare a prezentei legi se înfiinţează Registrul electronic al persoanelor care emit facturi, chitanţe şi bonuri fiscale în formă electronică, constituit şi actualizat de Ministerul Economiei şi Finanţelor. (2) Procedura de înscriere în registru şi documentaţia necesară se stabilesc prin normele metodologice elaborate de Ministerul Economiei şi Finanţelor, în termen de 60 de zile de la data publicării prezentei legi."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul VII - Registrul electronic al persoanelor care emit facturi, chitanţe şi bonuri fiscale în formă electronică | Secţiunea a 3-a - Anularea facturilor",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Registrul este public, disponibil on-line, şi se actualizează permanent. Condiţiile de acces la informaţiile pe care le conţine, informaţiile care pot fi oferite solicitanţilor şi modul de actualizare a registrului se stabilesc prin normele metodologice elaborate de Ministerul Economiei şi Finanţelor, în termen de 60 de zile de la data publicării prezentei legi."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul VIII - Omologarea sistemelor informatice | Secţiunea a 3-a - Anularea facturilor",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "(1) Sistemele informatice destinate operaţiunilor de emitere a facturilor în formă electronică pot fi utilizate numai dacă sunt omologate în prealabil de către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei. (2) Conformitatea acestor sisteme informatice cu normele de securizare a informaţiei prelucrate sau arhivate, precum şi cu prevederile prezentei legi se verifică de către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei, cu respectarea principiilor standardizării şi interoperabilităţii. (3) În urma îndeplinirii procedurii de verificare a sistemului informatic, Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei emite certificatul de omologare a sistemului informatic. Certificatul poate fi retras în cazul în care Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei constată că sistemul informatic nu mai îndeplineşte criteriile prevăzute în normele de asigurare a informaţiei prelucrate sau arhivate. Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei are obligaţia de a comunică Ministerului Economiei şi Finanţelor retragerea acestui certificat în termen de 15 zile. (4) Procedura de verificare şi omologare a sistemelor informatice se stabileşte prin decizie a preşedintelui Autorităţii Naţionale pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei, cu consultarea reprezentanţilor organismelor din domeniul profesiei contabile şi a Ministerului Economiei şi Finanţelor. (5) Efectuarea verificării prevăzute la alin. (2) se realizează numai după plata de către solicitant către Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei a unui tarif de omologare al cărui cuantum va fi stabilit prin decizie a preşedintelui Autorităţii Naţionale pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei. (6) Tariful de omologare constituie venit propriu al Autorităţii Naţionale pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul IX - Contravenţii şi sancţiuni | Secţiunea a 3-a - Anularea facturilor",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Constituie contravenţie fapta persoanei fizice sau juridice care: a) omite să opereze în Registrul electronic de evidenţă a facturilor în formă electronică sau operează cu nerespectarea prevederilor prezentei legi; b) omite să efectueze notificarea prevăzută la art. 12 alin. (4); c) omite sau întârzie să efectueze notificarea prevăzută la art. 15; d) pune în funcţiune modificările aduse sistemului informatic cu funcţii omologate pentru emiterea facturilor în formă electronică fără avizul prevăzut la art. 14 alin. (2)."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul IX - Contravenţii şi sancţiuni | Secţiunea a 3-a - Anularea facturilor",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Contravenţiile prevăzute la art. 27 se sancţionează cu amendă de la 500 lei la 5.000 lei."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul IX - Contravenţii şi sancţiuni | Secţiunea a 3-a - Anularea facturilor",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "(1) Constatarea contravenţiilor şi aplicarea sancţiunilor sunt de competenţa personalului anume împuternicit în acest sens din cadrul Ministerului Economiei şi Finanţelor. (2) Pentru constatarea contravenţiilor prevăzute la art. 27 lit. d), Ministerul Economiei şi Finanţelor poate solicita Autorităţii Naţionale pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei efectuarea de verificări."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul X - Dispoziţii tranzitorii şi finale | Secţiunea a 3-a - Anularea facturilor",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "(1) În termen de 90 de zile de la publicarea prezentei legi, Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei va elabora reglementările referitoare la normele de performanţă şi securitate cu privire la sistemele informatice utilizate de persoanele care emit, transmit sau arhivează facturi, chitanţe şi bonuri fiscale în formă electronică. (2) Cheltuielile înregistrate de persoanele care emit, transmit sau arhivează facturi, chitanţe şi bonuri fiscale în formă electronică, cheltuielile efectuate cu investiţiile pentru dotări şi alte utilităţi necesare desfăşurării acestei activităţi sunt amortizabile pe o perioadă de 5 ani de la prima înregistrare ca utilizator de factură în formă electronică. (3) Cheltuielile înregistrate de persoanele care emit facturi, chitanţe şi bonuri fiscale în formă electronică privind investiţiile legate de modificarea şi perfecţionarea sistemelor informatice utilizate în activitatea de facturare electronică sunt amortizabile pe o perioadă de 3 ani, începând cu data iniţierii investiţiei, probată cu hotărârea administratorului, respectiv a consiliului de administraţie al persoanei care iniţiază cheltuiala, iar în cazul persoanelor fizice, prin declaraţie pe propria răspundere."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul X - Dispoziţii tranzitorii şi finale | Secţiunea a 3-a - Anularea facturilor",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Dispoziţiile prezentei legi se completează cu prevederile Legii nr. 82/1991 , republicată, ale Legii nr. 455/2001 , ale Legii nr. 451/2004 şi ale Legii nr. 571/2003 , cu modificările şi completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul X - Dispoziţii tranzitorii şi finale | Secţiunea a 3-a - Anularea facturilor",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Prezenta lege intră în vigoare la data de 1 ianuarie 2008. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR BOGDAN OLTEANU PREŞEDINTELE SENATULUI NICOLAE VĂCĂROIU Bucureşti, 19 iulie 2007. Nr. 260. ------"
+    }
+  ],
+  "definitions": []
+}

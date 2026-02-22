@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276214",
+  "type": "statute",
+  "title": "LEGE nr. 336 din 9 noiembrie 2023",
+  "short_name": "lege 336 09 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-09",
+  "in_force_date": "2023-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276214",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 336 09/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 40 din 28 iunie 2016 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 490 din 30 iunie 2016."
+    }
+  ],
+  "definitions": []
+}

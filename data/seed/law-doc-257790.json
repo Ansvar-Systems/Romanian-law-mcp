@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257790",
+  "type": "statute",
+  "title": "LEGE nr. 261 din 21 iulie 2022",
+  "short_name": "lege 261 21 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-21",
+  "in_force_date": "2022-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257790",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 261 21/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 363 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ , publicată în Monitorul Oficial al României, Partea I, nr. 555 din 5 iulie 2019, cu modificările și completările ulterioare, alineatul (6) se modifică și va avea următorul cuprins: (6) Cu excepția cazurilor în care prin lege se prevede altfel, prețul minim de vânzare, aprobat prin hotărâre a Guvernului sau prin hotărâre a autorităților deliberative de la nivelul administrației publice locale, după caz, va fi valoarea cea mai mare dintre prețul de piață determinat prin raport de evaluare întocmit de evaluatori persoane fizice sau juridice, autorizați, în condițiile legii, și selectați cu respectarea legislației în domeniul achizițiilor publice, și valoarea de inventar a imobilului."
+    }
+  ],
+  "definitions": []
+}

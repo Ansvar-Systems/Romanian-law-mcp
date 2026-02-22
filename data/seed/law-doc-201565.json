@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201565",
+  "type": "statute",
+  "title": "LEGE nr. 128 din 15 iunie 2018",
+  "short_name": "lege 128 15 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-15",
+  "in_force_date": "2018-06-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201565",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 128 15/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (4) al articolului 386 din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (5), cu următorul cuprins: (5) În vederea exercitării dreptului de liberă practică, casele de asigurări de sănătate au obligația să încheie un contract cu medicul prevăzut la alin. (1) lit. b), prin care acesta dobândește dreptul de a elibera certificate de concediu medical, bilete de trimitere pentru consultații și investigații paraclinice gratuite, rețete gratuite sau compensate."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277810",
+  "type": "statute",
+  "title": "LEGE nr. 419 din 28 decembrie 2023",
+  "short_name": "lege 419 28 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-28",
+  "in_force_date": "2023-12-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277810",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 419 28/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 6 alineatul (1) din Legea nr. 102/2016 privind incubatoarele de afaceri, publicată în Monitorul Oficial al României, Partea I, nr. 393 din 23 mai 2016, după litera b) se introduce o nouă literă, lit. b^1), cu următorul cuprins: b^1) incubator de afaceri de inovare digitală - vizează organizațiile ce oferă acces IMM-urilor la expertiza tehnologică și la facilități de experimentare, echipamente, instrumente informatice și arhitecturi de rețele de comunicații în bandă largă, care să permită transformarea digitală a întreprinderilor;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166322",
+  "type": "statute",
+  "title": "LEGE nr. 38 din 11 martie 2015",
+  "short_name": "lege 38 11 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-11",
+  "in_force_date": "2015-03-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166322",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 38 11/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "După alineatul (2) al articolului 100 din Legea fondului funciar nr. 18/1991 , republicată în Monitorul Oficial al României, Partea I, nr. 1 din 5 ianuarie 1998, cu modificările şi completările ulterioare, se introduce un nou alineat, alineatul (3), cu următorul cuprins: \"(3) Autoritatea publică centrală care răspunde de agricultură şi dezvoltare rurală şi autoritatea publică centrală care răspunde de silvicultură desemnează specialişti împuterniciţi cu evidenţa şi monitorizarea depozitării şi folosirii stratului de sol fertil prevăzut la alin. (1).\""
+    }
+  ],
+  "definitions": []
+}

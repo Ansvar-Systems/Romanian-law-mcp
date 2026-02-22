@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-209520",
+  "type": "statute",
+  "title": "LEGE nr. 350 din 27 decembrie 2018",
+  "short_name": "lege 350 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209520",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 350 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 14 septembrie - Ziua națională a constructorului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Autoritățile administrației publice centrale și locale, precum și organizațiile neguvernamentale pot organiza manifestări și acțiuni publice dedicate sărbătoririi zilei."
+    }
+  ],
+  "definitions": []
+}

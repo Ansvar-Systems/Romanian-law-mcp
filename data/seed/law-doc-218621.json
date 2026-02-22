@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-218621",
+  "type": "statute",
+  "title": "LEGE nr. 163 din 1 octombrie 2019",
+  "short_name": "lege 163 01 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-01",
+  "in_force_date": "2019-10-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/218621",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 163 01/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 103 din 29 noiembrie 2018 pentru modificarea art. 1 din Legea nr. 49/1991 privind acordarea de indemnizații și sporuri invalizilor, veteranilor și văduvelor de război, publicată în Monitorul Oficial al României, Partea I, nr. 1.028 din 3 decembrie 2018."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 11 din Legea nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război, republicată în Monitorul Oficial al României, Partea I, nr. 783 din 28 octombrie 2002, cu modificările și completările ulterioare, alineatul 2 se modifică și va avea următorul cuprins: Soțul supraviețuitor al veteranului de război, care nu s-a recăsătorit, beneficiază de 100% din indemnizația de veteran de război și de jumătate din renta lunară prevăzută la art. 13 și 14, precum și de jumătate din numărul călătoriilor gratuite la care avea ori trebuia să aibă dreptul, potrivit legii, soțul decedat."
+    }
+  ],
+  "definitions": []
+}

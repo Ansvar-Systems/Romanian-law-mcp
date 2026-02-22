@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-265506",
+  "type": "statute",
+  "title": "LEGE nr. 57 din 3 martie 2023",
+  "short_name": "lege 57 03 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-03",
+  "in_force_date": "2023-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265506",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 57 03/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 190 din Legea nr. 134/2010 privind Codul de procedură civilă, republicată în Monitorul Oficial al României, Partea I, nr. 247 din 10 aprilie 2015, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 190 Stabilirea amenzii și despăgubirii Abaterea săvârșită, amenda și despăgubirea se stabilesc de către instanța în fața căreia s-a săvârșit fapta sau, după caz, de către președintele instanței de executare, prin încheiere executorie, care se comunică celui obligat, dacă măsura a fost luată în lipsa acestuia. Atunci când obligația încălcată incumbă unei autorități sau instituții publice sau oricărei alte persoane juridice, amenda și despăgubirile pentru fapta ilicită vor fi stabilite în sarcina acesteia. Atunci când fapta constă în formularea unei cereri cu rea-credință, amenda și despăgubirea pot fi stabilite fie de instanța în fața căreia cererea a fost formulată, fie de către instanța care a soluționat-o, atunci când acestea sunt diferite."
+    }
+  ],
+  "definitions": []
+}

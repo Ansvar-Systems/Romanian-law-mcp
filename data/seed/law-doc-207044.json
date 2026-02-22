@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-207044",
+  "type": "statute",
+  "title": "LEGE nr. 267 din 19 noiembrie 2018",
+  "short_name": "lege 267 19 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-19",
+  "in_force_date": "2018-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/207044",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 267 19/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 116 din 28 decembrie 2017 privind unele măsuri bugetare și pentru modificarea Legii nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 1.043 din 29 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

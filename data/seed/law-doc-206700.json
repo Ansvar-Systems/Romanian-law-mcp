@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-206700",
+  "type": "statute",
+  "title": "LEGE nr. 254 din 8 noiembrie 2018",
+  "short_name": "lege 254 08 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-08",
+  "in_force_date": "2018-11-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/206700",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 254 08/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Libaneze privind cooperarea în domeniul militar, semnat la București la 27 noiembrie 2017."
+    }
+  ],
+  "definitions": []
+}

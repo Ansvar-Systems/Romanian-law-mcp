@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190744",
+  "type": "statute",
+  "title": "LEGE nr. 156 din 29 iunie 2017",
+  "short_name": "lege 156 29 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-29",
+  "in_force_date": "2017-06-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190744",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 156 29/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța Guvernului nr. 27 din 30 august 2010 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2005 privind transporturile rutiere, adoptată în temeiul art. 1 pct. III.2 din Legea nr. 138/2010 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 616 din 31 august 2010."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-199092",
+  "type": "statute",
+  "title": "LEGE nr. 75 din 22 martie 2018",
+  "short_name": "lege 75 22 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-22",
+  "in_force_date": "2018-03-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/199092",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 75 22/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Convenția dintre România și Bosnia și Herțegovina pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnată la Sarajevo la 6 decembrie 2016."
+    }
+  ],
+  "definitions": []
+}

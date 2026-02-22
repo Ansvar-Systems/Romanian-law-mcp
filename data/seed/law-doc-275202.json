@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275202",
+  "type": "statute",
+  "title": "LEGE nr. 270 din 10 octombrie 2023",
+  "short_name": "lege 270 10 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-10",
+  "in_force_date": "2023-10-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275202",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 270 10/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 32 din 31 august 2022 privind reglementarea unei măsuri financiar-fiscale și bugetare, adoptată în temeiul art. l pct. I.5 din Legea nr. 186/2022 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 856 din 31 august 2022."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239313",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 16 martie 2021",
+  "short_name": "lege 36 16 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239313",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 16/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 107 din 1 iulie 2020 privind modificarea art. II din Ordonanța Guvernului nr. 5/2020 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală și pentru prorogarea unor termene, publicată în Monitorul Oficial al României, Partea I, nr. 579 din 1 iulie 2020."
+    }
+  ],
+  "definitions": []
+}

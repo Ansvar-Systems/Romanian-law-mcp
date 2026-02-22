@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-177096",
+  "type": "statute",
+  "title": "LEGE nr. 46 din 30 martie 2016",
+  "short_name": "lege 46 30 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-30",
+  "in_force_date": "2016-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177096",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 46 30/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La alineatul (2) al articolului 6 din Ordonanţa Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii, publicată în Monitorul Oficial al României, Partea I, nr. 39 din 31 ianuarie 2000, aprobată cu modificări şi completări prin Legea nr. 246/2005 , cu modificările şi completările ulterioare, litera f) se modifică după cum urmează: \"f) patrimoniul iniţial al asociaţiei; activul patrimonial nu poate fi mai mic de 200 lei şi este alcătuit din aportul în natură şi/sau în bani al asociaţilor. În cazul aportului în natură, constând în bunuri imobile, forma autentică a actului constitutiv şi a statutului este obligatorie;\""
+    }
+  ],
+  "definitions": []
+}

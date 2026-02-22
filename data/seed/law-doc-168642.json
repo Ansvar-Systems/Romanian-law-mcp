@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168642",
+  "type": "statute",
+  "title": "LEGE nr. 135 din 8 iunie 2015",
+  "short_name": "lege 135 08 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-08",
+  "in_force_date": "2015-06-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168642",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 135 08/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 48 din 2 iunie 2010 pentru modificarea şi completarea unor acte normative din domeniul sănătăţii în vederea descentralizării, publicată în Monitorul Oficial al României, Partea I, nr. 384 din 10 iunie 2010."
+    }
+  ],
+  "definitions": []
+}

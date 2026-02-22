@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169309",
+  "type": "statute",
+  "title": "LEGE nr. 178 din 30 iunie 2015",
+  "short_name": "lege 178 30 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-30",
+  "in_force_date": "2015-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169309",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 178 30/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 4 din 21 ianuarie 2015 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, adoptată în temeiul art. 1 pct. I.1 şi pct. X din Legea nr. 184/2014 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 74 din 28 ianuarie 2015."
+    }
+  ],
+  "definitions": []
+}

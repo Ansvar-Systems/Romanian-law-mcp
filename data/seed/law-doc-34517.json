@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-34517",
+  "type": "statute",
+  "title": "LEGE nr. 175 din 25 iulie 1931",
+  "short_name": "lege 175 25 07 1931",
+  "status": "in_force",
+  "issued_date": "1931-07-25",
+  "in_force_date": "1931-07-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34517",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 175 25/07/1931",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acorda d-nei Elisabeta Radu Beller, cu începere dela 1 Iulie 1931, o renta viageră de lei 15.000 lunar, reversibila asupra fiicelor sale Anca şi Mona. La încetarea din viaţa a uneia dintre ele, aceasta renta este reversibila întreaga asupra celei rămase în viaţa pînă la moartea ei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Suma necesară se va înscrie în bugetul general al statului, iar pentru anul 1931, plata se va face din fondul de deschidere de credite suplimentare şi extraordinare pe anul 1931. (Votat de Adunarea Deputaţilor la 8 Iulie şi de Senat la 10 Iulie 1931) ------------"
+    }
+  ],
+  "definitions": []
+}

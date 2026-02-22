@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-29775",
+  "type": "statute",
+  "title": "LEGE nr. 428 din 18 iulie 2001",
+  "short_name": "lege 428 18 07 2001",
+  "status": "in_force",
+  "issued_date": "2001-07-18",
+  "in_force_date": "2001-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/29775",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 428 18/07/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 133 din 16 septembrie 1999 privind completarea Legii nr. 82/1992 privind rezervele de stat, publicată în Monitorul Oficial al României, Partea I, nr. 455 din 20 septembrie 1999, cu următoarea modificare: – La articolul I punctul 1, alineatul 2^1 al articolului 5 va avea următorul cuprins: Prevederile alineatului precedent nu se aplică în situația în care beneficiarul împrumutului intra sau, după caz, se afla sub incidența prevederilor Legii nr. 64/1995 privind procedura reorganizării judiciare și a falimentului, cu modificările ulterioare. În aceste situații restituirea împrumutului se asimilează cheltuielilor efectuate pentru conservarea și administrarea bunurilor din averea debitorului, care se satisfac cu prioritate față de toți creditorii."
+    }
+  ],
+  "definitions": []
+}

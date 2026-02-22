@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-249113",
+  "type": "statute",
+  "title": "LEGE nr. 290 din 9 decembrie 2021",
+  "short_name": "lege 290 09 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-09",
+  "in_force_date": "2021-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249113",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 290 09/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul , adoptat la Strasbourg la 10 octombrie 2018, semnat de România la 26 iunie 2020, de amendare a Convenției pentru protejarea persoanelor față de prelucrarea automatizată a datelor cu caracter personal, adoptată la Strasbourg la 28 ianuarie 1981, ratificată de România prin Legea nr. 682/2001 , cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

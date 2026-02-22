@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209004",
+  "type": "statute",
+  "title": "LEGE nr. 313 din 17 decembrie 2018",
+  "short_name": "lege 313 17 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-17",
+  "in_force_date": "2018-12-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209004",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 313 17/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 81 din 13 septembrie 2018 pentru modificarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, publicată în Monitorul Oficial al României, Partea I, nr. 792 din 17 septembrie 2018."
+    }
+  ],
+  "definitions": []
+}

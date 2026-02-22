@@ -1,0 +1,608 @@
+{
+  "id": "law-doc-266574",
+  "type": "statute",
+  "title": "LEGE nr. 76 din 3 aprilie 2023",
+  "short_name": "lege 76 03 04 2023",
+  "status": "in_force",
+  "issued_date": "2023-04-03",
+  "in_force_date": "2023-04-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266574",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 76 03/04/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege stabilește măsurile premergătoare, condițiile și procedurile referitoare la introducerea și prelucrarea în Sistemul informatic național de semnalări, denumit în continuare SINS, a semnalărilor de interes național, în aplicarea la nivel național a anumitor prevederi cuprinse în următoarele regulamente europene: a) Regulamentul (UE) 2018/1.860 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind utilizarea Sistemului de informații Schengen pentru returnarea resortisanților țărilor terțe aflați în situație de ședere ilegală, denumit în continuare Regulamentul SIS returnare; b) Regulamentul (UE) 2018/1.861 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind instituirea, funcționarea și utilizarea Sistemului de informații Schengen (SIS) în domeniul verificărilor la frontiere, de modificare a Convenției de punere în aplicare a Acordului Schengen și de modificare și abrogare a Regulamentului (CE) nr. 1.987/2006, cu modificările și completările ulterioare, denumit în continuare Regulamentul SIS verificări la frontiere; c) Regulamentul (UE) 2018/1.862 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind instituirea, funcționarea și utilizarea Sistemului de informații Schengen (SIS) în domeniul cooperării polițienești și al cooperării judiciare în materie penală, de modificare și de abrogare a Deciziei 2007/533/JAI a Consiliului și de abrogare a Regulamentului (CE) nr. 1.986/2006 al Parlamentului European și al Consiliului și a Deciziei 2010/261/UE a Comisiei, cu modificările și completările ulterioare, denumit în continuare Regulamentul SIS cooperare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Termenii și expresiile utilizate în prezenta lege au semnificația prevăzută în regulamentele europene prevăzute la art. 1 . (2) În înțelesul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații: a) Sistem de informații Schengen, denumit în continuare SIS - sistemul informatic instituit la nivelul Uniunii Europene și utilizat de statele membre și asociate pentru cooperarea prin schimb de date și informații, în vederea menținerii ordinii publice și securității naționale pe teritoriile acestora; b) Sistem informatic național de semnalări - sistemul informatic compatibil cu SIS care conține semnalări de interes național și de interes Schengen, introduse de către autoritățile naționale competente; c) sistem informatic SIRENE - sistemul informatic național, gestionat de Poliția Română, destinat stocării informațiilor de către autoritățile române și schimbului de date între acestea și organismele europene implicate în lupta împotriva criminalității transfrontaliere în statele membre și asociate; d) Biroul național SIRENE - structura specializată din cadrul Poliției Române care asigură realizarea schimbului de informații suplimentare cu birourile SIRENE din celelalte state membre ale Uniunii Europene și din cele asociate, în conformitate cu prevederile regulamentelor europene prevăzute la art. 1 ; e) componentă națională a SIS în sensul art. 4 din Regulamentul SIS verificări la frontiere și al Regulamentului SIS cooperare, denumită în continuare N.SIS - sistemul informatic constituit din SINS și copia națională parțială a bazei de date centrale a SIS; f) copie națională în sensul art. 4 alin. (1) teza a doua din Regulamentul SIS verificări la frontieră și art. 4 alin. (1) teza a doua din Regulamentul SIS cooperare - copia națională parțială accesibilă pentru efectuarea de căutări de către autoritățile naționale competente; g) control discret - activitate desfășurată de către Poliția de Frontieră Română și Poliția Română cu ocazia efectuării controlului la trecerea frontierei de stat ori a altui tip de control polițienesc sau vamal, în aplicarea art. 37 alin. (3) din Regulamentul SIS cooperare; h) control prin interviu - activitate desfășurată de către Poliția de Frontieră Română și Poliția Română cu ocazia conducerii la sediu, potrivit Legii nr. 218/2002 privind organizarea și funcționarea Poliției Române, republicată, cu modificările și completările ulterioare, și a Ordonanței de urgență a Guvernului nr. 104/2001 privind organizarea și funcționarea Poliției de Frontieră Române, aprobată cu modificări prin Legea nr. 81/2002 , cu modificările și completările ulterioare, în aplicarea art. 37 alin. (4) din Regulamentul SIS cooperare; i) control specific - activitate desfășurată de către Poliția de Frontieră Română și Poliția Română potrivit Legii nr. 218/2002 , republicată, cu modificările și completările ulterioare, și a Ordonanței de urgență a Guvernului nr. 104/2001 , aprobată cu modificări prin Legea nr. 81/2002 , cu modificările și completările ulterioare, constând în efectuarea controlului corporal al persoanelor și al bagajelor acestora, precum și a controlului vehiculului și al obiectelor transportate, după caz, cu ocazia desfășurării controlului la trecerea frontierei de stat ori a altui tip de control polițienesc sau vamal, în aplicarea art. 37 alin. (5) din Regulamentul SIS cooperare; j) semnalare de interes național - semnalarea introdusă în SINS de o autoritate națională competentă; k) semnalare de interes Schengen - semnalarea transmisă din SINS în SIS; l) sistem AFIS național - sistemul automatizat pentru identificarea datelor dactiloscopice, organizat la nivelul Poliției Române potrivit Ordonanței Guvernului nr. 10/2012 pentru crearea cadrului legal necesar căutării automatizate a datelor de referință în relația cu statele membre ale Uniunii Europene și asigurării recunoașterii activităților de laborator referitoare la datele dactiloscopice, aprobată prin Legea nr. 22/2013 , cu modificările ulterioare; m) stat asociat - stat cu care Uniunea Europeană a încheiat acorduri în vederea participării la SIS; n) stat membru - stat membru al Uniunii Europene care utilizează SIS; o) furnizare - introducerea de date în SINS din bazele de date proprii, modificarea și ștergerea acestor date de către autoritățile naționale competente; p) consultare - examinarea de către autoritățile naționale competente a elementelor cuprinse în semnalările din SINS; q) tranzacție - operațiunea de furnizare sau consultare a datelor conținute în SINS."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) În sensul art. 17 alin. (1) din Regulamentul SIS returnare, al art. 34 din Regulamentul SIS verificări la frontiere și al art. 44-46 din Regulamentul SIS cooperare, autoritățile și instituțiile publice cu drept de acces, furnizare sau consultare de date în SINS, denumite în continuare autorități naționale competente, prin raportare la atribuțiile funcționale proprii, sunt următoarele: a) Poliția Română, Poliția de Frontieră Română, Jandarmeria Română, Inspectoratul General pentru Imigrări, Direcția Generală pentru Evidența Persoanelor, Direcția Generală de Protecție Internă, Direcția Generală de Pașapoarte, Direcția generală permise de conducere și înmatriculări din subordinea Ministerului Afacerilor Interne, precum și serviciile publice comunitare regim permise de conducere și înmatriculare a vehiculelor; b) Ministerul Afacerilor Externe; c) Ministerul Justiției și instanțele judecătorești; d) Ministerul Public; e) Autoritatea Vamală Română; f) Ministerul Transporturilor și Infrastructurii, prin Autoritatea Aeronautică Civilă Română, și Autoritatea Navală Română. (2) Tranzacțiile la care au acces autoritățile naționale competente sunt prevăzute în anexa care face parte integrantă din prezenta lege, care poate fi modificată prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Autoritatea de supraveghere competentă în sensul regulamentelor europene prevăzute la art. 1 este Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal, denumită în continuare Autoritatea națională de supraveghere."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea 1 - Obiectivul general al SINS",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) SINS conține semnalări cu privire la persoane sau obiecte, corespunzător tipurilor de semnalări prevăzute de regulamentele europene prevăzute la art. 1 . (2) SINS asigură transmiterea semnalărilor de interes Schengen în SIS. (3) SINS este destinat să asigure posibilitatea, pentru autoritățile naționale competente, ca prin intermediul unei proceduri automate să efectueze tranzacții cu privire la semnalările pe care le conține, în scopul îndeplinirii atribuțiilor legale. (4) SINS respectă standardele, protocoalele și procedurile tehnice stabilite pentru SIS central, adoptate potrivit regulamentelor europene prevăzute la art. 1 , astfel încât cele două sisteme informatice să fie compatibile."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 2-a - Gestionarea și utilizarea SINS",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) În aplicarea regulamentelor europene prevăzute la art. 1 , se desemnează Ministerul Afacerilor Interne, prin Centrul Național SIS, ca autoritate responsabilă cu implementarea, funcționarea, întreținerea, administrarea, monitorizarea, dezvoltarea și securitatea SINS, precum și cu asigurarea accesului autorităților naționale competente la SINS. (2) În coordonarea Ministerului Afacerilor Interne funcționează Comitetul tehnic, organism consultativ, fără personalitate juridică, cu atribuții de analiză și soluționare a problemelor de ordin tehnic ce pot apărea în funcționarea SINS. (3) Comitetul tehnic este compus din reprezentanți, la nivel de expert, desemnați de autoritățile naționale competente care au drept de acces la SINS și doi reprezentanți ai Direcției Generale de Protecție Internă, în calitate de structură responsabilă cu îndrumarea, coordonarea și controlul activităților pentru protecția surselor generatoare de informații - INFOSEC și securitate cibernetică la nivelul structurilor Ministerului Afacerilor Interne. (4) Președintele Comitetului tehnic este șeful Centrului Național SIS. (5) Comitetul tehnic are următoarele atribuții principale: a) analizează activitatea de modernizare a sistemelor informatice și de comunicații participante la SINS, în vederea asigurării compatibilității între acestea și SINS; b) analizează problemele tehnice semnalate de autoritățile naționale competente, apărute în implementarea și funcționarea SINS, și propune modalități de soluționare a acestora; c) asigură informarea autorităților naționale competente cu privire la aspectele discutate în cadrul grupurilor de lucru tehnice ale Uniunii Europene în domeniul SIS/SIRENE; d) analizează și soluționează problemele de ordin tehnic ce pot apărea în funcționarea N.SIS. (6) Comitetul tehnic se întrunește anual sau ori de câte ori este nevoie, la convocarea președintelui acestuia sau în urma solicitării autorităților naționale competente. (7) Secretariatul Comitetului tehnic este asigurat de Centrul Național SIS."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 2-a - Gestionarea și utilizarea SINS",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Se înființează Comitetul operațional, ca organism consultativ, fără personalitate juridică, aflat în coordonarea Ministerului Afacerilor Interne, cu atribuții de analiză și soluționare a problemelor de ordin operațional ce pot apărea în gestionarea semnalărilor din SINS și SIS și a schimbului de date și informații suplimentare. (2) Comitetul operațional este compus din reprezentanți desemnați de autoritățile naționale competente care au drept de acces la SINS și un reprezentant al Centrului Multifuncțional de Pregătire Schengen. (3) Președintele Comitetului operațional este șeful Biroului național SIRENE. (4) Comitetul operațional are următoarele atribuții principale: a) analizează activitatea de gestionare a semnalărilor din SINS și SIS de către autoritățile naționale competente și a schimbului de informații suplimentare; b) analizează problemele operaționale semnalate de autoritățile naționale competente, apărute în gestionarea semnalărilor din SINS și SIS și a schimbului de informații suplimentare și propune modalități de soluționare a acestora; c) asigură informarea autorităților naționale competente cu privire la aspectele discutate în cadrul grupurilor de lucru operaționale și legislative ale Uniunii Europene în domeniul SIS/SIRENE și monitorizează implementarea acestora la nivel național; d) solicită autorităților naționale competente care au drept de acces la SINS, prin reprezentanții desemnați în cadrul acestuia, statistici privind numărul de interogări efectuate în SIS, numărul de rezultate pozitive înregistrate, numărul de legături create între semnalări, numărul de sesiuni de instruire susținute privind domeniul SIS/SIRENE și numărul de utilizatori finali pregătiți; e) analizează și soluționează problemele operaționale ce pot apărea în gestionarea semnalărilor din N.SIS și a schimbului de date și informații suplimentare; f) se întrunește în ședințe comune cu Comitetul tehnic, prevăzut la art. 6 , atunci când problemele semnalate se circumscriu atribuțiilor ambelor comitete. (5) Comitetul operațional se întrunește anual sau ori de câte ori este nevoie, la convocarea președintelui acestuia sau la solicitarea autorităților naționale competente. (6) Secretariatul Comitetului operațional este asigurat de către Centrul de Cooperare Polițienească Internațională din cadrul Inspectoratului General al Poliției Române."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 2-a - Gestionarea și utilizarea SINS",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Autoritățile naționale competente care au drept de acces la SINS, potrivit anexei, transmit datele specifice tipurilor de semnalări prevăzute la art. 3 din Regulamentul SIS returnare, art. 24 din Regulamentul SIS verificări la frontiere și la art. 32, 34, 36, 38 și 40 din Regulamentul SIS cooperare, din bazele de date proprii în SINS, sau prin utilizarea interfeței grafice a SINS dedicate gestionării manuale a semnalărilor. (2) Autoritățile naționale competente care au drept de furnizare de date, potrivit anexei, întreprind demersurile de ordin tehnic pentru transmiterea directă a datelor în SIS, prin intermediul SINS, informând Comitetul tehnic cu privire la respectivele demersuri. (3) Autoritățile naționale competente utilizează datele cuprinse în semnalările la care au drept de acces, cu respectarea art. 19 din Regulamentul SIS returnare, art. 41 din Regulamentul SIS verificări la frontiere, respectiv art. 56 din Regulamentul SIS cooperare, numai în scopurile prevăzute pentru fiecare tip de semnalare prevăzut de regulamentele prevăzute la art. 1 . (4) Drepturile de acces la SINS ale autorităților naționale competente se extind și la copia națională."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Semnalările prevăzute la art. 26 din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, cu respectarea Legii nr. 302/2004 privind cooperarea judiciară internațională în materie penală, republicată, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) Semnalările prevăzute la art. 32 alin. (1) lit. a) pct. (i) și lit. b) din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, la sesizarea oricărei persoane, dacă în urma verificărilor efectuate de Poliția Română se constată că sesizarea este întemeiată, sau la sesizarea oricărei instituții sau unități sanitare. (2) Semnalările prevăzute la art. 32 alin. (1) lit. a) pct. (ii) din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, la sesizarea instituțiilor sau a unităților sanitare, după cum urmează: a) în baza documentelor emise de acestea, prin care se dispune internarea nevoluntară, în cazul persoanelor cu tulburări psihice, în executarea hotărârii instanței emise potrivit Legii sănătății mintale și a protecției persoanelor cu tulburări psihice nr. 487/2002, republicată , cu completările ulterioare; b) în baza hotărârii instanței de judecată prin care s-a dispus internarea medicală, potrivit Legii nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare. (3) Semnalările din categoria celor prevăzute la art. 32 alin. (1) lit. c) din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, la solicitarea instanței de judecată competente potrivit Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare, adresată de către direcția generală de asistență socială și protecția copilului. (4) Semnalările prevăzute la art. 32 alin. (1) lit. d) pct. (i) din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, la solicitarea organelor judiciare sau a direcției generale de asistență socială și protecția copilului. (5) Semnalările prevăzute la art. 32 alin. (1) lit. d) pct. (ii) și (iii) din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, la solicitarea organelor judiciare sau a organelor de stat cu atribuții în domeniul securității naționale. (6) Semnalările prevăzute la art. 32 alin. (1) lit. e) din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, la solicitarea organelor judiciare sau a serviciului public de asistență socială."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) În cazul depistării unei persoane cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. a) din Regulamentul SIS cooperare, autoritățile române iau măsuri potrivit actelor normative de organizare și funcționare proprii, aplicându-se, după caz, prevederile Legii nr. 487/2002, republicată , cu completările ulterioare, ale Legii nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologie și biologic, republicată, cu modificările și completările ulterioare, ale Legii nr. 135/2010 , cu modificările și completările ulterioare, ale Legii nr. 272/2004, republicată , cu modificările și completările ulterioare, sau ale Legii asistenței sociale nr. 292/2011 , cu modificările și completările ulterioare. (2) Reprezentanții serviciilor de asistență socială sau, după caz, ai serviciilor sociale, precum și cei ai serviciilor de ambulanță competente teritorial au obligația de a se prezenta și prelua persoana în vederea asigurării serviciilor medicale și sociale, după caz."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "În cazul depistării unei persoane majore cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. b) din Regulamentul SIS cooperare, aceasta este informată despre existența semnalării și i se solicită consimțământul cu privire la transmiterea către persoana sau instituția care a sesizat dispariția, a informațiilor privind adresa la care locuiește."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) În cazul depistării unei persoane cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. c) din Regulamentul SIS cooperare, se informează instanța de judecată și direcția generală de asistență socială și protecția copilului, Legea nr. 272/2004, republicată , cu modificările și completările ulterioare, aplicându-se în mod corespunzător. (2) Reprezentanții direcției generale de asistență socială și protecția copilului au obligația de a se prezenta de îndată la locul unde minorul a fost identificat sau unde se află acesta, în vederea preluării sale. În cazul în care minorul necesită asistență medicală, este solicitat serviciul de ambulanță județean sau al municipiului București, în vederea asigurării serviciilor medicale de urgență și preluării cu celeritate în vederea internării în cea mai apropiată instituție sau unitate sanitară care are capacitatea de a-i acorda un tratament adecvat, până în momentul în care starea de sănătate permite preluarea sa. (3) După preluarea minorului, direcția generală de asistență socială și protecția copilului în a cărei rază teritorială își are domiciliul are obligația de a realiza, din oficiu, o evaluare psihosocială a acestuia, în vederea identificării unor eventuale cazuri de abuz, neglijare, exploatare sau a oricărei forme de violență și dispunerii măsurilor de protecție corespunzătoare potrivit Legii nr. 272/2004 , republicată, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "În cazul depistării unei persoane cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. d) pct. (i) din Regulamentul SIS cooperare se informează autoritatea care a solicitat introducerea semnalării, aplicându-se prevederile Legii nr. 272/2004 , republicată, cu modificările și completările ulterioare. Dispozițiile art. 13 alin. (2) și (3) se aplică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "În cazul depistării unei persoane cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. d) pct. (ii) și (iii) din Regulamentul SIS cooperare, se informează autoritatea care a solicitat introducerea semnalării, aplicându-se prevederile actelor normative de organizare și funcționare ale organelor de stat cu atribuții în domeniul securității naționale, respectiv ale Legii nr. 272/2004 , republicată, cu modificările și completările ulterioare. Dispozițiile art. 13 alin. (2) și (3) se aplică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "(1) În cazul depistării unei persoane cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. e) din Regulamentul SIS cooperare, se informează autoritatea care a solicitat introducerea semnalării, dispozițiile Legii nr. 292/2011 , cu modificările și completările ulterioare, aplicându-se în mod corespunzător. (2) Reprezentanții serviciului public de asistență socială au obligația de a se prezenta de îndată la locul unde persoana a fost identificată sau unde se află aceasta, în vederea preluării acesteia. În cazul în care persoana necesită asistență medicală, este solicitat serviciul de ambulanță județean sau al municipiului București, în vederea asigurării serviciilor medicale de urgență și preluării cu celeritate în vederea internării în cea mai apropiată instituție sau unitate sanitară care are capacitatea de a-i acorda un tratament adecvat, până în momentul în care starea de sănătate permite preluarea acesteia. (3) După preluarea persoanei, serviciul public de asistență socială în a cărei rază teritorială își are domiciliul persoana în cauză are obligația de a realiza, din oficiu, o evaluare psihosocială a acesteia, în vederea identificării unor eventuale cazuri de abuz, neglijare, exploatare sau a oricărei forme de violență și dispunerii măsurilor de protecție corespunzătoare."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "(1) Semnalările prevăzute la art. 34 din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, Poliția de Frontieră Română, Ministerul Justiției și instanțele judecătorești sau Ministerul Public, la solicitarea organelor judiciare. (2) În cazul depistării unei persoane cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 34 din Regulamentul SIS cooperare, se informează persoana în cauză cu privire la existența semnalării, se stabilesc adresa la care aceasta locuiește, numărul de telefon, adresa de poștă electronică, aceste informații fiind comunicate autorității care a solicitat introducerea semnalării."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Semnalările prevăzute la art. 36 alin. (1)-(3) din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, Poliția de Frontieră Română sau Ministerul Public, la solicitarea organelor judiciare."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Semnalările prevăzute la art. 36 alin. (4) și (5) din Regulamentul SIS cooperare se introduc în SINS de către Biroul național SIRENE, la solicitarea organelor de stat cu atribuții în domeniul securității naționale. (2) Informația prevăzută la art. 36 alin. (4) din Regulamentul SIS cooperare se transmite organelor de stat cu atribuții în domeniul securității naționale."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "În cazul depistării persoanelor sau obiectelor cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 36 din Regulamentul SIS cooperare, în aplicarea art. 37 alin. (2)-(5) din același regulament european, pentru realizarea controlului discret, specific sau prin interviu, se iau măsuri potrivit atribuțiilor stabilite prin legile de organizare și funcționare ale autorităților române care au depistat persoana sau obiectul/obiectele, fiind informată autoritatea care a solicitat introducerea semnalării."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "(1) Semnalările prevăzute la art. 38 din Regulamentul SIS cooperare se introduc în SINS de către Poliția Română, Poliția de Frontieră Română, Inspectoratul General pentru Imigrări, Direcția Generală de Pașapoarte, Direcția Generală pentru Evidența Persoanelor, Direcția generală permise de conducere și înmatriculări sau de Ministerul Public, la solicitarea organelor judiciare. (2) Semnalările cu privire la obiectele prevăzute la art. 38 alin. (2) lit. k)-m) din Regulamentul SIS cooperare se introduc în SINS în baza sesizărilor privind furtul, însușirea în mod ilegal, pierderea, anularea sau falsificarea acestora, primite de la orice persoană interesată, în cazul în care se constată că sesizarea este întemeiată. (3) Semnalările prevăzute la art. 46 din Regulamentul SIS cooperare se introduc în SINS de către Ministerul Transporturilor și Infrastructurii, prin Autoritatea Aeronautică Civilă Română."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "În cazul depistării unui obiect cu privire la care a fost introdusă în SINS o semnalare din categoria celor prevăzute la art. 38 din Regulamentul SIS cooperare, acesta se ridică în vederea indisponibilizării sau folosirii ca probă în procesul penal sau remiterii către organul emitent și se informează, prin intermediul Biroului național SIRENE, autoritatea care a solicitat introducerea semnalării sau persoana interesată."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "(1) Semnalările prevăzute la art. 40 din Regulamentul SIS cooperare pot fi introduse în SINS de către Poliția Română sau Inspectoratul General pentru Imigrări, la solicitarea organelor de urmărire penală. (2) La solicitarea organelor de urmărire penală, Institutul Național de Criminalistică din cadrul Poliției Române introduce pentru semnalările prevăzute la alin. (1) datele dactiloscopice existente în baza de date a sistemului AFIS național sau din alte baze de date naționale."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Semnalările prevăzute la art. 24 din Regulamentul SIS verificări la frontiere se introduc în SINS de către Poliția de Frontieră Română sau Inspectoratul General pentru Imigrări, în temeiul măsurilor care au ca efect interzicerea intrării și a șederii, dispuse potrivit Ordonanței de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România, republicată, cu modificările și completările ulterioare, respectiv potrivit Ordonanței de urgență a Guvernului nr. 102/2005 privind libera circulație pe teritoriul României a cetățenilor statelor membre ale Uniunii Europene, Spațiului Economic European și a cetățenilor Confederației Elvețiene, republicată, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul II - Sistemul informatic național de semnalări | Secţiunea a 3-a - Semnalările introduse în SINS și măsurile de urmat",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Semnalările prevăzute la art. 3 din Regulamentul SIS returnare se introduc în SINS de către Inspectoratul General pentru Imigrări, în temeiul măsurii care are ca efect returnarea, dispusă potrivit Ordonanței de urgență a Guvernului nr. 194/2002 , republicată, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea 1 - Obiectivul general al N.SIS",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "(1) N.SIS conține semnalări introduse de către autoritățile naționale competente sau de către autoritățile competente din statele membre sau asociate cu privire la persoane sau obiecte, corespunzător tipurilor de semnalări prevăzute în regulamentele europene prevăzute la art. 1 . (2) N.SIS este destinată să asigure posibilitatea pentru autoritățile naționale competente ca, prin intermediul unei proceduri automate, să efectueze tranzacții potrivit anexei. (3) N.SIS respectă standardele, protocoalele și procedurile tehnice stabilite pentru SIS central, potrivit regulamentelor europene prevăzute la art. 1 , astfel încât cele două sisteme informatice să fie compatibile."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 2-a - Autorități cu competențe în gestionarea și exploatarea N.SIS",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Ministerul Afacerilor Interne, prin Centrul Național SIS, este responsabil cu implementarea, funcționarea, întreținerea, administrarea, monitorizarea, dezvoltarea și securitatea N.SIS, cu asigurarea conectării N.SIS la SIS central și managementul copiei naționale a bazei de date centrale a SIS, precum și cu asigurarea accesului autorităților naționale competente la N.SIS."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 2-a - Autorități cu competențe în gestionarea și exploatarea N.SIS",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Biroul național SIRENE are următoarele atribuții principale: a) asigură schimbul și disponibilitatea tuturor informațiilor suplimentare, potrivit art. 5 și 19 din Regulamentul SIS returnare, art. 7 alin. (2) teza I din Regulamentul SIS verificări la frontiere și art. 7 alin. (2) teza I din Regulamentul SIS cooperare; b) realizează activități pentru introducerea semnalărilor cu privire la persoane căutate în vederea arestării în baza unui mandat european de arestare, în scopul predării sau în vederea extrădării; c) realizează activitățile necesare în vederea adăugării sau retragerii unui indicator de validitate la semnalările din SIS, ca urmare a solicitărilor primite de la autoritățile naționale competente sau ale birourilor naționale SIRENE din statele membre sau asociate; d) realizează activitățile necesare în vederea suspendării temporare a semnalărilor cu privire la persoane căutate în vederea arestării în baza unui mandat european de arestare, în scopul predării sau extrădării, în conformitate cu art. 26 alin. (4) din Regulamentul SIS cooperare; e) coordonează activitatea de verificare a calității informațiilor cuprinse în semnalările din N.SIS și în schimbul de informații suplimentare în legătură cu acestea, în conformitate cu art. 19 din Regulamentul SIS returnare, art. 7 alin. (2) teza a III-a din Regulamentul SIS verificări la frontieră și art. 7 alin. (2) teza a III-a din Regulamentul SIS cooperare; f) aplică procedura privind introducerea de semnalări multiple, în conformitate cu art. 19 din Regulamentul SIS returnare, art. 23 alin. (4) și art. 46 din Regulamentul SIS verificări la frontieră și art. 23 alin. (4) și art. 61 din Regulamentul SIS cooperare; g) asigură introducerea, modificarea și ștergerea semnalărilor introduse potrivit art. 19 alin. (1) , la solicitarea organelor de stat cu atribuții în domeniul securității naționale, informând despre aceasta organul solicitant; h) se asigură de ștergerea oricărui tip de semnalare referitoare la persoane, în situația excepțională când autoritățile naționale competente care au introdus semnalarea se află în imposibilitatea tehnică de a realiza această activitate; i) realizează legături între semnalările naționale aparținând a două sau mai multe autorități naționale competente, la solicitarea expresă a acestora; j) asigură organizarea și desfășurarea misiunilor de predare/preluare sau extrădare a persoanelor arestate, în baza mandatului european de arestare ori a cererii de dare în urmărire internațională emise de autoritățile judiciare române, ulterior realizării unui rezultat pozitiv, în colaborare cu autoritățile naționale competente; k) sprijină activitatea de pregătire și autoevaluare a utilizatorilor finali ai SIS și ai aplicației informatice „Formulare SIRENE“; l) informează Europol, prin schimbul de informații suplimentare, ori de câte ori obține un rezultat pozitiv legat de semnalări referitoare la infracțiuni de terorism, după obținerea acordului autorității naționale competente care a solicitat introducerea semnalării; m) informează Europol cu privire la informațiile solicitate în sensul art. 17 alin. (2) din Regulamentul SIS returnare, art. 35 alin. (1) din Regulamentul SIS verificări la frontiere, respectiv al art. 48 alin. (1) din Regulamentul SIS cooperare; n) colaborează cu Europol, Eurojust și Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă în conformitate cu art. 17 din Regulamentul SIS returnare, art. 35 și 36 din Regulamentul SIS verificări la frontiere și art. 48-50 din Regulamentul SIS cooperare; o) îndeplinește rolul de autoritate responsabilă de verificarea manuală a identităților diferite pentru conexiunile create cu datele conținute în anumite semnalări SIS, în concordanță cu art. 29 din Regulamentul (UE) 2019/817 al Parlamentului European și al Consiliului din 20 mai 2019 privind instituirea unui cadru pentru interoperabilitatea dintre sistemele de informații ale UE în domeniul frontierelor și al vizelor și de modificare a Regulamentelor (CE) nr. 767/2008, (UE) 2016/399, (UE) 2017/2.226, (UE) 2018/1.240, (UE) 2018/1.726 și (UE) 2018/1.861 ale Parlamentului European și ale Consiliului și a Deciziilor 2004/512/CE și 2008/633/JAI ale Consiliului, precum și din Regulamentul (UE) 2019/818 al Parlamentului European și al Consiliului din 20 mai 2019 privind instituirea unui cadru pentru interoperabilitatea dintre sistemele de informații ale UE în domeniul cooperării polițienești și judiciare, al azilului și al migrației și de modificare a Regulamentelor (UE) 2018/1.726, (UE) 2018/1.862 și (UE) 2019/816; p) desfășoară activitățile necesare în vederea implementării deciziilor luate la nivelul Uniunii Europene în domeniul de activitate al birourilor SIRENE din alte state membre sau asociate."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 2-a - Autorități cu competențe în gestionarea și exploatarea N.SIS",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "(1) Răspunsul la solicitările de informații suplimentare se transmite de către autoritatea națională competentă, prin intermediul Biroului național SIRENE, de îndată, astfel încât să se asigure respectarea de către Biroul național SIRENE a termenelor prevăzute la art. 8 alin. (3) din Regulamentul SIS verificări la frontiere și art. 8 alin. (3) din Regulamentul SIS cooperare. (2) Autoritățile române care au solicitat autorităților naționale competente introducerea unor semnalări în SIS transmit de îndată informațiile suplimentare solicitate de către autoritățile altor state membre sau asociate în legătură cu respectivele semnalări, astfel încât să fie respectate termenele prevăzute la art. 8 alin. (3) din Regulamentul SIS verificări la frontiere și art. 8 alin. (3) din Regulamentul SIS cooperare. (3) Informațiile suplimentare nu constituie informații de interes public în sensul Legii nr. 544/2001 privind liberul acces la informațiile de interes public, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "(1) Semnalările prevăzute la art. 3 din Regulamentul SIS returnare, art. 24 din Regulamentul SIS verificări la frontiere și art. 32, 34, art. 36 alin. (1)-(3) și art. 40 din Regulamentul SIS cooperare se transmit direct în SIS de către autoritățile naționale competente care le-au introdus în SINS. (2) În aplicarea art. 26 și art. 36 alin. (4) și (5) din Regulamentul SIS cooperare, semnalările se transmit în SIS de către Biroul național SIRENE, la solicitarea autorităților române cu atribuții în domeniile vizate de respectivele semnalări. (3) Autoritățile naționale competente potrivit art. 3 , împreună cu autoritățile române care au solicitat introducerea unei semnalări, stabilesc dacă semnalarea ce urmează a fi introdusă potrivit art. 38 din Regulamentul SIS cooperare sau a cărei perioadă de valabilitate urmează a fi prelungită este de interes național, caz în care se introduce în SINS, sau de interes Schengen, caz în care se transmite direct în SIS."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "(1) În aplicarea art. 28 și 29 din Regulamentul SIS cooperare, după transmiterea în SIS a unei semnalări din categoria celor prevăzute la art. 26 din același regulament, Biroul național SIRENE transmite birourilor SIRENE din celelalte state membre sau asociate informațiile prevăzute la art. 87 alin. (1) din Legea nr. 302/2004, republicată , cu modificările și completările ulterioare. (2) Biroul național SIRENE nu comunică birourilor SIRENE din celelalte state membre sau asociate informațiile prevăzute la art. 29 alin. (1) din Regulamentul SIS cooperare, dacă a transmis anterior, cu privire la aceeași persoană, informațiile prevăzute la art. 27 din același regulament sau cele prevăzute la art. 87 alin. (1) din Legea nr. 302/2004, republicată , cu modificările și completările ulterioare, iar acestea sunt suficiente pentru executarea acțiunilor în baza semnalării de către autoritățile celorlalte state membre sau asociate."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "(1) După primirea la Biroul național SIRENE a comunicării referitoare la introducerea în SIS de către un alt stat membru sau asociat a unei semnalări din categoria celor prevăzute la art. 26 din Regulamentul SIS cooperare, procurorul sau judecătorul detașat în cadrul Biroului național SIRENE verifică dacă arestarea în baza acelei semnalări este compatibilă cu legislația națională, cu obligațiile asumate de România prin tratate bilaterale și convenții multilaterale din domeniul cooperării juridice internaționale sau cu interesele naționale vitale și solicită Biroului național SIRENE întreprinderea demersurilor necesare pentru adăugarea unui indicator de validitate atunci când constată incompatibilitatea. (2) Curtea de apel competentă cu executarea mandatului european de arestare solicită Biroului național SIRENE întreprinderea demersurilor necesare pentru adăugarea unui indicator de validitate la semnalarea din SIS introdusă de alt stat membru în baza unui mandat european de arestare, pe care autoritatea judiciară respectivă refuză să îl execute în temeiul art. 99 din Legea nr. 302/2004, republicată , cu modificările și completările ulterioare. (3) Curtea de apel competentă cu executarea mandatului european de arestare solicită Biroului național SIRENE întreprinderea demersurilor necesare pentru adăugarea unui indicator de validitate la semnalarea din SIS introdusă de alt stat membru în cazurile în care: a) a dispus executarea mandatului, dar a amânat predarea persoanei solicitate până la dispariția motivului care a determinat amânarea; b) în cursul judecării cererii de executare a mandatului a luat față de persoana solicitată măsura preventivă a controlului judiciar, cu impunerea obligației de a nu părăsi o anumită limită teritorială. (4) Semnalările introduse de statele membre sau asociate privind persoane căutate în vederea predării în baza unui mandat european de arestare sau în vederea extrădării, care au atașat indicatorul de validitate prevăzut la alin. (1) și (2) , nu constituie temei pentru arestarea persoanei în cauză de către autoritățile române, ci doar pentru comunicarea locului unde se află aceasta. (5) În aplicarea art. 24 alin. (3) din Regulamentul SIS cooperare, procurorul sau judecătorul detașat în cadrul Biroului național SIRENE dispune retragerea indicatorului de validitate, dacă autoritatea judiciară română competentă să dispună cu privire la executarea mandatului european de arestare sau a cererii de extrădare a dispus arestarea persoanei în cauză în vederea predării ori arestarea provizorie în vederea extrădării. (6) În aplicarea art. 26 alin. (4) din Regulamentul SIS cooperare, în situația unei operațiuni în desfășurare, autoritățile naționale competente pot solicita expres Biroului național SIRENE suspendarea temporară a unei semnalări dintre cele prevăzute la art. 26 din Regulamentul SIS cooperare, cu avizul autorității judiciare. În conținutul solicitării exprese se menționează datele și intervalul orar în care semnalarea va fi indisponibilă, precum și detalii despre caz. (7) Autoritatea națională competentă care a solicitat suspendarea semnalării are obligația de a notifica de îndată Biroul național SIRENE despre finalizarea operațiunii în vederea încetării suspendării semnalării."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "(1) La primirea unei solicitări motivate din partea biroului SIRENE al altui stat membru sau asociat privind adăugarea unui indicator de validitate la o semnalare cu privire la persoane căutate în vederea predării în baza unui mandat european de arestare ori în vederea extrădării, Biroul național SIRENE adaugă indicatorul de validitate solicitat. (2) Autoritatea judiciară română care a emis mandatul european de arestare sau cererea de urmărire internațională ce stă la baza introducerii semnalării transmite, prin intermediul Biroului național SIRENE, în cazuri urgente și grave, o solicitare motivată pentru retragerea indicatorului de validitate adăugat potrivit alin. (1) ."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "(1) În vederea realizării atribuțiilor prevăzute la art. 32 , Ministerul Afacerilor Interne, prin Inspectoratul General al Poliției Române, solicită Consiliului Superior al Magistraturii, în condițiile legii, detașarea unui procuror sau judecător în cadrul Biroului național SIRENE. (2) Solicitările de prelungire a detașării se înaintează de către Ministerul Afacerilor Interne, prin Inspectoratul General al Poliției Române, Consiliului Superior al Magistraturii cu cel puțin două luni înainte de împlinirea termenului detașării. (3) În cazul în care Consiliul Superior al Magistraturii dispune încetarea detașării procurorului sau judecătorului în cadrul Biroului național SIRENE înainte de împlinirea termenului detașării, concomitent, Ministerul Afacerilor Interne, prin Inspectoratul General al Poliției Române, solicită detașarea unui alt procuror sau judecător."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "(1) Semnalările introduse în SIS potrivit art. 26 din Regulamentul SIS cooperare de către statele asociate echivalează cu semnalările cu privire la persoane căutate în vederea predării în baza unui mandat european de arestare. (2) Mandatele de arestare emise de statele asociate, transmise prin intermediul SIS, echivalează cu mandatele europene de arestare. (3) În cazul depistării pe teritoriul României sau pe teritoriul altui stat membru sau asociat a unei persoane cu privire la care a fost transmisă în SIS o semnalare din categoria celor prevăzute la art. 26 din Regulamentul SIS cooperare se aplică dispozițiile art. 100-104 din Legea nr. 302/2004, republicată , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "(1) În cazul depistării pe teritoriul altui stat membru sau asociat a unei persoane cu privire la care a fost transmisă în SIS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. a) și c)-e) din Regulamentul SIS cooperare, informațiile primite de Biroul național SIRENE se comunică autorității care a solicitat introducerea semnalării. (2) La reîntoarcerea în România a persoanelor prevăzute la alin. (1) se aplică, după caz, dispozițiile Legii nr. 487/2002, republicată , cu completările ulterioare, ale Legii nr. 136/2020 , republicată, cu modificările și completările ulterioare, ale Legii nr. 135/2010 , cu modificările și completările ulterioare, ale Legii nr. 272/2004 , republicată, cu modificările și completările ulterioare, sau ale Legii nr. 292/2011 , cu modificările și completările ulterioare. (3) Dispozițiile art. 13 alin. (2) și ale art. 16 alin. (2) și (3) , după caz, se aplică în mod corespunzător. (4) În cazul depistării pe teritoriul altui stat membru sau asociat a unei persoane majore cu privire la care a fost transmisă în SIS o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. b) din Regulamentul SIS cooperare, dacă aceasta își dă consimțământul, informațiile privind adresa la care locuiește se transmit către persoana sau instituția care a sesizat dispariția."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "(1) În cazul depistării pe teritoriul României a unei persoane cu privire la care a fost introdusă în SIS de către un alt stat membru sau asociat o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. a) și c)-e) din Regulamentul SIS cooperare, se aplică, după caz, dispozițiile Legii nr. 487/2002, republicată , cu completările ulterioare, ale Legii nr. 136/2020 , republicată, cu modificările și completările ulterioare, ale Legii nr. 135/2010 , cu modificările și completările ulterioare, ale Legii nr. 272/2004 , republicată, cu modificările și completările ulterioare, sau ale Legii nr. 292/2011 , cu modificările și completările ulterioare. (2) Dispozițiile art. 13 alin. (2) și ale art. 16 alin. (2) și (3) , după caz, se aplică în mod corespunzător. (3) În cazul depistării pe teritoriul României a unei persoane cu privire la care a fost introdusă în SIS de către un alt stat membru sau asociat o semnalare din categoria celor prevăzute la art. 32 alin. (1) lit. b) din Regulamentul SIS cooperare, aceasta este informată despre existența semnalării, iar dacă își dă consimțământul, informațiile privind adresa la care locuiește se transmit către autoritatea străină competentă. (4) Informațiile privind depistarea persoanelor prevăzute la alin. (1) și (3) se transmit autorităților străine prin intermediul Biroului național SIRENE."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "(1) În aplicarea prevederilor art. 24 alin. (1) din Regulamentul SIS cooperare, la cererea autorităților naționale cu competență în executarea acțiunii de urmat în baza unei semnalări dintre cele prevăzute la art. 32 alin. (1) din Regulamentul SIS cooperare, introdusă în SIS de către un alt stat membru sau asociat, procurorul sau judecătorul detașat autorizează aplicarea indicatorului de validitate la semnalarea respectivă, dacă măsura de urmat privind persoana nu este compatibilă cu legislația națională, cu obligațiile asumate de România prin tratate bilaterale și convenții multilaterale din domeniul cooperării juridice internaționale ori cu interesele naționale vitale. (2) La solicitarea statului membru sau asociat care a introdus semnalarea în SIS, procurorul sau judecătorul detașat poate decide retragerea indicatorului de validitate aplicat în condițiile alin. (1) . (3) La solicitarea statului membru sau asociat, autoritatea națională competentă care a introdus semnalarea din categoria celor prevăzute la art. 32 alin. (1) din Regulamentul SIS cooperare poate decide cu privire la aplicarea unui indicator de validitate la semnalarea respectivă. (4) În aplicarea prevederilor art. 24 alin. (3) din Regulamentul SIS cooperare, la solicitarea statului membru sau asociat care a introdus semnalarea în SIS, procurorul sau judecătorul detașat poate autoriza retragerea indicatorului de validitate adăugat în condițiile alin. (1) . (5) Biroul național SIRENE întreprinde demersurile necesare pentru aplicarea indicatorului de validitate prevăzut la alin. (1) și (3) , respectiv pentru retragerea indicatorului de validitate prevăzut la alin. (2) și (4) . (6) În cazul depistării pe teritoriul României a unei persoane majore cu privire la care a fost introdusă în SIS de către un alt stat membru sau asociat o semnalare cu privire la dispariția sa la momentul când aceasta era minoră, se solicită Biroului național SIRENE întreprinderea demersurilor necesare pentru aplicarea unui indicator de validitate la semnalarea respectivă."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "(1) În cazul depistării pe teritoriul altui stat membru sau asociat a unei persoane cu privire la care a fost transmisă în SIS o semnalare din categoria celor prevăzute la art. 34 din Regulamentul SIS cooperare, informațiile primite de Biroul național SIRENE se comunică autorității care a solicitat introducerea semnalării. (2) În cazul depistării pe teritoriul României a unei persoane cu privire la care a fost introdusă în SIS de către un alt stat membru sau asociat o semnalare din categoria celor prevăzute la art. 34 din Regulamentul SIS cooperare, autoritățile române cu atribuții în domeniul vizat de semnalare informează persoana în cauză cu privire la existența semnalării, stabilesc adresa la care aceasta locuiește, numărul de telefon și adresa de poștă electronică și comunică aceste informații, prin intermediul Biroului național SIRENE, statului membru sau asociat care a introdus semnalarea."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "(1) În aplicarea art. 36 alin. (4) teza a II-a din Regulamentul SIS cooperare, după transmiterea în SIS a unei semnalări la solicitarea organelor de stat cu atribuții în domeniul securității naționale, Biroul național SIRENE comunică birourilor SIRENE din celelalte state membre sau asociate informațiile suplimentare. (2) După primirea la Biroul național SIRENE a comunicării referitoare la introducerea în SIS de către un alt stat membru sau asociat a unei semnalări din categoria celor prevăzute la art. 36 alin. (4) teza I din Regulamentul SIS cooperare, aceasta se transmite organelor de stat cu atribuții în domeniul securității naționale."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "(1) În cazul depistării pe teritoriul altui stat membru sau asociat a persoanelor sau a obiectelor cu privire la care a fost transmisă în SIS o semnalare din categoria celor prevăzute la art. 36 din Regulamentul SIS cooperare, Biroul național SIRENE transmite informațiile autorității care a solicitat introducerea semnalării. (2) În cazul depistării pe teritoriul României a persoanelor sau a obiectelor cu privire la care a fost introdusă în SIS o semnalare din categoria celor prevăzute la art. 36 din Regulamentul SIS cooperare, în aplicarea art. 37 alin. (1) din același regulament, pentru realizarea controlului discret, specific sau prin interviu, se iau măsuri potrivit atribuțiilor stabilite în sarcina Poliției Române în aplicarea Legii nr. 218/2002 , republicată, cu modificările și completările ulterioare, sau a Poliției de Frontieră Române potrivit Ordonanței de urgență a Guvernului nr. 104/2001 , aprobată cu modificări prin Legea nr. 81/2002 , cu modificările și completările ulterioare, fiind informată, prin intermediul Biroului național SIRENE, autoritatea care a solicitat introducerea semnalării."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "(1) În aplicarea art. 24 alin. (1) din Regulamentul SIS cooperare, la solicitarea organelor de urmărire penală sau a organelor de stat cu atribuții în domeniul securității naționale, Biroul național SIRENE întreprinde demersurile necesare pentru adăugarea unui indicator de validitate la semnalarea introdusă în SIS de către un alt stat membru sau asociat din categoria celor prevăzute la art. 36 din același regulament, dacă măsura de urmat privind persoana sau obiectul nu este compatibilă cu legislația națională, cu obligațiile asumate de România prin documente juridice de cooperare internațională ori cu interesele naționale vitale. (2) Indicatorul de validitate precizat la alin. (1) se poate retrage în baza deciziei organelor de urmărire penală sau a organelor de stat cu atribuții în domeniul securității naționale care au dispus aplicarea acestuia, la solicitarea autorităților competente ale statului membru care a introdus semnalarea. (3) Solicitarea transmisă de către autoritățile altui stat membru sau asociat privind adăugarea unui indicator de validitate la o semnalare în SIS din categoria celor prevăzute la art. 36 din Regulamentul SIS cooperare, transmisă în SIS, se comunică, după aplicarea acestuia, de către Biroul național SIRENE organelor de urmărire penală sau instituțiilor cu atribuții în domeniul securității naționale care au solicitat introducerea semnalării. (4) Solicitarea privind retragerea indicatorului de validitate precizat la alin. (3) se transmite, prin intermediul Biroului național SIRENE, de către organele de urmărire penală sau organele de stat cu atribuții în domeniul securității naționale."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "(1) În cazul depistării pe teritoriul altui stat membru sau asociat a unui obiect cu privire la care a fost transmisă în SIS o semnalare din categoria celor prevăzute la art. 38 din Regulamentul SIS cooperare, informațiile primite sunt transmise, de către Biroul național SIRENE, autorității sau persoanei care a solicitat introducerea semnalării. (2) În cazul depistării pe teritoriul României a unui obiect cu privire la care a fost introdusă în SIS de către un alt stat membru sau asociat o semnalare din categoria celor prevăzute la art. 38 din Regulamentul SIS cooperare, obiectul se ridică în vederea indisponibilizării sau a folosirii ca probă în procesul penal sau a remiterii către organul emitent și se informează, prin intermediul Biroului național SIRENE, statul membru sau asociat care a introdus semnalarea."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "(1) Semnalările prevăzute la art. 40 din Regulamentul SIS cooperare se transmit în SIS numai dacă identitatea persoanei în cauză nu a fost stabilită prin utilizarea bazelor de date relevante de la nivel național, de la nivelul Uniunii Europene sau de la nivel internațional. (2) În scopul identificării persoanelor necunoscute, Institutul Național de Criminalistică din cadrul Poliției Române poate efectua căutări manuale și automatizate în bazele de date relevante la nivel național, folosind în acest sens imagini faciale, date dactiloscopice și profiluri ADN ale persoanelor ce fac obiectul stabilirii identității. (3) Anterior introducerii în SIS a unei semnalări din categoria celor prevăzute de art. 40 din Regulamentul SIS cooperare, Institutul Național de Criminalistică din cadrul Poliției Române efectuează căutări în sistemul automat de identificare a amprentelor digitale (AFIS) conținut de SIS central și prevăzut la art. 43 alin. (2) din același regulament. (4) În cazul identificării într-un alt stat membru sau asociat a unei persoane cu privire la care a fost introdusă în SIS o semnalare din categoria celor prevăzute la art. 40 din Regulamentul SIS cooperare, se informează de îndată autoritatea națională care a solicitat introducerea semnalării. (5) În cazul identificării pe teritoriul României a unei persoane cu privire la care a fost introdusă în SIS de către un alt stat membru o semnalare din categoria celor prevăzute de art. 40 din Regulamentul SIS cooperare, se informează de îndată, prin intermediul Biroului național SIRENE, statul membru care a introdus semnalarea."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Schimbul de informații suplimentare în legătură cu semnalările de interes Schengen din categoria celor prevăzute la art. 24 din Regulamentul SIS verificări la frontiere, transmise în SIS, se realizează de către autoritățile naționale competente, prin intermediul Biroului național SIRENE, conform Regulamentului SIS verificări la frontiere."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "Schimbul de informații suplimentare în legătură cu semnalarea prevăzută la art. 3 din Regulamentul SIS returnare, transmisă în SIS, se realizează de către autoritățile naționale competente, prin intermediul Biroului național SIRENE, conform Regulamentului SIS returnare."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul III - Participarea României la SIS | Secţiunea a 3-a - Semnalările introduse în SIS și măsurile de urmat",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "(1) Autoritățile române care au identificat obiecte sau persoane cu privire la care au fost transmise semnalări în SIS informează Biroul național SIRENE în scop statistic. (2) Autoritățile române informează, prin intermediul Biroului național SIRENE, statul membru sau asociat care a introdus semnalarea cu privire la motivele care au determinat imposibilitatea aplicării măsurilor solicitate printr-o semnalare din SIS. (3) Autoritățile române sunt informate, prin intermediul Biroului național SIRENE, cu privire la motivele care au determinat imposibilitatea aplicării de către un stat membru sau asociat a măsurilor solicitate printr-o semnalare transmisă în SIS."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea 1 - Perioada de păstrare a semnalărilor",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "(1) Semnalările referitoare la persoane se păstrează în conformitate cu art. 39 din Regulamentul SIS verificări la frontiere, respectiv art. 53 din Regulamentul SIS cooperare, în funcție de fiecare tip de semnalare. (2) Semnalările referitoare la obiecte se păstrează în conformitate cu art. 54 din Regulamentul SIS cooperare. (3) Autoritatea națională competentă analizează împreună cu autoritatea română care a solicitat introducerea unei semnalări dacă prelungirea valabilității unei semnalări peste termenele prevăzute la art. 39 din Regulamentul SIS verificări la frontiere, respectiv art. 53 și 54 din Regulamentul SIS cooperare, este necesară pentru scopul în care a fost introdusă în SINS sau transmisă în SIS, cu aplicarea art. 21 din Regulamentul SIS verificări la frontiere și Regulamentul SIS cooperare. Termenele prevăzute la art. 39 din Regulamentul SIS verificări la frontiere, respectiv art. 53 și 54 din Regulamentul SIS cooperare se aplică în mod corespunzător de la prelungirea valabilității. (4) Centrul Național SIS întocmește și transmite statistici în conformitate cu art. 6 alin. (3), art. 13 și 16 din Regulamentul SIS returnare, art. 39 alin. (6) și art. 60 alin. (4) din Regulamentul SIS verificare la frontiere, respectiv art. 26 alin. (4), art. 53 alin. (8), art. 54 alin. (6) și art. 74 alin. (4) din Regulamentul SIS cooperare. Autoritățile naționale competente transmit Centrului Național SIS toate informațiile necesare pentru îndeplinirea obligației prevăzute de prezentul alineat."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 2-a - Ștergerea semnalărilor",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "(1) Semnalările se șterg în conformitate cu art. 14 din Regulamentul SIS returnare, art. 40 din Regulamentul SIS verificări la frontiere și art. 55 din Regulamentul SIS cooperare. (2) Autoritatea națională competentă, la cererea autorității române care a solicitat introducerea unei semnalări, are obligația de a proceda la ștergerea acesteia în condițiile alin. (1) . (3) Dispozițiile referitoare la ștergerea semnalărilor cuprinse în regulamentele europene prevăzute la art. 1 se aplică semnalărilor introduse în SINS, în măsura în care nu sunt incompatibile cu specificul acestora, astfel cum este stabilit prin prezenta lege."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "(1) În conformitate cu art. 19 din Regulamentul SIS returnare, art. 41 alin. (3) teza a III-a din Regulamentul SIS verificare la frontiere, respectiv art. 56 alin. (3) teza a II-a din Regulamentul SIS cooperare, Centrul Național SIS ține inventarul actualizat al copiilor tehnice realizate. (2) Autoritatea națională de supraveghere are acces la inventarul actualizat al copiilor tehnice, în exercitarea atribuțiilor legale. (3) Solicitarea în vederea obținerii autorizației prevăzute la art. 41 alin. (5) teza a II-a din Regulamentul SIS verificare la frontiere, respectiv la art. 56 alin. (5) teza a II-a din Regulamentul SIS cooperare se transmite prin intermediul schimbului de informații suplimentare. (4) Autoritățile naționale competente care primesc o cerere din partea autorităților altui stat membru pentru utilizarea datelor în alte scopuri decât cele pentru care au fost introduse în SIS analizează cererea, împreună cu autoritățile române care au solicitat introducerea semnalării, atunci când este cazul, și comunică, prin intermediul schimbului de informații suplimentare, răspunsul cu privire la utilizarea datelor respective. (5) Ministerul Afacerilor Interne, prin Centrul Național SIS, transmite Agenției Uniunii Europene pentru Gestionarea Operațională a Sistemelor Informatice la Scară Largă în Spațiul de Libertate, Securitate și Justiție, instituită prin Regulamentul (UE) 2018/1.726 al Parlamentului European și al Consiliului din 14 noiembrie 2018 privind Agenția Uniunii Europene pentru Gestionarea Operațională a Sistemelor Informatice la Scară Largă în Spațiul de Libertate, Securitate și Justiție (eu-LISA) și de modificare a Regulamentului (CE) nr. 1.987/2006 și a Deciziei 2007/533/JAI a Consiliului, precum și de abrogare a Regulamentului (UE) nr. 1.077/2011, denumită în continuare eu-LISA, informațiile și documentele prevăzute la art. 7 alin. (3) și art. 41 alin. (8) din Regulamentul SIS verificări la frontiere, respectiv la art. 7 alin. (3) și art. 56 alin. (7) din Regulamentul SIS cooperare."
+    },
+    {
+      "provision_ref": "Art.51",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "51",
+      "title": "Articolul 51",
+      "content": "(1) Autoritatea națională competentă care introduce o semnalare în SINS sau transmite o semnalare în SIS se asigură că datele din cuprinsul acesteia sunt exacte și actuale, precum și că introducerea sau transmiterea respectivei semnalări se face în baza dispozițiilor prezentei legi. (2) Numai autoritatea națională competentă care a introdus o semnalare în SINS sau a transmis o semnalare în SIS are dreptul să modifice, să completeze, să corecteze, să actualizeze ori să șteargă datele pe care le-a introdus până la expirarea duratei de valabilitate a semnalării. (3) Dacă autoritățile naționale cu drept de acces la SINS dispun de date modificate sau suplimentare relevante, astfel cum sunt prevăzute la art. 4 alin. (1) din Regulamentul SIS returnare, art. 20 alin. (2) din Regulamentul SIS verificare la frontiere și la art. 20 alin. (3) din Regulamentul SIS cooperare, în legătură cu o semnalare introdusă de către un stat membru sau asociat, acestea le transmit de îndată autorităților competente din statul membru sau asociat emitent, prin intermediul Biroului național SIRENE. (4) În cazul în care autoritățile naționale cu drept de acces la SINS dispun de date certe care indică faptul că un element al datelor introduse de către un stat membru sau asociat este incorect sau este stocat ilegal, acestea transmit datele certe de care dispun autorităților competente din statul membru emitent, de îndată, dar nu mai târziu de două zile lucrătoare de la data descoperirii acestora. Autoritățile naționale cu drept de acces la SINS au obligația de a transmite aceste date certe Biroului național SIRENE de îndată ce au luat cunoștință de acestea, dar nu mai târziu de două zile lucrătoare de la data descoperirii acestora. (5) În cazul în care o autoritate dintr-un stat membru sau asociat transmite date suplimentare sau modificate relevante, astfel cum sunt prevăzute la art. 4 alin. (1) din Regulamentul SIS returnare, art. 20 alin. (2) din Regulamentul SIS verificare la frontiere și la art. 20 alin. (3) din Regulamentul SIS cooperare, autoritatea națională competentă care a introdus semnalarea în cauză o completează sau o modifică în cel mai scurt timp posibil. (6) În cazul în care o autoritate dintr-un stat membru sau asociat transmite date certe care indică faptul că un element al datelor introduse de către o autoritate națională competentă este incorect sau este stocat ilegal, autoritatea națională competentă care a introdus semnalarea în cauză verifică de îndată informațiile și, dacă apreciază necesar, corectează sau șterge semnalarea. (7) Comunicarea informațiilor prevăzute la alin. (3)-(6) se realizează prin intermediul Biroului național SIRENE. (8) În cazul în care autoritățile române care au efectuat o comunicare potrivit alin. (4) și autoritățile din celelalte state membre sau asociate informate în acest fel nu ajung la un acord cu privire la situația datelor în cauză în termen de două luni de la data descoperirii inițiale a probelor, Biroul național SIRENE informează despre acest fapt Autoritatea națională de supraveghere și Autoritatea Europeană pentru Protecția Datelor. (9) În cazul în care autoritatea națională competentă primește o solicitare din partea unei persoane care susține că nu este persoana vizată de o semnalare, aceasta procedează la colectarea datelor cu caracter personal ale solicitantului, inclusiv a datelor biometrice, cu consimțământul acestuia, și procedează, după caz, la: a) soluționarea solicitării, dacă este competentă; b) redirecționarea, în original, a solicitării, împreună cu toate datele colectate, autorității române competente care a introdus semnalarea; c) transmiterea de îndată, prin intermediul schimbului de informații suplimentare, a unei copii a datelor colectate Biroului național SIRENE, dacă semnalarea a fost introdusă de către un alt stat membru sau asociat."
+    },
+    {
+      "provision_ref": "Art.52",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "52",
+      "title": "Articolul 52",
+      "content": "(1) În cazul în care o autoritate națională competentă intenționează să introducă o semnalare cu privire la o persoană care face deja obiectul unei semnalări existente în N.SIS, aceasta se pune de acord cu autoritatea care a introdus semnalarea anterioară în baza regulilor privind compatibilitatea semnalărilor și ordinea de prioritate stabilite în cuprinsul manualului SIRENE prevăzut la art. 8 alin. (4) din Regulamentul SIS verificări la frontiere și art. 8 alin. (4) din Regulamentul SIS cooperare. (2) În cazul în care autoritatea care a introdus semnalarea anterioară este dintr-un alt stat membru sau asociat, se utilizează schimbul de informații suplimentare pentru a se ajunge la un acord."
+    },
+    {
+      "provision_ref": "Art.53",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "53",
+      "title": "Articolul 53",
+      "content": "(1) Fără a aduce atingere obligațiilor prevăzute la art. 33 din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), respectiv la art. 36 din Legea nr. 363/2018 privind protecția persoanelor fizice referitor la prelucrarea datelor cu caracter personal de către autoritățile competente în scopul prevenirii, descoperirii, cercetării, urmăririi penale și combaterii infracțiunilor sau al executării pedepselor, măsurilor educative și de siguranță, precum și privind libera circulație a acestor date, operatorul de date cu caracter personal în cadrul căruia s-a produs un incident de securitate, astfel cum acesta este prevăzut la art. 45 alin. (1) din Regulamentul SIS verificări la frontiere, respectiv la art. 60 alin. (1) din Regulamentul SIS cooperare, comunică incidentul de securitate Centrului Național SIS, fără întârzieri nejustificate, în termen de cel mult 48 de ore de la data la care a luat cunoștință de acesta. (2) În aplicarea art. 45 alin. (3) din Regulamentul verificări la frontiere și a art. 60 alin. (3) din Regulamentul SIS cooperare, Centrul Național SIS notifică incidentul de securitate Comisiei Europene, eu-LISA, Autorității Europene pentru Protecția Datelor și Autorității naționale de supraveghere de îndată, dar nu mai târziu de 24 de ore de la primirea comunicării prevăzute la alin. (1) . (3) În cazul unui incident de securitate, Centrul Național SIS și operatorul de date în cadrul căruia s-a produs incidentul colaborează cu eu-LISA."
+    },
+    {
+      "provision_ref": "Art.54",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "54",
+      "title": "Articolul 54",
+      "content": "În cazul în care în momentul introducerii unei noi semnalări în SINS sau al transmiterii unei semnalări în SIS se constată că în sistemul respectiv există o semnalare cu privire la o persoană ale cărei date de identificare sunt similare, autoritatea națională competentă care a introdus semnalarea informează de îndată Biroul național SIRENE, prin intermediul schimbului de informații suplimentare, astfel încât să poată fi respectat termenul prevăzut la art. 46 alin. (1) din Regulamentul SIS verificări la frontiere, respectiv la art. 61 alin. (1) din Regulamentul SIS cooperare."
+    },
+    {
+      "provision_ref": "Art.55",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "55",
+      "title": "Articolul 55",
+      "content": "În cazul în care se constată că persoana care face obiectul unei semnalări din SINS sau din SIS nu este aceeași cu persoana care este localizată în urma realizării unui rezultat pozitiv, autoritatea națională competentă care a introdus semnalarea adaugă în sistemul respectiv date privitoare la cea de-a doua persoană, cu respectarea art. 47 din Regulamentul SIS verificări la frontiere, respectiv a art. 62 din Regulamentul SIS cooperare."
+    },
+    {
+      "provision_ref": "Art.56",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "56",
+      "title": "Articolul 56",
+      "content": "(1) În scopul depistării cu operativitate a persoanelor sau obiectelor căutate, autoritățile naționale competente creează legături între semnalările proprii ori între semnalările proprii și semnalările altor autorități naționale competente, de interes național ori de interes Schengen, cu respectarea art. 48 din Regulamentul SIS verificări la frontiere, respectiv a art. 63 din Regulamentul SIS cooperare. Legătura se introduce în SINS sau se transmite în SIS, după caz. (2) Autoritățile naționale competente au acces la legăturile prevăzute la alin. (1) în conformitate cu dreptul de acces prevăzut la art. 3 alin. (2) . (3) Autoritățile naționale competente care au drept de acces la legăturile create în SIS, atunci când consideră că una dintre acestea nu este compatibilă cu legislația națională sau cu obligațiile asumate de România prin documente juridice de cooperare internațională, solicită Biroului național SIRENE întreprinderea demersurilor necesare pentru ca respectiva legătură să nu fie accesibilă pentru autoritățile române. (4) Biroul național SIRENE solicită Centrului Național SIS luarea măsurilor tehnice pentru limitarea accesului autorităților române la legătura în cauză."
+    },
+    {
+      "provision_ref": "Art.57",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 3-a - Reguli privind efectuarea de tranzacții asupra semnalărilor din SINS și din SIS",
+      "section": "57",
+      "title": "Articolul 57",
+      "content": "(1) SINS conține mențiuni referitoare la deciziile de transmitere a semnalărilor în SIS pentru sprijinirea schimbului de informații suplimentare. Acestea se constituie automat prin completarea câmpurilor obligatorii din semnalările introduse. Pentru acele semnalări în care câmpurile de mențiuni nu sunt obligatorii, mențiunile referitoare la deciziile de transmitere se păstrează de către fiecare autoritate competentă în parte, până la ștergerea semnalării din SIS și SINS. (2) Datele cu caracter personal furnizate în cadrul schimbului de informații suplimentare în legătură cu semnalările transmise în SIS de autoritățile naționale competente sau cu semnalările din SIS în baza cărora au fost luate măsuri de către autoritățile române pot fi păstrate la nivel național pentru o perioadă de cel mult 3 ani de la data ștergerii acestora din SIS."
+    },
+    {
+      "provision_ref": "Art.58",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 4-a - Securitatea datelor",
+      "section": "58",
+      "title": "Articolul 58",
+      "content": "(1) Ministerul Afacerilor Interne, prin Centrul Național SIS, împreună cu autoritățile naționale competente, este obligat să elaboreze un plan de securitate, un plan de asigurare a continuității activității, un plan de recuperare în caz de dezastru și să adopte măsurile de securitate necesare în legătură cu gestionarea și utilizarea N.SIS, în conformitate cu art. 10 alin. (1) din Regulamentul SIS verificări la frontiere și cu art. 10 alin. (1) din Regulamentul SIS cooperare. (2) La nivelul Ministerului Afacerilor Interne, activitățile prevăzute la alin. (1) se realizează sub îndrumarea și coordonarea Direcției Generale de Protecție Internă. (3) Fiecare autoritate națională care are drept de acces la datele din N.SIS și la schimbul de informații suplimentare asigură aplicarea măsurilor de securitate prevăzute la art. 10 alin. (1) din Regulamentul SIS verificări la frontiere și la art. 10 alin. (1) din Regulamentul SIS cooperare. (4) Autoritățile naționale competente asigură realizarea măsurilor prevăzute la art. 10 alin. (1)-(3) din Regulamentul SIS verificări la frontiere și la art. 10 alin. (1)-(3) din Regulamentul SIS cooperare. (5) Centrul Național SIS și autoritățile naționale competente monitorizează aplicarea măsurilor de securitate prevăzute la art. 10 alin. (1)-(3) din Regulamentul SIS verificări la frontiere și la art. 10 alin. (1)-(3) din Regulamentul SIS cooperare, în raport cu domeniul propriu de responsabilitate. (6) În scopul asigurării securității datelor, Direcția Generală de Protecție Internă din subordinea Ministerului Afacerilor Interne cooperează cu structurile responsabile cu protecția surselor generatoare de informații - INFOSEC și securitate cibernetică din cadrul autorităților naționale competente, altele decât cele din subordinea Ministerului Afacerilor Interne."
+    },
+    {
+      "provision_ref": "Art.59",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 4-a - Securitatea datelor",
+      "section": "59",
+      "title": "Articolul 59",
+      "content": "Măsurile de securitate prevăzute la art. 58 alin. (1) se stabilesc și se aplică potrivit următoarelor principii: a) confidențialității - asigurarea accesului la date numai pentru persoanele autorizate potrivit atribuțiilor de serviciu; b) integrității - asigurarea exactității și caracterului complet al informațiilor, precum și a metodelor de prelucrare; c) disponibilității - asigurarea accesului la informații în termenul solicitat; d) identificării și autentificării - asigurarea identificării și autentificării tuturor utilizatorilor în mod corespunzător, în funcție de competențe, înainte de efectuarea oricărei tranzacții; e) autorizării - autorizarea participanților la efectuarea unei tranzacții, în vederea accesării datelor din N.SIS, în funcție de competențe; f) nonrepudierii - asigurarea înregistrării în sistem a tranzacțiilor efectuate asupra datelor din N.SIS și atribuirea acestora utilizatorilor participanți la efectuarea lor."
+    },
+    {
+      "provision_ref": "Art.60",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 4-a - Securitatea datelor",
+      "section": "60",
+      "title": "Articolul 60",
+      "content": "Ministerul Afacerilor Interne, prin Centrul Național SIS, pune la dispoziția Autorității naționale de supraveghere, la solicitarea acesteia, înregistrările privind tranzacțiile efectuate asupra datelor cu caracter personal, precum și toate schimburile de date cu caracter personal din SINS, în scopul aplicării art. 19 din Regulamentul SIS returnare, art. 12 din Regulamentul SIS verificare la frontiere și a art. 12 din Regulamentul SIS cooperare."
+    },
+    {
+      "provision_ref": "Art.61",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 5-a - Protecția persoanelor cu privire la prelucrarea datelor cu caracter personal",
+      "section": "61",
+      "title": "Articolul 61",
+      "content": "(1) Prelucrările de date cu caracter personal efectuate în aplicarea dispozițiilor prezentei legi se realizează cu respectarea Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului și a Legii nr. 363/2018 . (2) Drepturile de acces, rectificare și ștergere a datelor persoanelor vizate în contextul prelucrării datelor cu caracter personal în SINS sau în SIS se exercită potrivit Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului și Legii nr. 363/2018 ."
+    },
+    {
+      "provision_ref": "Art.62",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 5-a - Protecția persoanelor cu privire la prelucrarea datelor cu caracter personal",
+      "section": "62",
+      "title": "Articolul 62",
+      "content": "(1) În vederea soluționării cererilor persoanelor vizate cu privire la prelucrarea datelor cu caracter personal în SINS sau în SIS, în cadrul Inspectoratului General al Poliției Române se constituie Biroul protecția datelor personale. (2) Cererile persoanelor vizate în contextul prelucrării datelor cu caracter personal în SINS sau în SIS se transmit Biroului protecția datelor personale sau către orice autoritate națională competentă, care redirecționează cererea către Biroul protecția datelor personale în termen de 5 zile lucrătoare de la înregistrare, cu informarea persoanei vizate despre aceasta. (3) Pentru a comunica solicitantului informații cu privire la datele cu caracter personal prelucrate în SINS sau în SIS, Biroul protecția datelor personale solicită acordul autorităților naționale competente care au introdus semnalările în cauză. Acordul se comunică în termen de 20 de zile de la data primirii solicitării din partea Biroului protecția datelor personale. (4) Pentru a comunica solicitantului informații cu privire la datele cu caracter personal introduse în SIS de către alte state membre sau asociate, Biroul protecția datelor personale solicită, prin schimbul de informații suplimentare, poziția statului membru sau asociat care a introdus semnalarea. (5) Biroul protecția datelor personale comunică, în termen de 40 de zile de la primirea solicitării, acordul cu privire la transmiterea de către un alt stat membru sau asociat a datelor cu caracter personal cuprinse sau în legătură cu semnalările transmise de autoritățile naționale competente în SIS, numai cu acordul acestora. Acordul se comunică în termen de 20 de zile de la data primirii solicitării din partea Biroului protecția datelor personale. (6) În vederea soluționării cererilor persoanelor vizate în contextul prelucrării datelor cu caracter personal în SINS sau în SIS, personalul Biroului protecția datelor personale are acces la informațiile conținute în SIS și la schimbul de informații suplimentare aferente acestora.-"
+    },
+    {
+      "provision_ref": "Art.63",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 5-a - Protecția persoanelor cu privire la prelucrarea datelor cu caracter personal",
+      "section": "63",
+      "title": "Articolul 63",
+      "content": "Cererile de rectificare și/sau ștergere trebuie să cuprindă în mod obligatoriu datele cu caracter personal ale căror rectificare și/sau ștergere se solicită."
+    },
+    {
+      "provision_ref": "Art.64",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 5-a - Protecția persoanelor cu privire la prelucrarea datelor cu caracter personal",
+      "section": "64",
+      "title": "Articolul 64",
+      "content": "(1) Instanțele judecătorești competente recunosc deciziile definitive pronunțate de instanțele competente din statele membre sau asociate privind accesul, rectificarea, ștergerea, obținerea informațiilor sau obținerea de despăgubiri în legătură cu o semnalare, în conformitate cu Legea nr. 134/2010 privind Codul de procedură civilă, republicată , cu modificările și completările ulterioare, respectiv cu Legea nr. 302/2004, republicată , cu modificările și completările ulterioare. Autoritatea națională de supraveghere recunoaște deciziile definitive pronunțate de celelalte instituții competente din statele membre sau asociate. (2) În aplicarea art. 19 din Regulamentul SIS returnare, art. 54 alin. (3) din Regulamentul SIS verificări la frontiere și a art. 68 alin. (3) din Regulamentul SIS cooperare, Autoritatea națională de supraveghere prezintă Comitetului european pentru protecția datelor, anual, rapoarte potrivit modelelor elaborate de către Comisia Europeană. (3) Până la data de 15 ianuarie a fiecărui an pentru anul anterior, autoritățile naționale cu drept de acces, rectificare și ștergere a datelor din SIS sau instanțele de judecată pe rolul cărora s-au aflat cauze privind recunoașterea reciprocă a deciziilor definitive pronunțate de instanțele competente din statele membre sau asociate furnizează Autorității naționale de supraveghere toate informațiile necesare în vederea elaborării rapoartelor anuale."
+    },
+    {
+      "provision_ref": "Art.65",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 5-a - Protecția persoanelor cu privire la prelucrarea datelor cu caracter personal",
+      "section": "65",
+      "title": "Articolul 65",
+      "content": "(1) Legalitatea prelucrării datelor cu caracter personal în N.SIS pe teritoriul României și transmiterea acestor date în străinătate, precum și schimbul și procesarea ulterioară a informațiilor suplimentare sunt monitorizate și se supun controlului Autorității naționale de supraveghere. (2) În aplicarea art. 55 alin. (2) din Regulamentul SIS verificări la frontiere și a art. 69 alin. (2) din Regulamentul SIS cooperare, auditarea operațiunilor de prelucrare a datelor cu caracter personal în N.SIS se realizează de către Autoritatea națională de supraveghere."
+    },
+    {
+      "provision_ref": "Art.66",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 6-a - Norme specifice privind datele biometrice",
+      "section": "66",
+      "title": "Articolul 66",
+      "content": "(1) Autoritățile naționale competente sunt responsabile de calitatea datelor biometrice specifice atașate semnalărilor introduse. (2) Autoritățile române care solicită introducerea unei semnalări pun la dispoziția autorităților naționale competente datele biometrice, atunci când acestea sunt disponibile, în vederea atașării la semnalare. (3) În situația în care se constată că datele cu caracter personal sau datele de identitate aferente datelor biometrice introduse sunt diferite de datele cu caracter personal sau de datele de identitate aferente unei semnalări existente în SIS, clarificarea identității persoanei se realizează în cadrul schimbului de informații suplimentare. (4) La solicitarea organelor de urmărire penală sau a instanțelor de judecată, pot fi efectuate căutări ale seturilor complete sau incomplete de amprente digitale sau de amprente palmare găsite la locul unei infracțiuni, cu datele dactiloscopice stocate în SIS, cu condiția ca o căutare să fie efectuată în sistemul AFIS național, precum și în alte baze de date relevante la nivelul Uniunii Europene sau la nivel internațional. (5) În cazul în care sunt disponibile fotografii, imagini faciale, date dactiloscopice și profiluri ADN, acestea sunt folosite cu scopul de a confirma identitatea unei persoane care a fost localizată ca rezultat al unei căutări alfanumerice făcute în SIS. (6) În scopul prevăzut la alin. (5) , autoritățile naționale competente pot utiliza metode și tehnologii de identificare manuală sau automatizată. (7) În situația în care identitatea unei persoane nu poate fi stabilită prin niciun alt mijloc, autoritățile naționale competente efectuează căutări în datele dactiloscopice stocate în SIS, utilizând datele dactiloscopice ale persoanei respective. (8) Datele dactiloscopice utilizate potrivit alin. (7) nu sunt stocate în baze de date, cu excepția situațiilor în care organele de urmărire penală sau instanțele de judecată dispun stocarea acestora în sistemul AFIS național, potrivit legii. (9) Validarea răspunsurilor pozitive care intră sub incidența verificărilor manuale efectuate în SIS utilizând date dactiloscopice specifice art. 40 din Regulamentul SIS cooperare se realizează de către tehnicieni, specialiști sau experți criminaliști din cadrul Institutului Național de Criminalistică din cadrul Poliției Române, într-un program de lucru de 24 de ore pe zi, 7 zile pe săptămână. Răspunsul validării se comunică solicitantului verificării și Biroului național SIRENE în cadrul schimbului de informații suplimentare."
+    },
+    {
+      "provision_ref": "Art.67",
+      "chapter": "Capitolul IV - Dispoziții comune pentru semnalările conținute în SINS și pentru cele transmise în SIS | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "67",
+      "title": "Articolul 67",
+      "content": "Utilizarea abuzivă a datelor din SINS sau a celor transmise în SIS sau schimbul de informații suplimentare care contravine regulamentelor europene prevăzute la art. 1 se sancționează potrivit Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului, a Legii nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), cu modificările ulterioare, sau a Legii nr. 363/2018 , după caz."
+    },
+    {
+      "provision_ref": "Art.68",
+      "chapter": "Capitolul V - Dispoziții privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "68",
+      "title": "Articolul 68",
+      "content": "Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România, republicată în Monitorul Oficial al României, Partea I, nr. 421 din 5 iunie 2008, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 2, litera x) se modifică și va avea următorul cuprins: x) interdicția de intrare - decizia sau orice alt act de natură administrativă sau judiciară prin care se interzic intrarea și șederea pe teritoriul României sau pe teritoriul unuia dintre statele membre ale Uniunii Europene sau ale Spațiului Economic European ori pe teritoriul Confederației Elvețiene, pentru o perioadă determinată; 2. La articolul 4, după alineatul (6) se introduce un nou alineat, alin. (7), cu următorul cuprins: (7) Străinii au obligația de a se supune amprentării și fotografierii, în situațiile prevăzute de prezenta ordonanță de urgență. 3. După articolul 83 se introduce un nou articol, art. 83^1, cu următorul cuprins: Articolul 83^1 Măsuri tehnice Străinii împotriva cărora se emit decizii de returnare sunt amprentați și fotografiați în condițiile și pentru scopurile prevăzute de Regulamentul (UE) 2018/1.860 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind utilizarea Sistemului de informații Schengen pentru returnarea resortisanților țărilor terțe aflați în situație de ședere ilegală și de Regulamentul (UE) 2018/1.861 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind instituirea, funcționarea și utilizarea Sistemului de informații Schengen (SIS) în domeniul verificărilor la frontiere, de modificare a Convenției de punere în aplicare a Acordului Schengen și de modificare și abrogare a Regulamentului (CE) nr. 1.987/2006, cu modificările și completările ulterioare. 4. La articolul 88, alineatul (5) se abrogă. 5. La articolul 99, după alineatul (2) se introduce un nou alineat, alin. (3), cu următorul cuprins: (3) Străinii care fac obiectul prezentului articol sunt amprentați și fotografiați în condițiile și pentru scopurile prevăzute de Regulamentul (UE) 2018/1.860 al Parlamentului European și al Consiliului și de Regulamentul (UE) 2018/1.861 al Parlamentului European și al Consiliului. 6. La articolul 106^3, după alineatul (2) se introduce un nou alineat, alin. (2^1), cu următorul cuprins: (2^1) Prin măsurile prevăzute la alin. (1) și (2) se interzic intrarea și șederea pe teritoriul statelor membre ale Uniunii Europene, Spațiului Economic European și pe teritoriul Confederației Elvețiene, atunci când sunt îndeplinite condițiile prevăzute la art. 24 din Regulamentul (UE) 2018/1.861 al Parlamentului European și al Consiliului. 7. La articolul 106^4, după alineatul (11) se introduc patru noi alineate, alin. (11^1)-(11^4), cu următorul cuprins: (11^1) În cazul străinilor care refuză amprentarea și fotografierea potrivit prezentei ordonanțe de urgență, durata interdicției de intrare este de 2 ani. (11^2) În cazul străinilor prevăzuți la alin. (11^1), care se află în situațiile prevăzute la alin. (1), (5)-(8), (10) și (11), durata interdicției de intrare se majorează cu 2 ani. (11^3) Refuzul repetat, în aceeași împrejurare sau în împrejurări diferite, anterior părăsirii teritoriului României, nu atrage majorarea duratei interdicției de intrare. (11^4) Durata interdicției de intrare stabilită potrivit alin. (11^2) nu poate depăși 5 ani, cu excepția cazului în care străinul reprezintă o amenințare gravă pentru ordinea publică, siguranța publică sau securitatea națională. 8. La articolul 106^4, alineatul (12) se modifică și va avea următorul cuprins: (12) Durata interdicției de intrare se calculează de la data ieșirii străinului de pe teritoriul statelor membre ale Uniunii Europene, Spațiului Economic European ori de pe teritoriul Confederației Elvețiene, iar în cazul în care a fost dispusă la nivel național, de la data ieșirii din țară a străinului sau, dacă străinul nu se află în România, de la data dispunerii măsurii. 9. La articolul 106^6, alineatul (1) se modifică și va avea următorul cuprins: (1) Străinii împotriva cărora se dispune măsura interdicției de intrare sunt amprentați și fotografiați în condițiile și pentru scopurile prevăzute de Regulamentul (UE) 2018/1.860 al Parlamentului European și al Consiliului și de Regulamentul (UE) 2018/1.861 al Parlamentului European și al Consiliului. 10. La articolul 106^6, alineatul (2) se abrogă. 11. În tot cuprinsul ordonanței de urgență , sintagmele „interzicerea intrării în România“, „interzicerea intrării pe teritoriul României“, „interdicția de intrare în țară“ și „interdicția de intrare în România“ se înlocuiesc cu sintagma „interdicția de intrare“."
+    },
+    {
+      "provision_ref": "Art.69",
+      "chapter": "Capitolul VI - Dispoziții tranzitorii și finale | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "69",
+      "title": "Articolul 69",
+      "content": "Numărul total de posturi pentru asigurarea resurselor necesare funcționării optime a Biroului național SIRENE și pentru constituirea și funcționarea Biroului protecția datelor personale se asigură prin suplimentarea numărului de posturi aprobat Poliției Române din numărul de posturi aprobat Ministerului Afacerilor Interne."
+    },
+    {
+      "provision_ref": "Art.70",
+      "chapter": "Capitolul VI - Dispoziții tranzitorii și finale | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "70",
+      "title": "Articolul 70",
+      "content": "(1) Pentru îndeplinirea atribuțiilor prevăzute de prezenta lege se alocă suplimentar Autorității naționale de supraveghere sumele necesare bugetării a 22 de posturi din numărul celor deja stabilite prin lege, iar sumele și resursele necesare se suportă de la bugetul de stat și sunt prevăzute distinct anual, cu această destinație, în bugetul Autorității naționale de supraveghere. (2) Prin derogare de la prevederile legale ce instituie interdicția ocupării posturilor în sectorul bugetar, Autoritatea națională de supraveghere este abilitată să organizeze concursuri în vederea ocupării posturilor vacante pentru îndeplinirea atribuțiilor sale."
+    },
+    {
+      "provision_ref": "Art.71",
+      "chapter": "Capitolul VI - Dispoziții tranzitorii și finale | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "71",
+      "title": "Articolul 71",
+      "content": "Finanțarea actualizării și operaționalizării componentelor N.SIS și ale sistemului informatic SIRENE și a cheltuielilor curente și de capital aferente întreținerii și desfășurării activității N.SIS și ale sistemului informatic SIRENE este asigurată prin bugetul aprobat conform prevederilor legale în vigoare pentru fiecare instituție implicată."
+    },
+    {
+      "provision_ref": "Art.72",
+      "chapter": "Capitolul VI - Dispoziții tranzitorii și finale | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "72",
+      "title": "Articolul 72",
+      "content": "(1) Formarea profesională a personalului autorităților care au drept de acces la SIS se realizează în mod gratuit prin programele de pregătire organizate de către Centrul Multifuncțional de Pregătire Schengen, din subordinea Ministerului Afacerilor Interne. (2) Pentru personalul prevăzut la alin. (1) care provine din instituții din afara Ministerului Afacerilor Interne, Centrul Multifuncțional de Pregătire Schengen poate asigura cazare contra cost, potrivit tarifelor stabilite conform prevederilor legale în vigoare."
+    },
+    {
+      "provision_ref": "Art.73",
+      "chapter": "Capitolul VI - Dispoziții tranzitorii și finale | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "73",
+      "title": "Articolul 73",
+      "content": "(1) În termen de 30 de zile de la data intrării în vigoare a prezentei legi, autoritățile naționale competente adoptă reglementări interne prin care stabilesc procedurile de lucru privind activitățile proprii aferente semnalărilor din SINS sau SIS. (2) Procedurile de lucru privind activitățile autorităților naționale competente din cadrul sau din subordinea Ministerului Afacerilor Interne se aprobă prin ordin al ministrului afacerilor interne."
+    },
+    {
+      "provision_ref": "Art.74",
+      "chapter": "Capitolul VI - Dispoziții tranzitorii și finale | Secţiunea a 7-a - Răspunderea și sancțiunile",
+      "section": "74",
+      "title": "Articolul 74",
+      "content": "(1) La data intrării în vigoare a prezentei legi se abrogă Legea nr. 141/2010 privind înființarea, organizarea și funcționarea Sistemului Informatic Național de Semnalări și participarea României la Sistemul de Informații Schengen, republicată în Monitorul Oficial al României, Partea I, nr. 240 din 3 aprilie 2014, și Hotărârea Guvernului nr. 966/2010 privind drepturile de acces al autorităților publice române la Sistemul Informatic Național de Semnalări, publicată în Monitorul Oficial al României, Partea I, nr. 653 din 21 septembrie 2010, cu modificările ulterioare. (2) Până la intrarea în vigoare a actelor normative subsecvente emise în executarea prezentei legi se aplică dispozițiile actelor normative existente, în măsura în care nu contravin acesteia."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Sistem de informații Schengen, denumit în continuare SIS",
+      "definition": "sistemul informatic instituit la nivelul Uniunii Europene și utilizat de statele membre și asociate pentru cooperarea prin schimb de date și informații, în vederea menținerii ordinii publice și securității naționale pe teritoriile acestora",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Sistem informatic național de semnalări",
+      "definition": "sistemul informatic compatibil cu SIS care conține semnalări de interes național și de interes Schengen, introduse de către autoritățile naționale competente",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "sistem informatic SIRENE",
+      "definition": "sistemul informatic național, gestionat de Poliția Română, destinat stocării informațiilor de către autoritățile române și schimbului de date între acestea și organismele europene implicate în lupta împotriva criminalității transfrontaliere în statele membre și asociate",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Biroul național SIRENE",
+      "definition": "structura specializată din cadrul Poliției Române care asigură realizarea schimbului de informații suplimentare cu birourile SIRENE din celelalte state membre ale Uniunii Europene și din cele asociate, în conformitate cu prevederile regulamentelor europene prevăzute la art. 1",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "control discret",
+      "definition": "activitate desfășurată de către Poliția de Frontieră Română și Poliția Română cu ocazia efectuării controlului la trecerea frontierei de stat ori a altui tip de control polițienesc sau vamal, în aplicarea art. 37 alin. (3) din Regulamentul SIS cooperare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "control prin interviu",
+      "definition": "activitate desfășurată de către Poliția de Frontieră Română și Poliția Română cu ocazia conducerii la sediu, potrivit Legii nr. 218/2002 privind organizarea și funcționarea Poliției Române, republicată, cu modificările și completările ulterioare, și a Ordonanței de urgență a Guvernului nr. 104/2001 privind organizarea și funcționarea Poliției de Frontieră Române, aprobată cu modificări prin Legea nr. 81/2002 , cu modificările și completările ulterioare, în aplicarea art. 37 alin",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "control specific",
+      "definition": "activitate desfășurată de către Poliția de Frontieră Română și Poliția Română potrivit Legii nr. 218/2002 , republicată, cu modificările și completările ulterioare, și a Ordonanței de urgență a Guvernului nr. 104/2001 , aprobată cu modificări prin Legea nr",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "semnalare de interes național",
+      "definition": "semnalarea introdusă în SINS de o autoritate națională competentă",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "semnalare de interes Schengen",
+      "definition": "semnalarea transmisă din SINS în SIS",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "sistem AFIS național",
+      "definition": "sistemul automatizat pentru identificarea datelor dactiloscopice, organizat la nivelul Poliției Române potrivit Ordonanței Guvernului nr. 10/2012 pentru crearea cadrului legal necesar căutării automatizate a datelor de referință în relația cu statele membre ale Uniunii Europene și asigurării recunoașterii activităților de laborator referitoare la datele dactiloscopice, aprobată prin Legea nr. 22/2013 , cu modificările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "stat asociat",
+      "definition": "stat cu care Uniunea Europeană a încheiat acorduri în vederea participării la SIS",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "stat membru",
+      "definition": "stat membru al Uniunii Europene care utilizează SIS",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "furnizare",
+      "definition": "introducerea de date în SINS din bazele de date proprii, modificarea și ștergerea acestor date de către autoritățile naționale competente",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "consultare",
+      "definition": "examinarea de către autoritățile naționale competente a elementelor cuprinse în semnalările din SINS",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "tranzacție",
+      "definition": "operațiunea de furnizare sau consultare a datelor conținute în SINS.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

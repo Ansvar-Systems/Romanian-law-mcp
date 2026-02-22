@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-306445",
+  "type": "statute",
+  "title": "LEGE nr. 16 din 15 ianuarie 2026",
+  "short_name": "lege 16 15 01 2026",
+  "status": "in_force",
+  "issued_date": "2026-01-15",
+  "in_force_date": "2026-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/306445",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 16 15/01/2026",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea învățământului superior nr. 199/2023 , publicată în Monitorul Oficial al României, Partea I, nr. 614 din 5 iulie 2023, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 129, alineatele (1) și (10) se modifică și vor avea următorul cuprins: Articolul 129 (1) Statul susține studenții cu probleme și nevoi sociale precum și pe cei cu dizabilități și cerințe educaționale speciale. .............. (10) Studenții cu dizabilități și/sau cerințe educaționale speciale au dreptul la acces adaptat acestora în totalitatea spațiilor universitare, la asigurarea unui interpret în limbaj mimico-gestual și/sau în limba semnelor, precum și la condiții adecvate pentru desfășurarea normală a activităților academice, sociale, culturale și administrative în cadrul instituțiilor de învățământ superior, corespunzătoare pentru nevoile de învățare ale acestora. Normele privind accesibilizarea învățământului superior pentru persoanele cu dizabilități și/sau cerințe educaționale speciale se aprobă prin ordin al ministrului educației și cercetării. 2. La articolul 129, după alineatul (10) se introduce un nou alineat, alin. (10^1), cu următorul cuprins: (10^1) Studenții cu dizabilități și/sau cerințe educaționale speciale au dreptul la participarea în format hibrid la activitățile didactice și de cercetare, la cerere. 3. La articolul 129, alineatul (11) se modifică și va avea următorul cuprins: (11) Statul și instituțiile de învățământ superior trebuie să asigure acces echitabil pentru toți studenții la oportunități de învățare oferite de programe de mobilitate naționale și internaționale și să întreprindă măsuri active împotriva obstacolelor în ceea ce privește mobilitatea fizică sau virtuală a studenților în situații de risc, a celor cu dizabilități, a celor cu cerințe educaționale speciale sau a celor netradiționali. Procesul de internaționalizare poate fi susținut și prin includerea în cadrul activităților de învățare, predare și cercetare a unor componente care presupun colaborarea în format online. 4. La anexă, după punctul 17 se introduce un nou punct, pct. 17^1, cu următorul cuprins: 17^1. Cerințele educaționale speciale (CES) reprezintă necesitățile educaționale suplimentare, complementare obiectivelor generale ale educației, adaptate particularităților individuale și celor caracteristice unei anumite deficiențe/dizabilități sau tulburări/dificultăți de învățare ori de altă natură, precum și o asistență complexă de natură medicală, socială și/sau educațională."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 90 de zile de la intrarea în vigoare a prezentei legi, Ministerul Educației și Cercetării va actualiza Normele privind accesibilizarea învățământului superior pentru persoanele cu dizabilități, aprobate prin Ordinul ministrului educației nr. 4.481/2024 ."
+    }
+  ],
+  "definitions": []
+}

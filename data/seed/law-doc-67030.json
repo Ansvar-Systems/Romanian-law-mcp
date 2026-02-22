@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-67030",
+  "type": "statute",
+  "title": "LEGE nr. 365 din 13 decembrie 2005",
+  "short_name": "lege 365 13 12 2005",
+  "status": "in_force",
+  "issued_date": "2005-12-13",
+  "in_force_date": "2005-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/67030",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 365 13/12/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 55 din 15 iunie 2005 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 68/2004 privind unele măsuri în domeniul învățământului, publicată în Monitorul Oficial al României, Partea I, nr. 569 din 1 iulie 2005, cu următoarea modificare și completare: – La articolul unic punctul 3, alineatul (1) al articolului 2 va avea următorul cuprins: Articolul 2 (1) Începând cu luna octombrie 2004, coeficienții de multiplicare pentru funcțiile didactice prevăzute în anexele nr. IV și V la Ordonanța de urgență a Guvernului nr. 38/2004 se înlocuiesc cu valorile prevăzute în anexele nr. 3 și 4 la prezenta ordonanță de urgență, funcțiile și valorile coeficienților de multiplicare din anexa nr. 4 sunt preluate în anexa nr. 3."
+    }
+  ],
+  "definitions": []
+}

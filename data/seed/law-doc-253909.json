@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-253909",
+  "type": "statute",
+  "title": "LEGE nr. 90 din 13 aprilie 2022",
+  "short_name": "lege 90 13 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-13",
+  "in_force_date": "2022-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253909",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 90 13/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 66 din 29 iunie 2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 126/2003 privind operarea, funcționarea și finanțarea asistenței de urgență acordate cu elicoptere destinate serviciilor aeromedicale de urgență și pentru simplificarea procedurilor de desemnare ale unităților sanitare ca operatori medicali, precum și pentru abrogarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 643 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

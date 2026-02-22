@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30675",
+  "type": "statute",
+  "title": "LEGE nr. 12 din 8 ianuarie 1930",
+  "short_name": "lege 12 08 01 1930",
+  "status": "in_force",
+  "issued_date": "1930-01-08",
+  "in_force_date": "1930-01-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30675",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 08/01/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a proceda la schimbul de ratificări pentru punerea în vigoare a Tratatului de Arbitraj, încheiat la Washington, între România şi Statele Unite ale Americii, la 21 Martie 1929. Copia şi traducerea autentică depe zisul Tratat se alătură la legea de faţa. Desbateri: Camera Nr. 19 şi 20-1929/30; Senat Nr. 11-1929/30. Votat de Adunarea Deputaţilor la 20 Decemvrie şi de Senat la 21 Decemvrie 1929."
+    }
+  ],
+  "definitions": []
+}

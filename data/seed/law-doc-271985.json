@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271985",
+  "type": "statute",
+  "title": "LEGE nr. 209 din 7 iulie 2023",
+  "short_name": "lege 209 07 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-07",
+  "in_force_date": "2023-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271985",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 209 07/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 61 din 6 mai 2022 privind unele măsuri pentru acordarea de microgranturi și granturi pentru capital de lucru entităților din domeniul agroalimentar cu finanțare din fonduri externe nerambursabile, publicată în Monitorul Oficial al României, Partea I, nr. 458 din 6 mai 2022."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-34516",
+  "type": "statute",
+  "title": "LEGE nr. 174 din 25 iulie 1931",
+  "short_name": "lege 174 25 07 1931",
+  "status": "in_force",
+  "issued_date": "1931-07-25",
+  "in_force_date": "1931-07-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34516",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 174 25/07/1931",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acorda d-nei Eliza I. Mincu, vaduva defunctului arhitect I. Mincu, o pensie viageră de câte 10.000 lei lunar, cu începere dela 1 Iulie 1931."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Aceasta pensie este netransmisibila, iar suma anuală necesară pentru plata ei se va înscrie în bugetul Ministerului de Finanţe şi se va vărsa Casei Generale de Pensiuni, care va face plata. Pentru anul 1931, plata se va face din fondul general de deschideri de credite suplimentare şi extraordinare a bugetului în curs şi în acest scop se deschide un credit de 60.000 lei dela acest fond. (Votat de Adunarea Deputaţilor la 13 Iulie şi de Senat la 14 Iulie 1931) ---------"
+    }
+  ],
+  "definitions": []
+}

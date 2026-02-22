@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-166914",
+  "type": "statute",
+  "title": "LEGE nr. 17 din 3 martie 2015",
+  "short_name": "lege 17 03 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-03",
+  "in_force_date": "2015-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166914",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 17 03/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acceptă Codul din 2009 pentru construcția și echipamentul unităților mobile de foraj marin (Codul MODU 2009), adoptat de Adunarea Organizației Maritime Internaționale prin Rezoluția A.1023(26) din 2 decembrie 2009*), aplicabil unităților mobile de foraj marin construite la 1 ianuarie 2012 sau după această dată."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se acceptă amendamentele la Codul MODU 2009 adoptate de Comitetul de Siguranță Maritimă al Organizației Maritime Internaționale prin Rezoluția MSC.359(92) din 21 iunie 2013*). Notă *) Codul din 2009 pentru construcția și echipamentul unităților mobile de foraj marin (Codul MODU 2009), adoptat de Adunarea Organizației Maritime Internaționale prin Rezoluția A.1023(26) din 2 decembrie 2009, și amendamentele la Codul MODU 2009 adoptate de Comitetul de Siguranță Maritimă al Organizației Maritime Internaționale prin Rezoluția MSC.359(92) din 21 iunie 2013 se publică în Monitorul Oficial al României, Partea I, nr. 224 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome \"Monitorul Oficial\", București, șos. Panduri nr. 1."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Transporturilor va lua măsurile necesare în vederea punerii în aplicare a prevederilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Amendamentele ulterioare la Codul din 2009 pentru construcția și echipamentul unităților mobile de foraj marin (Codul MODU 2009), care nu sunt de nivel primar, vor fi preluate în legislația internă, prin ordin al ministrului transporturilor, care se publică în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

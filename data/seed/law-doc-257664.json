@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-257664",
+  "type": "statute",
+  "title": "LEGE nr. 224 din 19 iulie 2022",
+  "short_name": "lege 224 19 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-19",
+  "in_force_date": "2022-07-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257664",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 224 19/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 110 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, după alineatul (3) se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) Finanțarea învățământului special din unitățile de învățământ particular acreditate se asigură din sumele defalcate din unele venituri ale bugetului de stat prin bugetele locale ale consiliilor județene și ale sectoarelor municipiului București, indiferent de locul de domiciliu al elevilor, prin contract managerial. Consiliile județene și ale sectoarelor municipiului București asigură finanțarea cheltuielilor salariale pentru cadrele didactice, didactice auxiliare și nedidactice încadrate în învățământul special particular acreditat în limitele cuantumului salarial al personalului angajat în unitățile de învățământ special de stat și în limitele de normare prevăzute de legislația în vigoare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prin derogare de la prevederile art. 5 alin. (2) din Legea educației naționale nr. 1/2011 , cu modificările și completările ulterioare, prevederile prezentei legi intră în vigoare la 3 zile de la publicarea legii în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

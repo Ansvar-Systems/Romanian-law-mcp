@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-164494",
+  "type": "statute",
+  "title": "LEGE nr. 4 din 7 ianuarie 2015",
+  "short_name": "lege 4 07 01 2015",
+  "status": "in_force",
+  "issued_date": "2015-01-07",
+  "in_force_date": "2015-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/164494",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4 07/01/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă prețul mediu al unui metru cub de masă lemnoasă pe picior, în valoare de 115 lei."
+    }
+  ],
+  "definitions": []
+}

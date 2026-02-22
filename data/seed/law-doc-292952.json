@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-292952",
+  "type": "statute",
+  "title": "LEGE nr. 317 din 20 decembrie 2024",
+  "short_name": "lege 317 20 12 2024",
+  "status": "in_force",
+  "issued_date": "2024-12-20",
+  "in_force_date": "2024-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/292952",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 317 20/12/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale, republicată în Monitorul Oficial al României, Partea I, nr. 75 din 21 ianuarie 2005, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 1, după alineatul (2) se introduce un nou alineat, alin. (2^1), cu următorul cuprins: (2^1) Prin excepție de la prevederile alin. (2), pentru încasările realizate prin utilizarea cardurilor de credit/debit, utilizatorii nu au obligația să imprime/să înmâneze bonuri fiscale cu aparate de marcat electronice fiscale clienților. La solicitarea clienților, utilizatorii pot imprima și înmâna acestora bonul fiscal. Lipsa bonului fiscal tipărit nu afectează drepturile consumatorilor prevăzute de Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor, republicată, cu modificările și completările ulterioare, extrasul de cont bancar ținând locul bonului fiscal drept mijloc de probă al achiziției. 2. La articolul 1, alineatul (10) se modifică și va avea următorul cuprins: (10) În cazul în care operatorii economici prevăzuți la alin. (1) nu înmânează clientului bonul fiscal sau înmânează un alt document decât bonul fiscal, cu excepția situațiilor prevăzute la alin. (2^1) și (8), clientul este obligat să solicite operatorului economic înmânarea bonului fiscal. 3. La articolul 3, după alineatul (2^2) se introduce un nou alineat, alin. (2^3), cu următorul cuprins: (2^3) Prin excepție de la dispozițiile alin. (2), în cazul echipamentelor nesupravegheate de tipul automatelor comerciale ce funcționează exclusiv pe bază de plăți cu cardul, aparatul de marcat electronic fiscal nu este obligatoriu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 319 alineatul (10) din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) livrările de bunuri prin magazinele de comerț cu amănuntul și prestările de servicii către populație, pentru care este obligatorie emiterea de bonuri fiscale, precum și livrările de bunuri și prestările de servicii către populație efectuate prin echipamente nesupravegheate de tipul automatelor comerciale ce funcționează exclusiv pe bază de plăți cu cardul, conform Ordonanței de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale, republicată, cu modificările și completările ulterioare;"
+    }
+  ],
+  "definitions": []
+}

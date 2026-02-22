@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-42779",
+  "type": "statute",
+  "title": "LEGE nr. 92 din 18 martie 2003",
+  "short_name": "lege 92 18 03 2003",
+  "status": "in_force",
+  "issued_date": "2003-03-18",
+  "in_force_date": "2003-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/42779",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 92 18/03/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "România adera la Convenția privind efectele transfrontiere ale accidentelor industriale, adoptată la Helsinki la 17 martie 1992. Această lege a fost adoptată de Senat în ședința din 16 decembrie 2002, cu respectarea prevederilor art. 74 alin. (2) din Constituția României ."
+    }
+  ],
+  "definitions": []
+}

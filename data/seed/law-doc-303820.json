@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303820",
+  "type": "statute",
+  "title": "LEGE nr. 175 din 30 octombrie 2025",
+  "short_name": "lege 175 30 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-30",
+  "in_force_date": "2025-10-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303820",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 175 30/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 28 din 15 aprilie 2021 pentru modificarea și completarea Legii nr. 185/2017 privind asigurarea calității în sistemul de sănătate, precum și pentru adoptarea unor măsuri în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 401 din 16 aprilie 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-23612",
+  "type": "statute",
+  "title": "LEGE nr. 142 din 24 iulie 2000",
+  "short_name": "lege 142 24 07 2000",
+  "status": "in_force",
+  "issued_date": "2000-07-24",
+  "in_force_date": "2000-07-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/23612",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 142 24/07/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă afilierea Centrului de Formare şi Inovaţie pentru Dezvoltare în Carpaţi (CEFIDEC), din subordinea Ministerului Agriculturii şi Alimentaţiei, la Asociaţia \"Euromontana\", cu sediul la Paris, în condiţiile prevăzute în statutul acesteia, al cărui text este prevăzut în anexa, precum şi plata cotizatiei anuale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cotizatia anuală la Asociaţia \"Euromontana\" se suporta de la bugetul de stat, prin bugetul Ministerului Agriculturii şi Alimentaţiei. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 20 mai 2000, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE CAMEREI DEPUTAŢILOR, BOGDAN NICULESCU-DUVAZ Această lege a fost adoptată de Senat în şedinţa din 29 iunie 2000, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI, ULM NICOLAE SPINEANU"
+    }
+  ],
+  "definitions": []
+}

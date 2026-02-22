@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277922",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 3 ianuarie 2024",
+  "short_name": "lege 1 03 01 2024",
+  "status": "in_force",
+  "issued_date": "2024-01-03",
+  "in_force_date": "2024-01-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277922",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 03/01/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 103 din 30 iunie 2022 privind unele măsuri pentru creșterea capacității de control la frontieră a Autorității Vamale Române, publicată în Monitorul Oficial al României, Partea I, nr. 656 din 30 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

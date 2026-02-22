@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176840",
+  "type": "statute",
+  "title": "LEGE nr. 34 din 22 martie 2016",
+  "short_name": "lege 34 22 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-22",
+  "in_force_date": "2016-03-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176840",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 22/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 154 din 12 noiembrie 2008 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice şi a Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 787 din 25 noiembrie 2008, cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

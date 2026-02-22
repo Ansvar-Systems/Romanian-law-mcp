@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305259",
+  "type": "statute",
+  "title": "LEGE nr. 228 din 12 decembrie 2025",
+  "short_name": "lege 228 12 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2025-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305259",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 228 12/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "În anexa nr. 5 la Legea nr. 122/2023 privind exploatațiile de creștere a porcinelor și combaterea pestei porcine africane în România, publicată în Monitorul Oficial al României, Partea I, nr. 421 din 16 mai 2023, la articolul 3 punctul 3, litera b) se modifică și va avea următorul cuprins: b) neefectuarea de tratamente, intervenții sau acțiuni medicale, inclusiv necropsii și prelevări de probe cu personal, sub stricta supraveghere a medicului veterinar de liberă practică;"
+    }
+  ],
+  "definitions": []
+}

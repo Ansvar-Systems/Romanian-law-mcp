@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242319",
+  "type": "statute",
+  "title": "LEGE nr. 142 din 17 mai 2021",
+  "short_name": "lege 142 17 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-17",
+  "in_force_date": "2021-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242319",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 142 17/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 1 din 6 ianuarie 2021 privind stabilirea cadrului instituțional și adoptarea unor măsuri necesare pentru înființarea punctului național de acces, conform regulamentelor delegate de completare a Directivei 2010/40/UE a Parlamentului European și a Consiliului din 7 iulie 2010 privind cadrul pentru implementarea sistemelor de transport inteligente în domeniul transportului rutier și pentru interfețele cu alte moduri de transport, publicată în Monitorul Oficial al României, Partea I, nr. 16 din 7 ianuarie 2021."
+    }
+  ],
+  "definitions": []
+}

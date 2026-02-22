@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196724",
+  "type": "statute",
+  "title": "LEGE nr. 7 din 5 ianuarie 2018",
+  "short_name": "lege 7 05 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196724",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 05/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Croația privind protecția reciprocă a informațiilor clasificate, semnat la Zagreb la 12 iunie 2017."
+    }
+  ],
+  "definitions": []
+}

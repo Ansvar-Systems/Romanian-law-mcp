@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201082",
+  "type": "statute",
+  "title": "LEGE nr. 118 din 25 mai 2018",
+  "short_name": "lege 118 25 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-25",
+  "in_force_date": "2018-05-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201082",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 118 25/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Tratatul dintre România și Republica Federativă a Braziliei privind asistența judiciară reciprocă în materie penală, semnat la Brasilia la 13 iunie 2017."
+    }
+  ],
+  "definitions": []
+}

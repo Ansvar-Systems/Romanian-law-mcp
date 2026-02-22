@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-243990",
+  "type": "statute",
+  "title": "LEGE nr. 182 din 30 iunie 2021",
+  "short_name": "lege 182 30 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-30",
+  "in_force_date": "2021-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243990",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 182 30/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege stabilește unele măsuri privind prevenirea discriminării mamelor care alăptează, precum și combaterea încălcării dreptului la hrană al copiilor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Următoarele fapte constituie contravenții: a) evacuarea dintr-un spațiu public a unei mame care are dreptul de a se afla în acel spațiu și care alăptează un copil; b) interzicerea, în orice mod, a alăptării în spațiile publice a unui copil; c) refuzul furnizării de servicii unei persoane pentru că alăptează un copil, în condițiile în care persoana are dreptul de a beneficia de serviciul respectiv."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Contravențiile prevăzute la art. 2 se sancționează după cum urmează: a) cu amendă de la 100 lei la 500 lei, dacă fapta este săvârșită de o persoană fizică; b) cu amendă de la 1.000 lei la 2.000 lei, dacă fapta este săvârșită de o persoană juridică sau de către o entitate înregistrată la Oficiul Național al Registrului Comerțului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Faptele prevăzute la art. 2 constituie contravenții chiar dacă spațiile publice sunt dotate cu camere de tip „mama și copilul“."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Constatarea contravențiilor prevăzute la art. 2 și aplicarea sancțiunilor se fac de către persoanele împuternicite din cadrul Autorității Naționale pentru Protecția Consumatorilor, Ministerului Afacerilor Interne sau poliției locale, după caz. (2) Contravențiilor prevăzute la art. 2 le sunt aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Persoanele responsabile din instituțiile și unitățile care administrează spațiile publice vor comunica tuturor angajaților prevederile prezentei legi."
+    }
+  ],
+  "definitions": []
+}

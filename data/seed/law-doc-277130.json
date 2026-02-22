@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277130",
+  "type": "statute",
+  "title": "LEGE nr. 373 din 8 decembrie 2023",
+  "short_name": "lege 373 08 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-08",
+  "in_force_date": "2023-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277130",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 373 08/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 172 din 8 decembrie 2022 privind dezvoltarea sistemului informatic MySMIS2021/SMIS2021+ și a aplicațiilor informatice MySMIS2021 și SMIS2021 pentru gestionarea fondurilor europene aferente perioadei de programare 2021-2027 și pentru completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, publicată în Monitorul Oficial al României, Partea I, nr. 1192 din 12 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

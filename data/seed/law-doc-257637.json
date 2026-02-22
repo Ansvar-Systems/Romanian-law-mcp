@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257637",
+  "type": "statute",
+  "title": "LEGE nr. 222 din 15 iulie 2022",
+  "short_name": "lege 222 15 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-15",
+  "in_force_date": "2022-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257637",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 222 15/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 12 din Ordonanța de urgență a Guvernului nr. 30/2007 privind organizarea și funcționarea Ministerului Afacerilor Interne, publicată în Monitorul Oficial al României, Partea I, nr. 309 din 9 mai 2007, aprobată cu modificări prin Legea nr. 15/2008 , cu modificările și completările ulterioare, după alineatul (4) se introduce un nou alineat, alineatul (4^1), cu următorul cuprins: (4^1) Fără a afecta structura organizatorică stabilită potrivit alin. (2), structurile Ministerului Afacerilor Interne care îndeplinesc condițiile prevăzute la art. 187 din Legea nr. 287/2009 privind Codul civil, republicată , cu modificările ulterioare, pot dobândi personalitate juridică, prin ordin al ministrului, care se publică în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

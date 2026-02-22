@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-29500",
+  "type": "statute",
+  "title": "LEGE nr. 345 din 6 iulie 2001",
+  "short_name": "lege 345 06 07 2001",
+  "status": "in_force",
+  "issued_date": "2001-07-06",
+  "in_force_date": "2001-07-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/29500",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 345 06/07/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 125 din 31 august 2000 privind declararea orașului Sulina, județul Tulcea, și a zonei inconjuratoare ca obiectiv de interes național, adoptată în temeiul art. 1 lit. H din Legea nr. 125/2000 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 437 din 3 septembrie 2000, cu următoarele modificări și completări: – Articolul 3 va avea următorul cuprins: Articolul 3 Pentru coordonarea lucrărilor prevăzute la art. 1 și monitorizarea activităților, în termen de 120 de zile de la data intrării în vigoare a prezentei ordonanțe, prin hotărâre a Guvernului va fi constituit un comitet de coordonare alcătuit din reprezentanți ai Ministerului Culturii și Cultelor, Ministerului Lucrărilor Publice, Transporturilor și Locuinței, Ministerului Administrației Publice, Ministerului Turismului, Consiliului Județean Tulcea, ai celor patru consilii locale interesate, precum și ai Rezervatiei Biosferei «Delta Dunării»."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ordonanța Guvernului nr. 125/2000 , cu modificările și completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

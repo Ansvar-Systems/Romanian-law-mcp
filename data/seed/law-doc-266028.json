@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-266028",
+  "type": "statute",
+  "title": "LEGE nr. 63 din 17 martie 2023",
+  "short_name": "lege 63 17 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-17",
+  "in_force_date": "2023-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266028",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 63 17/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 46 din 30 iunie 2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanță, publicată în Monitorul Oficial al României, Partea I, nr. 506 din 30 iunie 2017."
+    }
+  ],
+  "definitions": []
+}

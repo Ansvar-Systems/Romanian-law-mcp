@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-16369",
+  "type": "statute",
+  "title": "LEGE nr. 232 din 9 decembrie 1998",
+  "short_name": "lege 232 09 12 1998",
+  "status": "in_force",
+  "issued_date": "1998-12-09",
+  "in_force_date": "1998-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/16369",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 232 09/12/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 4 din 20 ianuarie 1998 privind participarea României la Cooperarea europeană în domeniul cercetării științifice și tehnice, emisă în temeiul art. 1 lit. a) din Legea nr. 221/1997 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 37 din 29 ianuarie 1998, cu următoarea modificare: Articolul 2 va avea următorul cuprins: Articolul 2 Ministerul Cercetării și Tehnologiei asigură din bugetul anual aprobat cheltuielile pentru plata contribuției anuale a României la bugetul Secretariatului COST de la Bruxelles, conform sumei stabilite de Comitetul funcționarilor superiori."
+    }
+  ],
+  "definitions": []
+}

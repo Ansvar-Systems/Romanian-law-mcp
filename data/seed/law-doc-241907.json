@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-241907",
+  "type": "statute",
+  "title": "LEGE nr. 104 din 28 aprilie 2021",
+  "short_name": "lege 104 28 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-28",
+  "in_force_date": "2021-04-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241907",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 104 28/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 32 din 24 aprilie 2018 pentru modificarea Ordonanței de urgență a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 365 din 26 aprilie 2018."
+    }
+  ],
+  "definitions": []
+}

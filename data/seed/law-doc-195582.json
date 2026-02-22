@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-195582",
+  "type": "statute",
+  "title": "LEGE nr. 247 din 7 decembrie 2017",
+  "short_name": "lege 247 07 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-07",
+  "in_force_date": "2017-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195582",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 247 07/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 18 decembrie - Ziua Minorităților Naționale din România, ca sărbătoare națională."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătoririi Zilei Minorităților Naționale din România, se organizează manifestări culturale dedicate acestei sărbători. (2) Autoritățile administrației publice centrale și locale, precum și organizațiile neguvernamentale interesate pot acorda sprijin logistic și/sau financiar pentru organizarea și desfășurarea manifestărilor dedicate sărbătoririi acestei zile."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societatea Română de Televiziune și Societatea Română de Radiodifuziune, în calitate de servicii publice, vor include în programul zilei emisiuni ori aspecte de la manifestările ocazionate de sărbătorirea Zilei Minorităților Naționale din România."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "La data intrării în vigoare a prezentei legi se abrogă Hotărârea Guvernului nr. 881 din 9 decembrie 1998 pentru declararea zilei de 18 decembrie Ziua Minorităților Naționale din România, publicată în Monitorul Oficial al României, Partea I, nr. 478 din 14 decembrie 1998."
+    }
+  ],
+  "definitions": []
+}

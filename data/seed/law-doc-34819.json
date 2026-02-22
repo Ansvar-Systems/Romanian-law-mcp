@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-34819",
+  "type": "statute",
+  "title": "LEGE nr. 4.248 din 12 decembrie 1938",
+  "short_name": "lege 4248 12 12 1938",
+  "status": "in_force",
+  "issued_date": "1938-12-12",
+  "in_force_date": "1938-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34819",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4248 12/12/1938",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la dispoziţiunile art. 11 din decretul-lege Nr. 2.629 din 22 iunie 1937 , privitor la condiţiunile de tăiere şi exportul lemnului de nuc, se permite exportul furnirului provenit din lemn de nuc, a cărui taere a fost aprobată în conformitate cu prevederile acestui decret-lege. Autorizaţiunea de export se poate acorda numai industriilor care dovedesc a fi îndeplinit cerinţele art. 6 din decretul-lege Nr. 2.629 din 1937 ."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Agriculturii şi Domeniilor va autoriza exportul materialului prevăzut la art. I numai în urma hotărîrii Delegatiunii economice a guvernului, data pentru fiecare caz în parte. ------------"
+    }
+  ],
+  "definitions": []
+}

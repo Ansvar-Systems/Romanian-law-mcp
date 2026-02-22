@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201314",
+  "type": "statute",
+  "title": "LEGE nr. 119 din 25 mai 2018",
+  "short_name": "lege 119 25 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-25",
+  "in_force_date": "2018-05-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201314",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 119 25/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul *) de dialog politic și de cooperare dintre Uniunea Europeană și statele sale membre, pe de o parte, și Republica Cuba, pe de altă parte, semnat la 12 decembrie 2016 la Bruxelles. *) Acordul se publică în Monitorul Oficial al României, Partea I, nr. 460 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome „Monitorul Oficialˮ, București, șos. Panduri nr. 1."
+    }
+  ],
+  "definitions": []
+}

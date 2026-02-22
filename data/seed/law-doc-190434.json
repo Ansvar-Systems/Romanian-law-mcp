@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190434",
+  "type": "statute",
+  "title": "LEGE nr. 147 din 26 iunie 2017",
+  "short_name": "lege 147 26 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-26",
+  "in_force_date": "2017-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190434",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 147 26/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La anexa nr. 2 din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată în Monitorul Oficial al României, Partea I, nr. 933 din 13 octombrie 2004, cu modificările și completările ulterioare, definiția „ Drept de execuție a lucrărilor de construcții “ se modifică și va avea următorul cuprins: • Drept de execuție a lucrărilor de construcții Dreptul asupra construcției și/sau terenului care conferă titularului dreptul de a obține, potrivit legii, din partea autorității competente autorizația de construire/desființare: 1. dreptul real principal: drept de proprietate, uz, uzufruct, superficie, servitute (dobândit prin: contract de vânzare-cumpărare, de schimb, de donație, certificat de moștenitor, act administrativ de restituire, hotărâre judecătorească); 2. drept de creanță dobândit prin: contract de cesiune, concesiune, comodat, locațiune. Emiterea autorizației de construire în baza unui contract de comodat/locațiune se poate face numai pentru construcții cu caracter provizoriu și acordul expres al proprietarului de drept. Prin excepție, în baza unui contract de închiriere încheiat în condițiile legislației specifice din domeniul petrolului și gazelor naturale, de către titularii de licențe/permise/autorizații cu proprietarii terenurilor din perimetrul de exploatare, se poate autoriza inclusiv executarea lucrărilor de construcții necesare pentru derularea operațiunilor de explorare/prospectare geologică și exploatare a petrolului și gazelor naturale, altele decât construcțiile cu caracter provizoriu, dacă respectivele contracte cuprind explicit acordul proprietarilor pentru executarea lucrărilor de construcții pe aceste terenuri, respectiv în baza unui acord pentru construcțiile care afectează temporar terenul și cu acordul expres al deținătorului de drept pentru executarea lucrărilor de construcții necesare extinderii, întreținerii sistemelor de apă și apă uzată, aducțiuni, având explicit acordul/declarația din partea deținătorului de drept pentru executarea lucrărilor de construcții pe aceste terenuri."
+    }
+  ],
+  "definitions": []
+}

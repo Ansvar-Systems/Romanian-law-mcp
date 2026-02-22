@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209000",
+  "type": "statute",
+  "title": "LEGE nr. 311 din 17 decembrie 2018",
+  "short_name": "lege 311 17 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-17",
+  "in_force_date": "2018-12-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209000",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 311 17/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 80 din 13 septembrie 2018 pentru stabilirea condițiilor de introducere pe piață a benzinei și motorinei, de introducere a unui mecanism de monitorizare și reducere a emisiilor de gaze cu efect de seră și de stabilire a metodelor de calcul și de raportare a reducerii emisiilor de gaze cu efect de seră și pentru modificarea și completarea Legii nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie, publicată în Monitorul Oficial al României, Partea I, nr. 803 din 19 septembrie 2018, cu următoarele modificări: 1. La articolul 3 alineatul (3), litera b) va avea următorul cuprins: b) de la data de 1 ianuarie 2019, benzina cu un conținut de biocarburant de minimum 8% în totalul volumului comercializat către consumatorii finali într-un an calendaristic. 2. La articolul 5, alineatele (2) și (3) vor avea următorul cuprins: (2) Pentru realizarea obiectivului prevăzut la art. 9 alin. (1), furnizorii de carburanți comercializează către consumatorul final motorină astfel încât în totalul volumului comercializat într-un an calendaristic să fie inclus un conținut de biocarburanți de minimum 6,5%. (3) Cu informarea prealabilă a autorității competente, prin excepție de la prevederile alin. (1) și (2), de la data de 1 ianuarie 2019, pentru asigurarea protejării în condiții de iarnă severă a motoarelor cu aprindere prin compresie prezente pe anumite categorii de vehicule, utilaje, echipamente și/sau nave care prezintă limitări tehnice de utilizare a combustibililor prevăzuți la alin. (1), se poate utiliza un conținut minim de biocarburant astfel încât punctul maxim de distilare de 65% la 250ºC pentru motorină diesel și motorină să fie înlocuit cu un punct maxim de distilare de 10% (vol/vol) la 180ºC."
+    }
+  ],
+  "definitions": []
+}

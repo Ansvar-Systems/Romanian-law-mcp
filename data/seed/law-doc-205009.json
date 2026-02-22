@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-205009",
+  "type": "statute",
+  "title": "LEGE din 18 septembrie 2018",
+  "short_name": "lege 18 09 2018",
+  "status": "in_force",
+  "issued_date": "2018-09-18",
+  "in_force_date": "2018-09-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/205009",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18/09/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (1) al articolului 48 din Constituția României, revizuită prin L egea nr. 429/2003 , aprobată prin referendumul național organizat în zilele de 18-19 octombrie 2003 și republicată în Monitorul Oficial al României, Partea I, nr. 767 din 31 octombrie 2003, se modifică și va avea următorul cuprins: Articolul 48 Familia (1) Familia se întemeiază pe căsătoria liber consimțită între un bărbat și o femeie, pe egalitatea acestora și pe dreptul și îndatorirea părinților de a asigura creșterea, educația și instruirea copiilor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Revizuirea Constituției se supune aprobării prin referendum, organizat potrivit dispozițiilor art. 151 alin. (3) din Constituția României, republicată ."
+    }
+  ],
+  "definitions": []
+}

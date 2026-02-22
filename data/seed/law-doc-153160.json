@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-153160",
+  "type": "statute",
+  "title": "LEGE nr. 321 din 28 noiembrie 2013",
+  "short_name": "lege 321 28 11 2013",
+  "status": "in_force",
+  "issued_date": "2013-11-28",
+  "in_force_date": "2013-11-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/153160",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 321 28/11/2013",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (7) al articolului 45 din Legea nr. 96/2006 privind Statutul deputaților și al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 459 din 25 iulie 2013, cu modificările ulterioare, se modifică și va avea următorul cuprins: (7) Beneficiază, pe toată durata mandatului, de drepturile de transport prevăzute la alin. (1), (4), (6) și deputații și senatorii care efectuează deplasări în țară, ca urmare a hotărârilor birourilor permanente ale celor două Camere, deciziei președintelui Camerei Deputaților și, respectiv, Senatului, a liderilor de grup și a președinților comisiilor parlamentare, pentru activități legate de exercitarea mandatului."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257712",
+  "type": "statute",
+  "title": "LEGE nr. 245 din 20 iulie 2022",
+  "short_name": "lege 245 20 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-20",
+  "in_force_date": "2022-07-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257712",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 245 20/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 7 din 16 februarie 2022 privind stabilirea unor măsuri pentru aplicarea Regulamentului de punere în aplicare (UE) 2015/1.998 din 5 noiembrie 2015 de stabilire a măsurilor detaliate de implementare a standardelor de bază comune în domeniul securității aviației, așa cum a fost modificat prin Regulamentul de punere în aplicare (UE) 2019/103 al Comisiei din 23 ianuarie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 161 din 17 februarie 2022, cu următoarea modificare: – La articolul 4, alineatul (7) va avea următorul cuprins: (7) Instituțiile cu responsabilități în domeniul apărării, ordinii publice și securității naționale efectuează din oficiu verificări aprofundate și validează rezultatul acestora pentru personalul propriu, fără a fi necesar avizul Autorității Aeronautice Civile Române."
+    }
+  ],
+  "definitions": []
+}

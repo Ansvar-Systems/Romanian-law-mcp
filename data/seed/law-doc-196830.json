@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-196830",
+  "type": "statute",
+  "title": "LEGE nr. 32 din 17 ianuarie 2018",
+  "short_name": "lege 32 17 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-17",
+  "in_force_date": "2018-01-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196830",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 17/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la dispozițiile art. 31 alin. (2) din Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice „Gheorghe Ionescu-Șișești“ și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, cu modificările și completările ulterioare, se aprobă transmiterea unui teren în suprafață de 11,45 ha, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului și din administrarea Academiei de Științe Agricole și Silvice „Gheorghe Ionescu-Șișești“ –- Institutul Național de Cercetare-Dezvoltare pentru Cartof și Sfeclă de Zahăr Brașov, în domeniul public al municipiului Brașov, județul Brașov, în vederea realizării obiectivului de investiție „Construire Spital Clinic Regional de Urgență Brașov“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Predarea-preluarea terenului prevăzut la art. 1 se face pe bază de protocol încheiat între părțile interesate, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Suprafața de teren aflată în administrarea Academiei de Științe Agricole și Silvice „Gheorghe Ionescu-Șișești“ - Institutul Național de Cercetare-Dezvoltare pentru Cartof și Sfeclă de Zahăr Brașov se diminuează cu suprafața de teren transmisă potrivit prevederilor art. 1 în domeniul public al municipiului Brașov, județul Brașov."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Legea nr. 45/2009 , cu modificările și completările ulterioare, se modifică în mod corespunzător."
+    }
+  ],
+  "definitions": []
+}

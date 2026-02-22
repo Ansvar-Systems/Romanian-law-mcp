@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189104",
+  "type": "statute",
+  "title": "LEGE nr. 94 din 5 mai 2017",
+  "short_name": "lege 94 05 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-05",
+  "in_force_date": "2017-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189104",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 94 05/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 27 din 28 iunie 2016 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 88/2012 privind cadrul instituţional pentru coordonarea, implementarea şi gestionarea asistenţei financiare acordate României prin Mecanismul financiar al Spaţiului Economic European şi prin Mecanismul financiar norvegian pe perioada de programare 2009-2014, publicată în Monitorul Oficial al României, Partea I, nr. 486 din 29 iunie 2016."
+    }
+  ],
+  "definitions": []
+}

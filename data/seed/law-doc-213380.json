@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-213380",
+  "type": "statute",
+  "title": "LEGE nr. 81 din 25 aprilie 2019",
+  "short_name": "lege 81 25 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-25",
+  "in_force_date": "2019-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213380",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 81 25/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 14 din 29 august 2018 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică, adoptată în temeiul art. 1 pct. I.7 din Legea nr. 183/2018 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 754 din 31 august 2018, cu următoarea modificare: – La articolul 2, litera l) se modifică și va avea următorul cuprins: l) clauză de compensare cu exigibilitate imediată - clauză cuprinsă într-un contract de garanție financiară sau într-un alt contract care conține și clauze referitoare la garanția financiară ori colateral sau, în absența unei asemenea clauze, orice dispoziție legală în conformitate cu care, la producerea unui eveniment de executare a garanției, ca efect al regularizării sau compensării, luate împreună sau separat, se prevede că obligațiile părților devin imediat exigibile și sunt exprimate printro obligație de plată a unei sume reprezentând valoarea obligațiilor părților, calculată la acel moment, sau obligațiile se sting și sunt înlocuite prin obligația de a plăti suma în cauză; și/sau sunt stabilite datoriile reciproce ale părților în temeiul acestor obligații, inclusiv atunci când furnizorul garanției financiare - colateralului este altul decât furnizorul/debitorul principal al garanției, urmând ca partea care datorează suma cea mai mare să plătească celeilalte părți suma netă egală cu diferența acestor datorii, în conformitate cu legislația în domeniu și cu normele metodologice emise în aplicarea prezentei ordonanțe de urgență;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-270903",
+  "type": "statute",
+  "title": "LEGE nr. 157 din 30 mai 2023",
+  "short_name": "lege 157 30 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-30",
+  "in_force_date": "2023-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270903",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 157 30/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 27 octombrie Ziua Sustenabilității."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul Zilei Sustenabilității se pot organiza activități culturale, sociale și educaționale prin care să fie promovate bune practici în domeniul sustenabilității și să se evidențieze importanța aplicării principiilor dezvoltării durabile. (2) Autoritățile publice locale și centrale pot acorda sprijin material, financiar și logistic entităților care doresc să organizeze evenimente și acțiuni publice dedicate sărbătoririi sustenabilității."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societatea Română de Televiziune și Societatea Română de Radiodifuziune pot include în programele lor emisiuni dedicate promovării sustenabilității în toate domeniile care privesc viața oamenilor."
+    }
+  ],
+  "definitions": []
+}

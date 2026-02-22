@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-75247",
+  "type": "statute",
+  "title": "LEGE nr. 359 din 18 septembrie 2006",
+  "short_name": "lege 359 18 09 2006",
+  "status": "in_force",
+  "issued_date": "2006-09-18",
+  "in_force_date": "2006-09-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/75247",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 359 18/09/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "După alineatul (3) al articolului 1 din Ordonanța de urgență a Guvernului nr. 13/1997 privind transmiterea, cu titlu gratuit, a unui imobil în proprietatea Republicii Federale Germania, publicată în Monitorul Oficial al României, Partea I, nr. 75 din 29 aprilie 1997, aprobată cu modificări prin Legea nr. 139/1997 , cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) În cazul transmiterii dreptului de proprietate asupra construcțiilor prevăzute la alin. (1) către un cetățean român sau o persoană juridică română, dreptul de folosință dobândit asupra terenului aferent se convertește în drept de proprietate."
+    }
+  ],
+  "definitions": []
+}

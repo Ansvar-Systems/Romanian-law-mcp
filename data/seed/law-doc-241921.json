@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-241921",
+  "type": "statute",
+  "title": "LEGE nr. 111 din 28 aprilie 2021",
+  "short_name": "lege 111 28 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-28",
+  "in_force_date": "2021-04-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241921",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 111 28/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 76 din 21 mai 2020 pentru abrogarea Legii nr. 207/2016 privind reglementarea marketingului înlocuitorilor laptelui matern, publicată în Monitorul Oficial al României, Partea I, nr. 432 din 22 mai 2020."
+    }
+  ],
+  "definitions": []
+}

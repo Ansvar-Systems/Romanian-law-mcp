@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-32008",
+  "type": "statute",
+  "title": "LEGE nr. 580 din 31 octombrie 2001",
+  "short_name": "lege 580 31 10 2001",
+  "status": "in_force",
+  "issued_date": "2001-10-31",
+  "in_force_date": "2001-10-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32008",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 580 31/10/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Oraşul Moinesti, judeţul Bacau, se declara municipiu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Anexa la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României, republicată în Buletinul Oficial, Partea I, nr. 54-55 din 27 iulie 1981, se modifica în mod corespunzător. Această lege a fost adoptată de Senat în şedinţa din 29 iunie 2000, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. PREŞEDINTELE SENATULUI NICOLAE VACAROIU Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 25 septembrie 2001, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR VALER DORNEANU ------------"
+    }
+  ],
+  "definitions": []
+}

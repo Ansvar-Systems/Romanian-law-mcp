@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270737",
+  "type": "statute",
+  "title": "LEGE nr. 137 din 24 mai 2023",
+  "short_name": "lege 137 24 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-24",
+  "in_force_date": "2023-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270737",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 137 24/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 17 din 3 august 2022 pentru modificarea și completarea Legii nr. 263/2004 privind asigurarea continuității asistenței medicale primare prin centrele de permanență, adoptată în temeiul art. 1 pct. IV. l din Legea nr. 186/2022 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 778 din 4 august 2022."
+    }
+  ],
+  "definitions": []
+}

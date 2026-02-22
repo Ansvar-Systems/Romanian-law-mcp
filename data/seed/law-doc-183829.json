@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183829",
+  "type": "statute",
+  "title": "LEGE nr. 230 din 17 noiembrie 2016",
+  "short_name": "lege 230 17 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-17",
+  "in_force_date": "2016-11-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183829",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 230 17/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Pentru cinstirea memoriei lui Avram Iancu (1824-1872), considerat cel mai mare erou naţional al românilor din Transilvania, cu merite excepţionale în afirmarea identităţii şi a drepturilor naţionale pe teritoriul strămoşesc, fostul conducător al revoluţiei române din 1848-1849 din Transilvania este declarat \"Erou al Naţiunii Române\"."
+    }
+  ],
+  "definitions": []
+}

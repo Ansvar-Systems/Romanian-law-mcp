@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-233772",
+  "type": "statute",
+  "title": "LEGE nr. 272 din 25 noiembrie 2020",
+  "short_name": "lege 272 25 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-25",
+  "in_force_date": "2020-11-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/233772",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 272 25/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 212/2015 privind modalitatea de gestionare a vehiculelor și a vehiculelor scoase din uz, publicată în Monitorul Oficial al României, Partea I, nr. 554 din 27 iulie 2015, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 13, alineatul (3) se modifică și va avea următorul cuprins: (3) Operatorii economici autorizați să desfășoare activități de colectare și tratare a vehiculelor scoase din uz sunt obligați să le stocheze, chiar și temporar, și să trateze vehiculele scoase din uz potrivit prevederilor art. 4 din Legea nr. 211/2011 privind regimul deșeurilor, republicată, cu modificările și completările ulterioare, și conform cerințelor prevăzute în anexa nr. 2, cu respectarea reglementărilor cu privire la sănătatea umană și mediu. 2. La articolul 17, alineatele (5) și (6) se modifică și vor avea următorul cuprins: (5) Agenția Națională pentru Protecția Mediului transmite Comisiei Europene, pentru fiecare an calendaristic, un raport privind punerea în aplicare a art. 15, conform formatului pentru raportarea datelor stabilit de Comisia Europeană. (6) Agenția Națională pentru Protecția Mediului transmite Comisiei Europene, pe cale electronică, raportul prevăzut la alin. (5), în termen de 18 luni de la sfârșitul anului de raportare pentru care sunt colectate datele. Raportul indică modul în care au fost obținute datele și verificarea calității acestora. 3. La articolul 17, după alineatul (6) se introduce un nou alineat, alineatul (7), cu următorul cuprins: (7) Prima perioadă de raportare începe în primul an calendaristic complet după adoptarea de către Comisia Europeană a actului de punere în aplicare ce stabilește formatul de raportare și cuprinde datele pentru perioada de raportare respectivă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la 3 zile de la data publicării în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-12032",
+  "type": "statute",
+  "title": "LEGE nr. 199 din 17 noiembrie 1997",
+  "short_name": "lege 199 17 11 1997",
+  "status": "in_force",
+  "issued_date": "1997-11-17",
+  "in_force_date": "1997-11-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/12032",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 199 17/11/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Carta europeană a autonomiei locale , adoptată la Strasbourg la 15 octombrie 1985, cu excepția art. 7 paragraful 2 din acest instrument juridic european."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "România declară că prin noțiunea autoritate regională, prevăzută la art. 4 paragrafele 4 și 5 din Carta europeană , se înțelege, potrivit legislației sale în vigoare, autoritate județeană a administrației publice locale."
+    }
+  ],
+  "definitions": []
+}

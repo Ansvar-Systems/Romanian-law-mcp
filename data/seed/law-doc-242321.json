@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242321",
+  "type": "statute",
+  "title": "LEGE nr. 143 din 17 mai 2021",
+  "short_name": "lege 143 17 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-17",
+  "in_force_date": "2021-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242321",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 143 17/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 203 din 23 noiembrie 2020 privind unele măsuri de reglementare a vânzării terenurilor agricole situate în extravilan, publicată în Monitorul Oficial al României, Partea I, nr. 1132 din 25 noiembrie 2020."
+    }
+  ],
+  "definitions": []
+}

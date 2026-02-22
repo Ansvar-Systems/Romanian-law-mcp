@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-44770",
+  "type": "statute",
+  "title": "LEGE nr. 296 din 30 iunie 2003",
+  "short_name": "lege 296 30 06 2003",
+  "status": "in_force",
+  "issued_date": "2003-06-30",
+  "in_force_date": "2003-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/44770",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 296 30/06/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 172 din 13 decembrie 2001 privind unele măsuri pentru relansarea economică a Societății Comerciale \"Combinatul Siderurgic Resita\" - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 825 din 20 decembrie 2001, cu următoarea modificare: – Articolul 12 va avea următorul cuprins: Articolul 12 Pentru o perioadă de 3 luni de la data pronunțării încheierii de închidere a procedurii de reorganizare judiciară se instituie o procedură de supraveghere financiară a societății de către APAPS, constând în obligația societății de raportare față de APAPS a operațiunilor și evenimentelor semnificative pentru îndeplinirea obiectului de activitate al societății. Termenul de exercitare a supravegherii financiare se poate prelungi prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La data intrării în vigoare a prezentei legi se abrogă Ordonanța de urgenta a Guvernului nr. 137/2002 pentru modificarea art. 12 din Ordonanța de urgenta a Guvernului nr. 172/2001 privind unele măsuri pentru relansarea economică a Societății Comerciale \"Combinatul Siderurgic Resita\" - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 786 din 29 octombrie 2002."
+    }
+  ],
+  "definitions": []
+}

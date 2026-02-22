@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270543",
+  "type": "statute",
+  "title": "LEGE nr. 127 din 19 mai 2023",
+  "short_name": "lege 127 19 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-19",
+  "in_force_date": "2023-05-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270543",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 127 19/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 149 din 9 noiembrie 2022 privind unele măsuri pentru participarea României la Fondul Alianței Nord-Atlantice de Inovare, publicată în Monitorul Oficial al României, Partea I, nr. 1086 din 10 noiembrie 2022."
+    }
+  ],
+  "definitions": []
+}

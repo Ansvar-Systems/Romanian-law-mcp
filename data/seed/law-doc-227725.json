@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227725",
+  "type": "statute",
+  "title": "LEGE nr. 117 din 9 iulie 2020",
+  "short_name": "lege 117 09 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-09",
+  "in_force_date": "2020-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227725",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 117 09/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 4 din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, republicat în Monitorul Oficial al României, Partea I, nr. 631 din 23 septembrie 2009, cu modificările și completările ulterioare, alineatul (2) se modifică și va avea următorul cuprins: (2) Persoanele care s-au aflat în una dintre situațiile prevăzute la art. 1 alin. (1) lit. c) și d) au dreptul la o indemnizație lunară de 350 lei pentru fiecare an de internare abuzivă în spitalele de psihiatrie sau de domiciliu obligatoriu, indiferent dacă sunt sau nu sunt pensionate."
+    }
+  ],
+  "definitions": []
+}

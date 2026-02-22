@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-279968",
+  "type": "statute",
+  "title": "LEGE nr. 45 din 13 martie 2024",
+  "short_name": "lege 45 13 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-13",
+  "in_force_date": "2024-03-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/279968",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 45 13/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 23 din 12 aprilie 2023 privind instituirea unor măsuri de simplificare și digitalizare pentru gestionarea fondurilor europene aferente Politicii de coeziune 2021-2027, publicată în Monitorul Oficial al României, Partea I, nr. 319 din 13 aprilie 2023."
+    }
+  ],
+  "definitions": []
+}

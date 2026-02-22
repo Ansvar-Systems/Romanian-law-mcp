@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-226544",
+  "type": "statute",
+  "title": "LEGE nr. 70 din 29 mai 2020",
+  "short_name": "lege 70 29 05 2020",
+  "status": "in_force",
+  "issued_date": "2020-05-29",
+  "in_force_date": "2020-05-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/226544",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 70 29/05/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul adițional, semnat la București la 27 mai 2019, la Acordul dintre Guvernul României și Guvernul Republicii Arabe Egipt privind dobândirea dreptului de proprietate asupra terenurilor de către misiunile diplomatice ale celor două state, semnat la București la 10 noiembrie 2011, ratificat prin Legea nr. 174/2012 ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-178558",
+  "type": "statute",
+  "title": "LEGE nr. 97 din 16 mai 2016",
+  "short_name": "lege 97 16 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-16",
+  "in_force_date": "2016-05-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178558",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 97 16/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul privind cooperarea în domeniul apărării dintre Guvernul României şi Guvernul Republicii Algeriene Democratice şi Populare, semnat la Alger la 7 decembrie 2015."
+    }
+  ],
+  "definitions": []
+}

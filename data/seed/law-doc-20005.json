@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-20005",
+  "type": "statute",
+  "title": "LEGE nr. 17 din 2 iulie 1976",
+  "short_name": "lege 17 02 07 1976",
+  "status": "in_force",
+  "issued_date": "1976-07-02",
+  "in_force_date": "1976-07-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/20005",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 17 02/07/1976",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 92/1976 privind carnetul de muncă. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 2 iulie 1976. Preşedintele Marii Adunări Naţionala Nicolae Giosan --------"
+    }
+  ],
+  "definitions": []
+}

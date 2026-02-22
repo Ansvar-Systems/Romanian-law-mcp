@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-299689",
+  "type": "statute",
+  "title": "LEGE nr. 128 din 7 iulie 2025",
+  "short_name": "lege 128 07 07 2025",
+  "status": "in_force",
+  "issued_date": "2025-07-07",
+  "in_force_date": "2025-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299689",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 128 07/07/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se consacră ziua de 8 mai ca sărbătoare a zilei „Victoria Coaliției Națiunilor Unite în cel de-Al Doilea Război Mondial“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Parlamentul, Președintele României, Guvernul, prin Ministerul Apărării Naționale, celelalte autorități publice centrale, precum și autoritățile administrației publice locale pot organiza evenimente cu prilejul zilei prevăzute la art. 1 ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitatea de servicii publice, pot include în programele lor emisiuni și/sau aspecte de la manifestările organizate cu ocazia zilei prevăzute la art. 1 ."
+    }
+  ],
+  "definitions": []
+}

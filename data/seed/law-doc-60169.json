@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-60169",
+  "type": "statute",
+  "title": "LEGE nr. 48 din 17 martie 2005",
+  "short_name": "lege 48 17 03 2005",
+  "status": "in_force",
+  "issued_date": "2005-03-17",
+  "in_force_date": "2005-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/60169",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 48 17/03/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 111 din 24 octombrie 2003 privind utilizarea veniturilor din privatizare și din valorificarea activelor bancare neperformante, publicată în Monitorul Oficial al României, Partea I, nr. 748 din 26 octombrie 2003, cu urmatoarea modificare: – Articolul 2 va avea urmatorul cuprins: Articolul 2 Veniturile încasate de Autoritatea pentru Valorificarea Activelor Statului din valorificarea activelor bancare neperformante, rămase după deducerea cheltuielilor prevăzute în bugetul acestei instituții și efectuate în conformitate cu prevederile legale în vigoare, se utilizează pentru răscumpararea titlurilor de stat, în vederea diminuării datoriei publice interne."
+    }
+  ],
+  "definitions": []
+}

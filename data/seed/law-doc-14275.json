@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-14275",
+  "type": "statute",
+  "title": "LEGE nr. 71 din 2 aprilie 1998",
+  "short_name": "lege 71 02 04 1998",
+  "status": "in_force",
+  "issued_date": "1998-04-02",
+  "in_force_date": "1998-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/14275",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 71 02/04/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 65 din 23 octombrie 1997 pentru modificarea și completarea Legii nr. 91/1996 cu privire la asigurarea facultativă a autovehiculelor Camerei Deputaților, Senatului, Curții Constituționale, Curții de Conturi și Consiliului Legislativ, publicată în Monitorul Oficial al României, Partea I, nr. 290 din 27 octombrie 1997, cu următoarea modificare: Articolul I punctul 2 alineatul 2 va avea următorul cuprins: Contractul de asigurare facultativă a autovehiculelor deținute de autoritățile prevăzute la alin. 1 se încheie anual cu o societate de asigurare cu sediul în România, în conformitate cu prevederile legale privind regimul achizițiilor publice."
+    }
+  ],
+  "definitions": []
+}

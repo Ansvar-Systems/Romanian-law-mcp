@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208037",
+  "type": "statute",
+  "title": "LEGE nr. 277 din 26 noiembrie 2018",
+  "short_name": "lege 277 26 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-26",
+  "in_force_date": "2018-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208037",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 277 26/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 51 din 21 iunie 2018 pentru modificarea Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și pentru prorogarea unor termene, publicată în Monitorul Oficial al României, Partea I, nr. 520 din 25 iunie 2018."
+    }
+  ],
+  "definitions": []
+}

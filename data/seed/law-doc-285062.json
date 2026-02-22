@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-285062",
+  "type": "statute",
+  "title": "LEGE nr. 209 din 3 iulie 2024",
+  "short_name": "lege 209 03 07 2024",
+  "status": "in_force",
+  "issued_date": "2024-07-03",
+  "in_force_date": "2024-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/285062",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 209 03/07/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Statelor Unite ale Americii de colaborare în utilizarea informațiilor privind călătorii, semnat la 19 ianuarie 2024 la București."
+    }
+  ],
+  "definitions": []
+}

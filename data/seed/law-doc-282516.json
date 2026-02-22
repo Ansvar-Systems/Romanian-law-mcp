@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-282516",
+  "type": "statute",
+  "title": "LEGE nr. 118 din 29 aprilie 2024",
+  "short_name": "lege 118 29 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-29",
+  "in_force_date": "2024-04-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282516",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 118 29/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 24^1 alineatul (2) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările și completările ulterioare, după litera g^1) se introduce o nouă literă, lit. g^2), cu următorul cuprins: g^2) permisele de conducere eliberate pentru categoria B sunt valabile și pentru motociclete cu transmisie automată cu cilindree maximă de 125 cmc, cu puterea maximă de 11 kW și cu un raport putere/greutate de cel mult 0,1 kW/kg, categoria A1, cu condiția ca deținătorii permiselor să aibă vârsta de minimum 24 de ani împliniți, o experiență de cel puțin 2 ani de conducere pentru categoria de vehicule B și fac dovada, printr-o adeverință, că au absolvit un curs de pregătire practică de minimum 10 ore în acest sens în cadrul unei unități autorizate de pregătire a conducătorilor de vehicule. Adeverința obținută se înscrie în Registrul național al cursanților gestionat de către Autoritatea Rutieră Română, iar informația deținerii acesteia se transmite pe cale electronică Direcției Generale Permise de Conducere și Înmatriculări în vederea introducerii mențiunilor corespunzătoare în Registrul național de evidență a permiselor de conducere și a vehiculelor înmatriculate;"
+    }
+  ],
+  "definitions": []
+}

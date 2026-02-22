@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-214775",
+  "type": "statute",
+  "title": "PROCES-VERBAL din 5 iunie 2019",
+  "short_name": "lege 05 06 2019",
+  "status": "in_force",
+  "issued_date": "2019-06-05",
+  "in_force_date": "2019-06-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/214775",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 05/06/2019",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "^1) Procesul-verbal este reprodus în facsimil."
+    },
+    {
+      "provision_ref": "Par.2",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "-----"
+    }
+  ],
+  "definitions": []
+}

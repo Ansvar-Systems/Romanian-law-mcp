@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303511",
+  "type": "statute",
+  "title": "LEGE nr. 154 din 16 octombrie 2025",
+  "short_name": "lege 154 16 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-16",
+  "in_force_date": "2025-10-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303511",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 154 16/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul dintre Guvernul României și Guvernul Republicii Turcia în domeniul educației și formării personalului pentru punerea în aplicare a legii, semnat la Ankara la 21 mai 2024."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-226882",
+  "type": "statute",
+  "title": "LEGE nr. 85 din 18 iunie 2020",
+  "short_name": "lege 85 18 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-18",
+  "in_force_date": "2020-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/226882",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 85 18/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 260 alineatul (1) din Legea nr. 53/2003 - Codul muncii , republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările și completările ulterioare, litera i) se modifică și va avea următorul cuprins: i) nerespectarea dispozițiilor privind munca suplimentară, cu amendă de la 1.500 lei la 3.000 lei pentru fiecare persoană identificată ca prestând muncă suplimentară."
+    }
+  ],
+  "definitions": []
+}

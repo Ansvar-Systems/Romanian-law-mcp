@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-188734",
+  "type": "statute",
+  "title": "LEGE nr. 89 din 28 aprilie 2017",
+  "short_name": "lege 89 28 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-28",
+  "in_force_date": "2017-04-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188734",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 89 28/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După alineatul (3) al articolului 9 al titlului XI - Renta viageră agricolă din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, publicată în Monitorul Oficial al României, Partea I, nr. 653 din 22 iulie 2005, cu modificările şi completările ulterioare, se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) Rentier agricol este şi persoana aflată în situaţia prevăzută la alin. (3) şi a cărei pensie de invaliditate devine pensie pentru limită de vârstă, indiferent de vârsta de pensionare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Se anulează debitele, inclusiv obligaţiile fiscale accesorii acestora, constând în dobânzi şi penalităţi de întârziere, stabilite de organul fiscal competent prin decizie de impunere emisă şi comunicată contribuabilului, ca urmare a retragerii, la data emiterii deciziei de pensionare pentru limită de vârstă, a calităţii de rentier agricol, dobândită în temeiul prevederilor art. 9 alin. (3) din titlul XI din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente, cu modificările şi completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Ministerul Agriculturii şi Dezvoltării Rurale şi Ministerul Muncii şi Justiţiei Sociale vor aproba prin ordin comun normele metodologice de aplicare a acesteia."
+    }
+  ],
+  "definitions": []
+}

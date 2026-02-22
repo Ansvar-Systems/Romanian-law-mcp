@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-235503",
+  "type": "statute",
+  "title": "LEGE nr. 297 din 18 decembrie 2020",
+  "short_name": "lege 297 18 12 2020",
+  "status": "in_force",
+  "issued_date": "2020-12-18",
+  "in_force_date": "2020-12-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/235503",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 297 18/12/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La anexa nr. 2 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, punctul 38 se modifică și va avea următorul cuprins: 38. Curățarea rezervoarelor și tancurilor, precum și a canalelor subterane care conțin substanțe foarte periculoase sau cancerigene din unitățile chimice și petrochimice"
+    }
+  ],
+  "definitions": []
+}

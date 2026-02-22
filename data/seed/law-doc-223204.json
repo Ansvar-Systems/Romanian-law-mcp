@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-223204",
+  "type": "statute",
+  "title": "LEGE nr. 16 din 19 februarie 2020",
+  "short_name": "lege 16 19 02 2020",
+  "status": "in_force",
+  "issued_date": "2020-02-19",
+  "in_force_date": "2020-02-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/223204",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 16 19/02/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 131 din 21 decembrie 2006 pentru modificarea și completarea Legii nr. 508/2004 privind înființarea, organizarea și funcționarea în cadrul Ministerului Public a Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, publicată în Monitorul Oficial al României, Partea I, nr. 1.046 din 29 decembrie 2006."
+    }
+  ],
+  "definitions": []
+}

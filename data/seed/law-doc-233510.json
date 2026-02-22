@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-233510",
+  "type": "statute",
+  "title": "LEGE nr. 266 din 20 noiembrie 2020",
+  "short_name": "lege 266 20 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-20",
+  "in_force_date": "2020-11-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/233510",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 266 20/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Anexele nr. 1 și 2 la Legea nr. 92/1996 privind organizarea și funcționarea Serviciului de Telecomunicații Speciale, publicată în Monitorul Oficial al României, Partea I, nr. 169 din 30 iulie 1996, cu modificările și completările ulterioare, se completează după cum urmează: 1. La anexa nr. 1, după punctul 9 se introduc două noi puncte, punctele 10 și 11, cu următorul cuprins: 10. Uniunea Națională a Barourilor din România. 11. Uniunea Națională a Notarilor Publici din Româniaˮ. 2. La anexa nr. 2, după litera B punctul 3 se introduc două noi litere, literele C și D, cu următorul cuprins: C. Rețele, infrastructuri, sisteme, servicii și aplicații în diferite tehnologii informatice și de comunicații, cu soluții de securitate asociate D. Servicii de încredere calificată"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-252379",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 3 martie 2022",
+  "short_name": "lege 39 03 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-03",
+  "in_force_date": "2022-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252379",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 03/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 116 alineatul (1) din Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, republicată în Monitorul Oficial al României, Partea I, nr. 489 din 14 iunie 2018, cu modificările și completările ulterioare, litera c) se modifică și va avea următorul cuprins: c) în cazul copiilor înregistrate prin procedeu digital, pe orice tip de suport, remunerația se împarte în mod egal între beneficiarii corespunzând fiecăreia dintre cele trei categorii prevăzute la lit. a) și b) și la alin. (2), iar în interiorul fiecărei categorii, conform celor stabilite la literele respective, precum și celor stabilite la alin. (2)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, republicată în Monitorul Oficial al României, Partea I, nr. 489 din 14 iunie 2018, cu modificările și completările ulterioare, inclusiv cu modificarea adusă prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

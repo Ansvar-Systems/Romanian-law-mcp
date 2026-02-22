@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-257725",
+  "type": "statute",
+  "title": "LEGE nr. 241 din 20 iulie 2022",
+  "short_name": "lege 241 20 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-20",
+  "in_force_date": "2022-07-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257725",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 241 20/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Anexa nr. 2 la Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România, publicată în Monitorul Oficial al României, Partea I, nr. 82 din 1 februarie 2002, aprobată cu modificări și completări prin Legea nr. 424/2002 , cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Anexa nr. 2 CUANTUMUL amenzii contravenționale aplicabile utilizatorilor în cazul lipsei rovinietei valabile Tipul vehiculului Cuantumul amenzii contravenționale Tipul vehiculului (lei) Minim Maxim A Autoturisme 275 550 B Vehicule de transport marfă cu MTMA mai mică sau egală cu 3,5 tone 950 1.900 C Vehicule de transport marfă cu MTMA mai mare de 3,5 tone și mai mică sau egală cu 7,5 tone 1.550 3.100 D Vehicule de transport marfă cu MTMA mai mare de 7,5 tone și mai mică decât 12,0 tone 2.750 5.500 E Vehicule de transport marfă cu MTMA mai mare sau egală cu 12,0 tone, cu maximum 3 axe (inclusiv) 3.550 7.100 F Vehicule de transport marfă cu MTMA mai mare sau egală cu 12,0 tone, cu minimum 4 axe (inclusiv) 5.950 11.900 G Vehicule de transport persoane cu mai mult de 9 locuri pe scaune (inclusiv conducătorul auto) și maximum 23 de locuri pe scaune (inclusiv conducătorul auto) 1.550 3.100 H Vehicule de transport persoane cu mai mult de 23 de locuri pe scaune (inclusiv conducătorul auto) 2.750 5.500"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

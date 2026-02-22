@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-104922",
+  "type": "statute",
+  "title": "LEGE nr. 92 din 8 aprilie 2009",
+  "short_name": "lege 92 08 04 2009",
+  "status": "in_force",
+  "issued_date": "2009-04-08",
+  "in_force_date": "2009-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/104922",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 92 08/04/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 64 din 21 mai 2008 privind preluarea de către Autoritatea pentru Valorificarea Activelor Statului a unor creanțe comerciale restante aflate în administrarea unităților teritoriale subordonate Administrației Naționale a Rezervelor de Stat, publicată în Monitorul Oficial al României, Partea I, nr. 398 din 27 mai 2008, cu următoarele modificări și completări: 1. La articolul 1, alineatul (2) se modifică și va avea următorul cuprins: (2) Lista creanțelor comerciale deținute de A.N.R.S. asupra unor societăți comerciale debitoare ce urmează a fi preluate de A.V.A.S., inclusiv cuantumul creanțelor, este prevăzută în anexa care face parte integrantă din prezenta ordonanță de urgență. 2. După articolul 5 se introduce anexa care face parte integrantă din prezenta lege."
+    }
+  ],
+  "definitions": []
+}

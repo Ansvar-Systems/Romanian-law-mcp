@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-168036",
+  "type": "statute",
+  "title": "LEGE nr. 103 din 14 mai 2015",
+  "short_name": "lege 103 14 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-14",
+  "in_force_date": "2015-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168036",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 103 14/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Ziua de 10 Mai va fi sărbătorită în fiecare an ca sărbătoare naţională."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Preşedintele României, Guvernul, celelalte autorităţi publice centrale, precum şi autorităţile administraţiei publice locale organizează manifestări cultural-artistice prilejuite de sărbătorirea zilei prevăzute la art. 1. (2) Fondurile necesare pentru sărbătorirea diverselor evenimente prilejuite de Ziua de 10 Mai pot fi asigurate şi din bugetele locale sau din bugetul autorităţilor şi instituţiilor publice, în limita alocaţiilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

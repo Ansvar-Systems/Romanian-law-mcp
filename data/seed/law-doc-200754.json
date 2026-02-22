@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200754",
+  "type": "statute",
+  "title": "LEGE nr. 112 din 17 mai 2018",
+  "short_name": "lege 112 17 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-17",
+  "in_force_date": "2018-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200754",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 112 17/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 36 din Legea nr. 46/2008 - Codul silvic, republicată în Monitorul Oficial al României, Partea I, nr. 611 din 12 august 2015, cu modificările și completările ulterioare, după alineatul (5) se introduc două noi alineate, alineatele (6) și (7), cu următorul cuprins: (6) Beneficiarul scoaterii definitive din fondul forestier național a terenurilor necesare realizării lucrărilor miniere de interes național și de utilitate publică de exploatare a zăcămintelor de lignit este operatorul economic cu capital integral sau majoritar de stat, în cazul terenurilor forestiere achiziționate de acesta, sau statul român, în cazul terenurilor care au făcut obiectul exproprierii. (7) Prin excepție de la alin. (2), reducerea fondului forestier național prin scoaterea definitivă a terenurilor pentru realizarea lucrărilor menționate la alin. (6) se realizează fără compensare și se aprobă prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-179717",
+  "type": "statute",
+  "title": "LEGE nr. 122 din 1 iulie 2016",
+  "short_name": "lege 122 01 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-01",
+  "in_force_date": "2016-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/179717",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 122 01/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 55 din 19 noiembrie 2015 privind stabilirea unor măsuri de reorganizare la nivelul administraţiei publice centrale şi pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 871 din 20 noiembrie 2015."
+    }
+  ],
+  "definitions": []
+}

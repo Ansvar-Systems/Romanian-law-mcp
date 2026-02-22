@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-37019",
+  "type": "statute",
+  "title": "LEGE nr. 297 din 15 mai 2002",
+  "short_name": "lege 297 15 05 2002",
+  "status": "in_force",
+  "issued_date": "2002-05-15",
+  "in_force_date": "2002-05-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37019",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 297 15/05/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul privind crearea Organizației Internaționale a Viei și Vinului, adoptat la Paris la 3 aprilie 2001."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cheltuielile pentru aplicarea acordului, precum și cele pentru plata cotizatiei anuale vor fi suportate de la bugetul de stat prin bugetul Ministerului Agriculturii, Alimentației și Pădurilor."
+    }
+  ],
+  "definitions": []
+}

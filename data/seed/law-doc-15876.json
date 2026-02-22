@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-15876",
+  "type": "statute",
+  "title": "LEGE nr. 176 din 9 octombrie 1998",
+  "short_name": "lege 176 09 10 1998",
+  "status": "in_force",
+  "issued_date": "1998-10-09",
+  "in_force_date": "1998-10-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/15876",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 176 09/10/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 87 din 23 decembrie 1997 pentru modificarea art. 8 alin. 1 din Ordonanța Guvernului nr. 59/1994 privind reglementarea operațiunilor de import-export care se derulează prin cliring, barter și cooperare economică internațională în baza acordurilor comerciale și de plati guvernamentale, publicată în Monitorul Oficial al României, Partea I, nr. 375 din 24 decembrie 1997."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Articolul 8 alineatul 1 din Ordonanța Guvernului nr. 59/1994 privind reglementarea operațiunilor de import-export care se derulează prin cliring, barter și cooperare economică internationala în baza acordurilor comerciale și de plati guvernamentale, publicată în Monitorul Oficial al României, Partea I, nr. 245 din 30 august 1994 și aprobată prin Legea nr. 127/1994 , astfel cum a fost modificat prin Ordonanța de urgenta a Guvernului nr. 87/1997 , se modifica și va avea următorul cuprins: Decontarea în lei a operațiunilor de export derulate cu plata esalonata pe termen lung se face pe măsura încasării de la extern, confirmată pe baza documentelor bancare, la cursul de schimb leu/dolar S.U.A. în vigoare la data încasării contravalorii exportului respectiv. Aceste prevederi se aplică operațiunilor de export derulate în cadrul acordurilor de cliring, barter și cooperare economică internationala, derulate după data de 1 ianuarie 1990 și care nu au fost decontate la intern până la data prezentei ordonanțe de urgență. Decontarea în lei a operațiunilor de import se face pe baza valorii stabilite în vama la cursul de schimb leu/dolar S.U.A. de la data declarației vamale de import."
+    }
+  ],
+  "definitions": []
+}

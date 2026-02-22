@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-271838",
+  "type": "statute",
+  "title": "LEGE nr. 194 din 3 iulie 2023",
+  "short_name": "lege 194 03 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-03",
+  "in_force_date": "2023-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271838",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 194 03/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării Naționale, republicată în Monitorul Oficial al României, Partea I, nr. 867 din 2 noiembrie 2017, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 7 alineatul (1), după litera n) se introduce o nouă literă, lit. o), cu următorul cuprins: o) Direcția medicală. 2. La articolul 8, alineatul (2) se modifică și va avea următorul cuprins: (2) Statul Major al Apărării are în subordine, pe lângă tipurile de structuri prevăzute la alin. (1), structura de forțe, Universitatea Națională de Apărare «Carol I» și Academia Tehnică Militară «Ferdinand I». 3. La articolul 8, alineatul (3) se abrogă. 4. La articolul 13 alineatul (1), litera e) se abrogă. 5. La articolul 13, alineatul (4) se abrogă. 6. După articolul 26 se introduce un nou articol, art. 26^1, cu următorul cuprins: Articolul 26^1 (1) Direcția medicală are în subordine Institutul Național de Medicină Aeronautică și Spațială «General doctor aviator Victor Anastasiu», Institutul Național de Cercetare-Dezvoltare Medico-Militară «Cantacuzino» și spitalele militare. (2) Direcția medicală coordonează asistența medicală a personalului armatei și a cadrelor militare în rezervă și în retragere, asigurarea sanitar-veterinară, implementează politica națională de sănătate la nivelul Ministerului Apărării Naționale, organizează învățământul medico-militar și elaborează concepția privind funcționarea serviciilor medicale și sanitar-veterinare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Operaționalizarea Direcției medicale ca structură centrală se va realiza în maximum 90 de zile de la intrarea în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării Naționale, republicată în Monitorul Oficial al României, Partea I, nr. 867 din 2 noiembrie 2017, cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

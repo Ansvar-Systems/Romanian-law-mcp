@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-23039",
+  "type": "statute",
+  "title": "LEGE nr. 541 din 12 septembrie 1940",
+  "short_name": "lege 541 12 09 1940",
+  "status": "in_force",
+  "issued_date": "1940-09-12",
+  "in_force_date": "1940-09-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/23039",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 541 12/09/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifica tratatul între România şi Bulgaria, semnat la Craiova, la 7 Septemvrie 1940, precum şi anexele sale: 1. Protocol al articolului I al Tratatului. 2. Acord privitor la modalităţile de evacuare şi de transferare a teritoriului. 3. Acord privitor la schimbul de populatiune română şi bulgara. 4. Acord financiar. 5. Schimburi de scrisori."
+    }
+  ],
+  "definitions": []
+}

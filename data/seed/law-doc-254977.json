@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254977",
+  "type": "statute",
+  "title": "LEGE nr. 129 din 5 mai 2022",
+  "short_name": "lege 129 05 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-05",
+  "in_force_date": "2022-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254977",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 129 05/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Moldova privind implementarea programului de asistență tehnică și financiară în baza unui ajutor financiar nerambursabil în valoare de 100 milioane de euro acordat de România Republicii Moldova, semnat la Chișinău la 11 februarie 2022."
+    }
+  ],
+  "definitions": []
+}

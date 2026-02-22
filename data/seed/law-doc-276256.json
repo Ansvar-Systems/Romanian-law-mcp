@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-276256",
+  "type": "statute",
+  "title": "LEGE nr. 344 din 10 noiembrie 2023",
+  "short_name": "lege 344 10 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-10",
+  "in_force_date": "2023-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276256",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 344 10/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanța de urgență a Guvernului nr. 98/2010 privind identificarea, desemnarea și protecția infrastructurilor critice, publicată în Monitorul Oficial al României, Partea I, nr. 757 din 12 noiembrie 2010, aprobată cu modificări prin Legea nr. 18/2011 , cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 1, după alineatul (1) se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Protecția infrastructurilor critice naționale constituie componentă a securității naționale. 2. După articolul 11 se introduc două noi articole, articolele 11^1 și 11^2, cu următorul cuprins: Accesul la ICN și acordarea despăgubirilor Articolul 11^1 (1) Persoanele fizice sau juridice de drept public sau privat care dețin, cu orice titlu, terenuri, construcții sau instalații tehnologice, în perimetrul cărora sunt amplasate sau instalate elemente de ICN/ICE, au obligația să permită necondiționat accesul personalului specializat de la nivelul proprietarului/operatorului/administratorului de ICN/ICE, în vederea remedierii disfuncționalităților sau realizării mentenanței sistemelor. (2) Pentru pagubele cauzate pe timpul desfășurării intervențiilor prevăzute la alin. (1), proprietarii/operatorii/ administratorii de ICN/ICE au obligația de a plăti celor îndreptățiți contravaloarea expertizelor, precum și cuantumul despăgubirilor stabilite de către evaluatori autorizați, în termen de 60 de zile de la data definitivării expertizei. (3) Expertizele prevăzute la alin. (2) se vor efectua după desfășurarea intervențiilor prevăzute la alin. (1). (4) Criteriile și modul de acordare a despăgubirilor prevăzute la alin. (2) se stabilesc prin ordine comune ale conducătorilor autorităților publice responsabile, potrivit domeniilor din responsabilitate. Înstrăinarea ICN Articolul 11^2 La încheierea oricăror acte privind înstrăinarea prin vânzare-cumpărare, precum și prin orice altă modalitate, a unor elemente de ICN/ICE sau a unor obiective ce dețin calitatea de ICN/ICE, având capital de stat sau mixt, proprietarii/operatorii/administratorii respectivi au obligația să solicite, cu 60 de zile înainte, prin intermediul autorității publice responsabile, avizul de conformitate al Consiliului Suprem de Apărare a Țării, cu excepția subsectoarelor «bănci» și «trezorerie și sisteme de plăți» din cadrul sectorului «financiar-bancar», a căror activitate este reglementată prin legi speciale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Ordonanța de urgență a Guvernului nr. 98/2010 privind identificarea, desemnarea și protecția infrastructurilor critice, publicată în Monitorul Oficial al României, Partea I, nr. 757 din 12 noiembrie 2010, aprobată cu modificări prin Legea nr. 18/2011 , cu modificările și completările ulterioare, precum și cu completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

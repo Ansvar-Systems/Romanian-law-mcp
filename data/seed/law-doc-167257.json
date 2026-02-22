@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-167257",
+  "type": "statute",
+  "title": "LEGE nr. 77 din 17 aprilie 2015",
+  "short_name": "lege 77 17 04 2015",
+  "status": "in_force",
+  "issued_date": "2015-04-17",
+  "in_force_date": "2015-04-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167257",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 77 17/04/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 80 din 10 decembrie 2014 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal şi a altor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 906 din 12 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

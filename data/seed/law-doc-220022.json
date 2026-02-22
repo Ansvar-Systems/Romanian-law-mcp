@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-220022",
+  "type": "statute",
+  "title": "LEGE nr. 227 din 25 noiembrie 2019",
+  "short_name": "lege 227 25 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-25",
+  "in_force_date": "2019-11-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/220022",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 227 25/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 15 din 12 martie 2019 pentru prorogarea unor termene, publicată în Monitorul Oficial al României, Partea I, nr. 204 din 14 martie 2019."
+    }
+  ],
+  "definitions": []
+}

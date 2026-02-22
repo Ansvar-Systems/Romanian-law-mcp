@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219088",
+  "type": "statute",
+  "title": "LEGE nr. 187 din 24 octombrie 2019",
+  "short_name": "lege 187 24 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-24",
+  "in_force_date": "2019-10-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219088",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 187 24/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 80 din 8 noiembrie 2017 pentru modificarea art. 8 alin. (1) din Legea nr. 360/2013 privind constituirea și menținerea unui nivel minim de rezerve de țiței și de produse petroliere, publicată în Monitorul Oficial al României, Partea I, nr. 894 din 14 noiembrie 2017."
+    }
+  ],
+  "definitions": []
+}

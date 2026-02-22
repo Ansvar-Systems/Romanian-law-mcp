@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254316",
+  "type": "statute",
+  "title": "LEGE nr. 104 din 20 aprilie 2022",
+  "short_name": "lege 104 20 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-20",
+  "in_force_date": "2022-04-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254316",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 104 20/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 13 alineatul (1) din Legea nr. 52/2011 privind exercitarea unor activități cu caracter ocazional desfășurate de zilieri, republicată în Monitorul Oficial al României, Partea I, nr. 947 din 22 decembrie 2015, cu modificările și completările ulterioare, litera i) se modifică și va avea următorul cuprins: i) activități de întreținere peisagistică - plantarea, îngrijirea și întreținerea de parcuri și grădini, cu excepția facilității de locuit particulare, precum și întreținerea spațiilor verzi din domeniul public al unităților administrativ-teritoriale - clasa 8130;"
+    }
+  ],
+  "definitions": []
+}

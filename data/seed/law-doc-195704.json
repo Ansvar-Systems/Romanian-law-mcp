@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-195704",
+  "type": "statute",
+  "title": "LEGE nr. 254 din 13 decembrie 2017",
+  "short_name": "lege 254 13 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-13",
+  "in_force_date": "2017-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195704",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 254 13/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Persoanele decedate de religie mozaică se externează din unitățile sanitare, la cererea familiei sau, în cazul persoanelor singure, a Federației Comunităților Evreiești din România - Cultul Mozaic, într-un interval de 24 de ore de la constatarea decesului, în condițiile Legii nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, republicată, și ale normelor metodologice de aplicare aprobate prin Hotărârea Guvernului nr. 451/2004 , cu modificările și completările ulterioare, precum și în condițiile în care nu există suspiciunea unor implicații medico-legale prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.1^1",
+      "section": "1^1",
+      "title": "Articolul 1^1",
+      "content": "Prin derogare de la prevederile alin. (2) al art. 8 și alin. (1) al art. 10 din Legea nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, republicată, persoanele decedate de religie mozaică sunt scutite de autopsie și activitatea de prosectură, la cererea familiei sau, în cazul persoanelor singure, a Federației Comunităților Evreiești din România - Cultul Mozaic, în condițiile în care nu există suspiciunea unor implicații medico-legale prevăzute de lege. (la 25-04-2019, Actul a fost completat de Punctul 2, Articolul I din LEGEA nr. 68 din 18 aprilie 2019, publicată în MONITORUL OFICIAL nr. 310 din 22 aprilie 2019 )"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În termen de 30 de zile de la intrarea în vigoare a prezentei legi, Ministerul Sănătății va propune completarea corespunzătoare a Hotărârii Guvernului nr. 451/2004 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-225822",
+  "type": "statute",
+  "title": "LEGE nr. 57 din 15 mai 2020",
+  "short_name": "lege 57 15 05 2020",
+  "status": "in_force",
+  "issued_date": "2020-05-15",
+  "in_force_date": "2020-05-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/225822",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 57 15/05/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se interzice exportul de buștean, cu sau fără coajă, sau lemn rotund, pentru o perioadă de 10 ani în spațiul extracomunitar începând cu data de 1 ianuarie 2021."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În vederea aplicării regimului silvic și gestionării durabile a fondului forestier se instituie Registrul național de evidență informatizată a proprietăților forestiere, la nivelul autorității publice centrale care răspunde de silvicultură. (2) Realizarea cadastrului aferent fondului forestier proprietate publică a statului este finanțată de la bugetul de stat sau din surse proprii ale administratorilor fondului forestier proprietate publică a statului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) În vederea asigurării transparenței recoltării masei lemnoase din fondul forestier național se instituie Catalogul național al masei lemnoase la nivelul autorității publice centrale care răspunde de silvicultură prin utilizarea bazelor de date informatice existente la nivelul acesteia. (2) Autoritatea publică centrală care răspunde de silvicultură va publica Catalogul național al masei lemnoase pe site-ul propriu, al cărui model se aprobă prin ordin al conducătorului autorității publice centrale care răspunde de silvicultură. (3) Structurile teritoriale de specialitate ale autorității publice centrale care răspunde de silvicultură vor verifica prin sondaj actele de punere în valoare în baza unor criterii de risc."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Nerespectarea interdicției de export a masei lemnoase prevăzută la art. 1 se pedepsește cu închisoare de la un an la 3 ani sau cu amendă în cuantum de 100.000 lei."
+    }
+  ],
+  "definitions": []
+}

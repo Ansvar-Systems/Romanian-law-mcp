@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-174349",
+  "type": "statute",
+  "title": "LEGE nr. 341 din 22 decembrie 2015",
+  "short_name": "lege 341 22 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-22",
+  "in_force_date": "2015-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174349",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 341 22/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 101 din 30 octombrie 2013 pentru modificarea Ordonanţei Guvernului nr. 26/2011 privind înfiinţarea Inspectoratului de Stat pentru Controlul în Transportul Rutier, publicată în Monitorul Oficial al României, Partea I, nr. 677 din 4 noiembrie 2013, cu următoarea modificare: - La articolul I punctul 1, litera b) a articolului 3 se modifică şi va avea următorul cuprins: \"b) prin virarea, lunar, de către A.R.R. în contul I.S.C.T.R., în vederea funcţionării acestuia, a unei contribuţii în procent de 20% din cuantumul tarifelor încasate pentru serviciile specifice prestate de către A.R.R. către terţi, cu excepţia tarifelor încasate de către A.R.R. pentru serviciile specifice prestate prin aplicarea prevederilor Legii nr. 265/2008 privind gestionarea siguranţei circulaţiei pe infrastructura rutieră, republicată, şi a normelor de aplicare a acesteia, respectiv prin virarea, lunar, de către R.A.R. în contul I.S.C.T.R., în vederea funcţionării acestuia, a unei contribuţii în procent de 5% din cuantumul tarifelor încasate pentru serviciile specifice prestate de către R.A.R. către terţi;\"."
+    }
+  ],
+  "definitions": []
+}

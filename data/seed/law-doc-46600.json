@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-46600",
+  "type": "statute",
+  "title": "LEGE nr. 33 din 28 octombrie 1977 (*republicată*)",
+  "short_name": "lege r 33 28 10 1977",
+  "status": "in_force",
+  "issued_date": "1977-10-28",
+  "in_force_date": "1977-10-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/46600",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE (R) 33 28/10/1977",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Imnul de Stat al Republicii Socialiste România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Armonizari şi aranjamente muzicale ale Imnului de Stat al Republicii Socialiste România se vor putea face numai cu aprobarea Consiliului de Stat."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Imnul de Stat al Republicii Socialiste România intră în vigoare pe data adoptării prezentei legi."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,410 @@
+{
+  "id": "law-doc-208096",
+  "type": "statute",
+  "title": "LEGE nr. 284 din 26 noiembrie 2018",
+  "short_name": "lege 284 26 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-26",
+  "in_force_date": "2018-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208096",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 284 26/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Domeniul de aplicare (1) Prezenta lege reglementează: a) transmiterea datelor din registrul cu numele pasagerilor prevăzute la art. 14 , denumite în continuare date PNR, aferente zborurilor extra-UE și intra-UE, de la transportatorii aerieni la Unitatea națională de informații privind pasagerii, prevăzută la art. 4 alin. (1) , denumită în continuare UNIP; b) prelucrarea datelor PNR, inclusiv colectarea, utilizarea și păstrarea acestora de către UNIP; c) schimbul de date PNR cu alte state; d) condițiile de acces al Agenției Uniunii Europene pentru Cooperare în Materie de Aplicare a Legii, denumită în continuare EUROPOL, la datele PNR colectate de UNIP. (2) Prezenta lege nu aduce atingere dreptului organelor judiciare de a solicita și de a obține de la transportatorii aerieni, în condițiile Legii nr. 135/2010 privind Codul de procedură penală, cu modificările și completările ulterioare, date din registrele cu numele pasagerilor deținute de aceștia. (3) Prezenta lege nu aduce atingere dreptului organelor de stat cu atribuții în domeniul securității naționale de a solicita și de a obține de la transportatorii aerieni, în condițiile Legii nr. 51/1991 privind securitatea națională a României, republicată, cu completările ulterioare, date din registrele cu numele pasagerilor deținute de aceștia."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Definirea unor termeni și expresii În sensul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații: a) transportator aerian - orice persoană fizică sau juridică, română sau străină, deținătoare a unui certificat de operator aerian în termen de valabilitate și, după caz, a unei licențe de operare, al cărei obiect de activitate îl reprezintă asigurarea transportului pasagerilor pe calea aerului; b) zbor extra-UE - orice zbor regulat sau neregulat al unui transportator aerian, cu punctul de plecare sau tranzit într-o țară terță, și planificat să aterizeze pe teritoriul României sau să decoleze de pe teritoriul României și planificat să aterizeze într-o țară terță, inclusiv zboruri pentru care sunt desemnate aeroporturi sau aerodromuri de rezervă situate pe teritoriul României; c) zbor intra-UE - orice zbor regulat sau neregulat al unui transportator aerian planificat să aterizeze pe teritoriul României, având punctul de plecare sau tranzit de pe teritoriul unui alt stat membru al Uniunii Europene, sau să decoleze de pe teritoriul României și planificat să aterizeze pe teritoriul unui alt stat membru al Uniunii Europene, în ambele cazuri, fără escală pe teritoriul unei țări terțe; d) pasager - orice persoană fizică, inclusiv persoanele aflate în transfer sau în tranzit, cu excepția membrilor echipajului, transportată sau care urmează să fie transportată într-o aeronavă cu consimțământul transportatorului aerian, acest consimțământ fiind exprimat prin înregistrarea persoanei respective pe lista pasagerilor; e) registru cu numele pasagerilor sau PNR - registru al cerințelor de călătorie ale fiecărui pasager, care conține informațiile necesare pentru a permite prelucrarea și controlul rezervărilor de către transportatorii aerieni care efectuează rezervările și de către transportatorii aerieni participanți, pentru fiecare călătorie rezervată de către sau în numele oricărei persoane, indiferent că este conținut în sistemele de rezervare, în sistemele de control al plecărilor utilizate pentru verificarea pasagerilor la îmbarcarea în avion sau în sisteme echivalente care oferă aceleași funcționalități; f) sistem de rezervare - sistemul intern al transportatorului aerian, în care datele PNR sunt colectate pentru gestionarea rezervărilor; g) metoda de tip push - metoda prin care transportatorii aerieni transferă datele PNR către UNIP, care presupune realizarea unei transmisiuni active de date din sistemele transportatorilor aerieni în Sistemul de evidență a datelor PNR; h) infracțiuni de terorism - infracțiunile prevăzute în Legea nr. 535/2004 privind prevenirea și combaterea terorismului, cu modificările și completările ulterioare; i) infracțiuni grave - infracțiunile pentru care pedeapsa prevăzută de lege este detențiunea pe viață sau închisoarea al cărei maxim special este de cel puțin 3 ani, corespunzătoare formelor de criminalitate prevăzute în anexa care face parte integrantă din prezenta lege; j) depersonalizare prin mascarea elementelor de date - acțiunea prin care acele elemente ale datelor PNR care ar putea servi la identificarea directă a unei persoane să nu fie vizibile pentru utilizatorii Sistemului de evidență a datelor PNR; k) date API - datele prevăzute la art. 3 alin. (1) din Ordonanța Guvernului nr. 34/2006 privind obligația transportatorilor aerieni de a comunica date despre pasageri, aprobată cu modificări și completări prin Legea nr. 452/2006 ; l) sistem de control al plecărilor - sistemul automat de înregistrare a pasagerilor, bagajelor și încărcăturii cargo, îmbarcate la bordul unei aeronave; m) autorități competente - autoritățile prevăzute la art. 11 alin. (1) ; n) profilul „client fidel“ - înregistrările cu privire la persoane fizice realizate de transportatorii aerieni în cadrul programelor de fidelitate derulate de către aceștia; o) coduri partajate - situația în care un zbor este efectuat în colaborare de 2 sau mai mulți transportatori aerieni."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Notificarea colectării și utilizării datelor PNR aferente zborurilor intra-UE În termen de 30 de zile de la data intrării în vigoare a prezentei legi, prin grija Ministerului Afacerilor Interne, se transmite Comisiei Europene o notificare scrisă privind prelucrarea datelor PNR aferente zborurilor intra-UE."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea 1 - Unitatea națională de informații privind pasagerii",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Înființarea și atribuțiile principale ale UNIP (1) În cadrul Inspectoratului General al Poliției de Frontieră, denumit în continuare IGPF, se înființează UNIP, ca structură de specialitate, fără personalitate juridică, prin preluarea activității și a personalului Unității naționale de informații privind pasagerii, înființată potrivit art. 8 alin. (1) din Ordonanța Guvernului nr. 13/2015 privind utilizarea unor date din registrele cu numele pasagerilor în cadrul cooperării transfrontaliere pentru prevenirea și combaterea actelor de terorism, a infracțiunilor conexe acestora și a infracțiunilor contra securității naționale, precum și pentru prevenirea și înlăturarea amenințărilor la adresa securității naționale, care se desființează. (2) UNIP îndeplinește următoarele atribuții principale: a) colectarea datelor PNR de la transportatorii aerieni, stocarea și prelucrarea acestor date și transferul datelor respective sau al rezultatului prelucrării acestora către autoritățile competente, în condițiile stabilite la art. 20-22 ; b) schimbul de date PNR și schimbul de rezultate ale prelucrării datelor PNR cu Unitățile de informații privind pasagerii din alte state membre ale Uniunii Europene și cu EUROPOL, în condițiile stabilite la art. 24 , 26 și 27 ; c) schimbul de date PNR cu țări terțe, în condițiile stabilite la art. 28 și 29 ."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea 1 - Unitatea națională de informații privind pasagerii",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Tratate privind desemnarea Unității naționale de informații privind pasagerii (1) Prin tratate încheiate cu alte state membre ale Uniunii Europene se poate stabili ca UNIP să fie desemnată Unitate națională de informații privind pasagerii a respectivului stat sau a respectivelor state membre ale Uniunii Europene. (2) Prin tratate încheiate cu alte state membre ale Uniunii Europene se poate stabili ca Unitatea națională de informații privind pasagerii a unuia dintre respectivele state membre să fie desemnată Unitate națională de informații privind pasagerii a României. (3) Prin tratatele prevăzute la alin. (1) și (2) se stabilesc norme detaliate privind funcționarea Unității naționale de informații privind pasagerii comună statelor membre ale Uniunii Europene între care se încheie respectivul tratat și se respectă dreptul Uniunii Europene în materie, inclusiv cerințele stabilite prin Directiva (UE) 2016/681 a Parlamentului European și a Consiliului din 27 aprilie 2016 privind utilizarea datelor din registrul cu numele pasagerilor (PNR) pentru prevenirea, depistarea, investigarea și urmărirea penală a infracțiunilor de terorism și a infracțiunilor grave, publicată în Jurnalul Oficial al Uniunii Europene, seria L, nr. 119 din 4 mai 2016. (4) În cazul prevăzut la alin. (2) , aspectele privind desființarea UNIP se stabilesc prin actul normativ de ratificare a tratatului în cauză."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea 1 - Unitatea națională de informații privind pasagerii",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Notificarea privind înființarea sau desemnarea UNIP (1) În termen de 30 de zile de la data intrării în vigoare a prezentei legi, prin grija Ministerului Afacerilor Interne, se transmite Comisiei Europene o notificare scrisă privind înființarea UNIP. (2) În cazul modificării situației notificate potrivit alin. (1) , în termen de 30 de zile de la intervenirea modificării, prin grija Ministerului Afacerilor Interne, se transmite Comisiei Europene o nouă notificare scrisă."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea 1 - Unitatea națională de informații privind pasagerii",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Personalul UNIP (1) Șeful UNIP este numit de inspectorul general al IGPF. (2) Personalul UNIP este format din polițiști - funcționari publici cu statut special. (3) În cadrul UNIP poate fi detașat sau delegat, în condițiile legii, personal de la autoritățile competente, în scopul efectuării evaluărilor prevăzute la art. 20-22 , cu respectarea principiului necesității de a cunoaște."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea a 2-a - Responsabilul cu protecția datelor în cadrul UNIP",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Responsabilul cu protecția datelor în cadrul UNIP (1) La nivelul IGPF se înființează funcția de responsabil cu protecția datelor în cadrul UNIP. (2) Responsabilul cu protecția datelor în cadrul UNIP este numit de inspectorul general al IGPF, cu îndeplinirea condițiilor prevăzute la alin. (3) . (3) Poate fi desemnat responsabil cu protecția datelor în cadrul UNIP un polițist - funcționar public cu statut special cu studii superioare -, care are o experiență de minimum 2 ani în domeniul protecției datelor cu caracter personal și care a urmat cel puțin un curs de specializare în acest domeniu. (4) Responsabilul cu protecția datelor în cadrul UNIP își desfășoară activitatea în subordinea nemijlocită a inspectorului general al IGPF. Inspectorul general al IGPF asigură preluarea atribuțiilor responsabilului cu protecția datelor în cadrul UNIP, în cazul absenței acestuia de la serviciu pentru o perioadă mai mare de 5 zile, de către o persoană calificată în domeniul protecției datelor cu caracter personal. (5) În exercitarea sarcinilor de serviciu privind respectarea legislației în materia protecției datelor cu caracter personal, responsabilul cu protecția datelor în cadrul UNIP este independent și nu poate primi instrucțiuni pe cale ierarhică. (6) Pentru sprijinirea activității curente a responsabilului cu protecția datelor în cadrul UNIP, la nivelul IGPF se pot înființa una sau mai multe funcții de asistent al responsabilului cu protecția datelor în cadrul UNIP. Alin. (2) se aplică în mod corespunzător. (7) Datele de contact ale responsabilului cu protecția datelor în cadrul UNIP, respectiv nume, prenume, adresă poștală, adresă de poștă electronică, telefon și fax, se comunică Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal, denumită în continuare Autoritatea națională de supraveghere, și se publică la avizierul și pe pagina de internet a IGPF."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea a 2-a - Responsabilul cu protecția datelor în cadrul UNIP",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Principalele atribuții ale responsabilului cu protecția datelor în cadrul UNIP (1) Responsabilul cu protecția datelor în cadrul UNIP are următoarele atribuții principale: a) informarea și consilierea personalului UNIP care efectuează prelucrări de date PNR, cu privire la obligațiile care le revin în temeiul legislației privind protecția datelor cu caracter personal; b) monitorizarea respectării de către UNIP a obligațiilor ce îi revin în conformitate cu dispozițiile legislației privind protecția datelor cu caracter personal și a politicilor UNIP în materia protecției datelor cu caracter personal, în special a alocării responsabilităților, a creșterii gradului de conștientizare a acestora în rândul personalului UNIP și a acțiunilor de formare a personalului implicat în operațiunile de prelucrare; c) realizarea verificărilor necesare în scopul determinării nivelului de respectare a rigorilor impuse de cadrul normativ privind protecția datelor cu caracter personal; d) furnizarea de consiliere în ceea ce privește evaluarea impactului măsurilor de protecție a datelor cu caracter personal prelucrate în cadrul Sistemului de evidență a datelor PNR și monitorizarea modului în care principiile prelucrării datelor cu caracter personal sunt implementate în cadrul operațiunilor realizate în cadrul UNIP; e) cooperarea cu Autoritatea națională de supraveghere și îndeplinirea funcției de punct de contact pentru această instituție; f) îndeplinirea funcției de punct unic de contact în relația cu persoanele vizate, cu privire la toate aspectele legate de prelucrarea datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR. (2) Atunci când în exercitarea atribuțiilor prevăzute la alin. (1) lit. b) și c) constată efectuarea unei operațiuni de prelucrare a datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR care nu este conformă cu legislația în materia protecției datelor cu caracter personal, responsabilul cu protecția datelor în cadrul UNIP informează conducerea IGPF. În cazul în care pentru remedierea situației nu sunt suficiente măsurile adoptate la nivelul IGPF, responsabilul cu protecția datelor în cadrul UNIP notifică, de îndată, Autoritatea națională de supraveghere. (3) Îndeplinirea funcției de punct unic de contact în relația cu persoanele vizate presupune realizarea următoarelor activități principale: a) primirea și înregistrarea într-un registru special a cererilor formulate de către persoanele vizate în exercitarea drepturilor prevăzute de legislația privind protecția datelor cu caracter personal; b) solicitarea realizării de către UNIP a verificărilor necesare pentru soluționarea cererilor prevăzute la lit. a) ; c) întocmirea răspunsurilor la cererile persoanelor vizate, pe baza rezultatului verificărilor prevăzute la lit. b) , și transmiterea acestora către solicitanți. (4) În îndeplinirea atribuțiilor de serviciu, responsabilul cu protecția datelor în cadrul UNIP are drept de acces în încăperile UNIP și la informațiile cuprinse în Sistemul de evidență a datelor PNR, potrivit legii."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea a 2-a - Responsabilul cu protecția datelor în cadrul UNIP",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Asigurarea condițiilor de muncă ale responsabilului cu protecția datelor în cadrul UNIP (1) IGPF pune la dispoziția responsabilului cu protecția datelor în cadrul UNIP dotările tehnice și logistice necesare îndeplinirii atribuțiilor de serviciu, potrivit normelor de dotare aplicabile unei funcții de șef birou. (2) În scopul asigurării exercitării drepturilor de către persoana vizată, IGPF pune la dispoziția responsabilului cu protecția datelor în cadrul UNIP un spațiu special amenajat pentru relații cu publicul. (3) IGPF asigură participarea responsabilului cu protecția datelor în cadrul UNIP la cursuri de instruire de specialitate organizate în Uniunea Europeană, cel puțin o dată la 2 ani. (4) Măsurile dispuse la nivelul IGPF cu privire la asigurarea condițiilor de muncă ale responsabilului cu protecția datelor în cadrul UNIP au în vedere asigurarea exercitării în mod eficient și independent de către acesta a atribuțiilor stabilite de prezenta lege."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea a 3-a - Autoritățile competente",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Autoritățile competente (1) Autoritățile competente să solicite sau să primească de la UNIP și să utilizeze date PNR sau rezultatul prelucrării datelor PNR în condițiile art. 23 sunt următoarele: a) Poliția Română; b) Poliția de Frontieră Română; c) Direcția Generală de Protecție Internă; d) Direcția Generală Anticorupție; e) Serviciul Român de Informații; f) Serviciul de Informații Externe; g) Ministerul Apărării Naționale: Direcția generală de informații a apărării; h) Ministerul Public; i) Agenția Națională de Administrare Fiscală: Direcția Generală a Vămilor. (2) Prin ordine sau dispoziții ale conducătorilor autorităților competente prevăzute la alin. (1) se stabilesc: a) departamentele/structurile din cadrul fiecărei autorități competente abilitate să solicite, să primească și să prelucreze date PNR; b) persoanele din cadrul departamentelor/structurilor abilitate potrivit lit. a) cu atribuții de prelucrare a datelor PNR; c) limitele concrete în exercitarea atribuțiilor de prelucrare a datelor PNR de către persoanele stabilite potrivit lit. b) . (3) Pentru stabilirea limitelor concrete în exercitarea atribuțiilor de prelucrare a datelor PNR potrivit alin. (2) lit. c) , conducătorii autorităților competente prevăzute la alin. (1) au în vedere următoarele: a) prelucrarea datelor PNR să fie necesară pentru îndeplinirea atribuțiilor de serviciu; b) datele PNR să fie prelucrate potrivit procedurilor și prin mijloacele prevăzute de dispozițiile legale aplicabile activităților în cadrul cărora sunt utilizate datele respective; c) prelucrarea datelor PNR să respecte dispozițiile legale privind protecția datelor cu caracter personal aplicabile activităților în cadrul cărora sunt utilizate datele respective."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul II - Cadrul organizatoric | Secţiunea a 3-a - Autoritățile competente",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Notificarea listei cu autoritățile competente (1) În termen de 30 de zile de la data intrării în vigoare a prezentei legi, prin grija Ministerului Afacerilor Interne, se transmite Comisiei Europene o notificare scrisă privind lista autorităților competente. (2) În cazul modificării situației notificate potrivit alin. (1) , prin grija Ministerului Afacerilor Interne, în termen de 30 de zile de la intervenirea modificării, se transmite Comisiei Europene o nouă notificare scrisă."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul III - Transmiterea datelor PNR de la transportatorii aerieni la UNIP | Secţiunea a 3-a - Autoritățile competente",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Obligația de transmitere a datelor PNR (1) Transportatorii aerieni transmit corect și complet către UNIP datele PNR prevăzute la art. 14 alin. (1) pe care le colectează deja în cadrul activităților lor obișnuite, aferente zborurilor extra-UE și intra-UE pe care le operează. (2) În cazul în care codul de identificare al unui zbor extra-UE sau intra-UE este partajat de unul sau mai mulți transportatori aerieni, obligația prevăzută la alin. (1) revine transportatorului aerian care operează zborul. (3) Obligațiile prevăzute la alin. (1) și (2) se execută și în cazul în care un zbor extra-UE sau intra-UE tranzitează unul sau mai multe aeroporturi din alte state membre ale Uniunii Europene. (4) Este interzisă transmiterea datelor PNR, în condițiile prezentei legi, către alte autorități sau instituții publice române."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul III - Transmiterea datelor PNR de la transportatorii aerieni la UNIP | Secţiunea a 3-a - Autoritățile competente",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Datele PNR (1) Transportatorii aerieni transmit către UNIP, în condițiile prevăzute la art. 15 și 16 , următoarele date din registrul cu numele pasagerilor: a) codul de rezervare; b) data rezervării sau a emiterii biletului; c) data/datele programată/programate a/ale călătoriei; d) numele și prenumele asociate rezervării; e) adresa și informațiile de contact - număr de telefon, adresă de e-mail - asociate rezervării; f) toate informațiile privind forma de plată, inclusiv adresa de facturare; g) itinerarul complet de călătorie; h) informațiile din profilul „client fidel“; i) agenția sau agentul de turism prin care a fost făcută rezervarea sau a fost cumpărat biletul; j) situația de călătorie a pasagerului, inclusiv confirmările, situația înregistrării pentru zbor, informații privind neprezentarea pasagerului la îmbarcare sau privind prezentarea acestuia în ultimul moment la îmbarcare fără rezervare prealabilă; k) informațiile scindate sau divizate din registrul cu numele pasagerilor; l) mențiunile cu caracter general, inclusiv toate informațiile disponibile despre minorii neînsoțiți cu vârsta sub 18 ani, precum numele și sexul minorului, vârsta, limba/limbile vorbită/vorbite, numele și datele de contact ale persoanei care îl însoțește la plecare și relația sa cu minorul, numele și datele de contact ale persoanei care îl așteaptă la sosire și relația sa cu minorul, agentul prezent la plecare și la sosire; m) informațiile despre bilet, inclusiv numărul biletului, data emiterii biletului și bilete dus simplu și câmpurile aferente furnizării automate a prețului unui bilet de călătorie; n) numărul locului și alte informații privind locul; o) informațiile cu privire la codurile partajate; p) toate informațiile cu privire la bagaje; q) numărul pasagerilor înregistrați în PNR și alte nume ale acestora; r) orice date API colectate, inclusiv tipul, numărul, țara de emitere și data expirării oricărui document de identitate, cetățenia, numele de familie, prenumele, sexul, data nașterii, compania aeriană, numărul zborului, data plecării, data sosirii, aeroportul de plecare, aeroportul de sosire, ora plecării și ora sosirii; s) un istoric al tuturor modificărilor datelor PNR prevăzute la lit. a)-r) . (2) Datele PNR prevăzute la alin. (1) lit. r) se transmit UNIP în condițiile prezentei legi, inclusiv în cazul în care transportatorii aerieni nu le păstrează prin mijloacele tehnice utilizate pentru celelalte date PNR. (3) În cazul în care datele transmise de transportatorii aerieni includ orice date suplimentare față de cele prevăzute la alin. (1) , Sistemul de evidență a datelor PNR șterge în mod automat și ireversibil aceste date imediat după primirea lor."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul III - Transmiterea datelor PNR de la transportatorii aerieni la UNIP | Secţiunea a 3-a - Autoritățile competente",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Momentul transmiterii datelor PNR (1) Transportatorii aerieni transmit datele PNR către UNIP cu 48 până la 24 de ore înainte de ora programată pentru plecarea zborului. (2) Imediat după închiderea zborului, adică imediat după îmbarcarea pasagerilor în aeronava care se pregătește de decolare, și când niciun pasager nu se mai poate îmbarca sau nu mai poate debarca, transportatorii aerieni transmit către UNIP toate modificările sau completările intervenite cu privire la datele PNR aferente respectivului zbor de la momentul transmiterii realizate potrivit alin. (1) . (3) În cazul în care evaluarea datelor PNR aferente unui zbor programat este necesară pentru a răspunde unei amenințări concrete privind comiterea unei infracțiuni de terorism sau a unei infracțiuni grave ori pentru prevenirea și înlăturarea unei amenințări la adresa securității naționale, UNIP, exclusiv ca urmare a unei cereri din partea unei autorități competente, solicită transportatorilor aerieni să transmită datele PNR aferente zborului în cauză în alte momente decât cele prevăzute la alin. (1) și (2) . (4) Transportatorii aerieni transmit datele PNR către UNIP, în termenul indicat prin solicitarea prevăzută la alin. (3) ."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul III - Transmiterea datelor PNR de la transportatorii aerieni la UNIP | Secţiunea a 3-a - Autoritățile competente",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Măsuri tehnice privind transmiterea datelor PNR (1) Transportatorii aerieni transmit datele PNR către UNIP, exclusiv prin metoda de tip push, prin mijloace electronice de comunicare capabile să asigure protecția datelor PNR prin măsurile tehnice de securitate și prin măsurile organizatorice aplicate transmiterii datelor PNR sau, în caz de defecțiune tehnică, prin orice alte mijloace de comunicație care asigură același nivel de protecție a datelor PNR, precum și respectarea dispozițiilor legale privind protecția datelor cu caracter personal aplicabile. (2) Până la aplicarea dispozițiilor alin. (3) , datele PNR se transmit către UNIP în formatul/formatele de date stabilit/stabilite prin dispoziția inspectorului general al IGPF. (3) După împlinirea termenului de un an de la data la care Comisia Europeană adoptă pentru prima dată lista protocoalelor comune și a formatelor de date compatibile potrivit art. 8 alin. (3) din Directiva (UE) 2016/681, transportatorii aerieni sunt obligați: a) să notifice UNIP protocolul comun și formatul de date compatibil, dintre cele cuprinse în lista adoptată de Comisia Europeană, pe care urmează să le utilizeze pentru transmiterea datelor PNR; b) să utilizeze metode securizate, conforme cu protocolul comun notificat potrivit lit. a) , pentru transmiterea datelor PNR către UNIP prin mijloace electronice de comunicație; c) să utilizeze formatul de date compatibil notificat potrivit lit. a) pentru transmiterea datelor PNR către UNIP. (4) În termen de un an de la data la care Comisia Europeană adoptă pentru prima dată lista protocoalelor comune și a formatelor de date compatibile, IGPF asigură implementarea măsurilor tehnice necesare pentru ca Sistemul de evidență a datelor PNR să utilizeze toate protocoalele comune și formatele de date compatibile cuprinse în lista adoptată de Comisia Europeană. (5) Resursele financiare necesare pentru implementarea măsurilor tehnice prevăzute la alin. (4) se asigură de la bugetul de stat, prin bugetul Ministerului Afacerilor Interne, pentru IGPF sau din fonduri externe nerambursabile."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul III - Transmiterea datelor PNR de la transportatorii aerieni la UNIP | Secţiunea a 3-a - Autoritățile competente",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Monitorizarea respectării obligațiilor aferente transmiterii datelor PNR UNIP monitorizează respectarea obligațiilor transportatorilor aerieni prevăzute la art. 13-16 , fără a aduce atingere atribuțiilor Autorității naționale de supraveghere."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea 1 - Scopul utilizării datelor PNR",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Scopul utilizării datelor PNR Datele PNR cuprinse în Sistemul de evidență a datelor PNR se utilizează doar pentru următoarele scopuri: a) prevenirea, depistarea, investigarea și urmărirea penală a infracțiunilor de terorism sau a infracțiunilor grave; b) prevenirea și înlăturarea amenințărilor la adresa securității naționale prevăzute la art. 3 din Legea nr. 51/1991, republicată , cu completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 2-a - Sistemul de evidență a datelor PNR",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Sistemul de evidență a datelor PNR (1) IGPF organizează Sistemul de evidență a datelor PNR, prin preluarea Sistemului de evidență a datelor PNR organizat potrivit art. 7 alin. (1) din Ordonanța Guvernului nr. 13/2015 , inclusiv a datelor PNR cuprinse în acesta. (2) În cadrul Sistemului de evidență a datelor PNR sunt prelucrate, inclusiv prin mijloace automate, datele PNR transmise de către transportatorii aerieni potrivit art. 13-16 , precum și datele PNR preluate potrivit alin. (1) . (3) Stocarea, prelucrarea și analiza datelor PNR prin intermediul Sistemului de evidență a datelor PNR se realizează exclusiv într-un spațiu care dispune de infrastructura adecvată pentru asigurarea securității prelucrărilor, în raport cu stadiul evoluției tehnologice, situat pe teritoriul României sau al altui stat membru al Uniunii Europene. (4) IGPF asigură administrarea și mentenanța Sistemului de evidență a datelor PNR. (5) Cheltuielile aferente funcționării Sistemului de evidență a datelor PNR se asigură prin bugetul Ministerului Afacerilor Interne, pentru IGPF."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 3-a - Evaluarea datelor PNR de către UNIP",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Prelucrarea datelor PNR de către UNIP (1) UNIP prelucrează datele cuprinse în Sistemul de evidență a datelor PNR, exclusiv în următoarele scopuri: a) efectuarea unei evaluări a pasagerilor înainte de sosirea sau de plecarea programată a acestora în/din România, în vederea identificării persoanelor cu privire la care este necesară o examinare suplimentară de către autoritățile competente și, după caz, de către EUROPOL, având în vedere faptul că respectivele persoane pot fi implicate în săvârșirea unei infracțiuni de terorism, a unei infracțiuni grave sau într-o activitate care constituie amenințare la adresa securității naționale; b) oferirea de răspunsuri, de la caz la caz, unei cereri temeinic justificate bazate pe motive suficiente din partea autorităților competente vizând furnizarea și prelucrarea datelor PNR, în cazuri concrete, în scopurile prevăzute la art. 18 și comunicarea rezultatelor acestei prelucrări autorităților competente sau, după caz, EUROPOL; c) analizarea datelor PNR în vederea actualizării sau a definirii de noi criterii ce urmează a fi utilizate pentru evaluările efectuate în temeiul alin. (2) lit. b) în scopul identificării oricăror persoane care pot fi implicate în săvârșirea unei infracțiuni de terorism, a unei infracțiuni grave sau într-o activitate care constituie amenințare la adresa securității naționale. (2) În momentul efectuării evaluării prevăzute la alin. (1) lit. a) , UNIP poate: a) să compare datele PNR cu bazele de date relevante, în scopurile prevăzute la art. 18 ; b) să prelucreze date PNR în conformitate cu anumite criterii prestabilite. (3) În scopul aplicării prevederilor alin. (2) lit. a) , bazele de date relevante se stabilesc prin hotărâre a Guvernului, la propunerea Ministerului Afacerilor Interne."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 3-a - Evaluarea datelor PNR de către UNIP",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Evaluarea datelor PNR potrivit unor criterii prestabilite (1) Criteriile utilizate pentru prelucrarea datelor PNR potrivit art. 20 alin. (2) lit. b) se stabilesc și se revizuiesc periodic, de către UNIP în cooperare cu autoritățile competente, respectând următoarele condiții: a) criteriile sunt țintite, proporționale și specifice, raportat la scopurile prevăzute la art. 18 ; b) criteriile nu se întemeiază pe rasa sau originea etnică a unei persoane, opiniile sale politice, religia sau convingerile sale filozofice, apartenența la un sindicat, starea sa de sănătate, viața sexuală sau orientarea sexuală. (2) Orice evaluare a pasagerilor înainte de sosirea/plecarea programată a acestora în/din România, efectuată potrivit art. 20 alin. (2) lit. b) pe baza unor criterii prestabilite, se realizează în mod nediscriminatoriu."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 3-a - Evaluarea datelor PNR de către UNIP",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Utilizarea rezultatelor pozitive ale evaluării datelor PNR (1) Toate rezultatele pozitive obținute printr-o prelucrare automatizată a datelor PNR realizată potrivit art. 20 alin. (1) lit. a) sunt reexaminate individual prin mijloace neautomatizate, exclusiv de către personalul UNIP, pentru a verifica dacă este necesar transferul respectivelor date PNR către autoritățile competente pentru realizarea unei examinări suplimentare în oricare dintre scopurile prevăzute la art. 18 și pentru a determina căror autorități competente să le fie transmise datele PNR, în funcție de atribuțiile stabilite în sarcina acestora de legislația în vigoare. (2) UNIP transferă către autoritățile competente ale căror atribuții sunt vizate datele PNR sau rezultatul prelucrării datelor PNR în situațiile în care constată că este necesară realizarea unei examinări suplimentare în oricare dintre scopurile prevăzute la art. 18 . Este interzisă transmiterea către autoritățile competente de date PNR care nu au fost reexaminate individual prin mijloace neautomatizate de personalul UNIP. (3) IGPF încheie documente de cooperare cu fiecare dintre autoritățile competente pentru stabilirea procedurii aferente transferului prevăzut la alin. (2) . (4) Rezultatele evaluării pasagerilor potrivit art. 20 alin. (1) lit. a) nu pot fi utilizate ca unic motiv pentru limitarea în orice fel a exercitării dreptului la liberă circulație potrivit Ordonanței de urgență a Guvernului nr. 102/2005 privind libera circulație pe teritoriul României a cetățenilor statelor membre ale Uniunii Europene, Spațiului Economic European și a cetățenilor Confederației Elvețiene, republicată, cu modificările și completările ulterioare. (5) De la data aplicării în totalitate de către România a dispozițiilor acquis-ului Schengen, în temeiul deciziei Consiliului emise în acest sens, în cazul în care evaluarea pasagerilor potrivit art. 20 alin. (1) lit. a) privește zborurile intra-UE între România și un alt stat membru care aplică în totalitate dispozițiile acquis-ului Schengen, rezultatele respectivelor evaluări produc efecte cu privire la exercitarea dreptului la liberă circulație a persoanelor numai în condițiile respectării Regulamentului (UE) 2016/399 al Parlamentului European și al Consiliului din 9 martie 2016 cu privire la Codul Uniunii privind regimul de trecere a frontierelor de către persoane (Codul Frontierelor Schengen), publicat în Jurnalul Oficial al Uniunii Europene, seria L, nr. 77 din 23 martie 2016."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 4-a - Utilizarea datelor PNR de către autoritățile competente",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Utilizarea datelor PNR de către autoritățile competente (1) Autoritățile competente utilizează în cadrul activităților proprii datele PNR și rezultatele prelucrării datelor PNR primite de la UNIP, exclusiv în vederea analizării suplimentare a acestora pentru a stabili dacă este necesară sau nu dispunerea unor măsuri în oricare dintre scopurile prevăzute la art. 18 . (2) La nivelul autorităților competente, datele PNR se prelucrează exclusiv de către persoanele desemnate potrivit art. 11 alin. (2) lit. b) și în limitele stabilite prin ordinele sau dispozițiile conducătorilor autorităților competente emise în temeiul art. 11 alin. (2) lit. c) . (3) Dispozițiile alin. (1) nu aduc atingere exercitării atribuțiilor autorităților competente în situațiile în care alte infracțiuni sau indicii privind alte infracțiuni sunt descoperite în cursul aplicării măsurilor dispuse ca urmare a analizării datelor PNR și a rezultatelor prelucrării datelor PNR primite de la UNIP. (4) Dispunerea de către autoritățile competente a oricărei măsuri cu caracter obligatoriu împotriva unei persoane exclusiv în baza prelucrării automatizate a datelor PNR ori pe baza rasei sau originii etnice a unei persoane, a opiniilor sale politice, a religiei sau a convingerilor sale filozofice, a apartenenței la un sindicat, a stării sale de sănătate, a vieții sexuale sau orientării sexuale este interzisă."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 5-a - Schimbul de date PNR cu alte state membre ale Uniunii Europene",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Schimbul de date PNR cu alte state membre ale Uniunii Europene prin intermediul UNIP (1) UNIP reprezintă punctul național de contact cu unitățile de informații privind pasagerii, denumite în continuare UIP, ale altor state membre ale Uniunii Europene și este responsabilă pentru schimbul de date PNR cu acestea, potrivit prevederilor prezentei legi. (2) În cazul în care prelucrarea datelor PNR potrivit art. 20 alin. (1) conduce la identificarea unor persoane, UNIP transmite toate datele PNR relevante și necesare sau rezultatul prelucrării respectivelor date PNR către UIP ale celorlalte state membre, cu excepția situațiilor care privesc securitatea națională. (3) În cazul în care primește de la UIP ale altor state membre ale Uniunii Europene date PNR sau rezultatul prelucrării datelor PNR, UNIP le transmite către autoritățile competente respectând dispozițiile art. 22 alin. (2) . (4) UNIP poate solicita, în condițiile alin. (5) , din proprie inițiativă sau la cererea motivată a unei autorități competente, UIP a altui stat membru al Uniunii Europene să îi comunice datele PNR care nu au fost depersonalizate prin mascarea elementelor de date, precum și, dacă este necesar, rezultatele prelucrării respectivelor date PNR. (5) Solicitarea prevăzută la alin. (4) trebuie să fie motivată corespunzător și să indice elementele de date sau o combinație a elementelor de date necesare într-un caz concret de prevenire, depistare, investigare și urmărire penală a infracțiunilor de terorism sau a infracțiunilor grave. (6) În cazul în care primește, din partea UIP a altui stat membru al Uniunii Europene, o solicitare motivată corespunzător și care indică elementele de date sau o combinație a elementelor de date necesare într-un caz concret de prevenire, depistare, investigare și urmărire penală a infracțiunilor de terorism sau a infracțiunilor grave, UNIP transmite datele PNR și rezultatul prelucrării datelor PNR, dacă acest rezultat există și a fost solicitat, necesare în respectivul caz concret. (7) UNIP transmite răspunsul la solicitările prevăzute la alin. (6) în cel mai scurt timp posibil. În cazul în care datele solicitate au fost depersonalizate prin mascarea elementelor de date, UNIP comunică datele PNR complete numai dacă sunt prezentate indicii rezonabile că acest lucru este necesar în scopul realizării prelucrării prevăzute la art. 20 alin. (1) lit. b) și numai dacă utilizarea respectivelor date PNR este aprobată potrivit art. 31 alin. (1) lit. b) . (8) Prevederile alin. (6) și (7) se aplică și în cazul în care UNIP primește o solicitare direct din partea unei autorități competente a altui stat membru, dacă solicitarea cuprinde mențiuni din care să rezulte că datele PNR sunt necesare într-un caz urgent. (9) Cu titlu excepțional, în cazul în care accesul la datele PNR este necesar pentru a răspunde unei amenințări concrete privind comiterea unei infracțiuni de terorism sau a unei infracțiuni grave, UNIP poate solicita UIP a unui alt stat membru al Uniunii Europene să obțină datele PNR aferente unui zbor într-un anumit moment expres indicat și să le comunice UNIP. (10) În cazul în care primește, de la UIP a altui stat membru al Uniunii Europene, o solicitare din care rezultă, cu titlu excepțional, că este necesar accesul la datele PNR aferente unui anumit zbor în alte momente decât cele prevăzute la art. 15 alin. (1) și (2) , UNIP aplică în mod corespunzător dispozițiile art. 15 alin. (3) și transmite UIP solicitante datele PNR imediat după obținerea acestora de la transportatorul aerian."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 5-a - Schimbul de date PNR cu alte state membre ale Uniunii Europene",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Solicitarea de date PNR de la UIP ale altor state membre ale Uniunii Europene direct de către autoritățile competente (1) Dacă datele PNR sunt necesare într-un caz urgent, autoritățile competente pot transmite direct UIP a altui stat membru o solicitare motivată corespunzător, care să indice elementele de date sau o combinație a elementelor de date necesare într-un caz concret de prevenire, depistare, investigare și urmărire penală a infracțiunilor de terorism sau a infracțiunilor grave. (2) Atunci când transmit o solicitare potrivit alin. (1) , autoritățile competente transmit o copie a acesteia către UNIP."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 5-a - Schimbul de date PNR cu alte state membre ale Uniunii Europene",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Canale de cooperare pentru schimbul de date PNR cu alte state membre ale Uniunii Europene (1) Schimbul de date PNR cu alte state membre ale Uniunii Europene se poate realiza prin intermediul oricărui canal de cooperare existent între autoritățile competente ale statelor membre ale Uniunii Europene. Limba folosită în solicitare și în schimbul de informații este cea aplicabilă canalului utilizat. (2) Atunci când se transmit notificări potrivit art. 6 , acestea conțin și informații cu privire la coordonatele punctelor de contact cărora le pot fi adresate solicitări în caz de urgență."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 6-a - Accesul EUROPOL la datele PNR",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Accesul EUROPOL la datele PNR (1) EUROPOL are dreptul de a solicita și de a primi date PNR sau rezultatul prelucrării respectivelor date de la UNIP, în limitele competențelor sale și în vederea îndeplinirii atribuțiilor sale. (2) De la caz la caz, EUROPOL poate adresa UNIP, prin intermediul Unității Naționale Europol, o cerere în format electronic, justificată corespunzător, de transmitere a unor anumite date PNR sau a rezultatului prelucrării respectivelor date. (3) EUROPOL poate adresa o cerere potrivit alin. (2) atunci când acest lucru este strict necesar pentru sprijinirea și consolidarea acțiunii statelor membre ale Uniunii Europene în vederea prevenirii, depistării sau investigării unei anumite infracțiuni de terorism sau a unei anumite infracțiuni grave, în măsura în care infracțiunea respectivă intră în sfera de competență a EUROPOL, în temeiul legislației Uniunii Europene care stabilește organizarea și atribuțiile EUROPOL. (4) Cererea prevăzută la alin. (2) trebuie să conțină motive rezonabile pe baza cărora EUROPOL consideră că transmiterea datelor PNR sau a rezultatului prelucrării datelor PNR va contribui în mod substanțial la prevenirea, depistarea sau investigarea infracțiunii în cauză. (5) Schimbul de informații în temeiul prezentului articol are loc prin intermediul SIENA și în conformitate cu legislația Uniunii Europene care stabilește organizarea și atribuțiile EUROPOL. Limba folosită în cerere și în schimbul de informații este cea aplicabilă SIENA."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 7-a - Schimbul de date PNR cu țări terțe",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Transferul datelor PNR către țări terțe (1) UNIP poate transfera date PNR sau rezultatul prelucrării datelor PNR către autoritățile unei țări terțe doar de la caz la caz și dacă sunt îndeplinite în mod cumulativ următoarele condiții: a) sunt respectate dispozițiile art. 15 din Legea nr. 238/2009 privind reglementarea prelucrării datelor cu caracter personal de către structurile/unitățile Ministerului Afacerilor Interne în activitățile de prevenire, cercetare și combatere a infracțiunilor, precum și de menținere și asigurare a ordinii publice, republicată; b) transferul este necesar în scopul prevenirii, depistării sau investigării unei fapte care este considerată de legea țării terțe solicitante drept infracțiune de terorism sau care este sancționată ca infracțiune de legea țării terțe solicitante cu o pedeapsă sau cu o măsură de siguranță privativă de libertate a cărei durată maximă este de cel puțin 3 ani și care este corespunzătoare uneia dintre formele de criminalitate prevăzute în anexa care face parte integrantă din prezenta lege; c) autoritatea din țara terță comunică în scris că este de acord să transfere datele PNR unei alte țări terțe doar în cazul în care acest lucru este strict necesar în scopul prevăzut la lit. b) și doar cu autorizarea expresă a UNIP; d) sunt îndeplinite condițiile prevăzute la art. 24 alin. (5)-(7) , care se aplică în mod corespunzător; e) nu este afectată securitatea națională. (2) Prin derogare de la dispozițiile art. 15 alin. (2) din Legea nr. 238/2009 , republicată, transferurile de date PNR fără consimțământul prealabil al UIP a statului membru al Uniunii Europene de la care au fost obținute datele sunt permise în circumstanțe excepționale și numai dacă sunt îndeplinite cumulativ următoarele condiții: a) transferul este esențial pentru a răspunde unei amenințări concrete, având legătură cu infracțiuni de terorism sau cu infracțiuni grave, la adresa unui stat membru al Uniunii Europene sau a unei țări terțe; b) consimțământul prealabil nu poate fi obținut în timp util. (3) În situația în care aplică dispozițiile alin. (2) , UNIP informează fără întârziere UIP a statului membru al Uniunii Europene de la care provin datele PNR, iar transferul este înregistrat în mod corespunzător și face obiectul unei verificări ulterioare. (4) UNIP transferă date PNR autorităților competente din țările terțe numai în condițiile prezentei legi și numai după ce destinatarii notifică în scris faptul că intenționează să utilizeze datele PNR în conformitate cu condițiile și garanțiile prevăzute de prezenta lege. (5) Responsabilul cu protecția datelor în cadrul UNIP este informat de fiecare dată când UNIP transferă date PNR în temeiul prezentului articol."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 7-a - Schimbul de date PNR cu țări terțe",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Solicitarea de date PNR din țări terțe (1) UNIP are dreptul de a solicita și de a primi din partea unei entități similare dintr-o țară terță date PNR sau rezultatul oricărei prelucrări a datelor PNR, în cazul în care acest transfer este necesar pentru oricare dintre scopurile prevăzute la art. 18 , în baza tratatelor încheiate în acest sens de către România sau Uniunea Europeană cu respectiva țară terță. (2) UNIP utilizează datele primite de la entități similare din țări terțe potrivit art. 20-22 ."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Perioada de păstrare a datelor PNR și depersonalizarea (1) Datele PNR furnizate de transportatorii aerieni se păstrează în cadrul Sistemului de evidență a datelor PNR pentru o perioadă de 5 ani de la momentul finalizării transmisiunii active a respectivelor date PNR din sistemele transportatorilor aerieni în Sistemul de evidență a datelor PNR, denumit în continuare momentul furnizării. (2) La împlinea unui termen de 6 luni de la momentul furnizării datelor PNR de către transportatorii aerieni, acestea sunt depersonalizate prin mascarea următoarelor elemente de date: a) numele, inclusiv numele altor pasageri, precum și numărul pasagerilor care călătoresc împreună; b) adresa și informațiile de contact asociate rezervării; c) toate informațiile privind forma de plată, inclusiv adresa de facturare; d) informațiile din profilul „client fidel“; e) mențiunile cu caracter general prevăzute la art. 14 alin. (1) lit. l) ; f) orice date API care au fost colectate. (3) La împlinirea termenului prevăzut la alin. (1) , datele PNR din sistemul de evidență a datelor PNR se șterg în mod automat, printr-o procedură ireversibilă. (4) Dispozițiile alin. (3) nu afectează stocarea, de către autoritățile competente, a datelor PNR transferate la acestea de către UNIP și prelucrate în cazuri concrete în scopurile prevăzute la art. 18. Păstrarea datelor PNR de către autoritățile competente respectă regimul juridic aplicabil cazului concret în care au fost prelucrate. (5) Rezultatele prelucrării efectuate potrivit art. 20 alin. (1) lit. a) se păstrează de către UNIP numai pentru perioada necesară transferului acestora către autoritățile competente potrivit art. 22 alin. (2) sau către UIP ale celorlalte state membre potrivit art. 24 alin. (2) . (6) În cazul în care, ca urmare a reexaminării individuale prin mijloace neautomatizate potrivit art. 22 alin. (1) , se stabilește că rezultatul prelucrării efectuate potrivit art. 20 alin. (1) lit. a) nu este necesar a fi transferat autorităților competente pentru efectuarea unei examinări suplimentare, acesta poate fi stocat până la împlinirea termenului prevăzut la alin. (1) pentru datele PNR în cauză, pentru a fi folosit la identificarea facilă a viitoarelor rezultate care nu necesită o examinare suplimentară din partea autorităților competente."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul IV - Utilizarea datelor PNR | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Utilizarea datelor PNR după depersonalizarea prin mascarea unor elemente de date (1) După împlinirea termenului prevăzut la art. 30 alin. (2) , dezvăluirea datelor PNR complete este permisă numai dacă: a) există indicii că dezvăluirea datelor PNR complete este necesară în scopul prevăzut la art. 20 alin. (1) lit. b) ; b) dezvăluirea este aprobată de către inspectorul general al IGPF. (2) Inspectorul general al IGPF aprobă dezvăluirea datelor PNR complete în condițiile alin. (1) lit. a) și dacă responsabilul cu protecția datelor în cadrul UNIP a fost informat în prealabil cu privire la solicitarea dezvăluirii datelor PNR complete. (3) Aprobarea inspectorului general al IGPF este revizuită ulterior de către responsabilul cu protecția datelor în cadrul UNIP."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Desemnarea operatorului În sensul Regulamentului general privind protecția datelor și a legislației de punere în aplicare a acestuia se desemnează IGPF în calitate de operator pentru prelucrările efectuate în cadrul Sistemului de evidență a datelor PNR."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "Exercitarea drepturilor persoanei vizate în contextul prelucrării datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR (1) Drepturile persoanei vizate în contextul prelucrării datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR se exercită potrivit Regulamentului general privind protecția datelor și a legislației de punere în aplicare a acestuia, cu aplicarea prevederilor alin. (2)-(6) , precum și ale art. 24-28 din Legea nr. 238/2009 , republicată. (2) Cererile formulate în exercitarea drepturilor persoanelor vizate se adresează numai UNIP. O cerere este validă numai în situația în care persoana vizată face dovada identității în condițiile legii. (3) Pentru a comunica solicitantului informații cu privire la datele cu caracter personal prelucrate în cadrul Sistemului de evidență a datelor PNR, în situația prelucrărilor prevăzute la art. 24-29 , UNIP solicită, după caz, acordul autorităților competente către care au fost transferate datele, acordul EUROPOL sau acordul entității similare din străinătate care a furnizat datele. (4) Autoritățile competente comunică opțiunea în termen de 20 de zile de la data primirii solicitării din partea UNIP. (5) În situația în care entitatea similară din străinătate consultată potrivit alin. (3) nu comunică un răspuns în considerarea termenelor de răspuns la cererile persoanelor vizate, UNIP răspunde solicitantului fără a indica proveniența datelor. (6) În situația în care o entitate similară din străinătate solicită UNIP, în urma transmiterii unor date PNR, acordul pentru comunicarea unor informații solicitate de persoana vizată, UNIP comunică acordul în termen de 30 de zile de la primirea solicitării sau, după caz, în termenul indicat de entitatea solicitantă. Dacă datele au fost transferate unei autorități competente, înainte de a transmite răspunsul către entitatea similară din străinătate, UNIP consultă respectiva autoritate competentă indicând și eventualul termen precizat de entitatea solicitantă."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "Confidențialitatea și securitatea prelucrărilor (1) Asigurarea confidențialității și securității prelucrării datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR se realizează potrivit Regulamentului general privind protecția datelor și legislației de punere în aplicare a acestuia. (2) Este interzisă prelucrarea datelor PNR prin intermediul persoanelor împuternicite de către operator, în sensul Regulamentului general privind protecția datelor și a legislației de punere în aplicare a acestuia. (3) Operatorul prevăzut la art. 32 are obligația de a implementa măsuri tehnice și organizatorice adecvate în vederea asigurării unui nivel ridicat de securitate a datelor cu caracter personal prelucrate în cadrul Sistemului de evidență a datelor PNR, ținând seama de riscurile asociate prelucrării datelor PNR și de natura respectivelor date."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Interzicerea prelucrării categoriilor speciale de date cu caracter personal (1) Prelucrarea datelor PNR care dezvăluie originea rasială sau etnică, opiniile politice, religia sau convingerile filozofice, apartenența la un sindicat, sănătatea, viața sexuală sau orientarea sexuală este interzisă. (2) În cazul în care datele PNR transmise de transportatorii aerieni cuprind informații din categoriile prevăzute la alin. (1) , personalul UNIP șterge în mod ireversibil respectivele informații imediat după identificarea acestora în Sistemul de evidență a datelor PNR. (3) Prelucrarea datelor PNR după criterii legate de categoriile de informații prevăzute la alin. (1) este interzisă."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Evidența activităților de prelucrare (1) UNIP păstrează o evidență a tuturor categoriilor de activități de prelucrare a datelor PNR aflate în responsabilitatea sa. Această evidență cuprinde următoarele informații: a) numele și datele de contact ale instituției și ale personalului care are sarcina de a prelucra datele PNR și diferitele niveluri de autorizare a accesului; b) cererile depuse de autoritățile competente și UIP ale altor state membre; c) cererile de date PNR și transferurile de asemenea date către o țară terță. (2) Evidența prevăzută la alin. (1) se pune la dispoziția Autorității naționale de supraveghere, la cererea acesteia."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Trasabilitatea prelucrărilor (1) Sistemul de evidență a datelor PNR asigură trasabilitatea prelucrărilor efectuate la nivelul UNIP, astfel încât să fie posibilă identificarea personalului care a realizat activitățile de prelucrare și identificarea autorității competente care a avut acces la datele PNR și la rezultatele prelucrărilor realizate de către UNIP. (2) Sistemul de evidență a datelor PNR asigură cel puțin trasabilitatea operațiunilor de colectare, consultare, dezvăluire și ștergere. (3) Fișierul de trasabilitate generat de Sistemul de evidență a datelor PNR trebuie să conțină cel puțin următoarele informații: a) scopul prelucrării; b) data și ora operațiunilor de prelucrare; c) utilizatorul; d) destinatarul datelor PNR, atunci când este cazul; e) datele accesate și categoria de operațiune efectuată asupra datelor, potrivit Regulamentului general privind protecția datelor și legislației de punere în aplicare a acestuia. (4) Fișierele de trasabilitate generate de Sistemul de evidență a datelor PNR pot fi accesate doar pentru următoarele scopuri: a) verificarea și monitorizarea legalității efectuării prelucrărilor; b) asigurarea funcționării tehnice corespunzătoare a Sistemului de evidență a datelor PNR; c) asigurarea integrității și securității datelor PNR. (5) Utilizarea fișierelor de trasabilitate generate de către Sistemul de evidență a datelor PNR în alte scopuri decât cele prevăzute la alin. (4) este interzisă. (6) Fișierele de trasabilitate generate de către Sistemul de evidență a datelor PNR se păstrează pentru o perioadă de 5 ani și se pun la dispoziția Autorității naționale de supraveghere, la cererea acesteia."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "Verificarea calității datelor PNR transferate (1) În situația în care au fost transferate în condițiile prezentei legi date incorecte sau neactualizate, UNIP are obligația de a informa destinatarii respectivelor date asupra neconformității acestora, cu menționarea datelor care au fost modificate sau, dacă este cazul, cu precizarea că datele transmise trebuie rectificate, șterse ori restricționate la prelucrare. (2) În situația în care se constată că au fost transferate date PNR cu nerespectarea condițiilor impuse de prezenta lege, UNIP are obligația de a-i informa pe destinatarii acestor date, cu precizarea că datele transmise trebuie șterse de îndată. (3) În situația în care se constată că UNIP a primit date PNR incorecte ori neactualizate, datele se rectifică, se șterg sau, după caz, se blochează. Dacă transferul a fost realizat în mod eronat ori cu nerespectarea condițiilor impuse de prezenta lege, datele se șterg sau, după caz, se blochează de îndată. Entitatea care a transmis datele este informată cu privire la măsura adoptată și la motivul adoptării acesteia."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Notificarea Autorității naționale de supraveghere în cazul încălcării securității datelor (1) UNIP notifică Autoritatea națională de supraveghere de îndată, dar nu mai târziu de 24 de ore de la constatare, încălcarea securității datelor cu caracter personal din cadrul Sistemului de evidență a datelor PNR, cu excepția cazului în care încălcarea securității datelor nu este susceptibilă să genereze un risc la adresa drepturilor și libertăților persoanelor fizice. (2) În situația în care nu este posibilă notificarea în termenul prevăzut la alin. (1) , notificarea se transmite în termen de 72 de ore de la constatarea încălcării securității datelor, însoțită de o justificare a întârzierii. (3) Notificarea prevăzută la alin. (1) trebuie să conțină cel puțin următoarele informații: a) o descriere a caracterului încălcării securității datelor cu caracter personal prelucrate în cadrul Sistemului de evidență a datelor PNR, inclusiv, acolo unde este posibil, categoriile și numărul aproximativ de persoane vizate în cauză, precum și categoriile și numărul aproximativ de înregistrări de date cu caracter personal în cauză; b) numele și datele de contact ale responsabilului cu protecția datelor în cadrul UNIP sau un alt punct de contact de unde se pot obține mai multe informații; c) consecințele probabile ale încălcării securității datelor cu caracter personal; d) măsurile luate sau propuse de operator pentru a remedia încălcarea securității datelor cu caracter personal, inclusiv, dacă este cazul, măsuri pentru a atenua eventualele efecte adverse ale acesteia. (4) UNIP ține evidența tuturor cazurilor de încălcare a securității datelor cu caracter personal, inclusiv o descriere a situației în care a avut loc încălcarea securității datelor cu caracter personal, a efectelor acesteia și a măsurilor de remediere întreprinse. (5) În cazul în care încălcarea securității datelor implică date cu caracter personal care au fost transmise de un operator dintr-un alt stat membru sau către un astfel de operator, informațiile prevăzute la alin. (3) se comunică de îndată operatorului respectiv. (6) În cazul în care încălcarea securității datelor cu caracter personal este susceptibilă să genereze un risc ridicat pentru protecția datelor cu caracter personal sau la adresa drepturilor și libertăților persoanelor fizice, operatorul informează, de îndată, persoana vizată cu privire la încălcarea securității datelor cu caracter personal. (7) Informarea persoanei vizate, prevăzută la alin. (6) , nu este necesară în cazul în care este îndeplinită oricare dintre următoarele condiții: a) operatorul a pus în aplicare măsuri tehnologice și organizatorice adecvate de protecție, iar aceste măsuri au fost aplicate în cazul datelor cu caracter personal afectate de încălcarea securității datelor cu caracter personal, în special măsuri prin care se asigură că datele cu caracter personal devin neinteligibile oricărei persoane care nu este autorizată să le acceseze, cum ar fi criptarea; b) operatorul a luat măsuri ulterioare prin care se asigură că riscul ridicat la adresa drepturilor și libertăților persoanelor vizate nu mai este susceptibil să se materializeze; c) notificarea ar necesita un efort disproporționat; d) contactarea persoanei vizate nu este posibilă. (8) În cazul prevăzut la alin. (7) lit. c) informarea persoanei vizate se înlocuiește cu o informare publică sau o măsură similară prin care persoanele vizate sunt informate într-un mod la fel de eficace."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Obligațiile transportatorilor aerieni privind protecția datelor cu caracter personal (1) Prezenta lege nu poate fi interpretată în sensul modificării în orice fel a obligațiilor ce revin transportatorilor aerieni potrivit dispozițiilor legale din domeniul protecției datelor cu caracter personal aplicabile acestora. (2) În cadrul activităților necesare pentru transmiterea datelor PNR către UNIP, transportatorii aerieni rămân responsabili, în temeiul dispozițiilor legale din domeniul protecției datelor cu caracter personal aplicabile acestora, în ceea ce privește: a) adoptarea măsurilor tehnice și organizatorice necesare pentru asigurarea protejării datelor PNR împotriva distrugerii accidentale sau ilegale, pierderii, modificării, dezvăluirii sau accesului neautorizat, precum și împotriva oricărei altei forme de prelucrare ilegală; b) prelucrarea datelor PNR în mod legal, echitabil și transparent față de persoana vizată, inclusiv informarea pasagerilor, prealabilă colectării datelor PNR, cu privire la faptul că acestea sunt transmise către UNIP; c) colectarea datelor PNR în scopuri determinate, explicite și legitime și abținerea de la prelucrarea ulterioară într-un mod incompatibil cu aceste scopuri; d) colectarea de date PNR adecvate, relevante și limitate la ceea ce este necesar în raport cu scopurile în care sunt prelucrate; e) prelucrarea de date PNR exacte și actualizate; f) păstrarea datelor PNR într-o formă care permite identificarea persoanelor vizate pe o perioadă care nu depășește perioada necesară îndeplinirii scopurilor în care sunt prelucrate."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul V - Protecția datelor cu caracter personal | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Monitorizarea aplicării actului normativ (1) Prelucrarea datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR, inclusiv transferul acestor date în străinătate, este monitorizată și se supune controlului Autorității naționale de supraveghere. (2) Pentru realizarea monitorizării și controlului prevăzut la alin. (1) , Autoritatea națională de supraveghere îndeplinește următoarele atribuții: a) primește plângerile depuse de orice persoană vizată, investighează aspectele semnalate și informează persoanele vizate cu privire la evoluția și la soluționarea plângerilor lor; b) verifică legalitatea prelucrării datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR și desfășoară investigații în conformitate cu Regulamentul general privind protecția datelor și legislația de punere în aplicare a acestuia, fie din oficiu, fie pe baza unei plângeri; c) verifică respectarea modului de punere în aplicare a prevederilor art. 8 alin. (5) . (3) Autoritatea națională de supraveghere auditează sistematic operațiunile de prelucrare a datelor cu caracter personal efectuate la nivelul UNIP. (4) Autoritatea națională de supraveghere oferă consiliere oricărei persoane vizate, la cererea acesteia, cu privire la exercitarea drepturilor sale în contextul prelucrării datelor cu caracter personal în cadrul Sistemului de evidență a datelor PNR."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul VI - Regimul sancționator | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Contravenții și sancțiuni (1) Constituie contravenții, dacă nu sunt săvârșite în astfel de condiții încât să constituie infracțiuni, următoarele fapte: a) neîndeplinirea de către transportatorii aerieni a obligațiilor ce le revin potrivit art. 13 ; b) nerespectarea de către transportatorii aerieni a termenelor prevăzute la art. 15 ; c) neîndeplinirea de către transportatorii aerieni a obligațiilor ce le revin potrivit art. 16 alin. (1)-(3) . (2) Contravențiile prevăzute la alin. (1) se sancționează după cum urmează: a) cu amendă de la 25.000 lei la 50.000 lei, contravențiile prevăzute la lit. a) și c) ; b) cu amendă de la 10.000 lei la 25.000 lei, contravenția prevăzută la lit. b) . (3) Dacă, în decurs de un an de la data constatării și aplicării sancțiunii pentru una dintre faptele prevăzute la alin. (1) , transportatorul aerian săvârșește o nouă contravenție prevăzută de prezenta lege, limitele amenzilor prevăzute la alin. (2) se dublează. (4) Constatarea contravențiilor și aplicarea sancțiunilor se realizează după cum urmează: a) de către personalul din cadrul UNIP cu atribuții în acest scop, pentru contravențiile prevăzute la alin. (1) lit. a) și b) ; b) de către personalul Autorității naționale de supraveghere cu atribuții în acest scop, pentru contravenția prevăzută la alin. (1) lit. c) . (5) Contravențiilor prevăzute de prezenta lege le sunt aplicabile prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul VII - Evaluarea eficienței utilizării datelor PNR | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Date statistice (1) UNIP transmite anual Comisiei Europene un set de informații statistice privind utilizarea datelor PNR. Este interzis ca datele transmise Comisiei Europene să conțină date cu caracter personal. (2) Informațiile statistice includ cel puțin: a) numărul total de pasageri ale căror date din PNR au fost colectate și transferate; b) numărul de pasageri identificați pentru examinări suplimentare."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul VIII - Dispoziții tranzitorii și finale | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Dispoziții tranzitorii (1) Prezenta lege nu aduce atingere obligațiilor asumate, până la intrarea sa în vigoare, prin tratate încheiate cu țări terțe. (2) Tratatele încheiate cu alte state membre ale Uniunii Europene privind schimbul de informații dintre autoritățile competente, aflate în vigoare la data de 24 mai 2016, se aplică după intrarea în vigoare a prezentei legi, numai în măsura în care sunt compatibile cu dispozițiile acesteia. (3) Prezenta lege nu aduce atingere dispozițiilor care stabilesc obligațiile transportatorilor aerieni cu privire la protecția datelor cu caracter personal. (4) Documentele de cooperare încheiate în temeiul art. 9 alin. (6) din Ordonanța Guvernului nr. 13/2015 se aplică și după intrarea în vigoare a prezentei legi, numai în măsura în care sunt compatibile cu dispozițiile acesteia. (5) De la data intrării în vigoare a prezentei legi, datelor PNR preluate potrivit art. 19 alin. (1) li se aplică, în mod corespunzător, dispozițiile art. 30 și 31 . Momentul furnizării este considerat momentul transmiterii datelor PNR la UNIP de către transportatorii aerieni. (6) Datelor PNR preluate potrivit art. 19 alin. (1) , care au fost transmise la UNIP de către transportatorii aerieni în temeiul Ordonanței Guvernului nr. 13/2015 în urmă cu mai mult de 6 luni, li se aplică în mod corespunzător dispozițiile art. 30 alin. (2) , la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul VIII - Dispoziții tranzitorii și finale | Secţiunea a 8-a - Păstrarea datelor PNR",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Dispoziții finale (1) Hotărârea Guvernului prevăzută la art. 20 alin. (3) se adoptă în termen de 60 de zile de la data intrării în vigoare a prezentei legi. (2) La data intrării în vigoare a prezentei legi se abrogă Ordonanța Guvernului nr. 13/2015 privind utilizarea unor date din registrele cu numele pasagerilor în cadrul cooperării transfrontaliere pentru prevenirea și combaterea actelor de terorism, a infracțiunilor conexe acestora și a infracțiunilor contra securității naționale, precum și pentru prevenirea și înlăturarea amenințărilor la adresa securității naționale, publicată în Monitorul Oficial al României, Partea I, nr. 520 din 13 iulie 2015."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "transportator aerian",
+      "definition": "orice persoană fizică sau juridică, română sau străină, deținătoare a unui certificat de operator aerian în termen de valabilitate și, după caz, a unei licențe de operare, al cărei obiect de activitate îl reprezintă asigurarea transportului pasagerilor pe calea aerului",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "zbor extra",
+      "definition": "UE - orice zbor regulat sau neregulat al unui transportator aerian, cu punctul de plecare sau tranzit într-o țară terță, și planificat să aterizeze pe teritoriul României sau să decoleze de pe teritoriul României și planificat să aterizeze într-o țară terță, inclusiv zboruri pentru care sunt desemnate aeroporturi sau aerodromuri de rezervă situate pe teritoriul României",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "zbor intra",
+      "definition": "UE - orice zbor regulat sau neregulat al unui transportator aerian planificat să aterizeze pe teritoriul României, având punctul de plecare sau tranzit de pe teritoriul unui alt stat membru al Uniunii Europene, sau să decoleze de pe teritoriul României și planificat să aterizeze pe teritoriul unui alt stat membru al Uniunii Europene, în ambele cazuri, fără escală pe teritoriul unei țări terțe",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "pasager",
+      "definition": "orice persoană fizică, inclusiv persoanele aflate în transfer sau în tranzit, cu excepția membrilor echipajului, transportată sau care urmează să fie transportată într-o aeronavă cu consimțământul transportatorului aerian, acest consimțământ fiind exprimat prin înregistrarea persoanei respective pe lista pasagerilor",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "sistem de rezervare",
+      "definition": "sistemul intern al transportatorului aerian, în care datele PNR sunt colectate pentru gestionarea rezervărilor",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "metoda de tip push",
+      "definition": "metoda prin care transportatorii aerieni transferă datele PNR către UNIP, care presupune realizarea unei transmisiuni active de date din sistemele transportatorilor aerieni în Sistemul de evidență a datelor PNR",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "infracțiuni de terorism",
+      "definition": "infracțiunile prevăzute în Legea nr. 535/2004 privind prevenirea și combaterea terorismului, cu modificările și completările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "infracțiuni grave",
+      "definition": "infracțiunile pentru care pedeapsa prevăzută de lege este detențiunea pe viață sau închisoarea al cărei maxim special este de cel puțin 3 ani, corespunzătoare formelor de criminalitate prevăzute în anexa care face parte integrantă din prezenta lege",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "depersonalizare prin mascarea elementelor de date",
+      "definition": "acțiunea prin care acele elemente ale datelor PNR care ar putea servi la identificarea directă a unei persoane să nu fie vizibile pentru utilizatorii Sistemului de evidență a datelor PNR",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "date API",
+      "definition": "datele prevăzute la art. 3 alin. (1) din Ordonanța Guvernului nr. 34/2006 privind obligația transportatorilor aerieni de a comunica date despre pasageri, aprobată cu modificări și completări prin Legea nr. 452/2006",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "sistem de control al plecărilor",
+      "definition": "sistemul automat de înregistrare a pasagerilor, bagajelor și încărcăturii cargo, îmbarcate la bordul unei aeronave",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "autorități competente",
+      "definition": "autoritățile prevăzute la art. 11 alin. (1)",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "profilul „client fidel“",
+      "definition": "înregistrările cu privire la persoane fizice realizate de transportatorii aerieni în cadrul programelor de fidelitate derulate de către aceștia",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "coduri partajate",
+      "definition": "situația în care un zbor este efectuat în colaborare de 2 sau mai mulți transportatori aerieni.",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "colectarea datelor PNR în scopuri determinate, explicite și legitime și abținerea de la prelucrarea ulterioară într",
+      "definition": "un mod incompatibil cu aceste scopuri",
+      "source_provision": "Art.40"
+    },
+    {
+      "term": "păstrarea datelor PNR într",
+      "definition": "o formă care permite identificarea persoanelor vizate pe o perioadă care nu depășește perioada necesară îndeplinirii scopurilor în care sunt prelucrate.",
+      "source_provision": "Art.40"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-199035",
+  "type": "statute",
+  "title": "LEGE nr. 73 din 22 martie 2018",
+  "short_name": "lege 73 22 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-22",
+  "in_force_date": "2018-03-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/199035",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 73 22/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 7 din 23 ianuarie 201 3 privind instituirea impozitului asupra veniturilor suplimentare obținute ca urmare a dereglementării prețurilor din sectorul gazelor naturale, adoptată în temeiul art. 1 pct. I.3 din Legea nr. 1/2013 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 53 din 23 ianuarie 2013, cu următoarele modificări: 1. La articolul 2, alineatul (2) se modifică și va avea următorul cuprins: (2) Impozitul prevăzut la alin. (1) se calculează prin aplicarea unor procente de 60% și, respectiv, de 80% din veniturile suplimentare, așa cum acestea sunt determinate potrivit anexei care face parte integrantă din prezenta ordonanță, din care se deduc redevențele aferente acestor venituri, precum și investițiile în segmentul upstream. Procentele de calcul al impozitului sunt: a) 60% din venitul suplimentar pentru prețurile de până la 85 lei/MWh inclusiv; b) pentru prețurile care depășesc 85 lei/MWh se aplică un procent de 80% la venitul suplimentar obținut din diferența dintre 85 lei/MWh și prețul practicat. 2. Articolul 7 se abrogă. 3. Anexa se modifică și va avea următorul cuprins: ANEXĂ Formula de calcul pentru veniturile suplimentare În funcție de nivelul prețului se aplică următoarele formule de calcul: a) dacă PMPC este mai mic sau egal cu 85 lei/MWh, se aplică formula: Impozitul asupra veniturilor suplimentare datorat = 0,60 * (VS – redevența * VS – VI) VS = (PMPC – PRC) * VGC; b) dacă PMPC este mai mare de 85 lei/MWh, se aplică formula: Impozitul asupra veniturilor suplimentare datorat = IVS_1 + IVS_2, iar IVS_1 = 0,60* (VS_1 – redevența*VS_1 – VI) VS_1 = (85 – PRC) * VGC IVS_2 = 0,80* (VS_2 – redevența* VS_2) VS_2 = (PMPC – 85) * VGC, unde: VS - venitul suplimentar, calculat la PMPC de până la 85 lei/MWh; VS_1 - venitul suplimentar, calculat la PMPC de 85 lei/MWh; VS_2 - venitul suplimentar calculat la PMPC care depășește 85 lei/MWh; IVS_1 - impozitul asupra veniturilor suplimentare datorat, calculat la PMPC de 85 lei/MWh; IVS_2 - impozitul asupra veniturilor suplimentare datorat, calculat la PMPC care depășește 85 lei/MWh; VI - valoarea investițiilor în segmentul upstream în perioada pentru care impozitul asupra veniturilor suplimentare este datorat; PMPC - prețul mediu ponderat al gazelor naturale din producția internă proprie vândute; PRC - prețul de achiziție a gazelor naturale din producția internă pentru clienții casnici și noncasnici în anul 2012, respectiv 45,71 lei/MWh, ajustat cu rata IPC în anul 2014; VGC - volumele de gaze din producția internă vândute; IPC - indicele prețurilor de consum publicat de Institutul Național de Statistică din România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la data de 1 a lunii următoare publicării în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

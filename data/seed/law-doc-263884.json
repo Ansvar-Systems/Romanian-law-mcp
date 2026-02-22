@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-263884",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 11 ianuarie 2023",
+  "short_name": "lege 36 11 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-11",
+  "in_force_date": "2023-01-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263884",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 11/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea contabilității nr. 82/1991, republicată în Monitorul Oficial al României, Partea I, nr. 454 din 18 iunie 2008, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 23, alineatul (1) se modifică și va avea următorul cuprins: Articolul 23 (1) Persoanele prevăzute la art. 1 care utilizează sisteme informatice de prelucrare automată a datelor au obligația să asigure prelucrarea datelor înregistrate în contabilitate în conformitate cu reglementările contabile aplicabile, controlul și păstrarea acestora pe suporturi tehnice timp de 5 ani calculați de la data de 1 iulie a anului următor celui încheierii exercițiului financiar în care au fost întocmite. 2. Articolul 25 se modifică și va avea următorul cuprins: Articolul 25 Registrele de contabilitate obligatorii și documentele justificative care stau la baza înregistrărilor în contabilitatea financiară se păstrează în arhiva persoanelor prevăzute la art. 1 timp de 5 ani calculați de la data de 1 iulie a anului următor celui încheierii exercițiului financiar în care au fost întocmite, inclusiv pentru statele de salarii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale, republicată în Monitorul Oficial al României, Partea I, nr. 75 din 21 ianuarie 2005, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 3, alineatul (4) se modifică și va avea următorul cuprins: (4) Memoria fiscală este un dispozitiv unic inscriptibil din modulul fiscal, care trebuie să permită obligatoriu acumulări progresive ale datelor, fără ca acestea să poată fi modificate sau șterse, precum și conservarea în timp a acestora pe o perioadă de 5 ani. 2. La articolul 4, alineatele (8) și (9) se modifică și vor avea următorul cuprins: (8) Registrul special prevăzut la art. 1 alin. (8) și raportul fiscal de închidere zilnică sunt documente avute în vedere de către organele fiscale cu ocazia verificării veniturilor care stau la baza determinării impozitelor și taxelor datorate bugetului de stat. Registrul special prevăzut la art. 1 alin. (8), precum și rapoartele fiscale de închidere zilnică se arhivează și se păstrează pe o perioadă de 5 ani, calculați de la data de 1 iulie a anului următor celui încheierii exercițiului financiar în care au fost emise. Obligația privind arhivarea și păstrarea raportului fiscal de închidere zilnică pe o perioadă de 5 ani nu se aplică operatorilor economici care utilizează aparate de marcat electronice fiscale care, potrivit dispozițiilor art. 3 alin. (2^1), nu înglobează constructiv dispozitivul de imprimare. (9) Operatorii economici care utilizează aparate de marcat electronice fiscale definite la art. 3 alin. (1) și (2), la umplerea memoriei fiscale, atunci când aceasta trebuie înlocuită ca urmare a defectării, ori când nu mai poate fi folosită de către utilizatori din diverse motive, precum și în cazul în care aceștia își încetează activitatea, sunt obligați să asigure păstrarea și arhivarea memoriilor fiscale pentru o perioadă de 5 ani calculați de la data de 1 iulie a anului următor celui încheierii exercițiului financiar în care au fost întocmite."
+    }
+  ],
+  "definitions": []
+}

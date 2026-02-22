@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-234426",
+  "type": "statute",
+  "title": "LEGE nr. 285 din 8 decembrie 2020",
+  "short_name": "lege 285 08 12 2020",
+  "status": "in_force",
+  "issued_date": "2020-12-08",
+  "in_force_date": "2020-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/234426",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 285 08/12/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 41 din 12 iunie 2019 privind stabilirea unor măsuri în vederea implementării activităților de evaluare necesare pentru aprobarea substanțelor active ale produselor biocide și pentru autorizarea produselor biocide, publicată în Monitorul Oficial al României, Partea I, nr. 483 din 13 iunie 2019."
+    }
+  ],
+  "definitions": []
+}

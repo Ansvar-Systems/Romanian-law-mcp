@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172374",
+  "type": "statute",
+  "title": "LEGE nr. 244 din 26 octombrie 2015",
+  "short_name": "lege 244 26 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-26",
+  "in_force_date": "2015-10-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172374",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 244 26/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 13 din 20 mai 2015 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale pentru Achiziţii Publice, publicată în Monitorul Oficial al României, Partea I, nr. 362 din 26 mai 2015."
+    }
+  ],
+  "definitions": []
+}

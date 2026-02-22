@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-106020",
+  "type": "statute",
+  "title": "LEGE nr. 177 din 13 mai 2009",
+  "short_name": "lege 177 13 05 2009",
+  "status": "in_force",
+  "issued_date": "2009-05-13",
+  "in_force_date": "2009-05-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/106020",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 177 13/05/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 3 din 22 ianuarie 2009 privind unele măsuri fiscale în domeniul taxelor consulare, adoptată în temeiul art. 1 pct. I.14 din Legea nr. 306/2008 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 60 din 30 ianuarie 2009, cu următoarea completare: – La articolul I, după punctul 3 se introduce un nou punct, punctul 4, cu următorul cuprins: 4. În anexă, după punctul 3 din notă se introduce un nou punct, punctul 4, cu următorul cuprins: 4. Taxa stabilită la pct. 3 al lit. B din anexa nr. 1 la Ordonanța Guvernului nr. 24/1992 privind stabilirea serviciilor consulare și a taxelor percepute pentru prestarea acestora, aprobată cu modificări prin Legea nr. 89/1993 , cu modificările și completările ulterioare, privind prelungirea dreptului de ședere temporară a cetățenilor străini, inclusiv în cazul prelungirii dreptului de ședere temporară a fiecărei persoane incluse în pașaportul titularului, se percepe în același cuantum cu cel prevăzut pentru taxa de la pct. 4 al lit. B din tabel, echivalentul în lei, raportat la cursul oficial al Băncii Naționale a României la data efectuării plății, fără a se percepe nicio altă taxă suplimentară."
+    }
+  ],
+  "definitions": []
+}

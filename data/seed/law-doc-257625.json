@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257625",
+  "type": "statute",
+  "title": "LEGE nr. 219 din 15 iulie 2022",
+  "short_name": "lege 219 15 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-15",
+  "in_force_date": "2022-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257625",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 219 15/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 115 din 4 octombrie 2021 pentru completarea Legii nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, publicată în Monitorul Oficial al României, Partea I, nr. 950 din 5 octombrie 2021."
+    }
+  ],
+  "definitions": []
+}

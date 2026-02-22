@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277286",
+  "type": "statute",
+  "title": "LEGE nr. 392 din 12 decembrie 2023",
+  "short_name": "lege 392 12 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-12",
+  "in_force_date": "2023-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277286",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 392 12/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 171 din 8 decembrie 2022 pentru accelerarea implementării proiectelor de infrastructură finanțate din fonduri externe nerambursabile, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 1193 din 12 decembrie 2022, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

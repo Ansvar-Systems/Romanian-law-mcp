@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208304",
+  "type": "statute",
+  "title": "LEGE nr. 285 din 29 noiembrie 2018",
+  "short_name": "lege 285 29 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-29",
+  "in_force_date": "2018-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208304",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 285 29/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 453 din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, litera b) se modifică și va avea următorul cuprins: b) clădire - orice construcție situată deasupra solului și/sau sub nivelul acestuia, indiferent de denumirea ori de folosința sa, și care are una sau mai multe încăperi ce pot servi la adăpostirea de oameni, animale, obiecte, produse, materiale, instalații, echipamente și altele asemenea, iar elementele structurale de bază ale acesteia sunt pereții și acoperișul, indiferent de materialele din care sunt construite, inclusiv construcțiile reprezentând turnurile de susținere a turbinelor eoliene;"
+    }
+  ],
+  "definitions": []
+}

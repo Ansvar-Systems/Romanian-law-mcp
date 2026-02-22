@@ -1,0 +1,860 @@
+{
+  "id": "law-doc-801",
+  "type": "statute",
+  "title": "LEGEA nr. 32 din 16 noiembrie 1990",
+  "short_name": "lege 32 16 11 1990",
+  "status": "in_force",
+  "issued_date": "1990-11-16",
+  "in_force_date": "1990-11-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/801",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 16/11/1990",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "pentru modificarea şi completarea unor dispoziţii ale Codului de procedura penală"
+    },
+    {
+      "provision_ref": "Par.2",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "Parlamentul României adopta prezenta lege."
+    },
+    {
+      "provision_ref": "Par.3",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "Codul de procedură penală se modifica şi se completează după cum urmează:"
+    },
+    {
+      "provision_ref": "Par.1-4",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "1. Articolul 5 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.5",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "\"Garantarea libertăţii persoanei"
+    },
+    {
+      "provision_ref": "Par.6",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "Art. 5. - În tot cursul procesului penal este garantată libertatea persoanei."
+    },
+    {
+      "provision_ref": "Par.7",
+      "section": "7",
+      "title": "Paragraful 7",
+      "content": "Nici o persoană nu poate fi reţinută sau arestata şi nici nu poate fi supusă vreunei forme de restringere a libertăţii decît în cazurile şi în condiţiile prevăzute de lege."
+    },
+    {
+      "provision_ref": "Par.8",
+      "section": "8",
+      "title": "Paragraful 8",
+      "content": "Dacă cel împotriva căruia s-a luat măsura arestării preventive sau o măsura de restringere a libertăţii considera ca aceasta este ilegala, are dreptul, în tot cursul procesului, să se adreseze instanţei competente, potrivit legii."
+    },
+    {
+      "provision_ref": "Par.9",
+      "section": "9",
+      "title": "Paragraful 9",
+      "content": "Orice persoană împotriva căreia s-a luat ilegal o măsura preventivă are dreptul la repararea pagubei suferite, în condiţiile prevăzute de lege."
+    },
+    {
+      "provision_ref": "Par.10",
+      "section": "10",
+      "title": "Paragraful 10",
+      "content": "În tot cursul procesului penal, invinuitul sau inculpatul arestat preventiv poate cere punerea în libertate provizorie, sub control judiciar sau pe cauţiune.\""
+    },
+    {
+      "provision_ref": "Par.2-11",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "2. După articolul 5 se introduce articolul 5^1, cu următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.12",
+      "section": "12",
+      "title": "Paragraful 12",
+      "content": "\"Respectarea demnităţii umane"
+    },
+    {
+      "provision_ref": "Par.13",
+      "section": "13",
+      "title": "Paragraful 13",
+      "content": "Art. 5^1. - Orice persoană care se afla în curs de urmărire penală sau de judecată trebuie tratata cu respectarea demnităţii umane. Supunerea acesteia la tortura sau la tratamente cu cruzime, inumane ori degradante este pedepsita prin lege.\""
+    },
+    {
+      "provision_ref": "Par.3-14",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "3. Articolul 6 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.15",
+      "section": "15",
+      "title": "Paragraful 15",
+      "content": "\"Garantarea dreptului de apărare"
+    },
+    {
+      "provision_ref": "Par.16",
+      "section": "16",
+      "title": "Paragraful 16",
+      "content": "Art. 6. - Dreptul de apărare este garantat învinuitului, inculpatului şi celorlalte părţi în tot cursul procesului penal."
+    },
+    {
+      "provision_ref": "Par.17",
+      "section": "17",
+      "title": "Paragraful 17",
+      "content": "În cursul procesului penal, organele judiciare sînt obligate să asigure părţilor deplina exercitare a drepturilor procesuale în condiţiile prevăzute de lege şi sa administreze probele necesare în apărare."
+    },
+    {
+      "provision_ref": "Par.18",
+      "section": "18",
+      "title": "Paragraful 18",
+      "content": "Organele judiciare au obligaţia sa încunoştiinţeze pe invinuit sau pe inculpat despre fapta pentru care este invinuit, încadrarea juridică a acesteia şi să-i asigure posibilitatea pregătirii şi exercitării apărării."
+    },
+    {
+      "provision_ref": "Par.19",
+      "section": "19",
+      "title": "Paragraful 19",
+      "content": "Orice parte are dreptul să fie asistată de apărător în tot cursul procesului penal."
+    },
+    {
+      "provision_ref": "Par.20",
+      "section": "20",
+      "title": "Paragraful 20",
+      "content": "Organele judiciare au obligaţia sa încunoştiinţeze pe invinuit sau inculpat, înainte de a i se lua prima declaraţie, despre dreptul de a fi asistat de un apărător, consemnindu-se aceasta în procesul-verbal de ascultare. În condiţiile şi în cazurile prevăzute de lege, organele judiciare sînt obligate sa ia măsuri pentru asigurarea asistenţei juridice a învinuitului sau inculpatului, dacă acesta nu are apărător ales.\""
+    },
+    {
+      "provision_ref": "Par.4",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "4. La articolul 136 se introduce un alineat final, cu următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.22",
+      "section": "22",
+      "title": "Paragraful 22",
+      "content": "\"Cînd se dispune arestarea preventivă a învinuitului sau inculpatului, procurorul sau instanţa de judecată încunoştinţează despre aceasta, în termen de 24 de ore, un membru din familia acestuia ori o altă persoană pe care o desemnează invinuitul sau inculpatul, consemnindu-se aceasta într-un proces-verbal.\""
+    },
+    {
+      "provision_ref": "Par.5-23",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "5. După articolul 140 se introduce articolul 140^1, cu următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.24",
+      "section": "24",
+      "title": "Paragraful 24",
+      "content": "\"Plîngerea împotriva măsurilor preventive luate de procuror"
+    },
+    {
+      "provision_ref": "Par.25",
+      "section": "25",
+      "title": "Paragraful 25",
+      "content": "Art. 140^1. - Împotriva ordonanţei de arestare preventivă sau a aceleia de obligare de a nu părăsi localitatea se poate face plîngere la instanţa căreia i-ar reveni competenţa sa judece cauza în fond."
+    },
+    {
+      "provision_ref": "Par.26",
+      "section": "26",
+      "title": "Paragraful 26",
+      "content": "Plîngerea împreună cu dosarul cauzei va fi trimisa instanţei prevăzute la alin. 1, în termen de 24 de ore, iar invinuitul sau inculpatul arestat va fi adus în faţa instanţei şi va fi asistat de apărător."
+    },
+    {
+      "provision_ref": "Par.27",
+      "section": "27",
+      "title": "Paragraful 27",
+      "content": "Plîngerea se va cerceta în camera de consiliu."
+    },
+    {
+      "provision_ref": "Par.28",
+      "section": "28",
+      "title": "Paragraful 28",
+      "content": "Instanţa se pronunţa în aceeaşi zi, prin încheiere definitivă, asupra legalităţii măsurii, după ascultarea învinuitului sau a inculpatului."
+    },
+    {
+      "provision_ref": "Par.29",
+      "section": "29",
+      "title": "Paragraful 29",
+      "content": "Participarea procurorului este obligatorie."
+    },
+    {
+      "provision_ref": "Par.30",
+      "section": "30",
+      "title": "Paragraful 30",
+      "content": "Cînd considera ca măsura preventivă luată este ilegala, instanţa dispune revocarea arestării şi punerea în libertate a învinuitului sau a inculpatului ori, după caz, revocarea măsurii obligatorii de a nu părăsi localitatea.\""
+    },
+    {
+      "provision_ref": "Par.6-31",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "6. Articolul 155 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.32",
+      "section": "32",
+      "title": "Paragraful 32",
+      "content": "\"Prelungirea duratei arestării inculpatului de către procuror"
+    },
+    {
+      "provision_ref": "Par.33",
+      "section": "33",
+      "title": "Paragraful 33",
+      "content": "Art. 155. - Durata arestării inculpatului poate fi prelungită în caz de necesitate şi numai motivat."
+    },
+    {
+      "provision_ref": "Par.34",
+      "section": "34",
+      "title": "Paragraful 34",
+      "content": "Prelungirea duratei arestării inculpatului poate fi dispusă de procurorul şef al unităţii de procuratura în cadrul căreia funcţionează procurorul care exercită supravegherea cercetării penale sau care efectuează urmărirea penală. Prelungirea poate fi dispusă o singură dată, cu cel mult 30 de zile."
+    },
+    {
+      "provision_ref": "Par.35",
+      "section": "35",
+      "title": "Paragraful 35",
+      "content": "În cazul cînd mandatul de arestare a fost emis de procurorul şef al unităţii de procuratura în cadrul căreia se exercită supravegherea cercetării penale, prelungirea prevăzută în alineatul precedent se dispune de procurorul şef al unităţii ierarhic superioare."
+    },
+    {
+      "provision_ref": "Par.36",
+      "section": "36",
+      "title": "Paragraful 36",
+      "content": "Dacă mandatul de arestare a fost emis de un procuror din Procuratura Generală, prelungirea prevăzută în alin. 2 se dispune de procurorul ierarhic superior.\""
+    },
+    {
+      "provision_ref": "Par.7-37",
+      "section": "7",
+      "title": "Paragraful 7",
+      "content": "7. Articolul 158 alineatele 1 şi 2 vor avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.38",
+      "section": "38",
+      "title": "Paragraful 38",
+      "content": "\"În cazul cînd durata arestării preventive a fost prelungită, procurorul care a dispus prelungirea, primind propunerea întocmită potrivit art. 156, cu cel puţin 8 zile înainte de expirarea duratei arestării, dacă apreciază că nu este cazul ca inculpatul să fie pus în libertate, sesizează, cu cel puţin 5 zile înainte de expirarea prelungirii, instanţa căreia i-ar reveni competenţa sa judece cauza în fond."
+    },
+    {
+      "provision_ref": "Par.39",
+      "section": "39",
+      "title": "Paragraful 39",
+      "content": "Dacă prelungirea a fost dispusă de procurorul de la unitatea de procuratura ierarhic inferioară celei corespunzătoare instanţei competente sa judece cauza în fond, acesta, dacă apreciază că nu este cazul ca inculpatul să fie pus în libertate, înaintează propunerea, în termen de 24 de ore, procurorului de la unitatea ierarhic superioară, care, dacă o socoteşte intemeiata, sesizează instanţa.\""
+    },
+    {
+      "provision_ref": "Par.8-40",
+      "section": "8",
+      "title": "Paragraful 8",
+      "content": "8. Articolul 159 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.41",
+      "section": "41",
+      "title": "Paragraful 41",
+      "content": "\"Procedura prelungirii arestării de către instanţa"
+    },
+    {
+      "provision_ref": "Par.42",
+      "section": "42",
+      "title": "Paragraful 42",
+      "content": "Art. 159. - Instanţa sesizată fixează termen de înfăţişare înainte de expirarea duratei mandatului."
+    },
+    {
+      "provision_ref": "Par.43",
+      "section": "43",
+      "title": "Paragraful 43",
+      "content": "Completul de judecată va fi prezidat de preşedintele instanţei sau de un judecător desemnat de acesta, iar participarea procurorului este obligatorie."
+    },
+    {
+      "provision_ref": "Par.44",
+      "section": "44",
+      "title": "Paragraful 44",
+      "content": "Dosarul cauzei va fi depus de către procuror cu cel puţin 2 zile înainte de termen şi va putea fi consultat de către apărător la cererea acestuia."
+    },
+    {
+      "provision_ref": "Par.45",
+      "section": "45",
+      "title": "Paragraful 45",
+      "content": "Inculpatul este adus în faţa instanţei şi va fi asistat de apărător."
+    },
+    {
+      "provision_ref": "Par.46",
+      "section": "46",
+      "title": "Paragraful 46",
+      "content": "În cazul în care instanţa acorda prelungirea, aceasta nu va putea depăşi 30 de zile."
+    },
+    {
+      "provision_ref": "Par.47",
+      "section": "47",
+      "title": "Paragraful 47",
+      "content": "Încheierea prin care s-a hotărît asupra prelungirii nu este supusă recursului. Măsura se comunică administraţiei locului de deţinere, care este obligată sa o aducă la cunoştinţa inculpatului."
+    },
+    {
+      "provision_ref": "Par.48",
+      "section": "48",
+      "title": "Paragraful 48",
+      "content": "Instanţa poate acorda şi alte prelungiri, fiecare neputind depăşi 30 de zile. Dispoziţiile alineatelor precedente şi ale art. 158 se aplică în mod corespunzător.\""
+    },
+    {
+      "provision_ref": "Par.9-49",
+      "section": "9",
+      "title": "Paragraful 9",
+      "content": "9. Articolul 160 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.50",
+      "section": "50",
+      "title": "Paragraful 50",
+      "content": "\"Procedura în cauzele cu mai mulţi inculpaţi arestaţi"
+    },
+    {
+      "provision_ref": "Par.51",
+      "section": "51",
+      "title": "Paragraful 51",
+      "content": "Art. 160. - Cînd în aceeaşi cauza se găsesc mai mulţi inculpaţi arestaţi, pentru care durata prelungirii arestării expira la date diferite, procurorul şef sau, după caz, procurorul ierarhic superior, care sesizează instanţa potrivit art. 158 pentru unul din inculpaţi, va sesiza, totodată, instanţa şi cu privire la ceilalţi inculpaţi.\""
+    },
+    {
+      "provision_ref": "Par.10-52",
+      "section": "10",
+      "title": "Paragraful 10",
+      "content": "10. După articolul 160 se introduce o secţiune noua, secţiunea V, cu următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.53",
+      "section": "53",
+      "title": "Paragraful 53",
+      "content": "\"Secţiunea V"
+    },
+    {
+      "provision_ref": "Par.54",
+      "section": "54",
+      "title": "Paragraful 54",
+      "content": "Liberarea provizorie sub control judiciar şi liberarea provizorie pe cauţiune"
+    },
+    {
+      "provision_ref": "Par.55",
+      "section": "55",
+      "title": "Paragraful 55",
+      "content": "Modalităţile liberării provizorii"
+    },
+    {
+      "provision_ref": "Par.56",
+      "section": "56",
+      "title": "Paragraful 56",
+      "content": "Art. 160^1. - În tot cursul procesului penal, inculpatul arestat preventiv poate cere punerea sa în libertate provizorie, sub control judiciar sau pe cauţiune."
+    },
+    {
+      "provision_ref": "Par.57",
+      "section": "57",
+      "title": "Paragraful 57",
+      "content": "amp; 1. Liberarea provizorie sub control judiciar"
+    },
+    {
+      "provision_ref": "Par.58",
+      "section": "58",
+      "title": "Paragraful 58",
+      "content": "Condiţiile liberării"
+    },
+    {
+      "provision_ref": "Par.59",
+      "section": "59",
+      "title": "Paragraful 59",
+      "content": "Art. 160^2. - Liberarea provizorie sub control judiciar se poate acorda în cazul infracţiunilor săvîrşite din culpa, precum şi al infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii care nu depăşeşte 7 ani."
+    },
+    {
+      "provision_ref": "Par.60",
+      "section": "60",
+      "title": "Paragraful 60",
+      "content": "Liberarea provizorie sub control judiciar nu se acordă în cazul în care inculpatul este recidivist ori exista date care justifica temerea ca va savirsi o alta infracţiune."
+    },
+    {
+      "provision_ref": "Par.61",
+      "section": "61",
+      "title": "Paragraful 61",
+      "content": "Organul judiciar dispune ca, pe timpul liberării provizorii, inculpatul să respecte una sau mai multe din următoarele obligaţii:"
+    },
+    {
+      "provision_ref": "Par.62",
+      "section": "62",
+      "title": "Paragraful 62",
+      "content": "Ridicarea controlului judiciar"
+    },
+    {
+      "provision_ref": "Par.63",
+      "section": "63",
+      "title": "Paragraful 63",
+      "content": "Art. 160^3. - Controlul judiciar instituit de către procuror sau instanţa poate fi ridicat oricînd, în totul sau în parte, pentru motive temeinice."
+    },
+    {
+      "provision_ref": "Par.64",
+      "section": "64",
+      "title": "Paragraful 64",
+      "content": "amp; 2. Liberarea provizorie pe cauţiune"
+    },
+    {
+      "provision_ref": "Par.65",
+      "section": "65",
+      "title": "Paragraful 65",
+      "content": "Condiţiile liberării"
+    },
+    {
+      "provision_ref": "Par.66",
+      "section": "66",
+      "title": "Paragraful 66",
+      "content": "Art. 160^4. - Liberarea provizorie pe cauţiune se poate acorda, la cerere, cînd este asigurata repararea pagubei produse prin infracţiune şi s-a depus cauţiunea stabilită de organul judiciar competent."
+    },
+    {
+      "provision_ref": "Par.67",
+      "section": "67",
+      "title": "Paragraful 67",
+      "content": "Pe timpul liberării provizorii, inculpatul este obligat să se prezinte la chemarea organelor judiciare şi sa comunice orice schimbare de domiciliu sau reşedinţa."
+    },
+    {
+      "provision_ref": "Par.68",
+      "section": "68",
+      "title": "Paragraful 68",
+      "content": "Liberarea provizorie pe cauţiune nu se acordă în cazul săvîrşirii infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 7 ani sau cînd inculpatul este recidivist ori exista date care justifica temerea ca va savirsi o alta infracţiune."
+    },
+    {
+      "provision_ref": "Par.69",
+      "section": "69",
+      "title": "Paragraful 69",
+      "content": "Cauţiunea"
+    },
+    {
+      "provision_ref": "Par.70",
+      "section": "70",
+      "title": "Paragraful 70",
+      "content": "Art. 160^5. - Cauţiunea garantează respectarea de către inculpat a obligaţiilor ce-i revin în timpul liberării provizorii."
+    },
+    {
+      "provision_ref": "Par.71",
+      "section": "71",
+      "title": "Paragraful 71",
+      "content": "Cuantumul cauţiunii este de la 10.000 la 100.000 lei."
+    },
+    {
+      "provision_ref": "Par.72",
+      "section": "72",
+      "title": "Paragraful 72",
+      "content": "Consemnarea cauţiunii se face pe numele inculpatului şi la dispoziţia organului care a stabilit cuantumul acesteia."
+    },
+    {
+      "provision_ref": "Par.73",
+      "section": "73",
+      "title": "Paragraful 73",
+      "content": "Cauţiunea se restituie cînd:"
+    },
+    {
+      "provision_ref": "Par.74",
+      "section": "74",
+      "title": "Paragraful 74",
+      "content": "Cauţiunea nu se restituie, în cazul prevăzut la lit. e), cînd liberarea provizorie s-a revocat potrivit dispoziţiilor art. 160^10 alin. 1 lit. b). Cauţiunea se face venit la bugetul statului la rămînerea definitivă a hotărîrii de condamnare."
+    },
+    {
+      "provision_ref": "Par.75",
+      "section": "75",
+      "title": "Paragraful 75",
+      "content": "În cazurile prevăzute la lit. b)-e) se dispune şi încetarea stării de liberare provizorie."
+    },
+    {
+      "provision_ref": "Par.76",
+      "section": "76",
+      "title": "Paragraful 76",
+      "content": "Cererea de liberare provizorie şi organul competent sa o rezolve"
+    },
+    {
+      "provision_ref": "Par.77",
+      "section": "77",
+      "title": "Paragraful 77",
+      "content": "Art. 160^6. - Cererea de liberare provizorie poate fi facuta în cursul urmăririi penale, precum şi în cursul judecaţii, pînă la terminarea cercetării judecătoreşti la prima instanţa, de către inculpat, soţul acestuia, rudele apropiate."
+    },
+    {
+      "provision_ref": "Par.78",
+      "section": "78",
+      "title": "Paragraful 78",
+      "content": "Cererea poate fi facuta şi în cazul în care s-a dispus rejudecarea cauzei de către instanţa de recurs pentru administrarea de noi probe sau cînd s-a dispus rejudecarea cauzei de către instanţa a carei hotărîre a fost casată."
+    },
+    {
+      "provision_ref": "Par.79",
+      "section": "79",
+      "title": "Paragraful 79",
+      "content": "Cererea trebuie să cuprindă numele, prenumele, domiciliul şi calitatea persoanei care o face, precum şi menţiunea cunoaşterii dispoziţiilor legii privitoare la cazurile de revocare a liberării provizorii."
+    },
+    {
+      "provision_ref": "Par.80",
+      "section": "80",
+      "title": "Paragraful 80",
+      "content": "În cazul liberării provizorii pe cauţiune, cererea trebuie să cuprindă şi obligaţia depunerii cauţiunii şi menţiunea cunoaşterii dispoziţiilor legii privind cazurile de nerestituire a cauţiunii."
+    },
+    {
+      "provision_ref": "Par.81",
+      "section": "81",
+      "title": "Paragraful 81",
+      "content": "Competenţa de rezolvare a cererii revine, în cursul urmăririi penale, după caz, procurorului care efectuează urmărirea penală sau procurorului care exercită supravegherea cercetării penale, iar în cursul judecaţii, instanţei sesizate cu judecarea cauzei."
+    },
+    {
+      "provision_ref": "Par.82",
+      "section": "82",
+      "title": "Paragraful 82",
+      "content": "Cererea depusa la organul de cercetare penală ori la administraţia locului de deţinere se înaintează, în termen de 24 de ore, procurorului sau instanţei competente, după cum cauza se afla în curs de urmărire penală sau de judecată."
+    },
+    {
+      "provision_ref": "Par.83",
+      "section": "83",
+      "title": "Paragraful 83",
+      "content": "Măsurile premergătoare examinării cererii"
+    },
+    {
+      "provision_ref": "Par.84",
+      "section": "84",
+      "title": "Paragraful 84",
+      "content": "Art. 160^7. - Procurorul sau instanţa verifica dacă cererea de liberare provizorie cuprinde menţiunile prevăzute la art. 160^6 alin. 3 şi 4 şi, dacă este cazul, ia măsuri pentru completarea acesteia. Cînd cererea este depusa la instanţa înaintea termenului de judecată, aceste obligaţii revin preşedintelui instanţei, care procedează şi la încunoştinţarea petitionarului despre termenul de judecare a cererii."
+    },
+    {
+      "provision_ref": "Par.85",
+      "section": "85",
+      "title": "Paragraful 85",
+      "content": "Cînd cererea este facuta de către o altă persoană decît inculpatul, din cele arătate în art. 160^6 alin. 1, organul competent sa o rezolve întreabă pe inculpat dacă îşi însuşeşte cererea, iar declaraţia acestuia se consemnează pe cerere."
+    },
+    {
+      "provision_ref": "Par.86",
+      "section": "86",
+      "title": "Paragraful 86",
+      "content": "Examinarea şi admiterea cererii"
+    },
+    {
+      "provision_ref": "Par.87",
+      "section": "87",
+      "title": "Paragraful 87",
+      "content": "Art. 160^8. - Procurorul sau instanţa examinează de urgenta cererea, verificind dacă sînt îndeplinite condiţiile prevăzute de lege pentru admisibilitatea acesteia."
+    },
+    {
+      "provision_ref": "Par.88",
+      "section": "88",
+      "title": "Paragraful 88",
+      "content": "În cazul cererii de liberare pe cauţiune, dacă procurorul sau instanţa constata ca sînt îndeplinite condiţiile prevăzute de lege, stabileşte cuantumul cauţiunii şi încunoştinţează despre aceasta persoana care a făcut cererea. După depunerea dovezii de consemnare a cauţiunii, procurorul soluţionează cererea, iar instanţa fixează termenul pentru judecare."
+    },
+    {
+      "provision_ref": "Par.89",
+      "section": "89",
+      "title": "Paragraful 89",
+      "content": "Soluţionarea cererii de către instanţa se face după ascultarea inculpatului şi a concluziilor aparatorului acestuia, precum şi ale procurorului."
+    },
+    {
+      "provision_ref": "Par.90",
+      "section": "90",
+      "title": "Paragraful 90",
+      "content": "În cazul în care constata ca sînt îndeplinite condiţiile prevăzute de lege şi cererea este intemeiata, procurorul sau instanţa admite cererea şi dispune punerea în libertate provizorie a inculpatului."
+    },
+    {
+      "provision_ref": "Par.91",
+      "section": "91",
+      "title": "Paragraful 91",
+      "content": "Soluţionarea cererii se face de către procuror, prin ordonanţa, iar de către instanţa prin încheiere."
+    },
+    {
+      "provision_ref": "Par.92",
+      "section": "92",
+      "title": "Paragraful 92",
+      "content": "Încheierea instanţei nu este supusă recursului."
+    },
+    {
+      "provision_ref": "Par.93",
+      "section": "93",
+      "title": "Paragraful 93",
+      "content": "Prin ordonanţa procurorului sau încheierea instanţei, în cazul admiterii cererii de liberare provizorie sub control judiciar, se stabilesc şi obligaţiile ce urmează a fi respectate de inculpat."
+    },
+    {
+      "provision_ref": "Par.94",
+      "section": "94",
+      "title": "Paragraful 94",
+      "content": "Copie de pe ordonanţa sau de pe dispozitivul încheierii, ori un extras al acesteia, se trimite administraţiei locului de deţinere, precum şi organului de poliţie în a cărui raza teritorială locuieşte inculpatul. Persoanele interesate se încunoştinţează."
+    },
+    {
+      "provision_ref": "Par.95",
+      "section": "95",
+      "title": "Paragraful 95",
+      "content": "Administraţia locului de deţinere este obligată sa ia măsuri pentru punerea de îndată în libertate a inculpatului."
+    },
+    {
+      "provision_ref": "Par.96",
+      "section": "96",
+      "title": "Paragraful 96",
+      "content": "Respingerea cererii de liberare provizorie"
+    },
+    {
+      "provision_ref": "Par.97",
+      "section": "97",
+      "title": "Paragraful 97",
+      "content": "Art. 160^9. - În cazul în care nu sînt îndeplinite condiţiile prevăzute de lege, cînd cererea este neîntemeiată sau cînd aceasta a fost facuta de către o altă persoană şi nu a fost însuşită de inculpat, procurorul sau instanţa respinge cererea."
+    },
+    {
+      "provision_ref": "Par.98",
+      "section": "98",
+      "title": "Paragraful 98",
+      "content": "Împotriva ordonanţei procurorului se poate face plîngere la instanţa căreia i-ar reveni competenţa sa judece cauza."
+    },
+    {
+      "provision_ref": "Par.99",
+      "section": "99",
+      "title": "Paragraful 99",
+      "content": "Dispoziţiile art. 160^8 se aplică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Par.100",
+      "section": "100",
+      "title": "Paragraful 100",
+      "content": "Revocarea liberării"
+    },
+    {
+      "provision_ref": "Par.101",
+      "section": "101",
+      "title": "Paragraful 101",
+      "content": "Art. 160^10. - Liberarea provizorie poate fi revocată dacă:"
+    },
+    {
+      "provision_ref": "Par.102",
+      "section": "102",
+      "title": "Paragraful 102",
+      "content": "Revocarea liberării provizorii se dispune de către procuror prin ordonanţa, iar de instanţa prin încheiere, cu ascultarea inculpatului asistat de apărător. Revocarea se dispune şi în lipsa inculpatului, cînd acesta, fără motive temeinice, nu se prezintă la chemarea facuta."
+    },
+    {
+      "provision_ref": "Par.103",
+      "section": "103",
+      "title": "Paragraful 103",
+      "content": "În caz de revocare a liberării provizorii, procurorul sau instanţa dispune arestarea preventivă a inculpatului şi emite un nou mandat de arestare."
+    },
+    {
+      "provision_ref": "Par.104",
+      "section": "104",
+      "title": "Paragraful 104",
+      "content": "Dispoziţiile art. 160^9 alin. 2 şi 3 sînt aplicabile.\""
+    },
+    {
+      "provision_ref": "Par.11",
+      "section": "11",
+      "title": "Paragraful 11",
+      "content": "11. Articolul 171 alineatele 1 şi 2 vor avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.106",
+      "section": "106",
+      "title": "Paragraful 106",
+      "content": "\"Invinuitul sau inculpatul are dreptul să fie asistat de apărător în tot cursul urmăririi penale şi al judecaţii, iar organele judiciare sînt obligate să-i aducă la cunoştinţa acest drept."
+    },
+    {
+      "provision_ref": "Par.107",
+      "section": "107",
+      "title": "Paragraful 107",
+      "content": "Asistenţa juridică este obligatorie cînd invinuitul sau inculpatul este minor, militar în termen, militar cu termen redus, rezervist concentrat, elev al unei instituţii militare de învăţămînt, internat într-o şcoala specială de reeducare şi munca ori cînd este arestat, chiar în alta cauza.\""
+    },
+    {
+      "provision_ref": "Par.12-108",
+      "section": "12",
+      "title": "Paragraful 12",
+      "content": "12. Articolul 172 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.109",
+      "section": "109",
+      "title": "Paragraful 109",
+      "content": "\"Drepturile aparatorului"
+    },
+    {
+      "provision_ref": "Par.110",
+      "section": "110",
+      "title": "Paragraful 110",
+      "content": "Art. 172. - În cursul urmăririi penale, apărătorul învinuitului sau inculpatului are dreptul sa asiste la efectuarea oricărui act de urmărire penală şi poate formula cereri şi depune memorii. Lipsa aparatorului nu împiedica efectuarea actului de urmărire penală, dacă exista dovada ca apărătorul a fost încunoştinţat de data şi ora efectuării actului."
+    },
+    {
+      "provision_ref": "Par.111",
+      "section": "111",
+      "title": "Paragraful 111",
+      "content": "Cînd asistenţa juridică este obligatorie, organul de urmărire penală va asigura prezenta aparatorului la ascultarea inculpatului."
+    },
+    {
+      "provision_ref": "Par.112",
+      "section": "112",
+      "title": "Paragraful 112",
+      "content": "În cazul în care apărătorul învinuitului sau inculpatului este prezent la efectuarea unui act de urmărire penală, se face menţiunea despre aceasta, iar actul este semnat şi de apărător."
+    },
+    {
+      "provision_ref": "Par.113",
+      "section": "113",
+      "title": "Paragraful 113",
+      "content": "Inculpatul arestat are dreptul sa ia contact cu apărătorul. În mod excepţional, cînd interesul urmăririi cere, procurorul, din oficiu sau la propunerea organului de cercetare penală, poate dispune, prin ordonanţa motivată, interzicerea luării de contact a inculpatului arestat cu apărătorul, o singură dată, pe o durată de cel mult 5 zile."
+    },
+    {
+      "provision_ref": "Par.114",
+      "section": "114",
+      "title": "Paragraful 114",
+      "content": "Luarea de contact cu apărătorul nu poate fi interzisă la prelungirea duratei arestării de către instanţa de judecată, iar la prezentarea materialului de urmărire penală aceasta este obligatorie."
+    },
+    {
+      "provision_ref": "Par.115",
+      "section": "115",
+      "title": "Paragraful 115",
+      "content": "Apărătorul are dreptul de a se plînge, potrivit art. 275, dacă cererile sale nu au fost acceptate."
+    },
+    {
+      "provision_ref": "Par.116",
+      "section": "116",
+      "title": "Paragraful 116",
+      "content": "În cursul judecaţii apărătorul are dreptul sa asiste pe inculpat, sa exercite drepturile procesuale ale acestuia, iar în cazul cînd inculpatul este arestat, sa ia contact cu acesta.\""
+    },
+    {
+      "provision_ref": "Par.13-117",
+      "section": "13",
+      "title": "Paragraful 13",
+      "content": "13. Articolul 201 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.118",
+      "section": "118",
+      "title": "Paragraful 118",
+      "content": "\"Organele de urmărire penală"
+    },
+    {
+      "provision_ref": "Par.119",
+      "section": "119",
+      "title": "Paragraful 119",
+      "content": "Art. 201. - Urmărirea penală se efectuează de către procurori şi de către organele de cercetare penală."
+    },
+    {
+      "provision_ref": "Par.120",
+      "section": "120",
+      "title": "Paragraful 120",
+      "content": "Organele de cercetare penală sînt:"
+    },
+    {
+      "provision_ref": "Par.121",
+      "section": "121",
+      "title": "Paragraful 121",
+      "content": "Ca organe de cercetare ale poliţiei funcţionează lucrătorii operativi anume desemnaţi din Ministerul de Interne.\""
+    },
+    {
+      "provision_ref": "Par.14",
+      "section": "14",
+      "title": "Paragraful 14",
+      "content": "14. La articolul 245 alineatul 1, după litera d) se introduce litera e), cu următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.123",
+      "section": "123",
+      "title": "Paragraful 123",
+      "content": "\"e) restituirii cauţiunii în cazurile prevăzute de lege.\""
+    },
+    {
+      "provision_ref": "Par.15-124",
+      "section": "15",
+      "title": "Paragraful 15",
+      "content": "15. La articolul 350, după alineatul 6 se introduce un alineat nou, cu următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.125",
+      "section": "125",
+      "title": "Paragraful 125",
+      "content": "\"Cînd în cursul urmăririi penale sau al judecaţii, invinuitul sau inculpatul a fost liberat provizoriu pe cauţiune, instanţa va dispune restituirea sumei depuse drept cauţiune, în cazurile prevăzute de lege. Dispoziţiile art. 160^5 alin. 5 se aplică în mod corespunzător.\""
+    },
+    {
+      "provision_ref": "Par.16-126",
+      "section": "16",
+      "title": "Paragraful 16",
+      "content": "16. Capitolul IV din titlul IV al părţii speciale va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.127",
+      "section": "127",
+      "title": "Paragraful 127",
+      "content": "\"REPARAREA PAGUBEI ÎN CAZUL CONDAMNĂRII SAU AL LUĂRII UNEI MĂSURI PREVENTIVE PE NEDREPT\""
+    },
+    {
+      "provision_ref": "Par.17-128",
+      "section": "17",
+      "title": "Paragraful 17",
+      "content": "17. Articolul 504 alineatul 2 va avea următorul cuprins:"
+    },
+    {
+      "provision_ref": "Par.129",
+      "section": "129",
+      "title": "Paragraful 129",
+      "content": "\"Are dreptul la repararea pagubei şi persoana împotriva căreia s-a luat o măsura preventivă, iar ulterior, pentru motivele arătate în alineatul precedent, a fost scoasa de sub urmărire sau a fost achitată.\""
+    },
+    {
+      "provision_ref": "Par.18-130",
+      "section": "18",
+      "title": "Paragraful 18",
+      "content": "18. Termenul de organ de militie sau militie din Codul de procedură penală sau alte legi speciale se înlocuieşte cu termenul de organ de poliţie sau poliţie."
+    },
+    {
+      "provision_ref": "Par.131",
+      "section": "131",
+      "title": "Paragraful 131",
+      "content": "Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din 12 noiembrie 1990."
+    },
+    {
+      "provision_ref": "Par.132",
+      "section": "132",
+      "title": "Paragraful 132",
+      "content": "PREŞEDINTELE ADUNĂRII DEPUTAŢILOR"
+    },
+    {
+      "provision_ref": "Par.133",
+      "section": "133",
+      "title": "Paragraful 133",
+      "content": "MARŢIAN DAN"
+    },
+    {
+      "provision_ref": "Par.134",
+      "section": "134",
+      "title": "Paragraful 134",
+      "content": "Această lege a fost adoptată de Senat în şedinţa din 12 noiembrie 1990."
+    },
+    {
+      "provision_ref": "Par.135",
+      "section": "135",
+      "title": "Paragraful 135",
+      "content": "PREŞEDINTELE SENATULUI"
+    },
+    {
+      "provision_ref": "Par.136",
+      "section": "136",
+      "title": "Paragraful 136",
+      "content": "academician ALEXANDRU BÎRLĂDEANU"
+    },
+    {
+      "provision_ref": "Par.137",
+      "section": "137",
+      "title": "Paragraful 137",
+      "content": "În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României,"
+    },
+    {
+      "provision_ref": "Par.138",
+      "section": "138",
+      "title": "Paragraful 138",
+      "content": "promulgăm Legea pentru modificarea şi completarea unor dispoziţii ale Codului de procedura penală şi dispunem publicarea sa în Monitorul Oficial al României."
+    },
+    {
+      "provision_ref": "Par.139",
+      "section": "139",
+      "title": "Paragraful 139",
+      "content": "PREŞEDINTELE ROMÂNIEI"
+    },
+    {
+      "provision_ref": "Par.140",
+      "section": "140",
+      "title": "Paragraful 140",
+      "content": "ION ILIESCU"
+    },
+    {
+      "provision_ref": "Par.141",
+      "section": "141",
+      "title": "Paragraful 141",
+      "content": "------------------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-230521",
+  "type": "statute",
+  "title": "LEGE nr. 211 din 29 septembrie 2020",
+  "short_name": "lege 211 29 09 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-29",
+  "in_force_date": "2020-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/230521",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 211 29/09/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 92 din 28 mai 2020 pentru instituirea unor măsuri active de sprijin destinate angajaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 459 din 29 mai 2020, cu următoarea completare: – După articolul XI se introduce un nou articol, articolul XII, cu următorul cuprins: Articolul XII La articolul 4 alineatul (1) din Ordonanța de urgență a Guvernului nr. 63/2020 pentru organizarea și desfășurarea unor campanii de informare publică în contextul situației epidemiologice determinate de răspândirea COVID-19, aprobată cu modificări și completări prin Legea nr. 164/2020 , cu modificările ulterioare, după litera c) se introduce o nouă literă, litera c^1), cu următorul cuprins: c^1) în situația în care, în bugetele prevăzute la art. 3 lit. c), rămân sume nealocate din cauza unor limitări obiective, sumele rămase vor fi redistribuite către celelalte stații care nu au atins aceste limitări, exclusiv prin mecanismul enunțat la lit. c). Redistribuirea se va aplica repetat până la atingerea limitelor respective sau până la consumarea bugetului alocat campaniei."
+    }
+  ],
+  "definitions": []
+}

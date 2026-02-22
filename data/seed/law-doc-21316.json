@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-21316",
+  "type": "statute",
+  "title": "LEGE nr. 52 din 19 decembrie 1969",
+  "short_name": "lege 52 19 12 1969",
+  "status": "in_force",
+  "issued_date": "1969-12-19",
+  "in_force_date": "1969-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21316",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 52 19/12/1969",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 657/1969 privind organizarea şi funcţionarea Ministerului Industriei Uşoare. --------"
+    }
+  ],
+  "definitions": []
+}

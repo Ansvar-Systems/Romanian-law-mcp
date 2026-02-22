@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190789",
+  "type": "statute",
+  "title": "LEGE nr. 157 din 30 iunie 2017",
+  "short_name": "lege 157 30 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-30",
+  "in_force_date": "2017-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190789",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 157 30/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (4) al articolului 8 din Legea nr. 291/2007 privind intrarea, staționarea, desfășurarea de operațiuni sau tranzitul forțelor armate străine pe teritoriul României, republicată în Monitorul Oficial al României, Partea I, nr. 321 din 5 mai 2014, cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (5), cu următorul cuprins: (5) Structurile Ministerului Apărării Naționale pot lua în subordine și pot ordona misiuni forțelor armate străine staționate pe teritoriul României, în condițiile art. 4 și 5, în limitele stabilite prin transferul de autoritate și înțelegerile încheiate de către Ministerul Apărării Naționale cu reprezentanții autorizați ai părții trimițătoare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277938",
+  "type": "statute",
+  "title": "LEGE nr. 3 din 3 ianuarie 2024",
+  "short_name": "lege 3 03 01 2024",
+  "status": "in_force",
+  "issued_date": "2024-01-03",
+  "in_force_date": "2024-01-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277938",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 3 03/01/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul în domeniul securității sociale dintre România și Statele Unite ale Americii, semnat la București la 23 martie 2023."
+    }
+  ],
+  "definitions": []
+}

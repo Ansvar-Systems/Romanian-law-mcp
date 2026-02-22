@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275468",
+  "type": "statute",
+  "title": "LEGE nr. 281 din 18 octombrie 2023",
+  "short_name": "lege 281 18 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-18",
+  "in_force_date": "2023-10-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275468",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 281 18/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 7 din Legea nr. 56/2020 pentru recunoașterea meritelor personalului medical participant la acțiuni medicale împotriva COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 402 din 15 mai 2020, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 7 (1) Personalul medical prevăzut la art. 2 alin. (1) care execută, conduce sau coordonează misiuni și sarcini de serviciu în condiții de pericol deosebit beneficiază, pe perioada stării de urgență, instituită astfel prin decret, precum și pentru o perioadă de 3 luni de la data încetării stării de urgență, de un spor de până la 30%, calculat la salariul de bază/solda de funcție/salariul de funcție, suportat din bugetul Fondului național unic de asigurări sociale de sănătate prin bugetul de stat."
+    }
+  ],
+  "definitions": []
+}

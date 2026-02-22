@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-29624",
+  "type": "statute",
+  "title": "LEGE nr. 405 din 10 iulie 2001",
+  "short_name": "lege 405 10 07 2001",
+  "status": "in_force",
+  "issued_date": "2001-07-10",
+  "in_force_date": "2001-07-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/29624",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 405 10/07/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Articolul 2 din Legea nr. 2/1992 privind acordarea de indemnizații membrilor Academiei Române, publicată în Monitorul Oficial al României, Partea I, nr. 4 din 20 ianuarie 1992, se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Legea nr. 2/1992 , cu modificările ulterioare, inclusiv cu cele aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172804",
+  "type": "statute",
+  "title": "LEGE nr. 264 din 6 noiembrie 2015",
+  "short_name": "lege 264 06 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-06",
+  "in_force_date": "2015-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172804",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 264 06/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Uniunea Europeană şi statele membre ale acesteia, pe de o parte, şi Islanda, pe de la altă parte, cu privire la participarea Islandei la îndeplinirea în comun a angajamentelor Uniunii Europene, ale statelor membre ale acesteia şi ale Islandei pentru cea de-a doua perioadă de angajament din cadrul Protocolului de la Kyoto la Convenţia-cadru a Organizaţiei Naţiunilor Unite asupra schimbărilor climatice, semnat la Bruxelles la 1 aprilie 2015."
+    }
+  ],
+  "definitions": []
+}

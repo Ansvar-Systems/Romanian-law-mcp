@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-41425",
+  "type": "statute",
+  "title": "LEGE nr. 32 din 13 ianuarie 2003",
+  "short_name": "lege 32 13 01 2003",
+  "status": "in_force",
+  "issued_date": "2003-01-13",
+  "in_force_date": "2003-01-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/41425",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 13/01/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 101 din 29 august 2002 pentru completarea art. 6 din Legea nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, publicată în Monitorul Oficial al României, Partea I, nr. 666 din 9 septembrie 2002, cu următoarea modificare: – La articolul unic, alineatul (6) al articolului 6 va avea următorul cuprins: (6) Ministerul Agriculturii, Alimentației și Pădurilor, prin Agenția Domeniilor Statului, poate prelua, prin echivalenta, și cereale în contul redeventei datorate de concesionarii terenurilor agricole, în perioada în care fondul „Dezvoltarea agriculturii românești” este gestionat de Ministerul Agriculturii, Alimentației și Pădurilor."
+    }
+  ],
+  "definitions": []
+}

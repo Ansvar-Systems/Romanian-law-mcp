@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-22010",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 24 aprilie 2000",
+  "short_name": "lege 60 24 04 2000",
+  "status": "in_force",
+  "issued_date": "2000-04-24",
+  "in_force_date": "2000-04-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22010",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 24/04/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prevederile Legii nr. 71/1995 și ale Legii nr. 64/1997 se aplică absolvenților învățământului superior particular care au fost înmatriculați în anul I de studii în anii 1990-1996 la specializări neautorizate sa funcționeze provizoriu la data înscrierii la examenul de selecție."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sunt exceptați de la prevederile art. 1 și se pot prezenta la examenul de licență sau de absolvire, fără a susține examenul de selecție, absolvenții care au început studiile la specializările autorizate sa funcționeze provizoriu, dar cărora ulterior li s-a retras aceasta autorizare sau care au intrat în lichidare, precum și cei care au început studiile la specializări neautorizate, dar care sunt autorizate sa funcționeze provizoriu la data sustinerii examenului de licență sau de absolvire."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Pentru absolvenții prevăzuți la art. 1 și 2 examenul de selecție, examenul de licență sau de absolvire se organizează în instituții de învățământ superior de stat, care au acreditate specializările respective sau specializări înrudite din același profil."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Examenele prevăzute la art. 1 și 3 se pot susține la instituții de învățământ superior acreditate, stabilite de Ministerul Educației Naționale, în oricare dintre sesiunile programate, cu acoperirea cheltuielilor de examen hotărâte de senatul universitar."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Dispozițiile din Legea nr. 71/1995 privind dreptul absolvenților învățământului particular liceal, postliceal și superior de a susține examenul de finalizare a studiilor la unități și instituții similare din învățământul de stat, publicată în Monitorul Oficial al României, Partea I, nr. 139 din 6 iulie 1995, și din Legea nr. 64/1997 privind dreptul absolvenților învățământului particular liceal, postliceal și superior de a susține examenul de finalizare a studiilor la unitățile și instituțiile din învățământul de stat, publicată în Monitorul Oficial al României, Partea I, nr. 73 din 23 aprilie 1997, contrare prezentei legi, se abroga."
+    }
+  ],
+  "definitions": []
+}

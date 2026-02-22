@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-195497",
+  "type": "statute",
+  "title": "LEGE nr. 230 din 29 noiembrie 2017",
+  "short_name": "lege 230 29 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-29",
+  "in_force_date": "2017-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195497",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 230 29/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Protocolul *) referitor la amendarea art. 50 (a) al Convenției privind Aviația Civilă Internațională , semnată la Chicago la 7 decembrie 1944, la care România a aderat prin Decretul Consiliului de Stat nr. 194/1965, încheiat și semnat la Montreal la 6 octombrie 2016. Notă *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se ratifică Protocolul *) referitor la amendarea art. 56 al Convenției privind Aviația Civilă Internațională , semnată la Chicago la 7 decembrie 1944, la care România a aderat prin Decretul Consiliului de Stat nr. 194/1965 , încheiat și semnat la Montreal la 6 octombrie 2016."
+    }
+  ],
+  "definitions": []
+}

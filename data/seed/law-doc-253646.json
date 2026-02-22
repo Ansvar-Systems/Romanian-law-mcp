@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-253646",
+  "type": "statute",
+  "title": "LEGE nr. 77 din 5 aprilie 2022",
+  "short_name": "lege 77 05 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-05",
+  "in_force_date": "2022-04-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253646",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 77 05/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Pentru cinstirea memoriei lui Vasile Lucaciu (1852-1922), considerat una dintre cele mai importante personalități politice, culturale și istorice ale românilor ardeleni din perioada dualismului austro-ungar, militant pentru drepturile românilor din Transilvania, și recunoașterea eforturilor depuse de acesta pentru realizarea Marii Uniri, acesta este declarat „Erou al Națiunii Române“."
+    }
+  ],
+  "definitions": []
+}

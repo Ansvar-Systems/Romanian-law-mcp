@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166447",
+  "type": "statute",
+  "title": "LEGE nr. 45 din 17 martie 2015",
+  "short_name": "lege 45 17 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-17",
+  "in_force_date": "2015-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166447",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 45 17/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 25 din 13 mai 2014 privind unele măsuri pentru diminuarea arieratelor bugetare ale unor operatori economici din industria de apărare şi reglementarea altor măsuri fiscal-bugetare, publicată în Monitorul Oficial al României, Partea I, nr. 377 din 21 mai 2014."
+    }
+  ],
+  "definitions": []
+}

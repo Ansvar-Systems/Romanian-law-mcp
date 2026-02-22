@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-34210",
+  "type": "statute",
+  "title": "LEGE nr. 148 din 12 iunie 1930",
+  "short_name": "lege 148 12 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-12",
+  "in_force_date": "1930-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34210",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 148 12/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Biuroul cărţilor funduare centrale pentru căile ferate şi canaluri, reglementat în legile I din anul 1868 şi LXI din anul 1881 şi regulamentul din 8 Aprilie 1869, va funcţiona pe lîngă judecătoria urbana Cluj, ca secţie specială, sub conducerea unui judecător ca şef, ajutat de un alt judecător, de 2 directori şi un ajutor director de carte funduara şi de 3 impiegati. Încheierile şi jurnalele date conform citatelor legi şi conform legii XXIX din 1887, sînt supuse căilor de atac prevăzute la art. II, alin. 2 din legea LIV/1912, urmând a se judeca apelurile de către Tribunalul Cluj, iar recursurile în casare de către Înaltă Curte de Casaţie şi Justiţie."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Această lege se pune în aplicare pe data de 15 Iunie 1930. Votat de Adunarea deputaţilor la 27 Mai şi de Senat la 4 Iunie 1930. -------"
+    }
+  ],
+  "definitions": []
+}

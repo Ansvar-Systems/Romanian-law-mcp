@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299677",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 7 iulie 2025",
+  "short_name": "lege 125 07 07 2025",
+  "status": "in_force",
+  "issued_date": "2025-07-07",
+  "in_force_date": "2025-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299677",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 07/07/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 68 din 21 iunie 2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile, publicată în Monitorul Oficial al României, Partea I, nr. 582 din 21 iunie 2024."
+    }
+  ],
+  "definitions": []
+}

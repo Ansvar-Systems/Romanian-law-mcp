@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-283734",
+  "type": "statute",
+  "title": "LEGE nr. 173 din 3 iunie 2024",
+  "short_name": "lege 173 03 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-03",
+  "in_force_date": "2024-06-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283734",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 173 03/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 16 din Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală, republicată în Monitorul Oficial al României, Partea I, nr. 411 din 27 mai 2019, cu modificările și completările ulterioare, după alineatul (5) se introduc trei noi alineate, alin. (6)-(8), cu următorul cuprins: (6) Cheltuielile care revin statului român, în cazul în care persoana solicitată, persoana extrădată sau persoana extrădabilă, după caz, s-a sustras de la urmărirea penală sau de la judecată, vor fi avute în vedere la stabilirea cheltuielilor judiciare, de către instanța de executare, conform prevederilor Codului de procedură penală . (7) Pentru recuperarea cheltuielilor ocazionate de aducerea în țară a persoanei solicitate, a persoanei extrădate sau extrădabile, după caz, care s-a sustras de la executarea pedepsei, autoritățile române au drept de regres, la instanța civilă competentă. Această cauză se judecă cu celeritate și este scutită de taxă de timbru. (8) Categoriile cheltuielilor prevăzute la alin. (7) se stabilesc prin hotărâre a Guvernului, la propunerea Ministerului Justiției și a Ministerului Afacerilor Interne."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 180 de zile de la intrarea în vigoare a prezentei legi, Guvernul va adopta hotărârea prevăzută la art. 16 alin. (8) din Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală, republicată, cu modificările și completările ulterioare, precum și cu completările aduse prin prezenta lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală, republicată în Monitorul Oficial al României, Partea I, nr. 411 din 27 mai 2019, cu modificările și completările ulterioare, precum și cu completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

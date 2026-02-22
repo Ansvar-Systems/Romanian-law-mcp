@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240906",
+  "type": "statute",
+  "title": "LEGE nr. 68 din 9 aprilie 2021",
+  "short_name": "lege 68 09 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-09",
+  "in_force_date": "2021-04-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240906",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 09/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 110 din 20 decembrie 2018 privind modificarea anexei la Ordonanța de urgență a Guvernului nr. 92/2011 pentru aprobarea organizării unor acțiuni de informare și promovare privind politicile aplicate în domeniul agriculturii și dezvoltării rurale, în plan intern și internațional, publicată în Monitorul Oficial al României, Partea I, nr. 1.092 din 21 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

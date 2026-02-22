@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227818",
+  "type": "statute",
+  "title": "LEGE nr. 126 din 14 iulie 2020",
+  "short_name": "lege 126 14 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-14",
+  "in_force_date": "2020-07-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227818",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 126 14/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 10 din Legea nr. 7/2006 privind statutul funcționarului public parlamentar, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 25 mai 2009, cu modificările și completările ulterioare, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Nu se află în situație de incompatibilitate, în sensul prevederilor alin. (1) lit. a) și c), funcționarul public parlamentar care este reprezentantul secretarului general al Camerei Deputaților în Consiliul de administrație al Regiei Autonome «Monitorul Oficial», potrivit art. II din Legea nr. 208/2018 pentru modificarea și completarea Legii nr. 202/1998 privind organizarea Monitorului Oficial al României."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209931",
+  "type": "statute",
+  "title": "LEGE nr. 17 din 8 ianuarie 2019",
+  "short_name": "lege 17 08 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-08",
+  "in_force_date": "2019-01-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209931",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 17 08/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 84 din 13 septembrie 2018 pentru completarea unor acte normative din domeniul construcțiilor, publicată în Monitorul Oficial al României, Partea I, nr. 795 din 18 septembrie 2018, cu următoarea modificare: – Articolul II se modifică și va avea următorul cuprins: Articolul II După alineatul (1) al articolului 41 din Legea nr. 10/1995 privind calitatea în construcții, republicată în Monitorul Oficial al României, Partea I, nr. 765 din 30 septembrie 2016, cu modificările ulterioare, se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Prin excepție de la prevederile alin. (1) pentru lucrările de infrastructură rutieră și feroviară de interes național, Regulamentul privind recepția construcțiilor din domeniul infrastructurii rutiere și feroviare de interes național se elaborează de Ministerul Transporturilor, se avizează de Ministerul Dezvoltării Regionale și Administrației Publice și se aprobă prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

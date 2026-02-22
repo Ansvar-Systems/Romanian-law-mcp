@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-8370",
+  "type": "statute",
+  "title": "LEGE Nr. 67 din 8 iulie 1996",
+  "short_name": "lege 67 08 07 1996",
+  "status": "in_force",
+  "issued_date": "1996-07-08",
+  "in_force_date": "1996-07-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/8370",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 67 08/07/1996",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifica Acordul de înfiinţare a Băncii pentru Comerţ şi Dezvoltare a Marii Negre, semnat la Atena la 30 decembrie 1994."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Contravaloarea în lei a sumelor aferente contribuţiei României la capitalul Băncii pentru Comerţ şi Dezvoltare a Marii Negre se suporta de la bugetul de stat, poziţia \"Contribuţii şi cotizatii la organismele internaţionale\"."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Finanţelor este autorizat, potrivit prevederilor prezentei legi, sa deruleze operaţiunile şi tranzacţiile cu Banca pentru Comerţ şi Dezvoltare a Marii Negre, sa exercite, în colaborare cu Ministerul Afacerilor Externe, toate drepturile şi sa îndeplinească toate obligaţiile care revin României în calitate de membru al Băncii pentru Comerţ şi Dezvoltare a Marii Negre. Această lege a fost adoptată de Senat în şedinţa din 7 mai 1996, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI ION SOLCANU Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 24 iunie 1996, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE CAMEREI DEPUTAŢILOR ION RATIU"
+    }
+  ],
+  "definitions": []
+}

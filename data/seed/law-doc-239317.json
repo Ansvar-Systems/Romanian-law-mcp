@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239317",
+  "type": "statute",
+  "title": "LEGE nr. 38 din 16 martie 2021",
+  "short_name": "lege 38 16 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239317",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 38 16/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 109 din 1 iulie 2020 pentru modificarea Ordonanței Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, precum și pentru aprobarea plății cotizației anuale ce decurge din calitatea de membru a României în cadrul Forumului Internațional al Transporturilor al Organizației pentru Cooperare și Dezvoltare Economică - OCDE, publicată în Monitorul Oficial al României, Partea I, nr. 595 din 7 iulie 2020."
+    }
+  ],
+  "definitions": []
+}

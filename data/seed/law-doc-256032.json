@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-256032",
+  "type": "statute",
+  "title": "LEGE nr. 172 din 8 iunie 2022",
+  "short_name": "lege 172 08 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-08",
+  "in_force_date": "2022-06-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/256032",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 172 08/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Protocolul nr. 16 la Convenția pentru apărarea drepturilor omului și a libertăților fundamentale , ratificată prin Legea nr. 30/1994 , publicată în Monitorul Oficial al României, Partea I, nr. 135 din 31 mai 1994, adoptat la Strasbourg la 2 octombrie 2013 și semnat de România la Strasbourg la 14 octombrie 2014."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu ocazia depunerii instrumentului de ratificare, în conformitate cu art. 10 din Protocolul nr. 16 la Convenția pentru apărarea drepturilor omului și a libertăților fundamentale , România declară că, pentru scopul art. 1 paragraful 1 din Protocolul nr. 16 , sunt desemnate următoarele instanțe naționale: a) Curtea Constituțională; b) Înalta Curte de Casație și Justiție. (2) Prezenta declarație înlocuiește declarația formulată de România cu ocazia semnării Protocolului nr. 16 la Convenția pentru apărarea drepturilor omului și a libertăților fundamentale și se va depune la secretarul general al Consiliului Europei, în conformitate cu art. 10 din protocol."
+    }
+  ],
+  "definitions": []
+}

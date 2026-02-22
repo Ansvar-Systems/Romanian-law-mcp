@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-292972",
+  "type": "statute",
+  "title": "LEGE nr. 324 din 20 decembrie 2024",
+  "short_name": "lege 324 20 12 2024",
+  "status": "in_force",
+  "issued_date": "2024-12-20",
+  "in_force_date": "2024-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/292972",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 324 20/12/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 40 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru, publicată în Monitorul Oficial al României, Partea I, nr. 392 din 29 iunie 2013, cu modificările și completările ulterioare, după alineatul (1) se introduce un nou alineat, alin. (1^1), cu următorul cuprins: (1^1) Taxele judiciare de timbru pot fi încasate în numerar de la debitorul taxei la ghișeele deschise la sediile oricărei instanțe judecătorești și se transferă, până la sfârșitul următoarei zile lucrătoare, în contul distinct de venituri al bugetului local «Taxe judiciare de timbru și alte taxe de timbru», al unității administrativ-teritoriale în care persoana fizică are domiciliul sau reședința ori, după caz, în care persoana juridică are sediul social."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la 60 de zile de la data publicării în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

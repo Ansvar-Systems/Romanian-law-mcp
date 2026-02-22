@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-168010",
+  "type": "statute",
+  "title": "LEGE nr. 111 din 14 mai 2015",
+  "short_name": "lege 111 14 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-14",
+  "in_force_date": "2015-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168010",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 111 14/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 350/2005 privind regimul finanţărilor nerambursabile din fonduri publice alocate pentru activităţi nonprofit de interes general, publicată în Monitorul Oficial al României, Partea I, nr. 1.128 din 14 decembrie 2005, cu modificările şi completările ulterioare, se modifică după cum urmează: 1. La articolul 4, litera f) se modifică şi va avea următorul cuprins: \"f) neretroactivitatea, respectiv excluderea posibilităţii destinării fondurilor nerambursabile unei activităţi a cărei executare a fost deja începută sau finalizată la data încheierii contractului de finanţare, cu excepţia fondurilor financiare cheltuite de beneficiar pentru continuarea programului, în limita plafonului de cofinanţare prevăzut la lit. g);\". 2. Articolul 13 se modifică şi va avea următorul cuprins: \"Art. 13. - Cheltuielile eligibile vor putea fi plătite în baza unui contract de finanţare nerambursabilă numai în măsura în care sunt justificate şi oportune şi au fost contractate în anul bugetar în care se desfăşoară contractul.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile prezentei legi se aplică contractelor de finanţare care se încheie după data intrării în vigoare a acesteia."
+    }
+  ],
+  "definitions": []
+}

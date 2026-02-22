@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247458",
+  "type": "statute",
+  "title": "LEGE nr. 254 din 15 octombrie 2021",
+  "short_name": "lege 254 15 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-15",
+  "in_force_date": "2021-10-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247458",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 254 15/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 126 din 31 iulie 2020 pentru modificarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate și instituirea unor măsuri privind indemnizațiile de asigurări sociale de sănătate, publicată în Monitorul Oficial al României, Partea I, nr. 695 din 3 august 2020."
+    }
+  ],
+  "definitions": []
+}

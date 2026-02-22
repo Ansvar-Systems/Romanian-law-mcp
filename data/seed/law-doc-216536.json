@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-216536",
+  "type": "statute",
+  "title": "LEGE nr. 147 din 22 iulie 2019",
+  "short_name": "lege 147 22 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-22",
+  "in_force_date": "2019-07-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216536",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 147 22/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea responsabilității fiscal-bugetare nr. 69/2010 , republicată în Monitorul Oficial al României, Partea I, nr. 330 din 14 mai 2015, se modifică și se completează după cum urmează: 1. La articolul 12 se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) În cazul în care nu se respectă regula stabilită la alin. (1) lit. d), iar această nerespectare determină în mod direct sau este în strânsă corelație cu o deviere constatată de la obiectivul bugetar pe termen mediu sau de la calendarul de ajustare către acesta, se aplică dispozițiile cuprinse la art. 14 din prezenta lege. 2. La articolul 28 punctul 1, litera e) se modifică și va avea următorul cuprins: e) metodologiile, ipotezele și parametrii relevanți care stau la baza prognozelor macroeconomice; 3. La articolul 29 alineatul (2), după litera e) se introduc două noi litere, literele f) și g), cu următorul cuprins: f) metodologiile, ipotezele și parametrii relevanți care stau la baza prognozelor bugetare; g) o evaluare a modalității probabile în care politicile fiscal-bugetare avute în vedere vor afecta sustenabilitatea pe termen lung a finanțelor publice, având în vedere impactul lor direct pe termen lung asupra finanțelor administrației publice. 4. La articolul 29, după alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: (2^1) Prognozele bugetare sunt comparate cu previziunile cele mai recente ale Comisiei Europene și, după caz, cu cele ale altor organisme independente. Diferențele semnificative dintre scenariul bugetar ales și previziunile Comisiei Europene sunt descrise și motivate, în special dacă nivelul sau creșterea variabilelor din ipotezele externe se îndepărtează în mod semnificativ de valorile menționate în previziunile Comisiei Europene."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea responsabilității fiscal-bugetare nr. 69/2010 , republicată în Monitorul Oficial al României, Partea I, nr. 330 din 14 mai 2015, cu modificările și completările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

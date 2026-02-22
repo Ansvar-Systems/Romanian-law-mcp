@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196796",
+  "type": "statute",
+  "title": "LEGE nr. 31 din 15 ianuarie 2018",
+  "short_name": "lege 31 15 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-15",
+  "in_force_date": "2018-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196796",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 31 15/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 9 din Ordonanța Guvernului nr. 27/2002 privind reglementarea activității de soluționare a petițiilor, publicată în Monitorul Oficial al României, Partea I, nr. 84 din 1 februarie 2002, aprobată cu modificări și completări prin Legea nr. 233/2002 , se modifică și va avea următorul cuprins: Articolul 9 În situația în care aspectele sesizate prin petiție necesită o informare și o cercetare mai amănunțită, conducătorul autorității sau instituției publice poate prelungi termenul prevăzut la art. 8 cu cel mult 15 zile, iar în domeniul energiei și gazelor naturale, termenul poate fi prelungit cu cel mult 30 de zile, cu notificarea prealabilă a petentului."
+    }
+  ],
+  "definitions": []
+}

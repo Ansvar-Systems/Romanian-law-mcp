@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-259780",
+  "type": "statute",
+  "title": "LEGE nr. 273 din 29 septembrie 2022",
+  "short_name": "lege 273 29 09 2022",
+  "status": "in_force",
+  "issued_date": "2022-09-29",
+  "in_force_date": "2022-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/259780",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 273 29/09/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 39 din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, publicată în Monitorul Oficial al României, Partea I, nr. 103 din 6 februarie 2002, cu modificările și completările ulterioare, partea introductivă și litera a) ale alineatului (2) se modifică după cum urmează: (2) Cuantumul indemnizației de șomaj prevăzute la alin. (1) este o sumă acordată lunar și în mod diferențiat, în funcție de stagiul de cotizare, și este egal cu: a) valoarea indicatorului social de referință în vigoare la data stabilirii acestuia, pentru persoanele cu un stagiu de cotizare de cel puțin un an;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172762",
+  "type": "statute",
+  "title": "LEGE nr. 263 din 6 noiembrie 2015",
+  "short_name": "lege 263 06 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-06",
+  "in_force_date": "2015-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172762",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 263 06/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 85 din 12 decembrie 2014 pentru aprobarea unor măsuri de eficientizare a sistemului de gestionare a instrumentelor structurale, publicată în Monitorul Oficial al României, Partea I, nr. 940 din 22 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

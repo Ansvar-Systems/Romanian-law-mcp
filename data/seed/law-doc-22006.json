@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-22006",
+  "type": "statute",
+  "title": "LEGE nr. 58 din 24 aprilie 2000",
+  "short_name": "lege 58 24 04 2000",
+  "status": "in_force",
+  "issued_date": "2000-04-24",
+  "in_force_date": "2000-04-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22006",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 58 24/04/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 1 din Legea nr. 199/1998 privind dreptul absolvenților învățământului particular liceal, profesional și postliceal de a susține examenul de finalizare a studiilor la unități similare din învățământul de stat, publicată în Monitorul Oficial al României, Partea I, nr. 426 din 11 noiembrie 1998, se modifica și va avea următorul cuprins: Articolul 1 (1) Absolvenții învățământului particular liceal din promotiile 1994-2000, precum și cei ai învățământului profesional și postliceal din promotiile 1993-2000 pot susține examenul de finalizare a studiilor, bacalaureat sau absolvire, la o unitate de învățământ sau la o instituție de stat similară din rețeaua Ministerului Educației Naționale, în sesiunile organizate pentru absolvenții învățământului de stat, în condițiile legii. (2) Diploma de bacalaureat sau de absolvire se eliberează de unitatea de învățământ sau de instituția de stat din rețeaua Ministerului Educației Naționale la care s-a susținut examenul respectiv."
+    }
+  ],
+  "definitions": []
+}

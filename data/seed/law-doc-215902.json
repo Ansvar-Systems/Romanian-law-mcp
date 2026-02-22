@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-215902",
+  "type": "statute",
+  "title": "LEGE nr. 122 din 3 iulie 2019",
+  "short_name": "lege 122 03 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-03",
+  "in_force_date": "2019-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/215902",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 122 03/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 54 din 14 septembrie 2016 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terțelor persoane prin accidente de vehicule și de tramvaie, publicată în Monitorul Oficial al României, Partea I, nr. 723 din 19 septembrie 2016."
+    }
+  ],
+  "definitions": []
+}

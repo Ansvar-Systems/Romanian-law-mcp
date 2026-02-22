@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242000",
+  "type": "statute",
+  "title": "LEGE nr. 118 din 4 mai 2021",
+  "short_name": "lege 118 04 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-04",
+  "in_force_date": "2021-05-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242000",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 118 04/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 16 din 21 august 2019 pentru modificarea art. 1 alin. (1) lit. c) din Ordonanța de urgență a Guvernului nr. 95/1999 cu privire la valorificarea bunurilor scoase din funcțiune, aflate în administrarea instituțiilor publice de apărare, ordine publică și siguranță națională, adoptată în temeiul art. 1 pct. III poz. 3 din Legea nr. 128/2019 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 694 din 22 august 2019."
+    }
+  ],
+  "definitions": []
+}

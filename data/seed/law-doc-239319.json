@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239319",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 16 martie 2021",
+  "short_name": "lege 39 16 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239319",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 16/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 113 din 9 iulie 2020 pentru modificarea art. 2 din Legea nr. 114/2007 privind sprijinul financiar acordat de statul român Schitului românesc „Prodromu“, de la Muntele Athos, Grecia, publicată în Monitorul Oficial al României, Partea I, nr. 613 din 13 iulie 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-22600",
+  "type": "statute",
+  "title": "LEGE nr. 97 din 2 iunie 2000",
+  "short_name": "lege 97 02 06 2000",
+  "status": "in_force",
+  "issued_date": "2000-06-02",
+  "in_force_date": "2000-06-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22600",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 97 02/06/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 54 din 29 aprilie 1999 privind asigurarea unor facilități furnizorilor de îngrășăminte chimice și de uz fitosanitar, publicată în Monitorul Oficial al României, Partea I, nr. 190 din 30 aprilie 1999, cu următoarele modificări: 1. La articolul 1, alineatul (1) va avea următorul cuprins: Articolul 1 (1) Livrările de îngrășăminte chimice și produse de uz fitosanitar din producția interna către producătorii agricoli în anii 1999 și 2000 se fac pe bază de contracte, cu plata la recoltarea produselor agricole. 2. La articolul 2, alineatul (2) va avea următorul cuprins: (2) Taxa pe valoarea adăugată colectata la furnizori și deductibilă la beneficiarii producători agricoli se stabilește la data scadentei plății prevăzute în contractele încheiate cu producătorii agricoli, dar nu mai târziu de data de 31 octombrie 1999, pentru contractele încheiate în anul 1999, respectiv 31 octombrie 2000, pentru contractele încheiate în anul 2000. 3. La articolul 2, după alineatul (2) se introduc doua alineate, care devin alineatele (3) și (4), cu următorul cuprins: (3) În cazul neachitarii în termen a obligațiilor privind plata taxei pe valoarea adăugată, beneficiarii vor suporta penalizările prevăzute de reglementările în vigoare. (4) Achitarea de către producători a valorii gazului natural și a energiei electrice, necesare în vederea fabricării ingrasamintelor chimice și a produselor de uz fitosanitar, livrate producătorilor agricoli, se face în transe, corelate cu valorificarea recoltei, începând cu luna septembrie, dar nu mai târziu de 31 decembrie 2000."
+    }
+  ],
+  "definitions": []
+}

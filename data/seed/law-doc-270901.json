@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270901",
+  "type": "statute",
+  "title": "LEGE nr. 154 din 30 mai 2023",
+  "short_name": "lege 154 30 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-30",
+  "in_force_date": "2023-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270901",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 154 30/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 65 din 11 mai 2022 privind reglementarea unor măsuri pentru stingerea unor obligații fiscale și bugetare ale Societății Naționale de Transport Feroviar de Marfă „CFR Marfă“ - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 476 din 12 mai 2022, cu următoarea modificare: – Articolul 4 se modifică și va avea următorul cuprins: Articolul 4 Înscrierea bunurilor în inventarul centralizat În termen de 60 de zile de la data semnării procesului-verbal prevăzut la art. 2 alin. (8), Guvernul va adopta, la propunerea Ministerului Transporturilor și Infrastructurii, hotărârea privind înscrierea în inventarul centralizat al bunurilor aflate în domeniul public al statului a bunurilor mobile și imobile preluate în proprietatea publică a statului și în inventarul centralizat al bunurilor imobile proprietate privată a statului, după caz."
+    }
+  ],
+  "definitions": []
+}

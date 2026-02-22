@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196834",
+  "type": "statute",
+  "title": "LEGE nr. 34 din 17 ianuarie 2018",
+  "short_name": "lege 34 17 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-17",
+  "in_force_date": "2018-01-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196834",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 17/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 18 din Legea nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale, republicată în Monitorul Oficial al României, Partea I, nr. 446 din 23 iunie 2015, cu modificările și completările ulterioare, alineatul (2) se modifică și va avea următorul cuprins: (2) Suma alocată anual partidelor politice de la bugetul de stat este de cel puțin 0,01% și de cel mult 0,04% din produsul intern brut. Pentru partidele politice care promovează femei pe listele electorale, pe locuri eligibile, suma alocată de la bugetul de stat va fi majorată dublu proporțional cu numărul mandatelor obținute în alegeri de candidații femei."
+    }
+  ],
+  "definitions": []
+}

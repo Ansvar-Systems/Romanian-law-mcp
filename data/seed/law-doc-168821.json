@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168821",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 12 iunie 2015",
+  "short_name": "lege 144 12 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-12",
+  "in_force_date": "2015-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168821",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 12/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 87 din 17 decembrie 2014 pentru stabilirea unor măsuri privind situaţia juridică a unor bunuri din domeniul public şi privat al statului, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", a unor măsuri privind managementul situaţiilor de urgenţă, precum şi pentru modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 924 din 18 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

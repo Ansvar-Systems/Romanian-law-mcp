@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-181921",
+  "type": "statute",
+  "title": "LEGE nr. 168 din 22 septembrie 2016",
+  "short_name": "lege 168 22 09 2016",
+  "status": "in_force",
+  "issued_date": "2016-09-22",
+  "in_force_date": "2016-09-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/181921",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 168 22/09/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Decizia Consiliului Uniunii Europene 2014/335/UE , Euratom privind sistemul de resurse proprii ale Uniunii Europene, adoptată la Bruxelles la 26 mai 2014, publicată în Jurnalul Oficial al Uniunii Europene seria L, nr. 168 din 7 iunie 2014."
+    }
+  ],
+  "definitions": []
+}

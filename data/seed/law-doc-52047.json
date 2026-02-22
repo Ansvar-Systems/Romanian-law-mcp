@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-52047",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 14 mai 2004",
+  "short_name": "lege 171 14 05 2004",
+  "status": "in_force",
+  "issued_date": "2004-05-14",
+  "in_force_date": "2004-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/52047",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 14/05/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 94 din Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparentei în exercitarea demnitatilor publice, a functiilor publice şi în mediul de afaceri, prevenirea şi sanctionarea corupţiei, publicată în Monitorul Oficial al României, Partea I, nr. 279 din 21 aprilie 2003, cu modificările şi completările ulterioare, după alineatul (2) se introduce un alineat nou, alineatul (2^1 ), cu urmatorul cuprins: \"(2^1 ) Nu se afla în situaţie de incompatibilitate, în sensul prevederilor alin. (2) lit. a) şi c), functionarul public care este desemnat printr-un act administrativ, emis în condiţiile legii, sa reprezinte sau sa participe în calitate de reprezentant al autorităţii ori institutiei publice în cadrul unor organisme sau organe colective de conducere constituite în temeiul actelor normative în vigoare.\" Această lege a fost adoptata de Camera Deputatilor în sedinta din 30 martie 2004, cu respectarea prevederilor art. 76 alin. (1) din Constitutia României, republicată. PRESEDINTELE CAMEREI DEPUTATILOR VALER DORNEANU Această lege a fost adoptata de Senat în sedinta din 29 aprilie 2004, cu respectarea prevederilor art. 76 alin. (1) din Constitutia României, republicată. PRESEDINTELE SENATULUI NICOLAE VACAROIU Bucureşti, 14 mai 2004. Nr. 171. -----"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "şi c), functionarul public care este desemnat printr",
+      "definition": "un act administrativ, emis în condiţiile legii, sa reprezinte sau sa participe în calitate de reprezentant al autorităţii ori institutiei publice în cadrul unor organisme sau organe colective de conducere constituite în temeiul actelor normative în vigoare.\" Această lege a fost adoptata de Camera Deputatilor în sedinta din 30 martie 2004, cu respectarea prevederilor art. 76 alin. (1) din Constitutia României, republicată",
+      "source_provision": "Art.1"
+    }
+  ]
+}

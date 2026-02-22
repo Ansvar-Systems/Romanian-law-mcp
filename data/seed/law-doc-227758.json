@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-227758",
+  "type": "statute",
+  "title": "LEGE nr. 124 din 10 iulie 2020",
+  "short_name": "lege 124 10 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-10",
+  "in_force_date": "2020-07-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227758",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 124 10/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 2 august ca Ziua națională de comemorare a Holocaustului împotriva romilor - Samudaripen."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În înțelesul prezentei legi, termenul Samudaripen provine din limba romani și are înțelesul de „ucidere în masă“."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Anual, cu prilejul comemorării Zilei naționale de comemorare a Holocaustului împotriva romilor - Samudaripen, se pot organiza acțiuni culturale, simpozioane, mese rotunde și acțiuni cu tematică specifică, dedicate acestei zile. (2) Ministerul Culturii și autoritățile administrației publice centrale și locale pot organiza manifestări dedicate acestui eveniment. (3) Organizațiile neguvernamentale interesate pot acorda sprijin logistic și/sau financiar, după caz, pentru organizarea de manifestări dedicate comemorării acestei zile. (4) Societatea Română de Televiziune și Societatea Română de Radiodifuziune difuzează în cadrul programelor special destinate minorităților naționale manifestările dedicate acestei zile."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176352",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 4 martie 2016",
+  "short_name": "lege 18 04 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-04",
+  "in_force_date": "2016-03-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176352",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18 04/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "După alineatul (2) al articolului 9 din Legea nr. 213/1998 privind bunurile proprietate publică, publicată în Monitorul Oficial al României, Partea I, nr. 448 din 24 noiembrie 1998, cu modificările şi completările ulterioare, se introduc două noi alineate, alineatele (3) şi (4), cu următorul cuprins: \"(3) Trecerea unui bun din domeniul public al judeţului în domeniul public al unei unităţi administrativ-teritoriale de pe raza teritorială a judeţului respectiv se face la cererea consiliului local, prin hotărâre a consiliului judeţean. (4) Trecerea unui bun din domeniul public al unei unităţi administrativ-teritoriale de pe raza teritorială a unui judeţ în domeniul public al judeţului respectiv se face la cererea consiliului judeţean, prin hotărâre a consiliului local.\""
+    }
+  ],
+  "definitions": []
+}

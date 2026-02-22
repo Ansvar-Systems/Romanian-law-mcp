@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-20478",
+  "type": "statute",
+  "title": "LEGE nr. 207 din 31 decembrie 1999",
+  "short_name": "lege 207 31 12 1999",
+  "status": "in_force",
+  "issued_date": "1999-12-31",
+  "in_force_date": "1999-12-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/20478",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 207 31/12/1999",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul unic",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 58 din 28 decembrie 1998 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanța Guvernului nr. 25/1995 privind reglementarea organizării și finanțării activității de cercetare-dezvoltare, publicată în Monitorul Oficial al României, Partea I, nr. 512 din 30 decembrie 1998, cu următoarea modificare: - Articolul unic va avea următorul cuprins: Articol unic Se aprobă prelungirea până la data de 31 decembrie 2000 a termenului referitor la reorganizarea institutelor de cercetare-dezvoltare, prevăzut la art. 25 alin. (1) din Ordonanța Guvernului nr. 25/1995 privind reglementarea organizării și finanțării activității de cercetare-dezvoltare, publicată în Monitorul Oficial al României, Partea I, nr. 194 din 25 august 1995, astfel cum a fost aprobată și modificată prin Legea nr. 51/1996 , cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

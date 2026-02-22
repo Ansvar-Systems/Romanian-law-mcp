@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255834",
+  "type": "statute",
+  "title": "LEGE nr. 164 din 30 mai 2022",
+  "short_name": "lege 164 30 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-30",
+  "in_force_date": "2022-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255834",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 164 30/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 63 din 29 iunie 2021 pentru modificarea art. 15 alin. (4) din Legea nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, precum și pentru completarea Ordonanței de urgență a Guvernului nr. 21/2004 privind Sistemul Național de Management al Situațiilor de Urgență, publicată în Monitorul Oficial al României, Partea I, nr. 643 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

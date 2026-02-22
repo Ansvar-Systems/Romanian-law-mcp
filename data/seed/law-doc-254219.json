@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254219",
+  "type": "statute",
+  "title": "LEGE nr. 102 din 14 aprilie 2022",
+  "short_name": "lege 102 14 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-14",
+  "in_force_date": "2022-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254219",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 102 14/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 111 din 2 octombrie 2021 pentru stabilirea unor măsuri de protecție socială a angajaților și a altor categorii profesionale în contextul interzicerii, suspendării ori limitării activităților economice, determinate de situația epidemiologică generată de răspândirea coronavirusului SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 945 din 4 octombrie 2021."
+    }
+  ],
+  "definitions": []
+}

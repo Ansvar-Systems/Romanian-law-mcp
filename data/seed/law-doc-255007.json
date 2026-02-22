@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255007",
+  "type": "statute",
+  "title": "LEGE nr. 131 din 9 mai 2022",
+  "short_name": "lege 131 09 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-09",
+  "in_force_date": "2022-05-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255007",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 131 09/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Regatului Hașemit al Iordaniei privind cooperarea în domeniul prevenirii, limitării și înlăturării efectelor dezastrelor, semnat la 4 aprilie 2021 la Amman."
+    }
+  ],
+  "definitions": []
+}

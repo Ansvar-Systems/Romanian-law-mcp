@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-259873",
+  "type": "statute",
+  "title": "LEGE nr. 279 din 4 octombrie 2022",
+  "short_name": "lege 279 04 10 2022",
+  "status": "in_force",
+  "issued_date": "2022-10-04",
+  "in_force_date": "2022-10-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/259873",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 279 04/10/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 281 alineatul (1) din Legea nr. 135/2010 privind Codul de procedură penală , publicată în Monitorul Oficial al României, Partea I, nr. 486 din 15 iulie 2010, cu modificările și completările ulterioare, litera f) se modifică și va avea următorul cuprins: f) asistarea de către avocat a suspectului sau inculpatului, a celorlalte părți, precum și a persoanei vătămate, atunci când asistența este obligatorie."
+    }
+  ],
+  "definitions": []
+}

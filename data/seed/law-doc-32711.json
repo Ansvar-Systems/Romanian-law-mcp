@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-32711",
+  "type": "statute",
+  "title": "LEGE nr. 723 din 4 decembrie 2001",
+  "short_name": "lege 723 04 12 2001",
+  "status": "in_force",
+  "issued_date": "2001-12-04",
+  "in_force_date": "2001-12-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32711",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 723 04/12/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 67 din 29 decembrie 1998 privind restructurarea financiară a Băncii Române de Comerț Exterior - BANCOREX - S.A., în vederea privatizării, publicată în Monitorul Oficial al României, Partea I, nr. 515 din 30 decembrie 1998, cu următoarea modificare: – Titlul ordonanței de urgență va avea următorul cuprins: ORDONANȚA DE URGENȚĂ privind restructurarea financiară a Băncii Române de Comerț Exterior - BANCOREX - S.A."
+    }
+  ],
+  "definitions": []
+}

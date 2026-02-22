@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183741",
+  "type": "statute",
+  "title": "LEGE nr. 220 din 17 noiembrie 2016",
+  "short_name": "lege 220 17 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-17",
+  "in_force_date": "2016-11-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183741",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 220 17/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La alineatul (1) al articolului 139 din Legea nr. 53/2003 - Codul muncii, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările şi completările ulterioare, după sintagma \"- 1 mai\" se introduce o nouă liniuţă, cu următorul cuprins: \"- 1 iunie;\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-1536",
+  "type": "statute",
+  "title": "LEGE Nr. 62 din 2 octombrie 1991",
+  "short_name": "lege 62 02 10 1991",
+  "status": "in_force",
+  "issued_date": "1991-10-02",
+  "in_force_date": "1991-10-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1536",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 62 02/10/1991",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie, începînd cu data publicării în Monitorul Oficial a prezentei legi, \"Timbrul muzical\" de 2 lei, în favoarea uniunilor interpreţilor, coregrafilor şi criticilor muzicali din România. Timbrul prevăzut la alin. 1 se va aplica pe fiecare bilet de spectacol vîndut la toate manifestările muzicale din ţara, cu excepţia celor folclorice, şi este inclus în preţul de vînzare al biletului. Încasările rezultate din aplicarea \"Timbrului muzical\" nu sînt supuse la plata impozitului pe spectacole."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Culturii va elabora norme de aplicare a prezentei legi, în care să se prevadă obligativitatea ţinerii unei evidente separate pentru încasările din acest timbru şi asigurarea controlului cu privire la destinaţia fondurilor astfel realizate. ---------------------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35856",
+  "type": "statute",
+  "title": "LEGE nr. 11 din 8 decembrie 1982",
+  "short_name": "lege 11 08 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-08",
+  "in_force_date": "1982-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35856",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 11 08/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 394/1981 privind contractările şi achiziţiile de produse agricole vegetale. ──────────────"
+    }
+  ],
+  "definitions": []
+}

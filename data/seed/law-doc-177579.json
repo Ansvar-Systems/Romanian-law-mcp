@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-177579",
+  "type": "statute",
+  "title": "LEGE nr. 65 din 12 aprilie 2016",
+  "short_name": "lege 65 12 04 2016",
+  "status": "in_force",
+  "issued_date": "2016-04-12",
+  "in_force_date": "2016-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177579",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 65 12/04/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Legea nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe, republicată în Monitorul Oficial al României, Partea I, nr. 740 din 21 octombrie 2011, cu modificările şi completările ulterioare, se modifică după cum urmează: 1. La articolul 8, alineatul (7) se modifică şi va avea următorul cuprins: \"(7) Chiria se stabileşte anual de către autorităţile administraţiei publice locale, autorităţile administraţiei publice locale ale sectoarelor municipiului Bucureşti şi/sau autorităţile administraţiei publice centrale şi va acoperi cheltuielile de administrare, întreţinere şi reparaţii, recuperarea investiţiei, în funcţie de durata normată stabilită potrivit prevederilor legale, precum şi o cotă de maximum 1%. Cota de maximum 1% se aplică la valoarea de înlocuire a locuinţei, stabilită conform normelor metodologice pentru punerea în aplicare a prevederilor prezentei legi.\" 2. La articolul 10 alineatul (2), litera d^1) se modifică şi va avea următorul cuprins: \"d^1) valoarea de vânzare stabilită, conform prevederilor d), se ponderează cu un coeficient determinat în funcţie de ierarhizarea localităţilor pe ranguri, stabilită prin Legea nr. 351/2001 , cu modificările şi completările ulterioare, astfel: ┌────────────────────────────────────────────┬────────────┐ │ Rangul localităţii │ Coeficient │ │ │de ponderare│ ├────────────────────────────────────────────┼────────────┤ │0 - Bucureşti │ 1,00 │ ├────────────────────────────────────────────┼────────────┤ │I - municipii de importanţă naţională │ 1,00 │ ├────────────────────────────────────────────┼────────────┤ │I.1 - cu peste 400.000 locuitori │ 0,99 │ ├────────────────────────────────────────────┼────────────┤ │I.2 - între 300.001 şi 400.000 locuitori │ 0,98 │ ├────────────────────────────────────────────┼────────────┤ │I.3 - între 200.000 şi 300.000 locuitori │ 0,97 │ ├────────────────────────────────────────────┼────────────┤ │II - municipii de importanţă interjudeţeană │ │ ├────────────────────────────────────────────┼────────────┤ │II.1 - între 150.001 şi 200.000 locuitori │ 0,96 │ ├────────────────────────────────────────────┼────────────┤ │II.2 - între 100.001 şi 150.000 locuitori │ 0,95 │ ├────────────────────────────────────────────┼────────────┤ │II.3 - între 50.001 şi 100.000 locuitori │ 0,94 │ ├────────────────────────────────────────────┼────────────┤ │II.4 - până la 50.000 locuitori │ 0,93 │ ├────────────────────────────────────────────┼────────────┤ │III - oraşe │ │ ├────────────────────────────────────────────┼────────────┤ │III.1 - cu peste 30.000 locuitori │ 0,92 │ ├────────────────────────────────────────────┼────────────┤ │III.2 - între 10.001 şi 30.000 locuitori │ 0,91 │ ├────────────────────────────────────────────┼────────────┤ │III.3 - până la 10.000 locuitori │ 0,90 │ ├────────────────────────────────────────────┼────────────┤ │IV - sate reşedinţă de comună │ 0,85 │ ├────────────────────────────────────────────┼────────────┤ │V - sate componente ale comunelor şi sate │ │ │aparţinând municipiilor şi oraşelor │ 0,80 │ └────────────────────────────────────────────┴────────────┘ unde: a) rangul 0 - capitala României, municipiu de importanţă europeană; b) rangul I - municipii de importanţă naţională, cu influenţă potenţială la nivel european; c) rangul II - municipii de importanţă interjudeţeană, judeţeană sau cu rol de echilibru în reţeaua de localităţi; d) rangul III - oraşe; e) rangul IV - sate reşedinţă de comună; f) rangul V - sate componente ale comunelor şi sate aparţinând municipiilor şi oraşelor;\"."
+    }
+  ],
+  "definitions": []
+}

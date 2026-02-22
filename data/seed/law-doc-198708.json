@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198708",
+  "type": "statute",
+  "title": "LEGE nr. 64 din 12 martie 2018",
+  "short_name": "lege 64 12 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-12",
+  "in_force_date": "2018-03-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198708",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 64 12/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 139 alineatul (1) din Legea nr. 53/2003 - Codul muncii, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările și completările ulterioare, după sintagma „- 24 ianuarie - Ziua Unirii Principatelor Române;“ se introduce o nouă liniuță, cu următorul cuprins: – Vinerea Mare, ultima zi de vineri înaintea Paștelui;"
+    }
+  ],
+  "definitions": []
+}

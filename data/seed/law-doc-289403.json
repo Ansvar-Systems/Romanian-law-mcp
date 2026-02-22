@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-289403",
+  "type": "statute",
+  "title": "LEGE nr. 257 din 11 octombrie 2024",
+  "short_name": "lege 257 11 10 2024",
+  "status": "in_force",
+  "issued_date": "2024-10-11",
+  "in_force_date": "2024-10-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/289403",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 257 11/10/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 38 din Legea nr. 200/2004 privind recunoașterea diplomelor și calificărilor profesionale pentru profesiile reglementate din România, publicată în Monitorul Oficial al României, Partea I, nr. 500 din 3 iunie 2004, cu modificările și completările ulterioare, se introduce un nou alineat, alin. (2), cu următorul cuprins: (2) Pentru profesiile prevăzute în anexa nr. 4, cunoașterea dreptului român se face prin examen de admitere în fiecare dintre profesiile cuprinse în anexă."
+    }
+  ],
+  "definitions": []
+}

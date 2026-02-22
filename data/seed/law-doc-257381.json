@@ -1,0 +1,40 @@
+{
+  "id": "law-doc-257381",
+  "type": "statute",
+  "title": "LEGE nr. 200 din 7 iulie 2022",
+  "short_name": "lege 200 07 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-07",
+  "in_force_date": "2022-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257381",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 200 07/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 1, după litera g) se introduc două noi litere, literele h) și i), cu următorul cuprins: h) prin supraviețuitor de cancer se înțelege persoana, astfel cum este definită la art. 1 alin. (2) din Legea nr. 18/2022 privind declararea primei zile de duminică din luna iunie ca Ziua națională a supraviețuitorilor de cancer; i) prin distribuitor de asigurări se înțelege persoana fizică sau juridică, astfel cum este definită la art. 3 alin. (1) pct. 6 din Legea nr. 236/2018 privind distribuția de asigurări, cu completările ulterioare. 2. După articolul 25 se introduce un nou capitol, capitolul IV^1, cuprinzând articolele 25^1 și 25^2, cu următorul cuprins: Capitolul IV^1 Dreptul de a fi uitat Articolul 25^1 (1) Prin derogare de la prevederile art. 2.203 alin. (1) din Legea nr. 287/2009 privind Codul civil, republicată , cu modificările ulterioare, în situația încheierii contractelor de asigurare, în cazul în care distribuitorul de asigurări solicită supraviețuitorului de cancer informații și documente în vederea evaluării riscului pentru preluarea, respectiv menținerea în asigurare, acesta are dreptul de a nu le furniza pe acelea care vizează afecțiunea oncologică, dacă a trecut un termen de 7 ani de la data încheierii protocolului oncologic. În cazul supraviețuitorului de cancer al cărui diagnostic a fost pus înainte de vârsta de 18 ani, termenul este de 5 ani de la data încheierii protocolului oncologic. (2) Distribuitorii de asigurări au obligația de a înscrie dreptul prevăzut la alin. (1) în mod clar, concis, ușor de înțeles și vizibil în același câmp vizual și cu caractere de aceeași mărime în documentele prin care solicită informațiile și documentele în vederea evaluării riscului, sub sancțiunea nulității relative a contractului de asigurare. (3) În vederea asigurării respectării dreptului de a fi uitat, personalul medico-sanitar are obligația de a nu furniza distribuitorilor de asigurări informațiile și documentele prevăzute la alin. (1). Articolul 25^2 La propunerea institutelor oncologice, prin normele de aplicare a legii, Ministerul Sănătății stabilește termene reduse față de termenul prevăzut la art. 25^1 alin. (1), pe categorii de vârstă și tipuri de afecțiuni oncologice ale supraviețuitorilor de cancer, pe baza datelor științifice privind progresele terapeutice. 3. La articolul 37 se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Nerespectarea de către distribuitorii de asigurări a dreptului pacientului prevăzut la art. 25^1 alin. (1) atrage răspunderea civilă, conform prevederilor legale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul IV^1 - Dreptul de a fi uitat",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la două luni de la data publicării în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul IV^1 - Dreptul de a fi uitat",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările și completările ulterioare, precum și cu completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se introduc două noi litere, literele h) și i), cu următorul cuprins",
+      "definition": "h) prin supraviețuitor de cancer se înțelege persoana, astfel cum este definită la art. 1 alin. (2) din Legea nr. 18/2022 privind declararea primei zile de duminică din luna iunie ca Ziua națională a supraviețuitorilor de cancer",
+      "source_provision": "Art.1"
+    }
+  ]
+}

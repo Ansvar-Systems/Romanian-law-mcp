@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-28980",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 27 septembrie 1990 (*republicată*)",
+  "short_name": "lege r 18 27 09 1990",
+  "status": "in_force",
+  "issued_date": "1990-09-27",
+  "in_force_date": "1990-09-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/28980",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE (R) 18 27/09/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifica Convenţia cu privire la drepturile copilului, adoptată de Adunarea Generală a Organizaţiei Naţiunilor Unite la 20 noiembrie 1989."
+    }
+  ],
+  "definitions": []
+}

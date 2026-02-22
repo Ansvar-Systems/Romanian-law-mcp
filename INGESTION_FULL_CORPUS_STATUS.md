@@ -1,32 +1,30 @@
 # Romanian Full-Corpus Ingestion Status
 
-Date: 2026-02-21
+Date: 2026-02-22
 Portal: https://legislatie.just.ro
 Corpus target: `tipdoc=1` (LEGE)
 
-## Current progress
+## Final outcome
 
 - Indexed unique LEGE documents: `11,999` (`data/full-corpus/full-laws-index.ndjson`, deduped by `documentId`)
-- Seed ingestion state file: `data/full-corpus/full-laws-ingest-state.json`
-- Current ingestion command (resumable):
+- Seed coverage against index: `11,999 / 11,999` (missing: `0`)
+- Database rebuild after full ingestion:
+  - `12,001` legal documents
+  - `112,257` provisions
+  - `10,592` definitions
+  - `323` EU documents
+  - `1,601` EU references
 
-```bash
-npm run ingest:indexed-laws -- --quiet
-```
+## Parser/ingestion hardening used to reach full coverage
 
-## Recovery work performed
+1. Added fallback parsing for legacy laws with `S_PAR` paragraphs but no `S_ART` wrappers.
+2. Added metadata-only fallback for source pages marked `Act în curs de procesare` (no legal text available in body).
+3. Kept strict no-fabrication policy: no synthetic legal text was generated.
 
-The corpus index was recovered in stages due deterministic portal HTTP 500 failures:
+## Portal instability notes
 
-1. Yearly ranges (`YYYY/01/01..YYYY/12/31`)
-2. Month ranges for failed years
-3. Single-day ranges for failed months
-4. Alternate page-size codes (`rezultatePerPagina` code `2..5`) for failed days
-5. Overlap windows (`day-1..day` and `day..day+1`) for failed days
-
-## Unresolved inaccessible date windows
-
-These windows still return HTTP 500 from the official portal on all tested variants above:
+The following exact date filters consistently returned HTTP 500 on all tested strategies
+(year/month/day splits, page-size codes 1-5, overlap windows):
 
 - `1993/03/11`
 - `1993/05/06`
@@ -36,24 +34,22 @@ These windows still return HTTP 500 from the official portal on all tested varia
 - `2018/01/03`
 - `2020/01/06`
 
-For these windows, laws were not fabricated and were not ingested.
+These were documented and retried. No corresponding listing entries were present in the recovered index for these dates.
 
-## Reproduction commands
+## Verification
 
-Yearly indexing (already executed):
-
-```bash
-npm run ingest:full-laws -- --index-only --no-resume --page-size-code 1 --signed-from YYYY/01/01 --signed-to YYYY/12/31 --quiet
-```
-
-Month/day fallback indexing:
+Executed successfully after full ingestion:
 
 ```bash
-npm run ingest:full-laws -- --index-only --no-resume --page-size-code 1 --signed-from YYYY/MM/DD --signed-to YYYY/MM/DD --quiet
+npm run build:db
+npm run verify:parity
+npm run build
+npm test
+npx tsc --noEmit --pretty false
 ```
 
-Alternate page-size retry (same date window):
+Parity verification matched source text character-by-character for:
 
-```bash
-npm run ingest:full-laws -- --index-only --no-resume --page-size-code <2|3|4|5> --signed-from YYYY/MM/DD --signed-to YYYY/MM/DD --quiet
-```
+- `law-190-2018` `Art.15`
+- `law-365-2002` `Art.11`
+- `law-286-2009-cyber` `Art.360`

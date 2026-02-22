@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257706",
+  "type": "statute",
+  "title": "LEGE nr. 238 din 20 iulie 2022",
+  "short_name": "lege 238 20 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-20",
+  "in_force_date": "2022-07-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257706",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 238 20/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 23 din 16 martie 2022 pentru completarea art. 43 din Legea nr. 411/2004 privind fondurile de pensii administrate privat, publicată în Monitorul Oficial al României, Partea I, nr. 259 din 16 martie 2022."
+    }
+  ],
+  "definitions": []
+}

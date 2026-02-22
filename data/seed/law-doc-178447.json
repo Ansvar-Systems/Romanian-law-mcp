@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-178447",
+  "type": "statute",
+  "title": "LEGE nr. 93 din 11 mai 2016",
+  "short_name": "lege 93 11 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-11",
+  "in_force_date": "2016-05-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178447",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 93 11/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (2) al art. 33 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările şi completările ulterioare, se modifică după cum urmează: \"(2) Semnalizarea lucrărilor care se execută pe drumurile publice este obligatorie. Aceasta este însoţită pe timpul nopţii de lămpi cu lumină galbenă intermitentă sau în cascadă şi se efectuează de către executantul lucrărilor, cu avizul poliţiei rutiere, astfel încât să asigure deplasarea în siguranţă a tuturor participanţilor la trafic, conform reglementărilor în vigoare.\""
+    }
+  ],
+  "definitions": []
+}

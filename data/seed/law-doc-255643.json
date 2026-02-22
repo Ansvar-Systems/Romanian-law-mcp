@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255643",
+  "type": "statute",
+  "title": "LEGE nr. 145 din 23 mai 2022",
+  "short_name": "lege 145 23 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-23",
+  "in_force_date": "2022-05-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255643",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 145 23/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 190 din 28 octombrie 2020 privind unele măsuri de asigurare a condițiilor de constituire și de depunere a jurământului de către autoritățile administrației publice locale, publicată în Monitorul Oficial al României, Partea I, nr. 1007 din 30 octombrie 2020."
+    }
+  ],
+  "definitions": []
+}

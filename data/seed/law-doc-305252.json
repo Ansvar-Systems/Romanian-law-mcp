@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305252",
+  "type": "statute",
+  "title": "LEGE nr. 225 din 12 decembrie 2025",
+  "short_name": "lege 225 12 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2025-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305252",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 225 12/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul dintre Guvernul României și Guvernul Republicii Bulgaria, semnat la București la 18 iunie 2025 și la Sofia la 16 iunie 2025, pentru modificarea Acordului dintre Guvernul României și Guvernul Republicii Bulgaria privind cooperarea polițienească transfrontalieră în materie penală, semnat la Vidin la 19 mai 2009, ratificat prin Legea nr. 101/2010 ."
+    }
+  ],
+  "definitions": []
+}

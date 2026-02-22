@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-235408",
+  "type": "statute",
+  "title": "LEGE nr. 293 din 17 decembrie 2020",
+  "short_name": "lege 293 17 12 2020",
+  "status": "in_force",
+  "issued_date": "2020-12-17",
+  "in_force_date": "2020-12-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/235408",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 293 17/12/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (2) al articolului 16 din Legea zootehniei nr. 32/2019 , publicată în Monitorul Oficial al României, Partea I, nr. 53 din 21 ianuarie 2019, se modifică și va avea următorul cuprins: (2) Prin derogare de la prevederile art. 315 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, unitățile administrativ-teritoriale, respectiv comunele și orașele, care dețin în proprietate publică/privată sau în administrare terenuri cu destinație agricolă, libere de contract, pot încheia contracte de concesiune/ închiriere/arendare, după caz, prin atribuire directă, cu crescătorii de animale prevăzuți la alin. (1)."
+    }
+  ],
+  "definitions": []
+}

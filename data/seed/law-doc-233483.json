@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-233483",
+  "type": "statute",
+  "title": "LEGE nr. 258 din 19 noiembrie 2020",
+  "short_name": "lege 258 19 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-19",
+  "in_force_date": "2020-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/233483",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 258 19/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La alineatul (2) al articolului 1 din Legea nr. 491/2003 privind plantele medicinale și aromatice, precum și produsele stupului, republicată în Monitorul Oficial al României, Partea I, nr. 52 din 20 ianuarie 2011, cu modificările și completările ulterioare, după litera e) se introduce o nouă literă, litera e^1), cu următorul cuprins: e^1) prelucrătorul este persoana fizică sau juridică ce prelucrează plantele medicinale și aromatice pentru comercializare și în materii prime pentru procesare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, se modifică după cum urmează: – La articolul 103 alineatul (1), litera a) se modifică și va avea următorul cuprins: a) cultivarea produselor agricole vegetale, precum și prelucrarea, procesarea și valorificarea lor în stare naturală;"
+    }
+  ],
+  "definitions": []
+}

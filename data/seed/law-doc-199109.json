@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-199109",
+  "type": "statute",
+  "title": "LEGE nr. 76 din 26 martie 2018",
+  "short_name": "lege 76 26 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-26",
+  "in_force_date": "2018-03-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/199109",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 76 26/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 72 din 5 octombrie 2017 privind implementarea Sistemului de avertizare a populației în situații de urgență „RO-ALERT“, publicată în Monitorul Oficial al României, Partea I, nr. 807 din 12 octombrie 2017."
+    }
+  ],
+  "definitions": []
+}

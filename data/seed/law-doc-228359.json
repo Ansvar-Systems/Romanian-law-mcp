@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-228359",
+  "type": "statute",
+  "title": "LEGE nr. 147 din 23 iulie 2020",
+  "short_name": "lege 147 23 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-23",
+  "in_force_date": "2020-07-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228359",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 147 23/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 33 din Legea nr. 502/2004 privind asociațiile pensionarilor, publicată în Monitorul Oficial al României, Partea I, nr. 1.092 din 24 noiembrie 2004, se modifică și va avea următorul cuprins: Articolul 33 Asociațiile și federațiile pensionarilor pot primi în folosință, cu titlu gratuit sau cu titlu oneros, orice bunuri mobile și imobile, necesare realizării scopului pentru care sunt înființate, inclusiv de la autoritățile administrației publice locale."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-3140",
+  "type": "statute",
+  "title": "LEGE Nr. 38 din 24 iunie 1993",
+  "short_name": "lege 38 24 06 1993",
+  "status": "in_force",
+  "issued_date": "1993-06-24",
+  "in_force_date": "1993-06-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/3140",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 38 24/06/1993",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Limita împrumutului de stat în suma de 89,0 miliarde lei, aprobată prin Legea nr. 114/1992 , se majorează la suma de 263,1 miliarde lei, pentru acoperirea deficitului bugetului de stat pe anul 1992."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Finanţelor este autorizat sa emita obligaţiuni, titluri sau alte înscrisuri de stat pentru acoperirea financiară a deficitului bugetului de stat pe anul 1992 menţionat la art. 1 din prezenta lege, precum şi pentru rambursarea ratei scadente în anul 1992, în suma de 8,2 miliarde lei, la împrumutul contractat pentru acoperirea deficitului bugetului de stat din anul 1991."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Tranşele şi tipurile de împrumuturi, elementele fiecărei emisiuni privind valorile nominale, rata dobinzii, semnele caracteristice ale obligaţiunilor, titlurilor şi înscrisurilor de stat, scadentele şi modalităţile de răscumpărare ale acestora se vor stabili de către Ministerul Finanţelor."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Obligaţiunile, titlurile şi înscrisurile de stat se vor vinde prin subscripţie publică, licitaţie sau alte modalităţi agreate de Ministerul Finanţelor, iar operaţiunile se vor derula direct de către acest minister sau prin agenţi autorizaţi."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Dobinzile care se cuvin deţinătorilor de obligaţiuni, titluri sau înscrisuri de stat nu se supun impozitării."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Pe măsura încasării sumelor provenite din împrumutul de stat, Ministerul Finanţelor va acoperi resursele financiare folosite temporar în cursul exerciţiului financiar 1992 pentru finanţarea deficitului bugetar. Această lege a fost adoptată de Senat în şedinţa din 7 iunie 1993, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE SENATULUI prof. univ. OLIVIU GHERMAN Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 7 iunie 1993, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE -------------"
+    }
+  ],
+  "definitions": []
+}

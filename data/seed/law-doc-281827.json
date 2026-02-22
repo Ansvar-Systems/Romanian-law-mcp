@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281827",
+  "type": "statute",
+  "title": "LEGE nr. 98 din 15 aprilie 2024",
+  "short_name": "lege 98 15 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-15",
+  "in_force_date": "2024-04-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281827",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 98 15/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 9 din Legea învățământului superior nr. 199/2023 , publicată în Monitorul Oficial al României, Partea I, nr. 614 din 5 iulie 2023, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 9 (1) În instituțiile de învățământ superior de stat învățământul este gratuit, pentru cifra de școlarizare aprobată anual prin hotărâre a Guvernului, și cu taxă. Cuantumul taxei de școlarizare este propus de consiliul de administrație, aprobat de senatul universitar și se aduce la cunoștința candidaților la data publicării ofertei educaționale, conform metodologiei-cadru privind organizarea admiterii în ciclurile de studii universitare de licență, de master și de doctorat."
+    }
+  ],
+  "definitions": []
+}

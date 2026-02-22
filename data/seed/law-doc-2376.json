@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-2376",
+  "type": "statute",
+  "title": "LEGE Nr. 100 din 16 septembrie 1992",
+  "short_name": "lege 100 16 09 1992",
+  "status": "in_force",
+  "issued_date": "1992-09-16",
+  "in_force_date": "1992-09-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2376",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 100 16/09/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România adera la Convenţia de la Haga din 25 octombrie 1980 asupra aspectelor civile ale rapirii internaţionale de copii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În conformitate cu dispoziţiile art. 6 alin. 1 din convenţie, se desemnează Ministerul Justiţiei ca autoritate centrala pentru aducerea la îndeplinire a obligaţiilor stabilite prin convenţie. Această lege a fost adoptată de Senat în şedinţa din 11 iunie 1992, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 8 septembrie 1992, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR MARŢIAN DAN"
+    }
+  ],
+  "definitions": []
+}

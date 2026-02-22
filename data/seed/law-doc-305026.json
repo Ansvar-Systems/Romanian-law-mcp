@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-305026",
+  "type": "statute",
+  "title": "LEGE nr. 211 din 8 decembrie 2025",
+  "short_name": "lege 211 08 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-08",
+  "in_force_date": "2025-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305026",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 211 08/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Denumirea satului Bâlvăneștii de Jos din comuna Bâlvănești, județul Mehedinți, se schimbă în satul Băsești. (2) Satele componente ale comunei Bâlvănești sunt următoarele: Bâlvănești, Băsești, Călineștii de Jos, Călineștii de Sus și Pârlagele."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "La județul Mehedinți din anexa la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României, republicată în Buletinul Oficial al României, Partea I, nr. 54-55 din 27 iulie 1981, cu modificările și completările ulterioare, la litera C. Comune , numărul curent 5 se modifică și va avea următorul cuprins: JUDEȚUL MEHEDINȚI C. COMUNE Nr. crt. Denumirea comunei Satele componente 5. Bâlvănești 1. Bâlvănești 2. Băsești 3. Călineștii de Jos 4. Călineștii de Sus 5. Pârlagele"
+    }
+  ],
+  "definitions": []
+}

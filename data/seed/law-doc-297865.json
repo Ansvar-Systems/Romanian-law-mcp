@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-297865",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 8 mai 2025",
+  "short_name": "lege 60 08 05 2025",
+  "status": "in_force",
+  "issued_date": "2025-05-08",
+  "in_force_date": "2025-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/297865",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 08/05/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se instituie ziua de 15 iunie ca Ziua Banatului Montan. (2) Sărbătorirea anuală a Zilei Banatului Montan poate fi marcată de autoritățile publice, autoritățile administrației publice centrale și locale, de instituțiile publice de cultură din țară și străinătate, precum și de organizațiile aparținând minorităților naționale, prin organizarea unor acțiuni și evenimente cu caracter cultural, educativ și artistic."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Autoritățile publice și autoritățile administrației publice centrale și locale, serviciile publice deconcentrate, precum și organizațiile aparținând minorităților naționale pot sprijini material sau logistic organizarea și desfășurarea acțiunilor și evenimentelor prevăzute la art. 1 alin. (2) , în limita alocărilor bugetare aprobate. (2) Cu ocazia sărbătoririi anuale a Zilei Banatului Montan, Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot produce, difuza sau redifuza conținut editorial care promovează acțiunile și activitățile realizate cu ocazia manifestărilor dedicate Zilei Banatului Montan."
+    }
+  ],
+  "definitions": []
+}

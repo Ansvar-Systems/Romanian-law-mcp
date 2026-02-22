@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-171846",
+  "type": "statute",
+  "title": "LEGE nr. 230 din 6 octombrie 2015",
+  "short_name": "lege 230 06 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-06",
+  "in_force_date": "2015-10-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/171846",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 230 06/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se instituie ziua de 14 noiembrie - Ziua Dobrogei. (2) Sărbătorirea anuală a Zilei Dobrogei poate fi marcată de autorităţile centrale şi locale, precum şi de instituţiile publice de cultură din ţară şi străinătate, prin organizarea unor programe şi manifestări cu caracter cultural-ştiinţific."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Autorităţile administraţiei publice centrale şi locale pot sprijini material sau logistic organizarea şi desfăşurarea programelor şi manifestărilor prevăzute la art. 1 alin. (2), în limita fondurilor disponibile. (2) Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni culturale ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

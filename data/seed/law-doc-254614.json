@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254614",
+  "type": "statute",
+  "title": "LEGE nr. 123 din 2 mai 2022",
+  "short_name": "lege 123 02 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-02",
+  "in_force_date": "2022-05-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254614",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 123 02/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 71 din 29 iunie 2021 privind promovarea vehiculelor de transport rutier nepoluante, în sprijinul unei mobilități cu emisii scăzute, pentru abrogarea Ordonanței de urgență a Guvernului nr. 40/2011 privind promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic și a Legii nr. 37/2018 privind promovarea transportului ecologic, publicată în Monitorul Oficial al României, Partea I, nr. 646 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-196917",
+  "type": "statute",
+  "title": "LEGE nr. 37 din 19 ianuarie 2018",
+  "short_name": "lege 37 19 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-19",
+  "in_force_date": "2018-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196917",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 37 19/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Autoritățile publice locale, regiile autonome și societățile aflate în subordinea unităților administrativ-teritoriale vor achiziționa mijloace de transport călători acționate prin motoare cu propulsie electrică, tehnologii verzi de tipul Electrice, Hybrid, Hybrid Plug-In, Hydrogen (FCV), motoare cu propulsie pe gaz natural comprimat, motoare cu propulsie pe gaz natural lichefiat și motoare cu propulsie pe biogaz, în proporție de minimum 30% din necesarul de achiziții viitoare. Procentul va fi calculat din totalul numărului de autovehicule achiziționate într-un an."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prevederile art. 1 se aplică și în cazul mijloacelor de transport școlar."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societățile cu capital privat care furnizează servicii publice de transport local și metropolitan sau în cadrul unei asociații de dezvoltare intercomunitară, inclusiv societățile de taxi, vor achiziționa, începând cu anul 2020, mijloace de transport călători acționate prin motoare cu propulsie electrică, tehnologii verzi de tipul Electrice, Hybrid, Hybrid Plug-In, Hydrogen (FCV), motoare cu propulsie pe gaz natural comprimat, motoare cu propulsie pe gaz natural lichefiat și motoare cu propulsie pe biogaz, în proporție de 30% din necesarul de achiziții viitoare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Achizițiile anuale de autovehicule făcute de autoritățile publice pentru deservirea parcului propriu trebuie să conțină în proporție de cel puțin 20% autoturisme acționate prin tehnologii verzi de tipul Electrice, Hybrid, Hybrid Plug-In și Hydrogen (FCV)."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Prevederile prezentei legi se aplică începând cu anul următor celui de intrare în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-21315",
+  "type": "statute",
+  "title": "LEGE nr. 45 din 19 decembrie 1969",
+  "short_name": "lege 45 19 12 1969",
+  "status": "in_force",
+  "issued_date": "1969-12-19",
+  "in_force_date": "1969-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21315",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 45 19/12/1969",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 650/1969 privind înfiinţarea, organizarea şi funcţionarea Ministerului Construcţiilor Industriale. --------"
+    }
+  ],
+  "definitions": []
+}

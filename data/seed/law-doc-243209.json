@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243209",
+  "type": "statute",
+  "title": "LEGE nr. 161 din 11 iunie 2021",
+  "short_name": "lege 161 11 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-11",
+  "in_force_date": "2021-06-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243209",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 161 11/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 176 din 14 octombrie 2020 pentru modificarea art. 6 din Ordonanța de urgență a Guvernului nr. 157/2020 privind acordarea unui ajutor financiar sub formă de voucher pentru încurajarea și sprijinirea copiilor în practicarea sportului de performanță, publicată în Monitorul Oficial al României, Partea I, nr. 960 din 19 octombrie 2020."
+    }
+  ],
+  "definitions": []
+}

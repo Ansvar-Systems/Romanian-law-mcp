@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275416",
+  "type": "statute",
+  "title": "LEGE nr. 277 din 17 octombrie 2023",
+  "short_name": "lege 277 17 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-17",
+  "in_force_date": "2023-10-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275416",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 277 17/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 12 din 5 martie 2019 pentru modificarea și completarea unor acte normative în domeniul justiției, publicată în Monitorul Oficial al României, Partea I, nr. 185 din 7 martie 2019."
+    }
+  ],
+  "definitions": []
+}

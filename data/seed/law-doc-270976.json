@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270976",
+  "type": "statute",
+  "title": "LEGE nr. 160 din 31 mai 2023",
+  "short_name": "lege 160 31 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-31",
+  "in_force_date": "2023-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270976",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 160 31/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 13 din 30 august 2021 pentru modificarea Ordonanței Guvernului nr. 18/2016 privind amenajarea spațiului maritim, adoptată în temeiul art. l pct. II.2 din Legea nr. 195/2021 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 831 din 31 august 2021."
+    }
+  ],
+  "definitions": []
+}

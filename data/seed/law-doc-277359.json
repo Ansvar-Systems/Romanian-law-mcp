@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277359",
+  "type": "statute",
+  "title": "LEGE nr. 404 din 13 decembrie 2023",
+  "short_name": "lege 404 13 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-13",
+  "in_force_date": "2023-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277359",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 404 13/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 100 din 29 iunie 2022 privind aprobarea și implementarea Planului național de măsuri cu privire la protecția și incluziunea persoanelor strămutate din Ucraina, beneficiare de protecție temporară în România, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 653 din 30 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

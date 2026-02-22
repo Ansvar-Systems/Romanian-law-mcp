@@ -1,0 +1,49 @@
+{
+  "id": "law-doc-39",
+  "type": "statute",
+  "title": "LEGE Nr. 163 din 14 martie 1946",
+  "short_name": "lege 163 14 03 1946",
+  "status": "in_force",
+  "issued_date": "1946-03-14",
+  "in_force_date": "1946-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/39",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 163 14/03/1946",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "În circumscripţiile judecătoreşti, unde cărţile funciare au fost distruse, sustrase, sau pierdute, în totul ori în parte, secţiunile de carte funciară vor întocmi, la cererea persoanei interesate, cărţi de evidenta funciară, în conformitate cu prevederile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cartea de evidenta funciară se va întocmi numai în următoarele cazuri: 1. cînd se stramuta sau se grevează proprietatea asupra unui imobil, ori se constituie se stramuta, se modifica sau se grevează un alt drept real imobiliar, fie prin act juridic, fie în temeiul legii; 2. cînd se cere înscrierea unui drept personal ce poate fi notat sau rangul unei ipoteci."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Dispoziţiile legilor, regulamentelor şi ordonanţelor de carte funciară în vigoare se vor aplica în mod corespunzător întocmirii şi ţinerii cărţilor de evidenta funciară, precum şi înscrisurilor făcute în ele, dacă nu se dispune altfel prin legea de faţa."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Înscrierile făcute în cărţile de evidenta funciară, nu aduc nici o atingere drepturilor reale imobiliare, dobîndite anterior publicării prezentei legi, sau drepturilor personale ce au devenit opozabile anterior acestei date, sa ramina, potrivit normelor atunci în vigoare. De asemenea, nu se aduce atingere drepturilor reale imobiliare dobîndite în temeiul legilor de improprietarire şi a decretului-lege nr. 3073 din 8 septembrie 1940 *1). ---------------------------- *1) Legea din 8.IX.1940 pentru înscrierea drepturilor de proprietate pe baza sentinţelor judecătoreşti de expropriere şi improprietarire, precum şi pentru vînzările făcute de către stat din suprafeţele expropriate şi acelor rezultate din exercitarea dreptului de preemţiune. ---------------------------- Formularea textului din alin. 1 este incompleta. El trebuie înţeles în sensul că drepturile reale imobiliare dobîndite înainte de publicarea acestei legi, ca şi drepturile personale ce au devenit opozabile anterior acestei date, rămîn valabile în măsura în care au fost dobîndite potrivit normelor atunci în vigoare."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "De la data publicării legii de faţa, drepturile reale asupra imobilelor, situate în comunele ale căror cărţi funciare au fost distruse, sustrase sau pierdute, se vor constitui, dobîndi, stramuta sau modifica numai prin înscrierea în cărţile de evidenta funciară; tot astfel se vor putea stinge drepturile înscrise în cărţile de evidenta funciară. Sînt exceptate de la aceasta regula dobindirile din cauza de moarte, accesiune, vînzare silită, uzucapiune şi expropriere. -------------------------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255941",
+  "type": "statute",
+  "title": "LEGE nr. 170 din 3 iunie 2022",
+  "short_name": "lege 170 03 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-03",
+  "in_force_date": "2022-06-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255941",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 170 03/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 369 din Legea nr. 286/2009 privind Codul penal , publicată în Monitorul Oficial al României, Partea I, nr. 510 din 24 iulie 2009, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 369 Incitarea la violență, ură sau discriminare Incitarea publicului, prin orice mijloace, la violență, ură sau discriminare împotriva unei categorii de persoane sau împotriva unei persoane pe motiv că face parte dintr-o anumită categorie de persoane definită pe criterii de rasă, naționalitate, etnie, limbă, religie, gen, orientare sexuală, opinie ori apartenență politică, avere, origine socială, vârstă, dizabilitate, boală cronică necontagioasă sau infecție HIV/SIDA, considerate de făptuitor drept cauze ale inferiorității unei persoane în raport cu celelalte, se pedepsește cu închisoare de la 6 luni la 3 ani sau cu amendă."
+    }
+  ],
+  "definitions": []
+}

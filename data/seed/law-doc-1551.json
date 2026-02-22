@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-1551",
+  "type": "statute",
+  "title": "LEGE Nr. 71 din 3 decembrie 1991",
+  "short_name": "lege 71 03 12 1991",
+  "status": "in_force",
+  "issued_date": "1991-12-03",
+  "in_force_date": "1991-12-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1551",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 71 03/12/1991",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pentru serviciile prestate de comisiile comunale, orăşeneşti, municipale şi judeţene privind stabilirea dreptului de proprietate asupra terenurilor şi asigurarea surselor necesare în vederea pregătirii operaţiunilor de înscriere a titlurilor de proprietate în evidenta cadastrala juridică, se instituie taxa de 200lei/hectar sau fracţiune de hectar pentru eliberarea titlului de proprietate potrivit Legii nr. 18/1991 privind fondul funciar. Taxa se plăteşte înainte de eliberarea titlului de proprietate, la unităţile Casei de Economii şi Consemnaţiuni sau la organele fiscale teritoriale ale Ministerului Economiei şi Finanţelor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele încasate de organele prevăzute la art. 1 se depun la bugetul administraţiei centrale de stat în contul 60.22 x \"Încasări din alte surse\"."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Pe data intrării în vigoare a prezentei legi se abroga Hotărîrea Guvernului nr. 270/1991 privind instituirea taxei pentru eliberarea titlurilor de proprietate asupra terenurilor, precum şi orice alte dispoziţii contrare. Această lege a fost adoptată de Senat în şedinţa din 27 noiembrie 1991. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din 27 noiembrie 1991. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea privind instituirea taxei pentru eliberarea titlurilor de proprietate asupra terenurilor şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU ----------------------"
+    }
+  ],
+  "definitions": []
+}

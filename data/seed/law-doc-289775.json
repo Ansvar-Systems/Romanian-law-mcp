@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-289775",
+  "type": "statute",
+  "title": "LEGE nr. 259 din 15 octombrie 2024",
+  "short_name": "lege 259 15 10 2024",
+  "status": "in_force",
+  "issued_date": "2024-10-15",
+  "in_force_date": "2024-10-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/289775",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 259 15/10/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă majorarea capitalului deținut de România în calitate de membru la Banca Europeană pentru Reconstrucție și Dezvoltare cu 1.936 de acțiuni, în valoare de 19.360.000 euro, în conformitate cu prevederile Rezoluției nr. 265/2023, adoptată de Consiliul Guvernatorilor Băncii Europene pentru Reconstrucție și Dezvoltare, privind creșterea capitalului social autorizat și subscrierea la acesta. Valoarea capitalului vărsat este de 19.360.000 euro și se achită începând cu anul 2025 prin virament bancar în euro, anual, în tranșe egale până la data de 30 aprilie 2029."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Plata acțiunilor subscrise în conformitate cu prevederile Rezoluției Consiliului Guvernatorilor Băncii Europene pentru Reconstrucție și Dezvoltare nr. 265/2023 se asigură anual de la bugetul de stat, prin bugetul Ministerului Finanțelor."
+    }
+  ],
+  "definitions": []
+}

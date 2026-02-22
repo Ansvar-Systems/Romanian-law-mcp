@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-248402",
+  "type": "statute",
+  "title": "LEGE nr. 270 din 11 noiembrie 2021",
+  "short_name": "lege 270 11 11 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-11",
+  "in_force_date": "2021-11-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/248402",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 270 11/11/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 109 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, după alineatul (6) se introduc șase noi alineate, alineatele (7)-(12), cu următorul cuprins: (7) Casa Națională de Pensii Publice transmite, la cerere, în format electronic, pe e-mail sau în contul on-line deschis în portalul CNPP, documentul de informare cu privire la sumele plătite beneficiarilor care au optat pentru efectuarea plății drepturilor prevăzute la alin. (1) și (2) în cont curent sau în cont de card. (8) Documentul de informare prevăzut la alin. (6) se transmite în format electronic începând cu luna următoare înregistrării cererii, în maximum 48 de ore de la efectuarea plății drepturilor în cont curent sau cont de card. (9) Documentul de informare prevăzut la alin. (6), transmis în format electronic, produce efecte juridice identice cu documentul de informare cu privire la sumele plătite transmis lunar la domiciliu sau, după caz, la reședință prin serviciul de corespondență standard. (10) Documentul de informare prevăzut la alin. (6), în format electronic, este acceptat ca document valid în relația cu toate instituțiile și autoritățile publice. Instituțiile și autoritățile publice care îl solicită nu vor condiționa oferirea de informații sau de servicii de prezentarea documentului în format fizic. (11) Documentul de informare prevăzut la alin. (6), în format electronic, conține toate elementele de identificare unică de pe documentul fizic omolog. (12) Casa Națională de Pensii Publice arhivează documentele de informare cu privire la sumele plătite, transmise în format electronic, în conformitate cu prevederile Legii Arhivelor Naționale nr. 16/1996, republicată , în condițiile tehnice stabilite de Legea nr. 135/2007 privind arhivarea documentelor în formă electronică, republicată."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Hotărârea Guvernului nr. 257/2011 pentru aprobarea Normelor de aplicare a prevederilor Legii nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 214 din 28 martie 2011, cu completările ulterioare, va fi actualizată, în mod corespunzător, în termen de 90 de zile de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

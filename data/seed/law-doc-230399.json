@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-230399",
+  "type": "statute",
+  "title": "LEGE nr. 208 din 23 septembrie 2020",
+  "short_name": "lege 208 23 09 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-23",
+  "in_force_date": "2020-09-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/230399",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 208 23/09/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 26/1990 privind registrul comerțului, republicată în Monitorul Oficial al României, Partea I, nr. 49 din 4 februarie 1998, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 18, după alineatul (3) se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) În absența comerciantului persoană fizică, respectiv a reprezentantului asociației familiale, semnătura acestuia poate fi înlocuită prin prezentarea la registrul comerțului, de către avocat, a împuternicirii avocațiale care conține semnătura clientului, respectiv a comerciantului persoană fizică sau a reprezentantului asociației familiale. Semnătura persoanei fizice trebuie dată personal în fața avocatului și va fi folosită în întreaga activitate a comerciantului persoană fizică, respectiv a reprezentantului asociației familiale. 2. La articolul 19, alineatul (2) se modifică și va avea următorul cuprins: (2) Dovedirea specimenului de semnătură a administratorilor și, după caz, a reprezentanților societăților, precum și a persoanelor împuternicite în condițiile legii să reprezinte regiile autonome sau organizațiile cooperatiste se face cu respectarea prevederilor art. 18 alin. (2)-(4)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 56 din Legea nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 589 din 18 iulie 2019, cu modificările și completările ulterioare, alineatul (5) se modifică și va avea următorul cuprins: (5) Declarația prevăzută la alin. (1) se poate da în fața reprezentantului oficiului registrului comerțului sau se poate depune, personal sau prin reprezentant, având dată certă, dată de notarul public ori atestată de avocat."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 290/2004 privind cazierul judiciar, republicată în Monitorul Oficial al României, Partea I, nr. 777 din 13 noiembrie 2009, cu modificările și completările ulterioare, se modifică după cum urmează: – La articolul 31, litera a) a alineatului (1) și alineatul (2) se modifică și vor avea următorul cuprins: a) în țară, de către avocatul persoanei fizice în baza împuternicirii avocațiale emise cu respectarea prevederilor Legii nr. 51/1995 pentru organizarea și funcționarea profesiei de avocat, republicată, cu modificările și completările ulterioare, și Statutului profesiei de avocat, adoptat prin Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64/2011, cu modificările și completările ulterioare, sau, după caz, de alt împuternicit, pe baza unei procuri autentificate de către notarul public; .................................................................................................. (2) Conținutul procurii, respectiv al împuternicirii avocațiale trebuie formulat în termeni clari, din care să rezulte persoana sau, după caz, avocatul care a fost mandatat, scopul și durata mandatului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul IV",
+      "content": "La articolul 10 din Legea nr. 119/1996 cu privire la actele de stare civilă, republicată în Monitorul Oficial al României, Partea I, nr. 339 din 18 mai 2012, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 10 (1) Pe baza actelor de stare civilă se eliberează certificate de naștere și de căsătorie titularilor sau reprezentanților legali ai acestora, iar certificatele de deces, membrilor familiei sau altor persoane îndreptățite. Certificatele de stare civilă se pot elibera și altor persoane împuternicite prin procură specială, precum și avocaților împuterniciți de către titulari sau de către reprezentanții legali ai acestora, în baza împuternicirii avocațiale emise cu respectarea prevederilor Legii nr. 51/1995 pentru organizarea și funcționarea profesiei de avocat, republicată, cu modificările și completările ulterioare, și Statutului profesiei de avocat , adoptat prin Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64/2011 , cu modificările și completările ulterioare. În certificatele de stare civilă nu vor fi preluate titlurile de noblețe, chiar dacă au fost înscrise în unele acte de stare civilă."
+    }
+  ],
+  "definitions": []
+}

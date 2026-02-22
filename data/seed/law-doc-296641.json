@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-296641",
+  "type": "statute",
+  "title": "LEGE nr. 47 din 14 aprilie 2025",
+  "short_name": "lege 47 14 04 2025",
+  "status": "in_force",
+  "issued_date": "2025-04-14",
+  "in_force_date": "2025-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/296641",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 47 14/04/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 66 din 13 iunie 2024 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și pentru modificarea și completarea unor acte normative în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 563 din 17 iunie 2024, cu următoarea modificare: – La articolul I punctul 13 , alineatul (4) al articolului 244 se modifică și va avea următorul cuprins: (4) Asigurații beneficiază de servicii de fizioterapie, conform planului terapeutic, pe baza prescripției medicale și a diagnosticului clinic stabilit de către medicul de specialitate curant sau medicul prescriptor, servicii stabilite în conformitate cu prevederile Legii nr. 229/2016 privind organizarea și exercitarea profesiei de fizioterapeut, precum și pentru înființarea, organizarea și funcționarea Colegiului Fizioterapeuților din România, cu modificările ulterioare, în condițiile prevăzute în contractul-cadru și în normele sale de aplicare."
+    }
+  ],
+  "definitions": []
+}

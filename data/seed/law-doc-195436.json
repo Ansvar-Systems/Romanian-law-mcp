@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195436",
+  "type": "statute",
+  "title": "LEGE nr. 233 din 29 noiembrie 2017",
+  "short_name": "lege 233 29 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-29",
+  "in_force_date": "2017-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195436",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 233 29/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța Guvernului nr. 14 din 8 iulie 2015 pentru completarea Ordonanței de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice, adoptată în temeiul art. 1 pct. I poz. 3 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 506 din 8 iulie 2015."
+    }
+  ],
+  "definitions": []
+}

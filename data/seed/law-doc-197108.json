@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-197108",
+  "type": "statute",
+  "title": "LEGE nr. 45 din 19 ianuarie 2018",
+  "short_name": "lege 45 19 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-19",
+  "in_force_date": "2018-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/197108",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 45 19/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 35 din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole și celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 și ale Legii nr. 169/1997 , publicată în Monitorul Oficial al României, Partea I, nr. 8 din 12 ianuarie 2000, cu modificările și completările ulterioare, se abrogă."
+    }
+  ],
+  "definitions": []
+}

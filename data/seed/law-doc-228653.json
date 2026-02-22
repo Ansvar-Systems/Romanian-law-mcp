@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-228653",
+  "type": "statute",
+  "title": "LEGE nr. 165 din 4 august 2020",
+  "short_name": "lege 165 04 08 2020",
+  "status": "in_force",
+  "issued_date": "2020-08-04",
+  "in_force_date": "2020-08-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228653",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 165 04/08/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 86 din 27 mai 2020 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 63/2020 pentru organizarea și desfășurarea unor campanii de informare publică în contextul situației epidemiologice determinate de răspândirea COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 448 din 27 mai 2020, cu următoarea modificare: – La articolul unic punctul 1 , alineatul (1) al articolului 1 se modifică și va avea următorul cuprins: Articolul 1 (1) Guvernul difuzează contra cost, prin intermediul serviciilor de programe de televiziune și radiodifuziune, al ziarelor tipărite, revistelor, publicațiilor periodice, al furnizorilor de servicii media online și furnizorilor de publicitate prin mijloace de publicitate amplasate în localități, înregistrate în România, campanii de informare publică privind măsurile de prevenire și limitare a răspândirii coronavirusului SARS-CoV-2, precum și campanii de informare publică privind modul de reluare a activităților economice și sociale și de promovare a produselor și serviciilor românești, în conformitate cu prezenta ordonanță de urgență, pentru o perioadă de 180 de zile de la data încheierii în acest sens a contractelor de prestări servicii, dar nu mai târziu de 31 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

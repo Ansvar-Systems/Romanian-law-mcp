@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-227838",
+  "type": "statute",
+  "title": "LEGE nr. 131 din 15 iulie 2020",
+  "short_name": "lege 131 15 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-15",
+  "in_force_date": "2020-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227838",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 131 15/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 270 alineatul (8) din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, după litera c) se introduce o nouă literă, litera d), cu următorul cuprins: d) transferul alimentelor destinate consumului uman, aflate aproape de expirarea datei durabilității minimale, în situația în care acesta este efectuat potrivit prevederilor legale privind diminuarea risipei alimentare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 217/2016 privind diminuarea risipei alimentare, republicată în Monitorul Oficial al României, Partea I, nr. 103 din 11 februarie 2019, se modifică după cum urmează: 1. Articolul 4 va avea următorul cuprins: Articolul 4 Operatorii economici care transferă alimente prin donare, potrivit prevederilor prezentei legi, beneficiază de facilitățile fiscale prevăzute la art. 25 alin. (4) lit. c) pct. 4-6 și la art. 270 alin. (8) lit. d) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare. 2. Articolul 6 va avea următorul cuprins: Articolul 6 (1) Transferul alimentelor către operatorii receptori se face în baza unui contract încheiat cu respectarea prezentei legi. (2) Alimentele transferate se consideră a face obiectul darului manual în sensul art. 1.011 alin. (4) din Legea nr. 287/2009 privind Codul civil, republicată, cu modificările ulterioare, indiferent de valoare. 3. La anexă, punctul 6 va avea următorul cuprins: 6. Operatorii receptori (organizații beneficiare) - operatorii din sectorul agroalimentar care desfășoară activități înregistrate/autorizate sanitar-veterinar și pentru siguranța alimentelor, ce răspund de respectarea legislației din domeniul igienei alimentelor după preluarea acestora de la operatorii donatori;"
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Guvernul modifică și completează în mod corespunzător Normele metodologice de aplicare a Legii nr. 217/2016 privind diminuarea risipei alimentare, aprobate prin Hotărârea Guvernului nr. 51/2019 , precum și Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal , aprobate prin Hotărârea Guvernului nr. 1/2016 , cu modificările și completările ulterioare, la propunerea Ministerului Finanțelor Publice, a Ministerului Agriculturii și Dezvoltării Rurale și a Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-216138",
+  "type": "statute",
+  "title": "LEGE nr. 138 din 12 iulie 2019",
+  "short_name": "lege 138 12 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-12",
+  "in_force_date": "2019-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216138",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 138 12/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea administrației publice locale nr. 215/2001, republicată în Monitorul Oficial al României, Partea I, nr. 123 din 20 februarie 2007, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 34, după alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: (3) Exercitarea mandatului consiliului local debutează la data adoptării hotărârii prevăzută la alin. (2). Durata mandatului consiliului local reprezintă durata între data de constituire a consiliului local, în urma desfășurării alegerilor locale generale, și ziua anterioară datei de constituire a noului consiliu local, ca urmare a desfășurării unor noi alegeri locale generale. 2. La articolul 55 alineatul (1), litera a) se modifică și va avea următorul cuprins: a) în cazul în care acesta nu se întrunește timp de două luni de mandat consecutiv, deși a fost convocat conform prevederilor legale; 3. La articolul 55, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Luna de mandat a consiliului local avută în vedere pentru îndeplinirea condițiilor prevăzute la alin. (1) lit. a) și b) este, de regulă, diferită față de luna calendaristică."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea administrației publice locale nr. 215/2001, republicată în Monitorul Oficial al României, Partea I, nr. 123 din 20 februarie 2007, cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

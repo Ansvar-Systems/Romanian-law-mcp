@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303499",
+  "type": "statute",
+  "title": "LEGE nr. 153 din 16 octombrie 2025",
+  "short_name": "lege 153 16 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-16",
+  "in_force_date": "2025-10-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303499",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 153 16/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată în Monitorul Oficial al României, Partea I, nr. 1 din 3 ianuarie 2008, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 78, alineatul (4^1) se abrogă. 2. La articolul 78, alineatele (4^3) și (5) se modifică și vor avea următorul cuprins: (4^3) Activitățile de vânzări și/sau intermedieri prevăzute la alin. (4^2) se referă numai la produse și/sau servicii realizate parțial sau integral prin activitatea proprie a persoanelor cu handicap angajate și oferite de către o altă unitate protejată autorizată potrivit dispozițiilor prezentei legi. (5) Controlul respectării prevederilor alin. (2) și (3) se face de către organele fiscale din cadrul Agenției Naționale de Administrare Fiscală."
+    }
+  ],
+  "definitions": []
+}

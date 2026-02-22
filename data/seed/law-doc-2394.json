@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-2394",
+  "type": "statute",
+  "title": "LEGE nr. 107 din 3 octombrie 1992",
+  "short_name": "lege 107 03 10 1992",
+  "status": "in_force",
+  "issued_date": "1992-10-03",
+  "in_force_date": "1992-10-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2394",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 107 03/10/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articol - unic",
+      "content": "România aderă la Convenția internațională privind standardele de pregătire a navigatorilor, brevetare/atestare și efectuare a serviciului de cart, adoptată la Londra la 7 iulie 1978 (STCW 1978)."
+    }
+  ],
+  "definitions": []
+}

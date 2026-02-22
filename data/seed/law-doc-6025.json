@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-6025",
+  "type": "statute",
+  "title": "LEGE Nr. 49 din 30 mai 1995",
+  "short_name": "lege 49 30 05 1995",
+  "status": "in_force",
+  "issued_date": "1995-05-30",
+  "in_force_date": "1995-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/6025",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 49 30/05/1995",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pensiile militare de stat stabilite potrivit legii se actualizează în raport cu solda de grad a cadrelor militare în activitate, în condiţiile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Suma cu care se actualizează pensiile militare de stat se determina prin aplicarea procentelor din legea privind pensiile militare de stat la diferenţa dintre solda gradului militar a cadrelor militare în activitate şi solda aferentă gradului militar avut la trecerea în rezerva. (2) Prevederile alin. (1) se aplică şi persoanelor care au fost trecute în rezerva anterior intrării în vigoare a prezentei legi şi solicita înscrierea la pensie. (3) Partea din pensie corespunzătoare soldei de grad se actualizează permanent potrivit soldei de grad a cadrelor în activitate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Pentru cadrele militare trecute în rezerva înaintea datei de 1 ianuarie 1967, la actualizarea pensiilor militare în condiţiile art. 2 alin. (1) se are în vedere diferenţa dintre solda de grad actuala şi cea în vigoare la 1 ianuarie 1967, potrivit gradului militar avut la trecerea în rezerva."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Fondurile necesare aplicării prezentei legi se asigura din bugetul de stat."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Prezenta lege intră în vigoare începând cu data de întâi a lunii următoare publicării ei în Monitorul Oficial al României. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 15 mai 1995, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE Această lege a fost adoptată de Senat în şedinţa din 17 mai 1995, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. PREŞEDINTELE SENATULUI prof.univ.dr. OLIVIU GHERMAN ---------------"
+    }
+  ],
+  "definitions": []
+}

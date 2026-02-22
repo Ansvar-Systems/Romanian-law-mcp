@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30585",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 1 aprilie 1937",
+  "short_name": "lege 125 01 04 1937",
+  "status": "in_force",
+  "issued_date": "1937-04-01",
+  "in_force_date": "1937-04-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30585",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 01/04/1937",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se autoriza Guvernul ca prin jurnale ale Consiliului de Miniştri, sa acorde scutiri de toate drepturile de import ce se percep de către vami (afară de taxa de 2% statistica şi 1% fond industrial), pentru maşinile, părţile şi accesoriile de maşini, ce se vor importa de întreprinderile industriale care lucrează pentru apărarea naţionala, avînd contracte de furnituri de executat cu Ministerul Apărării Naţionale sau Aerului şi Marinei, maşini al căror import este indispensabil şi a căror procurare a fost impusa în mod expres prin contractele încheiate cu aceste departamente, pentru executarea comenzilor, impunandu-li-se în acelaşi timp, fie condiţia ca aceste maşini să între după un anumit timp, în proprietatea departamentelor respective, fie condiţia ca aceste departamente să-şi rezerve un drept de control asupra întrebuinţării lor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Jurnalele Consiliului de Miniştri se vor întocmi dela caz la caz, de către Ministerul de Finanţe, în urma cererilor Ministerelor Apărării Naţional sau Aerului şi Marinei şi a prezentării clauzelor din contract, care să cuprindă obligaţiile de mai sus, certificate de departamentul respectiv. Avizul Consiliului Legislativ, secţia III, Nr. 63/937. Desbateri: Camera Nr. 49-1936/37; Senat Nr. 47-1936/37. Votat de Adunarea Deputaţilor la 14 Martie şi de Senat la 17 Martie 1937. -------------"
+    }
+  ],
+  "definitions": []
+}

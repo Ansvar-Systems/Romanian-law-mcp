@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-232664",
+  "type": "statute",
+  "title": "LEGE nr. 234 din 5 noiembrie 2020",
+  "short_name": "lege 234 05 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-05",
+  "in_force_date": "2020-11-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/232664",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 234 05/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După articolul 71 din Legea nr. 223/2015 privind pensiile militare de stat, publicată în Monitorul Oficial al României, Partea I, nr. 556 din 27 iulie 2015, cu modificările și completările ulterioare, se introduce un nou articol, articolul 71 ^1, cu următorul cuprins: Articolul 71^1 (1) Nu beneficiază de pensie de serviciu ori de pensie de invaliditate, în condițiile prevăzute de prezenta lege, pensionarii care au fost condamnați definitiv pentru săvârșirea unei infracțiuni contra umanității. Aceste persoane beneficiază de pensie în sistemul public, în condițiile legii. (2) În cazul condamnării definitive a unui pensionar militar pentru săvârșirea unei infracțiuni contra umanității, în termen de 10 zile de la data rămânerii definitive a hotărârii judecătorești, instanțele judecătorești au obligația să comunice, în scris, casei de pensii sectoriale în evidențele căreia se află pensionarul condamnat informații de natură să conducă la încetarea pensiei. (3) Vechimea în serviciu recunoscută pentru stabilirea pensiilor, în cazul persoanelor prevăzute la alin. (1), constituie stagiu de cotizare în sistemul public de pensii."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263795",
+  "type": "statute",
+  "title": "LEGE nr. 19 din 9 ianuarie 2023",
+  "short_name": "lege 19 09 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-09",
+  "in_force_date": "2023-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263795",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 19 09/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 1 din 13 ianuarie 2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 121/2021 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ, publicată în Monitorul Oficial al României, Partea I, nr. 41 din 13 ianuarie 2022."
+    }
+  ],
+  "definitions": []
+}

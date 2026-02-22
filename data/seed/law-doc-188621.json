@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188621",
+  "type": "statute",
+  "title": "LEGE nr. 78 din 26 aprilie 2017",
+  "short_name": "lege 78 26 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-26",
+  "in_force_date": "2017-04-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188621",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 78 26/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Poziţia „Nisipuri şi pietrişuri\" din anexa la Ordonanţa de urgenţă a Guvernului nr. 36/2001 privind regimul preţurilor şi tarifelor reglementate, care se stabilesc cu avizul Oficiului Concurenţei, publicată în Monitorul Oficial al României, Partea I, nr. 115 din 7 martie 2001, aprobată cu modificări şi completări prin Legea nr. 205/2002 , cu modificările ulterioare, se abrogă."
+    }
+  ],
+  "definitions": []
+}

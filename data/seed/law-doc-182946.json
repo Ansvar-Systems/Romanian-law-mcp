@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-182946",
+  "type": "statute",
+  "title": "LEGE nr. 188 din 20 octombrie 2016",
+  "short_name": "lege 188 20 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-20",
+  "in_force_date": "2016-10-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/182946",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 188 20/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Protocolul suplimentar, semnat la Doha la 3 mai 2015, la Acordul dintre Guvernul României şi Guvernul Statului Qatar privind transporturile aeriene, semnat la Bucureşti la 26 iulie 1993, ratificat prin Legea nr. 663/2001 ."
+    }
+  ],
+  "definitions": []
+}

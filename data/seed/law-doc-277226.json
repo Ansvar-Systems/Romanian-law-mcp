@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-277226",
+  "type": "statute",
+  "title": "LEGE nr. 382 din 11 decembrie 2023",
+  "short_name": "lege 382 11 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-11",
+  "in_force_date": "2023-12-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277226",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 382 11/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "(1) Se aprobă plata contribuției financiare pentru participarea Centrului Național al Cinematografiei la Asociația Directorilor Agenției Europene de Film - EFAD, reprezentând echivalentul în lei al sumei de 37.500 euro, aferentă cotizației pentru anii 2014-2023. (2) Echivalentul în lei al sumei prevăzute la alin. (1) se calculează pe baza cursului oficial de schimb euro/leu al Băncii Naționale a României în vigoare la data efectuării plății contribuției financiare. (3) Suma prevăzută la alin. (1) se suportă din bugetul Centrului Național al Cinematografiei, cu încadrarea în bugetul aprobat pentru anul 2023."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În anexa nr. 2.2 „Cotizații la alte organisme internaționale“ la Ordonanța Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale intraguvernamentale la care România este parte, publicată în Monitorul Oficial al României, Partea I, nr. 241 din 29 august 1994, aprobată prin Legea nr. 126/1994 , cu modificările și completările ulterioare, la subcapitolul „Ministerul Culturii“, după numărul curent 18 se introduce un nou număr curent, nr. crt. 19, cu următorul cuprins: Nr. crt. Organismul internațional Valuta Sume propuse la plată în anul 1994 (cotizații curente plus restanțe) 0 1 2 3 19. Asociația Directorilor Agenției Europene de Film - EFAD euro 37.500"
+    }
+  ],
+  "definitions": []
+}

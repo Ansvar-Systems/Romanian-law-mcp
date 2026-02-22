@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-103809",
+  "type": "statute",
+  "title": "LEGE nr. 49 din 20 martie 2009",
+  "short_name": "lege 49 20 03 2009",
+  "status": "in_force",
+  "issued_date": "2009-03-20",
+  "in_force_date": "2009-03-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/103809",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 49 20/03/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 102 din 3 septembrie 2008 pentru modificarea și completarea Legii nr. 273/2004 privind regimul juridic al adopției, publicată în Monitorul Oficial al României, Partea I, nr. 639 din 5 septembrie 2008, cu următoarea completare: – La articolul I, după punctul 9 se introduce un nou punct, punctul 9^1, cu următorul cuprins: 9^1. Articolul 39 se modifică și va avea următorul cuprins: Articolul 39 Adopția internațională a copilului care are domiciliul în România poate fi încuviințată numai în situația în care adoptatorul sau unul dintre soții din familia adoptatoare care domiciliază în străinătate este rudă până la gradul al III-lea inclusiv cu copilul pentru care a fost încuviințată deschiderea procedurii adopției interne."
+    }
+  ],
+  "definitions": []
+}

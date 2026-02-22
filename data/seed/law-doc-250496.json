@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-250496",
+  "type": "statute",
+  "title": "LEGE nr. 21 din 14 ianuarie 2022",
+  "short_name": "lege 21 14 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-14",
+  "in_force_date": "2022-01-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250496",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 21 14/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 15 februarie ca Ziua națională a lecturii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu prilejul Zilei naționale a lecturii se pot organiza activități culturale, sociale și educaționale prin care se evidențiază importanța lecturii, în special în formarea copiilor și tinerilor."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Autoritățile administrației publice centrale și locale, serviciile publice deconcentrate, astfel cum sunt definite la art. 5 lit. ll) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, cu atribuții în domeniile educației și culturii, precum și instituțiile de învățământ superior pot acorda sprijin material, financiar și logistic bibliotecilor, muzeelor, instituțiilor de învățământ, organizațiilor neguvernamentale, editurilor, precum și altor instituții cu atribuții în domeniile educației și culturii pentru organizarea de evenimente de încurajare a lecturii, în limita resurselor bugetare și logistice disponibile. (2) Autoritățile și instituțiile prevăzute la alin. (1) pot organiza manifestări culturale dedicate Zilei naționale a lecturii în colaborare cu asociații și fundații care au ca obiect de activitate realizarea de activități educaționale și/sau culturale. (3) Muzeele, bibliotecile publice și instituțiile cu atribuții în domeniile educației și culturii pot acorda asistență de specialitate pentru manifestările organizate cu ocazia Zilei naționale a lecturii, în vederea încurajării lecturii, și monitorizează aceste activități. (4) În săptămâna care include Ziua națională a lecturii, în timpul desfășurării activităților didactice, unitățile de învățământ preuniversitar pot organiza activități de promovare și încurajare a lecturii, pentru care dispun, în prealabil, următoarele măsuri: a) invitarea bibliotecilor locale, județene și/sau metropolitane de a derula activități de prezentare a serviciilor de bibliotecă, de înregistrare la bibliotecă, de colectare de carte și donație, inclusiv prin amenajarea de standuri proprii în incinta unităților de învățământ; b) invitarea asociațiilor, fundațiilor nonprofit și asociațiilor de creatori, cu experiență în derularea de activități educaționale, de a susține cluburi de lectură, ateliere de scriere creativă, ateliere de ilustrare de carte, discuții libere și dezbateri despre literatură și cărți sau alte programe similare; c) oferirea, cu titlu gratuit, editurilor și librăriilor, la cerere și în măsura disponibilității, de spații pentru prezentare și vânzare de carte cu caracter educativ și/sau recreativ, adecvat vârstei elevilor."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Cu ocazia zilei naționale prevăzute la art. 1 , Societatea Română de Radiodifuziune, Societatea Română de Televiziune și Agenția Națională de Presă AGERPRES produc, difuzează sau redifuzează, după caz, emisiuni de promovare și încurajare a lecturii. (2) În ziua de 15 februarie, în timpul orelor de curs, personalul didactic, împreună cu elevii, poate desfășura activități de promovare și încurajare a lecturii."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Institutul Cultural Român, Departamentul pentru Românii de Pretutindeni, ambasadele și consulatele României pot desfășura proiecte culturale și/sau educaționale dedicate Zilei naționale a lecturii, individual sau în colaborare cu asociații și fundații de profil, în limita resurselor bugetare și logistice disponibile."
+    }
+  ],
+  "definitions": []
+}

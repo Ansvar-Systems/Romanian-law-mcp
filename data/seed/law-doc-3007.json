@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-3007",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 8 martie 1993",
+  "short_name": "lege 6 08 03 1993",
+  "status": "in_force",
+  "issued_date": "1993-03-08",
+  "in_force_date": "1993-03-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/3007",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 08/03/1993",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România adera la Convenția internationala pentru prevenirea poluarii de către nave, încheiată la Londra la 2 noiembrie 1973, modificată prin Protocolul din 1978 privind Convenția internationala din 1973 pentru prevenirea poluarii de către nave, încheiat la Londra la 17 februarie 1978."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "România, în conformitate cu prevederile art. 14 din convenție , declara că nu accepta anexele III și IV la convenție."
+    }
+  ],
+  "definitions": []
+}

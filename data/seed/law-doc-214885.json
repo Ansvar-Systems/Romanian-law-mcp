@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-214885",
+  "type": "statute",
+  "title": "LEGE nr. 114 din 7 iunie 2019",
+  "short_name": "lege 114 07 06 2019",
+  "status": "in_force",
+  "issued_date": "2019-06-07",
+  "in_force_date": "2019-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/214885",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 114 07/06/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 262 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, alineatul (4) se modifică și va avea următorul cuprins: (4) Norma didactică de predare-învățare-evaluare prevăzută la alin. (3) lit. c)-e) pentru personalul didactic de predare și de instruire practică cu o vechime în învățământ de peste 25 de ani, cu gradul didactic I, și cel din corpul profesorilor mentori se poate reduce cu două ore săptămânal, fără diminuarea salariului."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-225910",
+  "type": "statute",
+  "title": "LEGE nr. 61 din 19 mai 2020",
+  "short_name": "lege 61 19 05 2020",
+  "status": "in_force",
+  "issued_date": "2020-05-19",
+  "in_force_date": "2020-05-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/225910",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 61 19/05/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 41 din 2 aprilie 2020 pentru modificarea și completarea Legii nr. 19/2020 privind acordarea unor zile libere părinților pentru supravegherea copiilor, în situația închiderii temporare a unităților de învățământ, publicată în Monitorul Oficial al României, Partea I, nr. 282 din 3 aprilie 2020, cu următoarea completare: – La articolul unic, după punctul 1 se introduce un nou punct, punctul 1^1, cu următorul cuprins: 1^1. La articolul 1, după alineatul (1^1) se introduce un nou alineat, alineatul (1^2), cu următorul cuprins: (1^2) Prin excepție, în anul 2020, prevederile alin. (1) și (1^1) se aplică și pe perioada imediat următoare încetării stării de urgență, până la finalizarea cursurilor școlare aferente semestrului al II-lea."
+    }
+  ],
+  "definitions": []
+}

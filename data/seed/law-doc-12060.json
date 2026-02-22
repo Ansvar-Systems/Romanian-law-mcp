@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-12060",
+  "type": "statute",
+  "title": "LEGE nr. 206 din 4 decembrie 1997",
+  "short_name": "lege 206 04 12 1997",
+  "status": "in_force",
+  "issued_date": "1997-12-04",
+  "in_force_date": "1997-12-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/12060",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 206 04/12/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 28 din 9 iunie 1997 pentru modificarea și completarea Legii nr. 82/1992 privind rezervele materiale naționale, publicată în Monitorul Oficial al României, Partea I, nr. 118 din 10 iunie 1997, cu următoarele modificări: 1. Titlul Legii nr. 82/992 va avea următorul cuprins: Lege privind rezervele de stat 2. Denumirea Administrația Națională a Rezervelor Materiale se înlocuiește cu denumirea Administrația Naționala a Rezervelor de Stat, iar sintagma rezerve materiale naționale se înlocuiește cu sintagma rezerve de stat."
+    }
+  ],
+  "definitions": []
+}

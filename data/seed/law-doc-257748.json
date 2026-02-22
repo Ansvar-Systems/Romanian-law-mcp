@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-257748",
+  "type": "statute",
+  "title": "LEGE nr. 269 din 22 iulie 2022",
+  "short_name": "lege 269 22 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-22",
+  "in_force_date": "2022-07-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257748",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 269 22/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Protocolul , semnat la Bruxelles la 5 iulie 2022, de aderare a Republicii Finlanda la Tratatul Atlanticului de Nord , semnat la Washington la 4 aprilie 1949, la care România a aderat prin Legea nr. 22/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 185 din 3 martie 2004."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se ratifică Protocolul , semnat la Bruxelles la 5 iulie 2022, de aderare a Regatului Suediei la Tratatul Atlanticului de Nord , semnat la Washington la 4 aprilie 1949, la care România a aderat prin Legea nr. 22/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 185 din 3 martie 2004."
+    }
+  ],
+  "definitions": []
+}

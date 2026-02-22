@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195810",
+  "type": "statute",
+  "title": "LEGE nr. 255 din 19 decembrie 2017",
+  "short_name": "lege 255 19 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195810",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 255 19/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 42 din 9 iunie 2017 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală , publicată în Monitorul Oficial al României, Partea I, nr. 438 din 13 iunie 2017."
+    }
+  ],
+  "definitions": []
+}

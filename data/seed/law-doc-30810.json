@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30810",
+  "type": "statute",
+  "title": "LEGE nr. 155 din 24 iunie 1930",
+  "short_name": "lege 155 24 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-24",
+  "in_force_date": "1930-06-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30810",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 155 24/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se deschide pe seama bugetului Ministerului de Externe, pe anul 1930, următoarele credite suplimentare: - Lei 2.000.000 la art. 22. - Lei 3.000.000 la art. 34. Total lei 5.000.000."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Aceste credite suplimentare se vor acoperi din fondul prevăzut în bugetul general al Statului pe exerciţiul 1930, pentru deschideri de credite suplimentare şi extraordinare. Desbateri: Camera Nr. 78-1929/30. Votat de Adunarea Deputaţilor la 20 Iunie 1930. -------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188591",
+  "type": "statute",
+  "title": "LEGE nr. 76 din 25 aprilie 2017",
+  "short_name": "lege 76 25 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-25",
+  "in_force_date": "2017-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188591",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 76 25/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 7 din 25 ianuarie 2017 privind prorogarea termenului de depunere a declaraţiilor fiscale şi de plată a creanţelor fiscale scadente la data de 25 ianuarie 2017, publicată în Monitorul Oficial al României, Partea I, nr. 63 din 25 ianuarie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-173028",
+  "type": "statute",
+  "title": "LEGE nr. 279 din 12 noiembrie 2015",
+  "short_name": "lege 279 12 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-12",
+  "in_force_date": "2015-11-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173028",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 279 12/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin prezenta lege se declară ziua de 13 noiembrie Ziua Limbii maghiare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătorii Zilei Limbii maghiare, în localităţile în care trăiesc membri ai comunităţii maghiare se organizează manifestări culturale dedicate acestei sărbători. (2) Autorităţile administraţiei publice locale, organizaţiile nonguvernamentale interesate pot sprijini organizarea manifestărilor dedicate sărbătoririi acestei zile. (3) Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni ori aspecte de la manifestările dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituţiile de învăţământ în care se predă limba maghiară ca limbă maternă, în ziua de 13 noiembrie se pot organiza manifestări culturale dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

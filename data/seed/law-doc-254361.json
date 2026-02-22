@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254361",
+  "type": "statute",
+  "title": "LEGE nr. 114 din 21 aprilie 2022",
+  "short_name": "lege 114 21 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-21",
+  "in_force_date": "2022-04-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254361",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 114 21/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 134 din 22 decembrie 2021 pentru aprobarea Acordului de împrumut (Mecanismul de redresare și reziliență) dintre Comisia Europeană și România, semnat la București la 26 noiembrie 2021 și la Bruxelles la 15 decembrie 2021, publicată în Monitorul Oficial al României, Partea I, nr. 1224 din 23 decembrie 2021."
+    }
+  ],
+  "definitions": []
+}

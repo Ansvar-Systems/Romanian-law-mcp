@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242026",
+  "type": "statute",
+  "title": "LEGE nr. 119 din 5 mai 2021",
+  "short_name": "lege 119 05 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-05",
+  "in_force_date": "2021-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242026",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 119 05/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 104 din 14 decembrie 2017 pentru modificarea și completarea Legii nr. 233/2016 privind parteneriatul public-privat, publicată în Monitorul Oficial al României, Partea I, nr. 1.037 din 28 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

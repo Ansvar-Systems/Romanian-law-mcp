@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-34205",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 18 martie 1930",
+  "short_name": "lege 43 18 03 1930",
+  "status": "in_force",
+  "issued_date": "1930-03-18",
+  "in_force_date": "1930-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34205",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 18/03/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acorda d-nei Elena Gh. Cosbuc, vaduva marelui poet naţional Gh. Cosbuc, o pensie viageră de 10.000 lei lunar cu începere dela 1 Ianuarie 1930."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Aceasta pensie viageră este netransmisibila, iar suma anuală corespunzătoare acestei pensii viagere se va trece în bugetul general al Statului şi se va vărsa Casei generale de pensiuni, care va face plata. Pentru anul 1930 plata se va face din fondul de deschideri de credite extraordinare şi suplimentare al bugetului în curs. Votat de Adunarea deputaţilor la 24 Fevruarie şi de Senat la 28 Fevruarie 1930. --------"
+    }
+  ],
+  "definitions": []
+}

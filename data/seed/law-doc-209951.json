@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-209951",
+  "type": "statute",
+  "title": "LEGE nr. 27 din 10 ianuarie 2019",
+  "short_name": "lege 27 10 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-10",
+  "in_force_date": "2019-01-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209951",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 27 10/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la dispozițiile art. 10 alin. (1) din Legea nr. 82/1993 privind constituirea Rezervației Biosferei „Delta Dunării“, cu modificările și completările ulterioare, se aprobă transmiterea unei părți din imobilul Grindul Lupilor, aflat în domeniul public al statului, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din administrarea Administrației Rezervației Biosferei „Delta Dunării“, aflată în subordinea Ministerului Mediului, în administrarea Ministerului Apărării Naționale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "După preluare, partea de imobil transmisă potrivit prevederilor art. 1 se utilizează de către Ministerul Apărării Naționale pentru realizarea unor construcții noi și amenajări la terenuri, în vederea relocării Farului de aterizare Gura Portiței."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Predarea-preluarea părții de imobil prevăzute la art. 1 se face pe bază de protocol încheiat între părțile interesate, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-27329",
+  "type": "statute",
+  "title": "LEGE nr. 61 din 14 martie 2001",
+  "short_name": "lege 61 14 03 2001",
+  "status": "in_force",
+  "issued_date": "2001-03-14",
+  "in_force_date": "2001-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/27329",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 61 14/03/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifica Acordul dintre Guvernul României și Guvernul Republicii Bulgaria privind readmisia cetățenilor proprii și a străinilor, semnat la București la 23 iunie 2000."
+    }
+  ],
+  "definitions": []
+}

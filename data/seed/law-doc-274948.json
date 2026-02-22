@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-274948",
+  "type": "statute",
+  "title": "LEGE nr. 263 din 2 octombrie 2023",
+  "short_name": "lege 263 02 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-02",
+  "in_force_date": "2023-10-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/274948",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 263 02/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 128 din 15 decembrie 2021 privind unele măsuri referitoare la salarizarea personalului din sistemul administrației penitenciare, publicată în Monitorul Oficial al României, Partea I, nr. 1189 din 15 decembrie 2021."
+    }
+  ],
+  "definitions": []
+}

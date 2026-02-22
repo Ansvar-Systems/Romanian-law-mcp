@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-280599",
+  "type": "statute",
+  "title": "LEGE nr. 68 din 28 martie 2024",
+  "short_name": "lege 68 28 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-28",
+  "in_force_date": "2024-03-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280599",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 28/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 44 din 20 iunie 2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 5/2015 privind deșeurile de echipamente electrice și electronice, publicată în Monitorul Oficial al României, Partea I, nr. 509 din 24 iunie 2019."
+    }
+  ],
+  "definitions": []
+}

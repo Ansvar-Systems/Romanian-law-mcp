@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-291447",
+  "type": "statute",
+  "title": "LEGE nr. 298 din 27 noiembrie 2024",
+  "short_name": "lege 298 27 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-27",
+  "in_force_date": "2024-11-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/291447",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 298 27/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 1 august ca Ziua națională a Salvamont România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot organiza sau sprijini logistic și material manifestările dedicate zilei naționale prevăzute la art. 1 . (2) Autoritățile administrației publice centrale și locale, precum și instituțiile aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii în vederea organizării și derulării în bune condiții a manifestărilor prevăzute la alin. (1) , în limita alocărilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166871",
+  "type": "statute",
+  "title": "LEGE nr. 63 din 31 martie 2015",
+  "short_name": "lege 63 31 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-31",
+  "in_force_date": "2015-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166871",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 63 31/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 14 din 2 aprilie 2014 pentru completarea art. 176 din Legea nr. 571/2003 privind Codul fiscal, publicată în Monitorul Oficial al României, Partea I, nr. 241 din 4 aprilie 2014."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255666",
+  "type": "statute",
+  "title": "LEGE nr. 150 din 24 mai 2022",
+  "short_name": "lege 150 24 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-24",
+  "in_force_date": "2022-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255666",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 150 24/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 53 din 25 iunie 2019 privind aprobarea Programului multianual de finanțare a investițiilor pentru modernizarea, reabilitarea, retehnologizarea și extinderea sau înființarea sistemelor de alimentare centralizată cu energie termică a localităților și pentru modificarea și completarea Legii serviciilor comunitare de utilități publice nr. 51/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 548 din 3 iulie 2019, cu următoarele modificări: 1. La articolul I, alineatul (34) se modifică și va avea următorul cuprins: (34) Pentru fiecare proiect, avizul tehnic privind eficiența energetică se acordă o singură dată, la solicitarea reprezentantului unității administrativ-teritoriale. 2. La articolul I, alineatul (49) se abrogă."
+    }
+  ],
+  "definitions": []
+}

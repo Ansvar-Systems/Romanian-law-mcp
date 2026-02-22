@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-21356",
+  "type": "statute",
+  "title": "LEGE nr. 2 din 15 aprilie 1976",
+  "short_name": "lege 2 15 04 1976",
+  "status": "in_force",
+  "issued_date": "1976-04-15",
+  "in_force_date": "1976-04-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21356",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2 15/04/1976",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se adopta \"Programul naţional pentru conservarea şi dezvoltarea fondului forestier în perioada 1976-2010\"."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Obiectivele şi direcţiile de dezvoltare a fondului forestier, precum şi măsurile prevăzute în programul naţional, sînt obligatorii pentru ministere, celelalte organe centrale, consiliile populare judeţene, municipale, orăşeneşti, comunale şi pentru toate unităţile socialiste."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Consiliul Suprem al Dezvoltării Economice şi Social şi Consiliul de Miniştri vor asigura cuprinderea în planurile cincinale şi anuale a sarcinilor rezultate din program, vor stabili măsurile necesare pentru îndeplinirea întocmai a acestuia şi vor exercita permanent un control riguros şi sistematic asupra executării prevederilor programului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Ministerul Economiei Forestiere şi Materialelor de Construcţii împreună cu ministerele, celelalte organe centrale şi consiliile populare sînt obligate să asigure dezvoltarea fondului forestier, impadurirea terenurilor degradate improprii pentru agricultura, aplicarea unui regim normal de tăiere şi regenerare a pădurilor, întărirea funcţiilor de protecţie a acestora, promovarea speciilor de mare productivitate, precum şi a celorlalte obiective şi sarcini prevăzute în program. În acest scop, vor stabili măsuri corelate, care să conducă la realizarea, cu eficienta maxima şi la termen, a prevederilor programului."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Consiliile populare judeţene vor stabili pe baza programului, sarcinile ce revin municipiilor, oraşelor şi comunelor pentru dezvoltarea, protecţia şi mărirea productivitatii pădurilor comunale."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Toţi locuitorii tarii au datoria cetateneasca să contribuie la apărarea şi dezvoltarea fondului forestier, sa participe activ prin munca la lucrările de impadurire, ameliorare a terenurilor degradate, de îngrijire şi protecţie a pădurilor. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 15 aprilie 1976. Preşedintele Marii Adunări Naţionale, Nicolae Giosan"
+    }
+  ],
+  "definitions": []
+}

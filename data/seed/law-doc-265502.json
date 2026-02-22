@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-265502",
+  "type": "statute",
+  "title": "LEGE nr. 54 din 3 martie 2023",
+  "short_name": "lege 54 03 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-03",
+  "in_force_date": "2023-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265502",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 54 03/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 17 din 2 martie 2022 pentru modificarea și completarea Legii nr. 21/2020 privind Codul aerian , publicată în Monitorul Oficial al României, Partea I, nr. 208 din 2 martie 2022."
+    }
+  ],
+  "definitions": []
+}

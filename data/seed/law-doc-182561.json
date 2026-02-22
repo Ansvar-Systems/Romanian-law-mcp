@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-182561",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 7 octombrie 2016",
+  "short_name": "lege 171 07 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-07",
+  "in_force_date": "2016-10-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/182561",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 07/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă aderarea Guvernului României la cel de-al treilea Protocol, adoptat la Strasbourg la 6 martie 1959, la Acordul general privind privilegiile şi imunităţile Consiliului Europei, încheiat la Paris la 2 septembrie 1949, aprobat prin Legea nr. 43/1994 ."
+    }
+  ],
+  "definitions": []
+}

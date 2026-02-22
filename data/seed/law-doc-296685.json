@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-296685",
+  "type": "statute",
+  "title": "LEGE nr. 48 din 14 aprilie 2025",
+  "short_name": "lege 48 14 04 2025",
+  "status": "in_force",
+  "issued_date": "2025-04-14",
+  "in_force_date": "2025-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/296685",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 48 14/04/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Politica publică de proprietate privată a statului, prevăzută în anexa care face parte integrantă din prezenta lege."
+    }
+  ],
+  "definitions": []
+}

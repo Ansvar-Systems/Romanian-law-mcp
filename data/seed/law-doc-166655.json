@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-166655",
+  "type": "statute",
+  "title": "LEGE nr. 57 din 25 martie 2015",
+  "short_name": "lege 57 25 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-25",
+  "in_force_date": "2015-03-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166655",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 57 25/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 33 din Ordonanţa Guvernului nr. 99/2000 privind comercializarea produselor şi serviciilor de piaţă, republicată în Monitorul Oficial al României, Partea I, nr. 603 din 31 august 2007, cu modificările şi completările ulterioare, se modifică şi se completează după cum urmează: 1. La alineatul (1), litera a) se modifică şi va avea următorul cuprins: \"a) Orice comerciant care anunţă o reducere de preţ trebuie să o raporteze la preţul de referinţă practicat în acelaşi spaţiu de vânzare pentru produse sau servicii identice. Preţul de referinţă reprezintă cel mai scăzut preţ practicat în acelaşi spaţiu de vânzare în perioada ultimelor 30 de zile, înainte de data aplicării preţului redus.\" 2. După alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: \"(3) Produsele aflate la comercializare cu preţ redus/oferte promoţionale, cu 3 zile înainte de expirarea datei durabilităţii minimale/datei-limită de consum aferente produselor alimentare sau a termenului de valabilitate/datei de minimă durabilitate aferente produselor nealimentare, se sortează şi se expun la comercializare, pe rafturi sau în standuri, delimitate vizibil, cu informarea corectă, completă şi precisă a consumatorilor. Nerespectarea prevederilor prezentului alineat este considerată practică comercială incorectă şi se sancţionează conform reglementărilor legale în vigoare.\""
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se modifică şi va avea următorul cuprins",
+      "definition": "\"a) Orice comerciant care anunţă o reducere de preţ trebuie să o raporteze la preţul de referinţă practicat în acelaşi spaţiu de vânzare pentru produse sau servicii identice. Preţul de referinţă reprezintă cel mai scăzut preţ practicat în acelaşi spaţiu de vânzare în perioada ultimelor 30 de zile, înainte de data aplicării preţului redus.\" 2",
+      "source_provision": "Art.1"
+    }
+  ]
+}

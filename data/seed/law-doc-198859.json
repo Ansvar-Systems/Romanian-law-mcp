@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198859",
+  "type": "statute",
+  "title": "LEGE nr. 68 din 19 martie 2018",
+  "short_name": "lege 68 19 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-19",
+  "in_force_date": "2018-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198859",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 19/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică rezoluția Adunării Statelor Părți (ASP) la Statutul de la Roma al Curții Penale Internaționale (CPI), adoptată de cea de-a XIV-a sesiune a ASP la Statutul de la Roma al CPI (14/Res.2) la 26 noiembrie 2015, privind articolul 124 din Statutul Curții Penale Internaționale , adoptat la Roma la 17 iulie 1998, ratificat prin Legea nr. 111/2002 ."
+    }
+  ],
+  "definitions": []
+}

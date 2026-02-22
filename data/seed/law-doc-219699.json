@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219699",
+  "type": "statute",
+  "title": "LEGE nr. 207 din 8 noiembrie 2019",
+  "short_name": "lege 207 08 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-08",
+  "in_force_date": "2019-11-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219699",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 207 08/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 108 din 13 decembrie 2018 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 10/2017 pentru stimularea înființării de noi întreprinderi mici și mijlocii, publicată în Monitorul Oficial al României, Partea I, nr. 1060 din 14 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

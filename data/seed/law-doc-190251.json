@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190251",
+  "type": "statute",
+  "title": "LEGE nr. 142 din 16 iunie 2017",
+  "short_name": "lege 142 16 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-16",
+  "in_force_date": "2017-06-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190251",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 142 16/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 4 din 12 ianuarie 2017 privind prorogarea termenului prevăzut la art. IV din Ordonanța de urgență a Guvernului nr. 51/2016 pentru modificarea și completarea Legii nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice, precum și pentru stabilirea de măsuri în acordarea unor beneficii de asistență socială, publicată în Monitorul Oficial al României, Partea I, nr. 41 din 16 ianuarie 2017."
+    }
+  ],
+  "definitions": []
+}

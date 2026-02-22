@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189952",
+  "type": "statute",
+  "title": "LEGE nr. 131 din 31 mai 2017",
+  "short_name": "lege 131 31 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-31",
+  "in_force_date": "2017-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189952",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 131 31/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 15 din 11 mai 2016 pentru completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului, publicată în Monitorul Oficial al României, Partea I, nr. 367 din 12 mai 2016."
+    }
+  ],
+  "definitions": []
+}

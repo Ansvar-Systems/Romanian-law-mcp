@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-255881",
+  "type": "statute",
+  "title": "LEGE nr. 167 din 2 iunie 2022",
+  "short_name": "lege 167 02 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-02",
+  "in_force_date": "2022-06-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255881",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 167 02/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 224 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, după alineatul (5) se introduc două noi alineate, alineatele (6) și (7), cu următorul cuprins: (6) Cuantumul minim al burselor românilor de pretutindeni prevăzute la alin. (1) este egal cu valoarea burselor sociale acordate studenților români de la ciclurile de studii universitare de licență și masterat, respectiv cu valoarea bursei pentru studii doctorale pentru studenții de la ciclul de studii universitare de doctorat. (7) Bursele românilor de pretutindeni se acordă pe toată durata anului calendaristic, inclusiv pe perioada vacanței de vară, iar beneficiarii acestora pot primi și burse pentru performanțe academice, în aceleași condiții cu studenții cetățeni români."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare începând cu anul universitar 2023-2024."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-178820",
+  "type": "statute",
+  "title": "LEGE nr. 110 din 26 mai 2016",
+  "short_name": "lege 110 26 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-26",
+  "in_force_date": "2016-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178820",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 110 26/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 13 alineatul (1) din Ordonanţa Guvernului nr. 39/2005 privind cinematografia, publicată în Monitorul Oficial al României, Partea I, nr. 704 din 4 august 2005, aprobată cu modificări şi completări prin Legea nr. 328/2006 , cu modificările şi completările ulterioare, după litera e) se introduce o nouă literă, litera e^1), cu următorul cuprins: \"e^1) un procent de 2% din sumele colectate la bugetul de stat de la operatorii economici care desfăşoară activităţi în domeniul jocurilor de noroc va fi direcţionat anual către Fondul cinematografic pentru încurajarea şi susţinerea industriei cinematografice. Suma va fi virată Fondului cinematografic până la data de 31 mai a anului în curs pentru anul precedent şi nu se supune regularizării conform prevederilor art. 66 alin. (1) din Legea nr. 500/2002 privind finanţele publice, cu modificările şi completările ulterioare;\""
+    }
+  ],
+  "definitions": []
+}

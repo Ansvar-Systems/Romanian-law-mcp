@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-228357",
+  "type": "statute",
+  "title": "LEGE nr. 146 din 23 iulie 2020",
+  "short_name": "lege 146 23 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-23",
+  "in_force_date": "2020-07-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228357",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 146 23/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin prezenta lege se acordă gratuit un set de 30 de măști de protecție, lunar, pentru: a) persoanele din familiile beneficiare ale ajutorului social acordat în baza Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare; b) persoanele din familiile beneficiare de alocație pentru susținerea familiei acordată în baza Legii nr. 277/2010 privind alocația pentru susținerea familiei, republicată, cu modificările și completările ulterioare; c) pensionarii sistemului public de pensii ale căror drepturi sunt de până la 1.000 lei inclusiv, reprezentând nivelul indemnizației sociale pentru pensionari prevăzute de Ordonanța de urgență a Guvernului nr. 6/2009 privind instituirea pensiei sociale minime garantate, aprobată prin Legea nr. 196/2009 , cu modificările ulterioare; d) persoanele încadrate în grad de handicap care realizează venituri exclusiv din prestațiile sociale prevăzute de art. 42 și 58 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În vederea asigurării protecției cetățenilor de pe teritoriul României în actualul context epidemiologic determinat de răspândirea noului coronavirus, Ministerul Sănătății achiziționează, prin Compania Națională Unifarm - S.A., măștile de protecție, conform standardelor europene în vigoare, preponderent de la producători interni. (2) Fondurile necesare achiziționării și distribuției măștilor de protecție către populație se asigură de la bugetul de stat, prin bugetul Ministerului Sănătății."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Autoritățile publice locale au obligația să întocmească liste nominale cu persoanele beneficiare prevăzute la art. 1 și să le transmită direcțiilor de sănătate publică județene și a municipiului București, în termen de 3 zile de la data intrării în vigoare a prezentei legi, în vederea stabilirii necesarului de repartizat. (2) Distribuirea măștilor de protecție se realizează de către Ministerul Sănătății prin direcțiile de sănătate publică județene și a municipiului București către autoritățile publice locale. (3) Autoritățile publice locale asigură distribuirea măștilor de protecție, în mod gratuit, către fiecare beneficiar prevăzut la art. 1 ."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Prevederile prezentei legi se aplică până la încheierea pandemiei de coronavirus COVID-19, declarată oficial de către Organizația Mondială a Sănătății."
+    }
+  ],
+  "definitions": []
+}

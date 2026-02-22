@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-241086",
+  "type": "statute",
+  "title": "LEGE nr. 86 din 16 aprilie 2021",
+  "short_name": "lege 86 16 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-16",
+  "in_force_date": "2021-04-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241086",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 86 16/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Prevederile art. I pct. 142 din Legea nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, publicată în Monitorul Oficial al României, Partea I, nr. 868 din 15 octombrie 2018, cu modificările și completările ulterioare, cu referire la art. 82 alin. (3) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, se abrogă la data de 1 ianuarie 2022."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Articolul V din Ordonanța de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției, publicată în Monitorul Oficial al României, Partea I, nr. 874 din 16 octombrie 2018, aprobată cu modificări prin Legea nr. 239/2019 , se abrogă la data de 1 ianuarie 2022."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Dispozițiile art. 82 alin. (3) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, în forma anterioară modificării prin Legea nr. 242/2018 rămân în vigoare și după data încetării efectelor art. V din Ordonanța de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției, aprobată cu modificări prin Legea nr. 239/2019 ."
+    }
+  ],
+  "definitions": []
+}

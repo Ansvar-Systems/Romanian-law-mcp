@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187049",
+  "type": "statute",
+  "title": "LEGE nr. 11 din 3 martie 2017",
+  "short_name": "lege 11 03 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-03",
+  "in_force_date": "2017-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187049",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 11 03/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (4) al articolului 262 din Legea educaţiei naţionale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"(4) Personalul didactic de predare cu o vechime în învăţământ de peste 25 de ani, cu gradul didactic I, beneficiază de reducerea normei didactice cu 2 ore săptămânal, fără diminuarea salariului.\""
+    }
+  ],
+  "definitions": []
+}

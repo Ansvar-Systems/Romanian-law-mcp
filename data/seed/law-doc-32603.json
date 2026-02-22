@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-32603",
+  "type": "statute",
+  "title": "LEGE nr. 684 din 28 noiembrie 2001",
+  "short_name": "lege 684 28 11 2001",
+  "status": "in_force",
+  "issued_date": "2001-11-28",
+  "in_force_date": "2001-11-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32603",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 684 28/11/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 10 din 29 februarie 2000 privind selectarea și plata specialiștilor care prestează servicii de consultanța necesare pentru realizarea programelor PSAL și PIBL finanțate de Banca Mondială, a Programului RICOP finanțat de Uniunea Europeană, precum și a programelor pentru continuarea acestora, publicată în Monitorul Oficial al României, Partea I, nr. 93 din 1 martie 2000, cu următoarele modificări: 1. Titlul ordonanței de urgenta va avea următorul cuprins: ORDONANȚA DE URGENȚĂ privind selectarea și plata specialiștilor care prestează servicii de consultanța necesare pentru realizarea programelor și/sau a proiectelor finanțate integral sau parțial din împrumuturi externe contractate sau garantate de stat, rambursabile sau nerambursabile, precum și a programelor pentru continuarea acestora 2. Articolul 1 va avea următorul cuprins: Articolul 1 Pentru contractarea serviciilor de consultanța necesare pentru realizarea programelor și/sau a proiectelor finanțate integral sau parțial din împrumuturi externe contractate sau garantate de stat, rambursabile sau nerambursabile, precum și a programelor pentru continuarea acestora pot fi selecționați specialiști români sau străini, în conformitate cu prevederile finanțatorului extern, denumiți în cele ce urmează consultanți. 3. După articolul 1 se introduce art. 1^1 cu următorul cuprins: Articolul 1^1 La desfășurarea activităților de consultanța prevăzute la art. 1 pot participa specialiști care, prin pregătirea și experienta lor profesională, dovedesc ca îndeplinesc condițiile de selecție stabilite prin procedurile finanțatorului extern pentru angajare de consultanți."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgenta a Guvernului nr. 10/2000 privind selectarea și plata specialiștilor care prestează servicii de consultanța necesare pentru realizarea programelor PSAL și PIBL finanțate de Banca Mondială, a Programului RICOP finanțat de Uniunea Europeană, precum și a programelor pentru continuarea acestora se va republicată în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare."
+    }
+  ],
+  "definitions": []
+}

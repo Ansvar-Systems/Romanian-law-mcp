@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200762",
+  "type": "statute",
+  "title": "LEGE nr. 116 din 17 mai 2018",
+  "short_name": "lege 116 17 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-17",
+  "in_force_date": "2018-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200762",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 116 17/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 165 din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, publicată în Monitorul Oficial al României, Partea I, nr. 514 din 14 august 2013, cu modificările și completările ulterioare, după alineatul (5) se introduce un nou alineat, alineatul (6), cu următorul cuprins: (6) Centrul educativ, respectiv centrul de detenție înaintează către Agenția Județeană pentru Ocuparea Forței de Muncă din unitatea administrativ-teritorială în care își are domiciliul persoana internată un raport social personalizat, pentru persoana care mai are 3 luni până la împlinirea termenului la care acesta dobândește vocația de a fi liberată, potrivit dispozițiilor art. 124 alin. (4), respectiv ale art. 125 alin. (4) din Legea nr. 286/2009 privind Codul penal , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

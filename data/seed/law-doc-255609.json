@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-255609",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 20 mai 2022",
+  "short_name": "lege 144 20 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-20",
+  "in_force_date": "2022-05-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255609",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 20/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 34 din Legea nr. 53/2003 - Codul muncii, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. Alineatul (3) se modifică și va avea următorul cuprins: (3) Registrul general de evidență a salariaților se completează și se transmite inspectoratului teritorial de muncă în ordinea angajării și cuprinde elementele de identificare ale tuturor salariaților, data angajării, funcția/ocupația conform specificației Clasificării ocupațiilor din România sau altor acte normative, nivelul și specialitatea studiilor absolvite, tipul contractului individual de muncă, salariul, sporurile și cuantumul acestora, perioada și cauzele de suspendare a contractului individual de muncă, perioada detașării și data încetării contractului individual de muncă. 2. După alineatul (5) se introduc două noi alineate, alineatele (5^1) și (5^2), cu următorul cuprins: (5^1) Registrul general de evidență a salariaților este accesibil online pentru salariați/foști salariați, în privința datelor care îi privesc. Dreptul de acces se limitează la vizualizarea, descărcarea și tipărirea acestor date, precum și la generarea online și descărcarea unui extras din registru. (5^2) Vechimea în muncă și/sau în specialitate poate fi dovedită și cu extrasul prevăzut la alin. (5^1), în condițiile stabilite prin hotărâre a Guvernului. 3. Alineatul (7) se modifică și va avea următorul cuprins: (7) Metodologia de întocmire a registrului general de evidență a salariaților, înregistrările care se efectuează, condițiile privind accesul online al salariaților sau al foștilor salariați la datele din registru, inclusiv condițiile privind dovada vechimii în muncă și/sau în specialitate potrivit alin. (5^2), precum și orice alte elemente în legătură cu întocmirea acestora se stabilesc prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 60 de zile de la data intrării în vigoare a prezentei legi, prin hotărâre a Guvernului, la propunerea Ministerului Muncii și Solidarității Sociale, se stabilesc procedura de acces online a salariaților sau foștilor salariați la datele din registrul general de evidență a salariaților, modalitatea de generare și descărcare a extrasului, precum și condițiile în care prin extras se poate dovedi vechimea în muncă și/sau în specialitate, potrivit dispozițiilor art. 34 din Legea nr. 53/2003 - Codul muncii, republicată , cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, cu respectarea prevederilor legale privind protecția datelor cu caracter personal."
+    }
+  ],
+  "definitions": []
+}

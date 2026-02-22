@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176897",
+  "type": "statute",
+  "title": "LEGE nr. 26 din 17 martie 2016",
+  "short_name": "lege 26 17 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-17",
+  "in_force_date": "2016-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176897",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 26 17/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Guvernul Emiratelor Arabe Unite pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnat la Dubai la 4 mai 2015."
+    }
+  ],
+  "definitions": []
+}

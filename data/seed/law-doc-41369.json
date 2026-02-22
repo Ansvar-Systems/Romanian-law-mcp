@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-41369",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 13 ianuarie 2003",
+  "short_name": "lege 36 13 01 2003",
+  "status": "in_force",
+  "issued_date": "2003-01-13",
+  "in_force_date": "2003-01-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/41369",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 13/01/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 126 din 2 octombrie 2002 pentru modificarea Ordonanței de urgenta a Guvernului nr. 91/1999 privind repartizarea profitului Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\", publicată în Monitorul Oficial al României, Partea I, nr. 741 din 10 octombrie 2002, cu următoarele modificări: 1. Titlul ordonanței de urgenta va avea următorul cuprins: ORDONANȚA DE URGENȚĂ privind repartizarea profitului Regiei Autonome «Administrația Patrimoniului Protocolului de Stat» 2. Partea introductivă a articolului I și părțile introductive ale punctelor 1 și 2 se abroga. 3. Articolul 2 va avea următorul cuprins: Articolul 2 (1) Prin derogare de la prevederile art. 16 din Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia, cu modificările ulterioare, din sumele încasate până la data de 31 decembrie 2002 din închirierea bunurilor proprietate publică a statului se suporta cheltuielile aferente de administrare și funcționare ale Regiei Autonome «Administrația Patrimoniului Protocolului de Stat». (2) Profitul rămas după plata impozitului pe profit, obținut din activitatea prevăzută la alin. (1), se retine în exclusivitate pentru lucrări de investiții, modernizare și dotări, executate la bunurile proprietate publică a statului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "La data intrării în vigoare a prezentei legi Ordonanța de urgenta a Guvernului nr. 91/1999 privind repartizarea profitului Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\", publicată în Monitorul Oficial al României, Partea I, nr. 277 din 17 iunie 1999, aprobată prin Legea nr. 281/2001 , se abroga."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ordonanța de urgenta a Guvernului nr. 126/2002 , cu modificările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare."
+    }
+  ],
+  "definitions": []
+}

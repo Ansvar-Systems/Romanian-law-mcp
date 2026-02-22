@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-282462",
+  "type": "statute",
+  "title": "LEGE nr. 124 din 30 aprilie 2024",
+  "short_name": "lege 124 30 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-30",
+  "in_force_date": "2024-04-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282462",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 124 30/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 33 din 24 august 2023 privind prorogarea unor termene în domeniul urbanismului și al construcțiilor, adoptată în temeiul art. 1 pct. X din Legea nr. 193/2023 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 769 din 24 august 2023."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-119346",
+  "type": "statute",
+  "title": "LEGE nr. 101 din 3 iunie 2010",
+  "short_name": "lege 101 03 06 2010",
+  "status": "in_force",
+  "issued_date": "2010-06-03",
+  "in_force_date": "2010-06-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/119346",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 101 03/06/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Bulgaria privind cooperarea polițienească transfrontalieră în materie penală, semnat la Vidin la 19 mai 2009."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Bulgaria privind înființarea și funcționarea Centrului comun de contact de cooperare polițienească și vamală, semnat la Vidin la 19 mai 2009. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din Constituția României, republicată ."
+    }
+  ],
+  "definitions": []
+}

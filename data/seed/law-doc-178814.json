@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-178814",
+  "type": "statute",
+  "title": "LEGE nr. 108 din 26 mai 2016",
+  "short_name": "lege 108 26 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-26",
+  "in_force_date": "2016-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178814",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 108 26/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 65 din 30 decembrie 2015 pentru completarea art. 29 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 986 din 31 decembrie 2015."
+    }
+  ],
+  "definitions": []
+}

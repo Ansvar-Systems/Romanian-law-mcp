@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-277222",
+  "type": "statute",
+  "title": "LEGE nr. 380 din 11 decembrie 2023",
+  "short_name": "lege 380 11 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-11",
+  "in_force_date": "2023-12-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277222",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 380 11/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 22 din Legea nr. 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate, publicată în Monitorul Oficial al României, Partea I, nr. 682 din 29 iulie 2005, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. Alineatul (1) se modifică și va avea următorul cuprins: Articolul 22 (1) Titlul de călătorie este documentul care se eliberează în formă tipărită sau în formă electronică de către misiunile diplomatice sau oficiile consulare ale României cetățenilor români aflați în străinătate, care nu mai posedă document de călătorie valabil, pentru ca titularul să se întoarcă în țară. 2. După alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Titlul de călătorie eliberat în formă electronică este semnat cu semnătură electronică calificată și este asimilat înscrisurilor autentice."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 180 de zile de la data intrării în vigoare a prezentei legi, Ministerul Afacerilor Externe dezvoltă capacitățile tehnice ale misiunilor diplomatice și oficiilor consulare ale României pentru programarea electronică a cetățenilor români în scopul accesării serviciilor consulare, precum și pentru primirea și recunoașterea certificatelor, atestatelor și altor documente în format electronic eliberate de autoritățile publice din statele membre ale Uniunii Europene și Spațiul Economic European."
+    }
+  ],
+  "definitions": []
+}

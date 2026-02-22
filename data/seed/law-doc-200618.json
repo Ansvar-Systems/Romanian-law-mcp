@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200618",
+  "type": "statute",
+  "title": "LEGE nr. 106 din 11 mai 2018",
+  "short_name": "lege 106 11 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-11",
+  "in_force_date": "2018-05-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200618",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 106 11/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 108 din 20 decembrie 2017 privind prorogarea unui termen, publicată în Monitorul Oficial al României, Partea I, nr. 1018 din 22 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-196794",
+  "type": "statute",
+  "title": "LEGE nr. 30 din 15 ianuarie 2018",
+  "short_name": "lege 30 15 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-15",
+  "in_force_date": "2018-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196794",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 30 15/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 30 din Legea nr. 207/2015 privind Codul de procedură fiscală , publicată în Monitorul Oficial al României, Partea I, nr. 547 din 23 iulie 2015, cu modificările și completările ulterioare, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) Administrarea obligațiilor fiscale datorate de contribuabilii mijlocii, inclusiv de sediile secundare ale acestora, se realizează de organul fiscal de la nivel județean sau al municipiului București, după caz."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile art. 30 alin. (3^1) din Legea nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare, se aplică începând cu prima zi a trimestrului următor intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

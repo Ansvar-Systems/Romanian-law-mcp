@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283306",
+  "type": "statute",
+  "title": "LEGE nr. 160 din 27 mai 2024",
+  "short_name": "lege 160 27 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-27",
+  "in_force_date": "2024-05-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283306",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 160 27/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 141 din 25 octombrie 2022 pentru completarea articolului 32 din Ordonanța de urgență a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020, publicată în Monitorul Oficial al României, Partea I, nr. 1037 din 25 octombrie 2022."
+    }
+  ],
+  "definitions": []
+}

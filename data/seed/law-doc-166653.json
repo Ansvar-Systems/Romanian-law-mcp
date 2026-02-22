@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166653",
+  "type": "statute",
+  "title": "LEGE nr. 56 din 25 martie 2015",
+  "short_name": "lege 56 25 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-25",
+  "in_force_date": "2015-03-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166653",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 56 25/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 24 din Legea nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor, republicată în Monitorul Oficial al României, Partea I, nr. 189 din 18 martie 2014, după alineatul (3) se introduce un nou alineat, alineatul (4) , cu următorul cuprins: \"(4) Prin excepţie de la prevederile alin. (2), paza transporturilor produselor cu caracter special, care constau în maximum 25 de arme sau 30.000 de cartuşe, se poate asigura şi de către armurierii autorizaţi, cu mijloace de transport anume destinate şi personal propriu de pază, atestat şi înarmat cu arme de foc letale.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-256519",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 17 iunie 2022",
+  "short_name": "lege 183 17 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-17",
+  "in_force_date": "2022-06-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/256519",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 17/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 95 din 3 septembrie 2021 pentru aprobarea Programului național de investiții „Anghel Saligny“, publicată în Monitorul Oficial al României, Partea I, nr. 849 din 6 septembrie 2021, cu următoarele modificări și completări: 1. La articolul 3 se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Prin derogare de la alin. (1), pentru obiectivele de investiții prevăzute la art. 4 alin. (1) lit. e) sunt aplicabile dispozițiile art. 112 din Legea energiei electrice și a gazelor naturale nr. 123/2012 , cu modificările și completările ulterioare. 2. La articolul 4 alineatul (1), litera b) se modifică și va avea următorul cuprins: b) sisteme de canalizare și stații de epurare a apelor uzate, inclusiv canalizare pluvială și sisteme de captare a apelor pluviale, și în unitățile administrativ-teritoriale cu o populație de sub 2.000 de locuitori;"
+    }
+  ],
+  "definitions": []
+}

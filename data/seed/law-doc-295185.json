@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-295185",
+  "type": "statute",
+  "title": "LEGE nr. 12 din 5 martie 2025",
+  "short_name": "lege 12 05 03 2025",
+  "status": "in_force",
+  "issued_date": "2025-03-05",
+  "in_force_date": "2025-03-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/295185",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 05/03/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 109 din 29 noiembrie 2023 privind înființarea, dezvoltarea și administrarea unui hub financiar la nivelul Ministerului Finanțelor, publicată în Monitorul Oficial al României, Partea I, nr. 1111 din 11 decembrie 2023."
+    }
+  ],
+  "definitions": []
+}

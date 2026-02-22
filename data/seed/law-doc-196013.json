@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-196013",
+  "type": "statute",
+  "title": "LEGE nr. 252 din 13 decembrie 2017",
+  "short_name": "lege 252 13 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-13",
+  "in_force_date": "2017-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196013",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 252 13/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România aderă la Convenția privind garanțiile internaționale în materie de echipamente mobile *), adoptată la Cape Town la 16 noiembrie 2001, denumită în continuare Convenție . Notă *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "România aderă la Protocolul la Convenția privind garanțiile internaționale în materie de echipamente mobile privind aspecte specifice ale echipamentelor aeronavelor*), adoptat la Cape Town la 16 noiembrie 2001, denumit în continuare Protocol. Notă *) Traducere."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Cu ocazia depunerii instrumentului de aderare la Convenția prevăzută la art. 1 , România formulează următoarele declarații: a) în conformitate cu art. 39 alin. (1) lit. b) din Convenție , România declară că nicio prevedere a prezentei Convenții nu afectează dreptul României, al unui organism al statului român, al unei organizații interguvernamentale sau al altui furnizor privat de servicii publice din România, de a sechestra sau de a reține un bun, în conformitate cu legile statului român, pentru plata sumelor datorate acelui organism, organizație sau furnizor, legate direct de serviciile respective, cu privire la acel bun sau la un alt bun; b) în conformitate cu art. 54 alin. (2) din Convenție , România declară că măsurile aflate la dispoziția creditorului, în conformitate cu această Convenție, a căror punere în aplicare nu este condiționată în mod expres, prin această Convenție, de introducerea unei cereri în fața instanței, pot fi exercitate doar cu permisiunea instanței competente a statului român."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Cu ocazia depunerii instrumentului de aderare la Protocolul prevăzut la art. 2 , România formulează următoarea declarație: În conformitate cu articolul XXX alin. (1) din Protocolul la Convenția privind garanțiile internaționale în materie de echipamente mobile privind aspecte specifice ale echipamentelor aeronavelor, România declară că va aplica articolul VIII din acest protocol."
+    }
+  ],
+  "definitions": []
+}

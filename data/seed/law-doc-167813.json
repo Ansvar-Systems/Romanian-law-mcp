@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-167813",
+  "type": "statute",
+  "title": "LEGE nr. 100 din 7 mai 2015",
+  "short_name": "lege 100 07 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-07",
+  "in_force_date": "2015-05-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167813",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 100 07/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 24 mai ca Ziua Limbii Bulgare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătoririi Zilei Limbii Bulgare, în localităţile în care trăiesc membri ai comunităţii bulgare se organizează manifestări culturale dedicate acestei sărbători. (2) Autorităţile centrale şi locale pot contribui cu sprijin logistic şi/sau financiar, după caz."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituţiile de învăţământ în care se predă limba bulgară ca limbă maternă, în ziua de 24 mai se organizează manifestări culturale dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

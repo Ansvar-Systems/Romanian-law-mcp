@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-775",
+  "type": "statute",
+  "title": "LEGEA nr. 23 din 15 octombrie 1990",
+  "short_name": "lege 23 15 10 1990",
+  "status": "in_force",
+  "issued_date": "1990-10-15",
+  "in_force_date": "1990-10-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/775",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 23 15/10/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pe data intrării în vigoare a prezentei legi se abroga Decretul nr. 367/1981 pentru înfiinţarea centrelor industrial-agrare Motru şi Rovinari, în judeţul Gorj, şi a direcţiilor administrativ-economice Motru şi Rovinari."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Personalul direcţiilor administrativ-economice Motru şi Rovinari va fi redistribuit şi încadrat prin grija Prefecturii judeţului Gorj şi a primăriilor din oraşele Motru şi Rovinari. Personalul care trece la alte unităţi, ca urmare a aplicării prevederilor prezentei legi, se considera transferat în interesul serviciului şi beneficiază, timp de trei luni de la data transferului, de acelaşi salariu tarifar de încadrare, dacă la noul loc de muncă salariul tarifar de încadrare este mai mic."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Bunurile şi celelalte elemente de activ şi pasiv ale direcţiilor administrativ-economice Motru şi Rovinari trec la primăriile acestor localităţi sau, după caz, la Prefectura judeţului Gorj. Această lege a fost adoptată de Senat în şedinţa din 2 octombrie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din 9 octombrie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea privind abrogarea Decretului nr. 367/1981 pentru înfiinţarea centrelor industrial-agrare Motru şi Rovinari, în judeţul Gorj, şi a direcţiilor administrativ-economice Motru şi Rovinari şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU ----------------------"
+    }
+  ],
+  "definitions": []
+}

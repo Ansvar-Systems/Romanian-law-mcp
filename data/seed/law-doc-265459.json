@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-265459",
+  "type": "statute",
+  "title": "LEGE nr. 46 din 2 martie 2023",
+  "short_name": "lege 46 02 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-02",
+  "in_force_date": "2023-03-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265459",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 46 02/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 81 din 16 iunie 2022 pentru modificarea art. 9 din Ordonanța Guvernului nr. 122/1998 privind acumularea, scoaterea și împrospătarea produselor din rezervele proprii ale forțelor destinate apărării naționale, publicată în Monitorul Oficial al României, Partea I, nr. 593 din 17 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270547",
+  "type": "statute",
+  "title": "LEGE nr. 129 din 19 mai 2023",
+  "short_name": "lege 129 19 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-19",
+  "in_force_date": "2023-05-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270547",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 129 19/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 4^3 din Legea nr. 82/1993 privind constituirea Rezervației Biosferei „Delta Dunării“, publicată în Monitorul Oficial al României, Partea I, nr. 283 din 7 decembrie 1993, cu modificările și completările ulterioare, după alineatul 2 se introduce un nou alineat, alineatul 2^1, cu următorul cuprins: 2^1 În situații temeinic justificate, până la aprobarea de către Guvern a noului plan de management, dar nu mai mult de 6 luni, desfășurarea tuturor activităților din rezervație este reglementată prin planul de acțiune provizoriu, elaborat de către Administrația Rezervației, cu implicarea Consiliului consultativ de administrare, cu avizul conform al Consiliului științific, aprobat prin ordin al conducătorului autorității publice centrale din domeniul mediului, apelor și pădurilor."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172814",
+  "type": "statute",
+  "title": "LEGE nr. 267 din 6 noiembrie 2015",
+  "short_name": "lege 267 06 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-06",
+  "in_force_date": "2015-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172814",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 267 06/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 91 din 23 decembrie 2014 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale, publicată în Monitorul Oficial al României, Partea I, nr. 966 din 30 decembrie 2014, cu următoarele modificări: 1. La articolul I punctul 2, litera k) a articolului 2 se modifică şi va avea următorul cuprins: \"k) încasarea contravalorii energiei electrice şi termice, a gazelor naturale, a apei şi canalizării, a serviciilor de telefonie, inclusiv de telefonie mobilă, de poştă şi curier, de salubritate, de televiziune, inclusiv prin cablu, de internet;\" 2. La articolul I punctul 3, articolul 2^1 se modifică şi va avea următorul cuprins: \"Art. 2^1. - În situaţiile în care pentru încasarea cu numerar a contravalorii bunurilor livrate cu amănuntul şi a serviciilor efectuate către populaţie, în cazul activităţilor prevăzute la art. 2 lit. f), h), i)-l) nu sunt utilizate aparate de marcat electronice fiscale, este obligatorie emiterea de chitanţe, în condiţiile legii.\""
+    }
+  ],
+  "definitions": []
+}

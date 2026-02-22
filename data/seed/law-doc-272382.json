@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272382",
+  "type": "statute",
+  "title": "LEGE nr. 253 din 21 iulie 2023",
+  "short_name": "lege 253 21 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-21",
+  "in_force_date": "2023-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272382",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 253 21/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 29 din 26 august 2022 pentru modificarea și completarea Legii nr. 672/2002 privind auditul public intern, adoptată în temeiul art. 1 pct. I.6 din Legea nr. 186/2022 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 845 din 29 august 2022, cu următoarea completare: – La articolul I, după punctul 13 se introduce un nou punct, punctul 13^1, cu următorul cuprins: 13^1. La articolul 15, după alineatul (2) se introduce un nou alineat, alin. (3), cu următorul cuprins: (3) Auditul public intern prevăzut de prezenta lege, desfășurat de către autoritățile și instituțiile din domeniul apărării, ordinii publice și securității naționale nu se exercită asupra activității de informații pentru realizarea securității naționale, respectiv cu privire la datele și informațiile obținute, identitatea surselor de informații, metodele și mijloacele concrete utilizate, precum și la alte date și informații specifice."
+    }
+  ],
+  "definitions": []
+}

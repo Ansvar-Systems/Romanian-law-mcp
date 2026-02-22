@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-223889",
+  "type": "statute",
+  "title": "LEGE nr. 22 din 18 martie 2020",
+  "short_name": "lege 22 18 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-18",
+  "in_force_date": "2020-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/223889",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 22 18/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, publicată în Monitorul Oficial al României, Partea I, nr. 278 din 17 mai 2013, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 3, punctul 7 va avea următorul cuprins: 7. grila notarială - studiul de piață realizat de către camerele notarilor publici, conținând informații privind valorile minime consemnate pe piața imobiliară specifică în anul precedent, întocmit și actualizat în condițiile art. 111 alin. (4) și (5) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare. 2. La articolul 21, alineatul (6) va avea următorul cuprins: (6) Evaluarea imobilului care face obiectul deciziei se face prin utilizarea grilei notariale valabile la data emiterii deciziei de către Comisia Națională și se exprimă în puncte. Un punct are valoarea de un leu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 4 din Ordonanța de urgență a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparținut cultelor religioase din România, republicată în Monitorul Oficial al României, Partea I, nr. 797 din 1 septembrie 2005, cu modificările și completările ulterioare, după alineatul (5) se introduce un nou alineat, alineatul (6), cu următorul cuprins: (6) În cazul în care pentru imobilul solicitat nu se poate face dovada formală a preluării abuzive de către stat în perioada de referință, iar imobilul respectiv se regăsește sau s-a regăsit în patrimoniul statului, se prezumă că imobilul a fost preluat abuziv; prezumția preluării abuzive poate fi înlăturată de deținătorul imobilului, prin orice mijloc de probă, în fața instanței de judecată, în condițiile art. 3 alin. (7). Aplicarea prezentului alineat se realizează cu îndeplinirea dispozițiilor alin. (2)."
+    }
+  ],
+  "definitions": []
+}

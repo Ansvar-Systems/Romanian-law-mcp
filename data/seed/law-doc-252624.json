@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252624",
+  "type": "statute",
+  "title": "LEGE nr. 54 din 14 martie 2022",
+  "short_name": "lege 54 14 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-14",
+  "in_force_date": "2022-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252624",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 54 14/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 80 din 30 iunie 2021 pentru modificarea și completarea unor acte normative în domeniul managementului situațiilor de urgență și al apărării împotriva incendiilor, publicată în Monitorul Oficial al României, Partea I, nr. 647 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

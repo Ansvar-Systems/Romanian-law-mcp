@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-167459",
+  "type": "statute",
+  "title": "LEGE nr. 87 din 23 aprilie 2015",
+  "short_name": "lege 87 23 04 2015",
+  "status": "in_force",
+  "issued_date": "2015-04-23",
+  "in_force_date": "2015-04-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167459",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 87 23/04/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 84 din Legea nr. 204/2006 privind pensiile facultative, publicată în Monitorul Oficial al României, Partea I, nr. 470 din 31 mai 2006, cu modificările şi completările ulterioare, după litera e) se introduce o nouă literă, litera f), cu următorul cuprins: \"f) investirea activelor fondurilor de pensii facultative de către administratorii acestora nu trebuie să fie bazată în mod exclusiv şi mecanic pe ratinguri de credit emise de agenţiile de rating de credit.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 23 alin. (1) din Legea nr. 411/2004 privind fondurile de pensii administrate privat, republicată în Monitorul Oficial al României, Partea I, nr. 482 din 18 iulie 2007, cu modificările şi completările ulterioare, după litera e) se introduce o nouă literă, litera f), cu următorul cuprins: \"f) investirea activelor fondurilor de pensii administrate privat de către administratorii acestora nu trebuie să fie bazată în mod exclusiv pe ratinguri de credit emise de agenţiile de rating de credit.\""
+    }
+  ],
+  "definitions": []
+}

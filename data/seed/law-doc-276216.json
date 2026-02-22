@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276216",
+  "type": "statute",
+  "title": "LEGE nr. 337 din 9 noiembrie 2023",
+  "short_name": "lege 337 09 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-09",
+  "in_force_date": "2023-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276216",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 337 09/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 56 din 11 iunie 2023 pentru instituirea unor măsuri privind buna funcționare a sistemului de învățământ, publicată în Monitorul Oficial al României, Partea I, nr. 510 din 11 iunie 2023."
+    }
+  ],
+  "definitions": []
+}

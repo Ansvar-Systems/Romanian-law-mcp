@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208345",
+  "type": "statute",
+  "title": "LEGE nr. 294 din 3 decembrie 2018",
+  "short_name": "lege 294 03 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-03",
+  "in_force_date": "2018-12-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208345",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 294 03/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 93 din 6 decembrie 2017 pentru stabilirea unor măsuri privind organizarea, funcționarea și atribuțiile oficiilor teritoriale ale Autorității Naționale de Management al Calității în Sănătate, publicată în Monitorul Oficial al României, Partea I, nr. 983 din 11 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-295624",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 14 martie 2025",
+  "short_name": "lege 20 14 03 2025",
+  "status": "in_force",
+  "issued_date": "2025-03-14",
+  "in_force_date": "2025-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/295624",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 14/03/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 94 din 28 iunie 2024 pentru completarea Ordonanței Guvernului nr. 82/2001 privind stabilirea unor forme de sprijin financiar pentru unitățile de cult aparținând cultelor religioase recunoscute din România, publicată în Monitorul Oficial al României, Partea I, nr. 611 din 29 iunie 2024."
+    }
+  ],
+  "definitions": []
+}

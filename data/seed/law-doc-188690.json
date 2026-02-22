@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188690",
+  "type": "statute",
+  "title": "LEGE nr. 90 din 28 aprilie 2017",
+  "short_name": "lege 90 28 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-28",
+  "in_force_date": "2017-04-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188690",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 90 28/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (8) al articolului 12 din Legea educaţiei naţionale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările şi completările ulterioare, se introduce un nou alineat, alineatul (8^1), cu următorul cuprins: (8^1) Elevii înscrişi în învăţământul profesional şi tehnic cu durata de minimum 3 ani pot beneficia de masă şi cazare gratuită în cantinele şi internatele şcolare. Acoperirea cheltuielilor pentru cazarea şi masa acestora se poate asigura din bugetele locale sau de la consiliile judeţene, prin decizii proprii."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-59695",
+  "type": "statute",
+  "title": "LEGE nr. 24 din 3 martie 2005",
+  "short_name": "lege 24 03 03 2005",
+  "status": "in_force",
+  "issued_date": "2005-03-03",
+  "in_force_date": "2005-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/59695",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 24 03/03/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 102 din 16 noiembrie 2004 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului , publicată în Monitorul Oficial al României, Partea I, nr. 1.083 din 22 noiembrie 2004, cu următoarea modificare: – La articolul unic punctul 3, alineatul (1^1) al articolului 31 va avea următorul cuprins: (1^1) Polițistul numit în prima funcție sau mutat în interesul serviciului în localitatea în care își are domiciliul, dar care nu deține locuință proprietate personală în acea localitate, nici el și nici soția/soțul acestuia, în situația în care nu i se poate asigura spațiul de locuit corespunzător, poate beneficia de compensația lunară pentru chirie, prevăzută la alin. (1), în cazuri justificate, pe baza rezultatelor anchetei sociale efectuate de o comisie constituită prin ordin al ministrului administrației și internelor, însușite de către conducătorul unității din care face parte polițistul, la solicitarea acestuia."
+    }
+  ],
+  "definitions": []
+}

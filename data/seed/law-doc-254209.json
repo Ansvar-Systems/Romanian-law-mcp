@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254209",
+  "type": "statute",
+  "title": "LEGE nr. 98 din 14 aprilie 2022",
+  "short_name": "lege 98 14 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-14",
+  "in_force_date": "2022-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254209",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 98 14/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 109 din 13 decembrie 2018 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 1062 din 14 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

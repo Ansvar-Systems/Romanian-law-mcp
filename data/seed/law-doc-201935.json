@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201935",
+  "type": "statute",
+  "title": "LEGE nr. 152 din 26 iunie 2018",
+  "short_name": "lege 152 26 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-26",
+  "in_force_date": "2018-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201935",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 152 26/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 111 din 20 decembrie 2017 pentru modificarea și completarea Legii serviciilor comunitare de utilități publice nr. 51/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 1.035 din 28 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

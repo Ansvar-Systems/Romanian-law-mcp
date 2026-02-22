@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242709",
+  "type": "statute",
+  "title": "LEGE nr. 149 din 20 mai 2021",
+  "short_name": "lege 149 20 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-20",
+  "in_force_date": "2021-05-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242709",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 149 20/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 23 din 27 august 2019 pentru modificarea art. 137 alin. (1) din Ordonanța de urgență a Guvernului nr. 111/2011 privind comunicațiile electronice, adoptată în temeiul art. 1 pct. V3 din Legea nr. 128/2019 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 709 din 29 august 2019."
+    }
+  ],
+  "definitions": []
+}

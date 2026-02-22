@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35900",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 2 decembrie 1988",
+  "short_name": "lege 18 02 12 1988",
+  "status": "in_force",
+  "issued_date": "1988-12-02",
+  "in_force_date": "1988-12-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35900",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18 02/12/1988",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 259/1988 privind modul de aprobare a normelor pentru consumurile materiale şi energetice la produse, servicii şi în construcţii. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 2 decembrie 1988. Preşedintele Marii Adunări Naţionale NICOLAE GIOSAN ------------"
+    }
+  ],
+  "definitions": []
+}

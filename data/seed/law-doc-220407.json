@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-220407",
+  "type": "statute",
+  "title": "LEGE nr. 231 din 27 noiembrie 2019",
+  "short_name": "lege 231 27 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-27",
+  "in_force_date": "2019-11-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/220407",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 231 27/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 2 din 30 ianuarie 2019 pentru modificarea și completarea Legii nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice, adoptată în temeiul art. 1 pct. I.1 , pct. II.3 și pct. VII din Legea nr. 4/2019 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 80 din 31 ianuarie 2019."
+    }
+  ],
+  "definitions": []
+}

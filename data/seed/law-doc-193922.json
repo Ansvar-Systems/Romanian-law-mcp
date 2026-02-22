@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-193922",
+  "type": "statute",
+  "title": "LEGE nr. 199 din 12 octombrie 2017",
+  "short_name": "lege 199 12 10 2017",
+  "status": "in_force",
+  "issued_date": "2017-10-12",
+  "in_force_date": "2017-10-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/193922",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 199 12/10/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 26 din 30 martie 2017 pentru modificarea art. 3 alin. (2) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 228 din 3 aprilie 2017."
+    }
+  ],
+  "definitions": []
+}

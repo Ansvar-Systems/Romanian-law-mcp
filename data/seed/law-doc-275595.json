@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275595",
+  "type": "statute",
+  "title": "LEGE nr. 285 din 23 octombrie 2023",
+  "short_name": "lege 285 23 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-23",
+  "in_force_date": "2023-10-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275595",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 285 23/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 124 din 31 iulie 2020 pentru completarea Ordonanței Guvernului nr. 23/1998 privind finanțarea și din alte surse decât bugetul de stat a unor activități specifice de administrare a rezervelor de stat, publicată în Monitorul Oficial al României, Partea I, nr. 694 din 3 august 2020."
+    }
+  ],
+  "definitions": []
+}

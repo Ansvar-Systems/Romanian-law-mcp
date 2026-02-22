@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-2264",
+  "type": "statute",
+  "title": "LEGE Nr. 52 din 29 mai 1992",
+  "short_name": "lege 52 29 05 1992",
+  "status": "in_force",
+  "issued_date": "1992-05-29",
+  "in_force_date": "1992-05-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2264",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 52 29/05/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se autorizeaza Guvernul României ca din fondul de rezerva, prevăzut în bugetul de stat pe anul 1992, să depună în contul \"Moldova\", deschis la \"Bankcoop\" - S.A., suma de 150 milioane lei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Pentru sumele depuse în contul \"Moldova\" ÎN ANUL 1992, regiile autonome şi societăţile comerciale sînt scutite de plată impozitului pe profit."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Economiei şi Finanţelor va lua măsurile necesare pentru îndeplinirea prevederilor prezentei legi. NOTĂ: Legea nr. 52 a fost adoptată de Senat şi Camera Deputaţilor în şedinţele din 27 mai 1992 şi, respectiv, 28 mai 1992 şi a fost promulgată prin Decret nr. 112 din 28 mai 1992."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-282713",
+  "type": "statute",
+  "title": "LEGE nr. 139 din 14 mai 2024",
+  "short_name": "lege 139 14 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-14",
+  "in_force_date": "2024-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282713",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 139 14/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 331 din Legea nr. 134/2010 privind Codul de procedură civilă , republicată în Monitorul Oficial al României, Partea I, nr. 247 din 10 aprilie 2015, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: (1) Dacă părțile nu se învoiesc asupra numirii experților, ei se vor numi de către instanță, în mod aleatoriu, în sistem informatizat, dintre persoanele înscrise în evidența biroului local de expertiză și autorizate, potrivit legii, să efectueze expertize judiciare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Art. I intră în vigoare la un an de la data publicării prezentei legi în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "(1) În termen de 90 de zile de la data publicării prezentei legi în Monitorul Oficial al României, Partea I, ministrul justiției va aproba, prin ordin, normele metodologice privind modalitatea de funcționare a sistemului informatizat prevăzut la art. I , care va avea în vedere încărcătura experților în ceea ce privește numărul de expertize judiciare alocate. (2) Ordinul prevăzut la alin. (1) intră în vigoare la un an de la data publicării prezentei legi în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

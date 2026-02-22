@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-22676",
+  "type": "statute",
+  "title": "LEGE nr. 523 din 9 septembrie 1940",
+  "short_name": "lege 523 09 09 1940",
+  "status": "in_force",
+  "issued_date": "1940-09-09",
+  "in_force_date": "1940-09-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22676",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 523 09/09/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Toate acţiunile, proprietatea directa sau indirecta a M. S. Regelui Carol II, emise sau aflate în depozitul societăţilor: Banca de Credit, S. A. Telefoane, Buhusi, Scherg, Resita, Malaxa, Mica, Ripiceni, Blanck, Fabricile de zahăr Lujani, etc., sînt şi rămîn blocate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Deţinătorii lor cu orice titlu, nu numai emitentii şi depozitarii, mandatarii sau reprezentanţii de orice natura, sînt obligaţi ca în termen de 5 zile de la data prezentului decret, să depună aceste titluri, sau să le declare, indicând locul depozitului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Declaraţiile se vor depune la primul-preşedinte al Tribunalului Ilfov."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Emitentii, deţinătorii, depozitarii acestor titluri, mandantii, cesionarii sau reprezentanţii proprietăţii, care nu se vor conformă acestor dispoziţii, sau care vor incerca înstrăinarea sau evaziunea acestor titluri, vor fi pedepsiţi cu închisoare corecţională de la 5-10 ani. ----------"
+    }
+  ],
+  "definitions": []
+}

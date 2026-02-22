@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-241832",
+  "type": "statute",
+  "title": "LEGE nr. 100 din 26 aprilie 2021",
+  "short_name": "lege 100 26 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-26",
+  "in_force_date": "2021-04-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241832",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 100 26/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 34 din 26 martie 2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență, publicată în Monitorul Oficial al României, Partea I, nr. 268 din 31 martie 2020."
+    }
+  ],
+  "definitions": []
+}

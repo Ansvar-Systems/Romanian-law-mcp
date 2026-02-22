@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30837",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 28 iunie 1930",
+  "short_name": "lege 183 28 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-28",
+  "in_force_date": "1930-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30837",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 28/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se autoriza Epitropia Generală a Casei Spitalelor şi Ospiciilor Sf. Spiridon din Iaşi a contracta un împrumut de 40.000.000 lei în valoare nominală la Creditul judeţean şi comunal sau la Creditul Funciar Urban din Iaşi. Plata anuităţilor împrumutului se va prevedea în bugetul Epitropiei. Desbateri: Camera Nr. 75-1929/30; Senat Nr. 57-1929/30. Votat de Adunarea Deputaţilor la 18 Iunie şi de Senat la 24 Iunie 1930. -------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-228488",
+  "type": "statute",
+  "title": "LEGE nr. 159 din 28 iulie 2020",
+  "short_name": "lege 159 28 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-28",
+  "in_force_date": "2020-07-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228488",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 159 28/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă majorarea capitalului autorizat deținut de România la Banca Internațională pentru Reconstrucție și Dezvoltare cu 682 acțiuni, în valoare de 82.273.070 dolari S.U.A., în conformitate cu prevederile Rezoluției nr. 663/2018 privind „Majorarea generală de capital 2018“, adoptată de Consiliul guvernatorilor Băncii Internaționale pentru Reconstrucție și Dezvoltare la data de 1 octombrie 2018. Valoarea capitalului vărsat este de 16.454.614 dolari S.U.A. și se achită începând cu anul 2020 prin virament bancar în dolari S.U.A., anual, în tranșe egale până la data de 1 octombrie 2023."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se aprobă majorarea capitalului autorizat deținut de România la Banca Internațională pentru Reconstrucție și Dezvoltare cu 662 acțiuni, în valoare de 79.860.370 dolari S.U.A., în conformitate cu prevederile Rezoluției nr. 664/2018 privind „Majorarea selectivă de capital 2018“, adoptată de Consiliul guvernatorilor Băncii Internaționale pentru Reconstrucție și Dezvoltare la data de 1 octombrie 2018. Valoarea capitalului vărsat este de 4.791.622,20 dolari S.U.A. și se achită începând cu anul 2020 prin virament bancar în dolari S.U.A., anual, în tranșe egale până la data de 1 octombrie 2023."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Plata capitalului vărsat în conformitate cu prevederile Rezoluției nr. 663/2018 și Rezoluției nr. 664/2018 se asigură anual de la bugetul de stat, prin bugetul Ministerului Finanțelor Publice."
+    }
+  ],
+  "definitions": []
+}

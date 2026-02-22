@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-37667",
+  "type": "statute",
+  "title": "LEGE nr. 32 din 25 februarie 1948",
+  "short_name": "lege 32 25 02 1948",
+  "status": "in_force",
+  "issued_date": "1948-02-25",
+  "in_force_date": "1948-02-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37667",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 25/02/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Adunarea Deputaţilor se disolva, pe data publicării prezentei legi în Monitorul Oficial."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Alegerile pentru Marea Adunare Naţionala se vor face după normele prevăzute de legea Nr. 560 din 1946 , cu modificările ei ulterioare. Corpul electoral se convoacă pe data de 28 Martie 1948. Marea Adunare Naţionala se va întruni, pe data de 6 Aprilie 1948."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Marea Adunare Naţionala va elabora Constituţia Republicii Populare Române, după care va exercita pe tot timpul duratei sale atribuţiunile Adunării Legislative Ordinare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Pînă la constituirea Marii Adunări Naţionale puterea legislativă se va exercita de Guvern. Actele legislative ale Guvernului vor fi ratificate de Marea Adunare Naţionala."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Orice dispoziţiuni contrare prezentei legi sînt şi rămîn abrogate. Votată de Adunarea Deputaţilor în şedinţa de la 24 Februarie 1948. --------------"
+    }
+  ],
+  "definitions": []
+}

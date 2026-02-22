@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196051",
+  "type": "statute",
+  "title": "LEGE nr. 266 din 20 decembrie 2017",
+  "short_name": "lege 266 20 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-20",
+  "in_force_date": "2017-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196051",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 266 20/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 28 din Legea tinerilor nr. 350/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 648 din 27 iulie 2006, cu modificările ulterioare, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Consiliile locale, altele decât cele prevăzute la alin. (1), pot constitui anual, în cadrul bugetelor proprii, Fondul destinat activităților de tineret."
+    }
+  ],
+  "definitions": []
+}

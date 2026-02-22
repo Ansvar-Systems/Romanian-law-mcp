@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262468",
+  "type": "statute",
+  "title": "LEGE nr. 356 din 13 decembrie 2022",
+  "short_name": "lege 356 13 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-13",
+  "in_force_date": "2022-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262468",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 356 13/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 69 din 26 mai 2022 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și prorogarea unor termene, publicată în Monitorul Oficial al României, Partea I, nr. 521 din 26 mai 2022."
+    }
+  ],
+  "definitions": []
+}

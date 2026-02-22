@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255444",
+  "type": "statute",
+  "title": "LEGE nr. 137 din 13 mai 2022",
+  "short_name": "lege 137 13 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-13",
+  "in_force_date": "2022-05-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255444",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 137 13/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 4 din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole și celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 și ale Legii nr. 169/1997 , publicată în Monitorul Oficial al României, Partea I, nr. 8 din 12 ianuarie 2000, cu modificările și completările ulterioare, după alineatul (1^9) se introduce un nou alineat, alineatul (1^10), cu următorul cuprins: (1^10) Proprietarii investițiilor privatizate în condițiile legii pot încheia acorduri de despăgubire și cu persoane fizice îndreptățite din județul respectiv, ale căror cereri de reconstituire a drepturilor de proprietate au fost validate de comisiile județene de fond funciar sau au fost stabilite prin hotărâri judecătorești definitive, chiar dacă aceste terenuri preluate abuziv nu s-au aflat sub investițiile privatizate."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169311",
+  "type": "statute",
+  "title": "LEGE nr. 179 din 30 iunie 2015",
+  "short_name": "lege 179 30 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-30",
+  "in_force_date": "2015-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169311",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 179 30/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 5 din 28 ianuarie 2015 pentru modificarea unor termene prevăzute de Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, adoptată în temeiul art. l pct. IX din Legea nr. 184/2014 privind abilitarea Guvernului de a emite ordonanţe, publicată în Monitorul Oficial al României, Partea I, nr. 78 din 29 ianuarie 2015."
+    }
+  ],
+  "definitions": []
+}

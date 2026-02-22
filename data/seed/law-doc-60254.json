@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-60254",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 17 martie 2005",
+  "short_name": "lege 43 17 03 2005",
+  "status": "in_force",
+  "issued_date": "2005-03-17",
+  "in_force_date": "2005-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/60254",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 17/03/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 98 din 10 noiembrie 2004 pentru modificarea Legii nr. 1/1998 privind organizarea și funcționarea Serviciului de Informații Externe, publicată în Monitorul Oficial al României, Partea I, nr. 1.083 din 22 noiembrie 2004, cu următoarea modificare: – La punctul 2, alineatul (2) al articolului 14 va avea următorul cuprins: (2) Militarii angajați pe bază de contract sunt învestiți cu exercițiul autorității publice pe timpul și în legătură cu îndeplinirea atribuțiilor și îndatoririlor de serviciu, în limitele competențelor stabilite prin lege pentru cadrele militare în activitate. Modul de angajare, durata contractului, drepturile și îndatoririle militarilor angajați pe bază de contract sunt cele prevăzute de actele normative aplicabile armatei române și prin ordin al directorului Serviciului de Informații Externe."
+    }
+  ],
+  "definitions": []
+}

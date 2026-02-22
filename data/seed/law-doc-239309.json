@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239309",
+  "type": "statute",
+  "title": "LEGE nr. 34 din 16 martie 2021",
+  "short_name": "lege 34 16 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239309",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 16/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 28 din 8 mai 2019 pentru modificarea art. 3^4 din Ordonanța de urgentă a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 358 din 8 mai 2019."
+    }
+  ],
+  "definitions": []
+}

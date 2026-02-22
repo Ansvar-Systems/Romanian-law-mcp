@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-165989",
+  "type": "statute",
+  "title": "LEGE nr. 15 din 24 februarie 2015",
+  "short_name": "lege 15 24 02 2015",
+  "status": "in_force",
+  "issued_date": "2015-02-24",
+  "in_force_date": "2015-02-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/165989",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 15 24/02/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 19 din 23 aprilie 2014 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal, publicată în Monitorul Oficial al României, Partea I, nr. 308 din 25 aprilie 2014."
+    }
+  ],
+  "definitions": []
+}

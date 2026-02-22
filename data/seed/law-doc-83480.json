@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-83480",
+  "type": "statute",
+  "title": "LEGE nr. 208 din 2 iulie 2007",
+  "short_name": "lege 208 02 07 2007",
+  "status": "in_force",
+  "issued_date": "2007-07-02",
+  "in_force_date": "2007-07-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/83480",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 208 02/07/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 13 din 31 ianuarie 2007 pentru completarea art. 5 din Ordonanța Guvernului nr. 43/2000 privind protecția patrimoniului arheologic și declararea unor situri arheologice ca zone de interes național, adoptată în temeiul art. 1 pct. II.5 din Legea nr. 502/2006 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 81 din 1 februarie 2007, cu următoarea modificare: – Articolul II va avea următorul cuprins: Articolul II În termen de 60 de zile de la data intrării în vigoare a prezentei ordonanțe, Ministerul Culturii și Cultelor și Ministerul Transporturilor vor elabora metodologia cercetării arheologice pentru proiectele de infrastructură de transport de interes național, care cuprinde măsurile necesar a fi întreprinse pentru accelerarea eliberării Certificatului de descărcare de sarcină arheologică, aprobată prin ordin comun al ministrului culturii și cultelor și al ministrului transporturilor."
+    }
+  ],
+  "definitions": []
+}

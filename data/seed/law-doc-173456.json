@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173456",
+  "type": "statute",
+  "title": "LEGE nr. 298 din 25 noiembrie 2015",
+  "short_name": "lege 298 25 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-25",
+  "in_force_date": "2015-11-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173456",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 298 25/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 2 din Legea nr. 92/2002 pentru aprobarea participării României, cu drepturi depline, la Consiliul de Administraţie al Colegiului Europei şi a plăţii cotizaţiei anuale, publicată în Monitorul Oficial al României, Partea I, nr. 157 din 5 martie 2002, se modifică şi va avea următorul cuprins: \"Art. 2. - Cotizaţia se plăteşte anual, din sumele alocate cu această destinaţie de la bugetul de stat în bugetul Ministerului Afacerilor Externe.\""
+    }
+  ],
+  "definitions": []
+}

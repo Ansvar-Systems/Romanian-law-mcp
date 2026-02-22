@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209631",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 4 ianuarie 2019",
+  "short_name": "lege 6 04 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-04",
+  "in_force_date": "2019-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209631",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 04/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 83 din 13 septembrie 2018 privind acordarea unei măsuri de protecție socială persoanelor concediate din cadrul societăților din sectorul crescătorilor de suine a căror activitate a fost afectată de virusul pestei porcine africane, publicată în Monitorul Oficial al României, Partea I, nr. 794 din 17 septembrie 2018."
+    }
+  ],
+  "definitions": []
+}

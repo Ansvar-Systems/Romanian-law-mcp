@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-243992",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 30 iunie 2021",
+  "short_name": "lege 183 30 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-30",
+  "in_force_date": "2021-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243992",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 30/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "La data intrării în vigoare a prezentei legi, Universitatea Română de Științe și Arte „Gheorghe Cristea“ din București, instituție de învățământ superior, persoană juridică de drept privat și de utilitate publică, parte a sistemului național de învățământ, cu sediul în Municipiul București, Bd. Energeticienilor nr. 9-11, sectorul 3, se desființează."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Patrimoniul universității, în conformitate cu prevederile art. 230 alin. (2) din Legea educației naționale nr. 1/2011 , cu modificările și completările ulterioare, revine fondatorilor."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Studenții și absolvenții fără diplomă care au fost înmatriculați la specializări/programe de studii universitare acreditate/autorizate provizoriu, din cadrul Universității Române de Științe și Arte „Gheorghe Cristea“ din București, au dreptul să își finalizeze studiile la specializări/programe de studii acreditate identice sau similare, din același domeniu al specializării/ programului de studii, organizate în instituții de învățământ superior acreditate."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Documentele administrative, documentele financiar-contabile și documentele universitare cu caracter permanent, create pe timpul funcționării universității, urmează să fie depuse la Serviciul Municipiului București al Arhivelor Naționale ale României, în termen de 60 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "La data intrării în vigoare a prezentei legi, Legea nr. 482/2002 privind înființarea Universității Române de Științe și Arte „Gheorghe Cristea“ din București, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 17 iulie 2002, se abrogă."
+    }
+  ],
+  "definitions": []
+}

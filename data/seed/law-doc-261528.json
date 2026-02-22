@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-261528",
+  "type": "statute",
+  "title": "LEGE nr. 316 din 18 noiembrie 2022",
+  "short_name": "lege 316 18 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-18",
+  "in_force_date": "2022-11-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261528",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 316 18/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 181 din 22 octombrie 2020 privind unele măsuri fiscal-bugetare, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene, publicată în Monitorul Oficial al României, Partea I, nr. 988 din 26 octombrie 2020."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Alineatul (1) al articolului IV din Legea nr. 176/2022 pentru aprobarea Ordonanței de urgență a Guvernului nr. 93/2021 privind instituirea unor măsuri pentru derularea Programului național de dezvoltare locală etapa a II-a și pentru modificarea art. IV alin. (1) din Ordonanța de urgență a Guvernului nr. 6/2017 pentru modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri privind realizarea investițiilor finanțate din fonduri publice, pentru reglementarea unor măsuri referitoare la Programul național de dezvoltare locală, precum și pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 567 din 10 iunie 2022, se modifică și va avea următorul cuprins: Articolul IV (1) Autorizațiile de construire deja prelungite în limitele legii, aflate în termen de valabilitate la data intrării în vigoare a prezentei legi, beneficiază de același regim precum cel prevăzut la art. III."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188116",
+  "type": "statute",
+  "title": "LEGE nr. 56 din 10 aprilie 2017",
+  "short_name": "lege 56 10 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-10",
+  "in_force_date": "2017-04-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188116",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 56 10/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La alineatul (1) al articolului 352 din Legea educaţiei naţionale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările şi completările ulterioare, după litera b) se introduce o nouă literă, litera b^1), cu următorul cuprins: b^1) instituţiile şi unităţile de învăţământ pot să angajeze parteneriate cu agenţi economici publici sau privaţi sau alte instituţii, cu scopul de a testa şi aprofunda aspectele privind consilierea şi orientarea în carieră a elevilor şi studenţilor;"
+    }
+  ],
+  "definitions": []
+}

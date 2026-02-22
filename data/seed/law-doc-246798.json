@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-246798",
+  "type": "statute",
+  "title": "LEGE nr. 234 din 30 septembrie 2021",
+  "short_name": "lege 234 30 09 2021",
+  "status": "in_force",
+  "issued_date": "2021-09-30",
+  "in_force_date": "2021-09-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/246798",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 234 30/09/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 9 din 19 februarie 2021 pentru modificarea Legii nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale, publicată în Monitorul Oficial al României, Partea I, nr. 174 din 19 februarie 2021."
+    }
+  ],
+  "definitions": []
+}

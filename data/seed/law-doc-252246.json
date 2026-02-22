@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252246",
+  "type": "statute",
+  "title": "LEGE nr. 32 din 28 februarie 2022",
+  "short_name": "lege 32 28 02 2022",
+  "status": "in_force",
+  "issued_date": "2022-02-28",
+  "in_force_date": "2022-02-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252246",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 28/02/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 30 din 21 aprilie 2021 privind unele măsuri fiscale, publicată în Monitorul Oficial al României, Partea I, nr. 423 din 21 aprilie 2021."
+    }
+  ],
+  "definitions": []
+}

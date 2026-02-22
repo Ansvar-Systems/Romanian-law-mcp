@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299210",
+  "type": "statute",
+  "title": "LEGE nr. 107 din 23 iunie 2025",
+  "short_name": "lege 107 23 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-23",
+  "in_force_date": "2025-06-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299210",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 107 23/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 4 din 31 ianuarie 2025 pentru modificarea și completarea Ordonanței Guvernului nr. 7/2012 privind implementarea sistemelor de transport inteligente în domeniul transportului rutier și pentru realizarea interfețelor cu alte moduri de transport, adoptată în temeiul art. I pct. VIII.1 din Legea nr. 332/2024 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 94 din 31 ianuarie 2025."
+    }
+  ],
+  "definitions": []
+}

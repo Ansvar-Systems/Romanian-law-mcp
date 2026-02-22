@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-179962",
+  "type": "statute",
+  "title": "LEGE nr. 134 din 7 iulie 2016",
+  "short_name": "lege 134 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/179962",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 134 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 48 din 23 octombrie 2015 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2015, publicată în Monitorul Oficial al României, Partea I, nr. 807 din 29 octombrie 2015."
+    }
+  ],
+  "definitions": []
+}

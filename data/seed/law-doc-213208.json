@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-213208",
+  "type": "statute",
+  "title": "LEGE nr. 66 din 18 aprilie 2019",
+  "short_name": "lege 66 18 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-18",
+  "in_force_date": "2019-04-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213208",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 66 18/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 11 martie ca „Ziua Națională a Meseriilor“ și va fi celebrată ca zi de sărbătoare națională, lucrătoare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Educației Naționale, inspectoratele școlare, instituțiile de învățământ, precum și Parlamentul, Președinția României, Guvernul, celelalte autorități ale administrației publice centrale și locale organizează, cu ocazia Zilei Naționale a Meseriilor, evenimente educaționale pentru promovarea învățământului profesional și tehnic, precum și a meseriilor. În perioada de 30 de zile calendaristice anterioare Zilei Naționale a Meseriilor, Ministerul Educației Naționale, inspectoratele școlare și instituțiile de învățământ organizează, în parteneriat cu operatorii economici interesați, campanii de comunicare publică pentru promovarea învățământului profesional și tehnic, precum și a meseriilor."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Fondurile necesare pentru organizarea manifestărilor prilejuite de celebrarea Zilei Naționale a Meseriilor se asigură din bugetele instituțiilor de învățământ, din bugetele autorităților publice centrale și locale, în limita alocațiilor bugetare aprobate."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la publicarea sa în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

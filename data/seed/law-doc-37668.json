@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-37668",
+  "type": "statute",
+  "title": "LEGE nr. 31 din 24 februarie 1948",
+  "short_name": "lege 31 24 02 1948",
+  "status": "in_force",
+  "issued_date": "1948-02-24",
+  "in_force_date": "1948-02-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37668",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 31 24/02/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute Tratatul de Prietenie, Colaborare şi Asistenţa Mutuala între Republica Populara Română şi Uniunea Republicilor Socialiste Sovietice, semnat la Moscova la 4 Februarie 1948. Textul autentic în limba română al acestui Tratat este alăturat la prezenta lege."
+    }
+  ],
+  "definitions": []
+}

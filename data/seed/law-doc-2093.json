@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-2093",
+  "type": "statute",
+  "title": "LEGE Nr. 4 din 24 ianuarie 1992",
+  "short_name": "lege 4 24 01 1992",
+  "status": "in_force",
+  "issued_date": "1992-01-24",
+  "in_force_date": "1992-01-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2093",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4 24/01/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifica Acordul dintre Guvernul României şi Guvernul Republicii Populare Chineze privind livrarea de către partea chineza de mărfuri pe credit părţii române, semnat la Beijing la 8 iulie 1991."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În termen de 30 de zile de la data prezentei legi, Ministerul Comerţului şi Turismului, împreună cu Ministerul Industriei, Ministerul Economiei şi Finanţe lor şi Banca Naţionala a României vor prezenta spre aprobare Guvernului un proiect de hotărîre privind mecanismul de urmărire a obligaţiilor asumate de partea română şi de stimulare a agenţilor economici, pentru rambursarea creditului comercial acordat de către Guvernul Republicii Populare Chineze. Această lege a fost adoptată de Senat în şedinţa din 6 noiembrie 1991. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 20 ianuarie 1992, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR MARŢIAN DAN"
+    }
+  ],
+  "definitions": []
+}

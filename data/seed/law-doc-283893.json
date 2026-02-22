@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283893",
+  "type": "statute",
+  "title": "LEGE nr. 181 din 7 iunie 2024",
+  "short_name": "lege 181 07 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-07",
+  "in_force_date": "2024-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283893",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 181 07/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 2 din 18 ianuarie 2024 privind amânarea punerii în aplicare a Deciziei (UE) 2022/197 a Comisiei din 17 ianuarie 2022 de stabilire a unui marcaj fiscal comun pentru motorine și kerosen, publicată în Monitorul Oficial al României, Partea I, nr. 48 din 18 ianuarie 2024."
+    }
+  ],
+  "definitions": []
+}

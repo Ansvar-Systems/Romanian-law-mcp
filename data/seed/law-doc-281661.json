@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-281661",
+  "type": "statute",
+  "title": "LEGE nr. 88 din 10 aprilie 2024",
+  "short_name": "lege 88 10 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-10",
+  "in_force_date": "2024-04-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281661",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 88 10/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pentru cinstirea memoriei lui Aurel Vlaicu (1882-1913), având în vedere reușitele sale extraordinare în construirea și realizarea zborurilor cu mașinile sale, precum și invențiile în domeniul aeronauticii care l-au inclus în rândul inovatorilor celebri ai primelor decenii ale secolului al XX-lea, acesta este declarat Erou al Națiunii Române."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Comemorarea Eroului Națiunii Române - Aurel Vlaicu are loc în data de 17 iunie, ziua primului zbor efectuat pe teritoriul românesc."
+    }
+  ],
+  "definitions": []
+}

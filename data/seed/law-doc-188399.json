@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-188399",
+  "type": "statute",
+  "title": "LEGE nr. 65 din 13 aprilie 2017",
+  "short_name": "lege 65 13 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-13",
+  "in_force_date": "2017-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188399",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 65 13/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se instituie ziua de 21 martie - Ziua Olteniei. (2) Sărbătorirea anuală a Zilei Olteniei poate fi marcată de autorităţile centrale şi locale, precum şi de instituţiile publice de cultură din ţară şi străinătate, prin organizarea unor programe şi manifestări cu caracter cultural-artistic şi ştiinţific."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Autorităţile administraţiei publice centrale şi locale pot sprijini material sau logistic organizarea şi desfăşurarea programelor şi manifestărilor prevăzute la art. 1 alin. (2), în limita fondurilor disponibile. (2) Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

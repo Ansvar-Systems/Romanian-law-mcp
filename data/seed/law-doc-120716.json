@@ -1,0 +1,31 @@
+{
+  "id": "law-doc-120716",
+  "type": "statute",
+  "title": "LEGE nr. 163 din 12 iulie 2010",
+  "short_name": "lege 163 12 07 2010",
+  "status": "in_force",
+  "issued_date": "2010-07-12",
+  "in_force_date": "2010-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/120716",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 163 12/07/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul României acceptă amendamentele, adoptate la 30 iunie 2007 de Consiliul de cooperare vamală, la art. VIII şi XVIII din Convenţia pentru înfiinţarea unui consiliu de cooperare vamală, încheiată la 15 decembrie 1950 la Bruxelles, la care România a aderat prin Decretul nr. 980/1968 , publicat în Buletinul Oficial nr. 138 din 31 octombrie 1968. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ROBERTA ALMA ANASTASE PREŞEDINTELE SENATULUI MIRCEA-DAN GEOANĂ Bucureşti, 12 iulie 2010. Nr. 163. Amendarea*) Convenţiei pentru înfiinţarea unui consiliu de cooperare vamală ----------- Notă *) Traducere. 1. Articolul VIII litera a) se amendează după cum urmează: \"a) cu excepţia uniunilor vamale sau economice membre pentru care consiliul a adoptat dispoziţii specifice, fiecare membru al consiliului dispune de un vot; totuşi, niciun membru nu poate participa la vot în ceea ce priveşte problemele relative la interpretarea sau aplicarea convenţiilor în vigoare menţionate la art. III lit. d) care nu îi sunt aplicabile şi nici în ceea ce priveşte amendamentele relative la aceste convenţii.\" 2. După articolul XVIII litera c) se introduce o nouă literă, litera d), după cum urmează: \"d) orice uniune vamală sau economică poate, în conformitate cu dispoziţiile lit. a), b) şi c), să devină parte contractantă la prezenta convenţie. Orice cerere formulată de o uniune vamală sau economică pentru a deveni parte contractantă trebuie mai întâi supusă consiliului pentru aprobare. În sensul prezentei convenţii, prin uniune vamală sau economică se înţelege o uniune formată şi compusă din state, care are competenţă pentru adoptarea propriilor reglementări, care au caracter obligatoriu pentru aceste state în domeniile acoperite de prezenta convenţie, şi pentru a decide, în conformitate cu procedurile interne, să adere la prezenta convenţie.\" -------------"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se introduce o nouă literă, litera d), după cum urmează",
+      "definition": "\"d) orice uniune vamală sau economică poate, în conformitate cu dispoziţiile lit. a), b) şi c), să devină parte contractantă la prezenta convenţie. Orice cerere formulată de o uniune vamală sau economică pentru a deveni parte contractantă trebuie mai întâi supusă consiliului pentru aprobare",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "d) orice uniune vamală sau economică poate, în conformitate cu dispoziţiile lit. a), b) şi c), să devină parte contractantă la prezenta convenţie. Orice cerere formulată de o uniune vamală sau economică pentru a deveni parte contractantă trebuie mai întâi supusă consiliului pentru aprobare. În sensul prezentei convenţii, prin uniune vamală sau economică se înţelege o uniune formată şi compusă din state, care are competenţă pentru adoptarea propriilor reglementări, care au caracter obligatoriu pentru aceste state în domeniile acoperite de prezenta convenţie, şi pentru a decide, în conformitate cu procedurile interne, să adere la prezenta convenţie.",
+      "definition": "------------",
+      "source_provision": "Art.1"
+    }
+  ]
+}

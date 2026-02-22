@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-293174",
+  "type": "statute",
+  "title": "LEGE nr. 315 din 20 decembrie 2024",
+  "short_name": "lege 315 20 12 2024",
+  "status": "in_force",
+  "issued_date": "2024-12-20",
+  "in_force_date": "2024-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/293174",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 315 20/12/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul în temeiul Convenției Națiunilor Unite asupra dreptului mării , încheiată la Montego Bay la 10 decembrie 1982, ratificată de România prin Legea nr. 110/1996 , privind conservarea și utilizarea durabilă a biodiversității marine în zonele din afara jurisdicției naționale, adoptat la New York la 19 iunie 2023 și semnat de România la New York la 20 septembrie 2023."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu ocazia depunerii instrumentului de ratificare, România formulează următoarea excepție: În baza art. 10 alin. (1) și a art. 70 din Acordul în temeiul Convenției Națiunilor Unite asupra dreptului mării referitor la conservarea și utilizarea durabilă a biodiversității marine în zonele din afara jurisdicției naționale, adoptat la New York la 19 iunie 2023, România formulează o excepție de la efectul retroactiv prevăzut la art. 10 alin. (1) a doua teză ; prin urmare, dispozițiile respectivului acord se aplică, în ceea ce privește România, numai activităților legate de resursele genetice marine și de informațiile digitale privind secvențierea resurselor genetice marine în zonele din afara jurisdicției naționale care sunt colectate și generate după intrarea în vigoare a respectivului acord pentru România."
+    }
+  ],
+  "definitions": []
+}

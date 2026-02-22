@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198773",
+  "type": "statute",
+  "title": "LEGE nr. 66 din 14 martie 2018",
+  "short_name": "lege 66 14 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-14",
+  "in_force_date": "2018-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198773",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 66 14/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 5 din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, republicată în Monitorul Oficial al României, Partea I, nr. 807 din 3 decembrie 2010, cu modificările ulterioare, alineatul (4) se modifică și va avea următorul cuprins: (4) Fiecare Cameră a Parlamentului numește, la propunerea Biroului permanent și pe baza recomandării Comisiei juridice, în calitate de judecător, persoana care a întrunit votul majorității membrilor prezenți."
+    }
+  ],
+  "definitions": []
+}

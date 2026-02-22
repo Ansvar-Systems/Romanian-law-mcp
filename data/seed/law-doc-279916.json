@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-279916",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 11 martie 2024",
+  "short_name": "lege 43 11 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-11",
+  "in_force_date": "2024-03-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/279916",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 11/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 30 din 23 martie 2022 privind unele măsuri pentru consolidarea capacității instituționale și administrative a Ministerului Cercetării, Inovării și Digitalizării și a Autorității pentru Digitalizarea României necesare implementării componentei C7 - Transformare digitală din Planul național de redresare și reziliență, precum și alte categorii de măsuri, publicată în Monitorul Oficial al României, Partea I, nr. 285 din 24 martie 2022, cu următoarea completare: – La articolul 12 se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Cheltuielile de organizare și funcționare, inclusiv cheltuielile de personal ale UIPTD, pot avea sursa de finanțare din bugetul de stat, subvenții, venituri proprii, cu posibilitatea decontării din asistențe nerambursabile și din PNRR."
+    }
+  ],
+  "definitions": []
+}

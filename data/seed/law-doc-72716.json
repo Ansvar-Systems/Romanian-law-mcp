@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-72716",
+  "type": "statute",
+  "title": "LEGE nr. 228 din 7 iunie 2006",
+  "short_name": "lege 228 07 06 2006",
+  "status": "in_force",
+  "issued_date": "2006-06-07",
+  "in_force_date": "2006-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/72716",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 228 07/06/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (1) al articolului 2 din Ordonanța de urgenta a Guvernului nr. 48 din 15 iunie 2004 pentru adoptarea unor măsuri privind furnizarea energiei termice populației, pentru încălzirea locuinței și prepararea apei calde de consum, prin sisteme publice centralizate de alimentare cu energie termica, publicată în Monitorul Oficial al României, Partea I, nr. 563 din 24 iunie 2004, aprobată cu modificări și completări prin Legea nr. 430/2004 , va avea următorul cuprins: Articolul 2 (1) Sumele disponibile conform art. 1 se utilizează pentru retehnologizarea, modernizarea și dezvoltarea sistemelor centralizate de producere și distribuire a energiei termice în vederea atingerii parametrilor optimi pentru reducerea costurilor de producție, astfel încât să fie posibila eliminarea treptata a subvențiilor pentru energia termica livrata populației, precum și pentru rambursarea împrumuturilor contractate în același scop și plata dobânzilor, comisioanelor și a altor costuri aferente acestora."
+    }
+  ],
+  "definitions": []
+}

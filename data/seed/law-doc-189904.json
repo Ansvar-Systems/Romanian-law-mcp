@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-189904",
+  "type": "statute",
+  "title": "LEGE nr. 124 din 30 mai 2017",
+  "short_name": "lege 124 30 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-30",
+  "in_force_date": "2017-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189904",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 124 30/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă participarea României ca membru asociat la Proiectul BEPS - Erodarea bazei de impozitare şi transferul profiturilor - iniţiat de Organizaţia pentru Cooperare şi Dezvoltare Economică - OCDE."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Se aprobă plata contribuţiei financiare a României ca membru asociat la Proiectul BEPS - Erodarea bazei de impozitare şi transferul profiturilor - iniţiat de Organizaţia pentru Cooperare şi Dezvoltare Economică - OCDE. (2) Plata contribuţiei financiare anuale a României, prevăzută la alin. (1) , se asigură de la bugetul de stat prin bugetul Ministerului Finanţelor Publice, în limita echivalentului în lei al sumei stabilite anual de Organizaţia pentru Cooperare şi Dezvoltare Economică - OCDE."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "La anexa nr. 1 punctul II din Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, publicată în Monitorul Oficial al României, Partea I, nr. 241 din 29 august 1994, aprobată prin Legea nr. 126/1994 , cu modificările şi completările ulterioare, după numărul curent 83 se introduce un nou număr curent, numărul curent 84, cu următorul cuprins: ┌────┬──────────────────────┬──────┬───────┬────────┬─────────────────────────┬──────────────────────┐ │Nr. │Denumirea organizaţiei│Sediul│Anul │ Anul │ Instituţia română │ Explicaţii │ │crt.│ │ │înfiin-│aderării│ care coordonează │ │ │ │ │ │ţării │României│relaţiile cu organizaţia │ │ │ │ │ │ │ │internaţională respectivă│ │ ├────┼──────────────────────┼──────┼───────┼────────┼─────────────────────────┼──────────────────────┤ │ 0 │ 1 │ 2 │ 3 │ 4 │ 5 │ 6 │ ├────┼──────────────────────┼──────┼───────┼────────┼─────────────────────────┼──────────────────────┤ │\"84 │Organizaţia pentru │Paris │ 1961 │ 2016 │Ministerul Finanţelor │România participă │ │ │Cooperare şi │ │ │ │Publice │în calitate de asociat│ │ │Dezvoltare Economică │ │ │ │ │cu drepturi depline │ │ │- OCDE - Proiectul │ │ │ │ │din anul 2016\". │ │ │BEPS - Erodarea bazei │ │ │ │ │ │ │ │de impozitare şi │ │ │ │ │ │ │ │transferul │ │ │ │ │ │ │ │profiturilor │ │ │ │ │ │ └────┴──────────────────────┴──────┴───────┴────────┴─────────────────────────┴──────────────────────┘"
+    }
+  ],
+  "definitions": []
+}

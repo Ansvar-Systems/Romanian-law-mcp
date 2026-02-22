@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-30841",
+  "type": "statute",
+  "title": "LEGE nr. 231 din 10 iulie 1930",
+  "short_name": "lege 231 10 07 1930",
+  "status": "in_force",
+  "issued_date": "1930-07-10",
+  "in_force_date": "1930-07-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30841",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 231 10/07/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se fixează, cu începere dela 8 Iunie 1930, foştilor Regenti: Sanctitatea Sa Patriarhul României Dr. Miron Cristea şi d. C. Sarateanu, o renta viageră de câte 150.000 lei lunar de fiecare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Renta viageră a d-lui C. Sarateanu este transmisibila în parte de lei 60.000 lunar asupra sotiei sale."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Aceste rente viagere se vor înscrie anual, în acest scop, în bugetul general al Statului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Aceste rente viagere vor fi supuse la impozitele elementar şi global. Desbateri: Camera Nr. 83 şi 85 - 1929/30. Senat Nr. 57 - 1929/30 Votat de Adunarea Deputaţilor la 23 Iunie şi de Senat la 24 Iunie 1930. --------"
+    }
+  ],
+  "definitions": []
+}

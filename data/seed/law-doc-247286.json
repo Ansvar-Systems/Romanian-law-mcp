@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247286",
+  "type": "statute",
+  "title": "LEGE nr. 241 din 8 octombrie 2021",
+  "short_name": "lege 241 08 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-08",
+  "in_force_date": "2021-10-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247286",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 241 08/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 15 din 21 august 2019 pentru reglementarea unor măsuri fiscal bugetare, adoptată în temeiul art. 1 pct. I.3 din Legea nr. 128/2019 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 693 din 22 august 2019."
+    }
+  ],
+  "definitions": []
+}

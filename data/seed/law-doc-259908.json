@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-259908",
+  "type": "statute",
+  "title": "LEGE nr. 280 din 5 octombrie 2022",
+  "short_name": "lege 280 05 10 2022",
+  "status": "in_force",
+  "issued_date": "2022-10-05",
+  "in_force_date": "2022-10-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/259908",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 280 05/10/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 2 din 19 ianuarie 2022 privind stabilirea unor măsuri de protecție socială a angajaților și a altor categorii profesionale în contextul interzicerii, suspendării ori limitării activităților economice, determinate de situația epidemiologică generată de răspândirea coronavirusului SARS-CoV-2, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 61 din 20 ianuarie 2022."
+    }
+  ],
+  "definitions": []
+}

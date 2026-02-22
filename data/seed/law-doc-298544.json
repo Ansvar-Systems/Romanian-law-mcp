@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-298544",
+  "type": "statute",
+  "title": "LEGE nr. 90 din 4 iunie 2025",
+  "short_name": "lege 90 04 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-04",
+  "in_force_date": "2025-06-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/298544",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 90 04/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 39 din 28 august 2024 pentru modificarea și completarea Legii nr. 263/2004 privind asigurarea continuității asistenței medicale primare prin centrele de permanență, adoptată în temeiul art. 1 pct. V.2 din Legea nr. 187/2024 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 870 din 29 august 2024."
+    }
+  ],
+  "definitions": []
+}

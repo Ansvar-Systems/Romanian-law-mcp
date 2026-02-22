@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271589",
+  "type": "statute",
+  "title": "LEGE nr. 179 din 22 iunie 2023",
+  "short_name": "lege 179 22 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-22",
+  "in_force_date": "2023-06-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271589",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 179 22/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 26 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, publicată în Monitorul Oficial al României, Partea I, nr. 1074 din 29 noiembrie 2005, aprobată cu modificări și completări prin Legea nr. 399/2006 , cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 26 (1) Asigurații au dreptul la concediu și indemnizație pentru îngrijirea copilului bolnav în vârstă de până la 12 ani, iar în cazul copilului cu handicap, pentru afecțiunile intercurente, până la împlinirea vârstei de 18 ani."
+    }
+  ],
+  "definitions": []
+}

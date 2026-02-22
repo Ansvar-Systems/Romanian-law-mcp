@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187751",
+  "type": "statute",
+  "title": "LEGE nr. 26 din 24 martie 2017",
+  "short_name": "lege 26 24 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-24",
+  "in_force_date": "2017-03-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187751",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 26 24/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 46 din 31 august 2016 pentru completarea Legii nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 685 din 5 septembrie 2016, cu următoarea completare: – La articolul I, înaintea punctului 1 se introduce un nou punct, cu următorul cuprins: – La articolul 453, după litera h) se introduce o nouă literă, litera h^1), cu următorul cuprins: h^1) terenul aferent clădirii de domiciliu - terenul proprietăţii identificat prin adresa acestuia, individualizată prin denumire proprie a străzii şi numărul poştal atribuit de la adresa de domiciliu;"
+    }
+  ],
+  "definitions": []
+}

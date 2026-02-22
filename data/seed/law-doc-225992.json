@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-225992",
+  "type": "statute",
+  "title": "LEGE nr. 66 din 21 mai 2020",
+  "short_name": "lege 66 21 05 2020",
+  "status": "in_force",
+  "issued_date": "2020-05-21",
+  "in_force_date": "2020-05-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/225992",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 66 21/05/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 2 din 28 ianuarie 2020 privind aprobarea aderării Secretariatului General al Guvernului la Rețeaua europeană de dezvoltare durabilă (ESDN) și aprobarea plății cotizației anuale de participare a Secretariatului General al Guvernului, precum și completarea Ordonanței Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, adoptată în temeiul art. 1 pct. I.8 din Legea nr. 262/2019 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 65 din 30 ianuarie 2020."
+    }
+  ],
+  "definitions": []
+}

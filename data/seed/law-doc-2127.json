@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-2127",
+  "type": "statute",
+  "title": "LEGE Nr. 10 din 5 februarie 1992",
+  "short_name": "lege 10 05 02 1992",
+  "status": "in_force",
+  "issued_date": "1992-02-05",
+  "in_force_date": "1992-02-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2127",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 05/02/1992",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Turcia privind promovarea şi protejarea reciprocă a investiţiilor"
+    },
+    {
+      "provision_ref": "Par.2",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "Se ratifica Acordul dintre Guvernul României şi Guvernul Republicii Turcia privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Ankara la 24 ianuarie 1991."
+    }
+  ],
+  "definitions": []
+}

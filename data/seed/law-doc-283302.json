@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283302",
+  "type": "statute",
+  "title": "LEGE nr. 158 din 27 mai 2024",
+  "short_name": "lege 158 27 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-27",
+  "in_force_date": "2024-05-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283302",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 158 27/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 7 din 28 ianuarie 2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 39/2018 privind parteneriatul public-privat și pentru stabilirea unor măsuri privind investițiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 93 din 7 februarie 2020."
+    }
+  ],
+  "definitions": []
+}

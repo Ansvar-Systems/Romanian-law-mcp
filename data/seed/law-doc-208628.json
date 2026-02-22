@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208628",
+  "type": "statute",
+  "title": "LEGE nr. 300 din 10 decembrie 2018",
+  "short_name": "lege 300 10 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-10",
+  "in_force_date": "2018-12-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208628",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 300 10/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 68 din 17 iulie 2018 privind achiziția centralizată de elicoptere și simulatoare de zbor aparținând Ministerului Afacerilor Interne, pentru gestionarea situațiilor de urgență, publicată în Monitorul Oficial al României, Partea I, nr. 623 din 18 iulie 2018."
+    }
+  ],
+  "definitions": []
+}

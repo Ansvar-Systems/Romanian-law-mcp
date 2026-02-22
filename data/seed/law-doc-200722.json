@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200722",
+  "type": "statute",
+  "title": "LEGE nr. 108 din 16 mai 2018",
+  "short_name": "lege 108 16 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-16",
+  "in_force_date": "2018-05-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200722",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 108 16/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (9) al articolului 6 din Legea educației fizice și sportului nr. 69/2000 , publicată în Monitorul Oficial al României, Partea I, nr. 200 din 9 mai 2000, cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (9^1), cu următorul cuprins: (9^1) Pentru organizarea și desfășurarea fazelor zonale/regionale și naționale ale competițiilor sportive școlare, Ministerul Tineretului și Sportului pune la dispoziție organizatorilor, gratuit, bazele și instalațiile sportive din domeniul public și privat al statului aflate în administrarea Ministerului Tineretului și Sportului, prin direcțiile pentru tineret și sport județene, respectiv a municipiului București și al cluburilor sportive, cu obligativitatea respectării desfășurării normale a programelor și activităților acestora."
+    }
+  ],
+  "definitions": []
+}

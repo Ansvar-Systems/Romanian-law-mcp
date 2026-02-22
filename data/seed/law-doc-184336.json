@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-184336",
+  "type": "statute",
+  "title": "LEGE nr. 236 din 28 noiembrie 2016",
+  "short_name": "lege 236 28 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-28",
+  "in_force_date": "2016-11-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/184336",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 236 28/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Protocolul dintre Guvernul României şi Guvernul Canadei, semnat la Bucureşti la 31 iulie 2015, suplimentar la Acordul dintre Guvernul Republicii Socialiste România şi Guvernul Canadei privind cooperarea în dezvoltarea şi folosirea energiei atomice în scopuri paşnice, semnat la Ottawa la 24 octombrie 1977, aprobat prin Decretul Consiliului de Stat nr. 64/1978 ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-90226",
+  "type": "statute",
+  "title": "LEGE nr. 30 din 5 martie 2008",
+  "short_name": "lege 30 05 03 2008",
+  "status": "in_force",
+  "issued_date": "2008-03-05",
+  "in_force_date": "2008-03-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/90226",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 30 05/03/2008",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul privind transportul aerian dintre Comunitatea Europeană și statele sale membre, pe de o parte, și Statele Unite ale Americii, pe de altă parte, semnat la Bruxelles la 25 aprilie 2007 și la Washington la 30 aprilie 2007."
+    }
+  ],
+  "definitions": []
+}

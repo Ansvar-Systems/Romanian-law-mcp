@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239321",
+  "type": "statute",
+  "title": "LEGE nr. 40 din 16 martie 2021",
+  "short_name": "lege 40 16 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-16",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239321",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 40 16/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 119 din 22 iulie 2020 pentru modificarea și completarea Legii nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice, publicată în Monitorul Oficial al României, Partea l, nr. 658 din 24 iulie 2020."
+    }
+  ],
+  "definitions": []
+}

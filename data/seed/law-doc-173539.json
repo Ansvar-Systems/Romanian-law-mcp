@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-173539",
+  "type": "statute",
+  "title": "LEGE nr. 303 din 27 noiembrie 2015",
+  "short_name": "lege 303 27 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-27",
+  "in_force_date": "2015-11-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173539",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 303 27/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 46, alineatul (1^3) din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul, publicată în Monitorul Oficial al României, Partea I, nr. 373 din 10 iulie 2001, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"(1^3) Termenul de valabilitate a Planului urbanistic general se prelungeşte o singură dată, pe bază de hotărâre a consiliului local/Consiliului General al Municipiului Bucureşti, până la intrarea în vigoare a noului plan urbanistic general, dar fără a se depăşi 10 ani de la data depăşirii termenului de valabilitate.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Art. II din Ordonanţa de urgenţă a Guvernului nr. 85/2012 pentru modificarea alin. (1^3) al art. 46 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul, publicată în Monitorul Oficial al României, Partea I, nr. 845 din 13 decembrie 2012, aprobată prin Legea nr. 131/2013 , se modifică după cum urmează: \"Art. II. - Termenul de valabilitate a planurilor de urbanism generale elaborate şi aprobate până în anul 2003 poate fi prelungit prin hotărâre a consiliului local/Consiliului General al Municipiului Bucureşti până la data aprobării, în condiţiile legii, a noii documentaţii de urbanism, dar nu mai târziu de 30 decembrie 2018.\""
+    }
+  ],
+  "definitions": []
+}

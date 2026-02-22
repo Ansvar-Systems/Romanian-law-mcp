@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30648",
+  "type": "statute",
+  "title": "LEGE nr. 255 din 28 martie 1941",
+  "short_name": "lege 255 28 03 1941",
+  "status": "in_force",
+  "issued_date": "1941-03-28",
+  "in_force_date": "1941-03-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30648",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 255 28/03/1941",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare dela dispoziţiunile legii cumulului codului funcţionarilor publici şi legii generale de pensiuni, prefectii, primării şi ajutorii de primar, proveniţi dintre pensionari, vor primi în afară pensiunii jumătate din salariul aferent funcţiunii ce îndeplinesc."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prin derogare dela dispoziţiunile art. 4 din Decretul-lege Nr. 3.123 din 14 Septemvrie 1940 , prefectii, primării şi ajutorii de primar pot primi indemnizaţii lunare de reprezentare, ce vor fi fixate de Ministerul Afacerilor Interne şi care vor fi plătite din bugetele autorităţilor pe lîngă care funcţionează. -------------"
+    }
+  ],
+  "definitions": []
+}

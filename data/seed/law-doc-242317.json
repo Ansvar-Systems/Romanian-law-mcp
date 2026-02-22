@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242317",
+  "type": "statute",
+  "title": "LEGE nr. 141 din 17 mai 2021",
+  "short_name": "lege 141 17 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-17",
+  "in_force_date": "2021-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242317",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 141 17/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 222 din 30 decembrie 2020 privind prorogarea termenului prevăzut la art. III din Legea nr. 352/2015 pentru modificarea și completarea Ordonanței Guvernului nr. 26/2011 privind înființarea Inspectoratului de Stat pentru Controlul în Transportul Rutier, publicată în Monitorul Oficial al României, Partea I, nr. 1.329 din 31 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

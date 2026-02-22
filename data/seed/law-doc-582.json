@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-582",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 24 martie 1984",
+  "short_name": "lege 1 24 03 1984",
+  "status": "in_force",
+  "issued_date": "1984-03-24",
+  "in_force_date": "1984-03-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/582",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 24/03/1984",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Canalul Dunăre-Marea Neagra, care se întinde pe distanta dintre portul fluvial Cernavoda şi portul maritim Constanta-Sud, este apa naţionala navigabila a Republicii Socialiste România şi se afla sub suveranitatea şi jurisdicţia exclusiva a statului român."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Canalul este deschis navigaţiei pentru navele de transporturi de mărfuri şi călători ai tuturor statelor, în condiţiile stabilite de legislaţia Republicii Socialiste România."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "La trecerea prin canal, navele române şi străine sînt obligate să respecte regulile de navigaţie, de supraveghere fluviala, sanitare şi vamale, de tranzit prin canal, de folosire a bazinelor şi instalaţiilor portuare, de prevenire şi combatere a poluarii, precum şi celelalte reguli privind exploatarea şi întreţinerea canalului, prevăzute de legislaţia română."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Pentru trecerea navelor prin canal şi pentru serviciile prestate acestora se percep taxe vamale ale căror niveluri se stabilesc prin decret al Consiliului de Stat."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "În zona de sud a portului maritim Constanta-Sud pot fi închiriate unor persoane fizice sau juridice străine, pentru activităţi portuare, dane, platforme, magazii, utilaje şi instalaţii, în condiţiile stabilite de legislaţia Republicii Socialiste România."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Administrarea şi exploatarea canalului se realizează de unităţi de stat ale Republicii Socialiste România, organizate potrivit legii. -----------------"
+    }
+  ],
+  "definitions": []
+}

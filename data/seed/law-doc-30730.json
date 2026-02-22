@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30730",
+  "type": "statute",
+  "title": "LEGE nr. 262 din 24 martie 1941",
+  "short_name": "lege 262 24 03 1941",
+  "status": "in_force",
+  "issued_date": "1941-03-24",
+  "in_force_date": "1941-03-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30730",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 262 24/03/1941",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se autoriza Ministerul Agriculturii şi Domeniilor sa vândă \"Santierelor Navale Galaţi, S.A.\", suprafaţa ce o are azi în folosinţă şi care îi este concesionata în mod gratuit pînă în anul 1995, în întindere de 24.504*) mp, aflată pe malul Dunării, lîngă Arsenalul Marinei Galaţi. Preţul vânzării va fi de 100 lei metrul patrat, plătibil integral la facerea actului. --------------- Notă *) Text corectat, potrivit rectificarii din Monitorul Oficial Nr. 82 din 6 Aprilie 1941. -------------"
+    }
+  ],
+  "definitions": []
+}

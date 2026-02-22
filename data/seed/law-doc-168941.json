@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168941",
+  "type": "statute",
+  "title": "LEGE nr. 147 din 16 iunie 2015",
+  "short_name": "lege 147 16 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-16",
+  "in_force_date": "2015-06-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168941",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 147 16/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 78 din 26 iunie 2013 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 93/2012 privind înfiinţarea, organizarea şi funcţionarea Autorităţii de Supraveghere Financiară, publicată în Monitorul Oficial al României, Partea I, nr. 391 din 29 iunie 2013."
+    }
+  ],
+  "definitions": []
+}

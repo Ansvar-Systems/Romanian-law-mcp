@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-30803",
+  "type": "statute",
+  "title": "LEGE nr. 50 din 2 aprilie 1930",
+  "short_name": "lege 50 02 04 1930",
+  "status": "in_force",
+  "issued_date": "1930-04-02",
+  "in_force_date": "1930-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30803",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 50 02/04/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Alegerile pentru constituirea Camerelor de agricultura dizolvate precum şi alegerea noului consiliu de administraţie al Uniunii Camerelor de agricultura, se amana."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Dispoziţiunile legii de faţa rămîn în vigoare pînă la punerea în aplicare a nouei legi de organizare a Camerelor de agricultura şi cel mai târziu 6 luni dela promulgarea legii de faţa."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În tot acest interval afacerile curente ale Camerelor de agricultura dizolvate vor fi rezolvate de către comisiunile interimare, iar Uniunea va fi condusă de consiliul de administraţie în funcţiune."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Comisiunea interimara exercita aceleaşi drepturi pentru toată durata ei ca şi Camera aleasă. Desbateri: Camera Nr. 38-1929/30; Senat Nr. 20-1929/30. Votat de Adunarea Deputaţilor la 18 Martie şi de Senat la 22 Martie 1930. --------"
+    }
+  ],
+  "definitions": []
+}

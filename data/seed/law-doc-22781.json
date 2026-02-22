@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-22781",
+  "type": "statute",
+  "title": "LEGE nr. 184 din 28 iunie 1930",
+  "short_name": "lege 184 28 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-28",
+  "in_force_date": "1930-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22781",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 184 28/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Consiliul de Miniştri este autorizat ca în cazul cînd, pînă la termenul prevăzut de art. 2 al legii pentru alcătuirea tarifului vamal, promulgată la 29 Iunie 1929, România nu va putea încheia, din motive tehnice, convenţiuni comerciale cu unele tari, sa încheie, pe baza acelei legi şi a tarifului vamal anexat ei, acorduri comerciale provizorii, urmând ca ulterior şi chiar după expirarea termenului prevăzut la art. 2 al legii tarifului vamal să se continue cu tratarea conventiunilor comerciale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "De asemenea în cazurile în care produsele de export româneşti ar fi supuse la importul lor în vreo ţara la un regim de natura a leza interesele vitale economice ale României, Consiliul de Miniştri este autorizat să aplice unora sau tuturor mărfurilor acelei tari, în locul tarifului general, un tarif excepţional egal cu indoitul acelui tarif, prevăzut în tariful vamal din 9 Iunie 1929 şi să se instituie orice măsură de prohibire şi restricţiune a importului privind mărfurile cari interesează ţara respectiva. Desbateri: Camera Nr. 82-1929/30; Senat Nr. 56-1929/30. Votat de Adunarea deputaţilor la 21 Iunie şi de Senat la 23 Iunie 1930. -----"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255649",
+  "type": "statute",
+  "title": "LEGE nr. 148 din 23 mai 2022",
+  "short_name": "lege 148 23 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-23",
+  "in_force_date": "2022-05-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255649",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 148 23/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 29 din 15 aprilie 2021 pentru completarea Ordonanței de urgență a Guvernului nr. 3/2021 privind unele măsuri pentru recrutarea și plata personalului implicat în procesul de vaccinare împotriva COVID-19 și stabilirea unor măsuri în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 403 din 16 aprilie 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200252",
+  "type": "statute",
+  "title": "LEGE nr. 98 din 27 aprilie 2018",
+  "short_name": "lege 98 27 04 2018",
+  "status": "in_force",
+  "issued_date": "2018-04-27",
+  "in_force_date": "2018-04-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200252",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 98 27/04/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 94 din 6 decembrie 2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 67/2008 privind organizarea și funcționarea Sistemului Informațional pentru Piața Produselor Agricole și Alimentare, publicată în Monitorul Oficial al României, Partea I, nr. 983 din 11 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

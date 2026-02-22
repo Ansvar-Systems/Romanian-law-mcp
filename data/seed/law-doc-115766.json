@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-115766",
+  "type": "statute",
+  "title": "LEGE nr. 16 din 15 ianuarie 1949",
+  "short_name": "lege 16 15 01 1949",
+  "status": "in_force",
+  "issued_date": "1949-01-15",
+  "in_force_date": "1949-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/115766",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 16 15/01/1949",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se pedepsesc cu moartea următoarele crime: a) Trădarea de patrie, trecerea în slujba duşmanului şi aducerea de prejudicii puterii de Stat; b) Procurarea şi transmiterea către o putere străină sau duşmană a Statului, a unor secrete de Stat; c) Uneltirea în orice mod împotriva securităţii interne sau externe a R.P.R."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se pedepseşte de asemenea cu moartea sabotarea propăşirii economice a Republicii Populare Române, prin: a) Distrugerea sau deteriorarea prin orice mijloace a clădirilor, maşinilor, instalaţiunilor de orice fel, din întreprinderile industriale sau de altă natură, a uzinelor de energie electrică, de gaz sau alte asemenea; b) Distrugerea de linii de cale ferată, a instalaţiilor, a materialelor ori construcţiilor aflate pe ele, a mijloacelor de comunicaţii aeriene sau pe apă, a podurilor, apeductelor, instalaţiunilor de telefon, telegraf sau a staţiunilor de radio-emisiune; c) Darea de foc sau distrugerea în orice mod a produselor industriale, agricole sau a pădurilor; d) Neîndeplinirea cu ştiinţă sau îndeplinirea voit neglijentă a îndatoririlor de serviciu în întreprinderile prevăzute de litera a), de pe urma cărora au rezultat calamităţi sau catastrofe publice."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Se pedepsesc de asemenea cu moartea actele de teroare, săvîrşite individual sau în grup, prin orice mijloace, precum şi răspândirea de microbi sau substanţe otrăvitoare, care au ca urmare moartea sau vătămarea gravă a integrităţii corporale. Se pedepseşte cu aceeaşi pedeapsă, constituirea în bande, în scop terorist sau de sabotaj."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Instigarea, complicitatea, tăinuirea, precum şi săvîrşirea oricăror acte pregătitoare în legătură cu crimele prevăzute în prezenta lege, se pedepsesc cu aceeaşi sancţiune. Nedenunţarea de către cei care cunosc pregătirea sau comiterea crimelor arătate mai sus, se pedepsesc cu munca silnică de la 5 - 10 ani."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Judecata crimelor prevăzute de prezenta lege se face de Tribunalele Militare. Lege votată de Marea Adunarea Naţională în şedinţa de la 13 ianuarie 1949. ---------------"
+    }
+  ],
+  "definitions": []
+}

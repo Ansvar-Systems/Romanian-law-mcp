@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172269",
+  "type": "statute",
+  "title": "LEGE nr. 242 din 21 octombrie 2015",
+  "short_name": "lege 242 21 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-21",
+  "in_force_date": "2015-10-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172269",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 242 21/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 20 din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României, republicată în Monitorul Oficial al României, Partea I, nr. 206 din 11 aprilie 2013, cu modificările ulterioare, alineatul (1) se modifică şi va avea următorul cuprins: \"Art. 20. - (1) Cheltuielile determinate de publicarea actelor în Monitorul Oficial al României se suportă de către emitenţi, pe baza tarifelor aprobate prin hotărâre a Guvernului, la propunerea Secretariatului General al Guvernului.\""
+    }
+  ],
+  "definitions": []
+}

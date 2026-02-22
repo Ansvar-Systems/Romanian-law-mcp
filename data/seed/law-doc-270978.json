@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270978",
+  "type": "statute",
+  "title": "LEGE nr. 161 din 31 mai 2023",
+  "short_name": "lege 161 31 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-31",
+  "in_force_date": "2023-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270978",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 161 31/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 11 din Legea nr. 514/2003 privind organizarea și exercitarea profesiei de consilier juridic, publicată în Monitorul Oficial al României, Partea I, nr. 867 din 5 decembrie 2003, cu completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) activitatea didactică preuniversitară, universitară și de cercetare juridică, activitatea literară, culturală și publicistică nesalarizată;"
+    }
+  ],
+  "definitions": []
+}

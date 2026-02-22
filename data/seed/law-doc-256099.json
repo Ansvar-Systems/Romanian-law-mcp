@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-256099",
+  "type": "statute",
+  "title": "LEGE nr. 177 din 9 iunie 2022",
+  "short_name": "lege 177 09 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-09",
+  "in_force_date": "2022-06-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/256099",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 177 09/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 35 din 26 martie 2020 privind modalitatea de emitere și prelungirea valabilității voucherelor de vacanță, în contextul situației epidemiologice determinate de răspândirea COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 260 din 30 martie 2020."
+    }
+  ],
+  "definitions": []
+}

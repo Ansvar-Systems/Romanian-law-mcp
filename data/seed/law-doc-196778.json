@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-196778",
+  "type": "statute",
+  "title": "LEGE nr. 263 din 20 decembrie 2017",
+  "short_name": "lege 263 20 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-20",
+  "in_force_date": "2017-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196778",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 263 20/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acceptă amendamentele adoptate prin deciziile 2012/1 și 2012/2 cu ocazia celei de-a treizecea reuniuni a Organismului Executiv, la Geneva la 30 aprilie-4 mai 2012, la Protocolul Convenției asupra poluării atmosferice transfrontiere pe distanțe lungi, încheiată la Geneva la 13 noiembrie 1979 , referitor la reducerea acidifierii, eutrofizării și nivelului de ozon troposferic, adoptat la Gothenburg la 1 decembrie 1999, ratificat prin Legea nr. 271/2003 , cu modificările ulterioare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se acceptă amendamentele adoptate prin deciziile 2012/5 și 2012/6 cu ocazia celei de-a treizeci și una reuniuni a Organismului Executiv, la Geneva la 11-13 decembrie 2012, la Protocolul Convenției asupra poluării atmosferice transfrontiere pe distanțe lungi, încheiată la Geneva la 13 noiembrie 1979 , referitor la metalele grele, adoptat la Aarhus la 24 iunie 1998, ratificat prin Legea nr. 271/2003 , cu modificările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Guvernul, prin autoritatea publică centrală pentru protecția mediului, întreprinde toate demersurile necesare în vederea punerii în aplicare a amendamentelor prevăzute la art. 1 și 2 ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-199111",
+  "type": "statute",
+  "title": "LEGE nr. 77 din 26 martie 2018",
+  "short_name": "lege 77 26 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-26",
+  "in_force_date": "2018-03-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/199111",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 77 26/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 74 din 11 octombrie 2017 privind desemnarea Inspectoratului General pentru Situații de Urgență ca unitate de achiziții centralizată pentru achiziția centralizată de autospeciale/ambulanțe pentru Serviciul Mobil de Urgență, Reanimare și Descarcerare din cadrul Inspectoratului General pentru Situații de Urgență, pentru serviciile de ambulanță județene și pentru Serviciul de Ambulanță București-Ilfov, publicată în Monitorul Oficial al României, Partea I, nr. 817 din 16 octombrie 2017."
+    }
+  ],
+  "definitions": []
+}

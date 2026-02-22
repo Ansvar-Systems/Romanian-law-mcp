@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-221197",
+  "type": "statute",
+  "title": "LEGE nr. 248 din 23 decembrie 2019",
+  "short_name": "lege 248 23 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-23",
+  "in_force_date": "2019-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221197",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 248 23/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanța Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice, publicată în Monitorul Oficial al României, Partea I, nr. 426 din 31 august 1999, aprobată cu modificări și completări prin Legea nr. 189/2000 , cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 2, alineatul (2) se modifică și va avea următorul cuprins: (2) Persoanele care s-au aflat în situațiile prevăzute la art. 1 alin. (1) lit. c), d) și g) au dreptul la o indemnizație lunară de 350 lei pentru fiecare an de strămutare, de muncă forțată sau de evacuare din propria locuință. 2. Articolul 3 se modifică și va avea următorul cuprins: Articolul 3 Soțul supraviețuitor al celui decedat, din categoria persoanelor prevăzute la art. 1 alin. (1) lit. a)-e) și g), precum și persoana care s-a aflat în situația prevăzută la art. 1 alin. (1) lit. f) beneficiază începând cu data de întâi a lunii următoare celei în care a fost depusă cererea, în condițiile prezentei ordonanțe, de o indemnizație lunară de 350 lei, dacă ulterior nu s-au recăsătorit."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la data de întâi a lunii următoare celei în care aceasta se publică în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Ordonanța Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice, publicată în Monitorul Oficial al României, Partea I, nr. 426 din 31 august 1999, aprobată cu modificări și completări prin Legea nr. 189/2000 , cu modificările și completările ulterioare, precum și cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

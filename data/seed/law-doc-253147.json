@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-253147",
+  "type": "statute",
+  "title": "LEGE nr. 67 din 23 martie 2022",
+  "short_name": "lege 67 23 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-23",
+  "in_force_date": "2022-03-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253147",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 67 23/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanța de urgență a Guvernului nr. 17/2005 pentru stabilirea unor măsuri organizatorice la nivelul administrației publice centrale, publicată în Monitorul Oficial al României, Partea I, nr. 229 din 18 martie 2005, aprobată cu modificări și completări prin Legea nr. 198/2005 , cu modificările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 2, alineatul (1) se modifică și va avea următorul cuprins: Articolul 2 (1) Garda Națională de Mediu funcționează la nivel central prin Comisariatul General, instituție publică cu personalitate juridică, și are în subordine 41 de comisariate județene, Comisariatul Municipiului București și Comisariatul Rezervației Biosferei «Delta Dunării», structuri fără personalitate juridică. 2. La articolul 2, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Prefectul coordonează activitatea structurilor subordonate Gărzii Naționale de Mediu în situații de urgență sau ori de câte ori este necesară gestionarea unei situații la nivel local care privește competențele mai multor instituții și autorități publice. 3. La articolul 2, după alineatul (2) se introduc două noi alineate, alineatele (3) și (4), cu următorul cuprins: (3) Nivelul salariilor de bază ale personalului din cadrul Gărzii Naționale de Mediu se stabilește la nivelul salariilor de bază ale personalului din cadrul gărzilor forestiere. (4) Echivalarea salariilor aferente fiecărei funcții se stabilește prin ordin al conducătorului autorității centrale de mediu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La data intrării în vigoare a prezentei legi, reîncadrarea personalului încadrat pe funcții teritoriale în cadrul Gărzii Naționale de Mediu se face potrivit noilor reglementări."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Ordonanța de urgență a Guvernului nr. 17/2005 pentru stabilirea unor măsuri organizatorice la nivelul administrației publice centrale, publicată în Monitorul Oficial al României, Partea I, nr. 229 din 18 martie 2005, aprobată cu modificări și completări prin Legea nr. 198/2005 , cu modificările ulterioare, precum și cu modificările și completările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

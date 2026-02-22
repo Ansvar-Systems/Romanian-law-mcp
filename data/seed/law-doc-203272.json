@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-203272",
+  "type": "statute",
+  "title": "LEGE nr. 219 din 27 iulie 2018",
+  "short_name": "lege 219 27 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-27",
+  "in_force_date": "2018-07-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203272",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 219 27/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege se aplică persoanelor care au beneficiat de ajutoare de urgență și/sau ajutoare în temeiul art. 28 din Legea nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Se aprobă exonerarea de la plată pentru sumele nerecuperate reprezentând ajutoare de urgență și/sau ajutoare acordate potrivit art. 1 , pe care persoanele beneficiare trebuie să le restituie unităților administrativ-teritoriale drept consecință a constatării unor prejudicii de către Curtea de Conturi sau alte instituții cu atribuții de control. (2) Se exonerează de la plată și obligațiile fiscale accesorii sumelor prevăzute la alin. (1) , consecință a constatării Curții de Conturi sau a altor instituții cu atribuții de control a unor prejudicii."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "La data intrării în vigoare a prezentei legi încetează plata de către persoanele prevăzute la art. 1 a sumelor reprezentând ajutoare de urgență și/sau ajutoare pentru care Curtea de Conturi sau alte instituții cu atribuții de control au constatat că au fost acordate cu crearea de prejudicii, precum și orice formă de recuperare a acestora."
+    }
+  ],
+  "definitions": []
+}

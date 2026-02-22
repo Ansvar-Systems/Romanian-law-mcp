@@ -1,0 +1,157 @@
+{
+  "id": "law-doc-243213",
+  "type": "statute",
+  "title": "LEGE nr. 163 din 11 iunie 2021",
+  "short_name": "lege 163 11 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-11",
+  "in_force_date": "2021-06-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243213",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 163 11/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege are drept scop adoptarea unor măsuri referitoare la autorizarea producătorilor de tehnologii, echipamente și programe software utilizate în cadrul infrastructurilor informatice și de comunicații de interes național, precum și în rețelele de comunicații electronice prin intermediul cărora se asigură servicii de comunicații electronice de tip 5G, denumite în continuare rețele 5G, în vederea prevenirii, contracarării și eliminării riscurilor, amenințărilor și vulnerabilităților la adresa securității naționale și apărării țării."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În sensul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații: a) amenințări la adresa securității naționale și apărării țării - acțiuni, fapte sau stări de fapt, capacități, strategii, intenții ori planuri ce pot afecta valorile, interesele și obiectivele naționale de securitate și/sau sunt de natură să pună în pericol direct sau indirect securitatea națională, prin afectarea caracterului național, a suveranității, independenței, unității și integrității teritoriale, a funcționării normale a instituțiilor statului, a vieții și integrității fizice a cetățenilor și a organizării comunităților umane; b) echipament terminal - echipamentul conectat în mod direct la interfața infrastructurilor informatice și de comunicații de interes național sau interfața unei rețele 5G; c) infrastructura informatică și de comunicații - sisteme informatice și de comunicații interconectate prin linii de comunicații - fibră optică, linii satelitare, conexiuni în spectrul radio, linii terestre - utilizate pentru a furniza servicii informatice și/sau de comunicații; d) infrastructura informatică și de comunicații de interes național - infrastructura informatică și de comunicații esențială pentru menținerea funcțiilor vitale ale societății, a sănătății, siguranței, securității, bunăstării sociale ori economice a persoanelor și a cărei perturbare sau distrugere are un impact semnificativ la nivel național ca urmare a incapacității de a menține respectivele funcții; e) producător - orice persoană fizică sau juridică ce proiectează, fabrică și/sau comercializează tehnologii, echipamente și programe software sub numele sau marca sa; f) rețele 5G - ansamblul elementelor infrastructurilor de rețea pentru tehnologia de comunicații mobile și fără fir utilizată pentru conectivitate și servicii cu valoare adăugată cu caracteristici de performanță avansată, cum ar fi rate și capacitate de date foarte mari, comunicații cu latență mică, fiabilitate extrem de ridicată sau acceptarea unui număr mare de dispozitive conectate; acestea cuprind și elemente ale rețelei tradiționale, bazate pe tehnologii de comunicații mobile și fără fir din generații anterioare, precum 4G sau 3G; g) riscuri la adresa securității naționale și apărării țării - probabilități de producere sau manifestare a oricărui eveniment, situație, condiție cu potențial de manifestare incert, a cărui concretizare ar conduce la afectarea în orice mod a funcționării normale a instituțiilor statului, organizării și funcționării comunităților umane, precum și a vieții, integrității fizice a cetățenilor, într-o împrejurare dată sau context determinat; h) servicii de comunicații electronice de tip 5G - serviciile de comunicații electronice furnizate prin intermediul rețelelor 5G; i) vulnerabilități la adresa securității naționale și apărării țării - deficiențe funcțional-sistemice/structurale care pot fi exploatate sau pot contribui la materializarea unor amenințări sau a unor riscuri, determinând slăbirea capacității statului de a diminua impactul evenimentelor cu potențial de afectare gravă a funcționării normale a instituțiilor sale, a vieții și integrității fizice a cetățenilor și organizării comunităților umane, precum și a capacității de protejare, apărare și promovare a valorilor, intereselor și obiectivelor naționale de securitate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Pentru realizarea scopului prevăzut la art. 1 , utilizarea de tehnologii, echipamente și programe software în cadrul infrastructurilor informatice și de comunicații de interes național, precum și în rețelele 5G, cu excepția echipamentelor terminale folosite de utilizatorii finali definiți potrivit art. 4 alin. (1) pct. 4 din Ordonanța de urgență a Guvernului nr. 111/2011 privind comunicațiile electronice, aprobată cu modificări și completări prin Legea nr. 140/2012 , cu modificările și completările ulterioare, este condiționată de obținerea de către producători a unei autorizări, în condițiile prezentei legi. (2) Autorizarea prevăzută la alin. (1) se acordă, prin decizie a prim-ministrului, pe baza avizului conform al Consiliului Suprem de Apărare a Țării, denumit în continuare CSAT, în termen de 4 luni de la data solicitării. (3) Decizia prim-ministrului se publică în Monitorul Oficial al României."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Solicitarea pentru obținerea autorizării prevăzute la art. 3 se depune la ministerul cu atribuții în domeniul comunicațiilor, care o transmite de îndată la CSAT. (2) Solicitarea semnată de reprezentantul legal al producătorului, însoțită de o scrisoare de intenție, trebuie să conțină: a) date de identificare, inclusiv datele reprezentanților legali și limitele împuternicirii acordate acestora; b) date privind structura de acționariat a producătorului și a grupului de societăți din care face parte, inclusiv informații detaliate privind societatea-mamă; c) o declarație pe propria răspundere. (3) Declarația pe propria răspundere prevăzută la alin. (2) lit. c) trebuie să ateste că producătorul îndeplinește cumulativ următoarele condiții: a) nu se află sub controlul unui guvern străin, în lipsa unui sistem juridic independent; b) are o structură transparentă a acționariatului; c) nu are un istoric de conduită corporativă neetică; d) se supune unui sistem juridic care impune practici corporative transparente. (4) Datele și declarația prevăzute la alin. (2) și (3) se transmit în format fizic sau prin mijloace electronice semnate cu semnătură electronică calificată, în limba română."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Avizul conform prevăzut la art. 3 alin. (2) se fundamentează pe documentele depuse potrivit art. 4 , precum și pe evaluări din perspectiva riscurilor, amenințărilor și vulnerabilităților la adresa securității naționale și apărării țării. (2) Avizul conform prevăzut la art. 3 alin. (2) se emite inclusiv prin raportare la obligațiile asumate de statul român în cadrul cooperării la nivelul organizațiilor internaționale din care România face parte, al Uniunii Europene și parteneriatelor strategice bilaterale, pentru evitarea unor riscuri care pot decurge din: a) controlul unui guvern străin asupra producătorului în lipsa unui sistem juridic independent; b) absența unei structuri transparente a acționariatului producătorului; c) lipsa unui istoric de conduită corporativă etică a producătorului; d) funcționarea producătorului într-un sistem juridic care nu impune practici corporative transparente."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) În situația în care sunt identificate riscuri, amenințări sau vulnerabilități la adresa securității naționale și apărării țării ca urmare a analizei realizate conform art. 5 , avizul CSAT este negativ. (2) În situația prevăzută la alin. (1) , solicitarea pentru obținerea autorizării este respinsă prin decizie a prim-ministrului. Decizia prim-ministrului se publică în Monitorul Oficial al României."
+    },
+    {
+      "provision_ref": "Art.7",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) În cazul în care, ulterior acordării autorizării potrivit prevederilor art. 3 alin. (2) , sunt identificate riscuri, amenințări și vulnerabilități la adresa securității naționale și apărării țării, autorizarea obținută este retrasă prin decizie a prim-ministrului, la solicitarea CSAT. Decizia prim-ministrului se publică în Monitorul Oficial al României. (2) În situația retragerii autorizării potrivit alin. (1) , tehnologiile, echipamentele și programele software utilizate în cadrul infrastructurilor informatice și de comunicații de interes național, precum și în rețelele de comunicații electronice prin intermediul cărora se asigură servicii de comunicații electronice de tip 5G pot fi utilizate pentru o perioadă de 7 ani de la data retragerii autorizării, cu excepția celor din nucleul rețelei, care pot fi utilizate pentru o perioadă de 5 ani."
+    },
+    {
+      "provision_ref": "Art.8",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Prin derogare de la prevederile art. 7 din Legea contenciosului administrativ nr. 554/2004 , cu modificările și completările ulterioare, deciziile adoptate potrivit prezentei legi pot fi atacate în contencios administrativ, fără parcurgerea procedurii prealabile. Deciziile pot fi atacate în termen de 30 de zile de la publicarea acestora în Monitorul Oficial al României. (2) În cazul deciziilor adoptate potrivit prezentei legi nu sunt aplicabile prevederile art. 14 și 15 din Legea nr. 554/2004 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.9",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Furnizorii de rețele și servicii de comunicații electronice autorizați în condițiile Ordonanței de urgență a Guvernului nr. 111/2011 , aprobată cu modificări și completări prin Legea nr. 140/2012 , cu modificările și completările ulterioare, pot utiliza numai tehnologii, echipamente și programe software în rețelele 5G realizate de producători autorizați în conformitate cu prevederile art. 3 ."
+    },
+    {
+      "provision_ref": "Art.10",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Tehnologiile, echipamentele și programele software utilizate în cadrul infrastructurilor informatice și de comunicații de interes național, precum și în rețelele de comunicații electronice prin intermediul cărora se asigură servicii de comunicații electronice de tip 5G, ai căror producători nu obțin autorizare potrivit prevederilor prezentei legi, pot fi utilizate pentru o perioadă de 7 ani, cu excepția celor din nucleul rețelei, care pot fi utilizate pentru o perioadă de 5 ani, perioade ce se calculează de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.11",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Autoritățile contractante din sistemul național de apărare, ordine publică și securitate națională au dreptul de a solicita prin documentația de atribuire, în situația în care contractul are ca obiect și furnizarea de tehnologii, echipamente și programe software destinate infrastructurilor informatice și de comunicații de interes național, ca producătorul acestora să fie autorizat potrivit prevederilor art. 3 . (2) În situația în care autoritățile contractante din sistemul național de apărare, ordine publică și securitate națională uzează de dreptul prevăzut la alin. (1) , acestea au obligația de a exclude din procedura de achiziție publică operatorul economic care furnizează tehnologii, echipamente și programe software al căror producător nu este autorizat potrivit prevederilor art. 3 ."
+    },
+    {
+      "provision_ref": "Art.12",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) În vederea verificării respectării prevederilor art. 9 și 10 , precum și pentru asigurarea rezilienței rețelelor 5G la nivel național, Autoritatea Națională pentru Administrare și Reglementare în Comunicații, denumită în continuare ANCOM, poate solicita furnizorilor de rețele și servicii de comunicații electronice informații detaliate cu privire la tehnologiile, echipamentele și programele software implementate sau planificate spre a fi implementate în rețelele 5G, cu privire la producătorul acestora, precum și cu privire la gradul de externalizare către terțe părți al anumitor activități referitoare la gestionarea rețelelor de comunicații electronice furnizate. (2) Furnizorii de rețele și servicii de comunicații electronice au obligația de a pune la dispoziție informațiile solicitate, în termenul și în condițiile indicate de ANCOM."
+    },
+    {
+      "provision_ref": "Art.13",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Constituie contravenții următoarele fapte, dacă nu au fost săvârșite în astfel de condiții încât să fie considerate, potrivit legii, infracțiuni: a) utilizarea de către furnizorii de rețele și servicii de comunicații electronice a tehnologiilor, echipamentelor și programelor software în rețelele 5G puse la dispoziție de producători care nu au obținut autorizarea stabilită în conformitate cu prevederile art. 3 ; b) utilizarea de către furnizorii de rețele și servicii de comunicații electronice, ulterior termenelor prevăzute la art. 7 alin. (2) , a tehnologiilor, echipamentelor și programelor software în rețelele 5G puse la dispoziție de producători cărora le-a fost retrasă autorizarea stabilită în conformitate cu prevederile art. 3 ; c) utilizarea tehnologiilor, echipamentelor și programelor software în rețelele de comunicații electronice după expirarea termenelor prevăzute la art. 10 ; d) netransmiterea informațiilor solicitate furnizorilor de rețele și servicii de comunicații electronice în condițiile art. 12 ."
+    },
+    {
+      "provision_ref": "Art.14",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) Prin derogare de la dispozițiile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, contravențiile prevăzute la art. 13 se sancționează cu amendă în cuantum cuprins între 1% și 5% din cifra de afaceri. (2) Cifra de afaceri este cea prevăzută în ultima situație financiară anuală raportată de operatorul economic existentă la data constatării faptei. (3) Prin derogare de la dispozițiile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, în cazul operatorului economic nouînființat sau a unui operator economic care nu a înregistrat o cifră de afaceri în anul anterior sancționării, acesta este sancționat cu amendă de la 10.000.000 lei la 50.000.000 lei."
+    },
+    {
+      "provision_ref": "Art.15",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "(1) Contravențiile prevăzute la art. 13 se constată de către personalul de control din cadrul ANCOM. (2) Sancțiunea pentru contravențiile prevăzute la art. 13 se aplică, prin rezoluție scrisă, de către președintele ANCOM. (3) Prin procesul-verbal de constatare a contravenției se dispune și sancțiunea complementară a interzicerii imediate a utilizării în rețelele 5G a tehnologiilor, echipamentelor și a programelor software fabricate de producători care nu sunt autorizați potrivit prevederilor art. 3 ."
+    },
+    {
+      "provision_ref": "Art.16",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "(1) În măsura în care prezenta lege nu dispune altfel, contravențiilor prevăzute la art. 13 le sunt aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, cu excepția art. 28 alin. (1) și art. 29 . (2) Amenzilor prevăzute la art. 14 alin. (1) și (3) nu le sunt aplicabile dispozițiile Legii nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale, cu modificările ulterioare."
+    },
+    {
+      "provision_ref": "Art.17",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Prevederile art. 9 și ale art. 12-16 intră în vigoare la 30 de zile de la data publicării prezentei legi."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "amenințări la adresa securității naționale și apărării țării",
+      "definition": "acțiuni, fapte sau stări de fapt, capacități, strategii, intenții ori planuri ce pot afecta valorile, interesele și obiectivele naționale de securitate și/sau sunt de natură să pună în pericol direct sau indirect securitatea națională, prin afectarea caracterului național, a suveranității, independenței, unității și integrității teritoriale, a funcționării normale a instituțiilor statului, a vieții și integrității fizice a cetățenilor și a organizării comunităților umane",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "echipament terminal",
+      "definition": "echipamentul conectat în mod direct la interfața infrastructurilor informatice și de comunicații de interes național sau interfața unei rețele 5G",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "infrastructura informatică și de comunicații",
+      "definition": "sisteme informatice și de comunicații interconectate prin linii de comunicații - fibră optică, linii satelitare, conexiuni în spectrul radio, linii terestre - utilizate pentru a furniza servicii informatice și/sau de comunicații",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "infrastructura informatică și de comunicații de interes național",
+      "definition": "infrastructura informatică și de comunicații esențială pentru menținerea funcțiilor vitale ale societății, a sănătății, siguranței, securității, bunăstării sociale ori economice a persoanelor și a cărei perturbare sau distrugere are un impact semnificativ la nivel național ca urmare a incapacității de a menține respectivele funcții",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "producător",
+      "definition": "orice persoană fizică sau juridică ce proiectează, fabrică și/sau comercializează tehnologii, echipamente și programe software sub numele sau marca sa",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "riscuri la adresa securității naționale și apărării țării",
+      "definition": "probabilități de producere sau manifestare a oricărui eveniment, situație, condiție cu potențial de manifestare incert, a cărui concretizare ar conduce la afectarea în orice mod a funcționării normale a instituțiilor statului, organizării și funcționării comunităților umane, precum și a vieții, integrității fizice a cetățenilor, într-o împrejurare dată sau context determinat",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "servicii de comunicații electronice de tip 5G",
+      "definition": "serviciile de comunicații electronice furnizate prin intermediul rețelelor 5G",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "vulnerabilități la adresa securității naționale și apărării țării",
+      "definition": "deficiențe funcțional-sistemice/structurale care pot fi exploatate sau pot contribui la materializarea unor amenințări sau a unor riscuri, determinând slăbirea capacității statului de a diminua impactul evenimentelor cu potențial de afectare gravă a funcționării normale a instituțiilor sale, a vieții și integrității fizice a cetățenilor și organizării comunităților umane, precum și a capacității de protejare, apărare și promovare a valorilor, intereselor și obiectivelor naționale de securitate.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

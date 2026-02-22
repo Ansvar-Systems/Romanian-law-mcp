@@ -1,0 +1,131 @@
+{
+  "id": "law-doc-224552",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 31 martie 2020",
+  "short_name": "lege 36 31 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-31",
+  "in_force_date": "2020-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224552",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 31/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Ordonanța de urgență a Guvernului nr. 34/2008 privind organizarea și funcționarea Sistemului național unic pentru apeluri de urgență, publicată în Monitorul Oficial al României, Partea I, nr. 246 din 28 martie 2008, aprobată cu modificări și completări prin Legea nr. 160/2008 , cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 2, după alineatul (5) se introduc două noi alineate, alineatele (6) și (7), cu următorul cuprins: (6) Transmiterea mesajelor tehnice standardizate scurte ce conțin informația de localizare obținută pe baza echipamentului terminal se realizează fără intervenția apelantului, către numărul unic 114. (7) Furnizorii de rețele publice de comunicații electronice mobile au obligația de a suporta atât costurile determinate de transmiterea la numărul 114 a mesajelor tehnice standardizate scurte ce conțin informația de localizare obținută pe baza echipamentului terminal, cât și costurile aferente traficului generat pe o conexiune de date de transmiterea informației de localizare obținute pe baza echipamentului terminal. 2. Articolul 3 se modifică și va avea următorul cuprins: Articolul 3 (1) În sensul prezentei ordonanțe de urgență, termenii și expresiile de mai jos au următoarele semnificații: a) agenții specializate de intervenție - structurile autorităților administrației publice care au rolul de intervenție imediată pentru soluționarea urgențelor în domeniile ambulanței, serviciilor mobile de urgență, reanimare și descarcerare (S.M.U.R.D.), poliției, jandarmeriei, serviciilor publice profesioniste și voluntare pentru situații de urgență, inclusiv S.M.U.R.D., contra terorismului, precum și alte structuri stabilite prin hotărâre a Guvernului; b) alertare falsă - utilizarea intenționată a numărului 112 pentru determinarea alarmării sau intervenției agențiilor specializate de intervenție în mod nejustificat; c) apel de urgență - orice apel către Serviciul de urgență 112 care necesită acțiunea agențiilor specializate de intervenție; d) mesaj asociat unui apel de urgență - orice mesaj scurt (SMS) transmis ulterior unui apel de urgență, privind aceeași situație de urgență, către Serviciul de urgență 112 de o persoană cu dizabilități de auz și/sau vorbire înregistrată la administratorul SNUAU, care necesită acțiunea agențiilor specializate de intervenție; e) apelare abuzivă - apelarea repetată, cu rea intenție, a numărului 112, fără ca apelantul să justifice o stare care necesită acțiunea agențiilor specializate de intervenție, sau apelarea numărului 112 pentru a aduce injurii operatorilor; f) apel involuntar - apelarea numărului 112 din greșeală; g) centrul unic pentru apeluri de urgență - structura specializată de preluare și transfer al apelurilor de urgență primite la 112, aflată în serviciu permanent, operat de administratorul SNUAU; h) mesaj abuziv - transmiterea repetată de mesaje scurte (SMS) către numărul 113, cu rea intenție, de către o persoană care nu este înregistrată la administratorul SNUAU sau transmiterea unui mesaj scurt (SMS) către numărul 113 pentru a aduce injurii operatorilor, precum și transmiterea repetată către numărul 114, cu rea intenție, a unor mesaje care nu respectă condițiile prevăzute la art. 2 alin. (6); i) dispeceratul de urgență - structura specializată de preluare și tratare a apelurilor de urgență primite prin centrul unic pentru apeluri de urgență, aflată în serviciu permanent, operat de agențiile specializate de intervenție; j) dispeceratul integrat de urgență - structură specializată aflată în serviciu permanent, care, pe lângă preluarea apelului la numărul de urgență, asigură alarmarea și coordonarea echipajelor de intervenție ale tuturor serviciilor specializate de intervenție, cu caracter medical și nemedical, din aceeași locație fizică. Coordonarea se face de către personal special pregătit, având inclusiv un coordonator medical, cu studii superioare, din cadrul serviciului de ambulanță sau S.M.U.R.D.; k) E 112 - serviciul de comunicații de urgență extins prin adăugarea informației de localizare a terminalului de la care se efectuează apelul de urgență; l) ETSI - Institutul European pentru Standardizare în Telecomunicații; m) gradul de serviciu - probabilitatea (P), exprimată ca fracție zecimală, ca un apel telefonic să fie blocat. P.01 este gradul de serviciu care reflectă probabilitatea ca în timpul unei ore cu trafic de vârf un apel din o sută să fie blocat; n) informația de localizare primară - datele cu conținutul și formatul stabilite de Autoritatea Națională pentru Administrare și Reglementare în Comunicații, care indică elementele de rețea relevante din punctul de vedere al localizării și care nu necesită prelucrare suplimentară din partea operatorului; o) informația de localizare - datele, cu conținutul și formatul stabilite de Autoritatea Națională pentru Administrare și Reglementare în Comunicații și implementate în cadrul SNUAU, care, prin prelucrarea informației de localizare primară, indică poziția geografică în care se află echipamentul terminal al unui utilizator de telefonie mobilă sau adresa fizică de instalare a punctului terminal pentru o rețea de telefonie fixă; p) informația de localizare obținută pe baza echipamentului terminal - datele generate la nivelul echipamentului terminal mobil al apelantului, după momentul inițierii apelului de urgență, și transmise către administratorul SNUAU de o funcționalitate integrată nativ la nivelul acestui terminal, precum și, acolo unde sunt disponibile, cele generate de o aplicație furnizată de administratorul SNUAU, ce conțin latitudinea și longitudinea care caracterizează poziția geografică în care se află echipamentul terminal; q) punctul de acces al centrului unic pentru apeluri de urgență - punctul fizic prin care unui apelant la numărul unic de urgență 112 i se asigură accesul la agențiile specializate de intervenție; r) rutare - dirijarea apelurilor efectuate de la echipamentele terminale dintr-o rețea publică de telefonie către numărul unic de urgență 112, în funcție de zona de arondare a echipamentului terminal apelant, la centrul unic pentru apeluri de urgență corespunzător; s) Serviciul de urgență 112 - serviciu furnizat de SNUAU, care asigură preluarea apelurilor de urgență de la cetățeni și transmiterea acestora către agențiile specializate de intervenție, în vederea asigurării unei reacții imediate, uniforme și unitare pentru soluționarea urgențelor; ș) stație de intervenție - punct de concentrare a resurselor agențiilor specializate de intervenție, destinate soluționării urgențelor; t) SNUAU - ansamblu integrat de aplicații, echipamente și rețele de comunicații și tehnologia informației care realizează interfața unică de acces al cetățeanului la agențiile specializate de intervenție și care permite răspunsul adecvat urgenței semnalate; interfața publică de acces este realizată prin integrarea în cadrul sistemului a centrului unic pentru apeluri de urgență cu dispeceratele agențiilor specializate de intervenție; ț) terminal telematic - terminal specializat care asigură posibilitatea transmiterii apelurilor de urgență și a informațiilor privind urgența de către persoane cu dizabilități de auz și/sau vorbire, utilizând tehnici de transmisie și de prelucrare automată la distanță a informației, prin intermediul unor procedee moderne de comunicație; u) 112 - numărul unic pentru apeluri de urgență; v) suporți tehnici - echipamente de comunicații, antene folosite în exclusivitate pentru SNUAU. (2) În cuprinsul prezentei ordonanțe de urgență sunt, de asemenea, aplicabile definițiile relevante prevăzute la art. 4 din Ordonanța de urgență a Guvernului nr. 111/2011 privind comunicațiile electronice, aprobată cu modificări și completări prin Legea nr. 140/2012 , cu modificările și completările ulterioare. 3. La articolul 15, după litera c) se introduce o nouă literă, litera d), cu următorul cuprins: d) de a lua toate măsurile necesare astfel încât să permită transmiterea, cu prioritate, în limita capabilităților tehnice, către administratorul SNUAU a informației de localizare obținute pe baza echipamentului terminal, atât prin utilizarea mesajelor tehnice standardizate scurte, cât și a conexiunii de date, indiferent de tipul de serviciu folosit de utilizatorul respectiv. 4. La articolul 19, după alineatul (3) se introduc două noi alineate, alineatele (4) și (5), cu următorul cuprins: (4) Datele cu caracter personal prevăzute la alin. (1) sunt stocate de către administratorul SNUAU pentru o perioadă de 5 ani. (5) La împlinirea termenului prevăzut la alin. (4), datele cu caracter personal vor fi șterse sau, după caz, distruse. 5. La articolul 20, alineatul (1^1 ) se modifică și va avea următorul cuprins: (1^1) SNUAU are obligația de a transforma informațiile de localizare primară în informații de localizare, precum și de a utiliza, acolo unde este disponibilă, informația de localizare obținută pe baza echipamentului terminal. 6. La articolul 32 alineatul (1), literele a) și b) se modifică și vor avea următorul cuprins: a) apelarea abuzivă a numărului unic pentru apeluri de urgență 112 sau transmiterea de mesaje abuzive la numărul 113 ori la numărul 114, cu amendă de la 1.000 lei la 2.000 lei sau cu prestarea de la 100 de ore la 200 de ore de activități în folosul comunității. Săvârșirea din nou a contravenției în interval de un an de la aplicarea sancțiunii se sancționează cu amendă de la 2.000 lei la 4.000 lei sau, prin derogare de la dispozițiile art. 9 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, cu prestarea de la 200 de ore la 400 de ore de activități în folosul comunității; b) alertarea falsă a agențiilor specializate de intervenție, cu amendă de la 2.000 lei la 4.000 lei sau prestarea de la 200 de ore la 400 de ore de activități în folosul comunității. Săvârșirea din nou a contravenției în interval de un an de la aplicarea sancțiunii se sancționează cu amendă de la 4.000 lei la 8.000 lei sau, prin derogare de la dispozițiile art. 9 alin. (1) din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, cu prestarea de la 400 de ore la 800 de ore de activități în folosul comunității;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agenții specializate de intervenție",
+      "definition": "structurile autorităților administrației publice care au rolul de intervenție imediată pentru soluționarea urgențelor în domeniile ambulanței, serviciilor mobile de urgență, reanimare și descarcerare (S.M.U.R.D.), poliției, jandarmeriei, serviciilor publice profesioniste și voluntare pentru situații de urgență, inclusiv S.M.U.R.D., contra terorismului, precum și alte structuri stabilite prin hotărâre a Guvernului",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "alertare falsă",
+      "definition": "utilizarea intenționată a numărului 112 pentru determinarea alarmării sau intervenției agențiilor specializate de intervenție în mod nejustificat",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "apel de urgență",
+      "definition": "orice apel către Serviciul de urgență 112 care necesită acțiunea agențiilor specializate de intervenție",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "mesaj asociat unui apel de urgență",
+      "definition": "orice mesaj scurt (SMS) transmis ulterior unui apel de urgență, privind aceeași situație de urgență, către Serviciul de urgență 112 de o persoană cu dizabilități de auz și/sau vorbire înregistrată la administratorul SNUAU, care necesită acțiunea agențiilor specializate de intervenție",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "apelare abuzivă",
+      "definition": "apelarea repetată, cu rea intenție, a numărului 112, fără ca apelantul să justifice o stare care necesită acțiunea agențiilor specializate de intervenție, sau apelarea numărului 112 pentru a aduce injurii operatorilor",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "apel involuntar",
+      "definition": "apelarea numărului 112 din greșeală",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "centrul unic pentru apeluri de urgență",
+      "definition": "structura specializată de preluare și transfer al apelurilor de urgență primite la 112, aflată în serviciu permanent, operat de administratorul SNUAU",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "mesaj abuziv",
+      "definition": "transmiterea repetată de mesaje scurte (SMS) către numărul 113, cu rea intenție, de către o persoană care nu este înregistrată la administratorul SNUAU sau transmiterea unui mesaj scurt (SMS) către numărul 113 pentru a aduce injurii operatorilor, precum și transmiterea repetată către numărul 114, cu rea intenție, a unor mesaje care nu respectă condițiile prevăzute la art. 2 alin. (6)",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "dispeceratul de urgență",
+      "definition": "structura specializată de preluare și tratare a apelurilor de urgență primite prin centrul unic pentru apeluri de urgență, aflată în serviciu permanent, operat de agențiile specializate de intervenție",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "dispeceratul integrat de urgență",
+      "definition": "structură specializată aflată în serviciu permanent, care, pe lângă preluarea apelului la numărul de urgență, asigură alarmarea și coordonarea echipajelor de intervenție ale tuturor serviciilor specializate de intervenție, cu caracter medical și nemedical, din aceeași locație fizică. Coordonarea se face de către personal special pregătit, având inclusiv un coordonator medical, cu studii superioare, din cadrul serviciului de ambulanță sau S.M.U.R.D.",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "E 112",
+      "definition": "serviciul de comunicații de urgență extins prin adăugarea informației de localizare a terminalului de la care se efectuează apelul de urgență",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "ETSI",
+      "definition": "Institutul European pentru Standardizare în Telecomunicații",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "gradul de serviciu",
+      "definition": "probabilitatea (P), exprimată ca fracție zecimală, ca un apel telefonic să fie blocat. P.01 este gradul de serviciu care reflectă probabilitatea ca în timpul unei ore cu trafic de vârf un apel din o sută să fie blocat",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "informația de localizare primară",
+      "definition": "datele cu conținutul și formatul stabilite de Autoritatea Națională pentru Administrare și Reglementare în Comunicații, care indică elementele de rețea relevante din punctul de vedere al localizării și care nu necesită prelucrare suplimentară din partea operatorului",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "informația de localizare",
+      "definition": "datele, cu conținutul și formatul stabilite de Autoritatea Națională pentru Administrare și Reglementare în Comunicații și implementate în cadrul SNUAU, care, prin prelucrarea informației de localizare primară, indică poziția geografică în care se află echipamentul terminal al unui utilizator de telefonie mobilă sau adresa fizică de instalare a punctului terminal pentru o rețea de telefonie fixă",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "informația de localizare obținută pe baza echipamentului terminal",
+      "definition": "datele generate la nivelul echipamentului terminal mobil al apelantului, după momentul inițierii apelului de urgență, și transmise către administratorul SNUAU de o funcționalitate integrată nativ la nivelul acestui terminal, precum și, acolo unde sunt disponibile, cele generate de o aplicație furnizată de administratorul SNUAU, ce conțin latitudinea și longitudinea care caracterizează poziția geografică în care se află echipamentul terminal",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "punctul de acces al centrului unic pentru apeluri de urgență",
+      "definition": "punctul fizic prin care unui apelant la numărul unic de urgență 112 i se asigură accesul la agențiile specializate de intervenție",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "rutare",
+      "definition": "dirijarea apelurilor efectuate de la echipamentele terminale dintr-o rețea publică de telefonie către numărul unic de urgență 112, în funcție de zona de arondare a echipamentului terminal apelant, la centrul unic pentru apeluri de urgență corespunzător",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "112",
+      "definition": "numărul unic pentru apeluri de urgență",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "suporți tehnici",
+      "definition": "echipamente de comunicații, antene folosite în exclusivitate pentru SNUAU. (2) În cuprinsul prezentei ordonanțe de urgență sunt, de asemenea, aplicabile definițiile relevante prevăzute la art. 4 din Ordonanța de urgență a Guvernului nr. 111/2011 privind comunicațiile electronice, aprobată cu modificări și completări prin Legea nr. 140/2012 , cu modificările și completările ulterioare. 3",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "se introduce o nouă literă, litera d), cu următorul cuprins",
+      "definition": "d) de a lua toate măsurile necesare astfel încât să permită transmiterea, cu prioritate, în limita capabilităților tehnice, către administratorul SNUAU a informației de localizare obținute pe baza echipamentului terminal, atât prin utilizarea mesajelor tehnice standardizate scurte, cât și a conexiunii de date, indiferent de tipul de serviciu folosit de utilizatorul respectiv. 4",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "și b) se modifică și vor avea următorul cuprins",
+      "definition": "a) apelarea abuzivă a numărului unic pentru apeluri de urgență 112 sau transmiterea de mesaje abuzive la numărul 113 ori la numărul 114, cu amendă de la 1.000 lei la 2.000 lei sau cu prestarea de la 100 de ore la 200 de ore de activități în folosul comunității. Săvârșirea din nou a contravenției în interval de un an de la aplicarea sancțiunii se sancționează cu amendă de la 2.000 lei la 4.000 lei sau, prin derogare de la dispozițiile art. 9 alin. (1) din Ordonanța Guvernului nr",
+      "source_provision": "Art.1"
+    }
+  ]
+}

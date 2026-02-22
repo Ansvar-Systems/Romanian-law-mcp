@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252616",
+  "type": "statute",
+  "title": "LEGE nr. 50 din 14 martie 2022",
+  "short_name": "lege 50 14 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-14",
+  "in_force_date": "2022-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252616",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 50 14/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 62 din 29 iunie 2021 pentru completarea anexei nr. 1 la Ordonanța Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile interguvernamentale la care România este parte, precum și pentru aprobarea plății primei tranșe din cotizația României la bugetul instrumentului financiar al UE „Instrumentul European pentru Pace (EPF)“, aferente anului 2021, publicată în Monitorul Oficial al României, Partea I, nr. 643 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

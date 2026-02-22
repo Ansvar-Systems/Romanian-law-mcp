@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-174505",
+  "type": "statute",
+  "title": "LEGE nr. 348 din 23 decembrie 2015",
+  "short_name": "lege 348 23 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-23",
+  "in_force_date": "2015-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174505",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 348 23/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Tratatul dintre România şi Republica Kazahstan privind extrădarea, semnat la Bucureşti la 14 noiembrie 2014."
+    }
+  ],
+  "definitions": []
+}

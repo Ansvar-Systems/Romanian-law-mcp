@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240134",
+  "type": "statute",
+  "title": "LEGE nr. 53 din 29 martie 2021",
+  "short_name": "lege 53 29 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-29",
+  "in_force_date": "2021-03-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240134",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 53 29/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 121 din 22 iulie 2020 pentru completarea art. 2 din Ordonanța Guvernului nr. 13/2017 privind aprobarea participării României la Programul pentru școli al Uniunii Europene și pentru adoptarea unor măsuri privind redistribuirea stocurilor de produse înregistrate ca urmare a suspendării cursurilor în unitățile de învățământ preuniversitar, publicată în Monitorul Oficial al României, Partea I, nr. 665 din 27 iulie 2020."
+    }
+  ],
+  "definitions": []
+}

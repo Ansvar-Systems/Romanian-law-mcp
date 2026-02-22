@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227627",
+  "type": "statute",
+  "title": "LEGE nr. 109 din 3 iulie 2020",
+  "short_name": "lege 109 03 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-03",
+  "in_force_date": "2020-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227627",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 109 03/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 70, după alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: (2^1) Ministerul Educației și Cercetării asigură elevilor și profesorilor infrastructura necesară, constând în dispozitive și acces la internet, pentru accesarea Bibliotecii Școlare Virtuale, Platformei școlare de e-learning și a altor platforme educaționale agreate. 2. La articolul 94 alineatul (2), după litera y) se introduce o nouă literă, litera z), cu următorul cuprins: z) asigură, la cerere, fiecărui cadru didactic și fiecărui elev un dispozitiv - laptop sau tabletă, conectat la internet, pentru a putea participa la activitățile de e-learning."
+    }
+  ],
+  "definitions": []
+}

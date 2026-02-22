@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-21314",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 19 decembrie 1969",
+  "short_name": "lege 43 19 12 1969",
+  "status": "in_force",
+  "issued_date": "1969-12-19",
+  "in_force_date": "1969-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21314",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 19/12/1969",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 648/1969 pentru organizarea şi funcţionarea Ministerului Justiţiei. -------"
+    }
+  ],
+  "definitions": []
+}

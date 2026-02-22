@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-37677",
+  "type": "statute",
+  "title": "LEGE nr. 37 din 28 februarie 1948",
+  "short_name": "lege 37 28 02 1948",
+  "status": "in_force",
+  "issued_date": "1948-02-28",
+  "in_force_date": "1948-02-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37677",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 37 28/02/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute Tratatul de Prietenie, Colaborare şi Asistenţa Mutuala între Republica Populara Română şi Republica Ungara, semnat la Budapesta la 24 Ianuarie 1948. Textul autentic în limba română al acestui Tratat este alăturat la prezenta lege."
+    }
+  ],
+  "definitions": []
+}

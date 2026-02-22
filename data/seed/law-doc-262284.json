@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262284",
+  "type": "statute",
+  "title": "LEGE nr. 336 din 7 decembrie 2022",
+  "short_name": "lege 336 07 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-07",
+  "in_force_date": "2022-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262284",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 336 07/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (1) al articolului 651 din Legea nr. 134/2010 privind Codul de procedură civilă, republicată în Monitorul Oficial al României, Partea I, nr. 247 din 10 aprilie 2015, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 651 Instanța de executare (1) Instanța de executare este judecătoria în a cărei circumscripție se află, la data sesizării organului de executare, domiciliul sau, după caz, sediul debitorului, în afara cazurilor în care legea dispune altfel. Dacă domiciliul sau, după caz, sediul debitorului nu se află în țară, este competentă judecătoria în a cărei circumscripție se află, la data sesizării organului de executare, domiciliul sau, după caz, sediul creditorului, iar dacă acesta nu se află în țară, judecătoria în a cărei circumscripție se află sediul biroului executorului judecătoresc învestit de creditor. Dispozițiile art. 112 și ale art. 127 se aplică în mod corespunzător."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-227609",
+  "type": "statute",
+  "title": "LEGE nr. 105 din 3 iulie 2020",
+  "short_name": "lege 105 03 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-03",
+  "in_force_date": "2020-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227609",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 105 03/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După articolul 2 din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 621 din 2 septembrie 2010, cu modificările și completările ulterioare, se introduce un nou articol, articolul 2^1, cu următorul cuprins: Articolul 2^1 (1) Până la data de 31 decembrie 2021, persoanele prevăzute la art. 1 alin. (1) pct. 1-38 pot completa și depune declarațiile de avere și de interese și în format electronic, certificate cu semnătură electronică calificată, iar acestea se trimit Agenției Naționale de Integritate prin mijloace electronice de transmitere la distanță. (2) Procedura de transmitere la distanță a declarațiilor de avere și de interese, precum și condițiile în care aceasta se realizează se aprobă prin ordin al președintelui Agenției Naționale de Integritate. (3) Începând cu 1 ianuarie 2022, persoanele prevăzute la art. 1 alin. (1), cu excepția celor prevăzute la art. 1 alin. (1) pct. 39, au obligația de a completa și depune declarațiile de avere și de interese în format electronic. (4) Declarațiile depuse în format electronic au același regim ca cele depuse în format hârtie, fiind transmise acelorași persoane și entități, urmând ca acestea să deruleze procedurile prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordinul președintelui Agenției Naționale de Integritate prevăzut la art. 2^1 alin. (2) din Legea nr. 176/2010 , cu modificările și completările ulterioare, inclusiv cu cele aduse prin prezenta lege, se emite în termen de 6 luni de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Până la data de 31 decembrie 2021, toate autoritățile publice, instituțiile publice sau unitățile din care fac parte persoanele prevăzute la art. 1 alin. (1) pct. 1-38 din Legea nr. 176/2010 , cu modificările și completările ulterioare, au obligația de a asigura deponenților certificate calificate pentru semnătură electronică."
+    }
+  ],
+  "definitions": []
+}

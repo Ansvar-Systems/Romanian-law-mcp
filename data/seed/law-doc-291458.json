@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-291458",
+  "type": "statute",
+  "title": "LEGE nr. 291 din 25 noiembrie 2024",
+  "short_name": "lege 291 25 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-25",
+  "in_force_date": "2024-11-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/291458",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 291 25/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Comitetul Internațional al Crucii Roșii privind privilegiile și imunitățile Comitetului Internațional al Crucii Roșii în România, semnat la București la 19 martie 2024."
+    }
+  ],
+  "definitions": []
+}

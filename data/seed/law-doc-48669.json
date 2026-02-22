@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-48669",
+  "type": "statute",
+  "title": "LEGE nr. 543 din 18 decembrie 2003",
+  "short_name": "lege 543 18 12 2003",
+  "status": "in_force",
+  "issued_date": "2003-12-18",
+  "in_force_date": "2003-12-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/48669",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 543 18/12/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 83 din 18 septembrie 2003 pentru modificarea și completarea Legii nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe, publicată în Monitorul Oficial al României, Partea I, nr. 684 din 29 septembrie 2003, cu următoarea modificare: – La articolul I punctul 1, alineatul (1^1) al articolului 2 va avea următorul cuprins: (1^1) Investițiile privind construcțiile de locuințe pentru tineri, destinate închirierii, pe baza proiectelor aprobate de Ministerul Transporturilor, Construcțiilor și Turismului, sunt finanțate de la bugetul de stat și de la bugetele locale, precum și din credite interne/externe și din alte surse legal constituite."
+    }
+  ],
+  "definitions": []
+}

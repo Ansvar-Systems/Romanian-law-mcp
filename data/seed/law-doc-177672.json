@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-177672",
+  "type": "statute",
+  "title": "LEGE nr. 62 din 12 aprilie 2016",
+  "short_name": "lege 62 12 04 2016",
+  "status": "in_force",
+  "issued_date": "2016-04-12",
+  "in_force_date": "2016-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177672",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 62 12/04/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 75 alineatul (2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenţei şi de insolvenţă, publicată în Monitorul Oficial al României, Partea I, nr. 466 din 25 iunie 2014, cu modificările şi completările ulterioare, după litera b) se introduce o nouă literă, litera c), cu următorul cuprins: \"c) procedurile extrajudiciare aflate pe rolul comisiilor sportive din cadrul federaţiilor sportive care funcţionează potrivit Legii educaţiei fizice şi sportului nr. 69/2000 , cu modificările şi completările ulterioare, având ca obiect denunţarea unilaterală a contractelor individuale de muncă sau convenţiilor civile ale sportivilor şi sancţiuni sportive aplicabile în această situaţie sau orice alte litigii având ca obiect dreptul sportivului de a participa la competiţie.\""
+    }
+  ],
+  "definitions": []
+}

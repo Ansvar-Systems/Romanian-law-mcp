@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-191623",
+  "type": "statute",
+  "title": "LEGE nr. 191 din 24 iulie 2017",
+  "short_name": "lege 191 24 07 2017",
+  "status": "in_force",
+  "issued_date": "2017-07-24",
+  "in_force_date": "2017-07-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/191623",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 191 24/07/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 8 din Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările ulterioare, se modifică și va avea următorul cuprins: Articolul 8 Informațiile se aduc la cunoștință pacientului într-un limbaj respectuos, clar, cu minimalizarea terminologiei de specialitate. În cazul în care pacientul nu cunoaște limba română, informațiile i se aduc la cunoștință în limba maternă ori într-o limbă pe care o cunoaște sau, după caz, se va căuta o altă formă de comunicare. Dacă pacientul nu este cetățean român, informațiile i se aduc la cunoștință într-o limbă de circulație internațională sau, după caz, se va căuta o altă formă de comunicare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198838",
+  "type": "statute",
+  "title": "LEGE nr. 69 din 19 martie 2018",
+  "short_name": "lege 69 19 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-19",
+  "in_force_date": "2018-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198838",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 69 19/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După articolul 35 din Legea nr. 319/2003 privind Statutul personalului de cercetare-dezvoltare, publicată în Monitorul Oficial al României, Partea I, nr. 530 din 23 iulie 2003, se introduce un nou articol, articolul 35^1, cu următorul cuprins: Articolul 35^1 (1) Vârsta de pensionare pentru personalul de cercetare-dezvoltare este de 65 de ani, atât pentru femei, cât și pentru bărbați. (2) Prin excepție de la prevederile alin. (1), la cerere, personalul de cercetare-dezvoltare se poate pensiona în condițiile prevăzute de Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

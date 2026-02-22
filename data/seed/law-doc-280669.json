@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-280669",
+  "type": "statute",
+  "title": "LEGE nr. 69 din 28 martie 2024",
+  "short_name": "lege 69 28 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-28",
+  "in_force_date": "2024-03-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280669",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 69 28/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Convenția nr. 190/2019 privind eliminarea violenței și a hărțuirii în lumea muncii, adoptată la cea de-a 108-a sesiune a Conferinței Internaționale a Muncii a Organizației Internaționale a Muncii, la Geneva la 21 iunie 2019."
+    }
+  ],
+  "definitions": []
+}

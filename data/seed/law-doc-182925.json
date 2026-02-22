@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-182925",
+  "type": "statute",
+  "title": "LEGE nr. 191 din 20 octombrie 2016",
+  "short_name": "lege 191 20 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-20",
+  "in_force_date": "2016-10-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/182925",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 191 20/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Protocolul de aderare a Muntenegrului la Tratatul Atlanticului de Nord, semnat la Bruxelles la 19 mai 2016."
+    }
+  ],
+  "definitions": []
+}

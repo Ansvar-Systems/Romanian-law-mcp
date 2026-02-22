@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-266638",
+  "type": "statute",
+  "title": "LEGE nr. 78 din 5 aprilie 2023",
+  "short_name": "lege 78 05 04 2023",
+  "status": "in_force",
+  "issued_date": "2023-04-05",
+  "in_force_date": "2023-04-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266638",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 78 05/04/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 3 alineatul (1) din Ordonanța Guvernului nr. 71/2002 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, publicată în Monitorul Oficial al României, Partea I, nr. 648 din 31 august 2002, aprobată cu modificări prin Legea nr. 3/2003 , cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) construirea, modernizarea, exploatarea și întreținerea străzilor, drumurilor, podurilor, viaductelor, a pasajelor rutiere și pietonale, subterane și supraterane, a construcțiilor civile și industriale pentru locuri de agrement;"
+    }
+  ],
+  "definitions": []
+}

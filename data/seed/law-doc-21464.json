@@ -1,0 +1,112 @@
+{
+  "id": "law-doc-21464",
+  "type": "statute",
+  "title": "LEGE nr. 2 din 18 aprilie 1989",
+  "short_name": "lege 2 18 04 1989",
+  "status": "in_force",
+  "issued_date": "1989-04-18",
+  "in_force_date": "1989-04-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21464",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2 18/04/1989",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Îmbunătăţirea organizării administrative a teritoriului Republicii Socialiste România, amplasarea raţională a forţelor de producţie pe întreg cuprinsul tarii, dezvoltarea armonioasă şi echilibrata, economică, socială, culturală şi edilitar-gospodareasca a tuturor zonelor şi localităţilor urbane şi rurale asigura ridicarea permanenta a nivelului de civilizatie, a calităţii vieţii şi a muncii tuturor cetăţenilor patriei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Fiecare unitate administrativ-teritorială îşi desfăşoară activitatea pe baza planului şi programelor de dezvoltare economico-socială în profil teritorial, a bugetului local de venituri şi cheltuieli, în stricta concordanta cu planul naţional unic de dezvoltare economico-socială şi programul general de dezvoltare a tarii."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În unităţile administrativ-teritoriale întreaga activitate economică, social-culturală şi edilitar-gospodareasca se desfăşoară potrivit principiilor autoconducerii, autoaprovizionarii, autogestiunii economico-financiare şi autofinantarii, cu participarea larga a tuturor cetăţenilor la conducerea şi rezolvarea nemijlocită a problemelor economice, sociale şi edilitare ale localităţilor în care trăiesc şi muncesc."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Teritoriul Republicii Socialiste România este organizat în unităţi administrativ-teritoriale: judeţul, municipiul, oraşul şi comuna."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Capitala Republicii Socialiste România este municipiul Bucureşti, care este organizat pe sectoare. Sectorul agricol Ilfov este subordonat municipiul Bucureşti. Delimitarea sectoarelor municipiului Bucureşti, inclusiv Sectorului agricol Ilfov, se va face prin decret al Consiliului de Stat."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Judeţul este unitatea administrativ-teritorială alcătuită din municipii, oraşe şi comune - unităţi de baza ale organizării administrativ-teritoriale a tarii. Organizarea judeţelor sa face în funcţie de condiţiile geografice, economice şi social-politice. Judeţul asigura dezvoltarea armonioasă din punct de vedere economic, social-cultural şi edilitar-gospodăresc a municipiilor, oraşelor şi comunelor."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Municipiul este localitatea urbana care are un număr de cel puţin 40.000 locuitori, o industrie puternic dezvoltata, o însemnătate deosebită în viaţa economică, social-politica şi cultural-ştiinţifică a tarii, un important fond de locuinţe şi dotări edilitar-gospodăreşti, reţea complexa de unităţi de învăţămînt, sănătate şi cultura. În funcţie de numărul locuitorilor, municipiile se împart în următoarele categorii: I - pînă la 60.000 locuitori; II - între 60.001-100.000 locuitori; III - între 100.001-150.000 locuitori; IV - între 150.000-250.000 locuitori; V - peste 250.000 locuitori. Municipiile în care îşi au sediul organele de conducere ale judeţului sînt municipii-reşedinţa."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Oraşul este centrul de populaţie mai dezvoltat din punct de vedere economic, social-cultural şi edilitar-gospodăresc. În funcţie de numărul locuitorilor, oraşele se împart în următoarele categorii: I - pînă la 10.000 locuitori; II - între 10.001 - 20.000 locuitori; III - peste 20.000 locuitori; Localităţile cu activităţi agricole şi industriale complexe, cu dotări edilitar-gospodăreşti corespunzătoare se pot organiza ca oraşe agroindustriale."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Comuna este unitatea administrativ-teritorială alcătuită din unu sau mai multe sate care cuprind populaţia rurală, fiind organizată în funcţie de condiţiile economice, social-culturale şi geografice. Prin organizarea comunei se asigura dezvoltarea puternica şi modernizarea agriculturii, extinderea unor activităţi industriale şi de prestări servicii, a reţelei sanitare, de învăţămînt şi cultura, creandu-se astfel locuitorilor condiţii de muncă şi viaţa cat mai apropiate de cele ale populaţiei din oraşe. Satele în care îşi au sediul organele de conducere ale comunei sînt reşedinţa de comuna."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Oraşele şi comunele care, datorită condiţiilor climaterice, hidrologice, asezarii şi inzestrarii lor edilitar-gospodăreşti, prezintă importanţa pentru ocrotirea sănătăţii şi asigurarea odihnei cetăţenilor, sînt organizate ca staţiuni balneoclimaterice."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Judeţele Republicii Socialiste România şi municipiile de reşedinţa ale acestora sînt următoarele: Nr. crt. Denumirea judeţului Reşedinţa 1. ALBA Municipiul Alba Iulia 2. ARAD Municipiul Arad 3. ARGEŞ Municipiul Piteşti 4. BACĂU Municipiul Bacău 5. BIHOR Municipiul Oradea 6. BISTRIŢA-NĂSĂUD Municipiul Bistriţa 7. BOTOŞANI Municipiul Botoşani 8. BRAŞOV Municipiul Braşov 9. BRĂILA Municipiul Brăila 10. BUZĂU Municipiul Buzău 11. CARAŞ-SEVERIN Municipiul Reşiţa 12. CĂLĂRAŞI Municipiul Călăraşi 13. CLUJ Municipiul Cluj-Napoca 14. CONSTANŢA Municipiul Constanţa 15. COVASNA Municipiul Sfîntu Gheorghe 16. DÎMBOVIŢA Municipiul Tîrgovişte 17. DOLJ Municipiul Craiova 18. GALAŢI Municipiul Galaţi 19. GIURGIU Municipiul Giurgiu 20. GORJ Municipiul Tîrgu Jiu 21. HARGHITA Municipiul Miercurea-Ciuc 22. HUNEDOARA Municipiul Deva 23. IALOMIŢA Municipiul Slobozia 24. IAŞI Municipiul Iaşi 25. MARAMUREŞ Municipiul Baia Mare 26. MEHEDINŢI Municipiul Drobeta-Turnu Severin 27. MUREŞ Municipiul Tîrgu Mureş 28. NEAMŢ Municipiul Piatra-Neamţ 29. OLT Municipiul Slatina 30. PRAHOVA Municipiul Ploieşti 31. SATU MARE Municipiul Satu Mare 32. SĂLAJ Municipiul Zalău 33. SIBIU Municipiul Sibiu 34. SUCEAVA Municipiul Suceava 35. TELEORMAN Municipiul Alexandria 36. TIMIŞ Municipiul Timişoara 37. TULCEA Municipiul Tulcea 38. VASLUI Municipiul Vaslui 39. VÎLCEA Municipiul Rîmnicu Vîlcea 40. VRANCEA Municipiul Focşani"
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Municipiile, oraşele şi comunele din compunerea judeţelor sînt prevăzute în anexele nr. 1-40 care fac parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul 2 - Unităţile administrativ-teritoriale",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Consiliile populare judeţene, municipale, orăşeneşti şi comunale, organe locale ale puterii de stat în unităţile administrativ-teritoriale în care au fost alese, conduc întreaga activitate locală, răspund de înfăptuirea planurilor şi programelor de dezvoltare economico-socială în profil teritorial, asigura apărarea proprietăţii socialiste, ocrotirea drepturilor cetăţenilor, legalitatea socialistă, păstrarea ordinii şi disciplinei publice."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul 3 - Dipozitii finale",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Legea Nr. 2/1968 privind organizarea administrativă a teritoriului Republicii Socialiste România, cu modificările ulterioare, se abroga. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 18 aprilie 1989. PREŞEDINTELE Marii Adunări Naţionale, NICOLAE GIOSAN"
+    }
+  ],
+  "definitions": []
+}

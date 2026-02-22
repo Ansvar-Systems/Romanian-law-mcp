@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-227842",
+  "type": "statute",
+  "title": "LEGE nr. 133 din 15 iulie 2020",
+  "short_name": "lege 133 15 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-15",
+  "in_force_date": "2020-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227842",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 133 15/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 83 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Unui post de consilier școlar îi este alocat un număr maxim de 600 de elevi, respectiv un număr maxim de 300 de preșcolari, în cadrul unui cabinet de asistență psihopedagogică, respectiv în cadrul unui cabinet interșcolar de asistență psihopedagogică."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare începând cu anul școlar 2021-2022."
+    }
+  ],
+  "definitions": []
+}

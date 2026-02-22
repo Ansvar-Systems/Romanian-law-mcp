@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-202542",
+  "type": "statute",
+  "title": "LEGE nr. 162 din 9 iulie 2018",
+  "short_name": "lege 162 09 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-09",
+  "in_force_date": "2018-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/202542",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 162 09/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 13 din 7 martie 2018 pentru modificarea unor acte normative din domeniul protecției mediului, publicată în Monitorul Oficial al României, Partea I, nr. 218 din 12 martie 2018, cu următoarele modificări: 1. La articolul I punctul 1 , litera a) a alineatului (2) al articolului 1 se modifică și va avea următorul cuprins: a) structuri teritoriale ale Agenției Naționale pentru Arii Naturale Protejate, fără personalitate juridică, organizate la nivel de direcție sau serviciu, cu rol de administrare a ariilor naturale protejate; 2. La articolul I punctul 4 , articolul 4 se modifică și va avea următorul cuprins: Articolul 4 Agenția Națională pentru Arii Naturale Protejate este organizată astfel: aparat central și structuri teritoriale organizate la nivel de direcții sau servicii, aflate în cadrul acesteia."
+    }
+  ],
+  "definitions": []
+}

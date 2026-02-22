@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183070",
+  "type": "statute",
+  "title": "LEGE nr. 192 din 26 octombrie 2016",
+  "short_name": "lege 192 26 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-26",
+  "in_force_date": "2016-10-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183070",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 192 26/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 5 din 10 martie 2016 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, publicată în Monitorul Oficial al României, Partea I, nr. 189 din 14 martie 2016."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-133330",
+  "type": "statute",
+  "title": "LEGE nr. 222 din 29 noiembrie 2011",
+  "short_name": "lege 222 29 11 2011",
+  "status": "in_force",
+  "issued_date": "2011-11-29",
+  "in_force_date": "2011-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/133330",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 222 29/11/2011",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanța Guvernului nr. 5 din 29 ianuarie 2010 pentru modificarea art. III alin. (1) din Ordonanța Guvernului nr. 3/2007 privind unele măsuri financiar-fiscale din domeniul protecției sociale, adoptată în temeiul art. 1 pct. VI din Legea nr. 9/2010 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 69 din 29 ianuarie 2010."
+    }
+  ],
+  "definitions": []
+}

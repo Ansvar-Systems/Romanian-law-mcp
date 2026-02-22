@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221944",
+  "type": "statute",
+  "title": "LEGE nr. 11 din 9 ianuarie 2020",
+  "short_name": "lege 11 09 01 2020",
+  "status": "in_force",
+  "issued_date": "2020-01-09",
+  "in_force_date": "2020-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221944",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 11 09/01/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 2 din Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice, republicată în Monitorul Oficial al României, Partea I, nr. 96 din 7 februarie 2014, punctul 20) se modifică și va avea următorul cuprins: 20) servirea și consumul băuturilor alcoolice în localuri publice și în afara acestora pe timpul desfășurării adunărilor publice, grevelor, manifestărilor sportive, cu excepția spațiilor în care sunt organizate evenimente pentru celebrarea revelionului, zilelor unităților administrativ-teritoriale, ale categoriilor socio-profesionale sau pentru promovarea unor produse alimentare sau nealimentare, precum și a perimetrelor special amenajate și delimitate unde se desfășoară manifestări cultural-artistice cu acces controlat;"
+    }
+  ],
+  "definitions": []
+}

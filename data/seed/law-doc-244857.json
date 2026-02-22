@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-244857",
+  "type": "statute",
+  "title": "LEGE nr. 214 din 21 iulie 2021",
+  "short_name": "lege 214 21 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-21",
+  "in_force_date": "2021-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244857",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 214 21/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 53 din 15 aprilie 2020 pentru modificarea și completarea unor acte normative privind măsuri de protecție socială determinate de răspândirea coronavirusului SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 325 din 21 aprilie 2020, cu următoarea modificare: – La articolul I punctul 3 , alineatul (8) al articolului XV se modifică și va avea următorul cuprins: (8) Obligațiile fiscale menționate la alin. (7) se declară prin Declarația unică privind impozitul pe venit și contribuțiile sociale datorate de persoanele fizice și se plătesc de către persoanele fizice beneficiare la termenul prevăzut la art. 122 alin. (1) din Legea nr. 227/2015 , cu modificările și completările ulterioare, pentru veniturile realizate în anul în care au fost obținute indemnizațiile."
+    }
+  ],
+  "definitions": []
+}

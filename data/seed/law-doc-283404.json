@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283404",
+  "type": "statute",
+  "title": "LEGE nr. 166 din 29 mai 2024",
+  "short_name": "lege 166 29 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-29",
+  "in_force_date": "2024-05-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283404",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 166 29/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 35 din 17 mai 2023 pentru modificarea și completarea unor acte normative privind domeniul străinilor și azilului în România, publicată în Monitorul Oficial al României, Partea I, nr. 436 din 18 mai 2023."
+    }
+  ],
+  "definitions": []
+}

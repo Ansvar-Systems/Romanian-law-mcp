@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200579",
+  "type": "statute",
+  "title": "LEGE nr. 104 din 8 mai 2018",
+  "short_name": "lege 104 08 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-08",
+  "in_force_date": "2018-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200579",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 104 08/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 2 din 31 ianuarie 2018 pentru prorogarea unor termene prevăzute în Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 95 din 31 ianuarie 2018."
+    }
+  ],
+  "definitions": []
+}

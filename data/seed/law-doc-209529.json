@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-209529",
+  "type": "statute",
+  "title": "LEGE nr. 348 din 27 decembrie 2018",
+  "short_name": "lege 348 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209529",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 348 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 2 aprilie - Ziua Instituției Prefectului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ziua Instituției Prefectului poate fi marcată de către autoritățile administrației publice centrale și locale, precum și de instituțiile publice de cultură din țară și din străinătate, prin organizarea unor programe și manifestări cu caracter cultural-științific dedicate recunoașterii rolului și meritelor Instituției Prefectului la dezvoltarea țării noastre din punct de vedere economic, cultural și social."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Autoritățile administrației publice centrale și locale pot sprijini material și logistic organizarea și desfășurarea programelor și manifestărilor prevăzute la art. 2 , în limita fondurilor disponibile."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni culturale ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

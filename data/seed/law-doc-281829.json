@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281829",
+  "type": "statute",
+  "title": "LEGE nr. 99 din 15 aprilie 2024",
+  "short_name": "lege 99 15 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-15",
+  "in_force_date": "2024-04-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281829",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 99 15/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 3 din Legea nr. 273/2004 privind procedura adopției, republicată în Monitorul Oficial al României, Partea I, nr. 739 din 23 septembrie 2016, cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) cetățenilor români sau cetățenilor români cu multiplă cetățenie, după caz, care au domiciliul în România, care au locuit efectiv și continuu pe teritoriul României în ultimele 6 luni anterioare depunerii cererii de atestare; la stabilirea continuității nu sunt considerate întreruperi absențele temporare care nu depășesc 3 luni, absențele determinate de desfășurarea activităților specifice sectorului maritim în baza contractelor de muncă ale navigatorilor, absențele determinate de șederea pe teritoriul altui stat ca urmare a existenței unor contracte de muncă și nici cele impuse de derularea unor activități desfășurate în interesul statului român sau ca urmare a unor obligații internaționale asumate de România;"
+    }
+  ],
+  "definitions": []
+}

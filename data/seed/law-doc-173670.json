@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173670",
+  "type": "statute",
+  "title": "LEGE nr. 315 din 7 decembrie 2015",
+  "short_name": "lege 315 07 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-07",
+  "in_force_date": "2015-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173670",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 315 07/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 38 din 23 septembrie 2015 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale şi utilizarea acestora pentru obiectivul convergenţă, publicată în Monitorul Oficial al României, Partea I, nr. 730 din 29 septembrie 2015."
+    }
+  ],
+  "definitions": []
+}

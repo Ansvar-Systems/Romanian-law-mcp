@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271655",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 26 iunie 2023",
+  "short_name": "lege 183 26 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-26",
+  "in_force_date": "2023-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271655",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 26/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 124 din 14 septembrie 2022 pentru modificarea Ordonanței de urgență a Guvernului nr. 105/2022 privind aprobarea continuării Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 300 de unități de învățământ preuniversitar de stat, precum și pentru modificarea art. 97 din Legea nr. 196/2016 privind venitul minim de incluziune, publicată în Monitorul Oficial al României, Partea I, nr. 909 din 15 septembrie 2022."
+    }
+  ],
+  "definitions": []
+}

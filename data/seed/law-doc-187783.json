@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-187783",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 27 martie 2017",
+  "short_name": "lege 36 27 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-27",
+  "in_force_date": "2017-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187783",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 27/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 27 martie - Ziua Unirii Basarabiei cu România ca zi de sărbătoare naţională."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Guvernul României şi autorităţile administraţiei publice centrale şi locale iau măsurile necesare pentru ca, în data de 27 martie, drapelul României să fie arborat în conformitate cu prevederile Legii nr. 75/1994 privind arborarea drapelului României, intonarea imnului naţional şi folosirea sigiliilor cu stema României de către autorităţile şi instituţiile publice."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ziua Unirii Basarabiei cu România poate fi marcată de către autorităţile administraţiei publice centrale şi locale, organizaţiile neguvernamentale, muzee, reprezentanţele României în străinătate, prin organizarea de evenimente şi manifestări publice şi cultural-ştiinţifice dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Autorităţile administraţiei publice centrale şi locale pot sprijinii material şi logistic organizarea şi desfăşurarea manifestărilor prevăzute la art. 3."
+    }
+  ],
+  "definitions": []
+}

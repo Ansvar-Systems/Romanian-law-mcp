@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-249045",
+  "type": "statute",
+  "title": "LEGE nr. 284 din 6 decembrie 2021",
+  "short_name": "lege 284 06 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-06",
+  "in_force_date": "2021-12-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249045",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 284 06/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 88 din 11 august 2021 pentru ratificarea Acordului dintre Guvernul României și Uniunea Internațională a Telecomunicațiilor privind găzduirea, organizarea și finanțarea Conferinței Plenipotențiarilor Uniunii Internaționale a Telecomunicațiilor (București, România, 26 septembrie-14 octombrie 2022), semnat la Geneva la 30 iunie 2021, publicată în Monitorul Oficial al României, Partea I, nr. 788 din 17 august 2021."
+    }
+  ],
+  "definitions": []
+}

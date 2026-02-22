@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-288109",
+  "type": "statute",
+  "title": "LEGE nr. 244 din 5 septembrie 2024",
+  "short_name": "lege 244 05 09 2024",
+  "status": "in_force",
+  "issued_date": "2024-09-05",
+  "in_force_date": "2024-09-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/288109",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 244 05/09/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (1) al art. 100 din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 100 (1) Venitul impozabil lunar din pensii se stabilește prin deducerea din venitul din pensie a sumei neimpozabile lunare de 3.000 lei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prin derogare de la prevederile art. 4 alin. (1) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, prevederile art. I intră în vigoare la data de 1 octombrie 2024 și se aplică începând cu veniturile aferente lunii octombrie 2024."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Începând cu veniturile din pensii aferente lunii octombrie 2024, plafonul lunar neimpozabil prevăzut la art. 101 alin. (2) lit. a) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, este în sumă de 3.000 lei."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul IV",
+      "content": "Prin derogare de la prevederile art. 101 alin. (2) lit. b) și c) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, începând cu veniturile din pensii aferente lunii octombrie 2024, acordate în baza Legii nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare, plafonul de venit neimpozabil lunar este de 3.000 lei. (la 12-09-2024, Actul a fost completat de ARTICOLUL UNIC din ORDONANȚA DE URGENȚĂ nr. 110 din 11 septembrie 2024, publicată în MONITORUL OFICIAL nr. 922 din 12 septembrie 2024 )"
+    }
+  ],
+  "definitions": []
+}

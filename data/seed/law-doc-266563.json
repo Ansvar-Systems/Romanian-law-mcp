@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-266563",
+  "type": "statute",
+  "title": "LEGE nr. 77 din 3 aprilie 2023",
+  "short_name": "lege 77 03 04 2023",
+  "status": "in_force",
+  "issued_date": "2023-04-03",
+  "in_force_date": "2023-04-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266563",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 77 03/04/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Tabelele-anexă nr. I și II la Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri, republicată în Monitorul Oficial al României, Partea I, nr. 163 din 6 martie 2014, cu modificările și completările ulterioare, se completează după cum urmează: 1. În tabelul nr. I, după substanța „N, N-dietil-2-[[4-(1-metiletox) fenil]metil]-5-nitro-1H-benzimidazol-l-etanamină isotonitazen)“ se introduc următoarele substanțe: 2-(metilamino)-1- (3-metilfenil) propan-1-onă (3-MMC) 1-(3-clorofenil)-2- (metilamino) propan-1-onă (3-CMC) 1-(1,3-Benzodioxol-5-y1)-2-(ethylamino)butan-1-one (Eutylone). 2. În tabelul nr. II, după substanța „Amineptine (7-[ (10,1l-dihydro-5H-dibenzo[a, d]-cyclohepten-5-yl)amino]heptanoic acid)“ se introduc următoarele substanțe: 1-{1-[1-(4-bromophenyl)ethyl]-piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-one (Brorphine) N, N-diethyl - 2 -(2 -(4 -methoxybenzyl) - 5 -nitro - 1 H-benzo [d]imidazol - 1 -yl)ethan - 1 - amine (Metonitazene)."
+    }
+  ],
+  "definitions": []
+}

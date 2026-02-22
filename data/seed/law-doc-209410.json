@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209410",
+  "type": "statute",
+  "title": "LEGE nr. 342 din 21 decembrie 2018",
+  "short_name": "lege 342 21 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-21",
+  "in_force_date": "2018-12-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209410",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 342 21/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 44 din 24 mai 2018 privind unele măsuri referitoare la aplicarea unor dispoziții și prelungirea unui termen prevăzute de Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale, precum și pentru completarea Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică, publicată în Monitorul Oficial al României, Partea I, nr. 454 din 31 mai 2018, cu următoarea modificare: – La articolul IV punctul 1 , alineatul (2^5) al articolului 3 se modifică și va avea următorul cuprins: (2^5) Răspunderea pentru sumele solicitate pentru restituire de către Compania Națională Poșta Română - S.A. revine exclusiv acesteia."
+    }
+  ],
+  "definitions": []
+}

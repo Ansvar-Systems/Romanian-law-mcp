@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-296473",
+  "type": "statute",
+  "title": "LEGE nr. 42 din 7 aprilie 2025",
+  "short_name": "lege 42 07 04 2025",
+  "status": "in_force",
+  "issued_date": "2025-04-07",
+  "in_force_date": "2025-04-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/296473",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 42 07/04/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie a treia săptămână din luna mai, anual, ca „Săptămâna națională a siguranței rutiere“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Pentru organizarea „Săptămânii naționale a siguranței rutiere“ se pot desfășura manifestări științifice, educative și cultural-artistice consacrate conștientizării și informării cetățenilor despre provocările și soluțiile privind creșterea siguranței rutiere, de către: a) Parlamentul României, în domeniul realizării unei legislații moderne, cu impact asupra creșterii siguranței rutiere, cu posibilitatea participării organizațiilor neguvernamentale, sindicale și patronale interesate; b) autoritățile și instituțiile publice implicate în implementarea Strategiei naționale privind siguranța rutieră pentru perioada 2022-2030, aprobată prin Hotărârea Guvernului nr. 682/2022 , cu modificările ulterioare, pe tema progreselor înregistrate în atingerea obiectivelor de siguranță rutieră, cu posibilitatea participării organizațiilor neguvernamentale, sindicale și patronale interesate; c) Ministerul Educației și Cercetării și Ministerul Afacerilor Interne, prin organizarea de activități practice de educație rutieră, în unitățile de învățământ preuniversitar și în spațiile publice, inclusiv concursuri locale, județene și naționale de tipul „Cea mai bună patrulă școlară de circulație din România“; d) Ministerul Transporturilor și Infrastructurii, prin prezentarea investițiilor în domeniul infrastructurii rutiere pentru creșterea siguranței rutiere."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În zilele de sâmbătă și duminică ale „Săptămânii naționale a siguranței rutiere“, Parlamentul României asigură proiecții reprezentative pe clădirea Palatului Parlamentului între orele 22:00 și 24:00."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Parlamentul României, prin comisiile reunite pentru apărare, ordine publică și siguranță națională, poate transmite anunțurile de interes public în cadrul acțiunilor de informare a publicului cu privire la organizarea fiecărei „Săptămâni naționale a siguranței rutiere“, în condițiile legii. (2) Furnizorii de servicii media audiovizuale pot difuza anunțurile de interes public prevăzute la alin. (1) ."
+    }
+  ],
+  "definitions": []
+}

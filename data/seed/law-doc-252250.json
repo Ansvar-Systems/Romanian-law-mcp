@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252250",
+  "type": "statute",
+  "title": "LEGE nr. 34 din 28 februarie 2022",
+  "short_name": "lege 34 28 02 2022",
+  "status": "in_force",
+  "issued_date": "2022-02-28",
+  "in_force_date": "2022-02-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252250",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 28/02/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 58 din 24 iunie 2021 privind instituirea unei scheme de ajutor de stat pentru susținerea activității crescătorilor din sectorul bovin, în anul 2021, în contextul crizei economice generate de pandemia de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 632 din 28 iunie 2021, cu următoarele modificări și completări: 1. La articolul 4 alineatul (1) litera c), punctul (i) se modifică și va avea următorul cuprins: (i) beneficiarul este persoană fizică autorizată PFA, întreprindere individuală - II, întreprindere familială - IF, iar animalele figurează în RNE, precum și în exploatație, la data de 31 ianuarie 2021, pe CNP-ul reprezentantului PFA, II, IF; 2. La articolul 13, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Controlul schemei de ajutor de stat se face de către Ministerul Agriculturii și Dezvoltării Rurale, prin agențiile subordonate."
+    }
+  ],
+  "definitions": []
+}

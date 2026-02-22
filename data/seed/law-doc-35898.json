@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35898",
+  "type": "statute",
+  "title": "LEGE nr. 10 din 29 iunie 1988",
+  "short_name": "lege 10 29 06 1988",
+  "status": "in_force",
+  "issued_date": "1988-06-29",
+  "in_force_date": "1988-06-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35898",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 29/06/1988",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretului Consiliului de Stat nr. 158/1988 privind unele măsuri de imbunatatire a activităţii de contractare şi livrare a lanii. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 29 iunie 1988. Preşedintele Marii Adunări Naţionale, NICOLAE GIOSAN --------------"
+    }
+  ],
+  "definitions": []
+}

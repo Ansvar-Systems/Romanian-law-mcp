@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-196721",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 5 ianuarie 2018",
+  "short_name": "lege 6 05 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196721",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 05/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Convenția Consiliului Europei referitoare la abordarea integrată a siguranței, securității și serviciilor la partidele de fotbal și la alte evenimente sportive, adoptată la Saint-Denis la 3 iulie 2016 și semnată de către partea română la Budapesta la 29 noiembrie 2016."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se aprobă încetarea valabilității, prin denunțare, în relația cu România, a Convenției europene privind violența și ieșirile necontrolate ale spectatorilor cu ocazia manifestărilor sportive, în special la meciurile de fotbal, adoptată la Strasbourg la 19 august 1985, ratificată de România prin Legea nr. 53/1998 , publicată în Monitorul Oficial al României, Partea I, nr. 108 din 10 martie 1998."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Afacerilor Externe face cunoscută, prin ordin publicat în Monitorul Oficial al României, Partea I, în conformitate cu prevederile art. 34 alin. (5) din Legea nr. 590/2003 privind tratatele, data la care convenția prevăzută la art. 2 își încetează valabilitatea în relație cu România."
+    }
+  ],
+  "definitions": []
+}

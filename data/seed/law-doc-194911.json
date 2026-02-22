@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-194911",
+  "type": "statute",
+  "title": "LEGE nr. 219 din 20 noiembrie 2017",
+  "short_name": "lege 219 20 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-20",
+  "in_force_date": "2017-11-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/194911",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 219 20/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 41 din 9 iunie 2017 privind unele măsuri pentru asigurarea participării României la procesul de relocare a instituțiilor/agențiilor Uniunii Europene, publicată în Monitorul Oficial al României, Partea I, nr. 429 din 9 iunie 2017."
+    }
+  ],
+  "definitions": []
+}

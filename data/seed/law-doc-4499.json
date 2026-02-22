@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-4499",
+  "type": "statute",
+  "title": "LEGE nr. 122 din 9 decembrie 1994",
+  "short_name": "lege 122 09 12 1994",
+  "status": "in_force",
+  "issued_date": "1994-12-09",
+  "in_force_date": "1994-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/4499",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 122 09/12/1994",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă următoarele ordonanțe ale Guvernului emise în temeiul art. 1 lit. j) din Legea nr. 72/1994 privind abilitarea Guvernului de a emite ordonanțe: 1. Ordonanța Guvernului nr. 52 din 12 august 1994 privind reglementarea administrării și conservării patrimoniului unităților de învățământ, publicată în Monitorul Oficial al României, Partea I, nr. 242 din 29 august 1994, cu modificarea art. 1 , care va avea următorul cuprins: Articol 1 Baza materială a învățământului de stat se constituie atât din activul patrimonial al Ministerului Învățământului, al unităților și instituțiilor de învățământ și de cercetare științifică din sistemul învățământului de stat existent la data intrării în vigoare a prezentei ordonanțe, cît și activul patrimonial redobândit sau dobândit ulterior. 2. Ordonanța Guvernului nr. 64 din 24 august 1994 privind măsuri de regularizare a regimului spațiilor și dotărilor care au aparținut institutelor de cercetare și proiectare tehnologică și întreprinderilor care le-au patronat, publicată în Monitorul Oficial al României, Partea I, nr. 245 din 30 august 1994."
+    }
+  ],
+  "definitions": []
+}

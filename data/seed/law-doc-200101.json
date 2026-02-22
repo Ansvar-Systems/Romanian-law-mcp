@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200101",
+  "type": "statute",
+  "title": "LEGE nr. 92 din 19 aprilie 2018",
+  "short_name": "lege 92 19 04 2018",
+  "status": "in_force",
+  "issued_date": "2018-04-19",
+  "in_force_date": "2018-04-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200101",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 92 19/04/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de parteneriat strategic dintre Uniunea Europeană și statele membre ale acesteia, pe de o parte, și Canada, pe de altă parte, semnat la Bruxelles la 30 octombrie 2016."
+    }
+  ],
+  "definitions": []
+}

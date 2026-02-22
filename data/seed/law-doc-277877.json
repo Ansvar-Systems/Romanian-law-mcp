@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277877",
+  "type": "statute",
+  "title": "LEGE nr. 430 din 29 decembrie 2023",
+  "short_name": "lege 430 29 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-29",
+  "in_force_date": "2023-12-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277877",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 430 29/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 299 din Legea nr. 286/2009 privind Codul penal , publicată în Monitorul Oficial al României, Partea I, nr. 510 din 24 iulie 2009, cu modificările și completările ulterioare, după alineatul (2) se introduce un nou alineat, alin. (3), cu următorul cuprins: (3) Dacă faptele prevăzute la alin. (1) și (2) au fost săvârșite de către personalul didactic din învățământul universitar sau preuniversitar împotriva unui elev sau student, limitele speciale ale pedepsei se majorează cu o treime."
+    }
+  ],
+  "definitions": []
+}

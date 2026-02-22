@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-178859",
+  "type": "statute",
+  "title": "LEGE nr. 114 din 27 mai 2016",
+  "short_name": "lege 114 27 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-27",
+  "in_force_date": "2016-05-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178859",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 114 27/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanţa de urgenţă a Guvernului nr. 23/2008 privind pescuitul şi acvacultura, publicată în Monitorul Oficial al României, Partea I, nr. 180 din 10 martie 2008, aprobată cu modificări şi completări prin Legea nr. 317/2009 , cu modificările şi completările ulterioare, se modifică şi se completează după cum urmează: 1. La articolul 43, alineatul (1) se modifică şi va avea următorul cuprins: \"Art. 43. - (1) Acvacultura se practică în amenajări piscicole de apă dulce şi marine.\" 2. După articolul 46^1 se introduc două noi articole, articolele 46^2 şi 46^3, cu următorul cuprins: \"Art. 46^2. - (1) Acvacultura marină se practică în viviere, situate în medii acvatice naturale. (2) Acvacultura marină se realizează prin concesionarea luciului de apă marină şi a accesului la acesta de către autoritatea administrativă responsabilă cu gospodărirea apelor, pe o perioadă de 10 ani, cu posibilitatea prelungirii, în condiţiile legii. Art. 46^3. - (1) Termenii şi condiţiile de acordare şi retragere a autorizaţiei pentru acvacultura marină se stabilesc prin ordin al autorităţii publice centrale care răspunde de pescuit şi acvacultură, prin Agenţia Naţională pentru Pescuit şi Acvacultură. (2) Introducerea speciilor de peşti şi a altor culturi în amenajările marine, indiferent de provenienţa lor, se face cu avizul autorităţii publice centrale care răspunde de pescuit şi acvacultură şi al autorităţii publice centrale care răspunde de mediu.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 90 de zile de la intrarea în vigoare a prezentei legi, autorităţile administraţiei publice centrale vor elabora normele de implementare şi condiţiile specifice pentru practicarea acvaculturii marine."
+    }
+  ],
+  "definitions": []
+}

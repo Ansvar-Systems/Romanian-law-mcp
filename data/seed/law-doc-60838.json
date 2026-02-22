@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-60838",
+  "type": "statute",
+  "title": "LEGE nr. 90 din 13 aprilie 2005",
+  "short_name": "lege 90 13 04 2005",
+  "status": "in_force",
+  "issued_date": "2005-04-13",
+  "in_force_date": "2005-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/60838",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 90 13/04/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 3 din 27 ianuarie 2005 pentru modificarea și completarea Legii nr. 115/1999 privind responsabilitatea ministerială, publicată în Monitorul Oficial al României, Partea I, nr. 116 din 4 februarie 2005, cu următoarele modificări: 1. La articolul I punctul 5, alineatul (2) al articolului 24 va avea următorul cuprins: (2) Urmărirea penală și judecarea foștilor membri ai Guvernului pentru infracțiunile săvârșite în exercițiul funcției lor, astfel cum acestea sunt prevăzute de art. 7-11, se efectuează potrivit normelor de procedură penală de drept comun. 2. La articolul I punctul 6, alineatul (3) al articolului 24 va avea următorul cuprins: (3) Prevederile de ordin procedural ale prezentei legi nu se aplică foștilor membri ai Guvernului în nici o situație."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 115/1999 privind responsabilitatea ministerială, republicată în Monitorul Oficial al României, Partea I, nr. 334 din 20 mai 2002, cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

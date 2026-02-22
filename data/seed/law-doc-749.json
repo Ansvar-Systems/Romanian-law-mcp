@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-749",
+  "type": "statute",
+  "title": "LEGEA nr. 13 din 7 august 1990",
+  "short_name": "lege 13 07 08 1990",
+  "status": "in_force",
+  "issued_date": "1990-08-07",
+  "in_force_date": "1990-08-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/749",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 13 07/08/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se abroga dispoziţiile art. 8 din Legea nr. 2/1987 privind conservarea, protejarea şi dezvoltarea pădurilor, exploatarea lor raţională economică şi menţinerea echilibrului ecologic."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se modifica alin. 1 din art. 11 al Legii nr. 2/1987 după cum urmează: \"Volumul de masa lemnoasă ce se recolteaza anual, pe zone geografice şi destinaţii, se aproba prin lege, la propunerea guvernului.\" Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din ziua de 30 iulie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN Această lege a fost adoptată de Senat în şedinţa din ziua de 31 iulie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea pentru abrogarea şi modificarea unor dispoziţii ale Legii nr. 2/1987 şi dispunem publicarea sa în Monitorul Oficial. PREŞEDINTELE ROMÂNIEI ION ILIESCU ---------------------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-221911",
+  "type": "statute",
+  "title": "LEGE nr. 258 din 24 decembrie 2019",
+  "short_name": "lege 258 24 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-24",
+  "in_force_date": "2019-12-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221911",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 258 24/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acceptă Protocolul , deschis spre semnare la Luxemburg la 8 iunie 2017, de modificare a Tratatului referitor la Sistemul european de informații privind vehiculele și permisele de conducere (EUCARIS) , semnat la Luxemburg la 29 iunie 2000, la care România a aderat prin Legea nr. 241/2011 ."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "La articolul 11^5 alineatul (1) din Ordonanța Guvernului nr. 83/2001 privind înființarea, organizarea și funcționarea serviciilor publice comunitare pentru eliberarea și evidența pașapoartelor simple și serviciilor publice comunitare regim permise de conducere și înmatriculare a vehiculelor, publicată în Monitorul Oficial al României, Partea I, nr. 543 din 1 septembrie 2001, aprobată cu modificări și completări prin Legea nr. 362/2002 , cu modificările și completările ulterioare, litera k) se modifică și va avea următorul cuprins: k) îndeplinește funcția de punct național de contact pentru Tratatul EUCARIS și instrumentele PRUM - schimbul de date privind vehiculele înmatriculate, calitate în care acordă accesul automat la datele proprii pentru autoritățile competente din statele Uniunii Europene, statele părți și terțele părți la EUCARIS, în condițiile instrumentelor juridice menționate, precum și accesul autorităților române competente la datele similare ale statelor Uniunii Europene, ale statelor părți și terțelor părți la EUCARIS. Desemnarea autorităților române competente, în funcție de competențele specifice pentru Tratatul EUCARIS și instrumentele PRUM - schimbul de date privind vehiculele înmatriculate, precum și stabilirea procedurilor și a regulilor de prelucrare a datelor cu respectarea cărora se realizează comunicarea se stabilesc prin hotărâre a Guvernului;"
+    }
+  ],
+  "definitions": []
+}

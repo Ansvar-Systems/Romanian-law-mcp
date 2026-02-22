@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-284003",
+  "type": "statute",
+  "title": "LEGE nr. 185 din 12 iunie 2024",
+  "short_name": "lege 185 12 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-12",
+  "in_force_date": "2024-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/284003",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 185 12/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 333 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, publicată în Monitorul Oficial al României, Partea I, nr. 555 din 5 iulie 2019, cu modificările și completările ulterioare, după alineatul (4) se introduce un nou alineat, alin. (4^1), cu următorul cuprins: (4^1) Prin excepție de la prevederile alin. (3) și (4), Ministerul Culturii și instituțiile publice aflate în subordinea acestuia au dreptul să încaseze din chirie o cotă-parte de 50%, stabilită, după caz, prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

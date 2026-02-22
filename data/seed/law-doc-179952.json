@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-179952",
+  "type": "statute",
+  "title": "LEGE nr. 129 din 7 iulie 2016",
+  "short_name": "lege 129 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/179952",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 129 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 59 din 30 septembrie 2014 cu privire la rectificarea bugetului de stat pe anul 2014, publicată în Monitorul Oficial al României, Partea I, nr. 718 din 1 octombrie 2014."
+    }
+  ],
+  "definitions": []
+}

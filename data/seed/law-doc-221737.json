@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221737",
+  "type": "statute",
+  "title": "LEGE nr. 256 din 24 decembrie 2019",
+  "short_name": "lege 256 24 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-24",
+  "in_force_date": "2019-12-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221737",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 256 24/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 320 din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 320 (1) Persoanele care prin faptele lor aduc daune sănătății altei persoane, precum și daune sănătății propriei persoane, din culpă, răspund potrivit legii și au obligația să repare prejudiciul cauzat furnizorului de servicii medicale reprezentând cheltuielile efective ocazionate de asistența medicală acordată. Sumele reprezentând cheltuielile efective vor fi recuperate de către furnizorii de servicii medicale. Pentru litigiile având ca obiect recuperarea acestor sume, furnizorii de servicii medicale se subrogă în toate drepturile și obligațiile procesuale ale caselor de asigurări de sănătate și dobândesc calitatea procesuală a acestora în toate procesele și cererile aflate pe rolul instanțelor judecătorești, indiferent de faza de judecată. Cheltuielile efective ocazionate de asistența medicală acordată nu pot fi recuperate de la victimele agresiunilor sau ale accidentelor cu autor neidentificabil, fiind decontate din Fondul național unic de asigurări sociale de sănătate (FNUASS)."
+    }
+  ],
+  "definitions": []
+}

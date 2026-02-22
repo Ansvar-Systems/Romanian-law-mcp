@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-302610",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 29 septembrie 2025",
+  "short_name": "lege 144 29 09 2025",
+  "status": "in_force",
+  "issued_date": "2025-09-29",
+  "in_force_date": "2025-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/302610",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 29/09/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie anul 2025 ca „Anul cultural Mihai Eminescu“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot organiza sau sprijini logistic și material manifestări culturale, artistice sau educaționale dedicate celebrării vieții și activității lui Mihai Eminescu. (2) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii în vederea organizării și derulării în bune condiții a manifestărilor prevăzute la alin. (1) , în limita alocărilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

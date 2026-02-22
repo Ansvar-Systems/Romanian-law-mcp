@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-234424",
+  "type": "statute",
+  "title": "LEGE nr. 283 din 8 decembrie 2020",
+  "short_name": "lege 283 08 12 2020",
+  "status": "in_force",
+  "issued_date": "2020-12-08",
+  "in_force_date": "2020-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/234424",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 283 08/12/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție, publicată în Monitorul Oficial al României, Partea I, nr. 219 din 18 mai 2000, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 18^1, alineatele (1) și (2) vor avea următorul cuprins: Articolul 18^1 (1) Folosirea sau prezentarea de documente ori declarații false, inexacte sau incomplete, dacă fapta are ca rezultat obținerea pe nedrept sau reținerea pe nedrept de fonduri ori active din bugetul Uniunii Europene sau bugetele administrate de aceasta ori în numele ei, se pedepsește cu închisoare de la 2 la 7 ani și interzicerea exercitării unor drepturi. (2) Cu pedeapsa prevăzută la alin. (1) se sancționează omisiunea de a furniza, cu știință, datele cerute potrivit prevederilor legale pentru obținerea sau reținerea de fonduri ori active din bugetul Uniunii Europene sau bugetele administrate de aceasta ori în numele ei, dacă fapta are ca rezultat obținerea pe nedrept sau reținerea pe nedrept a acestor fonduri ori active. 2. La articolul 18^2, alineatele (1) și (2) vor avea următorul cuprins: Articolul 18^2 (1) Schimbarea, fără respectarea prevederilor legale, a destinației fondurilor sau activelor obținute ori reținute din bugetul Uniunii Europene sau din bugetele administrate de aceasta ori în numele ei se pedepsește cu închisoare de la un an la 5 ani și interzicerea exercitării unor drepturi. (2) Schimbarea, fără respectarea prevederilor legale, a destinației unui folos legal obținut, dacă fapta are ca rezultat diminuarea ilegală a resurselor din bugetul Uniunii Europene sau din bugetele administrate de aceasta ori în numele ei, se sancționează cu pedeapsa prevăzută la alin. (1). 3. La articolul 18^3, alineatele (1) și (2) vor avea următorul cuprins: Articolul 18^3 (1) Folosirea sau prezentarea de documente ori declarații false, inexacte sau incomplete, care are ca rezultat diminuarea ilegală a resurselor ce trebuie virate către bugetul Uniunii Europene sau către bugetele administrate de aceasta ori în numele ei, se pedepsește cu închisoare de la 2 la 7 ani și interzicerea exercitării unor drepturi. (2) Cu pedeapsa prevăzută la alin. (1) se sancționează omisiunea de a furniza, cu știință, datele cerute potrivit prevederilor legale, dacă fapta are ca rezultat diminuarea ilegală a resurselor ce trebuie virate către bugetul Uniunii Europene sau către bugetele administrate de aceasta ori în numele ei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Dispozițiile art. 306 , 307 și 309 din Legea nr. 286/2009 privind Codul penal , cu modificările și completările ulterioare, se aplică în mod corespunzător și în cazul în care infracțiunile sunt săvârșite de persoanele prevăzute la art. 294 din Legea nr. 286/2009 , cu modificările și completările ulterioare, dacă, prin tratatele internaționale la care România este parte, nu se dispune altfel."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Ministerul Public furnizează Comisiei, anual, datele statistice disponibile, solicitate potrivit art. 18 din Directiva (UE) 2017/1.371 a Parlamentului European și a Consiliului din 5 iulie 2017 privind combaterea fraudelor îndreptate împotriva intereselor financiare ale Uniunii prin mijloace de drept penal."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul IV",
+      "content": "Autoritățile administrative și judiciare naționale respectă cerințele privind confidențialitatea și protecția datelor cu caracter personal, cu ocazia schimbului de informații pe care îl fac cu Comisia, potrivit prevederilor aplicabile în domeniu, pentru fiecare caz în parte."
+    }
+  ],
+  "definitions": []
+}

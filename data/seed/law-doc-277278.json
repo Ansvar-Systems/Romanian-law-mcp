@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277278",
+  "type": "statute",
+  "title": "LEGE nr. 389 din 12 decembrie 2023",
+  "short_name": "lege 389 12 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-12",
+  "in_force_date": "2023-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277278",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 389 12/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 170 din 8 decembrie 2022 privind aprobarea unor măsuri pentru consolidarea capacității administrative a Ministerului Investițiilor și Proiectelor Europene de gestionare a programelor operaționale pentru perioada de programare 2021-2027, publicată în Monitorul Oficial al României, Partea I, nr. 1192 din 12 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

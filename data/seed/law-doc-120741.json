@@ -1,0 +1,31 @@
+{
+  "id": "law-doc-120741",
+  "type": "statute",
+  "title": "LEGE nr. 165 din 14 iulie 2010",
+  "short_name": "lege 165 14 07 2010",
+  "status": "in_force",
+  "issued_date": "2010-07-14",
+  "in_force_date": "2010-07-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/120741",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 165 14/07/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 88 din 30 iunie 2009 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 452 din 1 iulie 2009, cu următoarele completări: – La articolul I, după punctul 1 se introduc trei noi puncte, punctele 1^1-1^3, cu următorul cuprins: 1^1. La articolul 60, litera d) se modifică și va avea următorul cuprins: d) medic de medicină generală - absolvent al facultății de medicină sau pediatrie din România, promoție anterioară anului 2005, care nu a dobândit calificarea de medic specialist, dar a întrunit condițiile de exercitare a profesiei în baza prevederilor anterioare prezentei legi. De aceste prevederi beneficiază și titularii diplomei de medic, obținută anterior anului 2005 în străinătate și echivalată în România, care nu au dobândit calificarea de medic specialist, dar au întrunit condițiile de exercitare a profesiei în baza prevederilor anterioare prezentei legi;. 1^2. La articolul 69, alineatul (2) se modifică și va avea următorul cuprins: (2) Contractarea și decontarea serviciilor de medicină de familie de către casele de asigurări de sănătate județene și a municipiului București, Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești, precum și Casa Asigurărilor de Sănătate a Ministerului Transporturilor, Construcțiilor și Turismului se fac pentru următoarele categorii de medici: a) medicii prevăzuți la art. 60 lit. d); b) medicii cetățeni ai unui stat membru al Uniunii Europene, ai unui alt stat aparținând Spațiului Economic European sau ai Confederației Elvețiene, în înțelesul art. 370 lit. b) și al art. 371 alin. (1), formați în profesie în unul dintre aceste state, care la data de 1 ianuarie 2007 erau stabiliți pe teritoriul României și care, în urma recunoașterii calificării profesionale beneficiau, la această dată, de dreptul de exercitare în cadrul sistemului național al asigurărilor de sănătate a activităților din domeniul specialității medicină de familie, fără titlul de medic specialist medicină de familie; c) medicii confirmați specialiști în una dintre specialitățile medicină generală adulți, medicină generală copii, medicină generală, medicină generală/medicină de familie, medicină de familie; d) medicii titulari ai certificatului care atestă formarea specifică a medicului generalist, dobândită în unul dintre statele prevăzute la lit. b), precum și medicii titulari ai certificatului de drept câștigat de medic generalist, eliberat de unul dintre aceste state, în cazul cărora s-au aplicat procedurile prevăzute la art. 388-390, art. 396 și art. 397.» 1^3. La articolul 380, litera a) a alineatului (1) se modifică și va avea următorul cuprins: a) medic de medicină generală pentru medicii care întrunesc condițiile prevăzute la art. 60 lit. d); Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (1) din Constituția României, republicată ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se modifică și va avea următorul cuprins",
+      "definition": "d) medic de medicină generală - absolvent al facultății de medicină sau pediatrie din România, promoție anterioară anului 2005, care nu a dobândit calificarea de medic specialist, dar a întrunit condițiile de exercitare a profesiei în baza prevederilor anterioare prezentei legi",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "a alineatului (1) se modifică și va avea următorul cuprins",
+      "definition": "a) medic de medicină generală pentru medicii care întrunesc condițiile prevăzute la art. 60 lit",
+      "source_provision": "Art.1"
+    }
+  ]
+}

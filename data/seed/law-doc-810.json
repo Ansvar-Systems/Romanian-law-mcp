@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-810",
+  "type": "statute",
+  "title": "LEGEA nr. 36 din 7 decembrie 1990",
+  "short_name": "lege 36 07 12 1990",
+  "status": "in_force",
+  "issued_date": "1990-12-07",
+  "in_force_date": "1990-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/810",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 07/12/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Guvernul va putea stabili sau modifica taxe şi impozite ce constituie venit pentru bugetul statului. Prevederile alin. 1 se aplică numai pe o perioadă de 6 luni de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Pînă la expirarea termenului de 6 luni, guvernul va supune spre adoptare parlamentului legea pentru aprobarea taxelor şi impozitelor stabilite sau modificate potrivit art. 1. Această lege a fost adoptată de Senat în şedinţa sa din ziua de 29 noiembrie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa sa din ziua de 3 decembrie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea privind autorizarea guvernului de a stabili sau modifica taxe şi impozite şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU --------------------"
+    }
+  ],
+  "definitions": []
+}

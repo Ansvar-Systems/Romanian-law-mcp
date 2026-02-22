@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-267156",
+  "type": "statute",
+  "title": "LEGE nr. 100 din 13 aprilie 2023",
+  "short_name": "lege 100 13 04 2023",
+  "status": "in_force",
+  "issued_date": "2023-04-13",
+  "in_force_date": "2023-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/267156",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 100 13/04/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 54 din 21 aprilie 2022 pentru completarea Legii nr. 99/2016 privind achizițiile sectoriale, publicată în Monitorul Oficial al României, Partea I, nr. 393 din 21 aprilie 2022, cu următoarea completare: – La articolul unic punctul 1 , la articolul 117^1 se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) În cazul proiectelor de producție a energiei electrice și termice cu emisii reduse de carbon, bazate pe tehnologii nucleare, atribuirea contractelor sectoriale se realizează prin procedura de negociere, fără o invitație prealabilă la o procedură concurențială de ofertare, indiferent de stadiul fizic al obiectivului de investiții."
+    }
+  ],
+  "definitions": []
+}

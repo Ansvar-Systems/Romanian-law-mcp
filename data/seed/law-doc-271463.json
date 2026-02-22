@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271463",
+  "type": "statute",
+  "title": "LEGE nr. 172 din 19 iunie 2023",
+  "short_name": "lege 172 19 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-19",
+  "in_force_date": "2023-06-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271463",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 172 19/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 78 din 9 iunie 2022 privind unele măsuri pentru ocuparea posturilor aferente funcțiilor publice vacante și temporar vacante care au atribuții în implementarea Planului național de redresare și reziliență al României, publicată în Monitorul Oficial al României, Partea I, nr. 566 din 9 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

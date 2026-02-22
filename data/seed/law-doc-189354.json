@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-189354",
+  "type": "statute",
+  "title": "LEGE nr. 102 din 16 mai 2017",
+  "short_name": "lege 102 16 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-16",
+  "in_force_date": "2017-05-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189354",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 102 16/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul de împrumut (Cel de-al doilea împrumut pentru politici de dezvoltare privind eficientizarea finanţelor publice şi creşterea economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, în valoare de 500 milioane euro, semnat la Bucureşti la 20 decembrie 2016, denumit în continuare Acord."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele trase din împrumut şi virate în contul de valută deschis pe numele Ministerului Finanţelor Publice la Banca Naţională a României se utilizează pe măsura necesităţilor de finanţare a deficitului bugetului de stat şi refinanţării datoriei publice guvernamentale, în conformitate cu prevederile Ordonanţei de urgenţă a Guvernului nr. 64/2007 privind datoria publică, aprobată cu modificări şi completări prin Legea nr. 109/2008 , cu modificările şi completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Plata serviciului datoriei publice aferent împrumutului, respectiv rambursarea capitalului, achitarea dobânzilor, comisioanelor şi a altor costuri aferente împrumutului se asigură conform legislaţiei în vigoare privind datoria publică, prin mecanismul aferent finanţărilor rambursabile contractate de Guvernul României, prin Ministerul Finanţelor Publice, în vederea finanţării deficitului bugetului de stat şi refinanţării datoriei publice guvernamentale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Se autorizează Guvernul României ca, prin Ministerul Finanţelor Publice, să convină cu Banca Internaţională pentru Reconstrucţie şi Dezvoltare amendamente la conţinutul Acordului de împrumut care nu sunt de natură să majoreze obligaţiile financiare asumate de România faţă de Banca Internaţională pentru Reconstrucţie şi Dezvoltare. (2) Amendamentele convenite potrivit alin. (1) se aprobă prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-21122",
+  "type": "statute",
+  "title": "LEGE nr. 26 din 23 iulie 1975",
+  "short_name": "lege 26 23 07 1975",
+  "status": "in_force",
+  "issued_date": "1975-07-23",
+  "in_force_date": "1975-07-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21122",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 26 23/07/1975",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 59/1975 privind stabilirea vechimii necesare pentru promovarea în funcţie (meserie) pe nivele de calificare sau categorii de încadrare superioare a personalului operativ şi muncitorilor din unităţile de turism încadraţi în activitatea de producţie prin policalificare, în perioada din afară sezonului. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 23 iulie 1975. Preşedintele Marii Adunări Naţionale, NICOLAE GIOSAN -----"
+    }
+  ],
+  "definitions": []
+}

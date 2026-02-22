@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209438",
+  "type": "statute",
+  "title": "LEGE nr. 338 din 21 decembrie 2018",
+  "short_name": "lege 338 21 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-21",
+  "in_force_date": "2018-12-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209438",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 338 21/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 59 din 28 iunie 2018 privind înființarea, organizarea și funcționarea Autorității Naționale pentru Formare Profesională Inițială în Sistem Dual din România, publicată în Monitorul Oficial al României, Partea I, nr. 580 din 9 iulie 2018, cu următoarele modificări: – La articolul 3, literele c) și d) se modifică și vor avea următorul cuprins: c) identificarea, anticiparea și analiza periodică a nevoilor de competențe și noi calificări cerute de piața forței de muncă; d) reglementarea și asigurarea calității formării profesionale inițiale în sistem dual a elevilor, precum și a personalului de specialitate implicat în formarea profesională practică prin învățământul dual din cadrul unităților de învățământ și al operatorilor economici;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-55622",
+  "type": "statute",
+  "title": "LEGE nr. 365 din 15 septembrie 2004",
+  "short_name": "lege 365 15 09 2004",
+  "status": "in_force",
+  "issued_date": "2004-09-15",
+  "in_force_date": "2004-09-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/55622",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 365 15/09/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Convenția Națiunilor Unite împotriva corupției, adoptată la New York la 31 octombrie 2003, semnată de România la Merida la 9 decembrie 2003."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu ocazia depunerii instrumentului de ratificare, în baza art. 46 pct. 13 din convenție , se notifică depozitarului următoarele: a) cererile de asistență judiciară din faza de cercetare și urmărire penală vor fi adresate Parchetului de pe lângă Înalta Curte de Casație și Justiție; b) cererile de asistență judiciară din faza de judecată și de executare a pedepsei vor fi adresate Ministerului Justiției. (2) De asemenea, în condițiile menționate la alin. (1) , se notifică depozitarului următoarele: – cererile de extrădare și cererile privind transferarea persoanelor condamnate vor fi adresate Ministerului Justiției."
+    }
+  ],
+  "definitions": []
+}

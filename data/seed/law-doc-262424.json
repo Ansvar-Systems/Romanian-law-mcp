@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262424",
+  "type": "statute",
+  "title": "LEGE nr. 347 din 12 decembrie 2022",
+  "short_name": "lege 347 12 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-12",
+  "in_force_date": "2022-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262424",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 347 12/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea nr. 307/2013 pentru ratificarea Convenției cu privire la construirea și exploatarea unui Centru de cercetare în domeniul antiprotonilor și al ionilor în Europa, semnată la Wiesbaden la 4 octombrie 2010, publicată în Monitorul Oficial al României, Partea I, nr. 748 din 3 decembrie 2013, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 3, alineatul (2) va avea următorul cuprins: (2) Contribuția României, în numerar și în natură, la construirea Centrului de cercetare în domeniul antiprotonilor și al ionilor în Europa este de 22,93 milioane euro, la nivelul prețurilor din 2005, eșalonată în perioada 2011-2027. 2. În tot cuprinsul legii, sintagma „Ministerul Cercetării și Inovării“ va fi înlocuită cu sintagma „Ministerul Cercetării, Inovării și Digitalizării.“"
+    }
+  ],
+  "definitions": []
+}

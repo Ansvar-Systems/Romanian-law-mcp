@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-159672",
+  "type": "statute",
+  "title": "LEGE nr. 100 din 4 iulie 2014",
+  "short_name": "lege 100 04 07 2014",
+  "status": "in_force",
+  "issued_date": "2014-07-04",
+  "in_force_date": "2014-07-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/159672",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 100 04/07/2014",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 8 din 29 ianuarie 2010 pentru modificarea și completarea Ordonanței Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România, adoptată în temeiul art. 1 pct. IV. 3 din Legea nr. 9/2010 privind abilitarea Guvernului de a emite ordonanțe, și publicată în Monitorul Oficial al României, Partea I, nr. 70 din 30 ianuarie 2010, cu următoarele modificări și completări: 1. La articolul I punctul 2, litera n) a alineatului (1) al articolului 1 se modifică și va avea următorul cuprins: n) sistem informatic de emitere, gestiune, monitorizare și control al rovinietei - sistemul informatic ce permite achitarea tarifului de utilizare prin mijloace electronice, gestiunea datelor privind vehiculele cu drept de utilizare, monitorizarea și controlul achitării tarifului de utilizare, denumit în continuare SIEGMCR. 2. La articolul I, după punctul 9 se introduce un nou punct, punctul 9^1, cu următorul cuprins: 9^1. La articolul 1, după alineatul (12) se introduce un nou alineat, alineatul (13), cu următorul cuprins: (13) În cazul schimbării numărului de înmatriculare a vehiculului, rovinieta își menține valabilitatea în condițiile în care în baza de date a autorității de înmatriculare este operată modificarea respectivă. Autoritatea de înmatriculare este obligată să asigure, pe bază de protocol, accesul zilnic al Companiei Naționale de Autostrăzi și Drumuri Naționale din România - S.A. la baza de date privind modificările cu privire la schimbarea numărului de înmatriculare. 3. La articolul I punctul 10, punctul (i) al literei a) a alineatului (1) al articolului 3 se modifică și va avea următorul cuprins: (i) unitățile Ministerului Apărării Naționale, ale Serviciului Român de Informații, ale Serviciului de Informații Externe, ale Serviciului de Telecomunicații Speciale și ale Administrației Naționale a Penitenciarelor; 4. La articolul I, după punctul 10 se introduce un nou punct, punctul 10^1, cu următorul cuprins: 10^1. La articolul 3, după punctul (vi) al literei a) a alineatului (1) se introduce un nou punct, punctul (vii), cu următorul cuprins: (vii) Societatea Națională de Cruce Roșie din România. 5. La articolul I, punctul 18 se abrogă. 6. La articolul I punctul 19, articolul 14 se modifică și va avea următorul cuprins: Articolul 14 Anexele nr. 1 și 2 fac parte integrantă din prezenta ordonanță."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile art. 1 alin. (13) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România, aprobată cu modificări și completări prin Legea nr. 424/2002 , cu modificările și completările ulterioare, astfel cum aceasta a fost modificată și completată prin prezenta lege, intră în vigoare la 6 luni de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

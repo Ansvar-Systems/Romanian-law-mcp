@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-123168",
+  "type": "statute",
+  "title": "LEGE nr. 180 din 14 octombrie 2010",
+  "short_name": "lege 180 14 10 2010",
+  "status": "in_force",
+  "issued_date": "2010-10-14",
+  "in_force_date": "2010-10-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/123168",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 180 14/10/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Guvernul Republicii Cipru privind recunoaşterea reciprocă a calificărilor obţinute în învăţământul superior pentru continuarea studiilor în instituţii de învăţământ superior din cele două ţări, semnat la Bucureşti la 22 mai 2009."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Educaţiei, Cercetării, Tineretului şi Sportului adoptă măsurile necesare pentru îndeplinirea dispoziţiilor prezentului acord. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ROBERTA ALMA ANASTASE PREŞEDINTELE SENATULUI MIRCEA-DAN GEOANĂ Bucureşti, 14 octombrie 2010. Nr. 180."
+    }
+  ],
+  "definitions": []
+}

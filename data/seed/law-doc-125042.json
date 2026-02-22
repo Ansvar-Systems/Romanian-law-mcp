@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-125042",
+  "type": "statute",
+  "title": "LEGE nr. 282 din 28 decembrie 2010",
+  "short_name": "lege 282 28 12 2010",
+  "status": "in_force",
+  "issued_date": "2010-12-28",
+  "in_force_date": "2010-12-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/125042",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 282 28/12/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prin derogare de la dispozițiile art. 31 alin. (2) din Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice «Gheorghe Ionescu-Șișești» și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, cu modificările și completările ulterioare, se aprobă transmiterea unui teren, situat în comuna Cordun, județul Neamț, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului și din administrarea Stațiunii de Cercetare și Producție pentru Cultura și Industrializarea Sfeclei de Zahăr Roman, județul Neamț, în domeniul public al județului Neamț și în administrarea Consiliului Județean Neamț, în vederea realizării unor stații de transfer și sortare în cadrul proiectului «Sistem de management integrat al deșeurilor în județul Neamț», precum și a realizării infrastructurii rutiere de acces către acestea. (la 30-07-2021, Alineatul (1) din Articolul 1 a fost modificat de Punctul 2, ARTICOLUL UNIC din LEGEA nr. 224 din 26 iulie 2021, publicată în MONITORUL OFICIAL nr. 735 din 27 iulie 2021 ) (2) Predarea-preluarea terenului prevăzut la alin. (1) se face pe bază de protocol încheiat între părțile interesate, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Numărul curent 1 din anexa nr. 6 la Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice \"Gheorghe Ionescu-Șișești\" și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, publicată în Monitorul Oficial al României, Partea I, nr. 200 din 30 martie 2009, cu modificările ulterioare, se modifică în mod corespunzător."
+    }
+  ],
+  "definitions": []
+}

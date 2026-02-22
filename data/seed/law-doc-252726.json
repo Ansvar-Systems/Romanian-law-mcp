@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252726",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 18 martie 2022",
+  "short_name": "lege 60 18 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-18",
+  "in_force_date": "2022-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252726",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 18/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 185 din 28 octombrie 2020 pentru modificarea și completarea art. 1 din Ordonanța de urgență a Guvernului nr. 5/2019 privind aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a unei cantități de păcură necesare asigurării, pe perioada de iarnă, a agentului termic pentru încălzirea populației din municipiul Drobeta-Turnu Severin, județul Mehedinți, publicată în Monitorul Oficial al României, Partea I, nr. 1005 din 29 octombrie 2020."
+    }
+  ],
+  "definitions": []
+}

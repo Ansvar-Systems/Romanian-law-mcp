@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303814",
+  "type": "statute",
+  "title": "LEGE nr. 172 din 30 octombrie 2025",
+  "short_name": "lege 172 30 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-30",
+  "in_force_date": "2025-10-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303814",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 172 30/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 93 din 29 iunie 2022 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule, publicată în Monitorul Oficial al României, Partea I, nr. 646 din 29 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

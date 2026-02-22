@@ -1,0 +1,34 @@
+{
+  "id": "law-doc-284563",
+  "type": "statute",
+  "title": "LEGE nr. 201 din 25 iunie 2024",
+  "short_name": "lege 201 25 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-25",
+  "in_force_date": "2024-06-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/284563",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 201 25/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După articolul 27 din Legea Arhivelor Naționale nr. 16/1996 , republicată în Monitorul Oficial al României, Partea I, nr. 293 din 22 aprilie 2014, cu modificările și completările ulterioare, se introduce o nouă secțiune, secțiunea a V-a, cuprinzând articolul 27^1, cu următorul cuprins: Secţiunea a V-a Obligații referitoare la documentele electronice Articolul 27^1 (1) Creatorii și deținătorii au următoarele obligații referitoare la documentele electronice: a) să le administreze astfel încât să asigure păstrarea integrității, autenticității și posibilității de utilizare a acestora, atât în perioada folosirii curente, cât și în depozitul de arhivă; b) să adopte un sistem de management arhivistic, aprobat de Arhivele Naționale, care să respecte procedurile specifice privind organizarea și desfășurarea activității arhivistice a documentelor electronice; c) să implementeze mecanisme tehnice care să asigure accesul și modificarea datelor de o manieră controlată, identificabilă și databilă; d) să implementeze soluții tehnice care să permită exportul datelor din sistem conform sistemului de management arhivistic aprobat de Arhivele Naționale. (2) Procedurile specifice privind organizarea și desfășurarea activității arhivistice a documentelor electronice se stabilesc prin ordin al ministrului afacerilor interne, la propunerea Arhivelor Naționale. (3) Formatele agreate pentru documentele electronice cu termen de păstrare permanent se aprobă prin dispoziție a directorului Arhivelor Naționale, care se publică pe pagina de internet a instituției. Obligația conversiei datelor în formatele agreate revine creatorilor și deținătorilor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Secţiunea a V-a - Obligații referitoare la documentele electronice",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 135/2007 privind arhivarea documentelor în formă electronică, republicată în Monitorul Oficial al României, Partea I, nr. 138 din 25 februarie 2014, se modifică și se completează după cum urmează: 1. Titlul legii se modifică și va avea următorul cuprins: LEGE privind arhivarea documentelor electronice 2. La articolul 1 se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Activitatea de arhivare a documentelor electronice se realizează de creatorul ori deținătorul documentelor, după caz, ca parte a obligațiilor ce îi revin potrivit Legii Arhivelor Naționale nr. 16/1996 , republicată, cu modificările și completările ulterioare, sau de către un furnizor de servicii de arhivare electronică, în condițiile prezentei legi. 3. După articolul 1 se introduce un nou articol, articolul 1^1, cu următorul cuprins: Articolul 1^1 Dispozițiile prezentei legi nu se aplică activităților de arhivare a documentelor electronice create și deținute de autoritățile și instituțiile publice în nume propriu și/sau pentru unitățile, instituțiile și structurile aflate în subordinea sau în coordonarea acestora. 4. La articolul 3, litera b) se modifică și va avea următorul cuprins: b) arhivă electronică - ansamblul documentelor electronice create, primite și păstrate de o organizație în exercitarea activității sale; 5. La articolul 3, după litera b) se introduc trei noi litere, literele b^1)-b^3), cu următorul cuprins: b^1) arhivare electronică - activitate, parte a managementului arhivistic al documentelor, ce implică transferul acestora dintr-un mediu de activitate curentă și păstrarea lor într-un depozit de arhivă electronică; b^2) depozit de arhivă electronică - ansamblul organizațional, metodologic și tehnic ce permite păstrarea arhivei electronice, cu asigurarea caracteristicilor inițiale de integritate, autenticitate și a posibilității de utilizare a documentelor; b^3) document electronic - orice conținut stocat în format electronic, în special sub formă de text sau de înregistrare audio, video sau audiovizuală; 6. La articolul 10, după alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: (3) Arhivarea documentelor electronice clasificate se realizează pe sisteme informatice și de comunicații securizate și acreditate corespunzător nivelului de clasificare a informațiilor conținute, conform legislației în domeniul protecției informațiilor clasificate. 7. În tot cuprinsul legii, sintagma „documente în formă electronică“ se înlocuiește cu sintagma „documente electronice“."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Secţiunea a V-a - Obligații referitoare la documentele electronice",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, procedurile specifice privind organizarea și desfășurarea activității arhivistice a documentelor electronice, prevăzute la art. 27^1 alin. (2) din Legea Arhivelor Naționale nr. 16/1996 , republicată, cu modificările și completările ulterioare, se aprobă prin ordin al ministrului afacerilor interne, care se publică în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

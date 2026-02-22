@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-130169",
+  "type": "statute",
+  "title": "LEGE nr. 164 din 11 iulie 2011",
+  "short_name": "lege 164 11 07 2011",
+  "status": "in_force",
+  "issued_date": "2011-07-11",
+  "in_force_date": "2011-07-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/130169",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 164 11/07/2011",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Denumirea satului Satu Nou din componența comunei Racu, județul Harghita, se schimbă în Gârciu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Anexa la Legea nr. 2/1968 privind organizarea administrativă a teritoriului Republicii Socialiste România, republicată în Buletinul Oficial, Partea I, nr. 54-55 din 27 iulie 1981, cu modificările și completările ulterioare, se modifică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Poziția 47 coloana 2 punctul 5 din anexa nr. 1/12 la Normele de aplicare a dispozițiilor privitoare la dreptul cetățenilor aparținând unei minorități naționale de a folosi limba maternă în administrația publică locală, cuprinse în Legea administrației publice locale nr. 215/2001 , aprobate prin Hotărârea Guvernului nr. 1.206/2001 , publicată în Monitorul Oficial al României, Partea I, nr. 781 din 7 decembrie 2001, cu modificările ulterioare, se modifică în mod corespunzător."
+    }
+  ],
+  "definitions": []
+}

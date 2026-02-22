@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281665",
+  "type": "statute",
+  "title": "LEGE nr. 90 din 10 aprilie 2024",
+  "short_name": "lege 90 10 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-10",
+  "in_force_date": "2024-04-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281665",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 90 10/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 39 din 31 august 2023 pentru modificarea și completarea Legii nr. 249/2020 privind prevenția și depistarea precoce a diabetului, adoptată în temeiul art. 1 pct. IV.5 din Legea nr. 193/2023 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 791 din 1 septembrie 2023, cu următoarea modificare: – La articolul I punctul 12 , alineatul (8) al articolului 14 va avea următorul cuprins: (8) Utilizarea datelor înregistrate în Registrul național de diabet zaharat și prediabet este permisă Ministerului Sănătății și Institutului Național de Sănătate Publică și în vederea realizării de rapoarte, analize, evaluări statistice și pentru elaborarea politicilor de sănătate aferente."
+    }
+  ],
+  "definitions": []
+}

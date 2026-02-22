@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-25035",
+  "type": "statute",
+  "title": "LEGE nr. 203 din 15 noiembrie 2000",
+  "short_name": "lege 203 15 11 2000",
+  "status": "in_force",
+  "issued_date": "2000-11-15",
+  "in_force_date": "2000-11-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/25035",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 203 15/11/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifica Convenția Organizației Internaționale a Muncii nr. 182/1999 privind interzicerea celor mai grave forme ale muncii copiilor și acțiunea imediata în vederea eliminării lor, adoptată la cea de-a 87-a sesiune a Conferintei Generale a Organizației Internaționale a Muncii la Geneva la 17 iunie 1999."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Agenția Naționala pentru Protecția Drepturilor Copilului, Ministerul Muncii și Protecției Sociale, Ministerul de Interne, Ministerul Educației Naționale și Ministerul Justiției vor supune spre aprobare Guvernului României măsurile necesare în vederea transpunerii efective în practica a dispozițiilor convenției prevăzute la art. 1."
+    }
+  ],
+  "definitions": []
+}

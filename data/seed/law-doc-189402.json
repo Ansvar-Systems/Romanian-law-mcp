@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189402",
+  "type": "statute",
+  "title": "LEGE nr. 107 din 18 mai 2017",
+  "short_name": "lege 107 18 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-18",
+  "in_force_date": "2017-05-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189402",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 107 18/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 456 alineatul (1) din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările şi completările ulterioare, litera d) se modifică şi va avea următorul cuprins: d) clădirile care, prin destinaţie, constituie lăcaşuri de cult, aparţinând cultelor religioase recunoscute oficial, asociaţiilor religioase şi componentelor locale ale acestora, precum şi casele parohiale, cu excepţia încăperilor folosite pentru activităţi economice;"
+    }
+  ],
+  "definitions": []
+}

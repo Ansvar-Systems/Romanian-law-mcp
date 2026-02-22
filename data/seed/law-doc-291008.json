@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-291008",
+  "type": "statute",
+  "title": "LEGE nr. 282 din 13 noiembrie 2024",
+  "short_name": "lege 282 13 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-13",
+  "in_force_date": "2024-11-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/291008",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 282 13/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Regatului Maroc privind cooperarea în domeniul militar și tehnic, semnat la Rabat la 27 februarie 2024."
+    }
+  ],
+  "definitions": []
+}

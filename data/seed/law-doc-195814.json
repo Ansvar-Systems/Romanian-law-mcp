@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195814",
+  "type": "statute",
+  "title": "LEGE nr. 261 din 19 decembrie 2017",
+  "short_name": "lege 261 19 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-19",
+  "in_force_date": "2017-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195814",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 261 19/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 55 din 4 august 2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, publicată în Monitorul Oficial al României, Partea I, nr. 644 din 7 august 2017."
+    }
+  ],
+  "definitions": []
+}

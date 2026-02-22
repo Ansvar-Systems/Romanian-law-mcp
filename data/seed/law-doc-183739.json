@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-183739",
+  "type": "statute",
+  "title": "LEGE nr. 218 din 17 noiembrie 2016",
+  "short_name": "lege 218 17 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-17",
+  "in_force_date": "2016-11-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183739",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 218 17/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (1) al articolului 3 din Legea nr. 142/1998 privind acordarea tichetelor de masă, publicată în Monitorul Oficial al României, Partea I, nr. 260 din 13 iulie 1998, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"Art. 3. - (1) Valoarea nominală a unui tichet de masă nu poate depăşi suma de 15 lei la data aplicării prevederilor prezentei legi.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile prezentei legi intră în vigoare la data de întâi a lunii următoare publicării în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 142/1998 privind acordarea tichetelor de masă, publicată în Monitorul Oficial al României, Partea I, nr. 260 din 13 iulie 1998, cu modificările şi completările ulterioare, precum şi cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

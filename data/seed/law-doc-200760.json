@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200760",
+  "type": "statute",
+  "title": "LEGE nr. 115 din 17 mai 2018",
+  "short_name": "lege 115 17 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-17",
+  "in_force_date": "2018-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200760",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 115 17/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 19 din 30 august 2017 pentru modificarea Legii nr. 672/2002 privind auditul public intern și pentru prorogarea termenului prevăzut la art. III pct. 1 din Legea nr. 191/2011 pentru modificarea și completarea Legii nr. 672/2002 privind auditul public intern, adoptată în temeiul art. l pct. I poz. 4 și pct. XII din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 703 din 30 august 2017."
+    }
+  ],
+  "definitions": []
+}

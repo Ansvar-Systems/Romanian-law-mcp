@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-164627",
+  "type": "statute",
+  "title": "LEGE nr. 7 din 7 ianuarie 2015",
+  "short_name": "lege 7 07 01 2015",
+  "status": "in_force",
+  "issued_date": "2015-01-07",
+  "in_force_date": "2015-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/164627",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 07/01/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul de cooperare dintre Uniunea Europeană şi statele membre ale acesteia, pe de o parte, şi Confederaţia Elveţiană, pe de altă parte, privind programele europene de radionavigaţie prin satelit, semnat la Bruxelles la 18 decembrie 2013."
+    }
+  ],
+  "definitions": []
+}

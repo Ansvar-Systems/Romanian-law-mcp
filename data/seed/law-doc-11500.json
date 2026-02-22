@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-11500",
+  "type": "statute",
+  "title": "LEGE nr. 80 din 9 mai 1997 (*actualizată*)",
+  "short_name": "lege 80 09 05 1997",
+  "status": "in_force",
+  "issued_date": "1997-05-09",
+  "in_force_date": "1997-05-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/11500",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 80 09/05/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifica Convenţia europeana de extradare, incheiata la Paris la 13 decembrie 1957. Se ratifica Protocolul aditional la Convenţia europeana de extradare, incheiat la Strasbourg la 15 octombrie 1975, precum şi al doilea Protocol aditional la Convenţia europeana de extradare, incheiat la Strasbourg la 17 martie 1978."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ratificarea convenţiei se face cu urmatoarele declaratii: (1) La articolul 6 paragraful 1 litera a): Cetăţeanul român nu poate fi extrădat. Prin derogare de la aceste prevederi, cetăţeanul român poate fi extrădat din România în baza convenţiilor internaţionale la care aceasta este parte şi pe bază de reciprocitate, numai dacă este îndeplinită cel puţin una dintre următoarele condiţii: a) statul solicitant, în vederea efectuării urmăririi penale şi a judecăţii, dă asigurări considerate ca suficiente că, în cazul condamnării la o pedeapsă privativă de libertate printr-o hotărâre judecătorească definitivă, cetăţeanul român va fi transferat în vederea executării pedepsei în România; b) cetăţeanul român domiciliază pe teritoriul statului solicitant la data formulării cererii de extrădare; c) cetăţeanul român are şi cetăţenia statului solicitant; d) cetăţeanul român a comis fapta pe teritoriul sau împotriva unui cetăţean al unui stat membru al Uniunii Europene, dacă statul solicitant este membru al Uniunii Europene. Persoana căreia i s-a acordat dreptul de azil în România nu poate fi extrădată. ------------- Punctul (1) al art. 2 a fost modificat de pct. 1 al articolului unic din LEGEA nr. 74 din 7 aprilie 2005 , publicată în MONITORUL OFICIAL nr. 324 din 18 aprilie 2005. (2) La articolul 6 paragraful 1 litera b): \"Prin termenul resortisant, în sensul prezentei conventii, se înţelege cetateanul român sau persoana care a obţinut drept de azil în România.\" \"(3) La articolul 21 paragraful 5: În cazul în care se va solicita tranzitarea teritoriului României, pentru un cetăţean român sau pentru o persoană care a obţinut drept de azil în România, se aplică în mod corespunzător dispoziţiile paragrafului 1.\" ------------- Punctul (3) al art. 2 a fost modificat de pct. 2 al articolului unic din LEGEA nr. 74 din 7 aprilie 2005 , publicată în MONITORUL OFICIAL nr. 324 din 18 aprilie 2005."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "(3) La articolul 21 paragraful 5: În cazul în care se va solicita tranzitarea teritoriului României, pentru un cetăţean român sau pentru o persoană care a obţinut drept de azil în România, se aplică în mod corespunzător dispoziţiile paragrafului 1.",
+      "definition": "------------ Punctul (3) al art",
+      "source_provision": "Art.2"
+    }
+  ]
+}

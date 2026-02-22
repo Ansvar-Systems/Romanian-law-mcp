@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-250276",
+  "type": "statute",
+  "title": "LEGE nr. 10 din 5 ianuarie 2022",
+  "short_name": "lege 10 05 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-05",
+  "in_force_date": "2022-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250276",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 05/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 94 alineatul (2) din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, după litera z) se introduce o nouă literă, litera z^1), cu următorul cuprins: z^1) elaborează și publică pe pagina web a instituției Calendarul național de activități și evenimente extrașcolare de promovare a științei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 90 de zile de la publicarea prezentei legi în Monitorul Oficial al României, Partea I, Ministerul Educației elaborează normele metodologice în vederea implementării și monitorizării acesteia."
+    }
+  ],
+  "definitions": []
+}

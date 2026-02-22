@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255836",
+  "type": "statute",
+  "title": "LEGE nr. 165 din 30 mai 2022",
+  "short_name": "lege 165 30 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-30",
+  "in_force_date": "2022-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255836",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 165 30/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 25 din 30 martie 2017 pentru modificarea conținutului anexei la Ordonanța Guvernului nr. 7/2013 privind instituirea impozitului asupra veniturilor suplimentare obținute ca urmare a dereglementării prețurilor din sectorul gazelor naturale, publicată în Monitorul Oficial al României, Partea I, nr. 224 din 31 martie 2017."
+    }
+  ],
+  "definitions": []
+}

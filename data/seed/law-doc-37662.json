@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-37662",
+  "type": "statute",
+  "title": "LEGE nr. 117 din 21 aprilie 1948",
+  "short_name": "lege 117 21 04 1948",
+  "status": "in_force",
+  "issued_date": "1948-04-21",
+  "in_force_date": "1948-04-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37662",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 117 21/04/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute Tratatul de Prietenie, Colaborare şi Ajutor Mutual între România şi Republica Federativă Populara Jugoslava, semnat la Bucureşti la 19 Decemvrie 1947. Textul autentic în limba română al suszisului Tratat este alăturat la prezenta lege."
+    }
+  ],
+  "definitions": []
+}

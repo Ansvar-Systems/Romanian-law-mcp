@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-16385",
+  "type": "statute",
+  "title": "LEGE nr. 226 din 4 decembrie 1998",
+  "short_name": "lege 226 04 12 1998",
+  "status": "in_force",
+  "issued_date": "1998-12-04",
+  "in_force_date": "1998-12-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/16385",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 226 04/12/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 39 din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat și asistența socială, publicată în Buletinul Oficial, Partea I, nr. 82 din 6 august 1977, cu modificările ulterioare, se completează cu alineatul (4) cu următorul cuprins: (4) Pensia de urmaș nu se acordă persoanei condamnate prin hotărâre judecătorească, rămasă definitivă, pentru săvârșirea infracțiunii de omor, tentativa de omor sau lovituri cauzatoare de moarte asupra susținătorului de pe urma căruia decurge dreptul la pensie."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Dispozițiile art. 39 alin. (4) din Legea nr. 3/1977 se aplică și persoanelor beneficiare a pensiei de urmaș, aflate în plata la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

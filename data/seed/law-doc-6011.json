@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-6011",
+  "type": "statute",
+  "title": "LEGE Nr. 46 din 30 mai 1995",
+  "short_name": "lege 46 30 05 1995",
+  "status": "in_force",
+  "issued_date": "1995-05-30",
+  "in_force_date": "1995-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/6011",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 46 30/05/1995",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 9 din 27 ianuarie 1995 referitoare la perfecţionarea unor reglementări privind taxa pe valoarea adăugată, emisă în temeiul art. 1 lit. e) din Legea nr. 1/1995 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 20 din 31 ianuarie 1995. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 18 aprilie 1995, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE Această lege a fost adoptată de Senat în şedinţa din 17 mai 1995, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE SENATULUI prof. univ. dr. OLIVIU GHERMAN"
+    }
+  ],
+  "definitions": []
+}

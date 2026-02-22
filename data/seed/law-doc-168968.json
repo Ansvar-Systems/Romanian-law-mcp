@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168968",
+  "type": "statute",
+  "title": "LEGE nr. 143 din 12 iunie 2015",
+  "short_name": "lege 143 12 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-12",
+  "in_force_date": "2015-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168968",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 143 12/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 132 din 28 decembrie 2010 pentru modificarea şi completarea Legii nr. 132/1999 privind înfiinţarea, organizarea şi funcţionarea Consiliului Naţional de Formare Profesională a Adulţilor, publicată în Monitorul Oficial al României, Partea I, nr. 898 din 31 decembrie 2010."
+    }
+  ],
+  "definitions": []
+}

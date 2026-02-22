@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-249191",
+  "type": "statute",
+  "title": "LEGE nr. 294 din 13 decembrie 2021",
+  "short_name": "lege 294 13 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-13",
+  "in_force_date": "2021-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249191",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 294 13/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 207 din 27 noiembrie 2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 4/2009 privind reglementarea unor măsuri în domeniul bugetar, publicată în Monitorul Oficial al României, Partea I, nr. 1169 din 3 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

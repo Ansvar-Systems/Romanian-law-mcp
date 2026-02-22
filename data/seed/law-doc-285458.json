@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-285458",
+  "type": "statute",
+  "title": "LEGE nr. 220 din 15 iulie 2024",
+  "short_name": "lege 220 15 07 2024",
+  "status": "in_force",
+  "issued_date": "2024-07-15",
+  "in_force_date": "2024-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/285458",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 220 15/07/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul-cadru dintre Guvernul României și Guvernul Republicii Turcia privind cooperarea în domeniul militar, semnat la Ankara la 6 octombrie 2023."
+    }
+  ],
+  "definitions": []
+}

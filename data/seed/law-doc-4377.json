@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-4377",
+  "type": "statute",
+  "title": "LEGE Nr. 94 din 10 noiembrie 1994",
+  "short_name": "lege 94 10 11 1994",
+  "status": "in_force",
+  "issued_date": "1994-11-10",
+  "in_force_date": "1994-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/4377",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 94 10/11/1994",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifica Acordul de comerţ liber dintre România şi Republica Moldova, încheiat la Bucureşti la 15 februarie 1994, prevăzut în anexa la prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "La data intrării în vigoare a prezentei legi se abroga Hotărârea Guvernului nr. 591/1991 . Această lege a fost adoptată de Senat în şedinţa din 19 septembrie 1994, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI VALER SUIAN Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 24 octombrie 1994, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE ACORD 15/02/1994"
+    }
+  ],
+  "definitions": []
+}

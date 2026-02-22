@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-177652",
+  "type": "statute",
+  "title": "LEGE nr. 64 din 12 aprilie 2016",
+  "short_name": "lege 64 12 04 2016",
+  "status": "in_force",
+  "issued_date": "2016-04-12",
+  "in_force_date": "2016-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177652",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 64 12/04/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Anexele nr. 3.30, 8 şi 8.11 la Legea nr. 45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\" şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare, publicată în Monitorul Oficial al României, Partea I, nr. 200 din 30 martie 2009, cu modificările şi completările ulterioare, se modifică şi se înlocuiesc cu anexele nr. 1-3 care fac parte integrantă din prezenta lege."
+    }
+  ],
+  "definitions": []
+}

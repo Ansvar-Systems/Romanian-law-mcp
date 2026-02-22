@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-298938",
+  "type": "statute",
+  "title": "LEGE nr. 94 din 10 iunie 2025",
+  "short_name": "lege 94 10 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-10",
+  "in_force_date": "2025-06-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/298938",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 94 10/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 45 din 9 mai 2024 pentru modificarea Legii nr. 295/2004 privind regimul armelor și al munițiilor, publicată în Monitorul Oficial al României, Partea I, nr. 432 din 10 mai 2024."
+    }
+  ],
+  "definitions": []
+}

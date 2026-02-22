@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-6213",
+  "type": "statute",
+  "title": "LEGE Nr. 93 din 1 noiembrie 1995",
+  "short_name": "lege 93 01 11 1995",
+  "status": "in_force",
+  "issued_date": "1995-11-01",
+  "in_force_date": "1995-11-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/6213",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 93 01/11/1995",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifica Acordul dintre Guvernul României şi Guvernul Republicii Belarus privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 31 mai 1995. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 2 octombrie 1995, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE Această lege a fost adoptată de Senat în şedinţa din 18 octombrie 1995, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI CONSTANTIN-DAN VASILIU"
+    }
+  ],
+  "definitions": []
+}

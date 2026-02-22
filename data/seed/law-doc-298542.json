@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-298542",
+  "type": "statute",
+  "title": "LEGE nr. 89 din 4 iunie 2025",
+  "short_name": "lege 89 04 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-04",
+  "in_force_date": "2025-06-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/298542",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 89 04/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 14 din 28 februarie 2024 privind instituirea unei scheme de ajutor de stat pentru compensarea parțială a pierderilor suferite în anul 2023 în sectorul apicol, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, publicată în Monitorul Oficial al României, Partea I, nr. 166 din 29 februarie 2024, cu următoarea completare: – La articolul 5, după alineatul (4) se introduce un nou alineat, alin. (5), cu următorul cuprins: (5) În cazul în care nu este cheltuită suma alocată prin schema de ajutor de stat, în urma însumării cererilor depuse, suma rămasă necheltuită se redistribuie către solicitanții care au depus cererile și au fost declarați eligibili."
+    }
+  ],
+  "definitions": []
+}

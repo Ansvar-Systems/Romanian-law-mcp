@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188349",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 12 aprilie 2017",
+  "short_name": "lege 60 12 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-12",
+  "in_force_date": "2017-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188349",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 12/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 49 din 31 august 2016 pentru modificarea Legii nr. 5/2000 privind aprobarea Planului de amenajare a teritoriului naţional - Secţiunea a III-a - zone protejate, publicată în Monitorul Oficial al României, Partea I, nr. 689 din 6 septembrie 2016."
+    }
+  ],
+  "definitions": []
+}

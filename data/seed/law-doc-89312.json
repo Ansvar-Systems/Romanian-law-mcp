@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-89312",
+  "type": "statute",
+  "title": "LEGE nr. 332 din 22 noiembrie 2007",
+  "short_name": "lege 332 22 11 2007",
+  "status": "in_force",
+  "issued_date": "2007-11-22",
+  "in_force_date": "2007-11-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/89312",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 332 22/11/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Guvernul României aderă la Acordul internaţional al cafelei 2001, adoptat la 27 septembrie 2000 la Londra prin Rezoluţia nr. 393 a Consiliului Internaţional al Cafelei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Agriculturii şi Dezvoltării Rurale, în colaborare cu asociaţiile de profil, este responsabil de implementarea acordului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Plata cotizaţiei se va face de la bugetul de stat. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR BOGDAN OLTEANU p. PREŞEDINTELE SENATULUI, NORICA NICOLAI Bucureşti, 22 noiembrie 2007. Nr. 332."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209629",
+  "type": "statute",
+  "title": "LEGE nr. 5 din 4 ianuarie 2019",
+  "short_name": "lege 5 04 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-04",
+  "in_force_date": "2019-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209629",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 5 04/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 107 din 20 decembrie 2017 pentru modificarea și completarea unor acte normative cu impact în domeniul achizițiilor publice, publicată în Monitorul Oficial al României, Partea I, nr. 1022 din 22 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

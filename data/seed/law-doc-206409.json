@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-206409",
+  "type": "statute",
+  "title": "LEGE nr. 246 din 2 noiembrie 2018",
+  "short_name": "lege 246 02 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-02",
+  "in_force_date": "2018-11-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/206409",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 246 02/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 42^1 din Legea audiovizualului nr. 504/2002 , publicată în Monitorul Oficial al României, Partea I, nr. 534 din 22 iulie 2002, cu modificările și completările ulterioare, după alineatul (3) se introduc două noi alineate, alineatele (4) și (5), cu următorul cuprins: (4) În vederea asigurării dreptului de acces la serviciile media audiovizuale al persoanelor cu deficiențe auditive, serviciile de programe de televiziune cu acoperire națională, transmise pe orice cale, în pachete digitale, vor difuza producții cinematografice românești, de scurt sau lung metraj, precum și documentare, produse după 1 ianuarie 2019, subtitrate în limba română, obligația subtitrării acestora revenind exclusiv în sarcina producătorului. (5) Soluția tehnologică adoptată pentru punerea în aplicare a prevederilor alin. (4) trebuie să permită opțiunea de eliminare a subtitrării de pe ecran."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la data de 1 ianuarie 2019."
+    }
+  ],
+  "definitions": []
+}

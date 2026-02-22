@@ -1,0 +1,31 @@
+{
+  "id": "law-doc-113328",
+  "type": "statute",
+  "title": "LEGE nr. 332 din 11 noiembrie 2009",
+  "short_name": "lege 332 11 11 2009",
+  "status": "in_force",
+  "issued_date": "2009-11-11",
+  "in_force_date": "2009-11-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/113328",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 332 11/11/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 54 din 27 mai 2009 privind stabilirea unor măsuri temporare în domeniul gazelor naturale, publicată în Monitorul Oficial al României, Partea I, nr. 400 din 12 iunie 2009, cu următoarea modificare: – Articolul unic va avea următorul cuprins: Articolul UNIC (1) Consumatorul întreruptibil reprezintă consumatorul care poate contribui la menținerea funcționării în deplină siguranță a Sistemului național de transport al gazelor naturale și a sistemelor de distribuție, prin acceptarea reducerii consumului, până la oprire, în conformitate cu prevederile art. 4 alin. (1) din Directiva 2004/67/CE a Consiliului din 26 aprilie 2004 privind măsurile de garantare a securității aprovizionării cu gaz natural, publicată în Jurnalul Oficial al Uniunii Europene L127 din 29 aprilie 2004, în scopul asigurării protecției aprovizionării consumatorilor casnici în următoarele situații: a) întreruperea parțială a aprovizionării cu gaze naturale pe o perioadă ce urmează a fi stabilită ținându-se seama de condițiile naționale; b) temperaturi extrem de joase într-o perioadă de vârf determinată la scară națională; c) perioadele climatice cele mai reci, constatate statistic la fiecare 20 de ani, când cererea de gaze este extrem de mare. (2) Poate opta pentru calitatea de consumator întreruptibil acel consumator eligibil care îndeplinește, cumulativ, următoarele condiții: a) are un consum orar constant de minimum 5.000 mc în intervalul octombrie - martie; b) poate fi întrerupt în mod operativ și în termen de cel mult 24 de ore fără a îi fi afectată securitatea tehnică a instalațiilor și echipamentelor. (3) În perioada iunie 2009-octombrie 2010, pentru consumatorii eligibili care optează pentru statutul de consumator întreruptibil, furnizarea gazelor naturale se va face doar din producția internă. (4) Prevederile art. 100 alin. (5) din Legea gazelor nr. 351/2004 , cu modificările și completările ulterioare, nu se aplică pe perioada menționată categoriei de consumatori prevăzute la alin. (3). (5) Pentru consumatorul eligibil care optează pentru statutul de consumator întreruptibil, structura amestecului de gaze naturale poate fi diferită de cea a celorlalți consumatori, respectiv va fi formată numai din gaze naturale din producția internă. Structura este identică pentru toți consumatorii întreruptibili. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din Constituția României, republicată ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "întreruperea parțială a aprovizionării cu gaze naturale pe o perioadă ce urmează a fi stabilită ținându",
+      "definition": "se seama de condițiile naționale",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "temperaturi extrem de joase într",
+      "definition": "o perioadă de vârf determinată la scară națională",
+      "source_provision": "Art.1"
+    }
+  ]
+}

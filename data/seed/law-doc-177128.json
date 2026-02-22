@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-177128",
+  "type": "statute",
+  "title": "LEGE nr. 49 din 30 martie 2016",
+  "short_name": "lege 49 30 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-30",
+  "in_force_date": "2016-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177128",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 49 30/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 22 din 28 iulie 2015 privind reglementarea unor măsuri fiscal-bugetare, adoptată în temeiul art. 1 pct. I. 3 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanţe, publicată în Monitorul Oficial al României, Partea I, nr. 577 din 31 iulie 2015, cu următoarea modificare: - La articolul 4, alineatul (1) se modifică şi va avea următorul cuprins: \"Art. 4. - (1) Se alocă de la bugetul de stat, prin bugetul Serviciului Român de Informaţii, suma de 749 mii lei pentru investiţiile şi modernizările, finalizate, aflate în proprietatea Regiei Autonome «Administraţia Patrimoniului Protocolului de Stat» şi achiziţionate din fondurile proprii ale Regiei, prevăzute în anexa nr. 2 la Hotărârea Guvernului nr. S490/2015 privind transmiterea unui imobil din proprietatea privată a statului şi din administrarea Regiei Autonome «Administraţia Patrimoniului Protocolului de Stat» în proprietatea publică a statului şi în administrarea Serviciului Român de Informaţii, cu modificările şi completările ulterioare, care trec, în condiţiile legii, în domeniul public al statului, la valoarea de inventar, inclusiv TVA, şi în administrarea Serviciului Român de Informaţii.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Pentru anul 2016 contravaloarea obiectelor de inventar prevăzute la art. 2 alin. (1) din Ordonanţa Guvernului nr. 22/2015 privind reglementarea unor măsuri fiscal-bugetare, cu modificarea adusă prin prezenta lege, se achită din bugetul Serviciului Român de Informaţii din fondurile alocate de la bugetul de stat cu această destinaţie în anul 2016."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-5931",
+  "type": "statute",
+  "title": "LEGE nr. 34 din 2 mai 1995",
+  "short_name": "lege 34 02 05 1995",
+  "status": "in_force",
+  "issued_date": "1995-05-02",
+  "in_force_date": "1995-05-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/5931",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 02/05/1995",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Drapelul de luptă se acordă marilor unităţi şi unităţilor militare, prin decret al Preşedintelui României, la propunerea ministrului apărării naţionale, a ministrului de interne sau a directorului Serviciului Român de Informaţii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ceremonialul de înmânare, modul de păstrare şi celelalte activităţi privitoare la drapelul de luptă se vor stabili prin regulament aprobat de Consiliul Suprem de Apărare a Ţării."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Decretul nr. 1016/1966 , publicat în Buletinul Oficial nr. 82 din 24 decembrie 1966, cu modificările ulterioare, precum şi orice alte dispoziţii contrare se abrogă."
+    }
+  ],
+  "definitions": []
+}

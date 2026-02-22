@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-218822",
+  "type": "statute",
+  "title": "LEGE nr. 175 din 10 octombrie 2019",
+  "short_name": "lege 175 10 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-10",
+  "in_force_date": "2019-10-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/218822",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 175 10/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 7 din 23 august 2018 privind aderarea Secretariatului General al Guvernului la Consiliul Internațional pentru Tehnologia Informației în Administrația Guvernamentală (ICA) și aprobarea unor măsuri de natură financiară ce decurg din calitatea de membru, precum și completarea Ordonanței Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, adoptată în temeiul art. 1 pct. XII. 2 și 3 din Legea nr. 183/2018 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 739 din 27 august 2018."
+    }
+  ],
+  "definitions": []
+}

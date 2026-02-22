@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-254217",
+  "type": "statute",
+  "title": "LEGE nr. 101 din 14 aprilie 2022",
+  "short_name": "lege 101 14 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-14",
+  "in_force_date": "2022-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254217",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 101 14/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 76 din 30 iunie 2021 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, publicată în Monitorul Oficial al României, Partea I, nr. 645 din 30 iunie 2021."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Programele de master profesional prevăzute în Ordonanța de urgență a Guvernului nr. 76/2021 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului se organizează pentru pregătirea ofițerilor de poliție începând cu anul universitar 2022-2023."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-209908",
+  "type": "statute",
+  "title": "LEGE nr. 23 din 9 ianuarie 2019",
+  "short_name": "lege 23 09 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-09",
+  "in_force_date": "2019-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209908",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 23 09/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 114 alineatul (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, după litera j) se introduce o nouă literă, litera j^1), cu următorul cuprins: j^1) copiii militarilor, polițiștilor ori funcționarilor publici cu statut special în activitate sau în rezervă, mobilizați sau concentrați în unități militare, decedați ca urmare a unor acțiuni specifice, prin accidente, catastrofe sau alte asemenea evenimente intervenite în timpul și din cauza serviciului sau a unor misiuni și operații în afara teritoriului statului român, cărora li s-a deschis dreptul la pensie de urmaș în sistemul public de pensii, optează pentru o altă pensie, potrivit art. 55 alin. (1^1) din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 55 din Legea nr. 223/2015 privind pensiile militare de stat, publicată în Monitorul Oficial al României, Partea I, nr. 556 din 27 iulie 2015, cu modificările și completările ulterioare, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) De o pensie de urmaș egală cu baza de calcul prevăzută la art. 28, dacă optează pentru aceasta, pot beneficia și urmașii militarilor, polițiștilor ori funcționarilor publici cu statut special, aflați în situațiile prevăzute la alin. (1), cărora li s-a deschis dreptul la pensie de urmaș în sistemul public de pensii."
+    }
+  ],
+  "definitions": []
+}

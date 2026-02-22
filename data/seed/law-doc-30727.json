@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-30727",
+  "type": "statute",
+  "title": "LEGE nr. 743 din 2 noiembrie 1940",
+  "short_name": "lege 743 02 11 1940",
+  "status": "in_force",
+  "issued_date": "1940-11-02",
+  "in_force_date": "1940-11-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30727",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 743 02/11/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Personalul ştiinţific şi specialist din Institutul Meteorologic Central, repartizat în timp de concentrare, mobilizare sau razboiu la Comandamentele şi unităţile Armatei, pentru îndeplinirea serviciilor de specialitate meteorologica, va fi asimilat gradelor militare, după cum se va stabili de către Subsecretariatul de Stat al Aerului şi Marinei, din Ministerul Apărării Naţionale (Marele Stat Major), de acord cu Direcţia Institutului Meteorologic Central, ţinându-se seama de ierarhia ce fiecare ocupa la I.M.C. Ofiţerii de rezerva cu grade superioare acelora ce le-ar reveni prin asimilare, îşi păstrează gradul în rezerva armatei. Personalul va trebui sa poarte uniforma militară şi armamentul de campanie respectiv, bucurandu-se de aceleaşi drepturi şi tratament în îndeplinirea funcţiunii lui ca şi gradele militare cu care va fi asimilat."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Drepturile de salarii şi accesoriile pentru personalul repartizat la Comandamentele sau unităţile militare în caz de mobilizare, vor fi acele prevăzute prin legea şi regulamentul soldelor de campanie, potrivit gradelor de asimilare putând opta ca şi cei'alţi funcţionari ai Statului, pentru leafa civilă sau solda gradului militar cu care va fi asimilat. La pensie i se va socoti timpul servit în campanie şi va avea acelaşi tratament ca şi personalul militar, atît pentru familiile celor morţi în timpul şi din cauza războiului, cat şi pentru cei care rămînînd în vieata, doresc a-şi aranja drepturile la pensie. Familia personalului meteorologic, mort în timpul şi din cauza războiului, va avea dreptul la pensie ca şi familia militarilor morţi în razboiu."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Toate dispoziţiunile din legi şi regulamente contrarii legii de faţa, sînt şi rămîn abrogate. --------------"
+    }
+  ],
+  "definitions": []
+}

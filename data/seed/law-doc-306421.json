@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-306421",
+  "type": "statute",
+  "title": "LEGE nr. 11 din 15 ianuarie 2026",
+  "short_name": "lege 11 15 01 2026",
+  "status": "in_force",
+  "issued_date": "2026-01-15",
+  "in_force_date": "2026-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/306421",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 11 15/01/2026",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 12 din 8 august 2025 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, precum și a unor acte normative în domeniul sănătății, adoptată în temeiul art. 1 pct. VI.4 din Legea nr. 134/2025 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 760 din 13 august 2025."
+    }
+  ],
+  "definitions": []
+}

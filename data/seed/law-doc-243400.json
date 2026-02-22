@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243400",
+  "type": "statute",
+  "title": "LEGE nr. 165 din 22 iunie 2021",
+  "short_name": "lege 165 22 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-22",
+  "in_force_date": "2021-06-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243400",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 165 22/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 169 din 8 octombrie 2020 privind completarea art. 3 din Ordonanța de urgență a Guvernului nr. 63/2020 pentru organizarea și desfășurarea unor campanii de informare publică în contextul situației epidemiologice determinate de răspândirea COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 924 din 9 octombrie 2020."
+    }
+  ],
+  "definitions": []
+}

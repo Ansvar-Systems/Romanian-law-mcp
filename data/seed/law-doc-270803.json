@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270803",
+  "type": "statute",
+  "title": "LEGE nr. 148 din 26 mai 2023",
+  "short_name": "lege 148 26 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-26",
+  "in_force_date": "2023-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270803",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 148 26/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În termen de 90 de zile de la data intrării în vigoare a legii de aprobare a prezentei ordonanțe de urgență, prin ordin al ministrului antreprenoriatului și turismului, se aprobă schema de ajutor de minimis aferentă programului prevăzut la art. 1 alin. (3)."
+    }
+  ],
+  "definitions": []
+}

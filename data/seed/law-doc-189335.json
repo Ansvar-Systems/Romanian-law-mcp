@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189335",
+  "type": "statute",
+  "title": "LEGE nr. 104 din 16 mai 2017",
+  "short_name": "lege 104 16 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-16",
+  "in_force_date": "2017-05-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189335",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 104 16/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 93 din 8 decembrie 2016 pentru reglementarea unor măsuri de simplificare a acordării unor beneficii de asistenţă socială, precum şi pentru stabilirea unor măsuri bugetare pentru acestea în anul 2016, publicată în Monitorul Oficial al României, Partea I, nr. 998 din 12 decembrie 2016."
+    }
+  ],
+  "definitions": []
+}

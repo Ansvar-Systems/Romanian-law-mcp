@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305263",
+  "type": "statute",
+  "title": "LEGE nr. 230 din 12 decembrie 2025",
+  "short_name": "lege 230 12 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2025-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305263",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 230 12/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 11^5 alineatul (1) din Ordonanța Guvernului nr. 83/2001 privind înființarea, organizarea și funcționarea Direcției generale de pașapoarte, serviciilor publice comunitare de pașapoarte, Direcției generale permise de conducere și înmatriculări și serviciilor publice comunitare regim permise de conducere și înmatriculare a vehiculelor, publicată în Monitorul Oficial al României, Partea I, nr. 543 din 1 septembrie 2001, aprobată cu modificări și completări prin Legea nr. 362/2002 , cu modificările și completările ulterioare, după litera g) se introduce o nouă literă, litera g^1), cu următorul cuprins: g^1) asigură crearea conturilor de utilizator pe pagina proprie de internet și furnizarea datelor de acces, printr-un flux complet online, în condițiile legii;"
+    }
+  ],
+  "definitions": []
+}

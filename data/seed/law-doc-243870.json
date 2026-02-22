@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243870",
+  "type": "statute",
+  "title": "LEGE nr. 177 din 28 iunie 2021",
+  "short_name": "lege 177 28 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-28",
+  "in_force_date": "2021-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243870",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 177 28/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 22 din 27 august 2019 privind stabilirea unor măsuri pentru aplicarea Regulamentului (UE) 2016/589 al Parlamentului European și al Consiliului din 13 aprilie 2016 privind o rețea europeană de servicii de ocupare a forței de muncă (EURES), accesul lucrătorilor la servicii de mobilitate și integrarea mai bună a piețelor forței de muncă și de modificare a Regulamentelor (UE) nr. 492/2011 și (UE) nr. 1.296/2013, adoptată în temeiul art. 1 pct. IV din Legea nr. 128/2019 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 708 din 28 august 2019."
+    }
+  ],
+  "definitions": []
+}

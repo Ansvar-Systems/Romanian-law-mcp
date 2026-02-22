@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252497",
+  "type": "statute",
+  "title": "LEGE nr. 47 din 9 martie 2022",
+  "short_name": "lege 47 09 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-09",
+  "in_force_date": "2022-03-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252497",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 47 09/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 61 din 29 iunie 2021 pentru prorogarea termenului prevăzut la art. III alin. (3) din Ordonanța de urgență a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 643 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

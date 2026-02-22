@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299077",
+  "type": "statute",
+  "title": "LEGE nr. 101 din 16 iunie 2025",
+  "short_name": "lege 101 16 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-16",
+  "in_force_date": "2025-06-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299077",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 101 16/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 149 din 12 decembrie 2024 pentru modificarea și completarea unor acte normative cu privire la gestionarea financiară a fondurilor europene nerambursabile alocate României din FEGA și FEADR, precum și a fondurilor alocate de la bugetul de stat, aferente politicii agricole comune, publicată în Monitorul Oficial al României, Partea I, nr. 1290 din 19 decembrie 2024."
+    }
+  ],
+  "definitions": []
+}

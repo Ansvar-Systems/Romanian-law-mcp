@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173668",
+  "type": "statute",
+  "title": "LEGE nr. 314 din 7 decembrie 2015",
+  "short_name": "lege 314 07 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-07",
+  "in_force_date": "2015-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173668",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 314 07/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 26 din 30 iunie 2015 pentru completarea art. 12 din Ordonanţa de urgenţă a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum şi alte măsuri în domeniul cheltuielilor publice, publicată în Monitorul Oficial al României, Partea I, nr. 474 din 30 iunie 2015."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-199482",
+  "type": "statute",
+  "title": "LEGE nr. 83 din 30 martie 2018",
+  "short_name": "lege 83 30 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-30",
+  "in_force_date": "2018-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/199482",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 83 30/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "România aderă la Protocolul referitor la privilegiile și imunitățile Autorității Internaționale privind Spațiile Submarine, adoptat la Kingston la 27 martie 1998, care a intrat în vigoare la 31 mai 2003."
+    }
+  ],
+  "definitions": []
+}

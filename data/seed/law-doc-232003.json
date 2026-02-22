@@ -1,0 +1,37 @@
+{
+  "id": "law-doc-232003",
+  "type": "statute",
+  "title": "LEGE nr. 222 din 30 octombrie 2020",
+  "short_name": "lege 222 30 10 2020",
+  "status": "in_force",
+  "issued_date": "2020-10-30",
+  "in_force_date": "2020-10-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/232003",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 222 30/10/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 12/1990 privind protejarea populației împotriva unor activități de producție, comerț sau prestări de servicii ilicite, republicată în Monitorul Oficial al României, Partea I, nr. 121 din 18 februarie 2014, se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "– Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 208 din 28 martie 2007, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 4, după alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: (3) Se interzice comercializarea de produse sau prestarea de servicii, după caz, care nu îndeplinesc condițiile stabilite prin lege sau de bunuri a căror proveniență nu este dovedită, în condițiile legii. Prin documente de proveniență se înțelege, după caz, factura fiscală, factura, avizul de însoțire a mărfii, documentele vamale, factura externă sau orice alte documente stabilite prin lege. 2. La articolul 50 alineatul (1), literele a) și c) se modifică și vor avea următorul cuprins: a) încălcarea dispozițiilor art. 4 alin. (1) și (2), art. 7 lit. a) a 2-a, a 3-a și a 5-a liniuță, lit. c) prima și a 2-a liniuță, cu amendă contravențională de la 3.000 lei la 30.000 lei; (...) c) încălcarea dispozițiilor art. 4 alin. (3), art. 5, art. 7 lit. b) prima, a 2-a și a 5-a liniuță, lit. c) a 3-a și a 4-a liniuță, art. 9, art. 10 lit. a)-f), h) și i), art. 11 și 14, cu amendă contravențională de la 2.000 lei la 20.000 lei;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "și c) se modifică și vor avea următorul cuprins",
+      "definition": "a) încălcarea dispozițiilor art. 4 alin. (1) și (2), art. 7 lit. a) a 2-a, a 3-a și a 5-a liniuță, lit. c) prima și a 2-a liniuță, cu amendă contravențională de la 3.000 lei la 30",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "prima, a 2",
+      "definition": "a și a 5-a liniuță, lit. c) a 3-a și a 4-a liniuță, art. 9, art. 10 lit. a)-f), h) și i), art. 11 și 14, cu amendă contravențională de la 2.000 lei la 20",
+      "source_provision": "Art.2"
+    }
+  ]
+}

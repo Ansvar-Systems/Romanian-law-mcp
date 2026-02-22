@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-2305",
+  "type": "statute",
+  "title": "LEGE nr. 72 din 17 iulie 1992",
+  "short_name": "lege 72 17 07 1992",
+  "status": "in_force",
+  "issued_date": "1992-07-17",
+  "in_force_date": "1992-07-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2305",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 72 17/07/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifica Acordul internațional privind utilizarea statiilor de sol \"INMARSAT\" de nava în porturi și în limitele marilor teritoriale, încheiat la Londra la 16 octombrie 1985."
+    }
+  ],
+  "definitions": []
+}

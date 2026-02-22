@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-153392",
+  "type": "statute",
+  "title": "LEGE nr. 327 din 5 decembrie 2013",
+  "short_name": "lege 327 05 12 2013",
+  "status": "in_force",
+  "issued_date": "2013-12-05",
+  "in_force_date": "2013-12-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/153392",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 327 05/12/2013",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 86 din Legea nr. 80/1995 privind statutul cadrelor militare, publicată în Monitorul Oficial al României, Partea I, nr. 155 din 20 iulie 1995, cu modificările și completările ulterioare, după alineatul 2^2 se introduce un nou alineat, alineatul 2^3, cu următorul cuprins: Generalii și amiralii din cadrul Serviciului Român de Informații, Serviciului de Informații Externe, Serviciului de Telecomunicații Speciale și Serviciului de Protecție și Pază sunt menținuți în activitate după împlinirea vârstei standard de pensionare, până la vârsta de 60 de ani, sau sunt trecuți în rezervă, la cerere, în condițiile prevederilor legale în vigoare."
+    }
+  ],
+  "definitions": []
+}

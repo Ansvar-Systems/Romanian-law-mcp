@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-244849",
+  "type": "statute",
+  "title": "LEGE nr. 211 din 21 iulie 2021",
+  "short_name": "lege 211 21 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-21",
+  "in_force_date": "2021-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244849",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 211 21/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 188 din 28 octombrie 2020 privind unele măsuri temporare necesare pentru exercitarea funcției de conducător al compartimentului financiar-contabil din administrația publică centrală, publicată în Monitorul Oficial al României, Partea I, nr. 1005 din 29 octombrie 2020, cu următoarea modificare: – La articolul unic, alineatul (2) se modifică și va avea următorul cuprins: (2) În termen de 6 luni de la încetarea stării de urgență sau, după caz, a stării de alertă, persoanele prevăzute la alin. (1) au obligația să dobândească certificatul de atestare a cunoștințelor dobândite în domeniul Sistemului European de Conturi, în condițiile legii."
+    }
+  ],
+  "definitions": []
+}

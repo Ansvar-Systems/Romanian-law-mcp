@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221946",
+  "type": "statute",
+  "title": "LEGE nr. 12 din 9 ianuarie 2020",
+  "short_name": "lege 12 09 01 2020",
+  "status": "in_force",
+  "issued_date": "2020-01-09",
+  "in_force_date": "2020-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221946",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 09/01/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 17 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române, republicată în Monitorul Oficial al României, Partea I, nr. 307 din 25 aprilie 2014, cu modificările și completările ulterioare, alineatul (2) se modifică și va avea următorul cuprins: (2) Autoritatea teritorială de ordine publică este constituită din șeful Direcției generale de poliție a municipiului București sau al inspectoratului de poliție județean, un reprezentant al Corpului Național al Polițiștilor, subprefect, 6 consilieri desemnați de Consiliul General al Municipiului București, respectiv de consiliul județean, 3 reprezentanți ai comunității desemnați de primarul general al municipiului București, respectiv de președintele consiliului județean, șeful Direcției generale de jandarmi a municipiului București sau al inspectoratului județean, șeful Inspectoratului pentru Situații de Urgență al Municipiului București sau șeful inspectoratului pentru situații de urgență județean, șeful serviciului teritorial al Poliției de Frontieră Române și, după caz, șeful poliției locale din municipiul reședință de județ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-247375",
+  "type": "statute",
+  "title": "LEGE nr. 249 din 12 octombrie 2021",
+  "short_name": "lege 249 12 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-12",
+  "in_force_date": "2021-10-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247375",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 249 12/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După alineatul (1^9) al articolului 84 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (1^10), cu următorul cuprins: (1^10) În municipii și orașe, elevii din învățământul primar care frecventează cursurile unei unități de învățământ de stat particulare și confesionale autorizate/acreditate pot beneficia de transport specializat de tipul curse școlare pentru transportul de la/până la unitatea de învățământ. Acoperirea cheltuielilor pentru transportul specializat se asigură din bugetul de stat, prin transfer către unitățile administrativ-teritoriale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile prezentei legi intră în vigoare începând cu prima zi a anului școlar 2022-2023."
+    }
+  ],
+  "definitions": []
+}

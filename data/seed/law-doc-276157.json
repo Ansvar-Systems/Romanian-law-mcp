@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-276157",
+  "type": "statute",
+  "title": "LEGE nr. 329 din 7 noiembrie 2023",
+  "short_name": "lege 329 07 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-07",
+  "in_force_date": "2023-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276157",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 329 07/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 31 alineatul (2) din Legea nr. 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate, publicată în Monitorul Oficial al României, Partea I, nr. 682 din 29 iulie 2005, cu modificările și completările ulterioare, litera b) se modifică și va avea următorul cuprins: b) în urma verificării mențiunilor înscrise în Sistemul național de evidență informatizată a cazierului judiciar - ROCRIS de către polițistul de frontieră, acesta constată că însoțitorul a săvârșit anterior una dintre infracțiunile următoare: 1. omor; 2. infracțiuni contra libertății și integrității sexuale; 3. infracțiuni privitoare la traficul și exploatarea persoanelor vulnerabile; 4. lipsire de libertate în mod ilegal; 5. infracțiuni privind traficul de droguri sau precursori; 6. trafic de țesuturi sau organe umane; 7. infracțiuni de terorism;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, Guvernul va modifica în mod corespunzător Normele metodologice de aplicare a Legii nr. 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate, aprobate prin Hotărârea Guvernului nr. 94/2006 , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

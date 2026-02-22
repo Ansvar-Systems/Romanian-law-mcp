@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275603",
+  "type": "statute",
+  "title": "LEGE nr. 289 din 23 octombrie 2023",
+  "short_name": "lege 289 23 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-23",
+  "in_force_date": "2023-10-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275603",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 289 23/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 137 din 12 octombrie 2022 privind stabilirea cadrului instituțional, precum și a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2017/746 al Parlamentului European și al Consiliului din 5 aprilie 2017 privind dispozitivele medicale pentru diagnostic in vitro și de abrogare a Directivei 98/79/CE și a Deciziei 2010/227/UE a Comisiei, publicată în Monitorul Oficial al României, Partea I, nr. 995 din 13 octombrie 2022."
+    }
+  ],
+  "definitions": []
+}

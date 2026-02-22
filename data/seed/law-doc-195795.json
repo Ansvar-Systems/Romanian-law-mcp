@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-195795",
+  "type": "statute",
+  "title": "LEGE nr. 251 din 13 decembrie 2017",
+  "short_name": "lege 251 13 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-13",
+  "in_force_date": "2017-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195795",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 251 13/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Convenția pentru reprimarea actelor de intervenție ilicită îndreptate împotriva aviației civile internaționale *), adoptată la Beijing la 10 septembrie 2010 și semnată de România la Montreal la 5 iulie 2016. Notă *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se ratifică Protocolul suplimentar *), adoptat la Beijing la 10 septembrie 2010 și semnat de România la Montreal la 5 iulie 2016, la Convenția pentru reprimarea capturării ilicite a aeronavelor , încheiată la Haga la 16 septembrie 1970, ratificată prin Decretul Consiliului de Stat nr. 143/1972 , cu modificările ulterioare. Notă *) Traducere."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-23249",
+  "type": "statute",
+  "title": "LEGE nr. 123 din 7 iulie 2000",
+  "short_name": "lege 123 07 07 2000",
+  "status": "in_force",
+  "issued_date": "2000-07-07",
+  "in_force_date": "2000-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/23249",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 123 07/07/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Oraşul Vatra Dornei, judeţul Suceava, se declara municipiu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Anexa la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României, republicată în Buletinul Oficial nr. 54-55 din 27 iulie 1981, se modifica în mod corespunzător. Această lege a fost adoptată de Senat în şedinţa din 8 octombrie 1998, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. PREŞEDINTELE SENATULUI MIRCEA IONESCU-QUINTUS Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 6 iunie 2000, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. p. PREŞEDINTELE CAMEREI DEPUTAŢILOR, MIRON TUDOR MITREA --------"
+    }
+  ],
+  "definitions": []
+}

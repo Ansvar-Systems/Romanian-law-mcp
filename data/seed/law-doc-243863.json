@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243863",
+  "type": "statute",
+  "title": "LEGE nr. 175 din 28 iunie 2021",
+  "short_name": "lege 175 28 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-28",
+  "in_force_date": "2021-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243863",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 175 28/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 47 din 9 aprilie 2020 pentru stabilirea, pe perioada stării de urgență instituite prin Decretul nr. 195/2020 , a condițiilor de comercializare a benzinei și motorinei în contextul crizei economice generate de pandemia SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 313 din 14 aprilie 2020."
+    }
+  ],
+  "definitions": []
+}

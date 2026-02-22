@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195465",
+  "type": "statute",
+  "title": "LEGE nr. 237 din 5 decembrie 2017",
+  "short_name": "lege 237 05 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-05",
+  "in_force_date": "2017-12-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195465",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 237 05/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 69 din 29 octombrie 2014 privind stabilirea unor măsuri financiare în domeniul sănătății și pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 807 din 5 noiembrie 2014, cu completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

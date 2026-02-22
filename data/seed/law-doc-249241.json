@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-249241",
+  "type": "statute",
+  "title": "LEGE nr. 300 din 14 decembrie 2021",
+  "short_name": "lege 300 14 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-14",
+  "in_force_date": "2021-12-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249241",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 300 14/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul , semnat la Bruxelles la 27 ianuarie 2021 și 8 februarie 2021, dintre Regatul Belgiei, Republica Bulgaria, Republica Cehă, Regatul Danemarcei, Republica Federală Germania, Republica Estonia, Irlanda, Republica Elenă, Regatul Spaniei, Republica Franceză, Republica Croația, Republica Italiană, Republica Cipru, Republica Letonia, Republica Lituania, Marele Ducat al Luxemburgului, Ungaria, Republica Malta, Regatul Țărilor de Jos, Republica Austria, Republica Polonă, Republica Portugheză, România, Republica Slovenia, Republica Slovacă și Republica Finlanda de modificare a Acordului privind transferul și mutualizarea contribuțiilor la Fondul unic de rezoluție, semnat la Bruxelles la 21 mai 2014, ratificat prin Legea nr. 205/2016 , publicată în Monitorul Oficial al României, Partea I, nr. 924 din 17 noiembrie 2016."
+    }
+  ],
+  "definitions": []
+}

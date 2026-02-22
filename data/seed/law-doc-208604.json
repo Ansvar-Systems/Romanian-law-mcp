@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-208604",
+  "type": "statute",
+  "title": "LEGE nr. 298 din 7 decembrie 2018",
+  "short_name": "lege 298 07 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-07",
+  "in_force_date": "2018-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208604",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 298 07/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege are ca obiect de reglementare stabilirea condițiilor de autorizare, din punctul de vedere al gospodăririi apelor, pentru folosințele de apă care au în curs de realizare sau urmează să realizeze investiții în infrastructura de apă uzată."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Pentru utilizatorii existenți care realizează lucrări de investiții în infrastructura de apă uzată, în autorizația de gospodărire a apelor, emisă pe o perioadă limitată, se înscriu valori-limită de încărcare cu poluanți a apelor uzate evacuate în receptori naturali, care nu depășesc valorile-limită prevăzute în tabelul nr. 1 din anexa nr. 2 la Hotărârea Guvernului nr. 188/2002 pentru aprobarea unor norme privind condițiile de descărcare în mediul acvatic a apelor uzate, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Autoritatea competentă pentru emiterea autorizațiilor de gospodărire a apelor are obligația de a înscrie în acestea lucrările și termenele stabilite prin proiectele care vizează investiții în infrastructura de apă uzată, aprobate de către finanțator."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Pentru solicitanții care urmează să acceseze fonduri din programele de finanțare europene, naționale sau din bugetele locale pentru infrastructura de apă uzată, lucrările și termenele sunt stabilite de autoritatea administrației publice locale ori de ministerul de resort, printr-un program de măsuri."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Autorizațiile de gospodărire a apelor emise în temeiul dispozițiilor art. 1 își păstrează valabilitatea cu condiția respectării termenelor de realizare a lucrărilor înscrise în acestea, dar nu mai mult de 5 ani de la data emiterii lor. (2) După expirarea valabilității autorizației de gospodărire a apelor prevăzute la alin. (1) se emite o nouă autorizație în care se înscriu valorile-limită de încărcare cu poluanți a apelor uzate evacuate în receptorii naturali care nu depășesc valorile prevăzute în anexa nr. 1 și anexa nr. 3 la Hotărârea Guvernului nr. 188/2002 , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

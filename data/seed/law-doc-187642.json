@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-187642",
+  "type": "statute",
+  "title": "LEGE nr. 23 din 21 martie 2017",
+  "short_name": "lege 23 21 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-21",
+  "in_force_date": "2017-03-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187642",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 23 21/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 25 martie ca Ziua naţională a pădurilor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Autoritatea publică centrală care răspunde de silvicultură, administratorii pădurilor proprietate publică a statului, ocoalele silvice private, împreună cu autorităţile publice locale şi organizaţiile neguvernamentale, pot organiza manifestări şi acţiuni publice dedicate sărbătoririi Zilei naţionale a pădurilor."
+    }
+  ],
+  "definitions": []
+}

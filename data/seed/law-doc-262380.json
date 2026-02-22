@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262380",
+  "type": "statute",
+  "title": "LEGE nr. 342 din 9 decembrie 2022",
+  "short_name": "lege 342 09 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-09",
+  "in_force_date": "2022-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262380",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 342 09/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 6 din 3 februarie 2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 68/2021 privind adoptarea unor măsuri pentru punerea în aplicare a cadrului european pentru eliberarea, verificarea și acceptarea certificatului digital al Uniunii Europene privind COVID pentru a facilita libera circulație pe durata pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 117 din 4 februarie 2022."
+    }
+  ],
+  "definitions": []
+}

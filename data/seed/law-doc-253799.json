@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-253799",
+  "type": "statute",
+  "title": "LEGE nr. 79 din 8 aprilie 2022",
+  "short_name": "lege 79 08 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-08",
+  "in_force_date": "2022-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253799",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 79 08/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 48 din 9 aprilie 2020 privind unele măsuri financiar-fiscale, publicată în Monitorul Oficial al României, Partea I, nr. 319 din 16 aprilie 2020, cu următoarele modificări: 1. Articolul VII se abrogă. 2. La articolul VIII, alineatul (3) va avea următorul cuprins: (3) Pe durata stării de urgență, începând cu data suspendării activității - 18 martie 2020, decretată în anul 2020, obligațiile de plată aferente autorizațiilor de exploatare a jocurilor de noroc tradiționale prevăzute de Ordonanța de urgență a Guvernului nr. 77/2009 , aprobată cu modificări și completări prin Legea nr. 246/2010 , cu modificările și completările ulterioare, se suspendă."
+    }
+  ],
+  "definitions": []
+}

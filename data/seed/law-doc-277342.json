@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277342",
+  "type": "statute",
+  "title": "LEGE nr. 400 din 13 decembrie 2023",
+  "short_name": "lege 400 13 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-13",
+  "in_force_date": "2023-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277342",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 400 13/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 7 din Legea poliției locale nr. 155/2010 , republicată în Monitorul Oficial al României, Partea I, nr. 339 din 8 mai 2014, cu modificările și completările ulterioare, litera j) se modifică și va avea următorul cuprins: j) constată contravenții și aplică sancțiuni pentru încălcarea normelor rutiere de către pietoni, bicicliști, conducători de mopede, trotinete electrice și vehicule cu tracțiune animală;"
+    }
+  ],
+  "definitions": []
+}

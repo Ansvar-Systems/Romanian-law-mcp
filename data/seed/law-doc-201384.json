@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-201384",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 7 iunie 2018",
+  "short_name": "lege 125 07 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-07",
+  "in_force_date": "2018-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201384",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 07/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După articolul 25 din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 621 din 2 septembrie 2010, cu modificările ulterioare, se introduce un nou articol, articolul 25^1, cu următorul cuprins: Articolul 25^1 Interdicțiile aplicate persoanelor care au avut calitatea de senator și/sau deputat în oricare dintre mandatele cuprinse în perioada 2007-2013, în temeiul art. 25, pe baza rapoartelor de evaluare întocmite de Agenția Națională de Integritate și care au constatat nerespectarea prevederilor legale privind conflictul de interese în exercitarea oricăruia dintre mandatele de senator și/sau deputat în perioada 2007-2013, până la intrarea în vigoare a Legii nr. 219/2013 pentru modificarea și completarea Legii nr. 96/2006 privind Statutul deputaților și al senatorilor, încetează de drept."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Modificările aduse prin prezenta lege se aplică începând cu data intrării în vigoare."
+    }
+  ],
+  "definitions": []
+}

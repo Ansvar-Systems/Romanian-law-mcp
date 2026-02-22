@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219727",
+  "type": "statute",
+  "title": "LEGE nr. 212 din 11 noiembrie 2019",
+  "short_name": "lege 212 11 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-11",
+  "in_force_date": "2019-11-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219727",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 212 11/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (1) al articolului 30 din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată în Monitorul Oficial al României, Partea I, nr. 205 din 24 martie 2014, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 30 (1) Hotărârea prin care se soluționează cererea de emitere a ordinului de protecție este supusă numai apelului, în termen de 3 zile de la pronunțare, dacă s-a dat cu citarea părților, și de la comunicare, dacă s-a dat fără citarea lor."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-2431",
+  "type": "statute",
+  "title": "LEGE Nr. 123 din 22 decembrie 1992",
+  "short_name": "lege 123 22 12 1992",
+  "status": "in_force",
+  "issued_date": "1992-12-22",
+  "in_force_date": "1992-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2431",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 123 22/12/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "România adera la Convenţia pentru reprimarea actelor ilicite împotriva siguranţei navigaţiei maritime, adoptată la Roma la 10 martie 1988, precum şi Protocolul pentru reprimarea actelor ilicite împotriva siguranţei platformelor fixe situate pe platoul continental, adoptate la Roma la 10 martie 1988. Această lege a fost adoptată de Senat în şedinţa din 16 iulie 1991, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE SENATULUI prof. univ. OLIVIU GHERMAN Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 8 decembrie 1992, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE"
+    }
+  ],
+  "definitions": []
+}

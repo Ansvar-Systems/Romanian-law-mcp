@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281916",
+  "type": "statute",
+  "title": "LEGE nr. 108 din 17 aprilie 2024",
+  "short_name": "lege 108 17 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-17",
+  "in_force_date": "2024-04-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281916",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 108 17/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 48 din 26 mai 2023 privind unele măsuri în domeniul Sistemului național unic pentru apeluri de urgență, publicată în Monitorul Oficial al României, Partea I, nr. 466 din 26 mai 2023."
+    }
+  ],
+  "definitions": []
+}

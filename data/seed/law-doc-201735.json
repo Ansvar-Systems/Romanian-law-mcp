@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201735",
+  "type": "statute",
+  "title": "LEGE nr. 139 din 18 iunie 2018",
+  "short_name": "lege 139 18 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201735",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 139 18/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 9 din 1 martie 2018 privind abrogarea art. 1 alin. (4) din Legea nr. 222/2017 pentru realizarea „Capabilității de apărare aeriană cu baza la sol“, aferentă programului de înzestrare esențial „Sistem de rachete sol-aer cu bătaie mare (HSAM)“, publicată în Monitorul Oficial al României, Partea I, nr. 198 din 5 martie 2018."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,637 @@
+{
+  "id": "law-doc-27558",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 19 decembrie 1925",
+  "short_name": "lege 144 19 12 1925",
+  "status": "in_force",
+  "issued_date": "1925-12-19",
+  "in_force_date": "1925-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/27558",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 19/12/1925",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pentru întreg Statul român exista o singura înaltă Curte de casaţie şi de justiţie."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Deciziunile Curţilor de apel şi ale Curţilor cu juraţi, precum şi sentinţele tribunalelor ordinare date ca instanţe de apel, sentinţele jurisdictiilor speciale şi ale tribunalelor militare, în cazurile şi modul stabilit de lege, vor fi pronunţate cu recurs la înaltă Curte de casaţie. Se exceptează cazurile în cari, prin derogare de la competinţa generală a acestei Curţi ca instanţa de recurs, legea va fi atribuit altei instanţe acea competinţa."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Curtea de casaţie se compune dintr'un prim-preşedinte, trei presedinti de secţie şi 42 consilieri. Ea este împărţită în trei secţiuni. Fiecare secţiune se compune dintr'un preşedinte şi numărul de consilieri ce urmează: secţiunea I cu 18 consilieri, iar secţiunile II şi III cu câte 12 consilieri fiecare. Preşedintele de secţie şi consilierii sînt permanenţi la secţiile din cari fac parte. Totus în caz de vacanta la o secţie, Ministerul de Justiţie, cu avizul conform al primului-preşedinte şi al preşedinţilor de secţie, poate da preferenta consilierilor dela celelalte secţii cari cer locurile vacante."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Condiţiunile de admisibilitate pentru numirea membrilor Curţii de casaţie, precum şi poziţiunea lor, sînt cele determinate de legea de organizare judecătorească."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Ministerul public depe lîngă Curtea de casaţie se compune dintr'un procuror general şi 5 procurori de secţie. Ei sînt inamovibili în aceleaşi condiţiuni ca membrii Curţii de casaţie."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Pe lîngă curtea de casaţie vor funcţiona un număr de magistraţi asistenţi şi anume: un magistrat asistent prim, trei magistraţi asistenţi de clasa I şi 18 magistraţi asistenţi de clasa II. Magistraţii asistenţi fac parte din ordinul judecătoresc."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Magistratul asistent prim are gradul de consilier de Curte de apel; el este însărcinat cu publicarea Buletinului Curţii de casaţie: ia parte la secţiunile-unite ale Curţii şi în comisiunile disciplinare şi poate lua parte la şedinţa oricărei secţiuni, după delegaţiunea primului preşedinte. El este capul tuturor magistraţilor asistenţi şi a funcţionarilor din cancelaria Curţii de Casaţie. Magistraţii asistenţi de clasa I au gradul de preşedinte de tribunal şi vor putea fi inaintati pe loc după stagiul cerut de legea de organizare judecătorească pentru magistraţi în genere pînă la gradul de consilier de Curte de apel. Ei ingrijesc a se păzi buna randuiala în ţinerea registrelor şi a tuturor hârtiilor din cancelariile secţiilor."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Nimeni nu va putea fi numit magistrat asistent de clasa II dacă nu are diploma de licenţiat sau doctor în drept şi dacă nu a ocupat funcţiunea de judecător de tribunal sau judecătorie, de procuror, sau un timp de cel puţin 2 ani pe aceea de supleant, substitut, ajutor de judecător, de grefier sau ajutor de grefa la o curte de apel. Ei au gradul de judecători de tribunal şi vor putea fi inaintati pe loc după stagiul cerut de legea de organizare judecătorească pentru magistraţi în genere pînă la gradul de prim-preşedinte de tribunal. Magistraţii asistenţi se vor numi numai cu avizul Curţii de casaţie, iar în ce priveşte înaintarea lor pe loc şi disciplina, li se vor aplica dispoziţiunile legii de organizare judecătorească corespunzătoare gradului ce-l au în magistratura. Numărul magistraţilor asistenţi de clasele I şi II se poate spori, pe baza raportului primului preşedinte al Curţii, de Ministerul de Justiţie, prin buget anual, în raport cu necesităţile serviciului. Ei se împart la secţiuni de către primul-preşedinte cu avizul conform al preşedinţilor şi iau locul magistratului asistent prim, după vechime, în lipsa lui."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 1 - Întocmirea Curţii de casaţie",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Magistraţii asistenţi verifica şi constata îndeplinirea procedurii înfăţişării părţilor litigante făcînd menţiune de aceasta pe foaia dosarului; redactează deciziunea sub controlul consilierului raportor şi al preşedintelui şi rezumeaza speta la deciziunile a căror publicare în Buletin s'a dispus de Curte. În caz de împiedicare a consilierului raportor, preşedintele va putea insarcina pe un alt consilier cu controlarea redactarii motivelor deciziunii. Aceeas însărcinare o va putea da şi în pricinile în cari nu se face raport, sau cînd dificultăţile chestiunilor deduse în recurs reclama redactarea directa de către un consilier."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Primul-preşedinte prezidează Curtea întreaga în secţiuni-unite, precum şi secţiile cari au sa judece divergintele şi poate prezida, cînd crede de cuviinţă sau serviciul cere, şi fiecare secţie sau complet de judecată în parte. În lipsa primului-preşedinte, în toate cazurile arătate, şedinţele se vor presida de preşedinţii de secţie, după ordinea vechimii, şi în lipsa şi acestora, de cel mai vechiu dintre membrii prezenţi. Secţiile sau completele de judecată, în lipsa preşedinţilor cari pot prezida oricînd şi oricărei dintre complete - se vor prezida de cel mai vechi dintre membrii lor. Cînd primul preşedinte prezidează, preşedinţii de secţii funcţionează ca membrii."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Preşedinţii şi consilierii Curţii de casaţie îşi au locurile în şedinţele generale şi în cele de secţiuni după rândul numirii lor."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Fiecare şedinţa a Curţii va tine cel puţin 5 ore, începînd la ora 1 p.m. Magistratul asistent prim va tine un registru de prezenta membrilor Curţii. Primul-preşedinte şi, în lipsa lui, preşedinţii de secţii, după rândul vechimii vor încheia zilnic foaia de prezenta la ora 1 p. m., constatând cari membrii au venit la timp şi adeverind ca şedinţele s'au deschis sau nu la ora legală. Membrii absenţi fără concediu sau sositi după ora legală, în afară de măsurile disciplinare la cari se expun, pierd dreptul la onorariu pentru, zilele de absenta sau întârzieri. Prim preşedintele va inainta Ministerului Justiţiei lista acelor absente sau întârzieri. Aceleaşi măsuri se aplică şi magistraţilor asistenţi şi funcţionarilor judecătoreşti ai Curţii. Ministerul Justiţiei prin organul procurorului general al Curţii precum şi procurorul general dela sine, au dreptul de a controla stricta pazire a măsurilor prescrise în acest articol."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "În sanul secţiei I se va constitui doua complete din câte 7 consilieri. Ele nu vor avea o compunere permanenta, ci consilierii vor alterna, iar judecata completelor se va urma concomitent ori succesiv. Modul de constituire prin alternarea completelor se va decide de preşedinţii de secţii în înţelegere cu primul-preşedinte. Repartiţia recursurilor, în ordinea înregistrării lor, se va face, în sanul fiecărei secţii, de preşedintele secţiei respective. Secţiunile II şi III, vor judeca cu câte un complet de şapte consilieri. Cînd acest număr nu se poate împlini cu membrii din sanul secţiei, din pricina de boala, de concedii, de recuzare sau alte asemenea împrejurări, numărul se completează cu consilieri din celelalte secţii, traşi la sorţi cu bile de primul-preşedinte în şedinţa publică faţa cu ministerul public. Fiecare complet dela orice secţie este competent a judeca orice recurs venit din circumscripţia oricărei Curţi de apel."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Nici o deciziune nu se poate pronunţa de o secţie sau un complet al Curţii dacă se întruneşte cel puţin cinci glasuri."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Intamplandu-se a nu se împlini numărul de glasuri cerut de art. precedent, completul chemat a hotărî asupra divergenţei ivite se va compune din 11 membri. În compunerea acestui număr vor intra pe lîngă primul-preşedinte sau inlocuitorul sau, membrii prezenţi şi nerecuzabili ai secţiei respective iar restul pînă la completarea numărului legal, se va lua dintre consilierii celorlalte secţii conform art. 13. Dacă la cercetarea din nou a recursului nu se va putea forma majoritatea de 7 glasuri, recursul se va trimite în judecata secţiunilor-unite."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Cînd Curtea de casaţie judeca în secţiuni-unite trebuie să fie de faţa şi sa ia parte la judecata cel puţin 31 consilieri. Completul va fi totdeauna compus dintr'un număr nepereche. În asemenea caz o deciziune nu se poate da decât cu majoritate absolută a glasurilor."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Secţiile II şi III şi fiecare complet din secţia I vor tine cel puţin patru şedinţe pe săptămîna. Secţiile unite ţin de câte ori trebuinta va cere. În cazurile în cari o secţiune a Curţii ar găsi ca e locul a se reveni asupra unei jurisprudente stabilite de unul din completele sale în cursul a 5 ani anteriori judecaţii recursului în discutiune, Curtea se va constitui cu completul cerut pentru diverginte. Cînd acea jurisprudenta a fost stabilită de secţiunile-unite ale Curţii, atunci recursul se va judeca de asemenea în secţiuni-unite. Recursul se va judeca tot în secţiuni-unite în cazul cînd o secţiune ar găsi ca e locul a se reveni asupra unei jurisprudente stabilită de o alta secţiune. SECŢIA II Ministerul public"
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Procurorul general este ţinut sa asiste şi sa pună concluziuni în toate afacerile la şedinţele secţiunilor-unite şi la şedinţele de diverginte. În caz de lipsa de împiedicare, procurorul general este înlocuit de procurorul de secţie cel mai vechiu, sau de cel delegat de dânsul."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Procurorii au dreptul de a-şi da părerea despre aplicaţiunea legii şi de a lua concluziuni în toate cauzele ce se desbat înaintea Curţii. Ei sînt datori de a lua concluziuni în toate afacerile penale, iar în afacerile civile ori comerciale numai în cazurile prevăzute de procedura civilă şi de legi speciale. Procurorii nu pot, în nici un caz, sa ia parte sau sa asiste la deliberările judecătorilor, cari sînt în totdeauna secrete. Procurorii nu pot fi recuzati. În caz de lipsa de procuror, primul-preşedinte sau acela ce-l înlocuieşte va delega pre unul din membrii Curţii spre a lua concluziuni în şedinţa."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Procurorul general are dreptul de control şi de priveghere asupra concluziunilor pregătite de procurorul de secţie pentru a le pune înaintea Curţii. Dacă procurorul general nu încuviinţează concluziunile procurorului de secţie şi acesta starueste în părerea sa, atunci procurorul general va lua insas parte la şedinţa, sau va delega un alt procuror."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Ministerul public, direct sau luînd înţelegere cu ministrul justiţiei, va putea ataca, înaintea Curţii de casaţie, pentru rea interpretare a legii, hotărîrile desavarsite şi actele celorlalte instanţe judecătoreşti în pricini civile, chiar cînd nu se vor ataca de părţile interesate, însă numai în interesul legii şi după expirarea termenului de recurs. Deciziunea de casare ce va interveni în asemenea cazuri nu va avea nici un efect pentru părţi."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Titlul I - Organizarea Curţii de Casaţie | Capitolul 2 - Funcţionarea Curţii",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Ministerul justiţiei, adresandu-se prin procurorul general al Curţii de casaţie sau deadreptul, sau în urma iniţiativei luate de acesta şi fără prejudiciul dreptului părţilor interesate, va denunta Curţii de casaţie orice hotărîre şi orice act prin care judecătorii şi-ar fi insusit atributiuni peste competenţa lor şi ar fi comis vre un exces de putere sau delicte relative la instrucţiunea lor. În caz de delicte, cînd Curtea va anula acele hotărîri sau acte, se va constitui îndată în Curte de justiţie, conform art. 59, alin. 2, şi va proceda la judecarea culpabililor."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "În cauze de drept privat Curtea funcţionează ca Curte de Casaţie."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Curtea de Casaţie judeca în aceasta calitate cererile pornite în contra hotărârilor tribunalelor de prima instanţa nesupuse la apel şi în contra hotărârilor desavarsite pronunţate de instanţele de apel. Hotărîrile nedesavarsite pot fi însă atacate cu recurs în cazul excepţional prevăzut de art. 22 şi art. 28 alin. II. Curtea nu poate primi cereri în casaţie în contra hotărârilor premergătoare sau deslusitoare, casarea acestora neputându-se cere decât după ce s'a dat hotărîrea definitivă asupra fondului procesului."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Ea judeca asemenea cererile pornite în contra desavarsitelor hotărîri de arbitri, cînd acestea judeca ca tribunal, conform regulelor de procedura în vigoare, cum şi contra hotărârilor judecătoreşti ce ar fi intervenit după lege în materie de judecată arbitrală."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "De asemenea se pronunţa în contra hotărârilor tribunalelor militare, însă numai: 1. Pentru cauza de necompetenta, cînd se va fi dat în contra unui individ de nu este militar, nici asimilat prin a sa funcţiune de lege cu militarii. 2. Cînd vor fi atacate de guvern după cuprinderea art. 22 din această lege, în care caz militarul condamnat se poate folosi de cererea în casaţie formată de guvern."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "În aceeas calitate Curtea se pronunţa asupra cererilor în anulare făcute de Ministerul de Justiţie în temeiul art. 22 din această lege, în contra hotărârilor, fie şi nedesavarsite, sau actelor judecătoreşti de orice instanţa, cari ar cuprinde un exces de putere sau ar fi făcute fără competinţa. Asemenea cereri vor putea fi făcute de părţile interesate, însă numai atunci cînd hotărîrile nedesavarsite sau actele judecătoreşti nu vor putea fi atacate pe nici o alta cale ordinară şi cursul justiţiei s'ar găsi întrerupt."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "În fine Curtea de Casaţie se pronunţa: 1. Asupra cererilor de strămutare a pricinilor dela un tribunal la altul, sau de la o Curte de apel la alta, pentru cuvântul de banuiala legitima sau de siguranţă publică. 2. Asupra conflictelor de jurisdicţie între doua sau mai multe Curţi şi tribunale de vor fi supuse acestea la Curţi de apel diferite. Conflictele de jurisdicţie între doua sau mai multe tribunale supuse la aceeas Curte de apel, se judeca la Curtea de apel la care sînt supuse. 3. Asupra hotărârilor contrarii date de aceeas Curte, sau de doua diferite Curţi, sau de un tribunal şi o Curte, în una şi aceeas pricina, între aceleas persoane şi aceleas împrejurări de prigonire. 4. Asupra cererilor de recurs pornit în contra hotărârilor atingătoare de reclamatiunile izvorâte din cauza unei exproprieri. 5. Şi în genere asupra tuturor materiilor ce i se vor atribui de lege."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Tot Curtea de casaţie va judeca - şi aceasta cu o competinţa exclusiva - chestiunea constituţionalităţii unei legi dedusă în judecata oricărei jurisdictiuni, putând declara neaplicabile pe acelea cari ar fi contrarii Constitutiunii. Instanţa înaintea căreia se va fi ridicat chestiunea de constituţionalitatea unei legi va continua sa judece procesul, rămînînd ca chestia de constituţionalitate să fie adusă în judecata secţiunilor-unite ale Curţii de casaţie după ce procesul va fi fost rezolvat în mod definitiv, chiar şi în casaţie prin rezolvarea altor motive de recurs de secţiunea competinte. Tot astfel se va judeca şi în caz cînd chestia de constituţionalitate se va fi ridicat şi înaintea altor instanţe judecătoreşti judecand ca instanţe de recurs. În acest caz partea care a contestat constituţionalitatea va ataca hotărîrea sub forma unui recurs special înaintea secţiunilor unite spre a decide asupra chestiunii şi a casa hotărîrea în caz cînd se va stabili neconstituţionalitatea legii în discutiune. În cazul cînd reclamantul consimte la suspendarea judecaţii afacerii cu ocaziunea căreia s'a ridicat chestia constituţionalităţii unei legi, instanţa de judecată va suspenda cursul judecaţii şi trimite de îndată dosarul cauzei Curţii de casaţie. Curtea, în secţiuni-unite, va judeca aceasta chestiune de urgenta şi cu precădere înaintea oricărei cauze. În caz de respingerea incidentului de neconstituţionalitate, Curtea va obliga partea care l-a ridicat la plata tuturor cheltuielilor de judecată justificate şi o va putea încă obliga şi la daune interese egale cu cheltuielile de judecată, cînd incidentul respins a fost ridicat dintr'un vadit spirit de taraganire sau împiedicare a judecaţii."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Casarea unei hotărîri se poate cere şi în împrejurările următoare: 1. Cînd judecata nu s'a urmat cu numărul de judecători cerut de lege; 2. Cînd hotărîrea s'a dat de alţi judecători decât acei cari au luat parte la desbaterea procesului în fond; 3. Cînd tribunalul sau Curtea ce au judecat procesul vor fi fost compuse de judecători cari n'au îndeplinit condiţiunile cerute de lege; 4. Cînd încheierile tribunalelor sau Curţilor de apel, date cu titlu de desluşiri la impiedicarile ivite cu ocaziunea punerii în lucrare a unei hotărîri definitive, sau aducerii întru îndeplinire, se vor ataca cu contrarii hotărârilor definitive; 5. Cînd hotărîrea nu cuprinde temeiurile pe cari este bazată sau cînd se întemeiază pe articole cu totul străine de firea pricinii, ori cînd omite a se pronunţa asupra unui mijloc de apărare esenţial în cauza; 6. Cînd tribunalul sau Curtea au făcut o rea aplicatiune a legii, ori au călcat forme de procedura esenţială pentru validitatea hotărârilor judecătoreşti; 7. Cînd aceste instanţe au depăşit competinţa lor ori au săvârşit un exces de putere în sensul că au trecut în atribuţiunile altei puteri constituite în Stat; 8. Cererea în casaţie pornită în contra unei hotărîri sub cuvânt de rea interpretare a conventiunii, nu va fi primită decât cînd interpretarea data prin acea hotărîre ar schimba însăşi natura conventiunii, sau i-ar denatura înţelesul clar şi vadit neîndoielnic; 9. Cînd va comite o eroare grosiera de fapt sau un exces de putere."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 1 - Jurisdicţie",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "§I. Secţiunea I va judeca recursurile în materie civilă, afară de cele deferite secţiunilor celorlalte prin prezenta lege şi legi speciale. §II. Secţiunea II va judeca recursurile: a) în materie criminală, corecţională şi de contraventiuni penale; b) în contra deciziunilor date în materie de despărţenie, de paza copiilor, de pensiune alimentara în materie de divorţ şi de separatiuni de patrimoniu; c) în contra ordonanţelor de adjudecare în materie de expropriere silită; d) în contra hotărârilor date asupra contestatiunilor la executare şi în contra tuturor celor intervenite în cursul oricărei executări; în materie de poprire şi de sechestru asigurator; e) în contra deciziunilor date asupra consolidării drepturilor oricărui litigiu în materie miniera; f) în contra deciziunilor tribunalelor militare în limitele art. 26 din această lege; g) în contra deciziunilor arbitrilor în materie civilă, cum şi în contra hotărârilor judecătoreşti intervenite cu ocazia unei judecati arbitrale; h) în contra hotărârilor date conform codului silvic; i) în materie de organizare şi administrare a tutelelor şi curatelelor. §III. Secţiunea III va judeca recursurile: a) în contra hotărârilor date în materie comercială, precum şi în contra hotărârilor arbitrilor sau a hotărârilor date cu privire la o judecata arbitrală în aceasta materie; b) în contra hotărârilor date în temeiul art. 66 bis din procedura civilă română (refereu) şi în contra hotărârilor date în materie de sechestru judiciar pe temeiul art. 1632 din codul civil român, combinat cu art. 615 procedura civilă; c) în contra deciziunilor Curţii de conturi; d) în contra deciziunilor date în materie de expropriere; e) în contra deciziunilor date în materie de pensiuni; f) în contra deciziunilor şi hotărârilor judecătoreşti date în materie administrativă sau fiscală, precum şi în contra acelora date în materie de contencios administrativ; g) în contra deciziunilor Curţilor de apel în cazurile prevăzute de art. 15 din legea pentru organizarea şi administrarea teatrelor din România, precum şi în cazurile prevăzute de art. 10 din legea asupra numelui; h) tot aceasta secţiune va judeca conflictele de atributiuni."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Cererea de casare se face prin petitiune în scris, depusa de parte sau de mandatarul ei la preşedintele Curţii de apel a cărui deciziune se ataca sau la preşedintele respectiv al primei instanţe. Tot acolo va depune recursul şi ministerul public cînd este parte principala."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "Termenul de recurs, atît în materie civilă cat şi în materie comercială, este de o luna dela comunicarea hotărîrii ce se ataca, fără distinctiune dacă hotărîrea s'a dat în lipsa ori contradictoriu. În cazurile prevăzute de legi speciale se vor urma acele termene."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "Dacă partea interesată moare în cursul acestui termen fără sa fi pornit cerere în casare atunci termenul curge: pentru moştenitorii prezenţi şi majori din momentul morţii, pentru moştenitorii minori sau declaraţi de incapabili din orice alta cauza, sau pentru cazul cînd moştenirea va fi vacanta, termenul va curge din ziua în care se va numi o tutela sau o curatel, sau un administrator provizoriu. Recursul în casatiune, în orice caz, nu se socoteşte o faptă de primirea moştenirii."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Cererea în casaţie va fi însoţită de copia hotărîrii atacate, comunicată părţii, cum şi de taxele prevăzute de legea timbrului şi înregistrării sau de actele de saracie. Plata taxelor pentru citarea părţilor va trebui facuta odată cu depunerea recursului."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Recursul va trebui să fie motivat prin însăşi petiţia de recurs sau printr'o petiţie deosebită depusa înlăuntrul termenului de recurs, socotit numai dela comunicare, la preşedintele Curţii de apel ori a tribunalului, conform celor prevăzute în art. 32 din această lege. În afacerile criminale, corecţională şi de simpla poliţie, mijloacele de casare pot fi depuse pînă la prima zi fixată pentru judecata. Motivele vor trebui să fie formulate în prima parte, sub forma enunciativa, cu totul rezumata, indicandu-se numai textul de lege, ori principiul de drept violat şi în ce sens anume, iar în a doua parte să urmeze dezvoltarea şi argumentarea. Preşedintele instanţei care primeşte recursul va restitui cererea de recurs, dacă nu va fi redactată în condiţiunile aci prevăzute, prelungind dreptul de recurs cu 5 zile, pentru ca recurentul să se conformeze cerinţelor legii. Odată termenul de recurs expirat, mijloacele de casare nu mai pot fi depuse, nici schimbate în fondul lor, ori adaogate. În termen de 15 zile dela primirea copiei depe recurs cu motivele de casare, intimatul îşi va formula intampinarile sale printr'un memoriu depus la instanţa unde s'a adresat recursul şi sa-l comunice, în copie, recurentului. Grefa instanţei respective va îngriji ca sa trimită Curţii de casaţie dosarul complet cu aceste acte, împreună cu dovezile de comunicarea lor, cum şi cu dovezile de comunicarea deciziunii atacate, ori cu menţiunea necomunicarii ei. În afacerile civile şi comerciale în cari ministerul public e chemat a depune concluziuni, conform procedurii civile sau legilor speciale, motivele de recurs vor fi depuse cu un exemplar în plus, destinat parchetului."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Nedepunerea mijloacelor de casare desvoltate în termenul cerut de art. 36 atrage de drept nulitatea recursului."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "În materie criminală, corecţională şi de simpla poliţie, recursul în casaţie se face în modul şi termenii prevăzuţi de codul de procedura penală. În orice caz, în toate aceste materii recursurile pot fi adresate atît la instanţele de fond, cat şi direct cancelariei Curţii de Casaţie. În toate aceste materii motivele de recurs vor fi depuse în dublu exemplar."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Toate pricinile intrate se trec chiar din momentul intrării lor într'un registru general cu număr, după data şi rândul intrării. Primul-preşedinte le împarte apoi între secţiuni, unde se trec în deosebit registru, iaras cu număr, după data şi rândul intrărilor."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "În fiecare secţie sînt doua registre; într'unul se trec pricinile urgente, în celălalt pricinile ordinare. Pricinile se sorocesc după rândul intrării lor, afară de cele urgente, cari au precădere. Se socotesc urgente pricinile declarate astfel de legi sau de secţia respectiva a Curţii."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Primul-preşedinte şi preşedinţii de secţie fixează termenele pentru judecarea recursurilor. Pricinile supuse taxelor pentru citaţii nu se vor soroci decât dacă acele taxe au fost plătite."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Preşedintele, sorocind recursul, desemnează şi membrul însărcinat sa întocmească raportul asupra recursului. Distribuirea dosarelor pentru acest scop între membrii secţiunii se va face în mod egal după ordinea intrării lor şi după vechimea membrilor. Raportul va cuprinde în rezumat arătarea obiectului reclamatiunii, solutiunea ultimei instanţe şi faptele constatate de instanţa de fond, limitate exclusiv în măsura necesară soluţionării recursului. Sub forma de observatiuni obiective şi fără a-şi arata părerea sa personală, raportul va referi: a) Asupra condiţiunilor de forma, de admisibilitate; b) Asupra punctelor esenţiale de sprijin ale hotărîrii atacată şi dacă solutiunea data este în acord cu jurisprudenta Curţii de casaţie ori după cazuri cu doctrina. Raportorul este obligat a depune neapărat raportul sau, în pricinile ordinare, cu cel puţin 5 zile înainte de ziua înfăţişării; iar în pricinile urgente cu cel puţin 3 zile înainte de ziua înfăţişării. În materie penală raportul nu este necesar decât pentru afacerile de competinţa Curţii cu juraţi."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Fiecare magistrat-asistent al secţiei este dator sa ţină lista pe o condica specială de recursurile fixate pentru judecata în fiecare zi. Aceste liste se vor afişa pînă în ziua judecaţii în cancelaria Curţii, în sala sedintii şi la usa acestei sali."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Procurorul înapoiază Curţii dosarul cu toate hârtiile, cu 3 zile libere înaintea zilei de înfăţişare."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Şedinţele Curţii de casaţie sînt publice, afară numai cînd publicitatea lor ar putea atinge bunele moravuri, în care caz se declara aceasta prin încheiere de jurnal cu majoritatea voturilor. Un asemenea jurnal, cînd se atinge de cercetarea delictelor politice şi de presa, sau cercetarea pricinilor prevăzute la art. 58 şi următorii din aceasta legiuire nu se poate încheia decât în unanimitate."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "După citirea raportului părţile sau advocatii lor au dreptul sa vorbeasca, cerând voie dela preşedintele Curţii, care va putea limita timpul discutiunii. În toate recursurile, fără nici o excepţie, Curtea va examina mijloacele de casare şi în lipsa recurentului, cu condiţiunea ca recurentul sa comunice Curţii ca înţelege a-şi susţine recursul pe temeiul motivelor scrise, depuse la dosar. În lipsa acestei comunicări din partea recurentului, recursul va fi respins ca nesusţinut. Pentru a se stabili ca recursul a fost introdus în termenul legal, grefierii Curţilor de apel şi ai tribunalelor vor fi datori să facă menţiunile prevăzute la art. 36. În afacerile în cari hotărîrile se pot comunică şi pe cale administrativă, funcţionarul administrativ va fi obligat să facă, în dublu exemplar, dovada sau procesul-verbal de comunicare, dând una părţii care face comunicarea, înaintând cealaltă instanţei a carei hotărîre a comunicat-o, pentru a o anexa la dosar. Dacă la ziua înfăţişării Curtea constata că nu exista la dosar copia dovezii de comunicare, sau a procesului-verbal încheiat de agentul administrativ, ori intimatul nu o prezintă, în aceste cazuri recursul se va considera ca făcut în termen. Cînd comunicarea hotărîrii s'a făcut prin portarei, recurentul este dator ca pînă la ziua înfăţişării să prezinte un certificat al portareilor dacă dovada comunicării n'a fost trimisa de portarei şi depusa la dosar. Lipsa dovezii de comunicare şi neprezentarea certificatului portareilor atrage deadreptul nulitatea recursului fără ca Curtea să poată acorda vreun termen pentru aducerea lor."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "În toate cauzele procurorul vorbeşte cel din urma. Numai atunci părţile pot vorbi cele din urma, cînd ministerul public va fi însuş parte principala în proces."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "Desbaterile fiind terminate Curtea se retrage în camera de deliberare. Părerile se aduna de către preşedinte după rândul numirilor, începînd dela consilierul cel din urma numit. Părerile fiind adunate şi deciziunea scrisă şi subscrisă de membri, Curtea sau preşedintele reintra în pretoriu şi magistratul asistent citeşte în auzul tuturor cuprinderea ei."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "Deciziunile Curţii de casaţie se pronunţa în numele legii şi se executa în numele Regelui; ele menţionează intampinarile părţilor, concluziunile procurorului, motivele şi dispozitivul, numărul şi numele judecătorilor ce au luat parte la judecata."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "Deciziunile Curţii de casaţie sînt privite de lege ca acte colective ale întregii Curţi, iar nu a unei părţi din membrii ce o compun. De aceea, nici unul din judecători nu are dreptul a-şi da părere scrisă deosebită, ci toţi sînt datori sa subscrie deciziunea majorităţii ca sa o constate şi sa o încredinţeze. Dacă în cursul deliberatiei asupra unui recurs judecat în secţiuni unite se ivesc mai mult de doua opiniuni fără ca nici una sa întrunească majoritatea voturilor, atunci opiniunea celor mai putini la număr trebuie să se unească cu una din cele doua opiniuni cari întrunesc mai multe glasuri, spre a se putea da o deciziune de majoritate."
+    },
+    {
+      "provision_ref": "Art.51",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "51",
+      "title": "Articolul 51",
+      "content": "Hotărîrea judecătorească casată se socoteşte ca şi cum nu ar fi fost şi nu mai are nici o putere. De aceea orice acte de asigurare sau de executare se vor fi făcut în puterea unei asemenea hotărîri se desfiinţează totul."
+    },
+    {
+      "provision_ref": "Art.52",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "52",
+      "title": "Articolul 52",
+      "content": "Cînd Curtea casează, dispune trimiterea afacerii în judecata aceleas instanţe care a judecat şi înaintea căreia se va proceda la judecata de o alta secţiune, sau alt complet al acelei instanţe, dacă afacerea este de natura a primi o urmare de judecată. La caz cînd procedura va fi casată, se va reîncepe dela ultimul act viciat. Dacă instanţa a carei hotărîre a fost casată a încetat de a avea exigenta legală, afacerea va fi trimisa înaintea unei instanţe de drept comun cu rang corespunzător după aprecierea Curţii. Cînd interesele justiţiei cer, afacerea va putea fi trimisa şi înaintată altei instanţe decât aceea care a judecat acelaşi grad."
+    },
+    {
+      "provision_ref": "Art.53",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "53",
+      "title": "Articolul 53",
+      "content": "Curtea de casaţie nu trimite afacerea la alt tribunal sau Curte, ci statuează ea insas în fond, de câte ori este vorba de o simpla aplicatiune a legii la faptele constante, cum ar fi cazurile de autoritate de lucru judecat, sau prescriptiuni, în cari elementele de fapt nu sînt contestate, ori altele similare cînd nu se cere o verificare de fapte, nici examinarea unor elemente noui de probaţiune şi aprecierea lor deosebită. Tot asemenea nu este loc la trimiterea pentru o noua judecata, ci Curtea casand declara numai fără nici o putere hotărîrea judecătorească în cazurile următoare: a) Cînd casarea se pronunţa pentru cuvântul ca hotărîrea casată a condamnat fapte neprevăzute de lege; b) Cînd desfiinţează o hotărîre pentru ca s'a primit apel sau opoziţie peste termenul legiuit; c) Cînd anulează hotărîri pentru contrarietate cu alte hotărîri desavarsite şi încheieri de desluşiri pentru punerea în lucrare a hotărârilor definitive, contrare acestor hotărîri; d) Cînd desfiinţează hotărîri în materii penale prin cari acuzatul a fost declarat nevinovat; e) În caz de admiterea recursului şi cînd Curtea de casaţie statuează asupra fondului, executarea deciziunii acestei Curţi, se va face de către instanţa de fond a carei deciziune a fost reformata şi aceasta după cererea părţii, prin intervenţie Curţii de casaţie."
+    },
+    {
+      "provision_ref": "Art.54",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "54",
+      "title": "Articolul 54",
+      "content": "În caz de casare cu trimitere, deciziunile Curţii de casaţie asupra punctelor de drept soluţionate sînt obligatorii pentru instanţa de fond. În caz cînd judecătorii acestei instanţe nu se vor conformă deciziunii Curţii de casaţie, ei vor fi traşi în judecata consiliului disciplinar. Hotărîrea casată din nou se va trimite aceleas instanţe care va judeca conform art. 52."
+    },
+    {
+      "provision_ref": "Art.55",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "55",
+      "title": "Articolul 55",
+      "content": "Deciziunile Curţii de casaţie date în lipsa părţilor sînt fără drept de opoziţie în orice materie."
+    },
+    {
+      "provision_ref": "Art.56",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "56",
+      "title": "Articolul 56",
+      "content": "Deciziunile Curţii de casaţie, după ce se vor înscri în registrul ei, se vor transcrie şi în condica de hotărîri a tribunalelor sau a Curţilor ale căror hotărîri s'au casat. Aceasta înscriere se va face prin îngrijirea ministerului public sau a părţilor interesate."
+    },
+    {
+      "provision_ref": "Art.57",
+      "chapter": "Titlul II - Jurisdicţie şi procedura | Capitolul 2 - Procedura",
+      "section": "57",
+      "title": "Articolul 57",
+      "content": "Deciziunile Curţii de casaţie a căror publicare s'a dispus de Curte se vor publică în colectiunea ce poarta titlul de Buletinul Curţii de casaţie. În vederea întocmirii acestei publicaţiuni, se creează la Curte un biurou special al Buletinului Curţii de casaţie, compus dintr'un şef de biurou şi 2 impiegati, cari vor lucra sub direcţiunea magistratului asistent prim."
+    },
+    {
+      "provision_ref": "Art.58",
+      "chapter": "Titlul III - Competenţa Curţii ca Înaltă Curte de justiţie | Capitolul 2 - Procedura",
+      "section": "58",
+      "title": "Articolul 58",
+      "content": "În cauze politice şi în cazurile excepţionale prevăzute în legea de faţa, Curtea judeca ca Înaltă Curte de justiţie în secţiuni-unite."
+    },
+    {
+      "provision_ref": "Art.59",
+      "chapter": "Titlul III - Competenţa Curţii ca Înaltă Curte de justiţie | Capitolul 2 - Procedura",
+      "section": "59",
+      "title": "Articolul 59",
+      "content": "Ca Înaltă Curte de justiţie, Curtea judeca deadreptul acuzatiunile îndreptate în contra ministrilor, în condiţiunile şi cu formele prevăzute de art. 98 din Constituţie. Tot ca Înaltă Curte de justiţie şi în secţiuni-unite Curtea judeca pe demnitarii înalţi prevăzuţi de legi speciale. Ea are dreptul de jurisdicţie exclusiva asupra membrilor ei în pricini penale."
+    },
+    {
+      "provision_ref": "Art.60",
+      "chapter": "Titlul III - Competenţa Curţii ca Înaltă Curte de justiţie | Capitolul 2 - Procedura",
+      "section": "60",
+      "title": "Articolul 60",
+      "content": "În caz de acuzatiune pornită în contra demnitarilor prevăzuţi la articolul precedent, alţii decât miniştrii, secţiunea îi va cerceta mai intaiu admisibilitatea acuzatiunii şi numai la caz de admitere acuzatul va merge înaintea secţiunilor-unite."
+    },
+    {
+      "provision_ref": "Art.61",
+      "chapter": "Titlul III - Competenţa Curţii ca Înaltă Curte de justiţie | Capitolul 2 - Procedura",
+      "section": "61",
+      "title": "Articolul 61",
+      "content": "Acuzatiunile în contra patriarhului, mitropolitilor, episcopilor eparhioti şi arhiereilor în cazurile prevăzute de lege se judeca întotdeauna de completul Curţii în secţiuni-unite."
+    },
+    {
+      "provision_ref": "Art.62",
+      "chapter": "Titlul III - Competenţa Curţii ca Înaltă Curte de justiţie | Capitolul 2 - Procedura",
+      "section": "62",
+      "title": "Articolul 62",
+      "content": "În cazul prevăzut de articolul precedent, intamplandu-se de a nu putea forma completul din pricina de recuzatiune sau altele, numărul judecătorilor se completează cu membrii dela Curtea de apel din Bucureşti, prin tragere de sorţi, urmată în pretoriul Curţii de casaţie în şedinţa publică şi în fiinta acuzatilor, cel puţin cu 15 zile înaintea înfăţişării. Atît acuzatii cat şi ministerul public au dreptul de recuzatiune şi în contra membrilor traşi la sorţi."
+    },
+    {
+      "provision_ref": "Art.63",
+      "chapter": "Titlul III - Competenţa Curţii ca Înaltă Curte de justiţie | Capitolul 2 - Procedura",
+      "section": "63",
+      "title": "Articolul 63",
+      "content": "Acuzatii au dreptul de a-şi alege apărătorii lor. Cînd ei se refuza de a-şi alege apărători, preşedintele le da un advocat din oficiu."
+    },
+    {
+      "provision_ref": "Art.64",
+      "chapter": "Titlul III - Competenţa Curţii ca Înaltă Curte de justiţie | Capitolul 2 - Procedura",
+      "section": "64",
+      "title": "Articolul 64",
+      "content": "În toate aceste cazuri, Curtea judeca şi hotărăşte în fond. Hotărîrile Curţii de justiţie date în puterea acestui articol se executa prin Ministerul Justiţiei."
+    },
+    {
+      "provision_ref": "Art.65",
+      "chapter": "Titlul IV - Serviciul Curţii | Capitolul 1 - Cancelaria Curţii de casaţie",
+      "section": "65",
+      "title": "Articolul 65",
+      "content": "Cancelaria Curţii de casaţie se compune dintr'un registrator general, 2 registratori, 3 arhivari, 6 ajutori de arhivari şi 36 impiegati. Cancelaria parchetului general al Curţii de casaţie se compune dintr'un prim secretar, un ajutor de secretar, un registrator-arhivar şi un impiegat puşi sub directa priveghere a procurorului general. Secretarul actual va deveni prim-secretar la punerea în aplicare a prezentei legi. Impiegatii de mai sus ai Curţii vor fi numiţi, inaintati pe loc şi îndepărtaţi din serviciu de către primul preşedinte împreună cu preşedinţii de secţie, iar impiegatii parchetului de primul-preşedinte împreună cu procurorul general. Condiţiunile de admisibilitate pentru aceşti funcţionari se vor determina prin regulamentul de aplicatiune al acestei legi. Numărul lor va putea fi sporit în raport cu necesităţile serviciului. Toţi aceşti funcţionari vor putea fi inaintati pe loc în modul următor: A) Impiegatii, registratori şi ajutorii de arhivari, aflaţi în funcţiune la punerea în aplicare a acestei legi, cari vor fi avînd o vechime de 2 ani în funcţiune ce au ocupat, vor putea fi avansati pe loc, primind leafa de ajutor de grefa de tribunal clasa III; Toţi aceştia cînd vor fi avînd vechimea de 3 ani în funcţiunile ce ocupa, vor putea fi avansati pe loc, primind leafa funcţiunii de ajutor de grefier de tribunal clasa II; De asemenea cei cu 5 ani, primind leafa de ajutor de grefier de tribunal clasa I; B) Registratorul general, arhivarii şi ajutorul de secretar al parchetului, aflaţi în funcţiune cu punerea în aplicare a acestei legi, cari vor fi avînd o vechime de 2 ani în funcţiunile ce ocupa vor putea fi avansati pe loc, primind leafa funcţiunii de grefier de tribunal clasa III. Toţi aceşti cînd vor avea o vechime de 3 ani vor putea fi avansati pe loc primind leafa funcţiunii de grefier de tribunal clasa II. De asemenea cei cu 5 ani vor putea fi avansati pe loc, primind leafa funcţiunii de grefier de tribunal clasa I. Registratorul general, aflat în funcţiune la punerea în aplicare a acestei legi, care va avea o vechime de 7 ani în aceasta funcţiune, sau 15 ani în funcţiuni judecătoreşti, va putea fi avansat pe loc, primind leafa funcţiunii de prim grefier de tribunal; C) Acei dintre funcţionarii de sub lit. A şi B cari vor avea vreun titlu academic, vor putea fi dispensaţi de stagiul vechimii, putând fi avansati pe loc după recomandarea primului preşedinte împreună cu preşedinţii de secţii. Curtea va avea un intendent sub privegherea căruia vor funcţiona aprozii şi oamenii de serviciu al căror număr se va determina prin regulamentul privitor la serviciul interior al Curţii. Toţi aceştia trebuie să ştie a ceti şi scrie."
+    },
+    {
+      "provision_ref": "Art.66",
+      "chapter": "Titlul IV - Serviciul Curţii | Capitolul 2 - Vacante şi concedii",
+      "section": "66",
+      "title": "Articolul 66",
+      "content": "Vacantele şi sărbătorile legale pentru Curtea de casatiune sînt aceleaşi ca pentru Curţile de apel şi tribunalele de judeţe. Vacantele cele mici vor fi la Craciun din ajun şi pînă la Sf. Ion, iar la Paste cu începere dela Duminica Floriilor şi pînă la Duminica Tomii: Secţiunea vacantelor mari se va compune din consilierii Curţii cari n'au făcut parte din secţiunea vacantelor în cei doi ani precedenti. Preşedinţii de secţii pe timpul vacantelor mari vor alterna între dânşii. Secţiunea vacantelor va judeca: În materie criminală, toate recursurile; în materie corecţională, recursurile privitoare la afaceri în cari sînt arestaţi, acele privitoare la contestatiuni, la executarea mandatelor de arestare şi la toate afacerile pentru cari legile speciale prevăd pedepse penale şi ordonă judecarea lor de urgenta sau cu termene scurte. În materie civilă şi comercială recursurile privitoare la afaceri, pe cari legea sau Curtea (secţiunea de vacanta) le declara urgente."
+    },
+    {
+      "provision_ref": "Art.67",
+      "chapter": "Titlul IV - Serviciul Curţii | Capitolul 2 - Vacante şi concedii",
+      "section": "67",
+      "title": "Articolul 67",
+      "content": "Membrii Curţii de casaţie pot dobândi pentru trebuinţe hotărâte, în cursul aceluias an, un concediu de cel mult o luna, sau mai multe concedii cari întrunite însă n'ar trece peste acest termen. În caz de boala concediul se poate prelungi în condiţiunile legii de organizare judecătorească. Peste acest termen dreptul la onorariu încetează şi magistratul poate fi pus prin decret în disponibilitate, rămînînd a fi rechemat în funcţiune după însănătoşire la prima vacanta ivita. Concediile se încuviinţează de către însăşi Curtea în secţiuni întrunite. Concediile astfel încuviinţate se trec într'un registru special ce sta în păstrarea şi îngrijirea magistratului asistent prim şi se comunică de îndată Ministerului de Justiţie."
+    },
+    {
+      "provision_ref": "Art.68",
+      "chapter": "Titlul IV - Serviciul Curţii | Capitolul 2 - Vacante şi concedii",
+      "section": "68",
+      "title": "Articolul 68",
+      "content": "Procurorii de secţii cer concediu dela procurorul general, cînd concediile nu trec peste o luna; iar dacă cererea de concediu este pentru mai mult de o luna, se adresează către Ministerul de Justiţie prin procurorul general."
+    },
+    {
+      "provision_ref": "Art.69",
+      "chapter": "Titlul IV - Serviciul Curţii | Capitolul 2 - Vacante şi concedii",
+      "section": "69",
+      "title": "Articolul 69",
+      "content": "Procurorul general adresează cererea de concediu totdeauna la Ministerul de Justiţie."
+    },
+    {
+      "provision_ref": "Art.70",
+      "chapter": "Titlul IV - Serviciul Curţii | Capitolul 2 - Vacante şi concedii",
+      "section": "70",
+      "title": "Articolul 70",
+      "content": "Orice cerere de concediu din partea unui membru al Curţii trebuie să se facă în scris şi să fie sprijinita de primul-preşedinte, care constata şi încredinţează ca numărul judecătorilor ce rămîn în fiinta este de ajuns pentru lucrările Curţii şi ca serviciul nu va suferi din lipsa. Cererea de concediu a primului-preşedinte se va supune M.S. Regelui prin mijlocirea Ministerului de Justiţie."
+    },
+    {
+      "provision_ref": "Art.71",
+      "chapter": "Titlul V - Dispoziţiuni generale | Capitolul 2 - Vacante şi concedii",
+      "section": "71",
+      "title": "Articolul 71",
+      "content": "Împricinaţii vor putea cere punerea în lucrare a hotărârilor definitive date de Curţile de apel sau tribunale, însă aceasta punere în lucrare se va putea suspenda de partea potrivnica prin asigurarea sau depunerea valorii corespunzătoare în caz numai cînd va porni cererea de casaţie. Recursul în casaţie suspenda şi fără asigurare sau depunerea valorii procesului, punerea în lucrare a hotărârilor privitoare la strămutarea de hotare şi la desfiinţarea de constructiuni. Asemenea în materie de revendicare, de posesie, sau orice alta afacere unde nu e vorba de o condamnatiune la o sumă de bani, instanţa de fond a carei hotărîre este executorie va putea, în urma cererii părţii interesate, sa încuviinţeze suspendarea cu cauţiune, apreciată de instanţa, după ascultarea părţilor chemate în camera de consiliu. Cauţiunea nu se va putea elibera decât după o luna dela data respingerii recursului, afară numai dacă în acest interval partea în drept a intentat acţiune în daune."
+    },
+    {
+      "provision_ref": "Art.72",
+      "chapter": "Titlul V - Dispoziţiuni generale | Capitolul 2 - Vacante şi concedii",
+      "section": "72",
+      "title": "Articolul 72",
+      "content": "Dispoziţiunile codului de procedura civilă, privitoare la cauzele şi la modul de recuzare al judecătoriilor, se aplică fără distinctiune şi membrilor Curţii de casaţie şi de justiţie."
+    },
+    {
+      "provision_ref": "Art.73",
+      "chapter": "Titlul V - Dispoziţiuni generale | Capitolul 2 - Vacante şi concedii",
+      "section": "73",
+      "title": "Articolul 73",
+      "content": "Numai advocatii, iar nu şi stagiarii, vor putea pleda înaintea Curţii de casaţie după un stagiu de cel puţin de cinci ani de practica efectivă a advocaturii. Stagiul în magistratura echivaleaza cu o asemenea practica. Advocatii sau magistraţii cari vor avea titlu de doctor dela o universitate din ţara sau dela o universitate din străinătate şi cari au obţinut echivalenta dela una universităţile noastre, vor avea nevoie numai de stagiul de un an. Advocatii cari au stagiul cerut mai sus şi ar voi sa pledeze înaintea Curţii de casaţie vor prezenta primului-preşedinte al acestei Curţi un certificat dela consiliul de disciplina al baroului unde sînt înscrişi, constatator de îndeplinirea acestor condiţiuni şi vor cere înscrierea lor în tabloul respectiv."
+    },
+    {
+      "provision_ref": "Art.74",
+      "chapter": "Titlul V - Dispoziţiuni generale | Capitolul 2 - Vacante şi concedii",
+      "section": "74",
+      "title": "Articolul 74",
+      "content": "Curtea de casaţie, în secţiuni-unite, la finele fiecărui an, va decide cari sînt vitiile de legislaţie, sau neajunsurile ce va fi observat în cursul anului şi despre cari va trebui să se facă comunicare Ministerului de Justiţie."
+    },
+    {
+      "provision_ref": "Art.75",
+      "chapter": "Titlul V - Dispoziţiuni generale | Capitolul 2 - Vacante şi concedii",
+      "section": "75",
+      "title": "Articolul 75",
+      "content": "Raportul cuprinzînd vitiile de legislaţie va fi publicat în Buletinul anual al Curţii de casaţie, din care un exemplar va fi trimes consiliului legislativ."
+    },
+    {
+      "provision_ref": "Art.76",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "76",
+      "title": "Articolul 76",
+      "content": "Recursurile privitoare la pricini de contencios administrativ pendinte înaintea secţiunii III a Curţii de casaţie, în momentul punerii acestei legi în aplicare, vor fi judecate conform legii în vigoare în momentul introducerii lor. Tot asemenea recursurile pendinte azi la Curtea de casaţie în orice materie vor fi judecate după procedura în vigoare în momentul intentarii lor. Deciziunile Curţii însă se vor da în toate cazurile fără drept de opoziţie. Recursurile în contra hotărârilor date pe temeiul art. 66 bis din procedura civilă română (refereu) cum şi recursurile în contra hotărârilor date în materie de sechestru judiciar pe temeiul art. 1632 din codul civil român şi art. 615 din procedura civilă română pendinte azi înaintea secţiei I a Curţii de casaţie, vor continua a fi judecate de acea secţie."
+    },
+    {
+      "provision_ref": "Art.77",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "77",
+      "title": "Articolul 77",
+      "content": "Dela data promulgării legii de faţa sentinţele judecătorilor din circumscriptiunile Curţilor de apel din Braşov, Cluj, Oradea-Mare, Timişoara şi Targu Mures şi în contra cărora conform §-lui 476 alin. 2 procedura civilă ard. apelul este inadmisibil, vor putea fi atacate cu recurs în casare, în conformitate cu legea de faţa; recursul va fi îndreptat către tribunalul în a cărui circumscripţie este situata judecătoria, care a pronunţat sentinta atacată, tribunalul casand va judeca fondul."
+    },
+    {
+      "provision_ref": "Art.78",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "78",
+      "title": "Articolul 78",
+      "content": "Sentinţele date după promulgarea legii de faţă de o judecătorie din circumscripţiile tribunalelor Campulung-Bucovina, Cernauti, Radauti, Storojinet şi Suceava, în cauzele marunte (§448 şi următorii procedura civilă acum specială în acele circumscripţii) sînt desavarsite şi în contra lor nu se admite nici o cale de atac decât numai recursul în casare, în conformitate cu dispoziţiunile legii prezente. Recursul admisibil conform §517 din aceeas procedura este privit ca recurs în casare. Instanţa de casare este tribunalul în a cărui circumscripţie este situata judecătoria dela care a emanat sentinta atacată şi care casand va judeca fondul."
+    },
+    {
+      "provision_ref": "Art.79",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "79",
+      "title": "Articolul 79",
+      "content": "Sentinţele, deciziunile şi incheierele date, după promulgarea legii de faţa, de către o instanţa (tribunal sau Curte de apel) în orice procedura litigioasa sînt desavarsite din momentul comunicării. În contra lor nu se admite nici o cale de atac decât numai recursul în casare conform dispoziţiunilor acestei legi. Instanţa de casare pentru Basarabia şi Bucovina este înaltă Curte de casaţie, iar pentru circumscriptiunea Curţilor de apel din Braşov, Cluj, Oradea-Mare, Targul Mures şi Timişoara, în acele cauze în cari după legiuirea de pînă acum (§525 şi 550) alin. 2 procedura civilă ard.), a fost instanţa de revizuire (recurs) - o Curte de apel - rămîne aceeas Curte de apel, care va judeca recursul după normele de competinţa de pînă acum, în toate celelalte cazuri instanţa de recurs competinte rămîne Curtea de casaţie. Cu privire la competinţa instanţei de casare hotărîrea Curţii de casaţie este obligatorie atît pentru părţi cat şi pentru Curtea de apel respectiva. În Bucovina recursul admisibil conform §-lui 519 din procedura civilă bucovineana este privit drept recurs în casare."
+    },
+    {
+      "provision_ref": "Art.80",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "80",
+      "title": "Articolul 80",
+      "content": "Sentinţele, deciziunile şi încheierile date de instanţele din circumscriptiunea Curţilor de apel din Braşov, Cluj, Oradea-Mare, Timişoara şi Targul-Mures, Bucovina şi Basarabia, - înaintea promulgării legii de faţa - sînt supuse în privinta căilor de atac legilor în vigoare în momentul cînd au fost promulgate. În cauzele venite dela instanţele basarabene cererile de revizuire a hotărârilor introduse conform dispoziţiunilor art. 185 şi următorii, precum şi art. 792 şi următorii din procedura civilă basarabeana, înaintea promulgării legii de faţa, indiferent dacă au fost făcute de părţile litigante sau de tertele persoane, se vor judeca de instanţele de fond respective ale căror hotărîri sau deciziuni sînt atacate; asemenea cereri pendinte astăzi înaintea Curţii de casaţie vor fi judecate conform normelor de pînă acum."
+    },
+    {
+      "provision_ref": "Art.81",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "81",
+      "title": "Articolul 81",
+      "content": "Dela data promulgării legii de faţa se desfiinţează pentru viitor toate dispoziţiunile legilor de procedura civilă în vigoare în circumscriptiunea Curţilor de apel din Braşov, Cluj, Oradea-Mare, Timişoara şi Targul-Mures, Basarabia şi Bucovina, cari regulează procedura înaintea Curţii de casaţie (procedura înaintea instanţei de reviziune sau recurs la acea instanţa resp. reformarea hotărârilor). Se desfiinţează în special dispoziţiunea art. 186 alin. ultim din procedura civilă basarabeana şi a §§-lor 452 alin. 2 şi 501 din procedura civilă bucovineana."
+    },
+    {
+      "provision_ref": "Art.82",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "82",
+      "title": "Articolul 82",
+      "content": "Cererile de reviziune introduse în timp de o luna după promulgarea legii de faţa vor fi primite drept cereri de recurs în casare şi judecate conform legii de faţa."
+    },
+    {
+      "provision_ref": "Art.83",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "83",
+      "title": "Articolul 83",
+      "content": "Introducându-se recurs în casare în contra unei sentinţe, deciziuni sau încheieri judecătoreşti se va putea cere şi suspendarea executiunii, asupra cererilor de suspendare introduse conform normelor în vigoare în teritoriul respectiv, se va hotărî de către instanţa competenţa în conformitate cu aceleas norme."
+    },
+    {
+      "provision_ref": "Art.84",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "84",
+      "title": "Articolul 84",
+      "content": "În vederea numărului mare de recursuri pendinte înaintea Curţii de casaţie, ministrul de justiţie, la cererea prim-preşedintelui acelei Curţi, va putea autoriza înfiinţarea în sanul fiecărei secţii complete suplimentare de judecată cari vor judeca în compunerea de şapte consilieri în zilele în cari nu sînt fixate procese sau în orele de dimineata. Completele vor fi constituite tot prin alternarea judecătorilor. Consilierii formând aceste complete suplimentare vor beneficia de indemnizarea completului special de chirii."
+    },
+    {
+      "provision_ref": "Art.85",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "85",
+      "title": "Articolul 85",
+      "content": "Membrii Curţii de casaţie iesiti la pensie îşi păstrează în mod onorific rangul şi gradul ce l-au avut la retragerea lor. Ei pot participa cu vot consultativ, la adunările Curţii de casaţie. Membrii onorifici sînt supuşi acţiunii disciplinare ca şi membrii titulari. În ce priveşte însă infracţiunile penale, ele sînt supuse jurisdicţiunii de drept comun."
+    },
+    {
+      "provision_ref": "Art.86",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "86",
+      "title": "Articolul 86",
+      "content": "Regulamentele de administraţie publică vor determina serviciul interior al Curţii şi al Cancelariei şi vor desvolta diferitele puncte de aplicatiune ale acestei legi. În şedinţele plenare, adică cu secţiunile-unite, atît Curtea cat şi ministerul public sînt în mare uniforma, iar în şedinţele secţiunilor separate, în mica uniforma."
+    },
+    {
+      "provision_ref": "Art.87",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "87",
+      "title": "Articolul 87",
+      "content": "Sînt abrogate legale şi regulamentele contrarii legii de faţa. Dispoziţiunile legii de organizare judecătorească cari nu sînt contrarii celor cuprinse în prezenta lege, rămîn aplicabile membrilor Curţii de casaţie, magistraţilor asistenţi şi personalului cancelariei Curţii."
+    },
+    {
+      "provision_ref": "Art.88",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "88",
+      "title": "Articolul 88",
+      "content": "Pentru completarea numărului de consilieri prevăzuţi la art. 3 pentru secţia 1 vor trece de drept la aceasta secţie, în virtutea legii de faţa, câte un consilier de la secţiile II şi III cei din urma numiţi."
+    },
+    {
+      "provision_ref": "Art.89",
+      "chapter": "Titlul VI - Dispoziţiuni finale şi tranzitorii | Capitolul 2 - Vacante şi concedii",
+      "section": "89",
+      "title": "Articolul 89",
+      "content": "Această lege se va pune în aplicare la 1 ianuarie 1926. -------------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-47403",
+  "type": "statute",
+  "title": "LEGE nr. 431 din 27 octombrie 2003",
+  "short_name": "lege 431 27 10 2003",
+  "status": "in_force",
+  "issued_date": "2003-10-27",
+  "in_force_date": "2003-10-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/47403",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 431 27/10/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 61 din 25 iunie 2003 pentru modificarea alin. (2) al art. 7 din Ordonanța de urgenta a Guvernului nr. 16/2001 privind gestionarea deșeurilor industriale reciclabile, publicată în Monitorul Oficial al României, Partea I, nr. 461 din 28 iunie 2003, cu următoarea modificare: – La articolul unic, alineatul (2) al articolului 7 va avea următorul cuprins: (2) Se interzice până la data de 31 decembrie 2005 achiziționarea de la persoane fizice a metalelor neferoase, a aliajelor acestora și a deșeurilor neferoase reciclabile, cu excepția metalelor prețioase, a bateriilor și a acumulatorilor uzati pentru autovehicule. Până la această dată Ministerul Economiei și Comerțului, Ministerul Agriculturii, Pădurilor, Apelor și Mediului și Ministerul Transporturilor, Construcțiilor și Turismului vor reglementa corespunzător sistemul de colectare a acestor deșeuri de la persoane fizice."
+    }
+  ],
+  "definitions": []
+}

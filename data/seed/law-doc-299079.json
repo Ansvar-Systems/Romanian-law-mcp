@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299079",
+  "type": "statute",
+  "title": "LEGE nr. 102 din 16 iunie 2025",
+  "short_name": "lege 102 16 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-16",
+  "in_force_date": "2025-06-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299079",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 102 16/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 129 din 7 noiembrie 2024 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 41/2022 pentru instituirea Sistemului național privind monitorizarea transporturilor rutiere de bunuri RO e-Transport și de abrogare a art. XXVIII din Ordonanța de urgență a Guvernului nr. 130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 1124 din 11 noiembrie 2024."
+    }
+  ],
+  "definitions": []
+}

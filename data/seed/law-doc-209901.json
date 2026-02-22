@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-209901",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 8 ianuarie 2019",
+  "short_name": "lege 20 08 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-08",
+  "in_force_date": "2019-01-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209901",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 08/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 16 iunie ca Ziua Limbii Romani."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătoririi Zilei Limbii Romani, în localitățile în care trăiesc membri ai comunității rome, se organizează manifestări culturale dedicate acestei sărbători. (2) Autoritățile administrației publice centrale și locale, precum și organizațiile neguvernamentale interesate pot sprijini logistic și/sau financiar, după caz, organizarea manifestărilor dedicate sărbătoririi acestei zile. (3) Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni ori aspecte de la manifestările dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituțiile de învățământ în care se predă limba romani ca limbă maternă, în ziua de 16 iunie se organizează manifestări culturale dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

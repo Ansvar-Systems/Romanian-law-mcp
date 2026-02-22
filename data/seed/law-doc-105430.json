@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-105430",
+  "type": "statute",
+  "title": "LEGE nr. 123 din 29 aprilie 2009",
+  "short_name": "lege 123 29 04 2009",
+  "status": "in_force",
+  "issued_date": "2009-04-29",
+  "in_force_date": "2009-04-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/105430",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 123 29/04/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 4 din 30 ianuarie 2008 pentru modificarea și completarea Legii nr. 109/2005 privind instituirea indemnizației pentru activitatea de liber-profesionist a artiștilor interpreți sau executanți din România, adoptată în temeiul art. 1 pct. II.1 din Legea nr. 373/2007 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 73 din 31 ianuarie 2008, cu următoarele modificări: 1. La articolul I punctul 1, articolul 3 se modifică și va avea următorul cuprins: Articolul 3 În sensul prezentei legi: a) artiștii interpreți sau executanți sunt actorii, cântăreții, muzicienii, dansatorii, artiștii de circ și alte persoane care prezintă, cântă, dansează, recită, declamă, joacă, interpretează, dirijează, exprimă ori execută în orice modalitate o operă literară sau artistică, un spectacol de orice fel; b) activitatea artistic-interpretativă în regim de liber-profesionist este activitatea artiștilor interpreți sau executanți, realizată în condițiile prevăzute la art. 1 în regim de colaborare cu instituții publice de stat, cu persoane juridice de drept public sau cu persoane juridice de drept privat de profil. 2. La articolul I punctul 6, alineatul (2^1) al articolului 8 se modifică și va avea următorul cuprins: (2^1) La solicitarea petentului, Comisia poate stabili prelungirea termenului prevăzut la alin. (2), pentru completarea de către solicitant a dosarului propriu, fără a se depăși însă 30 de zile de la depunerea ultimelor documente de către solicitant."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "activitatea artistic",
+      "definition": "interpretativă în regim de liber-profesionist este activitatea artiștilor interpreți sau executanți, realizată în condițiile prevăzute la art. 1 în regim de colaborare cu instituții publice de stat, cu persoane juridice de drept public sau cu persoane juridice de drept privat de profil. 2. La articolul I punctul 6, alineatul (2^1) al articolului 8 se modifică și va avea următorul cuprins: (2^1) La solicitarea petentului, Comisia poate stabili prelungirea termenului prevăzut la alin",
+      "source_provision": "Art.1"
+    }
+  ]
+}

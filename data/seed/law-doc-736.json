@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-736",
+  "type": "statute",
+  "title": "LEGEA nr. 9 din 31 iulie 1990",
+  "short_name": "lege 9 31 07 1990",
+  "status": "in_force",
+  "issued_date": "1990-07-31",
+  "in_force_date": "1990-07-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/736",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 9 31/07/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pînă la adoptarea unei noi reglementări legale privind regimul fondului funciar se interzice înstrăinarea, prin acte între vii, a terenurilor de orice fel, situate înăuntrul sau în afară localităţilor. De la prevederile alin. 1 se exceptează terenurile aferente construcţiilor care se înstrăinează - inclusiv curtea -, în suprafaţa de cel mult 1.000 metri patrati."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Procurorul, primăria, precum şi orice parte interesată, vor putea sa ceara în justiţie constatarea nulităţii actelor juridice de înstrăinare, între vii, a terenurilor prevăzute la art. 1 alin. 1 încheiate - indiferent de forma - după intrarea în vigoare a Decretului-lege nr. 1/1989 şi a Decretului-lege nr. 9/1989 , dacă prin aceste acte a fost incalcata ordinea publică sau dacă ele au avut o cauza ilicită sau imorala."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Înstrăinările de terenuri de orice fel, cu excepţia celor prevăzute la art. 1 alin. 2, făcute prin acte între vii, după intrarea în vigoare a prezentei legi, sînt nule de drept."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Guvernul va elabora şi prezenta spre adoptare, pînă la data de 15 noiembrie 1990, proiectul noii reglementări privind fondul funciar. Această lege a fost adoptată de Senat în şedinţa sa din ziua de 30 iulie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa sa din ziua de 30 iulie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea privind interzicerea temporară a înstrăinării terenurilor prin acte între vii şi dispunem publicarea în Monitorul Oficial. PREŞEDINTELE ROMÂNIEI ION ILIESCU -------------------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-177166",
+  "type": "statute",
+  "title": "LEGE nr. 50 din 30 martie 2016",
+  "short_name": "lege 50 30 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-30",
+  "in_force_date": "2016-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177166",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 50 30/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 12 din Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, se modifică şi va avea următorul cuprins: \"Art. 12. - Pacientul sau persoana desemnată în mod expres de acesta, conform prevederilor art. 9 şi 10, are dreptul să primească, la externare, un rezumat scris al investigaţiilor, diagnosticului, tratamentului, îngrijirilor acordate pe perioada spitalizării şi, la cerere, o copie a înregistrărilor investigaţiilor de înaltă performanţă, o singură dată.\""
+    }
+  ],
+  "definitions": []
+}

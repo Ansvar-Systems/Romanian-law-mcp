@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275986",
+  "type": "statute",
+  "title": "LEGE nr. 307 din 2 noiembrie 2023",
+  "short_name": "lege 307 02 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-02",
+  "in_force_date": "2023-11-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275986",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 307 02/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 136 din 28 decembrie 2021 pentru modificarea anexei nr. 6 la Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu, publicată în Monitorul Oficial al României, Partea I, nr. 1241 din 29 decembrie 2021."
+    }
+  ],
+  "definitions": []
+}

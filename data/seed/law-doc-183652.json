@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183652",
+  "type": "statute",
+  "title": "LEGE nr. 204 din 7 noiembrie 2016",
+  "short_name": "lege 204 07 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-07",
+  "in_force_date": "2016-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183652",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 204 07/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre România şi Regiunea Administrativă Specială Hong Kong a Republicii Populare Chineze pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnat la Bucureşti la 18 noiembrie 2015."
+    }
+  ],
+  "definitions": []
+}

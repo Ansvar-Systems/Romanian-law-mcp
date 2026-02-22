@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-21291",
+  "type": "statute",
+  "title": "LEGE nr. 22 din 17 martie 1970",
+  "short_name": "lege 22 17 03 1970",
+  "status": "in_force",
+  "issued_date": "1970-03-17",
+  "in_force_date": "1970-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21291",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 22 17/03/1970",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 125/1970 privind organizarea şi funcţionarea Băncii de Investiţii. -------"
+    }
+  ],
+  "definitions": []
+}

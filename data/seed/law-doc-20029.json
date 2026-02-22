@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-20029",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 19 decembrie 1969",
+  "short_name": "lege 60 19 12 1969",
+  "status": "in_force",
+  "issued_date": "1969-12-19",
+  "in_force_date": "1969-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/20029",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 19/12/1969",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 681/1969 privind modificarea Decretului nr. 281/1954 pentru organizarea şi exercitarea avocaturii. ----------"
+    }
+  ],
+  "definitions": []
+}

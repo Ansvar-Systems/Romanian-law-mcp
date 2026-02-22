@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303818",
+  "type": "statute",
+  "title": "LEGE nr. 174 din 30 octombrie 2025",
+  "short_name": "lege 174 30 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-30",
+  "in_force_date": "2025-10-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303818",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 174 30/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 99 din 29 iunie 2022 privind aprobarea schemei de ajutor de stat IMM INVEST PLUS și a componentelor acesteia - IMM INVEST ROMÂNIA, AGRO IMM INVEST, IMM PROD, GARANT CONSTRUCT, INNOVATION și RURAL INVEST, publicată în Monitorul Oficial al României, Partea I, nr. 655 din 30 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

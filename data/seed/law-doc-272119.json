@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272119",
+  "type": "statute",
+  "title": "LEGE nr. 219 din 13 iulie 2023",
+  "short_name": "lege 219 13 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-13",
+  "in_force_date": "2023-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272119",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 219 13/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 14 din 15 martie 2023 pentru modificarea Legii nr. 372/2005 privind performanța energetică a clădirilor și a Ordonanței de urgență a Guvernului nr. 108/2022 privind decarbonizarea sectorului energetic, publicată în Monitorul Oficial al României, Partea I, nr. 219 din 16 martie 2023."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275982",
+  "type": "statute",
+  "title": "LEGE nr. 305 din 2 noiembrie 2023",
+  "short_name": "lege 305 02 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-02",
+  "in_force_date": "2023-11-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275982",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 305 02/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 142 din 28 octombrie 2022 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, publicată în Monitorul Oficial al României, Partea I, nr. 1049 din 28 octombrie 2022."
+    }
+  ],
+  "definitions": []
+}

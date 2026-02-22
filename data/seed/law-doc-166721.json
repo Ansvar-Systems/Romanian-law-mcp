@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166721",
+  "type": "statute",
+  "title": "LEGE nr. 58 din 26 martie 2015",
+  "short_name": "lege 58 26 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-26",
+  "in_force_date": "2015-03-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166721",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 58 26/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 18 din 27 martie 2013 pentru desemnarea entităţii publice care exercită, în numele statului, calitatea de acţionar la Compania Naţională de Transport al Energiei Electrice \"Transelectrica\" - S.A. şi la Societatea Naţională de Transport Gaze Naturale \"Transgaz\" - S.A. Mediaş, publicată în Monitorul Oficial al României, Partea I, nr. 176 din 1 aprilie 2013."
+    }
+  ],
+  "definitions": []
+}

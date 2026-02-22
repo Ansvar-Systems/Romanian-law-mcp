@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257564",
+  "type": "statute",
+  "title": "LEGE nr. 213 din 14 iulie 2022",
+  "short_name": "lege 213 14 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-14",
+  "in_force_date": "2022-07-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257564",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 213 14/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 5 din 25 august 2021 pentru modificarea și completarea Legii nr. 185/2017 privind asigurarea calității în sistemul de sănătate, adoptată în temeiul art. 1 pct. V.1 din Legea nr. 195/2021 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 821 din 27 august 2021, cu următoarea modificare: – La articolul unic punctul 2 , alineatul (4^1) al articolului 7 va avea următorul cuprins: (4^1) Unitățile sanitare acreditate solicită obținerea unei noi acreditări cu cel puțin 6 luni înainte de încetarea valabilității acreditării, iar procesul de evaluare în vederea obținerii unui nou certificat de acreditare nu se poate extinde pe o perioadă mai mare de un an de la încetarea valabilității acreditării."
+    }
+  ],
+  "definitions": []
+}

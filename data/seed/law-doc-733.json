@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-733",
+  "type": "statute",
+  "title": "LEGEA nr. 8 din 31 iulie 1990",
+  "short_name": "lege 8 31 07 1990",
+  "status": "in_force",
+  "issued_date": "1990-07-31",
+  "in_force_date": "1990-07-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/733",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 8 31/07/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România adera la Convenţia privind Organizaţia internationala de telecomunicaţii maritime prin sateliti \"INMARSAT\", încheiată la Londra la 3 septembrie 1976."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Comunicaţiilor va semna Acordul de exploatare privind Organizaţia internationala de telecomunicaţii maritime prin sateliti \"INMARSAT\", încheiat la Londra la 3 septembrie 1976, şi va participa la activitatea economico-financiară a acestei organizaţii, cu reflectarea încasărilor şi plăţilor în activitatea proprie a prestaţiilor de servicii internaţionale de posta şi telecomunicaţii. Această lege a fost adoptată de Senat în şedinţa sa din ziua de 26 iulie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa sa din ziua de 28 iulie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea pentru aderarea României la Convenţia privind Organizaţia internationala de telecomunicaţii maritime prin sateliti \"INMARSAT\" şi dispunem publicarea sa în Monitorul Oficial. PREŞEDINTELE ROMÂNIEI ION ILIESCU"
+    }
+  ],
+  "definitions": []
+}

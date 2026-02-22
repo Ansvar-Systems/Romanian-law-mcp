@@ -1,0 +1,98 @@
+{
+  "id": "law-doc-15",
+  "type": "statute",
+  "title": "LEGE din 8 mai 1934",
+  "short_name": "lege 08 05 1934",
+  "status": "in_force",
+  "issued_date": "1934-05-08",
+  "in_force_date": "1934-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/15",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 08/05/1934",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "pentru modificarea art. 27 din legea de organizare a Ministerului Instrucţiunii, al cultelor şi Artelor (relativ la consiliul permanent)*)"
+    },
+    {
+      "provision_ref": "Par.D",
+      "section": "D",
+      "title": "Paragraful D",
+      "content": "D. Consiliul permanent."
+    },
+    {
+      "provision_ref": "Par.27",
+      "section": "27",
+      "title": "Paragraful 27",
+      "content": "27. Consiliul permanent al instrucţiunii este alcătuit din 7 membri numiţi cu decret regal pe termen de 3 ani, şi anume: din 3 profesori universitari de la Facultăţile de litere şi ştiinţe din Bucureşti, 2 profesori de la scoalele secundare din Bucureşti, cu o vechime de cel puţin 10 ani ca definitivi şi doi membri ai Corpului didactic primar din Bucureşti, cel puţin de gradul intaiu şi cu o vechime de 5 ani în acest grad."
+    },
+    {
+      "provision_ref": "Par.4",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "Consiliul lucrează sub preşedinţia celui mai vechiu profesor universitar şi cînd se va simţi nevoie, va lucra în doua secţii."
+    },
+    {
+      "provision_ref": "Par.5",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "Consiliul permanent îşi da avizul asupra următoarelor chestiuni:"
+    },
+    {
+      "provision_ref": "Par.6",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "Cînd chestiunile prevăzute la alin. b, c şi d, de mai sus, privesc învăţămîntul profesional, Consiliul permanent se va completa cu câte 2 membri din fiecare categorie de învăţămînt aplicat, cu excepţia învăţămîntului profesional de fete şi de menaj, care vor fi reprezentate numai prin câte o profesoara sau maestra."
+    },
+    {
+      "provision_ref": "Par.7",
+      "section": "7",
+      "title": "Paragraful 7",
+      "content": "Aceştia trebuiesc să fie titulari în Bucureşti şi sa îndeplinească condiţiunile de titlu şi vechime prevăzute în alin. l."
+    },
+    {
+      "provision_ref": "Par.8",
+      "section": "8",
+      "title": "Paragraful 8",
+      "content": "Numirea acestor membri de completare se face odată cu a membrilor permanenţi, tot prin decret regal şi pe termen de 3 ani."
+    },
+    {
+      "provision_ref": "Par.9",
+      "section": "9",
+      "title": "Paragraful 9",
+      "content": "Membrii Consiliului permanent au dreptul la o indemnizaţie de şedinţa."
+    },
+    {
+      "provision_ref": "Par.10",
+      "section": "10",
+      "title": "Paragraful 10",
+      "content": "Membrii Consiliului permanent vor lua parte la şedinţele Consiliului general al instrucţiunii, cînd se vor discuta principiile programelor şcolare."
+    },
+    {
+      "provision_ref": "Par.11",
+      "section": "11",
+      "title": "Paragraful 11",
+      "content": "Membrii Consiliului permanent, prevăzuţi la alin. 1, au dreptul de inspecţiuni şi de control didactic asupra tuturor gradelor de învăţămînt, afară de cel superior."
+    },
+    {
+      "provision_ref": "Par.12",
+      "section": "12",
+      "title": "Paragraful 12",
+      "content": "Membrii consiliului permanent pot fi revocaţi prin decret regal pe baza raportului motivat al ministrului."
+    },
+    {
+      "provision_ref": "Par.13",
+      "section": "13",
+      "title": "Paragraful 13",
+      "content": "Un regulament special va determina modul de funcţionare al membrilor Consiliului permanent."
+    },
+    {
+      "provision_ref": "Par.14",
+      "section": "14",
+      "title": "Paragraful 14",
+      "content": "-----------------"
+    }
+  ],
+  "definitions": []
+}

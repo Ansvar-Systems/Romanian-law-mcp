@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-202777",
+  "type": "statute",
+  "title": "LEGE nr. 181 din 17 iulie 2018",
+  "short_name": "lege 181 17 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-17",
+  "in_force_date": "2018-07-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/202777",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 181 17/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 113 din 28 decembrie 2017 pentru prorogarea unui termen, publicată în Monitorul Oficial al României, Partea I, nr. 1.038 din 29 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

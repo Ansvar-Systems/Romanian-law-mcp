@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262160",
+  "type": "statute",
+  "title": "LEGE nr. 332 din 29 noiembrie 2022",
+  "short_name": "lege 332 29 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-29",
+  "in_force_date": "2022-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262160",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 332 29/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 55 din 24 iunie 2021 pentru modificarea Legii nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe, publicată în Monitorul Oficial al României, Partea I, nr. 628 din 25 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

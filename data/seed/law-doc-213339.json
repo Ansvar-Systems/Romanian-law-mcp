@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-213339",
+  "type": "statute",
+  "title": "LEGE nr. 83 din 25 aprilie 2019",
+  "short_name": "lege 83 25 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-25",
+  "in_force_date": "2019-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213339",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 83 25/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 8 din 23 august 2018 pentru reglementarea unor măsuri fiscal-bugetare, adoptată în temeiul art. 1 pct. I.3 din Legea nr. 183/2018 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 744 din 28 august 2018."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-200",
+  "type": "statute",
+  "title": "LEGE nr. 31 din 12 noiembrie 1968",
+  "short_name": "lege 31 12 11 1968",
+  "status": "in_force",
+  "issued_date": "1968-11-12",
+  "in_force_date": "1968-11-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 31 12/11/1968",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Pe data intrării în vigoare a noului Cod de procedura penală al Republicii Socialiste România din 12 noiembrie 1968 se abroga Codul de procedură penală din 19 martie 1936, precum şi dispoziţiile din alte legi contrare prevederilor noului cod."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Actele şi lucrările efectuate potrivit dispoziţiilor legii anterioare pînă la intrarea în vigoare a noului Cod de procedura penală rămîn valabile. Nulitatea oricărui act sau oricărei lucrări, efectuate sub legea anterioară, poate fi invocată numai în condiţiile noului Cod de procedura penală. Hotărîrile şi ordonanţele intervenite anterior vor fi calificate, în ceea ce priveşte efectele lor, potrivit dispoziţiilor art. 11 din noul Cod de procedura penală, în raport cu cauzele care le-au determinat."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Regulile de competenţa din noul Cod de procedura penală se aplică şi cauzelor în care procesul penal a fost pornit înainte de intrarea în vigoare a acestui cod, afară de cazul cînd a intervenit o hotărîre în prima instanţa."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Hotărîrile sînt supuse căilor de atac prevăzute de legea în vigoare la data pronunţării lor."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Termenele sînt cele prevăzute de legea în vigoare la data cînd au început să curgă."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "În cazul infracţiunilor săvîrşite înainte de intrarea în vigoare a noului Cod penal, pentru care, potrivit acestui cod, punerea în mişcare a acţiunii penale se face la plîngerea prealabilă a persoanei vătămate, fără ca legea anterioară sa fi cerut aceasta condiţie, termenul pentru introducerea plingerii curge de la data intrării în vigoare a noului cod penal, iar dacă procesul penal este în curs, se aplică în mod corespunzător dispoziţiile art. 286 din Codul de procedură penală. ---------"
+    }
+  ],
+  "definitions": []
+}

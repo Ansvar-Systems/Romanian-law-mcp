@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187930",
+  "type": "statute",
+  "title": "LEGE nr. 45 din 3 aprilie 2017",
+  "short_name": "lege 45 03 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-03",
+  "in_force_date": "2017-04-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187930",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 45 03/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 36 din 28 iunie 2016 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, publicată în Monitorul Oficial al României, Partea I, nr. 489 din 30 iunie 2016, cu următoarea modificare: – La articolul unic, punctul 1 se abrogă."
+    }
+  ],
+  "definitions": []
+}

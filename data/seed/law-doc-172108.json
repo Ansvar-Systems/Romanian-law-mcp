@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-172108",
+  "type": "statute",
+  "title": "LEGE nr. 236 din 14 octombrie 2015",
+  "short_name": "lege 236 14 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-14",
+  "in_force_date": "2015-10-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172108",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 236 14/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul privind înfiinţarea Centrului de Excelenţă în Finanţe, adoptat la Bled la 3 septembrie 2013, semnat de România la Ljubljana la 30 mai 2014."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "La depunerea instrumentului de ratificare, România face următoarea declaraţie interpretativă în ceea ce priveşte art. 6, 7 şi 9 din Acordul privind înfiinţarea Centrului de Excelenţă în Finanţe (CEF): \"România consideră că statutul de membru CEF poate fi acordat numai statelor şi organizaţiilor regionale interguvernamentale de integrare economică care sunt constituite din state suverane, din care cel puţin unul este membru CEF, şi cărora statele membre le-au transferat competenţe. Organizaţia regională interguvernamentală de integrare economică nu are un vot separat de cel al statelor sale membre care sunt membre CEF. România consideră, de asemenea, că altor organizaţii internaţionale interguvernamentale sau nonguvernamentale poate să le fie acordat numai statutul de observator.\""
+    }
+  ],
+  "definitions": []
+}

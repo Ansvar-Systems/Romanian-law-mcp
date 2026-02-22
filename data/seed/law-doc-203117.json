@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-203117",
+  "type": "statute",
+  "title": "LEGE nr. 204 din 20 iulie 2018",
+  "short_name": "lege 204 20 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-20",
+  "in_force_date": "2018-07-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203117",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 204 20/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 9 februarie ca Ziua Limbii Elene."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătorii Zilei Limbii Elene, în localitățile în care trăiesc membri ai comunității elene sau filoeleni se organizează manifestări culturale dedicate acestei sărbători. (2) Autoritățile administrației publice centrale și locale, organizațiile neguvernamentale interesate pot sprijini logistic și/sau financiar organizarea manifestărilor dedicate sărbătorii acestei zile. (3) Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni și/sau aspecte de la manifestările dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituțiile de învățământ în care se predă limba elenă ca limbă maternă sau modernă, în ziua de 9 februarie se pot organiza manifestări culturale dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

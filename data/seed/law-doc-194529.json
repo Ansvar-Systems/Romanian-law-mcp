@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-194529",
+  "type": "statute",
+  "title": "LEGE nr. 208 din 3 noiembrie 2017",
+  "short_name": "lege 208 03 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-03",
+  "in_force_date": "2017-11-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/194529",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 208 03/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se acceptă Acordul privind serviciile aeriene internaționale de tranzit, semnat la Chicago la 7 decembrie 1944."
+    }
+  ],
+  "definitions": []
+}

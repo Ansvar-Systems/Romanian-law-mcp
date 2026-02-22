@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176860",
+  "type": "statute",
+  "title": "LEGE nr. 27 din 17 martie 2016",
+  "short_name": "lege 27 17 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-17",
+  "in_force_date": "2016-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176860",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 27 17/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Convenţia dintre România şi Regatul Norvegiei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnată la Oslo la 27 aprilie 2015."
+    }
+  ],
+  "definitions": []
+}

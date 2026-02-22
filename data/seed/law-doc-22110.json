@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-22110",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 12 aprilie 2000",
+  "short_name": "lege 39 12 04 2000",
+  "status": "in_force",
+  "issued_date": "2000-04-12",
+  "in_force_date": "2000-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22110",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 12/04/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă contul general anual de execuţie a bugetului asigurărilor sociale de stat pe anul 1997, cuprinzând venituri în suma de 13.164,2 miliarde lei, cheltuieli în suma de 13.221,9 miliarde lei şi un deficit în suma de 57,7 miliarde lei. Structura contului general anual de execuţie a bugetului asigurărilor sociale de stat este prevăzută în anexele nr. 1 şi 2."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se aprobă contul anual de execuţie a bugetului Fondului pentru plata pensiilor şi a altor drepturi de asigurări sociale ale agricultorilor pe anul 1997, cuprinzând venituri în suma de 1.594,4 miliarde lei şi cheltuieli în suma de 1.594,4 miliarde lei. Structura contului anual de execuţie a bugetului Fondului pentru plata pensiilor şi a altor drepturi de asigurări sociale ale agricultorilor este prevăzută în anexa nr. 3."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Se aprobă contul anual de execuţie a bugetului Fondului pentru plata ajutorului de şomaj pe anul 1997, cuprinzând venituri în suma de 3.546,2 miliarde lei, cheltuieli în suma de 3.214,5 miliarde lei şi un excedent de 331,7 miliarde lei. Structura contului anual de execuţie a bugetului Fondului pentru plata ajutorului de şomaj este prevăzută în anexa nr. 4."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Se aprobă contul anual de execuţie a bugetului Fondului pentru pensia suplimentară pe anul 1997, cuprinzând venituri în suma de 1.683,1 miliarde lei, cheltuieli în suma de 1.725,3 miliarde lei şi un deficit în suma de 42,2 miliarde lei. Structura contului anual de execuţie a bugetului Fondului pentru pensia suplimentară este prevăzută în anexa nr. 5."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Anexele nr. 1-5 fac parte integrantă din prezenta lege. Această lege a fost adoptată de Camera Deputaţilor şi de Senat în şedinţa comuna din 9 martie 2000, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE CAMEREI DEPUTAŢILOR, VASILE LUPU PREŞEDINTELE SENATULUI MIRCEA IONESCU-QUINTUS Bucureşti, 12 aprilie 2000. Nr. 39."
+    }
+  ],
+  "definitions": []
+}

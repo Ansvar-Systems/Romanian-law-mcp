@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247519",
+  "type": "statute",
+  "title": "LEGE nr. 256 din 18 octombrie 2021",
+  "short_name": "lege 256 18 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-18",
+  "in_force_date": "2021-10-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247519",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 256 18/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 14 din 4 februarie 2020 pentru modificarea Ordonanței Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, precum și pentru aprobarea plății cotizației anuale în vederea participării Institutului Național de Statistică în calitate de asociat în cadrul Comitetului de Statistică și Guvernanță în Statistică al OCDE, publicată în Monitorul Oficial al României, Partea I, nr. 103 din 11 februarie 2020."
+    }
+  ],
+  "definitions": []
+}

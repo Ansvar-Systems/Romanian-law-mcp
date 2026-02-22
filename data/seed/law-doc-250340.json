@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250340",
+  "type": "statute",
+  "title": "LEGE nr. 2 din 4 ianuarie 2022",
+  "short_name": "lege 2 04 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-04",
+  "in_force_date": "2022-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250340",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2 04/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul *) privind încetarea tratatelor bilaterale de investiții dintre statele membre ale Uniunii Europene, semnat la Bruxelles la 5 mai 2020. *) Acordul se publică în Monitorul Oficial al României, Partea I, nr. 27 bis, care se poate achiziționa de la Biroul pentru relații cu publicul din Str. Parcului nr. 65, intrarea A, sectorul 1, București."
+    }
+  ],
+  "definitions": []
+}

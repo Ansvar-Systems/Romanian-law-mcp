@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-230039",
+  "type": "statute",
+  "title": "LEGE nr. 203 din 16 septembrie 2020",
+  "short_name": "lege 203 16 09 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-16",
+  "in_force_date": "2020-09-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/230039",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 203 16/09/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 396 din 15 mai 2020, cu modificările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 38, alineatul (1) se modifică și va avea următorul cuprins: Articolul 38 (1) Pe durata stării de alertă, activitățile didactice ce impun prezența fizică a antepreșcolarilor, preșcolarilor și elevilor în unitățile de învățământ se pot suspenda, la propunerea consiliului de administrație a unității de învățământ preuniversitar, cu avizul inspectoratului școlar județean/Inspectoratului Școlar al Municipiului București și al direcției de sănătate publică județene/Direcției de Sănătate Publică a Municipiului București și cu aprobarea prin hotărâre a comitetului județean pentru situații de urgență/Comitetului Municipiului București pentru Situații de Urgență, pe baza argumentelor legale privind starea de sănătate. 2. La articolul 38, după alineatul (1) se introduc două noi alineate, alineatele (1^1) și (1^2), cu următorul cuprins: (1^1) Pe durata stării de alertă, activitățile didactice ce impun prezența fizică a elevilor din unitățile de învățământ preuniversitar militar aparținând Ministerului Apărării Naționale se pot suspenda la propunerea consiliului de conducere al unității de învățământ preuniversitar militar, cu avizul inspectoratului școlar județean, statului major al categoriei de forțe/comandamentului care are în subordine unitatea de învățământ preuniversitar militar și cu aprobarea prin hotărâre a comitetului județean pentru situații de urgență/Comitetului Municipiului București pentru Situații de Urgență. (1^2) Ministerul Educației și Cercetării are obligația să asigure suportul privind resursele materiale, formarea cadrelor didactice și cadrul metodologic pentru desfășurarea cursurilor online. 3. După articolul 38 se introduce un nou articol, articolul 38^1, cu următorul cuprins: Articolul 38^1 Pe durata stării de alertă, activitățile didactice ce impun prezența fizică a studenților în instituțiile de învățământ superior se pot suspenda prin hotărâre a senatului universitar, cu respectarea măsurilor stabilite prin ordin comun al ministrului sănătății și al ministrului educației și cercetării. Cursurile online se desfășoară conform unui regulament al senatului universitar."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prin derogare de la dispozițiile art. 27 alin. (3) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, cu modificările ulterioare, pe durata stării de alertă se pot desfășura și concursurile pentru ocuparea posturilor vacante sau temporar vacante pentru posturile nedidactice, didactice auxiliare, pentru posturile din instituțiile care fac parte din sistemul național de apărare, ordine publică și securitate națională, din autoritățile administrației publice locale și județene și instituțiile din subordinea sau coordonarea acestora, Parlamentul României, Agenția Națională pentru Resurse Minerale, Inspecția Judiciară, din structurile cu sau fără personalitate juridică care derulează programe cu finanțare din fonduri nerambursabile, europene și naționale, precum și pentru posturile vacante de asistenți medicali comunitari, asistenți medicali și medici din unitățile de învățământ.“"
+    }
+  ],
+  "definitions": []
+}

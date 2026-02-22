@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250274",
+  "type": "statute",
+  "title": "LEGE nr. 9 din 5 ianuarie 2022",
+  "short_name": "lege 9 05 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-05",
+  "in_force_date": "2022-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250274",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 9 05/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 202 alineatul (1) din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, litera b) se modifică și va avea următorul cuprins: b) principiul dreptului la asistență și la servicii complementare gratuite în învățământul superior de stat - exprimat prin: consilierea și informarea studentului de către cadrele didactice, în afara orelor de curs, seminar sau laboratoare; consilierea în scopul orientării profesionale; consilierea psihologică; acces la principalele cărți de specialitate și publicații științifice, inclusiv prin accesul la bibliotecile universitare și bibliotecile centrale universitare; acces la datele referitoare la situația școlară personală;"
+    }
+  ],
+  "definitions": []
+}

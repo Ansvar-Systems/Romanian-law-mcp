@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252248",
+  "type": "statute",
+  "title": "LEGE nr. 33 din 28 februarie 2022",
+  "short_name": "lege 33 28 02 2022",
+  "status": "in_force",
+  "issued_date": "2022-02-28",
+  "in_force_date": "2022-02-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252248",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 33 28/02/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 53 din 16 iunie 2021 pentru modificarea Legii nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale, publicată în Monitorul Oficial al României, Partea I, nr. 615 din 22 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

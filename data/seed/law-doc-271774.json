@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271774",
+  "type": "statute",
+  "title": "LEGE nr. 191 din 28 iunie 2023",
+  "short_name": "lege 191 28 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-28",
+  "in_force_date": "2023-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271774",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 191 28/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 156 din 16 noiembrie 2022 pentru modificarea și completarea unor acte normative în domeniul fondurilor europene, publicată în Monitorul Oficial al României, Partea I, nr. 1110 din 17 noiembrie 2022."
+    }
+  ],
+  "definitions": []
+}

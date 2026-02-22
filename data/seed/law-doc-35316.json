@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35316",
+  "type": "statute",
+  "title": "LEGE nr. 173 din 10 aprilie 2002",
+  "short_name": "lege 173 10 04 2002",
+  "status": "in_force",
+  "issued_date": "2002-04-10",
+  "in_force_date": "2002-04-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35316",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 173 10/04/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 21 alineatul (7) din Legea nr. 53/1991 privind indemnizațiile și celelalte drepturi ale senatorilor și deputaților, precum și salarizarea personalului din aparatul Parlamentului României, republicată în Monitorul Oficial al României, Partea I, nr. 23 din 31 ianuarie 1996, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: (7) Senatorii și deputații care se deplasează în altă localitate din circumscripțiile electorale în care domiciliază, pentru activități legate de exercitarea mandatului, beneficiază de o diurnă de deplasare de 65% din diurna prevăzută la alin. (3)."
+    }
+  ],
+  "definitions": []
+}

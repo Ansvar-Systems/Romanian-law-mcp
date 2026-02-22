@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272376",
+  "type": "statute",
+  "title": "LEGE nr. 250 din 21 iulie 2023",
+  "short_name": "lege 250 21 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-21",
+  "in_force_date": "2023-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272376",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 250 21/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 125 din Legea energiei electrice și a gazelor naturale nr. 123/2012 , publicată în Monitorul Oficial al României, Partea I, nr. 485 din 16 iulie 2012, cu modificările și completările ulterioare, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) Terenurile pe care sunt amplasate instalațiile tehnologice de suprafață, aferente Sistemului național de transport al gazelor naturale, constând în conducte, instalații, aparate, echipamente, dotările aferente și construcții, necesare desfășurării activității de transport al gazelor naturale, sunt și rămân în proprietatea publică a statului, pe durata de existență a sistemului național de transport."
+    }
+  ],
+  "definitions": []
+}

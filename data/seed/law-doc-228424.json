@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-228424",
+  "type": "statute",
+  "title": "LEGE nr. 94 din 25 iunie 2020",
+  "short_name": "lege 94 25 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-25",
+  "in_force_date": "2020-06-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228424",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 94 25/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Protocolul privind agricultura durabilă și dezvoltarea rurală, încheiat la Lillafüred la 12 octombrie 2017 și semnat de România la aceeași dată, la Convenția-cadru privind protecția și dezvoltarea durabilă a Carpaților, adoptată la Kiev la 22 mai 2003, ratificată prin Legea nr. 389/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 879 din 27 octombrie 2006."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu ocazia depunerii instrumentului de ratificare va fi reiterată declarația formulată de România la momentul semnării protocolului, cu următorul conținut: „Guvernul României declară că interpretează art. 2 alin. (1) din prezentul protocol doar conform prevederilor și în limitele Convenției-cadru privind protecția și dezvoltarea durabilă a Carpaților, adoptată la Kiev la 22 mai 2003.“"
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Agriculturii și Dezvoltării Rurale și Ministerul Mediului, Apelor și Pădurilor întreprind demersurile necesare în vederea punerii în aplicare a protocolului prevăzut la art. 1 ."
+    }
+  ],
+  "definitions": []
+}

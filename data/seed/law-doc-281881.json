@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-281881",
+  "type": "statute",
+  "title": "LEGE nr. 104 din 16 aprilie 2024",
+  "short_name": "lege 104 16 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-16",
+  "in_force_date": "2024-04-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281881",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 104 16/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea serviciului public de alimentare cu energie termică nr. 325/2006, republicată în Monitorul Oficial al României, Partea I, nr. 217 din 16 martie 2023, se completează după cum urmează: 1. După articolul 21 se introduce un nou articol, articolul 21^1, cu următorul cuprins: Articolul 21^1 (1) Hotărârile privind darea în administrare a furnizării/prestării serviciilor de utilități publice și, după caz, contractele de delegare a gestiunii serviciului public de alimentare cu energie termică conțin metoda de calcul privind reducerea compensației pentru obligația de serviciu public prevăzută de Ordonanța Guvernului nr. 36/2006 privind unele măsuri pentru funcționarea sistemelor centralizate de alimentare cu energie termică a populației, aprobată cu modificări și completări prin Legea nr. 483/2006 , cu modificările și completările ulterioare, aplicabilă în situația în care operatorul nu îndeplinește obiectivele referitoare la indicatorii de performanță privind calitatea și cantitatea serviciului. (2) Reducerea compensației pentru obligația de serviciu public nu se aplică operatorului care nu își îndeplinește obiectivele referitoare la indicatorii de performanță privind calitatea și cantitatea serviciului ca urmare a unei situații de forță majoră sau a nerespectării obligațiilor asumate de către autoritatea administrației publice locale, în condițiile în care operatorul care prestează serviciul public de alimentare cu energie termică în sistem centralizat a luat toate măsurile pentru îndeplinirea acestora. 2. După articolul 22 se introduce un nou articol, articolul 22^1, cu următorul cuprins: Articolul 22^1 (1) În situația în care unitatea administrativ-teritorială nu deține în proprietate infrastructura tehnico-edilitară aferentă activității de producere a energiei termice, în caietul de sarcini pentru prestarea serviciului public de alimentare cu energie termică se acordă un punctaj superior ofertantului care produce energie din surse regenerabile în ponderea cea mai mare din necesar. (2) În situația în care unitatea administrativ-teritorială deține în proprietate infrastructura tehnico-edilitară aferentă activității de producere a energiei termice, inclusiv surse de producere din resurse regenerabile realizate de unitatea administrativ-teritorială potrivit strategiei locale a serviciului de alimentare cu energie termică a populației, în contractul de delegare a gestiunii serviciului public de alimentare cu energie termică sau, după caz, în hotărârea privind darea în administrare se introduce o clauză de stimulare a maximizării producerii de energie termică din surse regenerabile."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Hotărârile privind darea în administrare a furnizării/prestării serviciilor de utilități publice și, după caz, contractele de delegare a gestiunii serviciului public de alimentare cu energie termică aflate în curs de desfășurare la data intrării în vigoare a prezentei legi rămân valabile până la data încetării acestora în condițiile în care au fost aprobate/ încheiate."
+    }
+  ],
+  "definitions": []
+}

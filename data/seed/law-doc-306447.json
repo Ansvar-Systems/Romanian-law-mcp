@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-306447",
+  "type": "statute",
+  "title": "LEGE nr. 17 din 15 ianuarie 2026",
+  "short_name": "lege 17 15 01 2026",
+  "status": "in_force",
+  "issued_date": "2026-01-15",
+  "in_force_date": "2026-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/306447",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 17 15/01/2026",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea învățământului superior nr. 199/2023 , publicată în Monitorul Oficial al României, Partea I, nr. 614 din 5 iulie 2023, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 52, alineatul (5) se modifică și va avea următorul cuprins: (5) În cadrul studiilor universitare de scurtă durată este obligatorie efectuarea unor stagii de practică. Instituțiile de învățământ superior au obligația de a asigura un minimum de 75% din locurile de practică necesare, dintre care cel puțin 50% în afara instituțiilor de învățământ superior. 2. La articolul 54, alineatul (6) se modifică și va avea următorul cuprins: (6) În cadrul studiilor universitare de licență este obligatorie efectuarea unor stagii de practică. Instituțiile de învățământ superior au obligația de a asigura un minimum de 75% din locurile de practică necesare, dintre care cel puțin 50% în afara acestora. 3. La articolul 263, după alineatul (2) se introduce un nou alineat, alin. (3), cu următorul cuprins: (3) Sistemul de indicatori de la alin. (2) cuprinde un indicator care să reflecte respectarea art. 52 alin. (5) și a art. 54 alin. (6)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Obligațiile prevăzute la art. 52 alin. (5) și art. 54 alin. (6) din Legea învățământului superior nr. 199/2023 , cu modificările și completările ulterioare, astfel cum au fost modificate prin prezenta lege, intră în vigoare începând cu anul universitar 2029-2030. (2) Până la începutul anului universitar 2029-2030, instituțiile de învățământ superior implementează măsurile necesare pentru respectarea obligațiilor instituite prin prezenta lege."
+    }
+  ],
+  "definitions": []
+}

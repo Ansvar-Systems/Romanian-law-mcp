@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-14166",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 14 februarie 1998",
+  "short_name": "lege 39 14 02 1998",
+  "status": "in_force",
+  "issued_date": "1998-02-14",
+  "in_force_date": "1998-02-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/14166",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 14/02/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifica Convenția dintre Guvernul României și Guvernul Statului Israel pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnată la Ierusalim la 15 iunie 1997."
+    }
+  ],
+  "definitions": []
+}

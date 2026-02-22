@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-278132",
+  "type": "statute",
+  "title": "LEGE nr. 16 din 12 ianuarie 2024",
+  "short_name": "lege 16 12 01 2024",
+  "status": "in_force",
+  "issued_date": "2024-01-12",
+  "in_force_date": "2024-01-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/278132",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 16 12/01/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Convenția dintre România și Principatul Liechtenstein pentru eliminarea dublei impuneri cu privire la impozitele pe venit și pe capital și prevenirea evaziunii fiscale și a evitării plății impozitelor și Protocolul la convenție, semnate la Berna la 10 noiembrie 2022."
+    }
+  ],
+  "definitions": []
+}

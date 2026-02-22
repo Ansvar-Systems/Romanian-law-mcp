@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247324",
+  "type": "statute",
+  "title": "LEGE nr. 245 din 11 octombrie 2021",
+  "short_name": "lege 245 11 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-11",
+  "in_force_date": "2021-10-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247324",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 245 11/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "În tabelul-anexă nr. I la Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri, republicată în Monitorul Oficial al României, Partea I, nr. 163 din 6 martie 2014, cu modificările și completările ulterioare, după substanța „2-metoxi-N-fenil-N-[1-(2-feniletil) piperidin4-il]acetamidă (metoxiacetilfentanil)“ se introduce următoarea substanță: N,N-dietil-2-[[4-(1-metiletox) fenil]metil]-5-nitro-1H-benzimidazol-1-etanamină (isotonitazen)"
+    }
+  ],
+  "definitions": []
+}

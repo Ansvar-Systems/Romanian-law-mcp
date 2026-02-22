@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247795",
+  "type": "statute",
+  "title": "LEGE nr. 260 din 29 octombrie 2021",
+  "short_name": "lege 260 29 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-29",
+  "in_force_date": "2021-10-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247795",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 260 29/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 95 din 8 decembrie 2016 pentru prorogarea unor termene, precum și pentru instituirea unor măsuri necesare pregătirii punerii în aplicare a unor dispoziții din Legea nr. 134/2010 privind Codul de procedură civilă , publicată în Monitorul Oficial al României, Partea I, nr. 1009 din 15 decembrie 2016."
+    }
+  ],
+  "definitions": []
+}

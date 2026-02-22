@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183992",
+  "type": "statute",
+  "title": "LEGE nr. 234 din 24 noiembrie 2016",
+  "short_name": "lege 234 24 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-24",
+  "in_force_date": "2016-11-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183992",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 234 24/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 2 din Legea nr. 309/2002 privind recunoaşterea şi acordarea unor drepturi persoanelor care au efectuat stagiul militar în cadrul Direcţiei Generale a Serviciului Muncii în perioada 1950-1961, publicată în Monitorul Oficial al României, Partea I, nr. 385 din 6 iunie 2002, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"Art. 2. - Persoanele care s-au aflat în situaţia prevăzută la art. 1 au dreptul la o indemnizaţie lunară, neimpozabilă, de 5 lei pentru fiecare lună de stagiu militar efectuat în cadrul Direcţiei Generale a Serviciului Muncii.\""
+    }
+  ],
+  "definitions": []
+}

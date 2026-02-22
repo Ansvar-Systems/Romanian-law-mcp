@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35878",
+  "type": "statute",
+  "title": "LEGE nr. 29 din 9 decembrie 1982",
+  "short_name": "lege 29 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35878",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 29 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 402/1982 privind obligaţiile persoanelor care cer şi li se aproba să se stabilească definitiv în străinătate de a plati integral datoriile pe care le au faţă de stat, organizaţii socialiste şi persoane fizice, precum şi de a restitui unele cheltuieli suportate de stat cu şcolarizarea lor. -------------"
+    }
+  ],
+  "definitions": []
+}

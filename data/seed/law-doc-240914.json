@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240914",
+  "type": "statute",
+  "title": "LEGE nr. 72 din 9 aprilie 2021",
+  "short_name": "lege 72 09 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-09",
+  "in_force_date": "2021-04-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240914",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 72 09/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 56 din 3 iulie 2019 pentru completarea Legii nr. 52/2011 privind exercitarea unor activități cu caracter ocazional desfășurate de zilieri, publicată în Monitorul Oficial al României, Partea I, nr. 552 din 4 iulie 2019."
+    }
+  ],
+  "definitions": []
+}

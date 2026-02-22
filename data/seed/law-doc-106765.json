@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-106765",
+  "type": "statute",
+  "title": "LEGE nr. 215 din 2 iunie 2009",
+  "short_name": "lege 215 02 06 2009",
+  "status": "in_force",
+  "issued_date": "2009-06-02",
+  "in_force_date": "2009-06-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/106765",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 215 02/06/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 4 din 11 februarie 2009 privind reglementarea unor măsuri în domeniul bugetar, publicată în Monitorul Oficial al României, Partea I, nr. 92 din 16 februarie 2009, cu următoarele modificări: 1. La articolul 1, alineatul (2) al articolului 11 va avea următorul cuprins: (2) La stabilirea limitelor prevăzute la alin. (1) nu se includ finanțările rambursabile pentru prefinanțarea și/sau cofinanțarea proiectelor care beneficiază de fonduri nerambursabile de la Uniunea Europeană, inclusiv cele cuprinse în programul HIPERB, și tragerile din aceste finanțări rambursabile, contractate sau care urmează a fi contractate de unitățile administrativ-teritoriale. 2. Articolul 4 va avea următorul cuprins: Articolul 4 Bugetele de venituri și cheltuieli ale instituțiilor publice finanțate integral din venituri proprii, care funcționează în coordonarea primului-ministru, și bugetul Autorității Naționale de Reglementare în Domeniul Energiei, care funcționează în coordonarea viceprim-ministrului, se aprobă prin hotărâre a Guvernului, în termen de 15 zile de la data publicării legii bugetare anuale sau a legii de rectificare bugetară."
+    }
+  ],
+  "definitions": []
+}

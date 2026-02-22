@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-255495",
+  "type": "statute",
+  "title": "LEGE nr. 139 din 17 mai 2022",
+  "short_name": "lege 139 17 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-17",
+  "in_force_date": "2022-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255495",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 139 17/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 120 din 4 octombrie 2021 privind administrarea, funcționarea și implementarea sistemului național privind factura electronică RO e-Factura și factura electronică în România, precum și pentru completarea Ordonanței Guvernului nr. 78/2000 privind omologarea, eliberarea cărții de identitate a vehiculului și certificarea autenticității vehiculelor rutiere în vederea introducerii pe piață, punerii la dispoziție pe piață, înmatriculării sau înregistrării în România, precum și supravegherea pieței pentru acestea, publicată în Monitorul Oficial al României, Partea I, nr. 960 din 7 octombrie 2021, cu următoarele modificări și completări: 1. La articolul 2 alineatul (1), literele d) și p) se modifică și vor avea următorul cuprins: d) destinatar al facturii electronice - operatorul economic, autoritatea contractantă, entitatea contractantă și orice altă entitate care primește factura electronică însoțită de sigiliul electronic al Ministerului Finanțelor în sistemul național privind factura electronică RO e-Factura; ................................................................................................. p) destinatarul unei facturi electronice emise în relația B2G - autoritatea contractantă, entitatea contractantă sau unitatea de achiziții centralizate cu atribuții în acest sens potrivit legii care primește factura electronică însoțită de sigiliul electronic al Ministerului Finanțelor în sistemul național privind factura electronică RO e-Factura. 2. La articolul 4, alineatele (4) și (6) se modifică și vor avea următorul cuprins: (4) În situația în care factura electronică transmisă respectă structura prevăzută la alin. (1), se aplică sigiliul electronic al Ministerului Finanțelor și se comunică de îndată destinatarului. Aplicarea sigiliului electronic al Ministerului Finanțelor atestă primirea acesteia în sistemul național privind factura electronică RO e-Factura. ................................................................................................. (6) Exemplarul original al facturii electronice se consideră fișierul de tip XML însoțit de sigiliul electronic al Ministerului Finanțelor. 3. La articolul 10, după alineatul (5) se introduce un nou alineat, alineatul (6), cu următorul cuprins: (6) Operatorii economici înregistrați în Registrul RO eFactura care nu dispun de o aplicație de conversie pot utiliza aplicația informatică pusă la dispoziție de Ministerul Finanțelor, prin Centrul Național pentru Informații Financiare, la momentul operaționalizării sistemului național privind factura electronică RO e-Factura. 4. La articolul 16, după alineatul (1) se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Toate funcționalitățile sistemului național privind factura electronică RO e-Factura utilizate de către operatorii economici înrolați sunt accesibile acestora și prin servicii digitale de tip mașină-la-mașină, respectiv interfețe de aplicație programabile. 5. La articolul 19, după punctul 4 se introduce un nou punct, punctul 5, cu următorul cuprins: 5. La articolul 11, alineatul (2) se modifică și va avea următorul cuprins: (2) Prin excepție de la prevederile art. 1 alin. (1) privind omologarea, în cazul vehiculelor rutiere aparținând categoriei T, care au fost achiziționate până la data de 14 aprilie 2021, se eliberează cartea de identitate a vehiculului dacă vehiculul rutier poate fi identificat și corespunde din punctul de vedere al stării tehnice."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Începând cu data de 1 iulie 2022, operatorii economici stabiliți în România conform art. 266 alin. (2) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, au obligația, în relația B2G, definită conform art. 2 alin. (1) lit. m) din Ordonanța de urgență a Guvernului nr. 120/2021 privind administrarea, funcționarea și implementarea sistemului național privind factura electronică RO e-Factura și factura electronică în România, precum și pentru completarea Ordonanței Guvernului nr. 78/2000 privind omologarea, eliberarea cărții de identitate a vehiculului și certificarea autenticității vehiculelor rutiere în vederea introducerii pe piață, punerii la dispoziție pe piață, înmatriculării sau înregistrării în România, precum și supravegherea pieței pentru acestea, să emită facturi electronice și să le transmită prin sistemul național privind factura electronică RO e-Factura."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Abrogat. (la 11-11-2023, Articolul III a fost abrogat de Articolul LXVII, Sectiunea a 3-a, Capitolul IV din LEGEA nr. 296 din 26 octombrie 2023, publicată în MONITORUL OFICIAL nr. 977 din 27 octombrie 2023 )"
+    }
+  ],
+  "definitions": []
+}

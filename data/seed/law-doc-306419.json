@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-306419",
+  "type": "statute",
+  "title": "LEGE nr. 10 din 15 ianuarie 2026",
+  "short_name": "lege 10 15 01 2026",
+  "status": "in_force",
+  "issued_date": "2026-01-15",
+  "in_force_date": "2026-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/306419",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 15/01/2026",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie anul 2026 ca Anul Iancu de Hunedoara, pentru comemorarea a 570 de ani de la decesul lui Iancu de Hunedoara, apărător al creștinismului, al echilibrului și al toleranței între semințiile Europei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot organiza sau sprijini logistic și material manifestări de comemorare și celebrare a personalității lui Iancu de Hunedoara, inclusiv evenimente culturale, educaționale și științifice, precum și activități de promovare a imaginii sale și a patrimoniului cultural-istoric asociat. (2) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii în vederea organizării și derulării în bune condiții a manifestărilor prevăzute la alin. (1) , în limita alocărilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

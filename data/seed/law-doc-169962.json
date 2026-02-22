@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169962",
+  "type": "statute",
+  "title": "LEGE nr. 205 din 20 iulie 2015",
+  "short_name": "lege 205 20 07 2015",
+  "status": "in_force",
+  "issued_date": "2015-07-20",
+  "in_force_date": "2015-07-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169962",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 205 20/07/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 39 din 20 aprilie 2011 pentru modificarea şi completarea Legii parteneriatului public-privat nr. 178/2010 , publicată în Monitorul Oficial al României, Partea I, nr. 284 din 21 aprilie 2011."
+    }
+  ],
+  "definitions": []
+}

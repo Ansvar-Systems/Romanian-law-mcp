@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209390",
+  "type": "statute",
+  "title": "LEGE nr. 335 din 21 decembrie 2018",
+  "short_name": "lege 335 21 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-21",
+  "in_force_date": "2018-12-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209390",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 335 21/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 66 din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, publicată în Monitorul Oficial al României, Partea I, nr. 103 din 6 februarie 2002, cu modificările și completările ulterioare, alineatul (4) se modifică și va avea următorul cuprins: (4) Persoanele private de libertate, începând cu finalul perioadei de carantină și până la ultima zi de executare a pedepsei ori a măsurii educative sau până la data la care sunt propozabile pentru liberare condiționată ori pentru înlocuirea internării cu măsura asistării zilnice, pot urma un program de formare profesională organizat de agențiile pentru ocuparea forței de muncă județene, respectiv a municipiului București, cheltuielile necesare formării fiind suportate din bugetul asigurărilor pentru șomaj."
+    }
+  ],
+  "definitions": []
+}

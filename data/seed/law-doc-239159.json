@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239159",
+  "type": "statute",
+  "title": "LEGE nr. 23 din 12 martie 2021",
+  "short_name": "lege 23 12 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-12",
+  "in_force_date": "2021-03-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239159",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 23 12/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 120 din 22 iulie 2020 privind instituirea unor măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 658 din 24 iulie 2020."
+    }
+  ],
+  "definitions": []
+}

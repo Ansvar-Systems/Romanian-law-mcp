@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35891",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 9 decembrie 1982",
+  "short_name": "lege 20 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35891",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 95/1982 privind unele măsuri pentru asigurarea tăierii la greutatea economică a ovinelor. ────────────────"
+    }
+  ],
+  "definitions": []
+}

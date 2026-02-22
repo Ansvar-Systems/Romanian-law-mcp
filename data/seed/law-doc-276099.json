@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276099",
+  "type": "statute",
+  "title": "LEGE nr. 318 din 6 noiembrie 2023",
+  "short_name": "lege 318 06 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-06",
+  "in_force_date": "2023-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276099",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 318 06/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 72 din Legea nr. 273/2006 privind finanțele publice locale, publicată în Monitorul Oficial al României, Partea I, nr. 618 din 18 iulie 2006, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. După alineatul (1) se introduce un nou alineat, alin. (1^1), cu următorul cuprins: (1^1) Prin excepție de la prevederile alin. (1), autoritățile deliberative pot aproba împrumuturi fără dobândă din bugetul local, pe bază de convenție, și pentru asigurarea implementării proiectelor cu finanțare din fonduri externe nerambursabile. 2. Alineatul (2) se modifică și va avea următorul cuprins: (2) Împrumuturile acordate în condițiile alin. (1) și (1^1) se rambursează integral în termen de un an de la data acordării, cu excepția celor pentru care termenul de rambursare este data restituirii tranșei finale din partea finanțatorului, caz în care termenul de rambursare este de 5 zile lucrătoare de la primirea tranșei finale."
+    }
+  ],
+  "definitions": []
+}

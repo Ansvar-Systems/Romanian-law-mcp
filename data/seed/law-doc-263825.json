@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-263825",
+  "type": "statute",
+  "title": "LEGE nr. 27 din 10 ianuarie 2023",
+  "short_name": "lege 27 10 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-10",
+  "in_force_date": "2023-01-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263825",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 27 10/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 11 iunie ca „Ziua Victoriei Revoluției de la 1848 și a Democrației Românești“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Autoritățile administrației publice centrale și locale, precum și organizațiile neguvernamentale pot organiza manifestări și acțiuni publice dedicate sărbătoririi acestei zile."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În semn de cinstire a eroismului manifestat și a memoriei martirilor căzuți în lupta pentru victoria Revoluției de la 1848 și a democrației românești, municipiile București, Blaj și Craiova se declară orașe-martir ale Revoluției de la 1848."
+    }
+  ],
+  "definitions": []
+}

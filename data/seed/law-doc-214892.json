@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-214892",
+  "type": "statute",
+  "title": "LEGE nr. 113 din 7 iunie 2019",
+  "short_name": "lege 113 07 06 2019",
+  "status": "in_force",
+  "issued_date": "2019-06-07",
+  "in_force_date": "2019-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/214892",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 113 07/06/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se acceptă Decizia Consiliului (UE, Euratom) 2018/994, adoptată la Bruxelles la 13 iulie 2018, de modificare a Actului privind alegerea membrilor Parlamentului European prin vot universal direct, anexat la Decizia 76/787/CECO, CEE, Euratom a Consiliului din 20 septembrie 1976."
+    }
+  ],
+  "definitions": []
+}

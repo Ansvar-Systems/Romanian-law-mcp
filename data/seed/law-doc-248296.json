@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-248296",
+  "type": "statute",
+  "title": "LEGE nr. 265 din 5 noiembrie 2021",
+  "short_name": "lege 265 05 11 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-05",
+  "in_force_date": "2021-11-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/248296",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 265 05/11/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 45 din 26 iunie 2014 privind modificarea și completarea Legii nr. 370/2004 pentru alegerea Președintelui României, publicată în Monitorul Oficial al României, Partea I, nr. 475 din 27 iunie 2014."
+    }
+  ],
+  "definitions": []
+}

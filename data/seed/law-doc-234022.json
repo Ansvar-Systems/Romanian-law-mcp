@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-234022",
+  "type": "statute",
+  "title": "LEGE nr. 277 din 27 noiembrie 2020",
+  "short_name": "lege 277 27 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-27",
+  "in_force_date": "2020-11-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/234022",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 277 27/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 3 iunie ca Ziua națională a bicicletei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Ziua națională a bicicletei poate fi marcată de către autoritățile publice centrale și locale, de către societatea civilă și persoane fizice și juridice, prin organizarea și/sau participarea la programe și manifestări educative, de voluntariat, cu caracter social sau sportiv, consacrate informării și conștientizării beneficiilor oferite de mersul pe bicicletă. (2) Autoritățile administrației publice centrale și locale pot acorda sprijin logistic și pot aloca fonduri din bugetele proprii în vederea organizării și derulării în bune condiții a manifestărilor prevăzute la alin. (1) , în limita alocațiilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

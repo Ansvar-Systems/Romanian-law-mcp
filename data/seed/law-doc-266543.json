@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-266543",
+  "type": "statute",
+  "title": "LEGE nr. 73 din 31 martie 2023",
+  "short_name": "lege 73 31 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-31",
+  "in_force_date": "2023-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266543",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 73 31/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 147 din 28 octombrie 2022 privind înființarea, organizarea și funcționarea Agenției Române pentru Investiții și Comerț Exterior, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 43/2017 privind înființarea, organizarea și funcționarea agențiilor pentru întreprinderi mici și mijlocii, atragere de investiții și promovare a exportului, publicată în Monitorul Oficial al României, Partea I, nr. 1048 din 28 octombrie 2022."
+    }
+  ],
+  "definitions": []
+}

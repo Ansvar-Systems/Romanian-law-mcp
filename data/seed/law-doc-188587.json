@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188587",
+  "type": "statute",
+  "title": "LEGE nr. 73 din 25 aprilie 2017",
+  "short_name": "lege 73 25 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-25",
+  "in_force_date": "2017-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188587",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 73 25/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 67 din 5 octombrie 2016 pentru modificarea art. 5^1 din Ordonanţa Guvernului nr. 36/2006 privind unele măsuri pentru funcţionarea sistemelor centralizate de alimentare cu energie termică a populaţiei, publicată în Monitorul Oficial al României, Partea I, nr. 805 din 12 octombrie 2016."
+    }
+  ],
+  "definitions": []
+}

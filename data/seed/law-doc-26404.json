@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-26404",
+  "type": "statute",
+  "title": "LEGE nr. 24 din 16 decembrie 1983",
+  "short_name": "lege 24 16 12 1983",
+  "status": "in_force",
+  "issued_date": "1983-12-16",
+  "in_force_date": "1983-12-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/26404",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 24 16/12/1983",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 339/1983 pentru modificarea Legii nr. 3/1977 privind pensiile de asigurări sociale de stat şi asistenţa socială. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 16 decembrie 1983. PREŞEDINTELE MARII ADUNĂRI NAŢIONALE Nicolae Giosan -----------"
+    }
+  ],
+  "definitions": []
+}

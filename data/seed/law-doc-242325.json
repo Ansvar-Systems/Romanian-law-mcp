@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242325",
+  "type": "statute",
+  "title": "LEGE nr. 145 din 17 mai 2021",
+  "short_name": "lege 145 17 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-17",
+  "in_force_date": "2021-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242325",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 145 17/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 223 din 30 decembrie 2020 privind aprobarea preluării de către Ministerul Transporturilor și Infrastructurii a drepturilor și obligațiilor, inclusiv a obligațiilor de plată a cotizației anuale de membru al Organizației de Colaborare a Căilor Ferate (OCCF), publicată în Monitorul Oficial al României, Partea I, nr. 1.328 din 31 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

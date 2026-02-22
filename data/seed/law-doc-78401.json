@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-78401",
+  "type": "statute",
+  "title": "LEGE nr. 516 din 29 decembrie 2006",
+  "short_name": "lege 516 29 12 2006",
+  "status": "in_force",
+  "issued_date": "2006-12-29",
+  "in_force_date": "2006-12-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/78401",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 516 29/12/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul II din Legea nr. 302/2005 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, publicată în Monitorul Oficial al României, Partea I, nr. 953 din 27 octombrie 2005, după alineatul (2) se introduce alineatul (2^1), cu următorul cuprins: (2^1) Majorarea capitalului social se va putea face până la data de 31 ianuarie 2007 și prin utilizarea rezervelor, cu excepția rezervelor legale, precum și a beneficiilor și a primelor legate de capital, inclusiv a diferenței favorabile din reevaluarea patrimoniului social ori în alte modalități permise de lege."
+    }
+  ],
+  "definitions": []
+}

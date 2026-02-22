@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-200333",
+  "type": "statute",
+  "title": "LEGE nr. 101 din 4 mai 2018",
+  "short_name": "lege 101 04 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-04",
+  "in_force_date": "2018-05-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200333",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 101 04/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 20 din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României, republicată în Monitorul Oficial al României, Partea I, nr. 511 din 3 iulie 2017, alineatul (3) se modifică și va avea următorul cuprins: (3) Pentru legi și pentru actele Parlamentului adoptate în ședințe comune ale Camerei Deputaților și Senatului, precum și pentru actele birourilor permanente reunite ale Camerei Deputaților și Senatului, respectiv pentru deciziile comune ale președinților Camerei Deputaților și Senatului, cheltuielile de publicare se suportă în mod egal din bugetele Camerei Deputaților și Senatului, conform unei metodologii aprobate prin ordin comun al secretarilor generali ai celor două Camere, cu excepția rapoartelor prezentate Parlamentului potrivit art. 6 lit. D, ale căror cheltuieli de publicare se suportă din bugetul autorităților publice respective. Pentru actele Camerei Deputaților și actele Senatului, ale birourilor permanente ale acestora și pentru deciziile președinților celor două Camere, cheltuielile de publicare se suportă distinct din bugetul fiecăreia dintre acestea."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Metodologia prevăzută la art. 20 alin. (3) din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României, republicată, astfel cum aceasta a fost modificată prin prezenta lege, se aprobă prin ordin comun al secretarului general al Camerei Deputaților și al secretarului general al Senatului, în termen de 30 de zile de la intrarea în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271888",
+  "type": "statute",
+  "title": "LEGE nr. 197 din 4 iulie 2023",
+  "short_name": "lege 197 04 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-04",
+  "in_force_date": "2023-07-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271888",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 197 04/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 27 din 24 august 2022 privind reglementarea unor măsuri financiare prin instituirea schemei de ajutor de minimis în vederea tranziției către economia circulară, adoptată în temeiul art. 1 pct. I.5 din Legea nr. 186/2022 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 839 din 26 august 2022, cu următoarea modificare: – Anexa se modifică și va avea următorul cuprins: ANEXĂ CAEN Denumire 11 Fabricarea băuturilor 12 Fabricarea produselor din tutun 13 Fabricarea produselor textile 14 Fabricarea articolelor de îmbrăcăminte 15 Tăbăcirea și finisarea pieilor; fabricarea articolelor de voiaj și marochinărie, harnașamentelor și încălțămintei; prepararea și vopsirea blănurilor 16 Prelucrarea lemnului, fabricarea produselor din lemn și plută, cu excepția mobilei; fabricarea articolelor din paie și din alte materiale vegetale împletite 17 Fabricarea hârtiei și a produselor din hârtie 19 Fabricarea produselor de cocserie și a produselor obținute din prelucrarea țițeiului 20 Fabricarea substanțelor și a produselor chimice 21 Fabricarea produselor farmaceutice de bază și a preparatelor farmaceutice 22 Fabricarea produselor din cauciuc și mase plastice 23 Fabricarea altor produse din minerale nemetalice 24 Industria metalurgică 25 Industria construcțiilor metalice și a produselor din metal, exclusiv mașini, utilaje și instalații 26 Fabricarea calculatoarelor și a produselor electronice și optice 27 Fabricarea echipamentelor electrice 28 Fabricarea de mașini, utilaje și echipamente 29 Fabricarea autovehiculelor de transport rutier, a remorcilor și semiremorcilor 30 Fabricarea altor mijloace de transport 31 Fabricarea de mobilă 32 Alte activități industriale 33 Repararea, întreținerea și instalarea mașinilor și echipamentelor 62 Activități de servicii în tehnologia informației 72 Cercetare-dezvoltare 3831 Demontarea/Dezasamblarea mașinilor și echipamentelor scoase din uz pentru recuperarea materialelor 3832 Recuperarea materialelor reciclabile sortate 4677 Comerț cu ridicata al deșeurilor și resturilor 9511 Repararea calculatoarelor și a echipamentelor periferice 9521 Repararea aparatelor electronice de uz casnic 9522 Repararea dispozitivelor de uz gospodăresc și a echipamentelor pentru casă și grădină 9523 Repararea încălțămintei și a articolelor din piele 9524 Repararea mobilei și a furniturilor casnice 9525 Repararea ceasurilor și a bijuteriilor 9529 Repararea articolelor de uz personal și gospodăresc"
+    }
+  ],
+  "definitions": []
+}

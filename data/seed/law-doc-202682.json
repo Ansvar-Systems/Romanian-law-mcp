@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-202682",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 13 iulie 2018",
+  "short_name": "lege 171 13 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-13",
+  "in_force_date": "2018-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/202682",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 13/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 64 din 5 octombrie 2016 pentru modificarea și completarea Legii energiei electrice și a gazelor naturale nr. 123/2012 , publicată în Monitorul Oficial al României, Partea I, nr. 801 din 11 octombrie 2016."
+    }
+  ],
+  "definitions": []
+}

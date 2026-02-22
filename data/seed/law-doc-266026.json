@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-266026",
+  "type": "statute",
+  "title": "LEGE nr. 62 din 16 martie 2023",
+  "short_name": "lege 62 16 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-16",
+  "in_force_date": "2023-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266026",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 62 16/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea cadastrului și a publicității imobiliare nr. 7/1996 , republicată în Monitorul Oficial al României, Partea I, nr. 720 din 24 septembrie 2015, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 3, alineatele (4) , (6) , (6^3) și (6^4) se modifică și vor aveaurmătorul cuprins: (4) În vederea specializării relațiilor de colaborare dintre unitatea administrativ-teritorială, instanțele de judecată, notarii publici, avocații și Agenția Națională sau, după caz, oficiul teritorial, primarul, președintele instanței sau al Consiliului Superior al Magistraturii, președintele Uniunii Naționale a Notarilor Publici din România sau al Camerei Notarilor Publici, președintele Uniunii Naționale a Barourilor din România sau decanul baroului stabilesc prin dispoziție persoanele din structura de specialitate a acestora care colaborează direct cu Agenția Națională sau, după caz, cu oficiul teritorial, în condițiile stabilite prin protocol de colaborare încheiat între Agenția Națională și instituțiile anterior menționate. ..................................................... (6) Pentru îndeplinirea obligațiilor ce le revin, autoritățile publice centrale și locale, autoritățile administrative autonome, instituțiile publice, instanțele judecătorești, notarii publici, experții judiciari, persoanele autorizate să realizeze lucrări de cadastru, geodezie, cartografie și fotogrammetrie, avocații, practicienii în insolvență și executorii judecătorești au acces gratuit, direct, permanent, personal sau prin reprezentant, la platforma, seturile de date și serviciile online ale sistemului integrat de cadastru și carte funciară, în condiții stabilite prin ordin al directorului general al Agenției Naționale. ..................................................... (6^3) Ordinul prevăzut la alin. (6) cuprinde inclusiv serviciile gratuite ce se acordă entităților astfel enumerate și se publică în Monitorul Oficial al României, Partea I, și pe pagina de internet a Agenției Naționale. Prin ordin al directorului general al Agenției Naționale pot fi stabilite și serviciile online ale sistemului integrat de cadastru și carte funciară, în condițiile stabilite. (6^4) Procedura comunicării actelor către birourile teritoriale se va stabili prin protocoale de colaborare aprobate prin hotărâre a Consiliului Uniunii Naționale a Notarilor Publici din România, prin hotărâre a Consiliului Uniunii Naționale a Barourilor din România, respectiv prin hotărâre a Consiliului Uniunii Naționale a Executorilor Judecătorești, și prin ordin cu caracter normativ al directorului general al Agenției Naționale, protocoale care se vor publica în Monitorul Oficial al României, Partea I. 2. La articolul 4, litera l) se modifică și va avea următorul cuprins: l) avizează tehnic expertizele efectuate de către experții judiciari în specialitatea topografie, geodezie și cadastru cu privire la informațiile utilizate din seturile de date administrate online de oficiul teritorial și/sau analogic. Avizele menționate mai sus vor fi eliberate prin aplicația informatică de cadastru și carte funciară, conform regulamentului elaborat de Agenția Națională și aprobat prin ordin cu caracter normativ al directorului general al Agenției Naționale, care se va publica în Monitorul Oficial al României, Partea I; 3. La articolul 5, alineatul (2) se modifică și va avea următorul cuprins: (2) Registrul electronic național al nomenclaturilor stradale reprezintă sistemul unic de referință la nivel național, în care sunt înscrise nomenclaturile stradale de la nivelul comunelor, orașelor și al municipiilor. Registrul este obligatoriu de utilizat de instituțiile și autoritățile administrației publice centrale și locale în activitatea specifică. Agenția Națională asigură instituțiilor și autorităților publice, avocaților, precum și notarilor publici accesul liber și gratuit la registru. 4. La articolul 28^1, alineatul (5) se modifică și va avea următorul cuprins: (5) Certificarea autenticității și forța juridică a înscrisului în format electronic generat prin intermediul sistemului informatic de cadastru și carte funciară, inclusiv a încheierii de carte funciară, emisă în condițiile prezentei legi, în format electronic, sunt date de sigiliul electronic calificat al Agenției Naționale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) În termen de 90 de zile de la intrarea în vigoare a prezentei legi se emite ordinul prevăzut la art. 4 lit. l) din Legea cadastrului și a publicității imobiliare nr. 7/1996, republicată , cu modificările și completările ulterioare, precum și cu modificările aduse prin prezenta lege. (2) Până la aprobarea prin ordin cu caracter normativ prevăzut la alin. (1) al directorului general al Agenției Naționale a regulamentului elaborat de Agenția Națională cu consultarea asociațiilor profesionale ale experților tehnici judiciari în specialitatea topografie, geodezie și cadastru în conformitate cu prevederile art. 4 lit. l) din Legea nr. 7/1996, republicată , cu modificările și completările ulterioare, precum și cu modificările aduse prin prezenta lege, avizarea tehnică a expertizelor efectuate de către experții judiciari în specialitatea topografie, geodezie și cadastru se va efectua în continuare în baza regulamentului comun, elaborat de Agenția Națională și Ministerul Justiției."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se modifică și va avea următorul cuprins",
+      "definition": "l) avizează tehnic expertizele efectuate de către experții judiciari în specialitatea topografie, geodezie și cadastru cu privire la informațiile utilizate din seturile de date administrate online de oficiul teritorial și/sau analogic",
+      "source_provision": "Art.1"
+    }
+  ]
+}

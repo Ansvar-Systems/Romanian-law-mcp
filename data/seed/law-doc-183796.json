@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183796",
+  "type": "statute",
+  "title": "LEGE nr. 222 din 17 noiembrie 2016",
+  "short_name": "lege 222 17 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-17",
+  "in_force_date": "2016-11-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183796",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 222 17/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (1) al articolului 109 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"Art. 109. - (1) Plata pensiei se face, în funcţie de opţiunea pensionarului, prin mandat poştal, în cont curent sau în cont de card, în condiţiile stabilite prin convenţiile încheiate între Casa Naţională de Pensii Publice, casele de pensii sectoriale şi Compania Naţională «Poşta Română» - S.A. sau, după caz, între Casa Naţională de Pensii Publice, casele de pensii sectoriale şi bănci, precum şi între CNPP, casele de pensii sectoriale şi Banca Centrală Cooperatistă CREDITCOOP în nume propriu şi pentru băncile cooperatiste afiliate.\""
+    }
+  ],
+  "definitions": []
+}

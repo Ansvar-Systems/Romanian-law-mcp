@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-226537",
+  "type": "statute",
+  "title": "LEGE nr. 71 din 2 iunie 2020",
+  "short_name": "lege 71 02 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-02",
+  "in_force_date": "2020-06-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/226537",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 71 02/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "Parlamentul României adoptă prezenta lege."
+    },
+    {
+      "provision_ref": "Par.2",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 73 din 6 decembrie 2019 privind siguranța feroviară, publicată în Monitorul Oficial al României, Partea I, nr. 1002 din 12 decembrie 2019."
+    },
+    {
+      "provision_ref": "Par.3",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din Constituția României, republicată ."
+    },
+    {
+      "provision_ref": "Par.4",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "București, 2 iunie 2020."
+    },
+    {
+      "provision_ref": "Par.5",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "Nr. 71."
+    },
+    {
+      "provision_ref": "Par.6",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "-----"
+    }
+  ],
+  "definitions": []
+}

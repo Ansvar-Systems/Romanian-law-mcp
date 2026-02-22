@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255939",
+  "type": "statute",
+  "title": "LEGE nr. 169 din 3 iunie 2022",
+  "short_name": "lege 169 03 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-03",
+  "in_force_date": "2022-06-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255939",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 169 03/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 9 din 30 august 2021 privind stabilirea unor măsuri de facilitare a utilizării informațiilor financiare și a analizelor financiare în scopul prevenirii, depistării, investigării sau urmăririi penale a anumitor infracțiuni, adoptată în temeiul art. 1 pct. III din Legea nr. 195/2021 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 831 din 31 august 2021, cu următoarele modificări: 1. La articolul 3 alineatul (1), litera b) se modifică și va avea următorul cuprins: b) Parchetul de pe lângă Înalta Curte de Casație și Justiție - Secția de urmărire penală și criminalistică și Secția parchetelor militare, Direcția Națională Anticorupție, Direcția de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, precum și Secția pentru Investigarea Infracțiunilor din Justiție, parchetele de pe lângă curțile de apel și tribunale; 2. La articolul 6 alineatul (2), litera f) se modifică și va avea următorul cuprins: f) identificatorul de utilizator unic al reprezentantului autorității competente care a efectuat accesarea sau consultarea și, după caz, al reprezentantului autorității competente care a solicitat interogarea sau consultarea, precum și identificatorul de utilizator unic al destinatarului rezultatelor interogării sau consultării."
+    }
+  ],
+  "definitions": []
+}

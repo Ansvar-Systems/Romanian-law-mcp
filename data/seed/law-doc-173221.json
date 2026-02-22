@@ -1,0 +1,46 @@
+{
+  "id": "law-doc-173221",
+  "type": "statute",
+  "title": "LEGE nr. 285 din 19 noiembrie 2015",
+  "short_name": "lege 285 19 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-19",
+  "in_force_date": "2015-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173221",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 285 19/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Legea nr. 37/2015 privind clasificarea fermelor şi exploataţiilor agricole, publicată în Monitorul Oficial al României, Partea I, nr. 172 din 12 martie 2015, se modifică după cum urmează: 1. La articolul 1 alineatul (2), litera e) se modifică şi va avea următorul cuprins: \"e) producţia standard totală - reprezintă valoarea standard a producţiei brute (SO), determinată în conformitate cu prevederile Regulamentului (CE) nr. 1.242/2008 .\" 2. La articolul 3, alineatul (1) se modifică şi va avea următorul cuprins: \"Art. 3. - (1) În funcţie de dimensiunea economică, fermele şi exploataţiile agricole se clasifică şi se definesc după cum urmează: a) fermă de subzistenţă - exploataţie agricolă având dimensiunea economică sub 1.999 SO; b) fermă de semisubzistenţă - exploataţie agricolă având dimensiunea economică între 2.000-7.999 SO; c) fermă mică - exploataţie agricolă având dimensiunea economică între 8.000-11.999 SO; d) fermă de dimensiune medie - exploataţie agricolă având dimensiunea economică între 12.000-250.000 SO; e) fermă mare - exploataţie agricolă având dimensiunea economică peste 250.000 SO.\" 3. Articolul 4 se abrogă."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se modifică şi va avea următorul cuprins",
+      "definition": "\"e) producţia standard totală - reprezintă valoarea standard a producţiei brute (SO), determinată în conformitate cu prevederile Regulamentului (CE) nr. 1.242/2008 .\" 2. La articolul 3, alineatul (1) se modifică şi va avea următorul cuprins: \"Art. 3. - (1) În funcţie de dimensiunea economică, fermele şi exploataţiile agricole se clasifică şi se definesc după cum urmează: a) fermă de subzistenţă - exploataţie agricolă având dimensiunea economică sub 1.999 SO",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "fermă de semisubzistenţă",
+      "definition": "exploataţie agricolă având dimensiunea economică între 2.000-7.999 SO",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "fermă mică",
+      "definition": "exploataţie agricolă având dimensiunea economică între 8.000-11.999 SO",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "fermă de dimensiune medie",
+      "definition": "exploataţie agricolă având dimensiunea economică între 12.000-250.000 SO",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "fermă mare",
+      "definition": "exploataţie agricolă având dimensiunea economică peste 250.000 SO.\" 3. Articolul 4 se abrogă.",
+      "source_provision": "Art.1"
+    }
+  ]
+}

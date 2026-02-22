@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-21294",
+  "type": "statute",
+  "title": "LEGE nr. 41 din 19 decembrie 1969",
+  "short_name": "lege 41 19 12 1969",
+  "status": "in_force",
+  "issued_date": "1969-12-19",
+  "in_force_date": "1969-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21294",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 41 19/12/1969",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 622/1969 privind organizarea şi funcţionarea Ministerului Comerţului Exterior. --------"
+    }
+  ],
+  "definitions": []
+}

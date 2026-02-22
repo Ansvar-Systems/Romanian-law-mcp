@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-22008",
+  "type": "statute",
+  "title": "LEGE nr. 59 din 24 aprilie 2000",
+  "short_name": "lege 59 24 04 2000",
+  "status": "in_force",
+  "issued_date": "2000-04-24",
+  "in_force_date": "2000-04-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22008",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 59 24/04/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Pentru activitățile științifice din cadrul programelor de cercetare desfășurate cu prilejul deplasarilor în afară localității de reședința sau în cazul trimiterii în străinătate pentru îndeplinirea unor misiuni cu caracter temporar, membrii Academiei Române care au domiciliul în țara beneficiază de drepturile bănești prevăzute de reglementările legale, acordate salariaților din instituțiile publice. (2) Membrii Academiei Române beneficiază de transport intern gratuit pe calea ferată, cu orice tip de tren, clasa I. Costul integral al biletelor de călătorie se suporta din bugetul Academiei Române. (la 26-04-2001, Articolul 1 a fost completat de Articolul UNIC din ORDONANȚA DE URGENȚĂ ORDONANȚA DE URGENȚĂ nr. 57 din 19 aprilie 2001, publicată în MONITORUL OFICIAL nr. 211 din 26 aprilie 2001 )"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele necesare pentru serviciile funerare și pentru construirea și întreținerea monumentelor funerare ale membrilor Academiei Române se înscriu distinct cu aceasta destinație și se asigura din bugetul Academiei Române."
+    }
+  ],
+  "definitions": []
+}

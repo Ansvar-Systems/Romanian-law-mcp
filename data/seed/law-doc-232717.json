@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-232717",
+  "type": "statute",
+  "title": "LEGE nr. 238 din 6 noiembrie 2020",
+  "short_name": "lege 238 06 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-06",
+  "in_force_date": "2020-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/232717",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 238 06/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 28 din Legea contabilității nr. 82/1991 , republicată în Monitorul Oficial al României, Partea I, nr. 454 din 18 iunie 2008, cu modificările și completările ulterioare, alineatul (2) se modifică și va avea următorul cuprins: (2) Ministerul Finanțelor Publice poate stabili întocmirea și depunerea la unitățile teritoriale ale Ministerului Finanțelor Publice a situațiilor financiare sau a unor raportări contabile și la alte perioade decât anual, în cadrul exercițiului financiar, doar de către persoanele care au realizat o cifră de afaceri mai mare decât echivalentul în lei a 1.000.000 euro la sfârșitul exercițiului financiar precedent."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea contabilității nr. 82/1991 , republicată în Monitorul Oficial al României, Partea I, nr. 454 din 18 iunie 2008, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-215355",
+  "type": "statute",
+  "title": "LEGE nr. 117 din 20 iunie 2019",
+  "short_name": "lege 117 20 06 2019",
+  "status": "in_force",
+  "issued_date": "2019-06-20",
+  "in_force_date": "2019-06-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/215355",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 117 20/06/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată în Monitorul Oficial al României, Partea I, nr. 933 din 13 octombrie 2004, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 11 alineatul (1), după litera o) se introduce o nouă literă, litera p), cu următorul cuprins: p) montarea pe acoperișul clădirilor de panouri fotovoltaice pentru producerea energiei electrice și/sau panouri solare pentru încălzirea sau prepararea apei calde, cu înștiințarea prealabilă a autorităților administrației publice locale și cu respectarea legislației în vigoare. 2. Articolul 39 se modifică și va avea următorul cuprins: Articolul 39 Toate construcțiile proprietate privată, realizate în condițiile prezentei legi, se declară în vederea impunerii la organele financiare teritoriale sau la unitățile subordonate acestora, după terminarea lor completă și nu mai târziu de 15 zile de la data expirării termenului prevăzut în autorizația de construire."
+    }
+  ],
+  "definitions": []
+}

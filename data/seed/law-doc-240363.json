@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240363",
+  "type": "statute",
+  "title": "LEGE nr. 57 din 31 martie 2021",
+  "short_name": "lege 57 31 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-31",
+  "in_force_date": "2021-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240363",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 57 31/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 18 din Legea nr. 202/1998 privind organizarea Monitorului Oficial al României, republicată în Monitorul Oficial al României, Partea I, nr. 511 din 3 iulie 2017, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 18 (1) Regia Autonomă «Monitorul Oficial» editează Monitorul Oficial al României atât în format tipărit, cât și în format electronic. Formatul tipărit este pus la dispoziția tuturor utilizatorilor contra cost. (2) Formatul electronic al Monitorului Oficial al României, Partea I și a II-a, este disponibil în mod gratuit și liber, permanent. Formatul electronic gratuit și liber este de document portabil, fără filigran sau inscripții suplimentare formatului tipărit; acesta devine accesibil tuturor utilizatorilor în aceeași zi cu publicarea, inclusiv pentru căutare, salvare, distribuire și imprimare."
+    }
+  ],
+  "definitions": []
+}

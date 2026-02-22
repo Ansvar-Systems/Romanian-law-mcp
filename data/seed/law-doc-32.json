@@ -1,0 +1,56 @@
+{
+  "id": "law-doc-32",
+  "type": "statute",
+  "title": "LEGE Nr. 319 din 10 iunie 1944",
+  "short_name": "lege 319 10 06 1944",
+  "status": "in_force",
+  "issued_date": "1944-06-10",
+  "in_force_date": "1944-06-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 319 10/06/1944",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Soţul supravieţuitor mosteneste din averea celuilalt soţ după cum urmează: a) cînd vine la sccesiune cu copiii legitimi şi recunoscuţi sau numai cu unii din ei, ori cu descendenţii lor, mosteneste o pătrime; b) cînd vine la succesiune în concurs cu tatăl şi mama defunctului, ori numai cu unul din ei, în ambele cazuri împreună cu fraţii şi surorile soţului încetat din viaţa şi descendenţii lor, sau numai cu unul din ei, mosteneste o treime; c) cînd vine la succesiune cu tatăl şi mama defunctului, ori numai cu unul dintre ei, sau numai cu fraţii şi surorile acestuia şi descendenţi de-ai lor, ori numai cu unii dintre ei mosteneste o jumătate; d) cînd vine la succesiune cu ceilalţi ascendenţi sau colaterali pînă la gradul al IV-lea inclusiv, mosteneste trei pătrimi; e) în lipsa rudelor mai sus arătate, soţul supravieţuitor mosteneste averea întreaga."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Liberalităţile făcute de soţul predecedat nu vor putea trece peste jumătate din drepturile prevăzute la art. 1, în favoarea soţului supravieţuitor."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Soţul supravieţuitor este obligat să raporteze liberalităţile ce a primit prin acte între vii de la soţul sau, cînd vine în concurs cu copiii sau cu descendenţii lor. Aceeaşi obligaţie o au şi copiii şi descendenţii lor faţă de soţul supravieţuitor."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Soţul supravieţuitor care nu are o alta locuinta proprie, va avea pînă la executarea iesirii din indiviziune şi în orice caz, cel puţin timp de un an de la încetarea din viaţa a soţului sau, în afară de dreptul de moştenire potrivit dispoziţiilor de mai sus, un drept de abitaţie asupra casei în care a locuit, dacă aceasta face parte din succesiune. Soţul supravieţuitor nu va fi obligat sa dea cauţiunea prevăzută de art. 566 din Codul civil. Dreptul de abitaţie nu va putea fi cedat sau încheiat, chiar şi în cazul prevăzut de art. 572, alin. II C. civ. Comostenitorii soţului supravieţuitor vor putea cere restrangerea dreptului de abitaţie în cazul cînd locuinta nu va fi necesară în întregime. De asemenea, ei vor avea dreptul de procura soţului supravieţuitor locuinta în altă parte. Dacă soţul supravieţuitor şi moştenitor nu se înţeleg asupra procurării locuinţei sau restrângerii abitatiei, instanţa competenţa va judeca imparteala averii, va hotărî de urgenta în camera de consiliu. Dreptul de abitaţie încetează, dacă soţul supravieţuitor se recasatoreste înainte de executarea iesirii din indiviziune."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "În cazurile prevăzute la art. 1 pct. b - d inclusiv, soţul supravieţuitor va moşteni, în afară de partea sa succesorală mobilele şi obiectele aparţinînd gospodăriei casnice, precum şi darurile de nunta."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Dispoziţiile art. 676 din Codul civil modificate prin art. 4 din Legea impozitului progresiv pe succesiuni, din 28 iulie 1921, prin care s-a restrâns ordinea succesorală pînă la gradul al IV-lea inclusiv, sînt şi rămîn în vigoare."
+    },
+    {
+      "provision_ref": "Art.7",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Dispoziţiile privitoare la dreptul de moştenire al soţului supravieţuitor în Ardeal şi Banat, precum şi orice alte norme contrare prezentului decret-lege, în afară de dispoziţiile mai favorabile prevăzute de legea nr. 609 din 1 iulie 1941 , pentru văduvele da război, sînt şi rămîn abrogate. --------------------------"
+    }
+  ],
+  "definitions": []
+}

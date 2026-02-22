@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35902",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 2 decembrie 1988",
+  "short_name": "lege 20 02 12 1988",
+  "status": "in_force",
+  "issued_date": "1988-12-02",
+  "in_force_date": "1988-12-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35902",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 02/12/1988",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 310/1988 privind majorarea consumurilor normate lunare şi reducerea tarifelor la energia electrica furnizată populaţiei. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 2 decembrie 1988. Preşedintele Marii Adunări Naţionale NICOLAE GIOSAN ------------"
+    }
+  ],
+  "definitions": []
+}

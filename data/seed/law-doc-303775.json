@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303775",
+  "type": "statute",
+  "title": "LEGE nr. 170 din 29 octombrie 2025",
+  "short_name": "lege 170 29 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-29",
+  "in_force_date": "2025-10-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303775",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 170 29/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Convenția dintre România și Principatul Andorra pentru eliminarea dublei impuneri cu privire la impozitele pe venit și pe capital și prevenirea evaziunii fiscale și a evitării plății impozitelor și Protocolul la convenție, semnate la New York la 27 septembrie 2024."
+    }
+  ],
+  "definitions": []
+}

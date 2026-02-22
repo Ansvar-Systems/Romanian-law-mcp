@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-209539",
+  "type": "statute",
+  "title": "LEGE nr. 360 din 27 decembrie 2018",
+  "short_name": "lege 360 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209539",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 360 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 8 alineatul (1) din Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie, republicată în Monitorul Oficial al României, Partea I, nr. 577 din 13 august 2010, cu modificările și completările ulterioare, litera b) se modifică și va avea următorul cuprins: b) energia electrică utilizată de către un producător de energie electrică pentru consumul final propriu, altul decât consumul tehnologic și altul decât consumul necesar pentru extracția, prepararea și manipularea materiilor prime folosite la producerea energiei electrice, în cazul unui producător de energie electrică care are în componența sa și extracția, prepararea și manipularea materiilor prime folosite la producerea energiei electrice, indiferent de poziția locului de consum și de modalitatea de transport al materiei prime extrase;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ministerul Energiei notifică Comisiei Europene reglementările cuprinse în prezenta lege. Aplicarea prevederilor prezentei legi și a măsurii de exceptare nou-instituite se realizează după autorizarea sa de către Comisia Europeană."
+    }
+  ],
+  "definitions": []
+}

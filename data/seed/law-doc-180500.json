@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-180500",
+  "type": "statute",
+  "title": "LEGE nr. 162 din 21 iulie 2016",
+  "short_name": "lege 162 21 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-21",
+  "in_force_date": "2016-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180500",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 162 21/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă plata contribuţiei anuale care îi revine României în calitate de stat parte la Tratatul privind comerţul cu arme, adoptat la New York la 2 aprilie 2013 şi semnat de România la New York la 3 iunie 2013 şi ratificat de România prin Legea nr. 32/2014 ."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Fondurile necesare pentru plata contribuţiei anuale vor fi asigurate din sumele alocate cu această destinaţie de la bugetul de stat în bugetul Ministerului Afacerilor Externe, capitolul 51.01 \"Autorităţi publice şi acţiuni externe\", titlul 55 \"Alte transferuri.\""
+    }
+  ],
+  "definitions": []
+}

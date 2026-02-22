@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-243112",
+  "type": "statute",
+  "title": "LEGE nr. 156 din 7 iunie 2021",
+  "short_name": "lege 156 07 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-07",
+  "in_force_date": "2021-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243112",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 156 07/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie Ziua Românității Balcanice, care se sărbătorește în data de 10 mai a fiecărui an."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ziua Românității Balcanice poate fi marcată de către autoritățile administrației publice centrale și locale și de celelalte instituții ale statului, de către societatea civilă și persoane fizice și juridice de drept public ori privat, precum și de către reprezentanțele României în străinătate, prin organizarea și/sau participarea, în țară sau peste hotare, la programe și manifestări sociale, educative, cultural artistice, științifice etc. dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Departamentul pentru Românii de Pretutindeni, autoritățile administrației publice centrale și locale, precum și organizațiile neguvernamentale interesate pot sprijini material și logistic organizarea și desfășurarea manifestărilor prevăzute la art. 2 ."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Societatea Română de Televiziune și Societatea Română de Radiodifuziune, în calitate de servicii publice, pot include în programele lor, cu prioritate, emisiuni culturale și informative ori aspecte de la manifestările dedicate acestei sărbători în țară și peste hotare."
+    }
+  ],
+  "definitions": []
+}

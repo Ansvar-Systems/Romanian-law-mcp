@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-244224",
+  "type": "statute",
+  "title": "LEGE nr. 189 din 8 iulie 2021",
+  "short_name": "lege 189 08 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-08",
+  "in_force_date": "2021-07-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244224",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 189 08/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Ziua de 10 mai va fi sărbătorită în fiecare an ca Ziua Independenței Naționale a României, zi de sărbătoare națională, lucrătoare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Președintele României, Guvernul, celelalte autorități publice centrale, precum și autoritățile administrației publice locale vor organiza manifestări cultural-artistice, cu ocazia sărbătoririi zilei prevăzute la art. 1 . (2) Fondurile necesare pentru organizarea manifestărilor prilejuite de sărbătorirea zilei de 10 mai pot fi asigurate din bugetele locale sau din bugetele autorităților publice centrale, precum și ale instituțiilor publice, în limita alocațiilor bugetare aprobate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "La data intrării în vigoare a prezentei legi, Legea nr. 103/2015 pentru declararea zilei de 10 mai ca zi de sărbătoare națională, publicată în Monitorul Oficial al României, Partea I, nr. 336 din 18 mai 2015, se abrogă."
+    }
+  ],
+  "definitions": []
+}

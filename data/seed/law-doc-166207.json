@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-166207",
+  "type": "statute",
+  "title": "LEGE nr. 22 din 9 martie 2015",
+  "short_name": "lege 22 09 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-09",
+  "in_force_date": "2015-03-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166207",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 22 09/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 28 iulie ca Ziua Naţională a Ambulanţei din România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ziua Naţională a Ambulanţei din România poate fi marcată de către autorităţile administraţiei publice centrale, locale, organizaţiile neguvernamentale, muzee şi reprezentanţe ale României în străinătate prin organizarea de evenimente dedicate recunoaşterii rolului şi meritelor în salvarea de vieţi omeneşti a serviciilor de ambulanţă din România."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Sănătăţii este responsabil de coordonarea activităţilor dedicate Zilei Naţionale a Ambulanţei din România."
+    }
+  ],
+  "definitions": []
+}

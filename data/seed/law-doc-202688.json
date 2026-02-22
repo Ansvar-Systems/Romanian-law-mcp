@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-202688",
+  "type": "statute",
+  "title": "LEGE nr. 175 din 13 iulie 2018",
+  "short_name": "lege 175 13 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-13",
+  "in_force_date": "2018-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/202688",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 175 13/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 291 din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, alineatul (2) se modifică și se completează după cum urmează: 1. Litera g) se modifică și va avea următorul cuprins: g) livrarea apei pentru irigații în agricultură; 2. După litera h) se introduce o nouă literă, litera i), cu următorul cuprins: i) serviciile de alimentare cu apă și de canalizare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la 1 ianuarie 2019."
+    }
+  ],
+  "definitions": []
+}

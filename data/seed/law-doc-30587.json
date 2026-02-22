@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30587",
+  "type": "statute",
+  "title": "LEGE nr. 121 din 1 aprilie 1937",
+  "short_name": "lege 121 01 04 1937",
+  "status": "in_force",
+  "issued_date": "1937-04-01",
+  "in_force_date": "1937-04-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30587",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 121 01/04/1937",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare dela legile de executare azi în vigoare nu vor putea fi urmărite sumele de bani acordate drept despăgubire pentru moarte sau invaliditate temporară sau permanenta, cauzate de o agresiune sau accident. Caracterul de despăgubire, în cuprinsul legii de faţa, va trebui, să rezulte din însăşi hotărîrea care a acordat daunele, sau din orice titlu care recunoaşte dreptul de despăgubiri, constituit însă sub forma autentică şi cu data anterioară cererii de urmărire. Sînt exceptate şi vin în concurenta: onorariul medicului care a îngrijit pe victima în timpul bolii provenite din agresiune sau accident, creanta farmacistului pentru plata medicamentelor date cu aceeaşi ocaziune şi onorariul avocatului pentru serviciile prestate în obţinerea despăgubirilor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Toate executările, precum şi măsurile de asigurare, aflate în curs asupra acestor sume, se desfiinţează. Desfiinţarea legală va putea fi invocată pe orice cale în faţa tuturor instanţelor, atît timp cat nu a intervenit o hotărîre care să încheie definitiv executarea. Avizul Consiliului Legislativ, secţia II, Nr. 12/937. Desbateri: Senat Nr. 46-1936/37; Camera Nr. 54-1936/37. Votat de Senat la 16 Martie şi de Adunarea Deputaţilor la 19 Martie 1937. -------------"
+    }
+  ],
+  "definitions": []
+}

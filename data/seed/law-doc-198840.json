@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198840",
+  "type": "statute",
+  "title": "LEGE nr. 71 din 19 martie 2018",
+  "short_name": "lege 71 19 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-19",
+  "in_force_date": "2018-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198840",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 71 19/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 84 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, alineatele (1) și (4) se modifică și vor avea următorul cuprins: Articolul 84 (1) Elevii din învățământul preuniversitar acreditat/autorizat beneficiază de tarif redus cu minimum 50% pentru transportul local în comun, de suprafață, naval și subteran, precum și pentru transportul intern auto, feroviar și naval, pe tot parcursul anului calendaristic. ........................................................ (4) Elevii beneficiază de tarife reduse cu minimum 75% pentru accesul la muzee, la concerte, la spectacole de teatru, de operă, de film și la alte manifestări culturale și sportive organizate de instituții publice."
+    }
+  ],
+  "definitions": []
+}

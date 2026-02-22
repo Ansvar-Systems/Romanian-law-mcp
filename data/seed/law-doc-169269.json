@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169269",
+  "type": "statute",
+  "title": "LEGE nr. 167 din 29 iunie 2015",
+  "short_name": "lege 167 29 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-29",
+  "in_force_date": "2015-06-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169269",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 167 29/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Legea nr. 182/2002 privind protecția informațiilor clasificate, publicată în Monitorul Oficial al României, Partea I, nr. 248 din 12 aprilie 2002, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 15, după litera k) se introduc trei noi litere, literele l) - n), cu următorul cuprins: l) produse geospațiale - produsele analogice sau digitale obținute prin prelucrarea informațiilor geospațiale, de tipul reprezentărilor cartografice constând în planuri topografice, cadastrale și tematice, hărți topografice, cadastrale și tematice și/sau înregistrări aerofotogrammetrice, imagini ortorectificate, ortofotoplanuri și ortofotohărți; m) înregistrare aerofotogrammetrică - înregistrarea analogică sau digitală realizată cu senzori aeropurtați activi și/sau pasivi în spectrul electromagnetic; n) senzori aeropurtați de orice tip - echipamentul analogic sau digital, instalat pe o platformă aeropurtată ce detectează, indică și/sau înregistrează obiecte sau fenomene prin intermediul energiei sau particulelor emise, reflectate sau modificate de diverse obiecte. 2. La articolul 17, litera h) se modifică și va avea următorul cuprins: h) produsele geospațiale, cu excepția înregistrărilor aerofotogrammetrice, pe care sunt reprezentate elemente de conținut cu relevanță în domeniul securității naționale; 3. La articolul 17, după litera h) se introduce o nouă literă, litera h^1), cu următorul cuprins: h^1) înregistrările aerofotogrammetrice obținute cu senzori aeropurtați de orice tip care operează în spectrul electromagnetic, cu rezoluția spațială mai mică de 15 cm, și înregistrările aerofotogrammetrice obținute cu senzori aeropurtați activi de tip digital care conțin mai mult de 9 puncte/m², pe care sunt reprezentate elemente de conținut cu relevanță în domeniul securității naționale;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-8338",
+  "type": "statute",
+  "title": "LEGE Nr. 61 din 3 iulie 1996",
+  "short_name": "lege 61 03 07 1996",
+  "status": "in_force",
+  "issued_date": "1996-07-03",
+  "in_force_date": "1996-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/8338",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 61 03/07/1996",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Maltei pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și a protocolului anexat, semnate la București la 30 noiembrie 1995."
+    }
+  ],
+  "definitions": []
+}

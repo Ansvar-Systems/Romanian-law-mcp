@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-179956",
+  "type": "statute",
+  "title": "LEGE nr. 131 din 7 iulie 2016",
+  "short_name": "lege 131 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/179956",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 131 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 74 din 3 decembrie 2014 cu privire la rectificarea bugetului de stat pe anul 2014 şi unele măsuri bugetare, publicată în Monitorul Oficial al României, Partea I, nr. 888 din 5 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

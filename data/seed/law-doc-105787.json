@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-105787",
+  "type": "statute",
+  "title": "LEGE nr. 161 din 8 mai 2009",
+  "short_name": "lege 161 08 05 2009",
+  "status": "in_force",
+  "issued_date": "2009-05-08",
+  "in_force_date": "2009-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/105787",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 161 08/05/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 118 din 1 octombrie 2008 privind modificarea și completarea unor acte normative în vederea eliminării legăturilor dintre nivelul unor drepturi de asistență socială și nivelul salariului de bază minim brut pe țară garantat în plată, publicată în Monitorul Oficial al României, Partea I, nr. 680 din 3 octombrie 2008, cu următoarea completare: – După articolul IV se introduce un nou articol, articolul V, cu următorul cuprins: Articolul V Ordonanța de urgență a Guvernului nr. 105/2003 privind alocația familială complementară și alocația de susținere pentru familia monoparentală, publicată în Monitorul Oficial al României, Partea I, nr. 747 din 26 octombrie 2003, aprobată cu completări prin Legea nr. 41/2004 , cu modificările ulterioare, se modifică după cum urmează: 1. Articolul 2 se modifică și va avea următorul cuprins: Articolul 2 Alocația familială complementară se acordă lunar familiei prevăzute la art. 1, dacă aceasta realizează venituri nete lunare pe membru de familie de până la 470 lei. 2. Articolul 7 se modifică și va avea următorul cuprins: Articolul 7 Alocația de susținere se acordă lunar familiilor monoparentale, dacă realizează venituri nete lunare pe membru de familie de până la 470 lei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile art. V din Ordonanța de urgență a Guvernului nr. 118/2008 privind modificarea și completarea unor acte normative în vederea eliminării legăturilor dintre nivelul unor drepturi de asistență socială și nivelul salariului de bază minim brut pe țară garantat în plată, cu completările aduse prin prezenta lege, se aplică începând cu luna următoare intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

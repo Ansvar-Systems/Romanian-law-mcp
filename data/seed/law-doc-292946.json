@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-292946",
+  "type": "statute",
+  "title": "LEGE nr. 330 din 20 decembrie 2024",
+  "short_name": "lege 330 20 12 2024",
+  "status": "in_force",
+  "issued_date": "2024-12-20",
+  "in_force_date": "2024-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/292946",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 330 20/12/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 36 din 23 aprilie 2024 pentru modificarea Ordonanței Guvernului nr. 95/1998 privind înființarea unor instituții publice în subordinea Ministerului Lucrărilor Publice, Transporturilor și Locuinței, publicată în Monitorul Oficial al României, Partea I, nr. 382 din 24 aprilie 2024."
+    }
+  ],
+  "definitions": []
+}

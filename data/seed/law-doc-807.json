@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-807",
+  "type": "statute",
+  "title": "LEGE nr. 35 din 4 decembrie 1990",
+  "short_name": "lege 35 04 12 1990",
+  "status": "in_force",
+  "issued_date": "1990-12-04",
+  "in_force_date": "1990-12-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/807",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 35 04/12/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Statutul personalului aeronautic din aviația militară a României, care face parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Apărării Naționale va emite norme pentru aplicarea statutului adoptat prin prezenta lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Hotărârea Consiliului de Miniștri nr. 1062 din 27 decembrie 1963 privind aprobarea Statutului referitor la clasificarea și primele ce se acorda personalului navigant, personalului tehnic de aviație și parașutiștilor militari din forțele armate ale Republicii Socialiste România se abroga."
+    }
+  ],
+  "definitions": []
+}

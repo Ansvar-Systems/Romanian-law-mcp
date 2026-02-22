@@ -1,0 +1,182 @@
+{
+  "id": "law-doc-293",
+  "type": "statute",
+  "title": "LEGE nr. 7 din 21 aprilie 1972",
+  "short_name": "lege 7 21 04 1972",
+  "status": "in_force",
+  "issued_date": "1972-04-21",
+  "in_force_date": "1972-04-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/293",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 21/04/1972",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul 1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "În scopul prevenirii şi combaterii faptelor prevăzute de legea penală, incompatibile cu etica, echitatea şi ordinea de drept socialiste, se organizează cazierul judiciar ca un mijloc de cunoaştere şi descoperire operativă a persoanelor care atentează la proprietatea socialistă, la drepturile, demnitatea şi viaţa cetăţenilor, la celelalte valori materiale şi spirituale ocrotite de lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul 1",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În cazierul judiciar se tine evidenta persoanelor condamnate sau împotriva cărora s-au luat alte măsuri cu caracter penal."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul 1",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Organele de stat, organizaţiile socialiste, orice organizaţii obşteşti, precum şi persoanele fizice, au dreptul să obţină, după caz, copii şi extrase de pe datele înscrise în cazierul judiciar sau certificate de cazier, în condiţiile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul 2",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Cazierul judiciar se organizează de Ministerul de Interne şi se tine de organele militiei."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul 2",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "La organele militiei judeţene funcţionează cazierul judiciar local, în care se tine evidenta persoanelor născute în raza administrativ-teritorial a judeţului."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul 2",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "La Inspectoratul general al militiei funcţionează cazierul judiciar central, în care se tine evidenta persoanelor de pe întreg teritoriul Republicii Socialiste România, precum şi a celor aflate în una dintre situaţiile prevăzute în art. 11 alin. 2. În cazierul judiciar central se tine, de asemenea, evidenta pentru persoanele: a) născute în municipiul Bucureşti şi în raza administrativ-teritorială a judeţului Ilfov; b) născute în străinătate; c) despre care s-au primit comunicări de luare în evidenta din partea organelor competente ale altor state."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul 2",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Înregistrarea în cazierul judiciar se face nominal, prin înscrierea datelor personale şi judiciare, şi dactiloscopic, în cazurile prevăzute în prezenta lege, prin luarea impresiunilor digitale, necesare pentru identificarea operativă a persoanelor înregistrate şi cunoaşterea exactă a situaţiei lor juridice."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul 3",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "În cazierul judiciar se înscriu date privind: a) pedepsele şi măsurile de siguranţa, măsura educativă a internării într-un institut special de reeducare sau medical-educativ, pronunţate prin hotărîri penale definitive; b) începerea, întreruperea şi încetarea executării pedepsei închisorii, a măsurilor de siguranţă şi educative prevăzute la lit. a, liberarea condiţionată şi revocarea acesteia, executarea pedepsei cu moartea; c) amnistia, graţierea, prescripţia, reabilitarea; d) pedepsele şi măsurile pronunţate prin hotărîri penale definitive de instanţele judecătoreşti din străinătate, precum şi de măsurile luate prin actele efectuate de organele judiciare penale din străinătate, dacă aceste hotărîri sau acte au fost recunoscute de organele române competente; e) hotărîrile definitive care impun modificări în cazier; f) extrădarea."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul 3",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "În evidenta organelor militiei arătate în art. 5 şi 6 se noteaza în mod provizoriu, pînă la soluţionarea definitivă a cauzei, cînd se sterg din evidenta, date privind persoanele faţă de care s-a dispus punerea în mişcare a acţiunii penale sau arestarea preventivă. Notările provizorii pentru care nu s-au primit comunicări de soluţionare definitivă timp de 5 ani de la înregistrare se sterg din evidenta la împlinirea acestui termen."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul 3",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Înscrierea datelor prevăzute în art. 8 sau notările provizorii menţionate în art. 9 se fac în baza: a) extraselor de pe hotărîrile judecătoreşti definitive, precum şi de pe încheierile de extindere a procesului penal, trimise de instanţa judecătorească; b) comunicărilor de începere, întrerupere ori încetare a executării pedepsei închisorii, a măsurii arestării preventive de executare a măsurilor de siguranţă şi acelor educative, a pedepsei cu moartea, trimise de organul militiei în cazurile prevăzute în art. 11 alin. ultim; c) comunicării privind aducerea la îndeplinire a hotărîrii de extrădare, trimisa de organul care a pus în executare această măsură; d) comunicărilor de punere în mişcare a acţiunii penale, a extraselor de pe ordonanţele de scoatere de sub urmărire penală sau de încetare a acesteia, trimise de organul de urmărire penală care a luat măsura."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul 3",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Comunicările, extrasele şi celelalte acte prevăzute în art. 10 se trimit organelor militiei competente potrivit art. 5 şi 6 alin. 2, în termen de cel mult 7 zile de la data luării măsurii, pronunţării soluţiei sau intervenirii faptului ce trebuie luat în evidenta. În cazurile de începere a executării pedepsei închisorii, a internării în institute medicale de specialitate, precum şi a internării minorilor în institute speciale de reeducare sau medical-educative, comunicările vor fi însoţite de fişa dactiloscopica. Aceste comunicări se trimit Inspectoratului general al militiei. În situaţiile prevăzute în art. 6 alin. 2, comunicările prevăzute la alineatul precedent se trimit numai Inspectoratului general al militiei. Pentru cei internati în institute medicale de specialitate sau în institute medical-educative, fişa dactiloscopica se întocmeşte de organul local al militiei, care trimite şi comunicarea."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul 3",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Persoanele înscrise în cazierul judiciar sau cu privire la care s-au făcut notari provizorii se scot din evidenta dacă se afla în una din următoarele situaţii: a) faptele pe care le-au savirsit nu mai sînt prevăzute de lege ca infracţiuni; b) au fost reabilitate. Pentru cei reabilitaţi de drept în cazul suspendării condiţionate a executării pedepsei, scoaterea din evidenta se face după ce au trecut 2 ani de la expirarea termenului de încercare; c) au trecut 2 ani de la data intervenirii amnistiei; d) au fost condamnate la pedeapsa amenzii sau la o pedeapsă privată de libertate de cel mult 3 ani şi au trecut 28 de ani de la data condamnării; e) au decedat; f) au fost scoase de sub urmărire, s-a dispus faţă de ele încetarea urmăririi penale ori s-a pronunţat o hotărîre definitivă de achitare sau de încetare a procesului penal. În cazul cînd în cazierul judiciar al persoanelor prevăzute la lit. a-d şi f exista şi alte menţiuni, se sterg numai menţiunile care impun scoaterea din evidenta."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul 4",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Organele de urmărire penală şi instanţele judecătoreşti pot cere, ori de cîte ori este necesar, copie de cazierul judiciar al persoanei aflate în curs de urmărire penală sau de judecată. De asemenea, organele militare pot cere copie de pe cazierul persoanei supuse obligaţiilor militare. Organizaţiile socialiste pot cere extras de pe cazierul judiciar al unei persoane, dacă cunoaşterea datelor cu privire la aceasta le este necesară."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul 4",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Cererea pentru obţinerea datelor sau extraselor de pe cazierul judiciar trebuie să fie motivată şi sa cuprindă datele complete de stare civilă ale persoanei în cauza. Organizaţiile socialiste vor menţiona în cererea pentru eliberarea extrasului de pe cazierul judiciar şi motivul pentru care este necesar acesta şi nu certificatul de cazier judiciar. Cererea se adresează organului militiei judeţene în a cărui raza administrativ-teritorială s-a născut persoana pentru care se cere copia sau extrasul, iar în cazurile prevăzute în art. 6 alin. 2, Inspectoratului general al militiei. Organele militiei vor trimite în termen de 24 de ore copia de pe cazierul judiciar al persoanei faţă de care s-a dispus începerea urmăririi penale pentru infracţiuni flagrante ori măsura arestării preventive, iar în celelalte cazuri copia se va trimite în termen de cel mult 7 zile de la primirea cererii. Extrasul de pe cazierul judiciar se trimite în termen de cel mult 30 de zile de la primirea cererii."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul 4",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Trimiterea în străinătate a extraselor de pe cazierul judiciar se face potrivit înţelegerilor internaţionale la care Republica Socialistă România este parte. În statele faţă de care Republica Socialistă România nu are angajamente rezultate din înţelegerile internaţionale la care este parte, comunicarea extraselor de pe cazierul judiciar se face, pe bază de reciprocitate, de către Ministerul de Interne, prin intermediul Ministerului Afacerilor Externe, la cererea acestor state transmisă pe cale diplomatică."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul 4",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Certificatul de cazier judiciar, eliberat persoanelor fizice, este valabil 3 luni de la data inminarii şi numai în scopul pentru care a fost eliberat. Cererea, cu datele complete de stare civilă şi motivată, se depune la organul militiei de la locul de naştere sau de domiciliu. La depunerea cererii se iau impresiunile digitale. Eliberarea certificatului se face în cel mult 10 zile în cazul cînd cererea se depune la organul militiei de la locul de naştere şi în cel mult 30 de zile, în cazul cînd cererea se depune la organul militiei de la locul de domiciliu. Pentru eliberarea certificatului de cazier judiciar se percepe o taxa de 20 de lei, prin aplicare de timbre fiscale. Persoanele domiciliate în străinătate pot solicita certificat de cazier judiciar prin misiunile diplomatice sau oficiile consulare române."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul 4",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "În certificatul, copia şi extrasul de pe cazierul judiciar se trec datele înscrise în cazier şi notările provizorii care nu au fost şterse."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul 4",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "În certificatul şi extrasul de pe cazierul judiciar nu se înscriu: a) condamnările pronunţate pentru fapte săvîrşite în timpul minorităţii; b) măsurile de siguranţă luate fără aplicarea unei pedepse, cu excepţia celor prevăzute în art. 112 lit. b, c şi e din Codul penal."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul 4",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Organul de urmărire penală şi instanţa de judecată pot dispune efectuarea verificării dactiloscopice a unei persoane în cazurile în care nu prezintă un act de identitate sau exista suspiciuni asupra autenticităţii actului prezentat, uzeaza de nume sau acte de identitate false ori exista indicii temeinice ca a savirsit o faptă prevăzută de legea penală. Identificarea se face la cazierul judiciar central."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul 5",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Persoana care figurează în evidenta cazierului judiciar poate cere rectificarea datelor înscrise sau a notarilor provizorii dacă acestea nu corespund situaţiei reale ori înregistrarea lor nu s-a făcut cu respectarea dispoziţiilor legale. Cererea de rectificare va fi modificată şi va fi însoţită de actele doveditoare; ea se adresează organului militiei care a emis certificatul, copia ori extrasul de pe cazierul judiciar. Organul militiei este obligat sa verifice susţinerile petitionarului şi, dacă constata ca în cazierul judiciar s-a făcut o înregistrare gresita, ia măsuri de rectificare a datelor şi comunică sau eliberează un nou act în locul celui contestat. Certificatul de cazier judiciar eliberat în condiţiile alineatului precedent este scutit de taxa de timbru. Organul militiei va comunică petitionarului modul de soluţionare a cererii în termen de 20 zile de la depunerea acesteia."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul 5",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Persoana căreia i s-a respins cererea de rectificare poate introduce contestaţie în termen de 30 de zile de la comunicare. Contestaţie se poate introduce şi în cazul în care eroarea înregistrării în cazierul judiciar nu se datoreşte organului militiei. Contestaţia se soluţionează de către judecătoria în a carei raza teritorială domiciliază petiţionarul. Contestaţia este scutită de taxa de timbru. Hotărîrea prin care se soluţionează contestaţia este definitivă. În caz de admitere a contestaţiei, instanţa va trimite copie de pe hotărîrea organului militiei care a eliberat actul contestat, în vederea rectificarii cazierului judiciar."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul 6 - Dispoziţii speciale şi finale",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Evidenta persoanelor obligate prin hotărîre judecătorească definitivă la plata impozitului asupra bunurilor a căror provenienţă nu se justifica se tine, separat de cazierul judiciar, de către organele militiei potrivit competentei stabilite la art. 5 şi 6 alin. 2, pe baza comunicărilor făcute de instanţele judecătoreşti. Dacă cunoaşterea hotărîrilor judecătoreşti prevăzute la alineatul precedent este necesară potrivit legii, comunicarea cît şi rectificarea datelor din evidenta se face în conformitate cu dispoziţiile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul 6 - Dispoziţii speciale şi finale",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Comunicările cu privire la datele ce urmează a fi înscrise în cazierul judiciar sau notate provizoriu în evidenta militiei, precum şi cererile pentru obţinerea certificatelor, copiilor şi extraselor de pe cazierul judiciar, se vor face pe formulare tip stabilite de Consiliul de Miniştri."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul 6 - Dispoziţii speciale şi finale",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Prezenta lege intra în vigoare pe data de 1 noiembrie 1972. Pe aceeaşi dată se abroga Decretul nr. 956/1962 privind înregistrarea persoanelor puse sub invinuire, precum şi a celor condamnate, Hotărîrea Consiliului de Miniştri nr. 545/1963 pentru aprobarea regulamentului de aplicare a acestui decret, precum şi orice alte dispoziţii contrare prezentei legi. ------------------------"
+    }
+  ],
+  "definitions": []
+}

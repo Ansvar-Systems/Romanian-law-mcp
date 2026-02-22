@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176731",
+  "type": "statute",
+  "title": "LEGE nr. 32 din 17 martie 2016",
+  "short_name": "lege 32 17 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-17",
+  "in_force_date": "2016-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176731",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 17/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 56 din 25 noiembrie 2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul Bucureşti, publicată în Monitorul Oficial al României, Partea I, nr. 889 din 26 noiembrie 2015."
+    }
+  ],
+  "definitions": []
+}

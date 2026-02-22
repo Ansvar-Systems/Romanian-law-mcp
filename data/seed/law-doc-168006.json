@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168006",
+  "type": "statute",
+  "title": "LEGE nr. 109 din 14 mai 2015",
+  "short_name": "lege 109 14 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-14",
+  "in_force_date": "2015-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168006",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 109 14/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 29 din 30 august 2010 privind modificarea şi completarea Legii nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie, adoptată în temeiul art. 1 pct. I.13 din Legea nr. 138/2010 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 616 din 31 august 2010."
+    }
+  ],
+  "definitions": []
+}

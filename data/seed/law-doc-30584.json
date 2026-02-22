@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30584",
+  "type": "statute",
+  "title": "LEGE nr. 120 din 1 aprilie 1937",
+  "short_name": "lege 120 01 04 1937",
+  "status": "in_force",
+  "issued_date": "1937-04-01",
+  "in_force_date": "1937-04-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30584",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 120 01/04/1937",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Soseaua judeteana Bechet-Poiana Mare-Calafat-Turnul Severin se transforma în sosea naţionala. Aceasta sosea, clasata sosea naţionala, va trece în paza şi întreţinerea Ministerului de Lucrări Publice şi Comunicaţii, Direcţiunea drumurilor, dela data publicării prezentei legi. ------------"
+    }
+  ],
+  "definitions": []
+}

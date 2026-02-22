@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-34201",
+  "type": "statute",
+  "title": "LEGE nr. 35 din 25 februarie 1930",
+  "short_name": "lege 35 25 02 1930",
+  "status": "in_force",
+  "issued_date": "1930-02-25",
+  "in_force_date": "1930-02-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34201",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 35 25/02/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Pe ziua de 1 Martie 1930, se vor chema sub arme ţinerii cari formează contingentul 1930. Din aceştia au fost repartizaţi 8.100 pentru graniceri, iar restul la celelalte unităţi ale armatei. Votat de Adunarea deputaţilor la 22 Ianuarie şi de Senat la 14 Fevruarie 1930. --------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201754",
+  "type": "statute",
+  "title": "LEGE nr. 136 din 18 iunie 2018",
+  "short_name": "lege 136 18 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201754",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 136 18/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 6 din 22 februarie 2018 privind prorogarea termenului prevăzut la art. II din Legea nr. 163/2016 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții, publicată în Monitorul Oficial al României, Partea I, nr. 171 din 23 februarie 2018."
+    }
+  ],
+  "definitions": []
+}

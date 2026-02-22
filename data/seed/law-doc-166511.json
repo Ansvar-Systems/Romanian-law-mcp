@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166511",
+  "type": "statute",
+  "title": "LEGE nr. 47 din 19 martie 2015",
+  "short_name": "lege 47 19 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-19",
+  "in_force_date": "2015-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166511",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 47 19/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 67 din 21 octombrie 2014 privind reglementarea unor măsuri financiar-fiscale pentru Societatea \"Complexul Energetic Hunedoara\" - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 788 din 29 octombrie 2014."
+    }
+  ],
+  "definitions": []
+}

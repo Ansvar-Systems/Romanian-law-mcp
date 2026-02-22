@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-66356",
+  "type": "statute",
+  "title": "LEGE nr. 343 din 29 noiembrie 2005",
+  "short_name": "lege 343 29 11 2005",
+  "status": "in_force",
+  "issued_date": "2005-11-29",
+  "in_force_date": "2005-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/66356",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 343 29/11/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanţa de urgenţă a Guvernului nr. 153/2002 privind organizarea şi funcţionarea Oficiului Registrului Naţional al Informaţiilor Secrete de Stat, publicată în Monitorul Oficial al României, Partea I, nr. 826 din 15 noiembrie 2002, aprobată prin Legea nr. 101/2003 , se modifică şi se completează după cum urmează: 1. La articolul 1, alineatul (3) va avea următorul cuprins: \"(3) ORNISS reprezintă organismul naţional de legătură pentru informaţiile clasificate cu Oficiul de Securitate al NATO (NOS), cu structurile de securitate similare din statele membre şi partenere ale Alianţei Nord-Atlantice, ale Uniunii Europene, ale altor organizaţii internaţionale, precum şi cu cele ale statelor cu care România a încheiat tratate, înţelegeri sau acorduri care prevăd protecţia informaţiilor clasificate.\" 2. La articolul 1, după alineatul (4) se introduce un nou alineat, alineatul (5), cu următorul cuprins: \"(5) Dispoziţiile alin. (4) se aplică în mod corespunzător în ceea ce priveşte protecţia informaţiilor U.E. clasificate.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Cerinţele pentru protecţia informaţiilor U.E. clasificate se stabilesc prin ordin al directorului general al ORNISS. (2) În termen de 30 de zile de la intrarea în vigoare a prezentei legi vor fi stabilite cerinţele minime pentru protecţia informaţiilor U.E. clasificate. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NĂSTASE PREŞEDINTELE SENATULUI NICOLAE VĂCĂROIU Bucureşti, 29 noiembrie 2005. Nr. 343. ----------"
+    }
+  ],
+  "definitions": [
+    {
+      "term": ", cu structurile de securitate similare din statele membre şi partenere ale Alianţei Nord",
+      "definition": "Atlantice, ale Uniunii Europene, ale altor organizaţii internaţionale, precum şi cu cele ale statelor cu care România a încheiat tratate, înţelegeri sau acorduri care prevăd protecţia informaţiilor clasificate.\" 2. La articolul 1, după alineatul (4) se introduce un nou alineat, alineatul (5), cu următorul cuprins: \"(5) Dispoziţiile alin. (4) se aplică în mod corespunzător în ceea ce priveşte protecţia informaţiilor U.E. clasificate.\"",
+      "source_provision": "Art.1"
+    }
+  ]
+}

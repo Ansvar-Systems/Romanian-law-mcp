@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242231",
+  "type": "statute",
+  "title": "LEGE nr. 135 din 13 mai 2021",
+  "short_name": "lege 135 13 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-13",
+  "in_force_date": "2021-05-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242231",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 135 13/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 5 din 24 iulie 2019 pentru prorogarea unui termen prevăzut în art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 18/2015 privind stabilirea unor măsuri necesare pentru asigurarea tranziției de la televiziunea analogică terestră la televiziunea digitală terestră și implementarea serviciilor multimedia la nivel național, adoptată în temeiul art. 1 pct. XII din Legea nr. 128/2019 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 633 din 30 iulie 2019."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-1546",
+  "type": "statute",
+  "title": "LEGE Nr. 68 din 26 noiembrie 1991",
+  "short_name": "lege 68 26 11 1991",
+  "status": "in_force",
+  "issued_date": "1991-11-26",
+  "in_force_date": "1991-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1546",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 26/11/1991",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "În scopul asigurării evidentei statistice primare din agricultura, prin Hotărîre a Guvernului se introduce, începînd cu data de 1 iulie 1991, un nou registru agricol."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Decretul nr. 692/1973 privind registrul agricol, republicat în Buletinul Oficial, Partea I, nr. 47/17 aprilie 1982, devenit Legea nr. 23/1974 , se abroga."
+    }
+  ],
+  "definitions": []
+}

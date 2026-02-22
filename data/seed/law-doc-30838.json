@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-30838",
+  "type": "statute",
+  "title": "LEGE nr. 182 din 28 iunie 1930",
+  "short_name": "lege 182 28 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-28",
+  "in_force_date": "1930-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30838",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 182 28/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se deschide pe seama Ministerului de Finanţe un credit extraordinar în suma de lei 4.453.613.940 pentru regularea şi ordonanţarea tuturor plăţilor făcute şi pentru care se găsesc acte justificative ţinute drept numerar în cassele administraţiilor financiare, Cassieriei centrale a Tezaurului public şi Cassieriei Regiei Monopolurilor Statului devenită Cassa Autonomă a Monopolurilor Regatului României, pe ziua de 7 Februarie 1929."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Aceste credite se repartizează astfel: a) Lei 2.781.039.251 - pentru regularea şi ordonanţarea plăţilor pe baza actelor de portofoliu privind Statul; b) Lei 1.492.191.413 - pentru regularea şi ordonanţarea plăţilor pe baza actelor de portofoliu privind Cassa generală de pensiuni; c) Lei 180.383.276 - pentru regularea contabila a creanţelor ce Regia Monopolurilor Statului are către diferite autorităţi ce au făcut parte din bugetul general al Statului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Toate aceste acte justificative ţinute în cassele publice drept numerar, vor fi verificate de o Comisiune a Ministerului de Finanţe, instituită în acest scop, şi se vor ordonanţa numai acele acte cari se vor constata ca sînt descarcatoare pentru cel ce a făcut plata. În caz cînd actele justificative, ce se vor prezenta pentru ordonantare, nu pot fi găsite descarcatoare pentru cel ce a făcut plata, se vor face constatări prin procese-verbale şi se vor pune în sarcina celor gasiti răspunzători, dându-se în debitul administraţiilor financiare spre încasare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Acest credit extraordinar se va trece în contabilitatea Statului într'un nou cont ce se va deschide la capitolul \"Trezorerie\", sub denumirea \"Avansuri ale Tezaurului\". Acest cont va fi acoperit ulterior prin excedentele bugetare viitoare."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Cassa generală de pensiuni rămîne obligată sa ramburseze Tezaurului public, conform legii decretate cu Nr. 1.104 din 12 Aprilie 1928 , contribuţiile sale pentru indemnizarea de scumpete cuvenită funcţionarilor, precum şi sumele ce vor rămîne neintrebuintate din subvenţiile ce i s'au acordat de Stat, cu începere dela 1 Ianuarie 1926. Desbateri: Camera Nr. 68-1929/30; Senat Nr. 57-1929/30. Votat de Adunarea Deputaţilor la 6 Iunie şi de Senat la 24 Iunie 1930. -------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-85892",
+  "type": "statute",
+  "title": "LEGE nr. 271 din 1 octombrie 2007",
+  "short_name": "lege 271 01 10 2007",
+  "status": "in_force",
+  "issued_date": "2007-10-01",
+  "in_force_date": "2007-10-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/85892",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 271 01/10/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 28/2007 pentru completarea Legii nr. 202/2006 privind organizarea și funcționarea Agenției Naționale pentru Ocuparea Forței de Muncă, precum și pentru stabilirea unor măsuri de reorganizare instituțională, publicată în Monitorul Oficial al României, Partea I, nr. 282 din 27 aprilie 2007, cu următoarea modificare: – La articolul I punctul 2, litera u) a articolului 6 se modifică și va avea următorul cuprins: u) colaborează cu serviciile publice de ocupare din cadrul rețelei Serviciilor Europene de Ocupare a Forței de Muncă (EURES);"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 202/2006 privind organizarea și funcționarea Agenției Naționale pentru Ocuparea Forței de Muncă, publicată în Monitorul Oficial al României, Partea I, nr. 452 din 25 mai 2006, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

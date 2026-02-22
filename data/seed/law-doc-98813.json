@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-98813",
+  "type": "statute",
+  "title": "LEGE nr. 248 din 31 octombrie 2008",
+  "short_name": "lege 248 31 10 2008",
+  "status": "in_force",
+  "issued_date": "2008-10-31",
+  "in_force_date": "2008-10-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/98813",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 248 31/10/2008",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 21 din 28 martie 2007 privind aprobarea unor măsuri financiar-bugetare pe anul 2007, publicată în Monitorul Oficial al României, Partea I, nr. 216 din 29 martie 2007, cu următoarea modificare: – Titlul ordonanței de urgență se modifică și va avea următorul cuprins: ORDONANȚĂ DE URGENȚĂ cu privire la rectificarea bugetului de stat pe anul 2007"
+    }
+  ],
+  "definitions": []
+}

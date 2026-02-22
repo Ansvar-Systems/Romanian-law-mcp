@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-27443",
+  "type": "statute",
+  "title": "LEGE nr. 34 din 27 decembrie 1967",
+  "short_name": "lege 34 27 12 1967",
+  "status": "in_force",
+  "issued_date": "1967-12-27",
+  "in_force_date": "1967-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/27443",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 27/12/1967",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul nr. 887/1967 pentru stabilirea şi sancţionarea contravenţiilor privind poluarea apelor marii de către nave maritime. ────────────"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-149856",
+  "type": "statute",
+  "title": "LEGE nr. 223 din 15 iulie 2013",
+  "short_name": "lege 223 15 07 2013",
+  "status": "in_force",
+  "issued_date": "2013-07-15",
+  "in_force_date": "2013-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/149856",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 223 15/07/2013",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 27 din 10 aprilie 2013 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 64/2009 privind gestionarea financiară a instrumentelor structurale și utilizarea acestora pentru obiectivul convergență, precum și pentru adoptarea unor măsuri financiare în vederea creșterii gradului de absorbție a fondurilor europene, publicată în Monitorul Oficial al României, Partea I, nr. 223 din 18 aprilie 2013, cu următoarea modificare: – La articolul I punctul 4, alineatul (2) al articolului 17^5 se modifică și va avea următorul cuprins: (2) După efectuarea verificărilor cererii de plată, autoritatea de management virează beneficiarului, în termen de maximum 5 zile lucrătoare de la data la care autoritatea de management dispune de resurse în conturile sale, valoarea cheltuielilor rambursabile și contravaloarea taxei pe valoarea adăugată neeligibile, aferentă cheltuielilor eligibile, într-un cont distinct de disponibil deschis pe numele beneficiarilor, la unitățile teritoriale ale Trezoreriei Statului."
+    }
+  ],
+  "definitions": []
+}

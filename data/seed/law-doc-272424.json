@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272424",
+  "type": "statute",
+  "title": "LEGE nr. 246 din 20 iulie 2023",
+  "short_name": "lege 246 20 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-20",
+  "in_force_date": "2023-07-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272424",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 246 20/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul *) cuprinzător privind transportul aerian dintre statele membre ale Asociației Națiunilor din Asia de Sud-Est și Uniunea Europeană și statele membre ale acesteia, semnat la 17 octombrie 2022 la Bali, Indonezia. *) Acordul se publică în Monitorul Oficial al României, Partea I, nr. 684 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bloc P33, parter, sectorul 5, București."
+    }
+  ],
+  "definitions": []
+}

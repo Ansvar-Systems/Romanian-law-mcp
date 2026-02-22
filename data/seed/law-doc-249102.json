@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-249102",
+  "type": "statute",
+  "title": "LEGE nr. 289 din 9 decembrie 2021",
+  "short_name": "lege 289 09 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-09",
+  "in_force_date": "2021-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249102",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 289 09/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 15 mai ca Ziua națională a pictorului Nicolae Grigorescu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Muzeele și colecțiile publice, autoritățile administrației publice centrale și locale, instituțiile publice subordonate acestora pot organiza sau sprijini logistic și material manifestări cultural-artistice dedicate zilei naționale prevăzute la art. 1, expoziții în țară și străinătate, comunicări științifice, editarea și publicarea de carte de specialitate dedicată artei naționale, producerea și difuzarea de filme dedicate artei naționale, în limita alocațiilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

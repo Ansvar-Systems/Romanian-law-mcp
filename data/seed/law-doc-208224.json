@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208224",
+  "type": "statute",
+  "title": "LEGE nr. 274 din 23 noiembrie 2018",
+  "short_name": "lege 274 23 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-23",
+  "in_force_date": "2018-11-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208224",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 274 23/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de cooperare privind parteneriatul și dezvoltarea dintre Uniunea Europeană și statele membre ale acesteia, pe de o parte, și Republica Islamică Afganistan, pe de altă parte, semnat la München la 18 februarie 2017."
+    }
+  ],
+  "definitions": []
+}

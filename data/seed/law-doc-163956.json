@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-163956",
+  "type": "statute",
+  "title": "LEGE nr. 169 din 16 decembrie 2014",
+  "short_name": "lege 169 16 12 2014",
+  "status": "in_force",
+  "issued_date": "2014-12-16",
+  "in_force_date": "2014-12-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/163956",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 169 16/12/2014",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 39 din 18 iunie 2014 privind aprobarea scoaterii din stocurile disponibile ale rezervelor de stat a unor cantităţi de carburanţi şi acordarea, cu titlu gratuit, Ministerului Afacerilor Interne, Ministerului Apărării Naţionale, Serviciului de Protecţie şi Pază şi Serviciului Român de Informaţii, precum şi pentru stabilirea regimului taxei pe valoarea adăugată şi al accizelor pentru aceste cantităţi, publicată în Monitorul Oficial al României, Partea I, nr. 453 din 20 iunie 2014."
+    }
+  ],
+  "definitions": []
+}

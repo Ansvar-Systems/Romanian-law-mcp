@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-8239",
+  "type": "statute",
+  "title": "LEGE Nr. 44 din 27 mai 1996",
+  "short_name": "lege 44 27 05 1996",
+  "status": "in_force",
+  "issued_date": "1996-05-27",
+  "in_force_date": "1996-05-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/8239",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 44 27/05/1996",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România adera la Convenția internationala EUROCONTROL privind cooperarea pentru securitatea navigației aeriene, încheiată la 13 decembrie 1960 și amendata prin Protocolul semnat la Bruxelles la 12 februarie 1981."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "România adera la Acordul multilateral privind tarifele de ruta aeriană, semnat la Bruxelles la 12 februarie 1981."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Contribuția financiară a României la bugetul anual al Organizației EUROCONTROL va fi suportată prin includerea acesteia în tarifele de ruta."
+    }
+  ],
+  "definitions": []
+}

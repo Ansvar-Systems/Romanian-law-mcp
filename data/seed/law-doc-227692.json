@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227692",
+  "type": "statute",
+  "title": "LEGE nr. 116 din 8 iulie 2020",
+  "short_name": "lege 116 08 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-08",
+  "in_force_date": "2020-07-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227692",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 116 08/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 51 din 15 aprilie 2020 pentru rectificarea bugetului asigurărilor sociale de stat pe anul 2020, publicată în Monitorul Oficial al României, Partea I, nr. 323 din 17 aprilie 2020."
+    }
+  ],
+  "definitions": []
+}

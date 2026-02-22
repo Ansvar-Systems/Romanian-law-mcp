@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270601",
+  "type": "statute",
+  "title": "LEGE nr. 132 din 22 mai 2023",
+  "short_name": "lege 132 22 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-22",
+  "in_force_date": "2023-05-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270601",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 132 22/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 20 din 29 martie 2021 privind stabilirea unor măsuri în cadrul sistemului de asigurări sociale de sănătate în contextul evoluției situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru abrogarea unor prevederi din Ordonanța de urgență a Guvernului nr. 70/2020 privind reglementarea unor măsuri, începând cu data de 15 mai 2020, în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, pentru prelungirea unor termene, pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , a Legii educației naționale nr. 1/2011 , precum și a altor acte normative, pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și pentru modificarea Legii farmaciei nr. 266/2008 , publicată în Monitorul Oficial al României, Partea I, nr. 322 din 30 martie 2021."
+    }
+  ],
+  "definitions": []
+}

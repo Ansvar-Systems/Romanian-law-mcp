@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-20075",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 25 noiembrie 1999",
+  "short_name": "lege 171 25 11 1999",
+  "status": "in_force",
+  "issued_date": "1999-11-25",
+  "in_force_date": "1999-11-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/20075",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 25/11/1999",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Începând cu anul universitar 1998/1999 cuantumul taxelor pentru susținerea examenelor de selecție, de licență sau, după caz, de absolvire de către absolvenții învățământului superior particular se stabilește și se modifica de senatele universitatilor de stat organizatoare, pe baza unor devize proprii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele încasate din taxele prevăzute la art. 1 se vor utiliza pentru acoperirea cheltuielilor de personal și materiale pentru susținerea examenelor de finalizare a studiilor."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Educației Naționale va elabora și va transmite senatelor universitatilor de stat organizatoare metodologia de întocmire a devizelor estimative."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Pe data intrării în vigoare a prezentei legi se abroga art. 3 din Legea nr. 64/1997 privind dreptul absolvenților învățământului particular liceal, postliceal și superior de a susține examenul de finalizare a studiilor la unitățile și instituțiile din învățământul de stat, publicată în Monitorul Oficial al României, Partea I, nr. 73 din 23 aprilie 1997, precum și orice alte dispoziții contrare."
+    }
+  ],
+  "definitions": []
+}

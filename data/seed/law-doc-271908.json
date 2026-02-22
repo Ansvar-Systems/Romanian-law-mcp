@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271908",
+  "type": "statute",
+  "title": "LEGE nr. 205 din 5 iulie 2023",
+  "short_name": "lege 205 05 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-05",
+  "in_force_date": "2023-07-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271908",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 205 05/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 140 din 28 decembrie 2021 privind anumite aspecte referitoare la contractele de vânzare de bunuri, publicată în Monitorul Oficial al României, Partea I, nr. 1245 din 30 decembrie 2021, cu următoarea modificare: – La articolul 11, alineatul (7) se modifică și va avea următorul cuprins: (7) Consumatorii beneficiază de înlocuirea bunurilor în cazul în care neconformitatea acestora este constatată la scurt timp după livrare, fără a depăși 30 de zile calendaristice."
+    }
+  ],
+  "definitions": []
+}

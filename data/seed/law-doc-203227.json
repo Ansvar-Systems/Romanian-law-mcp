@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-203227",
+  "type": "statute",
+  "title": "LEGE nr. 210 din 25 iulie 2018",
+  "short_name": "lege 210 25 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-25",
+  "in_force_date": "2018-07-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203227",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 210 25/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 14 din 7 martie 2018 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România, publicată în Monitorul Oficial al României, Partea I, nr. 218 din 12 martie 2018."
+    }
+  ],
+  "definitions": []
+}

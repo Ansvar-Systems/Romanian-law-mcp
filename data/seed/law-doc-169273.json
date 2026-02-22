@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169273",
+  "type": "statute",
+  "title": "LEGE nr. 168 din 29 iunie 2015",
+  "short_name": "lege 168 29 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-29",
+  "in_force_date": "2015-06-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169273",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 168 29/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 6 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, publicată în Monitorul Oficial al României, Partea I, nr. 278 din 17 mai 2013, cu modificările şi completările ulterioare, după alineatul (5) se introduce un nou alineat, alineatul (6), cu următorul cuprins: \"(6) Sunt exceptate de la aplicarea procedurilor prevăzute la alin. (5) suprafeţele de teren cu destinaţie agricolă indispensabile activităţii de cercetare-dezvoltare-inovare şi multiplicării materialului biologic vegetal şi animal, de utilitate publică, prevăzute în anexele nr. 1-5 şi 7 la Legea nr. 45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice «Gheorghe Ionescu-Şişeşti» şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare, cu modificările şi completările ulterioare.\""
+    }
+  ],
+  "definitions": []
+}

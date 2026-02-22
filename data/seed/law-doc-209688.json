@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209688",
+  "type": "statute",
+  "title": "LEGE nr. 10 din 8 ianuarie 2019",
+  "short_name": "lege 10 08 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-08",
+  "in_force_date": "2019-01-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209688",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 08/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 71 din 17 iulie 2018 privind prorogarea termenului de administrare, de către organele fiscale de la nivel județean și al municipiului București, a obligațiilor fiscale datorate de contribuabilii mijlocii, de la data de 1 august 2018 la data de 1 noiembrie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 625 din 19 iulie 2018."
+    }
+  ],
+  "definitions": []
+}

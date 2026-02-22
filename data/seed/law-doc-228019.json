@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-228019",
+  "type": "statute",
+  "title": "LEGE nr. 137 din 21 iulie 2020",
+  "short_name": "lege 137 21 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-21",
+  "in_force_date": "2020-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228019",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 137 21/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară martir și erou al națiunii române Mihai Viteazul, Domn al Țării Românești și al Moldovei și Principe al Transilvaniei, pentru rolul marcant pe care l-a avut în săvârșirea Primei Uniri a poporului român și pentru curajul și sacrificiul său marcant în istoria României."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ceremoniile se vor desfășura anual în data de 27 mai și pot fi marcate de autoritățile administrației publice centrale și locale, precum și de instituțiile publice de cultură din țară și din străinătate, prin organizarea unor programe și manifestări cu caracter cultural-științific."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Autoritățile administrației publice centrale și locale pot sprijini material sau logistic organizarea și desfășurarea programelor și manifestărilor prevăzute la art. 2 , în limita fondurilor disponibile. (2) Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni culturale ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195550",
+  "type": "statute",
+  "title": "LEGE nr. 245 din 6 decembrie 2017",
+  "short_name": "lege 245 06 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-06",
+  "in_force_date": "2017-12-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195550",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 245 06/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 2 din 13 iulie 2017 pentru modificarea Legii nr. 329/2003 privind exercitarea profesiei de detectiv particular, adoptată în temeiul art. 1 pct. VI poz. 2 din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 568 din 17 iulie 2017."
+    }
+  ],
+  "definitions": []
+}

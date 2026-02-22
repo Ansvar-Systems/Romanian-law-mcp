@@ -322,6 +322,22 @@ function parseSectionFromTitle(title: string, fallbackIndex: number): string {
   return String(fallbackIndex);
 }
 
+function parseSectionFromParagraph(content: string, fallbackIndex: number): string {
+  const patterns = [
+    /^([0-9]+(?:\^[0-9]+)?[A-Za-z]?)[\.\)]\s+/,
+    /^([IVXLCDM]+)[\.\)]\s+/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = content.match(pattern);
+    if (match?.[1]) {
+      return match[1].replace(/\s+/g, '');
+    }
+  }
+
+  return String(fallbackIndex);
+}
+
 function parseHeadingEvents(html: string): HeadingEvent[] {
   const events: HeadingEvent[] = [];
 
@@ -494,6 +510,62 @@ function parseProvisions(html: string): ParsedProvision[] {
     });
 
     startMatch = articleStartRegex.exec(html);
+  }
+
+  if (provisions.length > 0) {
+    return provisions;
+  }
+
+  // Fallback for older acts that only expose paragraph spans (S_PAR) without S_ART wrappers.
+  const paragraphRegex = /<span class=\"[^\"]*\bS_PAR\b[^\"]*\"[^>]*id=\"id_par[^\"]*\"[^>]*>/gi;
+  const usedRefs = new Set<string>();
+  topLevelEnd = -1;
+  startMatch = paragraphRegex.exec(html);
+  index = 0;
+
+  while (startMatch) {
+    const start = startMatch.index;
+    if (start < topLevelEnd) {
+      startMatch = paragraphRegex.exec(html);
+      continue;
+    }
+
+    const paragraphSpan = extractBalancedSpan(html, start);
+    if (!paragraphSpan) {
+      startMatch = paragraphRegex.exec(html);
+      continue;
+    }
+
+    topLevelEnd = paragraphSpan.end;
+    const paragraphChunk = paragraphSpan.value;
+    const innerHtml = paragraphChunk
+      .replace(/^<span\b[^>]*>/i, '')
+      .replace(/<\/span>\s*$/i, '');
+    const content = normalizeArticleContent(innerHtml);
+
+    if (!content || /act în curs de procesare/i.test(content)) {
+      startMatch = paragraphRegex.exec(html);
+      continue;
+    }
+
+    index += 1;
+    const section = parseSectionFromParagraph(content, index);
+    const heading = buildHeadingAtPosition(headingEvents, start);
+    let provisionRef = `Par.${section}`;
+    if (usedRefs.has(provisionRef)) {
+      provisionRef = `Par.${section}-${index}`;
+    }
+    usedRefs.add(provisionRef);
+
+    provisions.push({
+      provision_ref: provisionRef,
+      chapter: headingToString(heading),
+      section,
+      title: `Paragraful ${section}`,
+      content,
+    });
+
+    startMatch = paragraphRegex.exec(html);
   }
 
   return provisions;

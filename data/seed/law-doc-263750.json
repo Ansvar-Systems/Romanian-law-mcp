@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263750",
+  "type": "statute",
+  "title": "LEGE nr. 16 din 6 ianuarie 2023",
+  "short_name": "lege 16 06 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-06",
+  "in_force_date": "2023-01-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263750",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 16 06/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 51 din 30 iunie 2017 pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 508 din 30 iunie 2017, cu următoarea completare: – La articolul I, după punctul 30 se introduce un nou punct, pct. 30^1, cu următorul cuprins: 30^1. La articolul 87, alineatul (1^2) se modifică și va avea următorul cuprins: (1^2) Pentru persoanele cu handicap, pentru care comisia de evaluare a stabilit anterior încadrarea în gradul de handicap grav, cu excepția celor prevăzute la alin. (1^1), evaluarea periodică se poate face la domiciliul persoanei, la cererea acesteia ori a reprezentantului său legal. Serviciul de evaluare complexă a persoanelor adulte cu handicap din cadrul direcțiilor generale de asistență socială și protecția copilului județene, respectiv locale ale sectoarelor municipiului București se deplasează la domiciliul persoanei după o prealabilă programare și informare a acesteia cu privire la data și ora efectuării evaluării periodice."
+    }
+  ],
+  "definitions": []
+}

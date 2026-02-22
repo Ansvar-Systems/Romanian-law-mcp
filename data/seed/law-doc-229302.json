@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-229302",
+  "type": "statute",
+  "title": "LEGE nr. 191 din 21 august 2020",
+  "short_name": "lege 191 21 08 2020",
+  "status": "in_force",
+  "issued_date": "2020-08-21",
+  "in_force_date": "2020-08-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/229302",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 191 21/08/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 4 din Legea serviciului de iluminat public nr. 230/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 517 din 15 iunie 2006, după alineatul (7) se introduce un nou alineat, alineatul (8), cu următorul cuprins: (8) Unitățile administrativ-teritoriale au dreptul de a monta echipamente electronice de supraveghere video pe stâlpii ce compun sistemul de iluminat public, cu obligația respectării prevederilor Legii nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), cu modificările ulterioare, fără obligația de plată către proprietarul sistemului de iluminat public."
+    }
+  ],
+  "definitions": []
+}

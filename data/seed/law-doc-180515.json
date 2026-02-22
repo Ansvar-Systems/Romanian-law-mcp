@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-180515",
+  "type": "statute",
+  "title": "LEGE nr. 167 din 22 iulie 2016",
+  "short_name": "lege 167 22 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-22",
+  "in_force_date": "2016-07-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180515",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 167 22/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Guvernul Republicii Moldova privind protecţia reciprocă a informaţiilor clasificate, semnat la Bucureşti la 5 iunie 2015 şi la Chişinău la 21 iulie 2015."
+    }
+  ],
+  "definitions": []
+}

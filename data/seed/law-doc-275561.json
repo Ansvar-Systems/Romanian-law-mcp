@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275561",
+  "type": "statute",
+  "title": "LEGE nr. 283 din 20 octombrie 2023",
+  "short_name": "lege 283 20 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-20",
+  "in_force_date": "2023-10-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275561",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 283 20/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Macedonia de Nord privind consolidarea cooperării în domeniul controlului intern și al prevenirii și combaterii corupției, semnat la 15 septembrie 2022 la București."
+    }
+  ],
+  "definitions": []
+}

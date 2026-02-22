@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-167811",
+  "type": "statute",
+  "title": "LEGE nr. 98 din 7 mai 2015",
+  "short_name": "lege 98 07 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-07",
+  "in_force_date": "2015-05-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167811",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 98 07/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 81 din 10 decembrie 2014 pentru prorogarea unor termene privind stabilirea unor măsuri pentru asigurarea facilităţilor la transport pentru anumite categorii de persoane, publicată în Monitorul Oficial al României, Partea I, nr. 905 din 12 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198205",
+  "type": "statute",
+  "title": "LEGE nr. 47 din 27 februarie 2018",
+  "short_name": "lege 47 27 02 2018",
+  "status": "in_force",
+  "issued_date": "2018-02-27",
+  "in_force_date": "2018-02-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198205",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 47 27/02/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 23 din 24 iunie 2015 privind stabilirea unor măsuri în domeniul cercetării-dezvoltării și inovării în vederea asigurării protecției intereselor esențiale ale siguranței stării de sănătate a populației, publicată în Monitorul Oficial al României, Partea I, nr. 469 din 29 iunie 2015."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-218826",
+  "type": "statute",
+  "title": "LEGE nr. 180 din 10 octombrie 2019",
+  "short_name": "lege 180 10 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-10",
+  "in_force_date": "2019-10-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/218826",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 180 10/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 30 octombrie - Ziua pacientului cu arsuri."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ziua pacientului cu arsuri poate fi marcată de către autoritățile administrației publice centrale și locale, organizațiile neguvernamentale din domeniul medical, reprezentanțe ale României în străinătate, entități medicale publice și private, prin organizarea de evenimente dedicate prevenirii apariției de incidente care ar putea produce incendii și ar putea conduce la rănirea gravă prin arsuri a participanților, precum și îngrijirilor necesare pacientului cu arsuri."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Sănătății este responsabil cu coordonarea activității dedicate Zilei pacientului cu arsuri."
+    }
+  ],
+  "definitions": []
+}

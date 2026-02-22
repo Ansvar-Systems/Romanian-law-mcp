@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-11662",
+  "type": "statute",
+  "title": "LEGE nr. 112 din 3 iulie 1997",
+  "short_name": "lege 112 03 07 1997",
+  "status": "in_force",
+  "issued_date": "1997-07-03",
+  "in_force_date": "1997-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/11662",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 112 03/07/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifica Acordul dintre Guvernul României și Guvernul Turkmenistanului în domeniul transporturilor internaționale rutiere de persoane și de mărfuri, semnat la București la 16 noiembrie 1994."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "law-doc-142817",
+  "type": "statute",
+  "title": "LEGE nr. 217 din 13 noiembrie 2012",
+  "short_name": "lege 217 13 11 2012",
+  "status": "in_force",
+  "issued_date": "2012-11-13",
+  "in_force_date": "2012-11-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/142817",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 217 13/11/2012",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 16 din 24 august 2011 pentru modificarea și completarea Ordonanței Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcțiilor existente, adoptată în temeiul art. 1 pct. II.2 din Legea nr. 131/2011 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 608 din 29 august 2011, cu următoarele modificări și completări: 1. La articolul I punctul 7, alineatul (1^1) al articolului 4 se modifică și va avea următorul cuprins: (1^1) În aplicarea prevederilor alin. (1), se organizează pe lângă Ministerul Dezvoltării Regionale și Turismului Comisia Națională de Inginerie Seismică, denumită în continuare Comisia Națională, organism tehnic de specialitate, fără personalitate juridică, cu rol consultativ, de analiză și de avizare prealabilă. 2. La articolul I, după punctul 7 se introduce un nou punct, punctul 7^1, cu următorul cuprins: 7^1. La articolul 4, după alineatul (1^3) se introduc două noi alineate, alineatele (1^4) și (1^5), cu următorul cuprins: (1^4) Ministerul Dezvoltării Regionale și Turismului asigură mijloacele materiale și financiare necesare pentru funcționarea Comisiei Naționale, în limita fondurilor alocate anual cu această destinație de la bugetul de stat, prin bugetul Ministerului Dezvoltării Regionale și Turismului, la capitolul bugetar «Alte cheltuieli cu bunuri și servicii», precum și din alte surse legal constituite. (1^5) Pentru activitatea prestată, membrii Comisiei Naționale primesc, în baza convențiilor încheiate cu Ministerul Dezvoltării Regionale și Turismului în condițiile legii, o indemnizație lunară stabilită prin ordin al ministrului dezvoltării regionale și turismului, la care se adaugă decontarea cheltuielilor de participare la lucrările Comisiei Naționale. Indemnizația lunară reprezintă 10% din indemnizația lunară a unui secretar de stat și se acordă pentru activitatea prestată în lunile în care Comisia Națională se întrunește. 3. La articolul I punctul 8, litera e) a alineatului (4) al articolului 4 se modifică și va avea următorul cuprins: e) notarea în partea a III-a a cărții funciare a imobilului a obligațiilor stabilite prin notificările/renotificările proprietarilor/asociațiilor de proprietari, prevăzute la lit. c) și, respectiv, la alin. (3) lit. c) teza a III-a, precum și, după caz, a deciziei de intervenție aprobate prin dispoziție de primar, prevăzută la lit. d). 4. La articolul I, după punctul 14 se introduce un nou punct, punctul 14^1, cu următorul cuprins: 14^1. La articolul 11, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Contractul de execuție a lucrărilor de consolidare, prevăzut la alin. (1) lit. b), va cuprinde sancțiuni în sarcina antreprenorului/antreprenorului general pentru întârzieri în realizarea lucrărilor la termenele prevăzute în graficul de execuție, anexă la contract. Sancțiunile prevăzute trebuie să fie eficiente, proporționale și cu efect de descurajare. 5. La articolul I punctul 23, litera d) se abrogă. 6. La articolul I punctul 23, după litera g) se introduce o nouă literă, litera h), cu următorul cuprins: h) ”studiu de fezabilitate” cu ”documentație de avizare pentru lucrări de intervenție”."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a alineatului (4) al articolului 4 se modifică și va avea următorul cuprins",
+      "definition": "e) notarea în partea a III-a a cărții funciare a imobilului a obligațiilor stabilite prin notificările/renotificările proprietarilor/asociațiilor de proprietari, prevăzute la lit. c) și, respectiv, la alin. (3) lit. c) teza a III-a, precum și, după caz, a deciziei de intervenție aprobate prin dispoziție de primar, prevăzută la lit. d). 4. La articolul I, după punctul 14 se introduce un nou punct, punctul 14^1, cu următorul cuprins: 14^1",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "se introduce o nouă literă, litera h), cu următorul cuprins",
+      "definition": "h) ”studiu de fezabilitate” cu ”documentație de avizare pentru lucrări de intervenție”.",
+      "source_provision": "Art.1"
+    }
+  ]
+}

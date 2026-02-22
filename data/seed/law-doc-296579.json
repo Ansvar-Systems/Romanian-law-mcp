@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-296579",
+  "type": "statute",
+  "title": "LEGE nr. 46 din 8 aprilie 2025",
+  "short_name": "lege 46 08 04 2025",
+  "status": "in_force",
+  "issued_date": "2025-04-08",
+  "in_force_date": "2025-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/296579",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 46 08/04/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (2) al articolului 34 din Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: (2) Pacientul poate face donații unității sanitare unde a fost îngrijit, cu respectarea dispozițiilor legale în materie."
+    }
+  ],
+  "definitions": []
+}

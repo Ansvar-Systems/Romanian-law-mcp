@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-134026",
+  "type": "statute",
+  "title": "LEGE nr. 241 din 5 decembrie 2011",
+  "short_name": "lege 241 05 12 2011",
+  "status": "in_force",
+  "issued_date": "2011-12-05",
+  "in_force_date": "2011-12-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/134026",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 241 05/12/2011",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România aderă la Tratatul referitor la Sistemul european de informații privind vehiculele și permisele de conducere (EUCARIS), semnat la Luxemburg la 29 iunie 2000, denumit în continuare Tratatul EUCARIS."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În aplicarea art. 18 din Tratatul EUCARIS , România desemnează Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal în calitate de autoritate națională de supraveghere. (2) În aplicarea art. 23 din Tratatul EUCARIS , România desemnează Direcția Regim Permise de Conducere și Înmatriculare a Vehiculelor din cadrul Ministerului Administrației și Internelor ca autoritate competentă centrală de înmatriculare responsabilă cu gestionarea băncilor de date centrale în ceea ce privește vehiculele și permisele de conducere necesare Sistemului european de informații privind vehiculele și permisele de conducere."
+    }
+  ],
+  "definitions": []
+}

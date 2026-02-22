@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252254",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 28 februarie 2022",
+  "short_name": "lege 36 28 02 2022",
+  "status": "in_force",
+  "issued_date": "2022-02-28",
+  "in_force_date": "2022-02-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252254",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 28/02/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 191 din 28 octombrie 2020 pentru prelungirea termenelor privind depunerea unor documente prevăzute în sarcina asociațiilor și fundațiilor, precum și a persoanelor juridice înregistrate în registrul comerțului, publicată în Monitorul Oficial al României, Partea I, nr. 1013 din 30 octombrie 2020."
+    }
+  ],
+  "definitions": []
+}

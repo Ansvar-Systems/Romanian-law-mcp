@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200620",
+  "type": "statute",
+  "title": "LEGE nr. 107 din 11 mai 2018",
+  "short_name": "lege 107 11 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-11",
+  "in_force_date": "2018-05-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200620",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 107 11/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 92 din 6 decembrie 2017 privind aprobarea Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 50 de unități de învățământ preuniversitar de stat, publicată în Monitorul Oficial al României, Partea I, nr. 978 din 8 decembrie 2017, cu următoarea modificare: – La articolul 1, alineatul (1) se modifică și va avea următorul cuprins: Articolul 1 (1) Începând cu data intrării în vigoare a prezentei ordonanțe de urgență și până la sfârșitul anului școlar 2017-2018, în perioada desfășurării activității didactice, preșcolarilor și elevilor înmatriculați în cele 50 de unități de învățământ preuniversitar de stat, denumite în continuare unități-pilot, li se acordă, cu titlu gratuit, un suport alimentar, constând într-un pachet alimentar sau într-o masă caldă pe zi, în limita unei valori zilnice de 7 lei/beneficiar, inclusiv taxa pe valoare adăugată."
+    }
+  ],
+  "definitions": []
+}

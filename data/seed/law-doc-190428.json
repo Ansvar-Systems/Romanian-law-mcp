@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190428",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 26 iunie 2017",
+  "short_name": "lege 144 26 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-26",
+  "in_force_date": "2017-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190428",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 26/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (5) al articolului 65 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: (5) Persoanele care au locuit cel puțin 30 de ani în zonele afectate de poluarea remanentă din cauza extracției și prelucrării minereurilor neferoase cu conținut de cupru, plumb, sulf, cadmiu, arseniu, zinc, mangan, fluor, clor, a pulberilor metalice și/sau de cocs metalurgic, precum și a emisiilor de amoniac și derivate, respectiv Baia Mare, Copșa Mică, Zlatna, Târgu Mureș, Slatina, Turnu Măgurele și Râmnicu Vâlcea pe o rază de 8 km în jurul acestor localități, beneficiază de reducerea vârstei standard de pensionare cu 2 ani fără penalizarea prevăzută la alin. (4)."
+    }
+  ],
+  "definitions": []
+}

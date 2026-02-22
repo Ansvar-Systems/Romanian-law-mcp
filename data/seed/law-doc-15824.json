@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-15824",
+  "type": "statute",
+  "title": "LEGE nr. 175 din 2 octombrie 1998",
+  "short_name": "lege 175 02 10 1998",
+  "status": "in_force",
+  "issued_date": "1998-10-02",
+  "in_force_date": "1998-10-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/15824",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 175 02/10/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 9 din 29 ianuarie 1998 privind instituirea sistemului de cupoane pentru agricultori în anul 1998, emisă în temeiul art. 1 lit. b) din Legea nr. 221/1997 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 40 din 30 ianuarie 1998 - cu modificările ulterioare -, cu următoarele modificări și completări: 1. Articolul 1 alineatul (2) va avea următorul cuprins: (2) Cupoanele reprezintă bonuri de valoare care se acordă, cu titlu gratuit, agricultorilor, persoane fizice, care exploatează terenurile agricole, individual sau în asociere, în societăți comerciale și agricole, societăților comerciale pe acțiuni cu profil agricol, persoanelor fizice cărora le-a fost stabilită calitatea de acționar în baza prevederilor art. 37 din Legea fondului funciar nr. 18/1991 , republicată, care au optat pentru calitatea de locator și care au încheiat contract de locațiune, potrivit art. 25 din Legea arendării nr. 16/1994 , astfel cum a fost modificat prin Legea nr. 58/1995 , cu instituțiile de învățământ, cu instituțiile de cult recunoscute de lege, pentru suprafețele de terenuri agricole de minimum 0,5 ha și de cel mult 10 ha inclusiv. 2. Articolul 1 alineatul (3) litera e) va avea următorul cuprins: e) societățile comerciale pe acțiuni cu profil agricol, persoanele fizice cărora le-a fost stabilită calitatea de acționar în temeiul art. 37 din Legea fondului funciar nr. 18/1991 , republicată, dacă au optat pentru calitatea de locator și au încheiat contract de locațiune, potrivit art. 25 din Legea arendării nr. 16/1994 , astfel cum a fost modificat prin Legea nr. 58/1995 ; 3. Articolul 3 va avea următorul cuprins: Articolul 3 Pe baza cupoanelor pentru agricultori, beneficiarii acestora pot achită contravaloarea semintei certificate, a materialului de plantat pomicol și viticol certificat, a semintei certificate de cartofi, a ingrasamintelor chimice, pesticidelor, motorinei, lucrărilor mecanice de arat, grapat, discuit, semanat, de întreținere a culturilor și de recoltat, inclusiv a celor efectuate pe pășuni și fanete, precum și a medicamentelor pentru combaterea bolilor parazitare și de reproducție la animale. 4. Articolul 6 alineatul (3) va avea următorul cuprins: (3) Pentru anul 1998 se aloca în bugetul Ministerului Agriculturii și Alimentației suma de 3.200 miliarde lei pentru acoperirea acestor cheltuieli. 5. Articolul 10 va avea următorul cuprins: Articolul 10 Falsificarea listei cuprinzând beneficiarii de cupoane pentru agricultori, modificarea listei prin contrafacerea scrierii ori a subscrierii, precum și falsificarea cupoanelor pentru agricultori se pedepsesc conform legii."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "va avea următorul cuprins",
+      "definition": "e) societățile comerciale pe acțiuni cu profil agricol, persoanele fizice cărora le-a fost stabilită calitatea de acționar în temeiul art. 37 din Legea fondului funciar nr. 18/1991 , republicată, dacă au optat pentru calitatea de locator și au încheiat contract de locațiune, potrivit art. 25 din Legea arendării nr. 16/1994 , astfel cum a fost modificat prin Legea nr",
+      "source_provision": "Art.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-20006",
+  "type": "statute",
+  "title": "LEGE nr. 17 din 9 decembrie 1982",
+  "short_name": "lege 17 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/20006",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 17 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 46/1982 cu privire la majorarea retributiilor tarifare ale personalului muncitor, a alocaţiilor de stat pentru copii, a pensiilor şi alte drepturi care se acordă în raport de nivelul retributiilor sau pensiilor. --------"
+    }
+  ],
+  "definitions": []
+}

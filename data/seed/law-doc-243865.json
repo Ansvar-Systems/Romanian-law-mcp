@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243865",
+  "type": "statute",
+  "title": "LEGE nr. 176 din 28 iunie 2021",
+  "short_name": "lege 176 28 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-28",
+  "in_force_date": "2021-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243865",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 176 28/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 66 din 7 mai 2020 privind modificarea și completarea art. 1 din Ordonanța de urgență a Guvernului nr. 47/2020 pentru stabilirea, pe perioada stării de urgență instituite prin Decretul nr. 195/2020 , a condițiilor de comercializare a benzinei și motorinei în contextul crizei economice generate de pandemia SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 382 din 12 mai 2020."
+    }
+  ],
+  "definitions": []
+}

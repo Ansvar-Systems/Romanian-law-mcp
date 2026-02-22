@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-222020",
+  "type": "statute",
+  "title": "LEGE nr. 14 din 14 ianuarie 2020",
+  "short_name": "lege 14 14 01 2020",
+  "status": "in_force",
+  "issued_date": "2020-01-14",
+  "in_force_date": "2020-01-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/222020",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 14 14/01/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 9 din 19 februarie 2019 pentru modificarea și completarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art. 58 alin. (1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, publicată în Monitorul Oficial al României, Partea I, nr. 143 din 22 februarie 2019, cu următoarele modificări: 1. La articolul I punctul 1 , alineatul (1) al articolului 3 se modifică și va avea următorul cuprins: Articolul 3 (1) Alocația de stat pentru copii se stabilește în cuantum de: a) 600 lei pentru copiii cu vârsta de până la 2 ani sau de până la 3 ani, în cazul copilului cu handicap; b) 300 lei pentru copiii cu vârsta cuprinsă între 2 ani și 18 ani, precum și pentru tinerii prevăzuți la art. 1 alin. (3); c) 600 lei pentru copiii cu vârsta cuprinsă între 3 ani și 18 ani, în cazul copilului cu handicap. Notă ORDONANȚA DE URGENȚĂ nr. 2 din 16 ianuarie 2020 , publicată în Monitorul Oficial nr. 31 din 16 ianuarie 2020, care proroga intrarea în vigoare a art. I pct. 1 din prezenta lege, a fost respinsă prin LEGEA nr. 160 din 30 iulie 2020 , publicată în Monitorul Oficial nr. 680 din 30 iulie 2020. 2. La articolul I punctul 2 , alineatul (4) al articolului 3 se modifică și va avea următorul cuprins: (4) Cuantumurile alocației de stat pentru copii, prevăzute la alin. (1), se majorează anual prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la data de întâi a lunii următoare celei în care aceasta se publică în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

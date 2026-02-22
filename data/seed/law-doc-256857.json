@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-256857",
+  "type": "statute",
+  "title": "LEGE nr. 192 din 28 iunie 2022",
+  "short_name": "lege 192 28 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-28",
+  "in_force_date": "2022-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/256857",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 192 28/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După articolul 154 din Legea nr. 134/2010 privind Codul de procedură civilă, republicată în Monitorul Oficial al României, Partea I, nr. 247 din 10 aprilie 2015, cu modificările și completările ulterioare, se introduce un nou articol, articolul 154^1, cu următorul cuprins: Articolul 154^1 Comunicarea hotărârilor judecătorești (1) Comunicarea hotărârilor judecătorești se va face, din oficiu, prin poștă electronică dacă partea a indicat instanței datele corespunzătoare în acest scop direct sau la solicitarea expresă a instanței în timpul procesului. Comunicarea va fi însoțită de semnătura electronică extinsă a instanței, care va înlocui ștampila instanței și semnătura grefierului de ședință. (2) Hotărârile judecătorești se consideră comunicate la momentul la care au primit mesaj din partea sistemului folosit că au ajuns la destinatar potrivit datelor furnizate de acesta. (3) Dacă comunicarea prin poștă electronică nu este posibilă din pricina lipsei datelor în acest sens sau sistemul folosit indică eroare în transmiterea prin poștă electronică, comunicarea hotărârilor judecătorești se va face potrivit art. 154."
+    }
+  ],
+  "definitions": []
+}

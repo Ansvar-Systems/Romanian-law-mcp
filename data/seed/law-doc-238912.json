@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-238912",
+  "type": "statute",
+  "title": "LEGE nr. 10 din 4 martie 2021",
+  "short_name": "lege 10 04 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-04",
+  "in_force_date": "2021-03-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/238912",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 04/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de instituire a Fundației internaționale UEALC, semnat la Santo Domingo la 25 octombrie 2016."
+    }
+  ],
+  "definitions": []
+}

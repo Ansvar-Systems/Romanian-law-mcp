@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-270545",
+  "type": "statute",
+  "title": "LEGE nr. 128 din 19 mai 2023",
+  "short_name": "lege 128 19 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-19",
+  "in_force_date": "2023-05-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270545",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 128 19/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 146 din 28 octombrie 2022 pentru modificarea și completarea art. 19 din Ordonanța de urgență a Guvernului nr. 124/2021 privind stabilirea cadrului instituțional și financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare și reziliență, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență, publicată în Monitorul Oficial al României, Partea I, nr. 1048 din 28 octombrie 2022, cu următoarele modificări: 1. La articolul unic punctul 1 , alineatul (1^2) se abrogă. 2. La articolul unic punctul 2 , alineatul (2) se modifică și va avea următorul cuprins: (2) La nivelul sumelor estimate a fi utilizate trimestrial din asistența financiară nerambursabilă, pe baza situației centralizate de MIPE potrivit estimărilor de fonduri primite de la coordonatorii de reforme și/sau investiții prevăzute la art. 18 alin. (1), MF efectuează transferul sumelor respective într-un cont distinct de venituri al bugetului de stat, codificat cu codul de identificare fiscală al MF, prin utilizarea cu prioritate a sumelor existente în contul distinct de disponibil prevăzut la alin. (1^1), respectiv după epuizarea acestora, a echivalentului în lei al sumelor rezultate din schimbul valutar al prefinanțării în cuantum de 13% din asistența financiară nerambursabilă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Dobânda încasată la disponibilitățile în lei ale contului distinct de disponibil deschis la Trezoreria operativă centrală pe numele Ministerului Finanțelor, prevăzut la art. 19 alin. (1^1) din Ordonanța de urgență a Guvernului nr. 124/2021 privind stabilirea cadrului instituțional și financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare și reziliență, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență, aprobată cu modificări și completări prin Legea nr. 178/2022 , cu modificările și completările ulterioare, disponibilă în cont, precum și cea încasată ulterior intrării în vigoare a prezentei legi se fac venit la bugetul de stat."
+    }
+  ],
+  "definitions": []
+}

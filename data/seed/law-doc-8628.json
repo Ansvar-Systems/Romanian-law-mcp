@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-8628",
+  "type": "statute",
+  "title": "LEGE nr. 120 din 16 octombrie 1996",
+  "short_name": "lege 120 16 10 1996",
+  "status": "in_force",
+  "issued_date": "1996-10-16",
+  "in_force_date": "1996-10-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/8628",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 120 16/10/1996",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 31 din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat și asistența socială se completează cu un nou alineat, care va avea următorul cuprins: (5) Invalizii și accidentatii de război, încadrați în gradul II de invaliditate, se trec, din oficiu, în gradul I de invaliditate, iar cei din gradul III de invaliditate se trec, din oficiu, în gradul II de invaliditate."
+    }
+  ],
+  "definitions": []
+}

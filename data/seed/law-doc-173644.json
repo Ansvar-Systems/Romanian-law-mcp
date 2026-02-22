@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-173644",
+  "type": "statute",
+  "title": "LEGE nr. 307 din 3 decembrie 2015",
+  "short_name": "lege 307 03 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-03",
+  "in_force_date": "2015-12-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173644",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 307 03/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică al patrulea Protocol adiţional dintre Guvernul României şi Guvernul Republicii Moldova, semnat la Chişinău la 27 august 2015, la Acordul dintre Guvernul României şi Guvernul Republicii Moldova privind implementarea programului de asistenţă tehnică şi financiară în baza unui ajutor financiar nerambursabil în valoare de 100 de milioane de euro acordat de România Republicii Moldova, semnat la Bucureşti la 27 aprilie 2010, ratificat prin Legea nr. 12/2011 , astfel cum a fost modificat prin cele trei protocoale adiţionale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se ratifică al cincilea Protocol adiţional dintre Guvernul României şi Guvernul Republicii Moldova, semnat la Bucureşti la 23 septembrie 2015 şi la Chişinău la 24 septembrie 2015, la Acordul dintre Guvernul României şi Guvernul Republicii Moldova privind implementarea programului de asistenţă tehnică şi financiară în baza unui ajutor financiar nerambursabil în valoare de 100 milioane de euro acordat de România Republicii Moldova, semnat la Bucureşti la 27 aprilie 2010, ratificat prin Legea nr. 12/2011 , astfel cum a fost modificat prin cele patru protocoale adiţionale."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Acceptul privind finanţarea proiectelor propuse va fi acordat de autoritatea de coordonare naţională din România. (2) Alocarea financiară va fi realizată pe baza listei de proiecte prevăzute prin programele anuale de cooperare convenite de comun acord între autorităţile de coordonare naţională din România şi Republica Moldova. (3) Sumele necesare realizării proiectelor convenite se alocă prin transferuri de la bugetul autorităţii publice centrale din România care este autoritate de coordonare naţională, către bugetul autorităţii publice centrale din Republica Moldova care este autoritate de coordonare naţională."
+    }
+  ],
+  "definitions": []
+}

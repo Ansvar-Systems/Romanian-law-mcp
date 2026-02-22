@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-282672",
+  "type": "statute",
+  "title": "LEGE nr. 135 din 13 mai 2024",
+  "short_name": "lege 135 13 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-13",
+  "in_force_date": "2024-05-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282672",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 135 13/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 75 din 20 septembrie 2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile, publicată în Monitorul Oficial al României, Partea I, nr. 854 din 21 septembrie 2023."
+    }
+  ],
+  "definitions": []
+}

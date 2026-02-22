@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-44272",
+  "type": "statute",
+  "title": "LEGE nr. 238 din 2 iunie 2003",
+  "short_name": "lege 238 02 06 2003",
+  "status": "in_force",
+  "issued_date": "2003-06-02",
+  "in_force_date": "2003-06-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/44272",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 238 02/06/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 21 din 30 ianuarie 2003 pentru completarea Ordonanței Guvernului nr. 95/1998 privind înființarea unor instituții publice în subordinea Ministerului Transporturilor, adoptată în temeiul art. 1 pct. II.11 din Legea nr. 680/2002 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 61 din 1 februarie 2003, cu următoarele modificări și completări: 1. La articolul unic punctul 1, alineatul (3) al articolului 1 va avea următorul cuprins: (3) Autoritatea Feroviara Română - AFER va asigura, de asemenea: a) respectarea condițiilor care trebuie să fie îndeplinite pentru realizarea interoperabilitatii sistemului de transport feroviar transeuropean convențional pe teritoriul României; aceste condiții privesc proiectarea, construirea, punerea în funcțiune, reconstruirea, reînnoirea, exploatarea și întreținerea elementelor acestui sistem, precum și calificarile profesionale și condițiile de sănătate și de securitate a personalului care contribuie la exploatarea sistemului; b) respectarea condițiilor care trebuie să fie îndeplinite pentru realizarea interoperabilitatii sistemului de transport feroviar transeuropean de mare viteza pe teritoriul României; aceste condiții privesc proiectele atât pentru construirea, reconstruirea, cat și pentru exploatarea infrastructurii și a materialului rulant, care vor contribui la funcționarea acestui sistem. 2. După articolul unic , care devine articolul I, se introduce un articol nou, articolul II, cu următorul cuprins: Articolul II În titlul ordonanței, sintagma Ministerul Transporturilor se înlocuiește cu sintagma Ministerul Lucrărilor Publice, Transporturilor și Locuinței."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ordonanța Guvernului nr. 95/1998 privind înființarea unor instituții publice în subordinea Ministerului Transporturilor, aprobată cu modificări prin Legea nr. 3/2002 , cu modificările și completările ulterioare, astfel cum a fost modificată prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare."
+    }
+  ],
+  "definitions": []
+}

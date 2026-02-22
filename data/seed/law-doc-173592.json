@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173592",
+  "type": "statute",
+  "title": "LEGE nr. 310 din 3 decembrie 2015",
+  "short_name": "lege 310 03 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-03",
+  "in_force_date": "2015-12-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173592",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 310 03/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 26 din 19 august 2015 privind modificarea art. XV alin. (2) din Ordonanța de urgență a Guvernului nr. 8/2014 pentru modificarea și completarea unor acte normative și alte măsuri fiscal-bugetare, adoptată în temeiul art. 1 pct. III. 4 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 639 din 21 august 2015."
+    }
+  ],
+  "definitions": []
+}

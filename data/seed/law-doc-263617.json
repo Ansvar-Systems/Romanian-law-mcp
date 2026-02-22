@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-263617",
+  "type": "statute",
+  "title": "LEGE nr. 2 din 3 ianuarie 2023",
+  "short_name": "lege 2 03 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-03",
+  "in_force_date": "2023-01-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263617",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2 03/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, republicată în Monitorul Oficial al României, Partea I, nr. 535 din 3 august 2009, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 29, alineatul (5) va avea următorul cuprins: (5) Membrii Consiliului au dreptul la o indemnizație lunară egală cu 20% din indemnizația lunară a președintelui Agenției, iar președintele Consiliului va avea o indemnizație lunară mai mare cu 10% decât indemnizația ce se acordă membrilor Consiliului. 2. La articolul 40, alineatul (4) va avea următorul cuprins: (4) Secretariatul Consiliului este asigurat de personalul desemnat din cadrul Agenției și, pentru această activitate, membrii secretariatului au dreptul la o indemnizație lunară egală cu 5% din indemnizația lunară a președintelui Agenției."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, republicată în Monitorul Oficial al României, Partea I, nr. 535 din 3 august 2009, cu modificările și completările ulterioare, precum și cu modificările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

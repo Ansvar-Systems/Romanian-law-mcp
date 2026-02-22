@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-253797",
+  "type": "statute",
+  "title": "LEGE nr. 78 din 8 aprilie 2022",
+  "short_name": "lege 78 08 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-08",
+  "in_force_date": "2022-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253797",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 78 08/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 39 din 31 mai 2017 privind acțiunile în despăgubire în cazurile de încălcare a dispozițiilor legislației în materie de concurență, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 , publicată în Monitorul Oficial al României, Partea I, nr. 422 din 8 iunie 2017."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Ordonanța de urgență a Guvernului nr. 39/2017 privind acțiunile în despăgubire în cazurile de încălcare a dispozițiilor legislației în materie de concurență, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 a produs efecte juridice, potrivit art. 147 alin. (4) din Constituția României, republicată , până la data de 23 iulie 2020. (2) Toate efectele juridice produse de Ordonanța de urgență a Guvernului nr. 39/2017 până la data de 23 iulie 2020 se mențin în integralitate."
+    }
+  ],
+  "definitions": []
+}

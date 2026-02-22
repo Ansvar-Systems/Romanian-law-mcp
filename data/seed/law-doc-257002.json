@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257002",
+  "type": "statute",
+  "title": "LEGE nr. 195 din 4 iulie 2022",
+  "short_name": "lege 195 04 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-04",
+  "in_force_date": "2022-07-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257002",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 195 04/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 25 din Legea contabilității nr. 82/1991, republicată în Monitorul Oficial al României, Partea I, nr. 454 din 18 iunie 2008, cu modificările și completările ulterioare, se completează după cum urmează: – După alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Începând cu data de 1 ianuarie 2023, statele de salarii pentru care angajatorul are o declarație informativă privind impozitul reținut la sursă, pe beneficiari de venit, conform prevederilor legale sau pentru care angajatorul are obligația legală de a depune declarația privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate, la Agenția Națională de Administrare Fiscală, se păstrează timp de 5 ani."
+    }
+  ],
+  "definitions": []
+}

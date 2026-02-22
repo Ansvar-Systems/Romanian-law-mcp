@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-200724",
+  "type": "statute",
+  "title": "LEGE nr. 109 din 16 mai 2018",
+  "short_name": "lege 109 16 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-16",
+  "in_force_date": "2018-05-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200724",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 109 16/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanța Guvernului nr. 78/2000 privind omologarea, eliberarea cărții de identitate și certificarea autenticității vehiculelor rutiere în vederea comercializării, înmatriculării sau înregistrării acestora în România, publicată în Monitorul Oficial al României, Partea I, nr. 412 din 30 august 2000, aprobată cu modificări și completări prin Legea nr. 230/2003 , cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. Articolul 16^1 se modifică și va avea următorul cuprins: Articolul 16^1 (1) În cazul pierderii, furtului sau al distrugerii cărții de identitate a vehiculului ori al nerespectării dispozițiilor art. 10 alin. (5), R.A.R. poate emite un duplicat al cărții de identitate a vehiculului, după identificarea vehiculului. (2) Procedura de eliberare a duplicatului cărții de identitate a vehiculului, în situațiile prevăzute la alin. (1), precum și documentele necesare se stabilesc prin ordin al ministrului transporturilor. (3) Pentru emiterea de către R.A.R. a unui duplicat al cărții de identitate a vehiculului nu este necesară publicarea pierderii, furtului sau distrugerii acesteia în Monitorul Oficial al României, Partea a III-a. 2. Articolul 16^2 se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 60 de zile de la data intrării în vigoare a prezentei legi, ministrul transporturilor va actualiza Reglementările privind omologarea individuală , eliberarea cărții de identitate și certificarea autenticității vehiculelor - RNTR 7, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.132/2005 , publicat în Monitorul Oficial al României, Partea I, nr. 1.160 din 21 decembrie 2005, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Prezenta lege intră în vigoare la 60 de zile de la data publicării în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

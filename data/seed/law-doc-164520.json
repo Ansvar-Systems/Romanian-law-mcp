@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-164520",
+  "type": "statute",
+  "title": "LEGE nr. 9 din 7 ianuarie 2015",
+  "short_name": "lege 9 07 01 2015",
+  "status": "in_force",
+  "issued_date": "2015-01-07",
+  "in_force_date": "2015-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/164520",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 9 07/01/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 10 din Legea nr. 258/2007 privind practica elevilor şi studenţilor, publicată în Monitorul Oficial al României, Partea I, nr. 493 din 24 iulie 2007, se introduce un nou alineat, alineatul (2), cu următorul cuprins: \"(2) Prin excepţie de la prevederile alin. (1) lit. c), activitatea de practică a elevilor şi studenţilor se realizează de către partenerii de practică din instituţiile din sistemul de apărare, ordine publică şi siguranţă naţională, oricând pe parcursul a 24 de ore, în condiţii stabilite prin ordin al ministrului/conducătorului instituţiei.\""
+    }
+  ],
+  "definitions": []
+}

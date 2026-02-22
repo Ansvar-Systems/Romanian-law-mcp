@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-306417",
+  "type": "statute",
+  "title": "LEGE nr. 9 din 15 ianuarie 2026",
+  "short_name": "lege 9 15 01 2026",
+  "status": "in_force",
+  "issued_date": "2026-01-15",
+  "in_force_date": "2026-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/306417",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 9 15/01/2026",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 19 din Legea nr. 373/2013 privind cooperarea dintre Parlament și Guvern în domeniul afacerilor europene, publicată în Monitorul Oficial al României, Partea I, nr. 820 din 21 decembrie 2013, după alineatul (2) se introduce un nou alineat, alin. (3), cu următorul cuprins: (3) În urma audierii, comisiile de specialitate ale celor două Camere adoptă un aviz consultativ, care se transmite Guvernului în termen de 10 zile de către Parlament."
+    }
+  ],
+  "definitions": []
+}

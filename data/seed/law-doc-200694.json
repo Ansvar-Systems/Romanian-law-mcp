@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-200694",
+  "type": "statute",
+  "title": "LEGE nr. 105 din 8 mai 2018",
+  "short_name": "lege 105 08 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-08",
+  "in_force_date": "2018-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200694",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 105 08/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Contractul-cadru de finanțare dintre România și Banca Europeană de Investiții (România UE cofinanțare pentru transport 2014-2020), în valoare de 1 miliard euro, semnat la Luxemburg la 18 iulie 2017, denumit în continuare Contract de finanțare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În conformitate cu prevederile Contractului de finanțare , Ministerul Transporturilor este desemnat agenție de implementare (Promotor). În această calitate va asigura, între altele, respectarea prevederilor Contractului de finanțare în ceea ce privește implementarea Programului operațional Infrastructură mare referitor la axele prioritare menționate în Contractul de finanțare , furnizarea informațiilor tehnice și financiare necesare alocării subproiectelor eligibile, monitorizarea și raportarea către Ministerul Finanțelor Publice și Banca Europeană de Investiții a stadiului fizic și financiar al acestora. (2) Ministerul Finanțelor Publice va încheia cu Ministerul Transporturilor un acord subsidiar prin care se vor stabili drepturile și obligațiile părților în aplicarea prevederilor Contractului de finanțare ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Tragerile în cadrul împrumutului se efectuează de către Ministerul Finanțelor Publice conform prevederilor Contractului de finanțare . (2) Sumele trase din împrumut se utilizează pe măsura necesităților de finanțare a deficitului bugetului de stat și refinanțării datoriei publice guvernamentale, în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică, aprobată cu modificări și completări prin Legea nr. 109/2008 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Plata serviciului datoriei publice aferent împrumutului, respectiv rambursarea capitalului, plata dobânzilor, comisioanelor și a altor costuri aferente împrumutului, se asigură conform legislației în vigoare privind datoria publică, prin mecanismul aferent finanțărilor rambursabile contractate de Guvernul României, prin Ministerul Finanțelor Publice, în vederea finanțării deficitului bugetului de stat și refinanțării datoriei publice guvernamentale."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Se autorizează Guvernul României ca, prin Ministerul Finanțelor Publice, de comun acord cu Banca Europeană de Investiții, să introducă pe parcursul utilizării împrumutului în raport cu condițiile concrete de derulare a Contractului de finanțare , amendamente la conținutul acestuia, care privesc modificarea descrierii tehnice, a procedurii de alocare, diminuarea sumei împrumutului, precum și alte modificări care nu sunt de natură să majoreze obligațiile financiare ale României față de Banca Europeană de Investiții sau să determine noi condiționări economice față de cele convenite inițial între părți. (2) Amendamentele la Contractul de finanțare convenite cu Banca Europeană de Investiții, conform alin. (1) , se aprobă prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

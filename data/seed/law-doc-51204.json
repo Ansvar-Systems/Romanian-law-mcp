@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-51204",
+  "type": "statute",
+  "title": "LEGE nr. 96 din 7 aprilie 2004",
+  "short_name": "lege 96 07 04 2004",
+  "status": "in_force",
+  "issued_date": "2004-04-07",
+  "in_force_date": "2004-04-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/51204",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 96 07/04/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 66 din 28 august 2003 pentru modificarea și completarea Ordonanței Guvernului nr. 125/1998 privind înființarea, organizarea și funcționarea Agenției Naționale a Medicamentului, adoptată în temeiul art. 1 pct. V.2 din Legea nr. 279/2003 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 619 din 30 august 2003, cu următoarele modificări și completări: 1. La articolul I punctul 8, alineatul (2) al articolului 12 va avea următorul cuprins: (2) Nu pot fi membri ai consiliului de administrație persoanele care, în mod direct sau prin soț/soție ori rude de gradul I, desfășoară activități sau dețin interese în societăți comerciale producătoare, distribuitoare sau importatoare de medicamente, conform legii. 2. La articolul I, după punctul 8 se introduce punctul 8^1 cu următorul cuprins: 8^1. La articolul 12, după alineatul (2) se introduc alineatele (3) și (4) cu următorul cuprins: (3) Membrii consiliului științific sunt obligați să declare interesele personale pe care le au ei, soțul, soția, precum și rudele de gradul I ale acestora față de societățile comerciale producătoare, distribuitoare sau importatoare de medicamente din țară ori din străinătate, înainte de numirea în funcție și ori de căte ori este nevoie sau intervin modificări în relația cu acestea. (4) Membrii consiliului științific, care se află într-un conflict de interese față de una dintre problemele dezbătute în ședințele consiliului științific, trebuie să se recuze și să părăsească sala de ședințe."
+    }
+  ],
+  "definitions": []
+}

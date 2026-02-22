@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-168684",
+  "type": "statute",
+  "title": "LEGE nr. 137 din 8 iunie 2015",
+  "short_name": "lege 137 08 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-08",
+  "in_force_date": "2015-06-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168684",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 137 08/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acceptă jurisdicţia obligatorie a Curţii Internaţionale de Justiţie, în baza art. 36 alin. (2) şi (3) din Statutul Curţii Internaţionale de Justiţie, parte integrantă a Cartei Organizaţiei Naţiunilor Unite."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "România formulează următoarea declaraţie: \"România declară că recunoaşte ca obligatorie ipso facto şi fără acord special, în relaţia cu orice alt stat care acceptă aceeaşi obligaţie, adică sub condiţie de reciprocitate, jurisdicţia Curţii Internaţionale de Justiţie, în conformitate cu prevederile articolului 36 alineatul (2) al Statutului Curţii, în legătură cu orice diferend referitor la fapte sau situaţii apărute după data formulării acestei declaraţii, cu excepţia: a) oricărui diferend cu privire la care părţile în cauză au fost de acord sau vor fi de acord să recurgă la altă metodă de soluţionare paşnică în vederea obţinerii unei decizii definitive şi obligatorii; b) oricărui diferend cu un alt stat care a acceptat jurisdicţia obligatorie a Curţii Internaţionale de Justiţie în conformitate cu articolul 36 alineatul (2) al Statutului Curţii cu mai puţin de 12 luni înainte de depunerea cererii de chemare în judecată în faţa Curţii sau în cazul în care această acceptare a fost făcută numai în scopul soluţionării unui anumit diferend; c) oricărui diferend referitor la protecţia mediului înconjurător; d) oricărui diferend referitor la sau în legătură cu ostilităţi, război, conflicte armate, acţiuni individuale sau colective întreprinse în legitimă apărare sau în îndeplinirea de funcţii în conformitate cu orice decizie sau recomandare a Organizaţiei Naţiunilor Unite, desfăşurarea de forţe armate în străinătate, precum şi decizii cu privire la acestea; e) oricărui diferend care se referă la sau este legat de folosirea în scop militar a teritoriului României, inclusiv a spaţiului aerian şi a mării teritoriale sau a zonelor maritime, unde România exercită drepturi suverane şi jurisdicţie suverană; f) oricărui diferend referitor la chestiuni care, conform dreptului internaţional, aparţin exclusiv jurisdicţiei naţionale a României. Această declaraţie rămâne în vigoare până la data notificării adresate Secretarului General al Organizaţiei Naţiunilor Unite prin care se retrage sau se modifică prezenta declaraţie, cu efect imediat de la data notificării.\""
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Declaraţia prevăzută la art. 2 se depune la Secretarul General al Organizaţiei Naţiunilor Unite."
+    }
+  ],
+  "definitions": []
+}

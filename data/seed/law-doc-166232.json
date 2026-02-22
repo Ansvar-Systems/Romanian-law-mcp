@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166232",
+  "type": "statute",
+  "title": "LEGE nr. 27 din 9 martie 2015",
+  "short_name": "lege 27 09 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-09",
+  "in_force_date": "2015-03-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166232",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 27 09/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 21 din 6 mai 2014 pentru modificarea art. 6 din Legea nr. 597/2001 privind unele măsuri de protecţie şi autorizare a construcţiilor în zona de coastă a Mării Negre, publicată în Monitorul Oficial al României, Partea I, nr. 339 din 8 mai 2014."
+    }
+  ],
+  "definitions": []
+}

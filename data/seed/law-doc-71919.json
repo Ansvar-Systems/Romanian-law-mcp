@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-71919",
+  "type": "statute",
+  "title": "LEGE nr. 188 din 16 mai 2006",
+  "short_name": "lege 188 16 05 2006",
+  "status": "in_force",
+  "issued_date": "2006-05-16",
+  "in_force_date": "2006-05-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/71919",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 188 16/05/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 184 din 14 decembrie 2005 pentru modificarea Ordonanței de urgență a Guvernului nr. 91/2005 privind instituirea Programului de acordare a unor ajutoare bănești populației cu venituri reduse care utilizează gaze naturale pentru încălzirea locuinței, în vederea creșterii eficienței consumului, siguranței și calității vieții, publicată în Monitorul Oficial al României, Partea I, nr. 1.171 din 23 decembrie 2005, cu următoarea modificare: – La articolul I punctul 3, alineatul (1) al articolului 4 va avea următorul cuprins: Articolul 4 (1) Ajutorul bănesc se acordă numai în cazul în care instalarea și punerea în funcțiune a unei centrale termice sau, după caz, a arzătoarelor automatizate se realizează prin firme autorizate în condițiile legii să efectueze aceste activități, denumite în continuare firme autorizate."
+    }
+  ],
+  "definitions": []
+}

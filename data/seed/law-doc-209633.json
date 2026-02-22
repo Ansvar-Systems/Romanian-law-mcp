@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209633",
+  "type": "statute",
+  "title": "LEGE nr. 7 din 4 ianuarie 2019",
+  "short_name": "lege 7 04 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-04",
+  "in_force_date": "2019-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209633",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 04/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 72 din 17 iulie 2018 pentru stabilirea unor măsuri privind finalizarea lucrărilor de intervenție pentru creșterea performanței energetice la blocurile de locuințe din cadrul Programului național privind creșterea performanței energetice a blocurilor de locuințe, aprobat în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe, publicată în Monitorul Oficial al României, Partea I, nr. 629 din 19 iulie 2018."
+    }
+  ],
+  "definitions": []
+}

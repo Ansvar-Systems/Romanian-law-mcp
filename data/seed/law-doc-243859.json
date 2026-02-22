@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243859",
+  "type": "statute",
+  "title": "LEGE nr. 172 din 28 iunie 2021",
+  "short_name": "lege 172 28 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-28",
+  "in_force_date": "2021-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243859",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 172 28/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 218 din 30 decembrie 2020 pentru completarea Ordonanței de urgență a Guvernului nr. 70/2020 privind reglementarea unor măsuri, începând cu data de 15 mai 2020, în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, pentru prelungirea unor termene, pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , a Legii educației naționale nr. 1/2011 , precum și a altor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 1.317 din 31 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283942",
+  "type": "statute",
+  "title": "LEGE nr. 182 din 10 iunie 2024",
+  "short_name": "lege 182 10 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-10",
+  "in_force_date": "2024-06-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283942",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 182 10/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 130 din 28 decembrie 2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 89/2022 privind înființarea, administrarea și dezvoltarea infrastructurilor și serviciilor informatice de tip cloud utilizate de autoritățile și instituțiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 1196 din 29 decembrie 2023."
+    }
+  ],
+  "definitions": []
+}

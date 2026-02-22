@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-210068",
+  "type": "statute",
+  "title": "LEGE nr. 35 din 16 ianuarie 2019",
+  "short_name": "lege 35 16 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-16",
+  "in_force_date": "2019-01-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/210068",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 35 16/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 478 alineatul (2), litera a) se modifică și va avea următorul cuprins: a) diploma de doctor medic stomatolog, diploma de doctor medic dentist sau diploma de medic dentist, eliberate de o instituție de învățământ superior din domeniul medicinei dentare, acreditată din România; 2. După articolul 488 se introduce un nou articol, articolul 488^1, cu următorul cuprins: Articolul 488^1 Studenții facultăților de medicină dentară/stomatologie, care, în cursul pregătirii profesionale, conform curriculei universitare de specialitate, pentru a dobândi competențele necesare unui medic dentist/stomatolog conform standardelor naționale și europene în vigoare, desfășoară activități practice și clinice adecvate, pe pacient, sub supraveghere competentă, îndeplinesc astfel baremele practice și clinice specifice disciplinelor de profil. 3. La articolul 530, alineatul (2) se modifică și va avea următorul cuprins: (2) Norma de reprezentare în Adunarea generală națională este de 1/200 membri înscriși în fiecare colegiu teritorial la data organizării alegerilor, cel puțin un reprezentant pentru un colegiu teritorial."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În tot cuprinsul legii , sintagma „medic dentist“ se înlocuiește cu sintagma „medic stomatolog“, sintagma „Colegiul Medicilor Dentiști din România“ se înlocuiește cu sintagma „Colegiul Medicilor Stomatologi din România“, iar sintagma „CMDR“ se înlocuiește cu sintagma „CMSR“. (la 02-07-2019, sintagma: „Colegiului Medicilor Stomatologi din România“ a fost înlocuită de RECTIFICAREA nr. 35 din 9 ianuarie 2019, publicată în MONITORUL OFICIAL nr. 540 din 02 iulie 2019 )"
+    }
+  ],
+  "definitions": []
+}

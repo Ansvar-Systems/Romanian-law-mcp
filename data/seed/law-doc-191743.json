@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-191743",
+  "type": "statute",
+  "title": "LEGE nr. 189 din 24 iulie 2017",
+  "short_name": "lege 189 24 07 2017",
+  "status": "in_force",
+  "issued_date": "2017-07-24",
+  "in_force_date": "2017-07-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/191743",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 189 24/07/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Statelor Unite ale Americii privind intensificarea cooperării în prevenirea și combaterea infracțiunilor grave, semnat la 5 octombrie 2015 la Washington D.C."
+    }
+  ],
+  "definitions": []
+}

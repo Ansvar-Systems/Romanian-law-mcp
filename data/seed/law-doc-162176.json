@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-162176",
+  "type": "statute",
+  "title": "LEGE nr. 135 din 15 octombrie 2014",
+  "short_name": "lege 135 15 10 2014",
+  "status": "in_force",
+  "issued_date": "2014-10-15",
+  "in_force_date": "2014-10-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/162176",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 135 15/10/2014",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 21 din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, republicată în Monitorul Oficial al României, Partea I, nr. 798 din 2 septembrie 2005, cu modificările și completările ulterioare, alineatul (5) se modifică și va avea următorul cuprins: (5) Sub sancțiunea nulității absolute, până la soluționarea procedurilor administrative și, după caz, judiciare, generate de prezenta lege, sunt interzise înstrăinarea, concesionarea, locația de gestiune, asocierea în participațiune, ipotecarea, locațiunea, precum și orice închiriere sau subînchiriere în beneficiul unui nou chiriaș, schimbarea destinației, grevarea cu sarcini sub orice formă a bunurilor imobile - terenuri și/sau construcții notificate potrivit prevederilor prezentei legi.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "După alineatul (8) al articolului 18 din Legea nr. 24/2007 privind reglementarea și administrarea spațiilor verzi din intravilanul localităților, republicată în Monitorul Oficial al României, Partea I, nr. 764 din 10 noiembrie 2009, cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (9), cu următorul cuprins: (9) Terenurile înscrise în cartea funciară ca fiind în categoria curți-construcții, terenuri ce se află în proprietatea privată a persoanelor fizice sau juridice, nu pot fi inventariate sau declarate ca spații verzi, în sensul legii, decât după îndeplinirea procedurii de expropriere conform legislației în domeniu."
+    }
+  ],
+  "definitions": []
+}

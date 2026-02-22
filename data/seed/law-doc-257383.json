@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257383",
+  "type": "statute",
+  "title": "LEGE nr. 201 din 7 iulie 2022",
+  "short_name": "lege 201 07 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-07",
+  "in_force_date": "2022-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257383",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 201 07/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 70 din 29 iunie 2021 pentru modificarea și completarea Legii nr. 384/2006 privind statutul soldaților și gradaților profesioniști, publicată în Monitorul Oficial al României, Partea I, nr. 644 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-298930",
+  "type": "statute",
+  "title": "LEGE nr. 91 din 6 iunie 2025",
+  "short_name": "lege 91 06 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-06",
+  "in_force_date": "2025-06-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/298930",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 91 06/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 3 din Legea nr. 79/2019 privind instituirea Zilei naționale a gastronomiei și a vinului românesc, publicată în Monitorul Oficial al României, Partea I, nr. 332 din 2 mai 2019, după alineatul (2) se introduce un nou alineat, alin. (3), cu următorul cuprins: (3) Ziua națională a gastronomiei și a vinului românesc poate fi marcată și de misiunile diplomatice și oficiile consulare ale României prin organizarea de evenimente și programe de diplomație publică și culturală, cu caracter social, economic sau științific, care pun în valoare specificul gastronomiei și vinului românesc, pentru promovarea imaginii României în lume, a industriei viticole, turismului și dezvoltării regionale din țara noastră."
+    }
+  ],
+  "definitions": []
+}

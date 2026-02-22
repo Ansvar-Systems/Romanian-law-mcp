@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-233154",
+  "type": "statute",
+  "title": "LEGE nr. 252 din 13 noiembrie 2020",
+  "short_name": "lege 252 13 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-13",
+  "in_force_date": "2020-11-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/233154",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 252 13/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (1) al articolului 5 din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică, republicată în Monitorul Oficial al României, Partea I, nr. 472 din 5 iulie 2011, se introduce un nou alineat, alineatul (2), cu următorul cuprins: (2) Lucrările care se declară de interes național și traversează localități, drumuri județene, orășenești și comunale și asigură legăturile cu municipii, orașe și comune, fiind necesare pentru realizarea de obiective de interes local pentru dezvoltarea infrastructurii locale, lucrările privind producția și distribuția de energie electrică și termică având ca scop utilizarea durabilă a resurselor de apă, monopol natural de interes strategic pentru realizarea de amenajări hidroenergetice, reprezintă lucrări de interes public major."
+    }
+  ],
+  "definitions": []
+}

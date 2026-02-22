@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-263658",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 4 ianuarie 2023",
+  "short_name": "lege 6 04 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-04",
+  "in_force_date": "2023-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263658",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 04/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 2 din Ordonanța Guvernului nr. 10/2012 pentru crearea cadrului legal necesar căutării automatizate a datelor de referință în relația cu statele membre ale Uniunii Europene și asigurării recunoașterii activităților de laborator referitoare la datele dactiloscopice, publicată în Monitorul Oficial al României, Partea I, nr. 536 din 1 august 2012, aprobată prin Legea nr. 22/2013 , litera b) se modifică și va avea următorul cuprins: b) fluxul de lucru Prüm al sistemului AFIS național - componentă a sistemului AFIS național, care permite punctelor naționale de contact ale statelor membre căutarea automatizată și compararea datelor de referință în legătură cu următoarele categorii de date: date dactiloscopice obținute de la persoanele fizice înregistrate dactiloscopic potrivit Legii nr. 290/2004 privind cazierul judiciar, republicată, cu modificările și completările ulterioare, date dactiloscopice obținute de la persoanele fizice pentru care s-a dispus luarea amprentelor potrivit art. 196 alin. (1) și (3) din Legea nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare, date dactiloscopice aparținând persoanelor fizice dispărute și date dactiloscopice neidentificate;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 2 alineatul (2) din Legea nr. 158/2019 pentru stabilirea unor măsuri de punere în aplicare a Acordului dintre Guvernul României și Guvernul Statelor Unite ale Americii privind intensificarea cooperării în prevenirea și combaterea infracțiunilor grave, semnat la 5 octombrie 2015 la Washington D.C., publicată în Monitorul Oficial al României, Partea I, nr. 633 din 30 iulie 2019, litera a) se modifică și va avea următorul cuprins: a) interogarea automatizată a datelor de referință din sistemul AFIS național - flux de lucru care permite punctului/ punctelor național/naționale de contact desemnat/desemnate de partea americană căutarea automatizată și compararea datelor de referință în legătură cu următoarele categorii de date: date dactiloscopice obținute de la persoanele fizice înregistrate dactiloscopic potrivit Legii nr. 290/2004 privind cazierul judiciar, republicată, cu modificările și completările ulterioare, date dactiloscopice obținute de la persoanele fizice pentru care sa dispus luarea amprentelor potrivit art. 196 alin. (1) și (3) din Legea nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare, date dactiloscopice aparținând persoanelor fizice dispărute și date dactiloscopice neidentificate;"
+    }
+  ],
+  "definitions": []
+}

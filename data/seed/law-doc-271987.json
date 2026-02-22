@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271987",
+  "type": "statute",
+  "title": "LEGE nr. 210 din 7 iulie 2023",
+  "short_name": "lege 210 07 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-07",
+  "in_force_date": "2023-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271987",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 210 07/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 51 din 21 aprilie 2022 privind instituirea unei scheme de ajutor de stat pentru susținerea activității crescătorilor din sectoarele bovine, suine și avicol în contextul crizei economice generate de pandemia de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 393 din 21 aprilie 2022."
+    }
+  ],
+  "definitions": []
+}

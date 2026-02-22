@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190647",
+  "type": "statute",
+  "title": "LEGE nr. 149 din 27 iunie 2017",
+  "short_name": "lege 149 27 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-27",
+  "in_force_date": "2017-06-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190647",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 149 27/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 66 din 30 decembrie 2015 privind prorogarea termenelor prevăzute la art. 11 alin. (1) , art. 20 alin. (5) și art. 27 alin. (1) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, publicată în Monitorul Oficial al României, Partea I, nr. 986 din 31 decembrie 2015."
+    }
+  ],
+  "definitions": []
+}

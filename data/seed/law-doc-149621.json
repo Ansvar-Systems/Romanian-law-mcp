@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-149621",
+  "type": "statute",
+  "title": "LEGE nr. 212 din 27 iunie 2013",
+  "short_name": "lege 212 27 06 2013",
+  "status": "in_force",
+  "issued_date": "2013-06-27",
+  "in_force_date": "2013-06-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/149621",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 212 27/06/2013",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul de împrumut (Proiectul de modernizare a administrației fiscale) dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare*), în valoare de 70 milioane euro, semnat la București la 8 mai 2013, denumit în continuare acord. *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Agenția Națională de Administrare Fiscală este desemnată agenție de implementare a proiectului și în această calitate i se deleagă întreaga autoritate și responsabilitate în realizarea acestuia. (2) Ministerul Finanțelor Publice va încheia cu Agenția Națională de Administrare Fiscală un acord subsidiar, prin care se vor stabili drepturile și obligațiile părților în aplicarea prevederilor acordului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Sumele trase din împrumut și virate în contul de valută deschis pe numele Ministerului Finanțelor Publice la Banca Națională a României se utilizează pe măsura necesităților de finanțare a deficitului bugetului de stat și refinanțării datoriei publice guvernamentale, în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică, aprobată cu modificări și completări prin Legea nr. 109/2008 , cu modificările ulterioare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Plata serviciului datoriei publice aferent împrumutului, respectiv rambursarea capitalului, achitarea dobânzilor, comisioanelor și a altor costuri aferente împrumutului se asigură conform legislației în vigoare privind datoria publică, prin mecanismul aferent finanțărilor rambursabile contractate de Guvern, prin Ministerul Finanțelor Publice, în vederea finanțării deficitului bugetului de stat și refinanțării datoriei publice guvernamentale."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Se autorizează Guvernul României ca, prin Ministerul Finanțelor Publice, să convină cu Banca Internațională pentru Reconstrucție și Dezvoltare amendamente la conținutul acordului de împrumut care nu sunt de natură să majoreze obligațiile financiare asumate de România față de Banca Internațională pentru Reconstrucție și Dezvoltare. (2) Amendamentele convenite potrivit alin. (1) se aprobă prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

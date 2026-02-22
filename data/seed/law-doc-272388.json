@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-272388",
+  "type": "statute",
+  "title": "LEGE nr. 256 din 21 iulie 2023",
+  "short_name": "lege 256 21 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-21",
+  "in_force_date": "2023-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272388",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 256 21/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001 , precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali, publicată în Monitorul Oficial al României, Partea I, nr. 349 din 20 mai 2015, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 18, alineatul (1) se modifică și va avea următorul cuprins: Articolul 18 (1) Până cel mai târziu cu 45 de zile înaintea datei scrutinului, cetățenii cu drept de vot care și-au stabilit reședința de mai mult de 6 luni înaintea datei scrutinului în circumscripția electorală în care au loc alegeri pot solicita primarului, pe baza actului de identitate, înscrierea în Registrul electoral cu adresa de reședință pentru scrutinul respectiv. 2. La articolul 18, după alineatul (4) se introduce un nou alineat, alineatul (4^1), cu următorul cuprins: (4^1) Cetățenii care și-au stabilit reședința în circumscripția electorală de mai puțin de 6 luni înaintea datei scrutinului își vor putea exercita dreptul de vot doar în comuna, orașul, municipiul sau subdiviziunea administrativ-teritorială a municipiului în care își au domiciliul."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgență a Guvernului nr. 97/2005 privind evidența, domiciliul, reședința și actele de identitate ale cetățenilor români, republicată în Monitorul Oficial al României, Partea I, nr. 719 din 12 octombrie 2011, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 32, alineatul (1) se modifică și va avea următorul cuprins: Articolul 32 (1) Pentru înscrierea reședinței solicitantul va completa cererea pentru stabilirea reședinței, pe care o va depune împreună cu actul său de identitate, cu unul dintre documentele prevăzute la art. 28 și cu o declarație pe propria răspundere prin care declară că locuiește în respectiva locație mai mult de 15 zile pe lună. 2. La articolul 32, după alineatul (1^2) se introduce un nou alineat, alineatul (1^3), cu următorul cuprins: (1^3) La înscrierea reședinței găzduitorul, persoană fizică sau persoană juridică, completează o declarație pe propria răspundere din care să reiasă dacă la respectiva adresă au reședința persoane care nu aparțin aceleiași familii. Dacă la adresa respectivă au înscrisă reședința cel puțin două persoane, autoritățile prevăzute la art. 19 alin. (1) procedează la informarea structurii locale a poliției naționale, în vederea efectuării verificărilor în teren, din care să rezulte dacă solicitanții locuiesc efectiv la adresa declarată."
+    }
+  ],
+  "definitions": []
+}

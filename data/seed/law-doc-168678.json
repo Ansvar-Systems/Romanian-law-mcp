@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168678",
+  "type": "statute",
+  "title": "LEGE nr. 138 din 8 iunie 2015",
+  "short_name": "lege 138 08 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-08",
+  "in_force_date": "2015-06-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168678",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 138 08/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Legea poliţiei locale nr. 155/2010 , republicată în Monitorul Oficial al României, Partea I, nr. 339 din 8 mai 2014, cu modificările şi completările ulterioare, se completează după cum urmează: - După articolul 44 se introduce un nou articol, articolul 44^1, cu următorul cuprins: \"Art. 44^1. - (1) Ziua de 21 mai se declară Ziua poliţiei locale. (2) Autorităţile administraţiei publice locale şi organizaţiile neguvernamentale interesate pot sprijini organizarea manifestărilor dedicate sărbătoririi acestei zile.\""
+    }
+  ],
+  "definitions": []
+}

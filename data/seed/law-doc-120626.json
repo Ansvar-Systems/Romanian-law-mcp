@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-120626",
+  "type": "statute",
+  "title": "LEGE nr. 150 din 12 februarie 2010",
+  "short_name": "lege 150 12 02 2010",
+  "status": "in_force",
+  "issued_date": "2010-02-12",
+  "in_force_date": "2010-02-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/120626",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 150 12/02/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articol UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 45 din 13 mai 2009 pentru modificarea art. 1 alin. (7) din Ordonanța de urgență a Guvernului nr. 113/2006 privind înființarea Fondului național de dezvoltare, publicată în Monitorul Oficial al României, Partea I, nr. 341 din 21 mai 2009."
+    }
+  ],
+  "definitions": []
+}

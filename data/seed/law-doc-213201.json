@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-213201",
+  "type": "statute",
+  "title": "LEGE nr. 68 din 18 aprilie 2019",
+  "short_name": "lege 68 18 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-18",
+  "in_force_date": "2019-04-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213201",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 18/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 254/2017 privind externarea persoanelor decedate de religie mozaică din unitățile sanitare, publicată în Monitorul Oficial al României, Partea I, nr. 997 din 15 decembrie 2017, se modifică și se completează după cum urmează: 1. Titlul se modifică și va avea următorul cuprins: LEGE privind externarea din unitățile sanitare și manipularea cadavrelor persoanelor decedate de religie mozaică 2. După articolul 1 se introduce un nou articol, articolul 1^1, cu următorul cuprins: Articolul 1^1 Prin derogare de la prevederile alin. (2) al art. 8 și alin. (1) al art. 10 din Legea nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, republicată, persoanele decedate de religie mozaică sunt scutite de autopsie și activitatea de prosectură, la cererea familiei sau, în cazul persoanelor singure, a Federației Comunităților Evreiești din România - Cultul Mozaic, în condițiile în care nu există suspiciunea unor implicații medico-legale prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 60 de zile de la data intrării în vigoare a prezentei legi, Guvernul va modifica, prin hotărâre, Normele metodologice de aplicare a Legii nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, aprobate prin Hotărârea Guvernului nr. 451/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 340 din 19 aprilie 2004, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-33288",
+  "type": "statute",
+  "title": "LEGE nr. 788 din 29 decembrie 2001",
+  "short_name": "lege 788 29 12 2001",
+  "status": "in_force",
+  "issued_date": "2001-12-29",
+  "in_force_date": "2001-12-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/33288",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 788 29/12/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 49 din 19 august 1999 privind transportul mărfurilor periculoase pe calea ferată, emisă în temeiul art. 1 lit. H pct. 7 din Legea nr. 140/1999 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 401 din 24 august 1999, cu următoarea modificare: – La articolul 2, alineatul (1) va avea următorul cuprins: Articolul 2 (1) Ministerul Lucrărilor Publice, Transporturilor și Locuinței este autoritatea de stat responsabilă cu aplicarea prevederilor Convenției cu privire la transporturile internaționale feroviare (COTIF). În aceasta calitate, este împuternicit sa participe la adunările generale OTIF și sa accepte modificările Regulamentului privind transportul internațional feroviar al mărfurilor periculoase (RID)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În tot cuprinsul ordonanței, denumirea Ministerul Transporturilor se înlocuiește cu denumirea Ministerul Lucrărilor Publice, Transporturilor și Locuinței, iar sintagma ordin al ministrului transporturilor, cu sintagma ordin al ministrului lucrărilor publice, transporturilor și locuinței."
+    }
+  ],
+  "definitions": []
+}

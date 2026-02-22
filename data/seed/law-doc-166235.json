@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166235",
+  "type": "statute",
+  "title": "LEGE nr. 28 din 9 martie 2015",
+  "short_name": "lege 28 09 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-09",
+  "in_force_date": "2015-03-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166235",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 28 09/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 53 din 28 august 2014 pentru modificarea Ordonanţei Guvernului nr. 24/2010 privind controlul operaţiunilor care fac parte din sistemul de finanţare prin Fondul European de Garantare Agricolă, publicată în Monitorul Oficial al României, Partea I, nr. 635 din 29 august 2014."
+    }
+  ],
+  "definitions": []
+}

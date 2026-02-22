@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-196709",
+  "type": "statute",
+  "title": "LEGE nr. 15 din 12 ianuarie 2018",
+  "short_name": "lege 15 12 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-12",
+  "in_force_date": "2018-01-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196709",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 15 12/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 67 din 5 octombrie 2017 pentru modificarea și completarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, publicată în Monitorul Oficial al României, Partea I, nr. 797 din 9 octombrie 2017, cu următoarele modificări și completări: 1. La articolul I, punctul 7 se abrogă. 2. La articolul I, după punctul 7 se introduc două puncte noi, punctele 8 și 9, cu următorul cuprins: 8. La articolul 60, după alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: (3) Exploatarea prin proiecție publică a filmelor cinematografice ori a videogramelor se poate realiza numai dacă acestea sunt traduse ori dublate în limba română, cu excepția cazurilor în care proiecția publică se realizează în aceeași perioadă, atât în limba română, cât și în limba unei minorități naționale. 9. La articolul 68, litera e) se modifică și va avea următorul cuprins: e) exploatarea, prin proiecție publică, de filme cinematografice ori videograme netraduse sau nedublate în limba română, cu excepția cazurilor în care aceasta se realizează în aceeași perioadă atât în limba română, cât și în limba unei minorități naționale. 3. Articolul II se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Contractele de creditare având o durată de rambursare a creditului direct pentru producție de 20 ani, precum și actele adiționale perfectate în temeiul dispozițiilor art. II din Ordonanța de urgență a Guvernului nr. 67/2017 pentru modificarea și completarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, încheiate înainte de data intrării în vigoare a prezentei legi, rămân valabil încheiate, inclusiv în privința duratei de rambursare a creditului."
+    }
+  ],
+  "definitions": []
+}

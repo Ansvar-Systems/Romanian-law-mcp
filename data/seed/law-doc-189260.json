@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-189260",
+  "type": "statute",
+  "title": "LEGE nr. 101 din 10 mai 2017",
+  "short_name": "lege 101 10 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-10",
+  "in_force_date": "2017-05-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189260",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 101 10/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică cel de- al treilea Protocol adiţional *) la Convenţia europeană privind extrădarea , deschis spre semnare la Strasbourg la 10 noiembrie 2010, semnat de către România la Viena la 20 septembrie 2012. Notă *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu ocazia depunerii instrumentului de ratificare, România formulează următoarea declaraţie: În conformitate cu dispoziţiile articolului 5, România declară că regulile prevăzute la articolul 14 din Convenţia europeană privind extrădarea nu se aplică atunci când persoana extrădată de către România consimte la extrădare şi renunţă în mod expres la aplicarea regulii specialităţii"
+    }
+  ],
+  "definitions": []
+}

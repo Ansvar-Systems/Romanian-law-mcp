@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275715",
+  "type": "statute",
+  "title": "LEGE nr. 294 din 25 octombrie 2023",
+  "short_name": "lege 294 25 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-25",
+  "in_force_date": "2023-10-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275715",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 294 25/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 46 din 26 mai 2023 pentru modificarea și completarea art. 8 din Legea nr. 315/2004 privind dezvoltarea regională în România, publicată în Monitorul Oficial al României, Partea I, nr. 466 din 26 mai 2023."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-21777",
+  "type": "statute",
+  "title": "LEGE nr. 15 din 19 decembrie 1980",
+  "short_name": "lege 15 19 12 1980",
+  "status": "in_force",
+  "issued_date": "1980-12-19",
+  "in_force_date": "1980-12-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21777",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 15 19/12/1980",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 466/1979 privind regimul produselor şi substanţelor toxice. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 19 decembrie 1980. Preşedintele Marii Adunări Naţionale, Nicolae Giosan ---------"
+    }
+  ],
+  "definitions": []
+}

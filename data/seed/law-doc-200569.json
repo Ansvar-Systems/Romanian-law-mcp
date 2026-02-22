@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200569",
+  "type": "statute",
+  "title": "LEGE nr. 102 din 8 mai 2018",
+  "short_name": "lege 102 08 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-08",
+  "in_force_date": "2018-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200569",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 102 08/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 87 din 29 noiembrie 2017 pentru completarea art. 5 din Ordonanța Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local, publicată în Monitorul Oficial al României, Partea I, nr. 967 din 6 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

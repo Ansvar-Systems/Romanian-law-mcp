@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239817",
+  "type": "statute",
+  "title": "LEGE nr. 49 din 22 martie 2021",
+  "short_name": "lege 49 22 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-22",
+  "in_force_date": "2021-03-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239817",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 49 22/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța Guvernului nr. 15 din 29 august 2018 pentru completarea art. 15 din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, adoptată în temeiul art. 1 pct. I.3 din Legea nr. 183/2018 privind abilitarea Guvernului de a emite ordonanțe, și publicată în Monitorul Oficial al României, Partea I, nr. 754 din 31 august 2018."
+    }
+  ],
+  "definitions": []
+}

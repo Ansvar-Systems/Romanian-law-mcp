@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-238240",
+  "type": "statute",
+  "title": "LEGE nr. 7 din 24 februarie 2021",
+  "short_name": "lege 7 24 02 2021",
+  "status": "in_force",
+  "issued_date": "2021-02-24",
+  "in_force_date": "2021-02-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/238240",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 24/02/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolele 49 și 50 din Legea nr. 96/2006 privind Statutul deputaților și al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 49 din 22 ianuarie 2016, cu modificările și completările ulterioare, se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "De la data intrării în vigoare a prezentei legi încetează plata indemnizațiilor pentru limită de vârstă acordate în baza prevederilor art. 49 din Legea nr. 96/2006 privind Statutul deputaților și al senatorilor, republicată, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 96/2006 privind Statutul deputaților și al senatorilor, republicată, cu modificările și completările ulterioare, precum și cu modificările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

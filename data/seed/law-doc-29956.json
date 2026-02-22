@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-29956",
+  "type": "statute",
+  "title": "LEGE nr. 84 din 20 decembrie 1974",
+  "short_name": "lege 84 20 12 1974",
+  "status": "in_force",
+  "issued_date": "1974-12-20",
+  "in_force_date": "1974-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/29956",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 84 20/12/1974",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 211/1974 pentru declararea ca abrogate a unor acte normative. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 20 decembrie 1974. Preşedintele Marii Adunări Naţionale, NICOLAE GIOSAN ──────────────"
+    }
+  ],
+  "definitions": []
+}

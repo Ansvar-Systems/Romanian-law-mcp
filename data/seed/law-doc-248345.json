@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-248345",
+  "type": "statute",
+  "title": "LEGE nr. 269 din 9 noiembrie 2021",
+  "short_name": "lege 269 09 11 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-09",
+  "in_force_date": "2021-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/248345",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 269 09/11/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 211 din Legea dialogului social nr. 62/2011, republicată în Monitorul Oficial al României, Partea I, nr. 625 din 31 august 2012, cu modificările și completările ulterioare, litera a) se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 268 alineatul (1) din Legea nr. 53/2003 - Codul muncii, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) în termen de 45 de zile calendaristice de la data la care cel interesat a luat cunoștință de măsura dispusă referitoare la încheierea, executarea, modificarea, suspendarea sau încetarea contractului individual de muncă, inclusiv angajamentele de plată a unor sume de bani;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270982",
+  "type": "statute",
+  "title": "LEGE nr. 165 din 31 mai 2023",
+  "short_name": "lege 165 31 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-31",
+  "in_force_date": "2023-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270982",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 165 31/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 35 din 31 august 2022 pentru modificarea Ordonanței Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, precum și pentru aprobarea plății cotizațiilor anuale în vederea participării Institutului Național de Statistică - România în calitate de asociat în cadrul Comitetului de Statistică și Guvernanță în Statistică al Organizației pentru Cooperare și Dezvoltare Economică și de membru instituțional în cadrul Institutului Internațional de Statistică, adoptată în temeiul art. 1 pct. I.1 din Legea nr. 186/2022 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 856 din 31 august 2022."
+    }
+  ],
+  "definitions": []
+}

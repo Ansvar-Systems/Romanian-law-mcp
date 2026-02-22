@@ -1,0 +1,125 @@
+{
+  "id": "law-doc-229853",
+  "type": "statute",
+  "title": "LEGE nr. 199 din 8 septembrie 2020",
+  "short_name": "lege 199 08 09 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-08",
+  "in_force_date": "2020-09-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/229853",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 199 08/09/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Domeniu de aplicare (1) Prezenta lege se aplică în cazul facturilor electronice emise ca urmare a executării contractelor atribuite în temeiul Legii nr. 98/2016 privind achizițiile publice, cu modificările și completările ulterioare, Legii nr. 99/2016 privind achizițiile sectoriale, cu modificările și completările ulterioare, Legii nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, cu modificările și completările ulterioare, și al Ordonanței de urgență a Guvernului nr. 114/2011 privind atribuirea anumitor contracte de achiziții publice în domeniile apărării și securității, aprobată cu modificări și completări prin Legea nr. 195/2012 , cu modificările și completările ulterioare, a căror valoare este egală sau mai mare decât pragurile prevăzute de lege și față de care există obligația publicării unui anunț de participare/concesionare și/sau a unui anunț de atribuire în Jurnalul Oficial al Uniunii Europene. (2) Autoritățile și entitățile contractante pot aplica prevederile prezentei legi și în cazul facturilor electronice emise ca urmare a executării contractelor menționate la alin. (1) , a căror valoare este mai mică decât pragurile prevăzute de lege față de care există obligația publicării unui anunț de participare/concesionare și/sau a unui anunț de atribuire în Jurnalul Oficial al Uniunii Europene. (3) Prezenta lege nu se aplică facturilor electronice emise ca urmare a executării contractelor clasificate potrivit legii sau în cazul în care atribuirea și executarea contractului de achiziție publică au necesitat impunerea, potrivit dispozițiilor legale, a unor măsuri speciale de securitate pentru protejarea unor interese esențiale de securitate ale statului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Definiții (1) În sensul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații: a) destinatar factură electronică - autoritate contractantă, entitate contractantă sau unitate de achiziții centralizate cu atribuții în acest sens potrivit legii, care primește și prelucrează facturi electronice; b) elemente principale ale unei facturi electronice - un ansamblu de componente esențiale de informații pe care trebuie să le conțină o factură electronică pentru a permite interoperabilitatea transfrontalieră, inclusiv informațiile necesare pentru a asigura conformitatea juridică; c) emitent factură electronică - operator economic care are calitatea de contractant în cadrul unui contract de achiziții publice/sectoriale, al unui contract de concesiune de lucrări sau servicii sau al unui contract de achiziții publice în domeniile apărării și securității sau, după caz, operator economic care are calitatea de subcontractant, în condițiile art. 218 din Legea nr. 98/2016 , cu modificările și completările ulterioare, respectiv ale art. 232 din Legea nr. 99/2016 , cu modificările și completările ulterioare; d) factură electronică - factură emisă, transmisă și primită într-un format electronic structurat care permite prelucrarea sa automată și electronică; e) legături sintactice - orientări cu privire la modul în care un model de date semantice pentru o factură electronică ar putea fi reprezentat în diferitele sintaxe; f) model de date semantice - un set de termeni structurați și interconectați în mod logic, precum și semnificațiile acestora, care precizează elementele principale ale unei facturi electronice în conformitate cu standardul european privind facturarea electronică; g) open contracting data standard - OCDS - în achizițiile publice - standard dedicat descrierii cât mai complete a procesului de achiziții publice derulat prin mijloace electronice; h) sintaxă - limbajul sau dialectul care poate fi citit automat, utilizat pentru reprezentarea elementelor de date incluse într-o factură electronică, în conformitate cu standardul european privind facturarea electronică; i) standard european privind facturarea electronică - standard european special pentru modelul semantic de date privind elementele esențiale ale unei facturi electronice, astfel cum este definit la art. 2 alin. (1) lit. b) din Regulamentul (UE) nr. 1.025/2012 al Parlamentului European și al Consiliului din 25 octombrie 2012 privind standardizarea europeană, de modificare a Directivelor 89/686/CEE și 93/15/CEE ale Consiliului și a Directivelor 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE și 2009/105/CE ale Parlamentului European și ale Consiliului și de abrogare a Deciziei 87/95/CEE a Consiliului și a Deciziei nr. 1.673/2006/CE a Parlamentului European și a Consiliului; j) standard internațional - un standard internațional astfel cum este definit la art. 2 alin. (1) lit. a) din Regulamentul (UE) nr. 1.025/2012. (2) În aplicarea prezentei legi, termenii și expresiile „autoritate contractantă“, „entitate contractantă“, „operator economic“, „contractant“, „contract“, „subcontractant“, „sistem electronic de achiziții publice“, „unitate de achiziții centralizate“ au înțelesul prevăzut de Legea nr. 98/2016 , cu modificările și completările ulterioare, Legea nr. 99/2016 , cu modificările și completările ulterioare, Legea nr. 100/2016 , cu modificările și completările ulterioare, Ordonanța de urgență a Guvernului nr. 114/2011 , aprobată cu modificări și completări prin Legea nr. 195/2012 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Utilizarea standardului privind facturarea electronică în domeniul achizițiilor publice Datele semantice ale elementelor principale aferente unei facturi electronice recomandate trebuie să respecte în principal următoarele criterii: a) să fie în conformitate cu conținutul semantic așa cum este descris în standardul SR EN 16931-1:2017; b) factura electronică este reprezentată în oricare dintre sintaxele identificate în CEN/TS 16931-2, în conformitate cu art. 2 alin. (1) lit. i) ; c) factura electronică este în conformitate cu corelarea adecvată definită în subpartea aplicabilă a CEN/TS 16931-3; d) să aibă în vedere necesitatea protecției datelor cu caracter personal în conformitate cu Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE ( Regulamentul general privind protecția datelor), o abordare de protecție a datelor începând cu momentul conceperii și principiile proporționalității, reducerii la minimum a datelor și limitării scopului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Obiecții formale împotriva standardului european În cazul în care se constată că standardul privind facturarea electronică și lista sintaxelor nu răspund în întregime criteriilor prevăzute la art. 3 , Agenția pentru Agenda Digitală a României, denumită în continuare AADR, informează în consecință Comisia Europeană, în termen de 90 de zile, furnizând o explicație detaliată."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Condiții impuse destinatarului facturilor electronice Destinatarul facturii electronice trebuie să îndeplinească următoarele condiții: a) să dispună de mijloace tehnice și resurse umane corespunzătoare pentru garantarea securității, fiabilității și continuității serviciilor de prelucrare a datelor în formă electronică; b) să fie în măsură să gestioneze și să arhiveze toate informațiile privind fiecare factură în formă electronică emisă, pentru o perioadă de timp determinată în funcție de specificul achiziției; c) să utilizeze sisteme de arhivare electronică în conformitate cu prevederile Legii nr. 135/2007 privind arhivarea documentelor în formă electronică, republicată. Pe durata arhivării, persoanele care au responsabilitatea arhivării vor lua măsuri ca orice factură în formă electronică să poată fi accesată conform dispozițiilor Legii nr. 135/2007, republicată , numai de către emitent, destinatar sau organele abilitate prin lege; d) să respecte elementele principale ale unei facturi electronice în conformitate cu standardul SR EN 16931; e) să fie înregistrat la Ministerul Finanțelor Publice."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Elementele principale ale unei facturi electronice Elementele principale ale unei facturi electronice sunt: a) identificatorii de proces și de factură; b) data facturii; c) informații privind identificarea persoanei impozabile care a livrat produsele, a prestat serviciile sau a executat lucrările; d) informații privind cumpărătorul; e) informații privind beneficiarul plății; f) informații privind reprezentantul fiscal al vânzătorului; g) identificarea tipului de produse furnizate, servicii prestate sau lucrări executate; h) referirea la contractul de achiziții publice/sectoriale, de concesiune de lucrări și servicii, precum și, după caz, la contractul de achiziții publice în domeniile apărării și securității; i) detalii privind livrarea produselor/prestarea serviciilor/ executarea lucrărilor; j) instrucțiuni de plată; k) informații privind creditări sau debitări; l) informații privind pozițiile de pe factură; m) totalurile facturii; n) defalcarea TVA."
+    },
+    {
+      "provision_ref": "Art.7",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Primirea și prelucrarea facturilor electronice de către destinatari (1) Toate autoritățile și entitățile contractante trebuie să primească și să prelucreze o factură electronică conformă cu standardul european privind facturarea electronică și cu oricare dintre sintaxele sale, potrivit prevederilor prezentei legi. (2) Autoritățile contractante și entitățile contractante trebuie să primească și să prelucreze informațiile aferente facturilor electronice conexe contractelor de achiziție publică/sectorială, contractelor de concesiune de lucrări sau servicii sau contractelor de achiziții publice din domeniul apărării și securității, în conformitate cu prezenta lege. (3) Informațiile prevăzute la alin. (2) pot fi transmise, respectiv primite și prelucrate în Sistemul electronic de achiziții publice - SEAP, în conformitate cu standardul OCDS, pentru asigurarea transparentizării informațiilor aferente respectivelor contracte. (4) Autoritățile contractante și entitățile contractante verifică legalitatea, autenticitatea, originea și integritatea conținutului facturilor emise în formă electronică, în conformitate cu prevederile legale în vigoare. (5) Factura în formă electronică trebuie să respecte conținutul stabilit de actele normative speciale și va conține obligatoriu marca temporală care certifică momentul emiterii."
+    },
+    {
+      "provision_ref": "Art.8",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Protecția datelor (1) Prezenta lege nu aduce atingere legislației privind protecția datelor cu caracter personal. (2) Datele cu caracter personal obținute în scopul prelucrării facturilor electronice pot fi folosite exclusiv în acest scop sau în scopuri compatibile cu acesta, cu respectarea legislației privind protecția datelor cu caracter personal. (3) Modalitățile de publicare, în scopul asigurării transparenței și a tragerii la răspundere, a datelor cu caracter personal care au fost colectate în cadrul facturării electronice trebuie să fie în concordanță cu scopul publicării și protecției sferei private."
+    },
+    {
+      "provision_ref": "Art.9",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Utilizarea facturilor electronice în scopuri de TVA Prezenta lege nu aduce atingere dispozițiilor titlului VII al Legii nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.10",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Dispoziții finale Prezenta lege intră în vigoare la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I. Prezenta lege transpune integral Directiva 2014/55/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 privind facturarea electronică în domeniul achizițiilor publice, publicată în Jurnalul Oficial al Uniunii Europene, seria L, nr. 133 din data de 6 mai 2014."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "destinatar factură electronică",
+      "definition": "autoritate contractantă, entitate contractantă sau unitate de achiziții centralizate cu atribuții în acest sens potrivit legii, care primește și prelucrează facturi electronice",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "elemente principale ale unei facturi electronice",
+      "definition": "un ansamblu de componente esențiale de informații pe care trebuie să le conțină o factură electronică pentru a permite interoperabilitatea transfrontalieră, inclusiv informațiile necesare pentru a asigura conformitatea juridică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "emitent factură electronică",
+      "definition": "operator economic care are calitatea de contractant în cadrul unui contract de achiziții publice/sectoriale, al unui contract de concesiune de lucrări sau servicii sau al unui contract de achiziții publice în domeniile apărării și securității sau, după caz, operator economic care are calitatea de subcontractant, în condițiile art. 218 din Legea nr. 98/2016 , cu modificările și completările ulterioare, respectiv ale art. 232 din Legea nr. 99/2016 , cu modificările și completările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "factură electronică",
+      "definition": "factură emisă, transmisă și primită într-un format electronic structurat care permite prelucrarea sa automată și electronică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "legături sintactice",
+      "definition": "orientări cu privire la modul în care un model de date semantice pentru o factură electronică ar putea fi reprezentat în diferitele sintaxe",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "model de date semantice",
+      "definition": "un set de termeni structurați și interconectați în mod logic, precum și semnificațiile acestora, care precizează elementele principale ale unei facturi electronice în conformitate cu standardul european privind facturarea electronică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "open contracting data standard",
+      "definition": "OCDS - în achizițiile publice - standard dedicat descrierii cât mai complete a procesului de achiziții publice derulat prin mijloace electronice",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "sintaxă",
+      "definition": "limbajul sau dialectul care poate fi citit automat, utilizat pentru reprezentarea elementelor de date incluse într-o factură electronică, în conformitate cu standardul european privind facturarea electronică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "standard european privind facturarea electronică",
+      "definition": "standard european special pentru modelul semantic de date privind elementele esențiale ale unei facturi electronice, astfel cum este definit la art. 2 alin. (1) lit. b) din Regulamentul (UE) nr. 1",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "standard internațional",
+      "definition": "un standard internațional astfel cum este definit la art. 2 alin. (1) lit. a) din Regulamentul (UE) nr. 1.025/2012. (2) În aplicarea prezentei legi, termenii și expresiile „autoritate contractantă“, „entitate contractantă“, „operator economic“, „contractant“, „contract“, „subcontractant“, „sistem electronic de achiziții publice“, „unitate de achiziții centralizate“ au înțelesul prevăzut de Legea nr. 98/2016 , cu modificările și completările ulterioare, Legea nr",
+      "source_provision": "Art.2"
+    }
+  ]
+}

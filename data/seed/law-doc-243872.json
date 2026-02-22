@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243872",
+  "type": "statute",
+  "title": "LEGE nr. 178 din 28 iunie 2021",
+  "short_name": "lege 178 28 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-28",
+  "in_force_date": "2021-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243872",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 178 28/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 133 din 7 august 2020 privind unele măsuri pentru sprijinirea categoriilor de elevi cei mai defavorizați care beneficiază de sprijin educațional pe bază de tichete sociale pe suport electronic pentru sprijin educațional acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora, publicată în Monitorul Oficial al României, Partea I, nr. 726 din 12 august 2020, cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

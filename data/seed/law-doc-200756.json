@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-200756",
+  "type": "statute",
+  "title": "LEGE nr. 113 din 17 mai 2018",
+  "short_name": "lege 113 17 05 2018",
+  "status": "in_force",
+  "issued_date": "2018-05-17",
+  "in_force_date": "2018-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/200756",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 113 17/05/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 7 din 4 august 2017 privind reglementarea unor măsuri fiscal-bugetare în domeniul sănătății, adoptată în temeiul art. 1 pct. I.3 din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 643 din 4 august 2017."
+    }
+  ],
+  "definitions": []
+}

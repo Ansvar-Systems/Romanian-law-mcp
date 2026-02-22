@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-209531",
+  "type": "statute",
+  "title": "LEGE nr. 355 din 27 decembrie 2018",
+  "short_name": "lege 355 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209531",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 355 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 25 septembrie ca Ziua dăruirii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Ziua dăruirii poate fi marcată de către autoritățile administrației publice centrale și locale, instituțiile aflate în subordinea sau coordonarea acestora, precum și de către societatea civilă, persoane fizice și persoane juridice, prin organizarea și/sau participarea la programe și manifestări având caracter cultural, educativ, artistic, social sau de voluntariat, dedicate sărbătoririi acestei zile. (2) Autoritățile administrației publice centrale și locale, precum și instituțiile aflate în subordinea sau coordonarea acestora pot acorda sprijin logistic și pot aloca fonduri din bugetele proprii, în vederea organizării și derulării în bune condiții a manifestărilor prevăzute la alin. (1) , în limita alocațiilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

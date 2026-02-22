@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-297066",
+  "type": "statute",
+  "title": "LEGE nr. 52 din 30 aprilie 2025",
+  "short_name": "lege 52 30 04 2025",
+  "status": "in_force",
+  "issued_date": "2025-04-30",
+  "in_force_date": "2025-04-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/297066",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 52 30/04/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 111 din 11 septembrie 2024 pentru modificarea și completarea Legii nr. 119/1996 cu privire la actele de stare civilă, publicată în Monitorul Oficial al României, Partea I, nr. 926 din 13 septembrie 2024."
+    }
+  ],
+  "definitions": []
+}

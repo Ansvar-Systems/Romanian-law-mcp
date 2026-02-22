@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-291235",
+  "type": "statute",
+  "title": "LEGE nr. 289 din 20 noiembrie 2024",
+  "short_name": "lege 289 20 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-20",
+  "in_force_date": "2024-11-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/291235",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 289 20/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 94 din 29 decembrie 2014 privind modificarea și completarea Legii educației naționale nr. 1/2011 , precum și modificarea Ordonanței de urgență a Guvernului nr. 75/2005 privind asigurarea calității educației, publicată în Monitorul Oficial al României, Partea I, nr. 968 din 30 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

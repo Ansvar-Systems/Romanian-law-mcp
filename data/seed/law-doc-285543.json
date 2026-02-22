@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-285543",
+  "type": "statute",
+  "title": "LEGE nr. 223 din 16 iulie 2024",
+  "short_name": "lege 223 16 07 2024",
+  "status": "in_force",
+  "issued_date": "2024-07-16",
+  "in_force_date": "2024-07-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/285543",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 223 16/07/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, publicată în Monitorul Oficial al României, Partea I, nr. 278 din 17 mai 2013, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: 1. La articolul 33, alineatul (4) se modifică și va avea următorul cuprins: (4) Cererile se analizează în ordinea înregistrării lor la entitățile prevăzute la alin. (1). Prin excepție, se analizează cu prioritate cererile formulate de persoana certificată de entități desemnate de statul român sau de alte state membre ale Uniunii Europene sau de statul de reședință, ca supraviețuitoare a Holocaustului, aflată în viață la data publicării în Monitorul Oficial al României, Partea I, a prezentei legi, precum și cererile care au ca obiect imobilele pentru care s-au formulat notificări de restituire și pentru care sunt incidente prevederile art. 19 alin. (9) ale Legii nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local, cu modificările și completările ulterioare, la solicitarea autorității care derulează proiecte cu finanțare externă. 2. La articolul 35, alineatul (1) se modifică și va avea următorul cuprins: Articolul 35 (1) Deciziile emise cu respectarea prevederilor art. 33 și 34 pot fi atacate de persoana care se consideră îndreptățită la secția civilă a tribunalului în a cărui circumscripție se află imobilul, în termen de 30 de zile de la data comunicării. În procedura judecătorească, cuantumul despăgubirilor se va stabili prin raportare la grila notarială valabilă în anul anterior pronunțării hotărârii judecătorești."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În cazul în care pentru imobilul solicitat nu se poate face dovada preluării abuzive de către stat în perioada de referință, iar acesta se regăsește sau s-a regăsit în patrimoniul statului, se prezumă că imobilul a fost preluat abuziv."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Articolul 24 din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, republicată în Monitorul Oficial al României, Partea I, nr. 798 din 2 septembrie 2005, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 24 Existența și, după caz, întinderea dreptului de proprietate se prezumă a fi cele recunoscute în actul normativ sau de autoritate prin care s-a dispus măsura preluării abuzive, cu condiția depunerii oricăror alte acte juridice care atestă deținerea imobilului la momentul trecerii în proprietatea statului."
+    }
+  ],
+  "definitions": []
+}

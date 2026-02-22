@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-224475",
+  "type": "statute",
+  "title": "LEGE nr. 29 din 27 martie 2020",
+  "short_name": "lege 29 27 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-27",
+  "in_force_date": "2020-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224475",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 29 27/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă trecerea unor imobile-terenuri, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului și din administrarea Universității de Științe Agricole și Medicină Veterinară Cluj-Napoca, pentru Stațiunea de Cercetare Horticolă Cluj-Napoca, în domeniul public al municipiului Cluj-Napoca, cu destinație de drum."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Predarea-preluarea imobilelor prevăzute la art. 1 se face pe bază de protocol încheiat între părțile interesate, la valoarea de inventar a acestora, în termen de 30 de zile de la intrarea în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

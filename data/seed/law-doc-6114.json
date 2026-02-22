@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-6114",
+  "type": "statute",
+  "title": "LEGE Nr. 72 din 5 iulie 1995",
+  "short_name": "lege 72 05 07 1995",
+  "status": "in_force",
+  "issued_date": "1995-07-05",
+  "in_force_date": "1995-07-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/6114",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 72 05/07/1995",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Oraşul Dragasani din judeţul Valcea se declara municipiu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Anexa la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României se modifica în mod corespunzător. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 15 iunie 1995, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE Această lege a fost adoptată de Senat în şedinţa din 27 iunie 1995, cu respectarea prevederilor art. 74 alin. (1) din Constituţia României. PREŞEDINTELE SENATULUI prof. univ. dr. OLIVIU GHERMAN ---------------"
+    }
+  ],
+  "definitions": []
+}

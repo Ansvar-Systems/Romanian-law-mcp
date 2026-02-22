@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-218701",
+  "type": "statute",
+  "title": "LEGE nr. 167 din 3 octombrie 2019",
+  "short_name": "lege 167 03 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-03",
+  "in_force_date": "2019-10-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/218701",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 167 03/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 5 din 23 august 2018 privind instituirea unor măsuri pentru derularea Programului național de dezvoltare locală etapa a II-a, adoptată în temeiul art. 1 pct. IV din Legea nr. 183/2018 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 735 din 24 august 2018."
+    }
+  ],
+  "definitions": []
+}

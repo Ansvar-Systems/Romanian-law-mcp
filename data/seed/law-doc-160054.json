@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-160054",
+  "type": "statute",
+  "title": "LEGE nr. 122 din 18 iulie 2014",
+  "short_name": "lege 122 18 07 2014",
+  "status": "in_force",
+  "issued_date": "2014-07-18",
+  "in_force_date": "2014-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/160054",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 122 18/07/2014",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 82/1993 privind constituirea Rezervației Biosferei \"Delta Dunării\", publicată în Monitorul Oficial al României, Partea I, nr. 283 din 7 decembrie 1993, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 10, după alineatul 4 se introduce un nou alineat, alineatul 4^1, cu următorul cuprins: Pe întreg teritoriul rezervației, schimbarea destinației terenurilor utilizate ca amenajări agricole sau piscicole este interzisă, cu excepția celor incluse în planul de renaturare. 2. La articolul 12, după punctul 2 se introduc două noi puncte, punctele 2^1 și 2^2, cu următorul cuprins: 2^1. schimbarea destinației terenurilor utilizate ca amenajări agricole sau piscicole, cu excepția celor incluse în planul de renaturare; 2^2. nerespectarea de către proprietarii, arendașii sau concesionarii terenurilor utilizate ca amenajări agricole sau piscicole a căror destinație a fost schimbată a obligației de renaturare sau de readucere a acestora la destinația inițială; 3. La articolul 13 alineatul 1, după litera h) se introduce o nouă literă, litera i), cu următorul cuprins: i) cele de la pct. 2^1 și 2^2, cu amendă de la 2.000 lei la 6.000 lei pentru persoane fizice și de la 4.200 lei la 12.500 lei pentru persoane juridice."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 3 ani de la data intrării în vigoare a prezentei legi, proprietarii, arendașii sau concesionarii terenurilor utilizate ca amenajări agricole sau piscicole, cărora le-au schimbat destinația, sunt obligați să le readucă la destinația lor inițială sau, după caz, să le renatureze."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Abrogat. (la 22-11-2015, Art. III a fost abrogat de art. III din LEGEA nr. 283 din 18 noiembrie 2015, publicată în MONITORUL OFICIAL nr. 863 din 19 noiembrie 2015. )"
+    }
+  ],
+  "definitions": []
+}

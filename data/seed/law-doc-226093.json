@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-226093",
+  "type": "statute",
+  "title": "LEGE nr. 68 din 26 mai 2020",
+  "short_name": "lege 68 26 05 2020",
+  "status": "in_force",
+  "issued_date": "2020-05-26",
+  "in_force_date": "2020-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/226093",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 26/05/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 456 alineatul (1) din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, litera h) se modifică și va avea următorul cuprins: h) clădirile unităților sanitare publice, precum și pentru clădirile în care funcționează cabinete de medicină de familie, cu excepția încăperilor folosite pentru activități economice;"
+    }
+  ],
+  "definitions": []
+}

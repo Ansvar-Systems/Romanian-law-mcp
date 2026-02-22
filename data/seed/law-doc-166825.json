@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-166825",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 26 martie 2015",
+  "short_name": "lege 60 26 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-26",
+  "in_force_date": "2015-03-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166825",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 26/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se aprobă transmiterea unui teren situat în comuna Cuzdrioara, judeţul Cluj, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului şi din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naţionale de Căi Ferate \"CFR\" - S.A., în domeniul public al municipiului Dej şi în administrarea Consiliului Local al Municipiului Dej, judeţul Cluj, pentru investiţii de utilitate publică. (2) Contractul de concesiune încheiat între Ministerul Transporturilor şi Compania Naţională de Căi Ferate \"CFR\" - S.A. se va modifica în mod corespunzător, în condiţiile legii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Predarea-preluarea terenului transmis potrivit prevederilor art. 1 se face pe bază de protocol încheiat între părţile interesate, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Transporturilor va iniţia un proiect de hotărâre a Guvernului privind modificarea corespunzătoare a anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, publicată în Monitorul Oficial al României, Partea I, nr. 1.020 şi 1.020 bis din 21 decembrie 2006, cu modificările şi completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

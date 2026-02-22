@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-206649",
+  "type": "statute",
+  "title": "LEGE nr. 251 din 7 noiembrie 2018",
+  "short_name": "lege 251 07 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-07",
+  "in_force_date": "2018-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/206649",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 251 07/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 19 din Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere, publicată în Monitorul Oficial al României, Partea I, nr. 625 din 2 septembrie 2011, cu modificările și completările ulterioare, după litera m) se introduce o nouă literă, litera n), cu următorul cuprins: n) transportul necomercial al cailor de sport, al cailor de hipoterapie și al cailor de agrement."
+    }
+  ],
+  "definitions": []
+}

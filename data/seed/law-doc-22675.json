@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-22675",
+  "type": "statute",
+  "title": "LEGE nr. 524 din 9 septembrie 1940",
+  "short_name": "lege 524 09 09 1940",
+  "status": "in_force",
+  "issued_date": "1940-09-09",
+  "in_force_date": "1940-09-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22675",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 524 09/09/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Toate acţiunile şi titlurile nominative sau la purtător, obligaţiunile şi orice drepturi de creanta de orice natura, proprietatea directa sau indirecta a M. S. Regelui Carol II, sînt şi rămîn blocate, în orice mâini s-ar afla."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Emitentii, deţinătorii, depozitarii, etc., ai acestor titluri, precum şi cesionarii, mandantii sau reprezentanţii de orice natura ai proprietăţii acţiunilor, titlurilor acţiunilor şi obligaţiunilor prevăzute la art. 1 de mai sus, sînt obligaţi ca, în termen de 5 zile de la data promulgării prezentului decret, să depună aceste titluri sau să le declare, indicând locul depozitului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Declaraţiile se vor depune la primul preşedinte al Tribunalului Ilfov."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Emitentii, deţinătorii, depozitarii acestor titluri, mandantii, cesionarii sau reprezentanţii proprietăţii care nu se vor conformă acestor dispoziţii, sau care vor incerca înstrăinarea sau evaziunea acestor titluri, vor fi pedepsiţi cu închisoare corecţională de la 5-10 ani. -------"
+    }
+  ],
+  "definitions": []
+}

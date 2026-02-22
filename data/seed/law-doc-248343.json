@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-248343",
+  "type": "statute",
+  "title": "LEGE nr. 267 din 9 noiembrie 2021",
+  "short_name": "lege 267 09 11 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-09",
+  "in_force_date": "2021-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/248343",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 267 09/11/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După articolul 2 din Ordonanța de urgență a Guvernului nr. 41/2016 privind stabilirea unor măsuri de simplificare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 490 din 30 iunie 2016, aprobată cu modificări prin Legea nr. 179/2017 , se introduce un nou articol, articolul 2^1, cu următorul cuprins: Articolul 2^1 (1) Se interzice instituțiilor publice și organelor de specialitate ale administrației publice centrale să solicite persoanelor fizice sau persoanelor juridice, în vederea soluționării cererilor pentru furnizarea unui serviciu public, copii de pe avize sau alte documente care au fost emise de către instituții publice sau organe de specialitate ale administrației publice centrale. (2) Instituțiile publice și organele de specialitate ale administrației publice centrale solicită entităților care au emis documentele prevăzute la alin. (1), în format electronic, copii sau extrase ale acestora, în baza consimțământului expres al beneficiarului serviciului public, prevederile art. 2 alin. (2) și ale art. 4 aplicându-se în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgență a Guvernului nr. 41/2016 privind stabilirea unor măsuri de simplificare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 490 din 30 iunie 2016, aprobată cu modificări prin Legea nr. 179/2017 , cu completarea adusă prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Prezenta lege intră în vigoare la data de 1 ianuarie 2022."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-282464",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 30 aprilie 2024",
+  "short_name": "lege 125 30 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-30",
+  "in_force_date": "2024-04-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282464",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 30/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 5 din Legea nr. 370/2004 pentru alegerea Președintelui României, republicată în Monitorul Oficial al României, Partea I, nr. 650 din 12 septembrie 2011, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 5 (1) Ziua alegerilor este duminica. Alegerile au loc cu cel mult 3 luni anterioare lunii în care ajunge la termen mandatul de președinte. Cu cel puțin 75 de zile înaintea zilei votării, Guvernul stabilește data alegerilor prin hotărâre."
+    }
+  ],
+  "definitions": []
+}

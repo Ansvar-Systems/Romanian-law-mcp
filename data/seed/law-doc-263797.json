@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263797",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 9 ianuarie 2023",
+  "short_name": "lege 20 09 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-09",
+  "in_force_date": "2023-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263797",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 09/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 139 din 19 octombrie 2022 privind prelungirea mandatelor unor membri ai Comitetului de reglementare al Autorității Naționale de Reglementare în Domeniul Energiei, publicată în Monitorul Oficial al României, Partea I, nr. 1020 din 20 octombrie 2022."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-188097",
+  "type": "statute",
+  "title": "LEGE nr. 52 din 10 aprilie 2017",
+  "short_name": "lege 52 10 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-10",
+  "in_force_date": "2017-04-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188097",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 52 10/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 10 din Legea nr. 411/2004 privind fondurile de pensii administrate privat, republicată în Monitorul Oficial al României, Partea I, nr. 482 din 18 iulie 2007, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: Articolul 10 (1) Conţinutul contractului-cadru de societate prin care se constituie un fond de pensii se stabileşte prin normele adoptate de Autoritatea de Supraveghere Financiară. (2) Modificarea contractului de societate se poate realiza la propunerea administratorului sau a majorităţii participanţilor. (3) Prin derogare de la prevederile art. 1.910 alin. (3) din Legea nr. 287/2009 privind Codul civil, republicată , cu modificările ulterioare, hotărârile privind modificarea contractului de societate se adoptă cu acordul majorităţii participanţilor, dacă prin contract nu se stabileşte altfel. (4) Autoritatea de Supraveghere Financiară poate emite norme cu privire la procedura de modificare a contractului de societate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 44 din Legea nr. 204/2006 privind pensiile facultative, publicată în Monitorul Oficial al României, Partea I, nr. 470 din 31 mai 2006, cu modificările şi completările ulterioare, după alineatul (2) se introduc trei noi alineate, alineatele (2^1)-(2^3), cu următorul cuprins: (2^1) Modificarea contractului de societate se poate realiza la propunerea administratorului sau a majorităţii participanţilor. (2^2) Prin derogare de la prevederile art. 1.910 alin. (3) din Legea nr. 287/2009 privind Codul civil, republicată , cu modificările ulterioare, hotărârile privind modificarea contractului de societate se adoptă cu acordul majorităţii participanţilor, dacă prin contract nu se stabileşte altfel. (2^3) Autoritatea de Supraveghere Financiară poate emite norme cu privire la procedura de modificare a contractului de societate."
+    }
+  ],
+  "definitions": []
+}

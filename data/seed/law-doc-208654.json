@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208654",
+  "type": "statute",
+  "title": "LEGE nr. 303 din 11 decembrie 2018",
+  "short_name": "lege 303 11 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-11",
+  "in_force_date": "2018-12-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208654",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 303 11/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 66 din 17 iulie 2018 pentru modificarea art. 1 alin. (4) din Ordonanța de urgență a Guvernului nr. 82/2011 privind unele măsuri de organizare a activității de îmbunătățiri funciare, publicată în Monitorul Oficial al României, Partea I, nr. 616 din 18 iulie 2018."
+    }
+  ],
+  "definitions": []
+}

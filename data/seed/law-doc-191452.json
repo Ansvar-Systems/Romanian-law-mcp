@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-191452",
+  "type": "statute",
+  "title": "LEGE nr. 182 din 18 iulie 2017",
+  "short_name": "lege 182 18 07 2017",
+  "status": "in_force",
+  "issued_date": "2017-07-18",
+  "in_force_date": "2017-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/191452",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 182 18/07/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 27 din 30 martie 2017 pentru adoptarea unor măsuri fiscal-bugetare, publicată în Monitorul Oficial al României, Partea I, nr. 228 din 3 aprilie 2017."
+    }
+  ],
+  "definitions": []
+}

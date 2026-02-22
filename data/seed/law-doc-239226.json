@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239226",
+  "type": "statute",
+  "title": "LEGE nr. 28 din 15 martie 2021",
+  "short_name": "lege 28 15 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-15",
+  "in_force_date": "2021-03-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239226",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 28 15/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 84 din 21 mai 2020 pentru stabilirea unor măsuri necesare în vederea implementării Programului operațional Ajutorarea persoanelor defavorizate - POAD, publicată în Monitorul Oficial al României, Partea I, nr. 453 din 29 mai 2020, cu modificările și completările ulterioare, cu următoarea modificare: – La articolul 3 alineatul (1), literele a) și b) vor avea următorul cuprins: a) membrii familiilor și persoanele singure cărora le este stabilit, prin dispoziție scrisă a primarului, dreptul la un venit minim garantat acordat în baza Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare; b) membrii familiilor beneficiare de alocație pentru susținerea familiei acordată în baza Legii nr. 277/2010 privind alocația pentru susținerea familiei, republicată, cu modificările și completările ulterioare;"
+    }
+  ],
+  "definitions": []
+}

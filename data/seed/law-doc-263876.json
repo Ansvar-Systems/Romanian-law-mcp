@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-263876",
+  "type": "statute",
+  "title": "LEGE nr. 32 din 11 ianuarie 2023",
+  "short_name": "lege 32 11 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-11",
+  "in_force_date": "2023-01-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263876",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 11/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 14 din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată în Monitorul Oficial al României, Partea I, nr. 440 din 24 mai 2018, cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) cel condamnat prin hotărâre judecătorească definitivă la pedeapsa închisorii de un an sau mai mare pentru săvârșirea cu intenție a unei infracțiuni, infracțiune pedepsită cu pedeapsa închisorii având un minim special de cel puțin un an și reprezentând infracțiune contra vieții, infracțiune contra patrimoniului, infracțiune contra înfăptuirii justiției, infracțiune de corupție sau de serviciu, infracțiune de fals, infracțiune care aduce atingere unor relații privind conviețuirea socială, infracțiune contra securității naționale sau o infracțiune de genocid, contra umanității și de război, dacă până la data verificării stării de nedemnitate nu a intervenit reabilitarea, amnistia postcondamnatorie sau dezincriminarea faptei;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată în Monitorul Oficial al României, Partea I, nr. 440 din 24 mai 2018, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

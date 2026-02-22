@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-93569",
+  "type": "statute",
+  "title": "LEGE nr. 120 din 27 mai 2008",
+  "short_name": "lege 120 27 05 2008",
+  "status": "in_force",
+  "issued_date": "2008-05-27",
+  "in_force_date": "2008-05-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/93569",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 120 27/05/2008",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 152 din 19 decembrie 2007 pentru completarea Legii nr. 8/2006 privind instituirea indemnizației pentru pensionarii sistemului public de pensii, membri ai uniunilor de creatori legal constituite și recunoscute ca persoane juridice de utilitate publică, publicată în Monitorul Oficial al României, Partea I, nr. 883 din 21 decembrie 2007, cu următoarea modificare: – La articolul unic, alineatul (2^1) al articolului 1 se modifică și va avea următorul cuprins: (2^1) Cuantumul indemnizației se modifică ori de câte ori se modifică pensia titularului, ca urmare a modificării valorii punctului de pensie."
+    }
+  ],
+  "definitions": []
+}

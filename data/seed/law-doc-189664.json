@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-189664",
+  "type": "statute",
+  "title": "LEGE nr. 127 din 30 mai 2017",
+  "short_name": "lege 127 30 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-30",
+  "in_force_date": "2017-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189664",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 127 30/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 14 mai Ziua naţională de cinstire a martirilor din temniţele comuniste."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sărbătorirea anuală a zilei prevăzute la art. 1 poate fi marcată de autorităţile administraţiei publice centrale şi locale, precum şi de instituţiile publice de cultură din ţară prin organizarea de comemorări oficiale, depuneri de coroane şi alte manifestări menite să cinstească memoria acestor martiri, în limita alocaţiilor bugetare aprobate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În ziua de 14 mai, Societatea Română de Televiziune, Societatea Română de Radiodifuziune şi Agenţia Naţională de Presă AGERPRES vor difuza, cu prioritate, emisiuni şi materiale informative despre evenimentele petrecute în perioada prigoanei comuniste, în ziua de 14 mai 1948."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169051",
+  "type": "statute",
+  "title": "LEGE nr. 158 din 22 iunie 2015",
+  "short_name": "lege 158 22 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-22",
+  "in_force_date": "2015-06-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169051",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 158 22/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 26 din 28 august 2014 pentru modificarea alin. (3) al art. 26 din Regulamentul privind transportul pe căile ferate din România, aprobat prin Ordonanţa Guvernului nr. 7/2005 , adoptată în temeiul art. 1 pct. IX.2 din Legea nr. 119/2014 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 632 din 29 august 2014."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209372",
+  "type": "statute",
+  "title": "LEGE nr. 320 din 20 decembrie 2018",
+  "short_name": "lege 320 20 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-20",
+  "in_force_date": "2018-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209372",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 320 20/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 1 din Legea nr. 443/2002 privind înființarea Universității „Spiru Haret“ din București, publicată în Monitorul Oficial al României, Partea I, nr. 491 din 9 iulie 2002, se modifică și va avea următorul cuprins: Articolul 1 Se înființează Universitatea «Spiru Haret» din București ca instituție de învățământ superior, persoană juridică de drept privat și de utilitate publică, parte a sistemului național de învățământ, cu sediul în municipiul București, clădirea Fundației România de Mâine, str. Ion Ghica nr. 13, sectorul 3."
+    }
+  ],
+  "definitions": []
+}

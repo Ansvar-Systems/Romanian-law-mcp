@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-51346",
+  "type": "statute",
+  "title": "LEGE nr. 126 din 19 aprilie 2004",
+  "short_name": "lege 126 19 04 2004",
+  "status": "in_force",
+  "issued_date": "2004-04-19",
+  "in_force_date": "2004-04-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/51346",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 126 19/04/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 24 din 29 ianuarie 2004 pentru modificarea și completarea Ordonanței Guvernului nr. 69/2002 privind regimul juridic al cărții electronice de identitate, adoptată în temeiul art. 1 pct. IV.7 din Legea nr. 559/2003 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 88 din 31 ianuarie 2004, cu următoarea modificare: – Articolul II va avea următorul cuprins: Articolul II În termen de 120 de zile de la data intrării în vigoare a legii de aprobare a prezentei ordonanțe, Guvernul va adopta, prin hotărâre, normele metodologice privind aplicarea prevederilor Ordonanței Guvernului nr. 69/2002 privind regimul juridic al cărții electronice de identitate, precum și forma și conținutul cărții electronice de identitate."
+    }
+  ],
+  "definitions": []
+}

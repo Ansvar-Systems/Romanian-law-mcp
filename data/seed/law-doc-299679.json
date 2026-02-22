@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299679",
+  "type": "statute",
+  "title": "LEGE nr. 126 din 7 iulie 2025",
+  "short_name": "lege 126 07 07 2025",
+  "status": "in_force",
+  "issued_date": "2025-07-07",
+  "in_force_date": "2025-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299679",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 126 07/07/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 59 din 3 iulie 2019 pentru modificarea art. 35 din Legea nr. 269/2003 privind Statutul Corpului diplomatic și consular al României, publicată în Monitorul Oficial al României, Partea I, nr. 553 din 5 iulie 2019."
+    }
+  ],
+  "definitions": []
+}

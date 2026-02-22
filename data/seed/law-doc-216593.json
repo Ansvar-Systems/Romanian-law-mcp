@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-216593",
+  "type": "statute",
+  "title": "LEGE nr. 150 din 24 iulie 2019",
+  "short_name": "lege 150 24 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-24",
+  "in_force_date": "2019-07-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216593",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 150 24/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 1 din Legea drepturilor pacientului nr. 46/2003 , publicată în Monitorul Oficial al României, Partea I, nr. 51 din 29 ianuarie 2003, cu modificările și completările ulterioare, după litera e) se introduce o nouă literă, litera f), cu următorul cuprins: f) prin reprezentant legal se înțelege soțul/soția, copiii, părinții sau celelalte rude până la gradul al IV-lea ale pacientului, tutorele, precum și orice persoană cu vârsta de minimum 18 ani împliniți pe care pacientul o desemnează în acest scop prin declarație încheiată în formă autentică, care se înregistrează în Registrul național notarial de evidență a procurilor și revocărilor acestora și care va cuprinde drepturile prevăzute de lege ce pot fi exercitate de reprezentant."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se introduce o nouă literă, litera f), cu următorul cuprins",
+      "definition": "f) prin reprezentant legal se înțelege soțul/soția, copiii, părinții sau celelalte rude până la gradul al IV-lea ale pacientului, tutorele, precum și orice persoană cu vârsta de minimum 18 ani împliniți pe care pacientul o desemnează în acest scop prin declarație încheiată în formă autentică, care se înregistrează în Registrul național notarial de evidență a procurilor și revocărilor acestora și care va cuprinde drepturile prevăzute de lege ce pot fi exercitate de reprezentant.",
+      "source_provision": "Art.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-180226",
+  "type": "statute",
+  "title": "LEGE nr. 153 din 13 iulie 2016",
+  "short_name": "lege 153 13 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-13",
+  "in_force_date": "2016-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180226",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 153 13/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 3 din 24 februarie 2016 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului, publicată în Monitorul Oficial al României, Partea I, nr. 144 din 25 februarie 2016."
+    }
+  ],
+  "definitions": []
+}

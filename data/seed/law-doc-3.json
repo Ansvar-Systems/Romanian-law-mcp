@@ -1,0 +1,419 @@
+{
+  "id": "law-doc-3",
+  "type": "statute",
+  "title": "LEGE din 2 mai 1879",
+  "short_name": "lege 02 05 1879",
+  "status": "in_force",
+  "issued_date": "1879-05-02",
+  "in_force_date": "1879-05-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/3",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 02/05/1879",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "asupra responsabilităţii ministeriale"
+    },
+    {
+      "provision_ref": "Par.1-2",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "1. Toate dispoziţiunile legilor penale ordinare, relative la infracţiunile comise, atît de funcţionarii publici în exerciţiul funcţiunilor lor cat şi de particulari, se aplică şi ministrilor."
+    },
+    {
+      "provision_ref": "Par.2",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "2. Afară de cazurile care intră în prevederile art. 1 se va pedepsi cu detenţiunea prevăzută la codicele penal şi cu interdictiunea, de la 3 ani pînă la maximum toată viaţa, de a ocupa funcţiuni publice, ministrul:"
+    },
+    {
+      "provision_ref": "Par.3",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "3. Se va pedepsi cu interdictiunea, de la 3 ani pînă la maximum toată viaţa de a mai ocupa funcţiuni publice, ministrul:"
+    },
+    {
+      "provision_ref": "Par.4",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "4. Ministrul care, cu rea credinţa va fi cauzat o dăuna statului, sau îl va fi expus la daune către particulari, va fi răspunzător civil către stat, şi se va judeca conform dreptului comun, fiind în acest caz, autorizarea Corpurilor Legiuitoare necesară."
+    },
+    {
+      "provision_ref": "Par.5",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "5. Miniştrii sînt responsabili pentru cazurile prevăzute în articolele de mai sus, de la depunerea jurămîntului pînă la încetarea lor de fapt din funcţiune."
+    },
+    {
+      "provision_ref": "Par.6",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "6. Membrii unui cabinet sînt solidar răspunzători înaintea dispoziţiunilor penale, ale acestei legi, atît pentru faptele săvîrşite în comun, cat şi pentru acelea cărora le-au dat o sustinere intenţionată."
+    },
+    {
+      "provision_ref": "Par.7",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "7",
+      "title": "Paragraful 7",
+      "content": "7. Este complice al ministrului dat în judecata, şi se pedepseşte conform principiilor statornicite pentru complicitate în codicele penal, funcţionarul care va fi executat ordinele sau orice dispoziţiuni al căror obiect nu era de rezortul ministrului, sau a cărora ilegalitate era evidenta."
+    },
+    {
+      "provision_ref": "Par.8",
+      "chapter": "Capitolul 1 - Responsabilitatea",
+      "section": "8",
+      "title": "Paragraful 8",
+      "content": "8. Judecătorii pot aplica în aceasta materie beneficiul circumstanţelor atenuante, conform dreptului comun."
+    },
+    {
+      "provision_ref": "Par.9",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "9",
+      "title": "Paragraful 9",
+      "content": "9. Crimele şi delictele comise de un ministru, afară de exerciţiul funcţiunilor sale, se trimit la instanţele ordinare."
+    },
+    {
+      "provision_ref": "Par.10",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "10",
+      "title": "Paragraful 10",
+      "content": "10. Nici instrucţiunea, nici urmărirea nu se pot începe, fără autoritatea Camerei sau a Senatului după cum ministrul, a cărui urmărire se cere, face parte din unul sau celălalt din aceste Corpuri. În caz de a nu fi nici deputat, nici senator, partea care porunceste urmărirea, adresează după alegerea sa, cererea de autorizare a Camerei sau a Senatului."
+    },
+    {
+      "provision_ref": "Par.11",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "11",
+      "title": "Paragraful 11",
+      "content": "11. Camera sau Senatul pot totdeauna sa ordone din oficiu, urmărirea pentru crimele sau delictele comise de un ministru afară din exerciţiul funcţiunilor sale, trimitandu-l tot la instanţele ordinare."
+    },
+    {
+      "provision_ref": "Par.12",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "12",
+      "title": "Paragraful 12",
+      "content": "12. Autorizarea de urmărire se da de Corpurile Legiuitoare respective cu majoritatea de 2 treimi."
+    },
+    {
+      "provision_ref": "Par.13",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "13",
+      "title": "Paragraful 13",
+      "content": "13. Contraventiunile comise de miniştri se judeca de tribunal, şi în formele ordinare ca şi delictele însă fără prealabilă autorizare a unui Corp Legiuitor."
+    },
+    {
+      "provision_ref": "Par.14",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "14",
+      "title": "Paragraful 14",
+      "content": "14. Miniştrii nu se pot da în judecata pentru infracţiunile comise în exerciţiul funcţiunilor lor, de cat de către Corpurile Legiuitoare, împreună sau în parte, sau de către Domn."
+    },
+    {
+      "provision_ref": "Par.16",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "16",
+      "title": "Paragraful 16",
+      "content": "Propunerea de darea în judecata trebuie să se facă în scris şi subsemnat în Camera de 20 deputaţi şi în Senat de 10 senatori; ea va trebui sa precizeze infracţiunile pe care se întemeiază."
+    },
+    {
+      "provision_ref": "Par.15",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "15",
+      "title": "Paragraful 15",
+      "content": "15. Preşedintele Camerei sau al Senatului, pune propunerea la ordinea zilei, peste 5 zile de la prezentarea ei. În caz de flagrant delict, o pune imediat în dezbatere. Afară de acest caz, discutiunea se margineste asupra chestiunii, dacă Corpul Legiuitor trece la ordinea zilei, sau trimite propunerea în studiul unei comisiuni de informaţiuni prealabile."
+    },
+    {
+      "provision_ref": "Par.18",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "18",
+      "title": "Paragraful 18",
+      "content": "Dacă ministrul este prezent la şedinţa, fie ca ministru în funcţiune, fie ca deputat ori senator, el este ascultat."
+    },
+    {
+      "provision_ref": "Par.19",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "19",
+      "title": "Paragraful 19",
+      "content": "Pentru trimiterea la comisiunea de informaţiuni, se cere un vot cu majoritatea absolută."
+    },
+    {
+      "provision_ref": "Par.16-20",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "16",
+      "title": "Paragraful 16",
+      "content": "16. În caz de flagrant delict de crima, de o dată cu trimiterea propunerii la comisiunea de informaţiuni prealabile, Corpul Legiuitor poate să voteze cu 2 treimi şi arestarea preventivă a ministrului."
+    },
+    {
+      "provision_ref": "Par.17",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "17",
+      "title": "Paragraful 17",
+      "content": "17. Comisiunea de informaţiuni prealabile este compusa din 7 membri, care nu trebuie să fie dintre aceia ce au subscris propunerea de dare în judecata; ea se alege prin vot secret şi procede imediat la constatarea faptelor articulate de propunere, la orice alte informaţiuni prealabile poate să adauge noi fapte la cele denuntate, asculta pe ministru, dacă el cere să fie ascultat, şi 10 zile de la alegerea sa, trebuie să-şi prezinte raportul."
+    },
+    {
+      "provision_ref": "Par.22",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "22",
+      "title": "Paragraful 22",
+      "content": "Corpul Legiuitor poate să prelungească acest termen după cererea comisiunii. Subscritorii propunerii de dare în judecata au dreptul sa asiste la lucrările comisiunii de informaţiuni."
+    },
+    {
+      "provision_ref": "Par.18-23",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "18",
+      "title": "Paragraful 18",
+      "content": "18. Raportul se comunică ministrului o dată cu depunerea lui pe biroul Corpului Legiuitor. Cinci zile după aceasta, darea în judecata se pune în dezbatere, şi dacă Corpul Legiuitor o admite cu două treimi, alege imediat un comitet de instrucţiune."
+    },
+    {
+      "provision_ref": "Par.24",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "24",
+      "title": "Paragraful 24",
+      "content": "Înainte de exprimarea votului ministrul are dreptul de a-şi prezintă apărarea orala sau în scris dinaintea Corpului Legiuitor care l-a dat în judecata, chiar dacă n-ar mai fi în funcţiune şi n-ar face parte din vreunul din Corpurile Legiuitoare."
+    },
+    {
+      "provision_ref": "Par.19-25",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "19",
+      "title": "Paragraful 19",
+      "content": "19. Dacă mai mulţi miniştri se pun de odată în acuzare, se cere un vot separat pentru fiecare."
+    },
+    {
+      "provision_ref": "Par.20",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "20",
+      "title": "Paragraful 20",
+      "content": "20. De odată cu admiterea dării în judecata ministrul este suspendat din orice funcţiune publică şi din mandatul de deputat sau senator."
+    },
+    {
+      "provision_ref": "Par.21",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "21",
+      "title": "Paragraful 21",
+      "content": "21. Darea în judecata se face cunoscută de biroul Corpului Legiuitor care a rostit-o, celuilalt Corp Legiuitor, Domnului şi Curţii de Casatiune."
+    },
+    {
+      "provision_ref": "Par.22-28",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "22",
+      "title": "Paragraful 22",
+      "content": "22. Corpul Legiuitor statorniceste numărul de membri din care are a se compune comitetul de instrucţiune, care, în nici un caz nu va avea mai puţin de 7 membri."
+    },
+    {
+      "provision_ref": "Par.29",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "29",
+      "title": "Paragraful 29",
+      "content": "Comitetul alege din sanul sau un preşedinte şi doi secretari."
+    },
+    {
+      "provision_ref": "Par.30",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "30",
+      "title": "Paragraful 30",
+      "content": "El îşi face regulamentul despre modul în care îşi va exercita atribuţiunile."
+    },
+    {
+      "provision_ref": "Par.23",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "23",
+      "title": "Paragraful 23",
+      "content": "23. Puterile acestui comitet se continua, de plin drept, din sesiune în sesiune, din legislatura, în legislatura, fără privire la prorogatiune sau disolutiune, în tot timpul duratei instrucţiunii."
+    },
+    {
+      "provision_ref": "Par.32",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "32",
+      "title": "Paragraful 32",
+      "content": "În caz de dizolutiune, acest comitet este investit de drept şi cu atribuţiunile comitetului de acuzatiune."
+    },
+    {
+      "provision_ref": "Par.24-33",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "24",
+      "title": "Paragraful 24",
+      "content": "24. Membrii Corpului Legiuitor, care au rostit darea în judecata,"
+    },
+    {
+      "provision_ref": "Par.34",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "34",
+      "title": "Paragraful 34",
+      "content": "au drept sa asiste la lucrările comitetului de instrucţiuni."
+    },
+    {
+      "provision_ref": "Par.25",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "25",
+      "title": "Paragraful 25",
+      "content": "25. Toate puterile acordate judilor instructori şi preşedinţilor Curţilor de juraţi de către codicele de procedura criminală, afară de dreptul de a decreta arestarea preventivă, aparţin comitetului de instrucţiune şi preşedintelui sau."
+    },
+    {
+      "provision_ref": "Par.26",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "26",
+      "title": "Paragraful 26",
+      "content": "26. În orice caz, fie acuzatiunea calificată crima sau delict, apărarea va fi în drept sa invoce probele de orice natura, fără nevoie de inscriptiune în fals, în contra proceselor verbale."
+    },
+    {
+      "provision_ref": "Par.27",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "27",
+      "title": "Paragraful 27",
+      "content": "27. Martorii experţi şi oricare alte persoane, al cărora concurs ar putea să fie cerut în materie criminală, sînt supuşi înaintea comitetului de instrucţiune aceloraşi obligaţiuni ca înaintea judecătorilor instructori şi Curţilor de juraţi, şi pasibili de aceleaşi pedepse, în caz de infracţiune sau de refuz."
+    },
+    {
+      "provision_ref": "Par.38",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "38",
+      "title": "Paragraful 38",
+      "content": "Funcţionarii chemaţi a depune sînt scutiţi, cu aceasta ocaziune, de secretul oficial."
+    },
+    {
+      "provision_ref": "Par.28",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "28",
+      "title": "Paragraful 28",
+      "content": "28. Ofensa în contra membrilor comitetului de instrucţiune, şi coruperea de martori sînt pedepsite conform dispoziţiunilor Capitolului IV, secţiunea II şi VIII, din codicele penal."
+    },
+    {
+      "provision_ref": "Par.40",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "40",
+      "title": "Paragraful 40",
+      "content": "Pedepsele statornicite sînt aplicate de tribunalele ordinare, cărora comitetul le va trimite procesele sale verbale constatând delictele."
+    },
+    {
+      "provision_ref": "Par.29-41",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "29",
+      "title": "Paragraful 29",
+      "content": "29. Comitetul de instrucţiune va fi dator a depune pe biroul Corpurilor Legiuitoare rezultatul lucrărilor sale, în cursul sesiunii în care s-a rostit darea în judecata afară de întârzieri justificate, pentru care Corpul Legiuitor va putea acorda prelungiri pînă la o alta sesiune."
+    },
+    {
+      "provision_ref": "Par.30-42",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "30",
+      "title": "Paragraful 30",
+      "content": "30. Lucrarea comitetului de instrucţiune se va prezintă Corpului Legiuitor. Dacă concluziunile comitetului de instrucţiune menţin acuzatiunea, nu se urmează discutiunea, şi nu se cere un nou vot, acuzatiunea este menţinută deplin drept."
+    },
+    {
+      "provision_ref": "Par.43",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "43",
+      "title": "Paragraful 43",
+      "content": "Dacă concluziunile vor fi favorabile acuzatului, sau, dacă în cursul dezbaterilor asupra-le, s-ar propune vreun amendament, în favoarea lui, atît concluziunile favorabile, cat şi amendamentul, nu se vor admite, de cat dacă vor întruni majoritatea de 2 treimi."
+    },
+    {
+      "provision_ref": "Par.44",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "44",
+      "title": "Paragraful 44",
+      "content": "La caz ca Corpul Legiuitor, care a votat darea în judecata, să se fi dizolvat mai înainte ca comitetul de instrucţiune să-şi fi terminat lucrarea, acest comitet şi va îndeplini însărcinarea, fără să aibă dreptul de a scoate el însuşi pe vreun prevenit de sub acuzatiune; apoi nu va mai prezenta lucrarea sa noii Camere, ci va merge dea dreptul sa susţină acuzatiunea înaintea curţii de casatiune, în conformitate cu art. 23 de mai sus."
+    },
+    {
+      "provision_ref": "Par.31",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "31",
+      "title": "Paragraful 31",
+      "content": "31. Aceeaşi Camera sau acelaşi Senat, care a dat în judecata un ministru, poate, înainte de înfăţişarea procesului, sa-l scoată de sub acuzare, printr-un vot dat cu două treimi asupra unei propuneri motivate, prezentată de comitetul de acuzare, de 20 deputaţi sau de 10 senatori."
+    },
+    {
+      "provision_ref": "Par.32-46",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "32",
+      "title": "Paragraful 32",
+      "content": "32. În caz de a fi înlocuit prin facere de noi alegeri, Corpul Legiuitor care a votat darea în judecata, cererea de a se scoate ministrul de sub acuzare nu se poate discuta de noul Corp Legiuitor, decât numai după propunerea comitetului de instrucţiune şi nu se poate admite decât cu două treimi."
+    },
+    {
+      "provision_ref": "Par.33",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "33",
+      "title": "Paragraful 33",
+      "content": "33. Mandatul comitetului de instrucţiune, odată terminat în modul prevăzut mai sus, Corpul Legiuitor alege un comitet de acuzare, care va inainta şi susţine acuzatiunea înaintea Înaltei Curţi de Casatiune."
+    },
+    {
+      "provision_ref": "Par.34-48",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "34",
+      "title": "Paragraful 34",
+      "content": "34. Ministrul pus sub acuzare are dreptul de a-şi lua copie după actele instrucţiunii."
+    },
+    {
+      "provision_ref": "Par.49",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "49",
+      "title": "Paragraful 49",
+      "content": "Asemenea şi comitetul de acuzare are dreptul de a cere prevenitului comunicare după actele ce au a-i servi la apărare. La caz de refuz din parte-i, şi de a prezintă acele acte numai înaintea Curţii de casatiune, comitetul de acuzare este în drept a cere curţii o amânare spre a face un supliment de instrucţiune, pe care o va face el însuşi. Curtea nu poate să refuze în acest caz amânarea."
+    },
+    {
+      "provision_ref": "Par.35",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "35",
+      "title": "Paragraful 35",
+      "content": "35. Înaltă Curte de Casatiune şi de justiţie judeca în secţiuni unite, numărul membrilor fiind totdeauna cu soţ; paritatea de voturi apara pe acuzat."
+    },
+    {
+      "provision_ref": "Par.36",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "36",
+      "title": "Paragraful 36",
+      "content": "36. Procedura înaintea Înaltei Curţi de Casatiune este stabilită de însăşi Curtea, observând dispoziţiunile procedurii penale, întrucât şi acestea nu ar fi contrarii dispoziţiunilor legii de faţa."
+    },
+    {
+      "provision_ref": "Par.37",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "37",
+      "title": "Paragraful 37",
+      "content": "37. Guvernul, precum şi orice parte lezata, se poate constitui parte civilă la Curtea de Casatiune, în tot cursul procesului pornit de Domn sau de Corpurile Legiuitoare; după pronunţarea nu va mai putea intenta acţiune decât la tribunalele ordinare."
+    },
+    {
+      "provision_ref": "Par.38-53",
+      "chapter": "Capitolul 2 - Procedura.",
+      "section": "38",
+      "title": "Paragraful 38",
+      "content": "38. Instrucţiunea complicilor ministrului se va putea delega, de comitetul de instrucţiune magistraţilor instructori ordinari. Complicii sînt judecati de Înaltă Curte de Casatiune şi de justiţie, de odată cu autorul principal."
+    },
+    {
+      "provision_ref": "Par.39",
+      "chapter": "Capitolul 3 - Despre prescripţiune.",
+      "section": "39",
+      "title": "Paragraful 39",
+      "content": "39. Prescripţiunea pentru crimele, delictele sau contraventiunile de drept comun comise de miniştri este conform dreptului comun."
+    },
+    {
+      "provision_ref": "Par.55",
+      "chapter": "Capitolul 3 - Despre prescripţiune.",
+      "section": "55",
+      "title": "Paragraful 55",
+      "content": "Pentru delictele speciale, prevăzute de această lege, prescripţiunea va fi de 5 ani."
+    },
+    {
+      "provision_ref": "Par.56",
+      "chapter": "Capitolul 3 - Despre prescripţiune.",
+      "section": "56",
+      "title": "Paragraful 56",
+      "content": "În ambele aceste cazuri prescripţiunea va curge de la data încetării de fapt din funcţiune."
+    },
+    {
+      "provision_ref": "Par.40-57",
+      "chapter": "Capitolul 3 - Despre prescripţiune.",
+      "section": "40",
+      "title": "Paragraful 40",
+      "content": "40. Dispoziţiunile dreptului comun, în ceea ce priveşte prescripţiunea, se aplică şi acţiunii civile în contra ministrilor."
+    },
+    {
+      "provision_ref": "Par.58",
+      "chapter": "Capitolul 3 - Despre prescripţiune.",
+      "section": "58",
+      "title": "Paragraful 58",
+      "content": "-------------------"
+    }
+  ],
+  "definitions": []
+}

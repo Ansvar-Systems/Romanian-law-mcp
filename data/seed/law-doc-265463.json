@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-265463",
+  "type": "statute",
+  "title": "LEGE nr. 48 din 2 martie 2023",
+  "short_name": "lege 48 02 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-02",
+  "in_force_date": "2023-03-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265463",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 48 02/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 45 din 14 aprilie 2022 privind unele măsuri pentru diminuarea arieratelor bugetare ale unor operatori economici din industria națională de apărare, publicată în Monitorul Oficial al României, Partea I, nr. 373 din 14 aprilie 2022."
+    }
+  ],
+  "definitions": []
+}

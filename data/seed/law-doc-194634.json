@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-194634",
+  "type": "statute",
+  "title": "LEGE nr. 213 din 10 noiembrie 2017",
+  "short_name": "lege 213 10 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-10",
+  "in_force_date": "2017-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/194634",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 213 10/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 61 din 4 august 2017 pentru aprobarea unor măsuri privind mandatarea Ministerului Energiei pentru transferul unor pachete de acțiuni deținute de către statul român la societățile producătoare de agent termic la unitățile administrației publice locale în vederea înființării și organizării serviciului public de alimentare cu energie termică în sistem centralizat, publicată în Monitorul Oficial al României, Partea I, nr. 648 din 7 august 2017, cu următoarea modificare: – La articolul 1 alineatul (2), litera b) se modifică și va avea următorul cuprins: b) pot solicita transferul pachetelor de acțiuni unitățile administrației publice locale pentru care nu a fost deschisă procedura de insolvență în condițiile legii;"
+    }
+  ],
+  "definitions": []
+}

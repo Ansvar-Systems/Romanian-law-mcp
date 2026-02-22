@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275978",
+  "type": "statute",
+  "title": "LEGE nr. 303 din 2 noiembrie 2023",
+  "short_name": "lege 303 02 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-02",
+  "in_force_date": "2023-11-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275978",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 303 02/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 175 din 14 decembrie 2022 pentru stabilirea unor măsuri privind obiectivele de investiții pentru realizarea de amenajări hidroenergetice în curs de execuție, precum și a altor proiecte de interes public major care utilizează energie regenerabilă, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 1203 din 14 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

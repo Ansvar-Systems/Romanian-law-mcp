@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-213341",
+  "type": "statute",
+  "title": "LEGE nr. 85 din 25 aprilie 2019",
+  "short_name": "lege 85 25 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-25",
+  "in_force_date": "2019-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213341",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 85 25/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatele (5) și (6) ale articolului 6^6 din Ordonanța Guvernului nr. 42/2004 privind organizarea activității sanitar-veterinare și pentru siguranța alimentelor, publicată în Monitorul Oficial al României, Partea I, nr. 94 din 31 ianuarie 2004, aprobată cu modificări și completări prin Legea nr. 215/2004 , cu modificările și completările ulterioare, se abrogă."
+    }
+  ],
+  "definitions": []
+}

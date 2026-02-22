@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283738",
+  "type": "statute",
+  "title": "LEGE nr. 177 din 3 iunie 2024",
+  "short_name": "lege 177 03 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-03",
+  "in_force_date": "2024-06-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283738",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 177 03/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 11 din 31 ianuarie 2022 pentru modificarea și completarea unor acte normative, precum și pentru modificarea unor termene, adoptată în temeiul art. 1 pct. I.3 și 4 și pct. XII din Legea nr. 311/2021 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 97 din 31 ianuarie 2022."
+    }
+  ],
+  "definitions": []
+}

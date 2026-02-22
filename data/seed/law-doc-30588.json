@@ -1,0 +1,62 @@
+{
+  "id": "law-doc-30588",
+  "type": "statute",
+  "title": "LEGE nr. 4.321 din 15 decembrie 1938",
+  "short_name": "lege 4321 15 12 1938",
+  "status": "in_force",
+  "issued_date": "1938-12-15",
+  "in_force_date": "1938-12-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30588",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4321 15/12/1938",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se înfiinţează, pe ziua promulgării legii de faţa, ca unica organizaţie politica în Stat, \"Frontul Renasterii Naţionale\"."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Aceasta organizaţie politica are de scop mobilizarea conştiinţei naţionale în vederea întreprinderii unei acţiuni solidare şi unitare româneşti de apărare şi propasire a Patriei şi de consolidare a Statului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Autorizarea de funcţionare a \"Frontului Renasterii Naţionale\", se acordă de ministrul justiţiei, la cererea scrisă a unui număr de 25 persoane, dintre care cel puţin 20 trebuie să aibă calitatea de actuali sau fosti miniştri şi subsecretari de Stat."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Consilierii Regali sînt membrii de drept ai \"Frontului Renasterii Naţionale\"."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Toţi românii care au împlinit 21 ani, cu excepţia militarilor activi şi a membrilor ordinului judecătoresc, au dreptul sa ceara înscrierea în \"Frontul Renasterii Naţionale\", supunându-se condiţiunilor de funcţionare şi de disciplina stabilite prin regulamentul prezentei legi."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "\"Frontul Renasterii Naţionale\" are, singur, dreptul de a fixa şi depune candidaturile pentru alegerile parlamentare, administrative şi profesionale."
+    },
+    {
+      "provision_ref": "Art.7",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Orice alta activitate politica decât aceea a \"Frontului Renasterii Naţionale\", va fi socotită clandestina, iar autorii ei pedepsiţi cu degradarea civică pe termen de 2 pînă la 5 ani."
+    },
+    {
+      "provision_ref": "Art.8",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Un regulament special, făcînd parte integrantă din prezenta lege, va determina condiţiunile de organizare şi funcţionare a \"Frontului Renasterii Naţionale\". ---------------"
+    }
+  ],
+  "definitions": []
+}

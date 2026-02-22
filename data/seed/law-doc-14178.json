@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-14178",
+  "type": "statute",
+  "title": "LEGE nr. 42 din 16 februarie 1998",
+  "short_name": "lege 42 16 02 1998",
+  "status": "in_force",
+  "issued_date": "1998-02-16",
+  "in_force_date": "1998-02-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/14178",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 42 16/02/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 74 din 8 noiembrie 1997 privind unele măsuri pentru asigurarea stocurilor de păcură și combustibil lichid ușor pentru iarna 1997-1998, publicată în Monitorul Oficial al României, Partea I, nr. 311 din 14 noiembrie 1997."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227607",
+  "type": "statute",
+  "title": "LEGE nr. 104 din 3 iulie 2020",
+  "short_name": "lege 104 03 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-03",
+  "in_force_date": "2020-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227607",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 104 03/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 60 punctul 1 din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, după litera d) se introduce o nouă literă, litera e), cu următorul cuprins: e) transmiterea dreptului de proprietate și a dezmembrămintelor acestuia cu titlul de moștenire, prevăzute la art. 111 , indiferent de momentul dezbaterii succesiunii;"
+    }
+  ],
+  "definitions": []
+}

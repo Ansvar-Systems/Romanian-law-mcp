@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263744",
+  "type": "statute",
+  "title": "LEGE nr. 13 din 6 ianuarie 2023",
+  "short_name": "lege 13 06 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-06",
+  "in_force_date": "2023-01-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263744",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 13 06/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 135 din 5 octombrie 2022 pentru aprobarea Acordului privind garanția reciprocă emisă de România în favoarea Uniunii Europene, semnat la București la 2 iunie 2022 și la Bruxelles la 4 iulie 2022, în legătură cu Acordul de contribuție dintre România și Uniunea Europeană în ceea ce privește compartimentul pentru statele membre în cadrul programului InvestEU, semnat la București la 18 mai 2022 și la Bruxelles la 24 mai 2022, publicată în Monitorul Oficial al României, Partea I, nr. 974 din 6 octombrie 2022."
+    }
+  ],
+  "definitions": []
+}

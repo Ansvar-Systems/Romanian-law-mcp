@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-280153",
+  "type": "statute",
+  "title": "LEGE nr. 55 din 19 martie 2024",
+  "short_name": "lege 55 19 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-19",
+  "in_force_date": "2024-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280153",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 55 19/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 49 din 26 mai 2023 privind aprobarea Programului național de investiții pentru consolidarea spitalelor „Mihail Cantacuzino“ și a Programului național de expertizare a clădirilor publice cu risc seismic din sistemele de sănătate și de învățământ, publicată în Monitorul Oficial al României, Partea I, nr. 468 din 26 mai 2023."
+    }
+  ],
+  "definitions": []
+}

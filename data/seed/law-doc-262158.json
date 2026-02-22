@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262158",
+  "type": "statute",
+  "title": "LEGE nr. 330 din 29 noiembrie 2022",
+  "short_name": "lege 330 29 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-29",
+  "in_force_date": "2022-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262158",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 330 29/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 69 din 29 iunie 2021 pentru suspendarea aplicării prevederilor Legii nr. 5/2021 privind Statutul personalului profesionist operativ de intervenție din cadrul serviciilor civile care asigură asistență publică medicală de urgență și prim ajutor calificat, publicată în Monitorul Oficial al României, Partea I, nr. 644 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

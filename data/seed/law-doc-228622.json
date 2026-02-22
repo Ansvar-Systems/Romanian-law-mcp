@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-228622",
+  "type": "statute",
+  "title": "LEGE nr. 161 din 3 august 2020",
+  "short_name": "lege 161 03 08 2020",
+  "status": "in_force",
+  "issued_date": "2020-08-03",
+  "in_force_date": "2020-08-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228622",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 161 03/08/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 6 din Legea nr. 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate, publicată în Monitorul Oficial al României, Partea I, nr. 682 din 29 iulie 2005, cu modificările și completările ulterioare, alineatul (4) se modifică și va avea următorul cuprins: (4) Documentele de călătorie prevăzute la alin. (1) sunt proprietatea statului român și fac dovada identității, cetățeniei, calității, precum și a dreptului titularului de a călători în străinătate."
+    }
+  ],
+  "definitions": []
+}

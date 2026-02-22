@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-277488",
+  "type": "statute",
+  "title": "LEGE nr. 410 din 18 decembrie 2023",
+  "short_name": "lege 410 18 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-18",
+  "in_force_date": "2023-12-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277488",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 410 18/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 1 din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 621 din 2 septembrie 2010, cu modificările și completările ulterioare, după alineatul (3) se introduce un nou alineat, alin. (4), cu următorul cuprins: (4) Veniturile realizate de categoriile de persoane prevăzute la alin. (1), din exercitarea funcției sau calității pentru care există obligația declarării averii și intereselor, nu sunt supuse anonimizării, fiind exceptate de la normele care reglementează confidențialitatea."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La data intrării în vigoare a prezentei legi se abrogă dispozițiile contrare prevederilor art. 1 alin. (4) din Legea nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative, cu modificările și completările ulterioare, inclusiv cele cuprinse în legi speciale."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270539",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 19 mai 2023",
+  "short_name": "lege 125 19 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-19",
+  "in_force_date": "2023-05-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270539",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 19/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După articolul 9 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, publicată în Monitorul Oficial al României, Partea I, nr. 672 din 27 iulie 2005, cu modificările și completările ulterioare, se introduce un nou articol, art. 9^1, cu următorul cuprins: Articolul 9^1 (1) Constituie infracțiune și se pedepsește cu închisoare de la 7 la 15 ani și interzicerea exercitării unor drepturi orice acțiune sau inacțiune comisă în cadrul unor scheme frauduloase cu caracter transfrontalier având ca efect diminuarea cu cel puțin 10.000.000 euro, în echivalentul monedei naționale, a resurselor bugetului Uniunii Europene, prin: a) utilizarea sau prezentarea de declarații sau documente false, incorecte sau incomplete privind TVA; b) nedivulgarea de informații privind TVA, atunci când aceste informații trebuie divulgate potrivit legii; c) prezentarea de declarații corecte privind TVA pentru a masca în mod fraudulos neplata sau constituirea unor drepturi necuvenite la rambursări de TVA. (2) Tentativa la infracțiunea prevăzută la alin. (1) se pedepsește."
+    }
+  ],
+  "definitions": []
+}

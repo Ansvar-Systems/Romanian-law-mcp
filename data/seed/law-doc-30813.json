@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30813",
+  "type": "statute",
+  "title": "LEGE nr. 149 din 12 iunie 1930",
+  "short_name": "lege 149 12 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-12",
+  "in_force_date": "1930-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30813",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 149 12/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Profesorul dr. Mina Minovici, intemeietorul Institutului Medico-Legal \"Profesor dr. Mina Minovici\" din Bucureşti, este menţinut pe viaţa, ca o consacrare a meritelor sale excepţionale, în post de director ce ocupa la acest Institut. Desbateri: Camera Nr. 64-1929/30; Senat Nr. 48-1929/30. Votat de Adunarea Deputaţilor la 4 Iunie şi de Senat la 6 Iunie 1930. -------"
+    }
+  ],
+  "definitions": []
+}

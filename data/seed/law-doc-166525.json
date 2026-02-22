@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166525",
+  "type": "statute",
+  "title": "LEGE nr. 49 din 19 martie 2015",
+  "short_name": "lege 49 19 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-19",
+  "in_force_date": "2015-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166525",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 49 19/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 62 din 1 octombrie 2014 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 146/2002 privind formarea şi utilizarea resurselor derulate prin trezoreria statului, publicată în Monitorul Oficial al României, Partea I, nr. 729 din 6 octombrie 2014."
+    }
+  ],
+  "definitions": []
+}

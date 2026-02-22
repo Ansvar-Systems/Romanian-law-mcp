@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-32839",
+  "type": "statute",
+  "title": "LEGE nr. 727 din 4 decembrie 2001",
+  "short_name": "lege 727 04 12 2001",
+  "status": "in_force",
+  "issued_date": "2001-12-04",
+  "in_force_date": "2001-12-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32839",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 727 04/12/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 126 din 10 septembrie 1999 pentru modificarea și completarea Ordonanței Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A., modificată și completată prin Ordonanța Guvernului nr. 63/1999 , publicată în Monitorul Oficial al României, Partea I, nr. 441 din 10 septembrie 1999, cu următoarele modificări: 1. La articolul I punctul 3 , litera e) a articolului 5 va avea următorul cuprins: e) Banca Comercială Română - S.A. va prelua din cadrul personalului Băncii Române de Comerț Exterior - Bancorex - S.A. un număr de cel mult 500 de salariați, pe care îi va încadra în structurile sale din centrala și din unitățile teritoriale și care vor fi considerați transferati în interesul serviciului, urmând ca, până la data fuziunii, Banca Română de Comerț Exterior - Bancorex - S.A. sa disponibilizeze restul de personal în condițiile art. 21 din Ordonanța de urgenta a Guvernului nr. 98/1999 ; funcțiile și drepturile salariale ale personalului preluat vor fi stabilite de Banca Comercială Română - S.A., potrivit necesităților și reglementărilor sale. 2. La articolul I punctul 10 , alineatul (1) al articolului 16 va avea următorul cuprins: Articolul 16 (1) Pierderea din evidența contabilă a Băncii Române de Comerț Exterior - Bancorex - S.A., rămasă după efectuarea operațiunilor prevăzute la art. 10 și 15, va fi preluată în bilanțul contabil de fuziune întocmit de Banca Comercială Română - S.A. în contul Alte creanțe privind bugetul statului și va fi acoperită cu titluri de stat, în suma de 2.357,86 miliarde lei, emise în favoarea Băncii Comerciale Române - S.A., cu data de 10 septembrie 1999. Titlurile de stat vor fi negociabile, vor purta o dobânda a carei rata va fi egala cu rata medie lunară a dobânzilor active practicate de bănci în relațiile cu clienții nebancari, cu termen de scadenta la 2 ani."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Anexa la Ordonanța de urgență a Guvernului nr. 126/1999 pentru modificarea și completarea Ordonanței Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A., modificată și completată prin Ordonanța Guvernului nr. 63/1999 , se abrogă."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196921",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 19 ianuarie 2018",
+  "short_name": "lege 39 19 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-19",
+  "in_force_date": "2018-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196921",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 19/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul VI din Ordonanța de urgență a Guvernului nr. 92/2012 privind luarea unor măsuri în domeniul învățământului și cercetării, precum și în ceea ce privește plata sumelor prevăzute în hotărâri judecătorești devenite executorii în perioada 1 ianuarie-31 decembrie 2013, publicată în Monitorul Oficial al României, Partea I, nr. 864 din 19 decembrie 2012, se abrogă."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-282670",
+  "type": "statute",
+  "title": "LEGE nr. 134 din 13 mai 2024",
+  "short_name": "lege 134 13 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-13",
+  "in_force_date": "2024-05-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/282670",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 134 13/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 83 din 28 iulie 2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului, publicată în Monitorul Oficial al României, Partea I, nr. 752 din 2 august 2021."
+    }
+  ],
+  "definitions": []
+}

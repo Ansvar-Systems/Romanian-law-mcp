@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-225618",
+  "type": "statute",
+  "title": "LEGE nr. 54 din 14 mai 2020",
+  "short_name": "lege 54 14 05 2020",
+  "status": "in_force",
+  "issued_date": "2020-05-14",
+  "in_force_date": "2020-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/225618",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 54 14/05/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 33 din 26 martie 2020 privind unele măsuri fiscale și modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 260 din 30 martie 2020, cu modificările ulterioare, cu următoarea completare: La articolul 1, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Contribuabilii plătitori de impozit pe profit, indiferent de sistemul de declarare și plată prevăzut la art. 41 din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, contribuabilii care plătesc impozit pe venitul microîntreprinderilor, care plătesc impozitul datorat la termenele scadente, 25 iulie 2020 inclusiv, pentru trimestrul II, și 25 octombrie 2020 inclusiv, pentru trimestrul III, beneficiază de o bonificație de 10% calculată asupra impozitului pe profit datorat."
+    }
+  ],
+  "definitions": []
+}

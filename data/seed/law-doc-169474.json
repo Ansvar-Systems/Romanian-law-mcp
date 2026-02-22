@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169474",
+  "type": "statute",
+  "title": "LEGE nr. 176 din 30 iunie 2015",
+  "short_name": "lege 176 30 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-30",
+  "in_force_date": "2015-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169474",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 176 30/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Protocolul, semnat de România la Varşovia la 25 noiembrie 2014, pentru modificarea Convenţiei privind organizarea şi activitatea Băncii Internaţionale de Cooperare Economică (cu modificările aduse prin protocoalele din 18 decembrie 1970, 23 noiembrie 1977 şi 18 decembrie 1990) şi a Statutului Băncii Internaţionale de Cooperare Economică (cu modificările aduse prin protocoalele din 18 decembrie 1970, 23 noiembrie 1977 şi 18 decembrie 1990), semnate la Moscova la 22 octombrie 1963."
+    }
+  ],
+  "definitions": []
+}

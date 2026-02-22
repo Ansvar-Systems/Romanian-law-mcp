@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-281653",
+  "type": "statute",
+  "title": "LEGE nr. 81 din 9 aprilie 2024",
+  "short_name": "lege 81 09 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-09",
+  "in_force_date": "2024-04-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281653",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 81 09/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul privind Curtea unică în materie de brevete, deschis spre semnare și semnat de România la Bruxelles la 19 februarie 2013, denumit în continuare Acordul."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Nivelul contribuției inițiale și al contribuției anuale se aprobă prin hotărâre a Guvernului, pe baza numărului de brevete europene care au efect pe teritoriul României la data intrării în vigoare a Acordului și a numărului de brevete europene în legătură cu care au fost intentate acțiuni în constatarea încălcării sau acțiuni în revocare în fața instanțelor române, în cei trei ani anteriori intrării în vigoare a Acordului , potrivit art. 37 alin. (2) și (3) din Acord . (2) Plata contribuției inițiale și a contribuției anuale care incumbă României după intrarea în vigoare a Acordului se suportă de la bugetul de stat, din bugetele aprobate anual ale Ministerului Justiției și Ministerului Economiei, Antreprenoriatului și Turismului, în procent de 50% fiecare. (3) Pentru anul 2024, contribuția României la Acord se va achita în trimestrul IV al anului 2024."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Se desemnează Ministerul Justiției și Ministerul Economiei, Antreprenoriatului și Turismului, în limitele competențelor fiecăruia, ca instituții centrale responsabile cu monitorizarea implementării Acordului privind Curtea unică în materie de brevete."
+    }
+  ],
+  "definitions": []
+}

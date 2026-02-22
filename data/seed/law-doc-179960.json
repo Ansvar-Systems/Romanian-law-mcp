@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-179960",
+  "type": "statute",
+  "title": "LEGE nr. 133 din 7 iulie 2016",
+  "short_name": "lege 133 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/179960",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 133 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 47 din 23 octombrie 2015 cu privire la rectificarea bugetului de stat pe anul 2015 şi unele măsuri bugetare, cu modificările ulterioare, publicată în Monitorul Oficial al României, Partea I, nr. 806 din 29 octombrie 2015."
+    }
+  ],
+  "definitions": []
+}

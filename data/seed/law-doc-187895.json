@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187895",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 31 martie 2017",
+  "short_name": "lege 43 31 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-31",
+  "in_force_date": "2017-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187895",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 31/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 12 din 27 ianuarie 2016 pentru modificarea şi completarea Legii nr. 184/2001 privind organizarea şi exercitarea profesiei de arhitect, adoptată în temeiul art. 1 pct. II.3 din Legea nr. 346/2015 privind abilitarea Guvernului de a emite ordonanţe, publicată în Monitorul Oficial al României, Partea I, nr. 68 din 29 ianuarie 2016, cu următoarea modificare: – La articolul unic punctul 1, după alineatul (2) al articolului 4 se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: (2^1) Stagiul arhitectului de interior şi dreptul de semnătură se evidenţiază şi intră în organizarea Ordinului Arhitecţilor din România."
+    }
+  ],
+  "definitions": []
+}

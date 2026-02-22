@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30729",
+  "type": "statute",
+  "title": "LEGE nr. 261 din 27 martie 1941",
+  "short_name": "lege 261 27 03 1941",
+  "status": "in_force",
+  "issued_date": "1941-03-27",
+  "in_force_date": "1941-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30729",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 261 27/03/1941",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se autoriza Regia Autonomă a Căilor Ferate Române sa cedeze Primăriei comunei Curtea de Arges, din jud. Arges, un teren în suprafaţa totală de 2.958 mp, situat în com. Curtea de Arges, jud. Arges, între km 146 + 986 km 147 + 015, de pe linia ferată din statia de cale ferată Curtea de Arges şi necesar pentru noua, uzina electrica a comunei. În schimbul acestui teren se autoriza Primăria comunei Curtea de Arges sa cedeze Regiei Autonome a Căilor Ferate Române un teren în suprafaţa de 2.958 mp, situat în comuna Curtea de Arges, în zavoiul ce se invecineaza cu zona C.F.R., între km 146 + 300 - km 146 + 800 pe aceeaşi linie ferată. -------------"
+    }
+  ],
+  "definitions": []
+}

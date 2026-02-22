@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-253145",
+  "type": "statute",
+  "title": "LEGE nr. 66 din 23 martie 2022",
+  "short_name": "lege 66 23 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-23",
+  "in_force_date": "2022-03-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253145",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 66 23/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 67 din Legea nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere, publicată în Monitorul Oficial al României, Partea I, nr. 45 din 28 ianuarie 2003, cu modificările și completările ulterioare, alineatul (2) se modifică și va avea următorul cuprins: (2) În cazul taxiurilor, R.A.R. nu va elibera certificatul de agreare, dacă geamurile acestora nu respectă prevederile Regulamentului nr. 43 al Comisiei Economice pentru Europa a Organizației Națiunilor Unite (CEE-ONU) - Dispoziții uniforme privind omologarea materialelor pentru geamurile din sticlă securizată și instalarea acestora pe vehicule."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere, publicată în Monitorul Oficial al României, Partea I, nr. 45 din 28 ianuarie 2003, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

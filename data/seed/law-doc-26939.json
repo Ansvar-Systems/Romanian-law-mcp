@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-26939",
+  "type": "statute",
+  "title": "LEGE nr. 7 din 20 ianuarie 1948",
+  "short_name": "lege 7 20 01 1948",
+  "status": "in_force",
+  "issued_date": "1948-01-20",
+  "in_force_date": "1948-01-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/26939",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 20/01/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute Convenţia, privind schimburile de mărfuri în România şi Polonia, precum şi Protocolul privind aranjamentul de plati între România şi Republica Polona, semnate la Bucureşti la 9 Septemvrie 1947. Textele autentice în limba română şi franceza ale sus-ziselor acte, sînt alăturate la prezenta lege."
+    }
+  ],
+  "definitions": []
+}

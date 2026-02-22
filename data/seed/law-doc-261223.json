@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-261223",
+  "type": "statute",
+  "title": "LEGE nr. 298 din 4 noiembrie 2022",
+  "short_name": "lege 298 04 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-04",
+  "in_force_date": "2022-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261223",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 298 04/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 31 din 25 martie 2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe, publicată în Monitorul Oficial al României, Partea I, nr. 299 din 28 martie 2022, cu următoarea modificare: – La articolul I punctul 1 , litera b) a alineatului (2) al articolului 4 se modifică și va avea următorul cuprins: b) izolarea termică a fațadei - parte opacă, inclusiv termohidroizolarea terasei, respectiv termoizolarea planșeului peste ultimul nivel în cazul existenței șarpantei, cu sisteme termoizolante, reabilitarea șarpantei în cazul podurilor neîncălzite;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-41387",
+  "type": "statute",
+  "title": "LEGE nr. 31 din 13 ianuarie 2003",
+  "short_name": "lege 31 13 01 2003",
+  "status": "in_force",
+  "issued_date": "2003-01-13",
+  "in_force_date": "2003-01-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/41387",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 31 13/01/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 111 din 10 septembrie 2002 privind unele măsuri pentru dezafectarea macaralelor-turn abandonate pe santierele de construcții, publicată în Monitorul Oficial al României, Partea I, nr. 693 din 20 septembrie 2002, cu următoarea modificare: – La articolul 1, alineatul (1) va avea următorul cuprins: Articolul 1 (1) Primării comunelor, orașelor, municipiilor și sectoarelor municipiului București vor identifica, în termen de cel mult 60 de zile de la intrarea în vigoare a legii de aprobare a prezentei ordonanțe de urgență, macaralele-turn neutilizate timp de un an după expirarea autorizației de construcție sau abandonate pe teritoriul unităților administrativ-teritoriale și vor soma proprietarii sa ia măsurile necesare în vederea dezafectarii acestora, în termen de cel mult 90 de zile de la primirea somației."
+    }
+  ],
+  "definitions": []
+}

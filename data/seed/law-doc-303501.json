@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303501",
+  "type": "statute",
+  "title": "LEGE nr. 155 din 16 octombrie 2025",
+  "short_name": "lege 155 16 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-16",
+  "in_force_date": "2025-10-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303501",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 155 16/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 37 din 28 august 2024 privind aprobarea realizării de către Ministerul Muncii și Solidarității Sociale, în colaborare cu Serviciul de Telecomunicații Speciale, a rețelei securizate de comunicații de date de arie extinsă pentru sistemul informatic „Hub de servicii MMSS-SII MMSS“, precum și pentru modificarea și completarea unor acte normative, adoptată în temeiul art. 1 pct. IV din Legea nr. 187/2024 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 869 din 29 august 2024."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-73133",
+  "type": "statute",
+  "title": "LEGE nr. 272 din 29 iunie 2006",
+  "short_name": "lege 272 29 06 2006",
+  "status": "in_force",
+  "issued_date": "2006-06-29",
+  "in_force_date": "2006-06-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/73133",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 272 29/06/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "După alineatul (1) al articolului 7 din Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice, publicată în Monitorul Oficial al României, Partea I, nr. 1.101 din 25 noiembrie 2004, se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: \"(1^1) În cazul interconectării, furnizorul are obligaţia de a transmite la interfaţa dintre cele două reţele identitatea liniei apelante fără a o altera, modifica sau şterge.\" Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR BOGDAN OLTEANU PREŞEDINTELE SENATULUI NICOLAE VĂCĂROIU Bucureşti, 29 iunie 2006. Nr. 272. -------"
+    }
+  ],
+  "definitions": []
+}

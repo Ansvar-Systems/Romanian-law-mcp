@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-175203",
+  "type": "statute",
+  "title": "LEGE nr. 14 din 19 ianuarie 2016",
+  "short_name": "lege 14 19 01 2016",
+  "status": "in_force",
+  "issued_date": "2016-01-19",
+  "in_force_date": "2016-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/175203",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 14 19/01/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 25 din 26 august 2014 privind încadrarea în muncă şi detaşarea străinilor pe teritoriul României şi pentru modificarea şi completarea unor acte normative privind regimul străinilor în România, adoptată în temeiul art. 1 pct. III. 4 din Legea nr. 119/2014 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 640 din 30 august 2014."
+    }
+  ],
+  "definitions": []
+}

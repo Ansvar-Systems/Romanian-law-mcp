@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-48410",
+  "type": "statute",
+  "title": "LEGE nr. 534 din 11 decembrie 2003",
+  "short_name": "lege 534 11 12 2003",
+  "status": "in_force",
+  "issued_date": "2003-12-11",
+  "in_force_date": "2003-12-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/48410",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 534 11/12/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 75 din 28 august 2003 privind organizarea și funcționarea serviciilor publice de editare a monitoarelor oficiale ale unităților administrativ-teritoriale, adoptată în temeiul art. 1 pct. III.4 din Legea nr. 279/2003 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 619 din 30 august 2003, cu următoarea modificare: – Alineatul (3) al articolului 7 va avea următorul cuprins: (3) Veniturile proprii provin din tarifele încasate din prestarea serviciilor de producție editorială, tipografică și de difuzare. Nivelul tarifelor se stabilește de autoritatea administrației publice locale în subordinea căreia funcționează serviciul public."
+    }
+  ],
+  "definitions": []
+}

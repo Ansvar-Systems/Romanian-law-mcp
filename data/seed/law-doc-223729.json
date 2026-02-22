@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-223729",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 5 martie 2020",
+  "short_name": "lege 18 05 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-05",
+  "in_force_date": "2020-03-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/223729",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18 05/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Organizația Internațională a Francofoniei referitor la stabilirea la București a Biroului Regional pentru Europa Centrală și de Est și privilegiile și imunitățile sale pe teritoriul român, semnat la Erevan la 12 octombrie 2018."
+    }
+  ],
+  "definitions": []
+}

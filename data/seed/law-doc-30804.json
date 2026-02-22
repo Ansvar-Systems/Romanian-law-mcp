@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30804",
+  "type": "statute",
+  "title": "LEGE nr. 49 din 2 aprilie 1930",
+  "short_name": "lege 49 02 04 1930",
+  "status": "in_force",
+  "issued_date": "1930-04-02",
+  "in_force_date": "1930-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30804",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 49 02/04/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Comisia interimara a municipiului Constanta este autorizata sa constitue, conform prevederilor legii, pentru organizarea şi administrarea pe baze comerciale a întreprinderilor şi avutiilor publice, o regie mixtă pentru exploatarea instalaţiilor de producere şi distribuire de energie electrica pe teritoriul municipiului Constanta."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În acest scop comisia interimara a municipiului Constanta va exercita toate drepturile şi atribuţiunile acordate prin legea pentru organizarea administrativă. Desbateri: Camera Nr. 38-1929/30; Senat Nr. 20-1929/30. Votat de Adunarea Deputaţilor la 18 Martie şi de Senat la 22 Martie 1930. ----------"
+    }
+  ],
+  "definitions": []
+}

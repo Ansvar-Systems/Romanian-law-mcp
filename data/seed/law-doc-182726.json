@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-182726",
+  "type": "statute",
+  "title": "LEGE nr. 181 din 17 octombrie 2016",
+  "short_name": "lege 181 17 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-17",
+  "in_force_date": "2016-10-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/182726",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 181 17/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 11 din 6 aprilie 2016 privind stabilirea unor măsuri de reorganizare la nivelul administraţiei publice centrale, cu modificările ulterioare, publicată în Monitorul Oficial al României, Partea I, nr. 285 din 14 aprilie 2016."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Alineatul (6) al articolului II din Ordonanţa de urgenţă a Guvernului nr. 6/2013 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 96/2012 privind stabilirea unor măsuri de reorganizare în cadrul administraţiei publice centrale şi pentru modificarea unor acte normative, aprobată cu completări prin Legea nr. 195/2013 , cu modificările ulterioare, se modifică şi va avea următorul cuprins: \"(6) Personalul de specialitate juridică din cadrul Direcţiei generale juridice a Ministerului Finanţelor Publice, care are în fişa postului atribuţii în ceea ce priveşte acordarea asistenţei juridice aferente activităţilor de gestionare a asistenţei financiare comunitare nerambursabile, aşa cum este aceasta definită de legislaţia privind stimularea financiară a personalului care gestionează fonduri comunitare, beneficiază de o majorare salarială de 25 de clase.\""
+    }
+  ],
+  "definitions": []
+}

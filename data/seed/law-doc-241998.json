@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-241998",
+  "type": "statute",
+  "title": "LEGE nr. 117 din 4 mai 2021",
+  "short_name": "lege 117 04 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-04",
+  "in_force_date": "2021-05-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241998",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 117 04/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 7 din 28 ianuarie 2020 privind modificarea și completarea Legii muzeelor și a colecțiilor publice nr. 311/2003 , adoptată în temeiul art. 1 pct. VII.2 din Legea nr. 262/2019 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 72 din 31 ianuarie 2020."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În termen de 60 de zile de la intrarea în vigoare a prezentei legi, prin hotărâre a Guvernului, la propunerea Ministerului Culturii, se aprobă normele metodologice de aplicare a dispozițiilor art. 22 alin. (1^1) din Legea muzeelor și a colecțiilor publice nr. 311/2003, republicată , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

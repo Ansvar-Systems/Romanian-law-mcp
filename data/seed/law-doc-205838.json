@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-205838",
+  "type": "statute",
+  "title": "LEGE nr. 235 din 5 octombrie 2018",
+  "short_name": "lege 235 05 10 2018",
+  "status": "in_force",
+  "issued_date": "2018-10-05",
+  "in_force_date": "2018-10-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/205838",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 235 05/10/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 61 din 23 decembrie 2015 pentru prorogarea termenului de intrare în vigoare a Legii nr. 151/2015 privind procedura insolvenței persoanelor fizice, publicată în Monitorul Oficial al României, Partea I, nr. 962 din 24 decembrie 2015."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208337",
+  "type": "statute",
+  "title": "LEGE nr. 295 din 3 decembrie 2018",
+  "short_name": "lege 295 03 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-03",
+  "in_force_date": "2018-12-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208337",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 295 03/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 57 din 28 iunie 2018 pentru asigurarea continuității și decontării asistenței medicale primare prin centrele de permanență, publicată în Monitorul Oficial al României, Partea I, nr. 562 din 4 iulie 2018."
+    }
+  ],
+  "definitions": []
+}

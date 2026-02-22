@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-261428",
+  "type": "statute",
+  "title": "LEGE nr. 302 din 15 noiembrie 2022",
+  "short_name": "lege 302 15 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-15",
+  "in_force_date": "2022-11-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261428",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 302 15/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (1) al articolului 64 din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 64 (1) Poliția rutieră poate dispune ridicarea vehiculelor staționate neregulamentar. Ridicarea și depozitarea vehiculelor în locuri special amenajate se realizează de către administrațiile publice locale sau de către administratorul drumului public, după caz."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările și completările ulterioare, precum și cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

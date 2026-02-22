@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30699",
+  "type": "statute",
+  "title": "LEGE nr. 37 din 4 martie 1930",
+  "short_name": "lege 37 04 03 1930",
+  "status": "in_force",
+  "issued_date": "1930-03-04",
+  "in_force_date": "1930-03-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30699",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 37 04/03/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Tratatul de muncă încheiat la Bucureşti, în 28 Ianuarie 1930, între Franţa şi România, este ratificat. Copia şi traducerea autentică de pe zisul tratat şi protocol se alătură la legea de faţa. Desbateri: Camera Nr. 29-1929/30; Senat Nr. 15-1929/30. Votat de Adunarea Deputaţilor la 19 Fevruarie şi de Senat la 22 Fevruarie 1930."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-16",
+  "type": "statute",
+  "title": "LEGE din 8 mai 1934",
+  "short_name": "lege 08 05 1934",
+  "status": "in_force",
+  "issued_date": "1934-05-08",
+  "in_force_date": "1934-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/16",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 08/05/1934",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "pentru înfiinţarea unei episcopii misionare pentru crestinii ortodocsi români din ţările neortodoxe apusene*)"
+    },
+    {
+      "provision_ref": "Par.1-2",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "1. Se înfiinţează o Episcopie misionara pentru crestinii ortodocsi români din ţările neortodoxe apusene, cu Episcop sufragant al Mitropoliei Ungro-Vlahiei şi sub jurisdicţia canonica a Sfantului Sinod al Bisericii ortodoxe române."
+    },
+    {
+      "provision_ref": "Par.2",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "2. Episcopul va fi ales de Sfantul Sinod, dintre bărbaţii titrati şi bine pregatiti, care îndeplinesc condiţiunile legii şi Statutului de organizare al Bisericii ortodoxe-române. El va putea participa la şedinţele Sfantului Sinod şi al celorlalte corporatiuni bisericesti, cu vot deliberativ, pentru toate chestiunile care privesc jurisdicţia sa."
+    },
+    {
+      "provision_ref": "Par.3",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "3. Un regulament special făcut de Sfantul Sinod va determina cercul de activitate şi de competinţa al acestui episcopat."
+    },
+    {
+      "provision_ref": "Par.5",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "---------------------"
+    }
+  ],
+  "definitions": []
+}

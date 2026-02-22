@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-177100",
+  "type": "statute",
+  "title": "LEGE nr. 48 din 30 martie 2016",
+  "short_name": "lege 48 30 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-30",
+  "in_force_date": "2016-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177100",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 48 30/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie Ziua Mondială a Vederii în România în cea de-a doua zi de joi a lunii octombrie."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ziua Mondială a Vederii în România poate fi marcată de către autorităţile administraţiei publice centrale şi locale, organizaţiile neguvernamentale din domeniul medical, reprezentanţe ale României în străinătate, entităţi medicale publice şi private, prin organizarea de evenimente dedicate prevenirii afecţiunilor oculare şi orbirii."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Sănătăţii este responsabil cu coordonarea activităţii dedicate Zilei Mondiale a Vederii în România."
+    }
+  ],
+  "definitions": []
+}

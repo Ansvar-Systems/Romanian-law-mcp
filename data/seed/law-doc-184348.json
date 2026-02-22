@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-184348",
+  "type": "statute",
+  "title": "LEGE nr. 244 din 29 noiembrie 2016",
+  "short_name": "lege 244 29 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-29",
+  "in_force_date": "2016-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/184348",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 244 29/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Protocolul de modificare a Acordului privind înfiinţarea Băncii Internaţionale de Investiţii şi a Statutului acesteia, semnate la 10 iulie 1970 la Moscova, deschis spre semnare la 8 mai 2014 la Havana şi semnat de România la 1 iulie 2015 la Moscova."
+    }
+  ],
+  "definitions": []
+}

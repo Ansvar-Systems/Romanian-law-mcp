@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198207",
+  "type": "statute",
+  "title": "LEGE nr. 48 din 27 februarie 2018",
+  "short_name": "lege 48 27 02 2018",
+  "status": "in_force",
+  "issued_date": "2018-02-27",
+  "in_force_date": "2018-02-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198207",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 48 27/02/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 69 din 5 octombrie 2017 pentru completarea art. 9 din Legea poliției locale nr. 155/2010 , publicată în Monitorul Oficial al României, Partea I, nr. 797 din 9 octombrie 2017."
+    }
+  ],
+  "definitions": []
+}

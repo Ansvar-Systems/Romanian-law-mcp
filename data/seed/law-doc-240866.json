@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-240866",
+  "type": "statute",
+  "title": "LEGE nr. 65 din 8 aprilie 2021",
+  "short_name": "lege 65 08 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-08",
+  "in_force_date": "2021-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240866",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 65 08/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie anul 2021 ca „Anul Tudor Vladimirescu“ în România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul sărbătoririi „Anului Tudor Vladimirescu“ se organizează evenimente menite să marcheze aspecte cu ocazia împlinirii a 200 de ani de la Revoluția de la 1821 condusă de Tudor Vladimirescu și care a fost unul dintre evenimentele care au marcat începutul procesului de renaștere națională a României. (2) Autoritățile administrației publice centrale și locale pot acorda sprijin logistic și/sau financiar, după caz, pentru programe de promovare a „Anului Tudor Vladimirescu“. (3) Societatea Română de Televiziune și Societatea Română de Radiodifuziune pot include în programul zilei aspecte de la evenimentele ocazionate de sărbătorirea „Anului Tudor Vladimirescu“."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Se declară erou al națiunii române Tudor Vladimirescu, pentru rolul marcant, curajul, eroismul și sacrificiul lui din timpul Revoluției din 1821. (2) Se declară eroină a națiunii române Ecaterina Teodoroiu, pentru rolul marcant, curajul, eroismul și sacrificiul ei din timpul Primului Război Mondial."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Ceremoniile se vor desfășura anual, în data de 23 ianuarie, respectiv 22 august, și pot fi marcate de autoritățile administrației publice centrale și locale, precum și de instituțiile publice de cultură din țară și din străinătate, prin organizarea unor programe și manifestări cu caracter cultural-științific."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Autoritățile administrației publice centrale și locale pot sprijini material sau logistic organizarea și desfășurarea programelor și manifestărilor prevăzute la art. 4, în limita alocărilor bugetare. (2) Societatea Română de Televiziune și Societatea Română de Radiodifuziune pot include în programul zilei aspecte de la evenimentele ocazionate de la manifestările dedicate acestor sărbători."
+    }
+  ],
+  "definitions": []
+}

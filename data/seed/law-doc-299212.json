@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-299212",
+  "type": "statute",
+  "title": "LEGE nr. 108 din 23 iunie 2025",
+  "short_name": "lege 108 23 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-23",
+  "in_force_date": "2025-06-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/299212",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 108 23/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 7 din 8 februarie 2024 privind aprobarea schemei de ajutor de stat „Creditul fermierului“, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum și pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbției fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit și afaceri maritime, gestionate de Ministerul Agriculturii și Dezvoltării Rurale, prin instrumente financiare de garantare și creditare, precum și pentru susținerea obiectivelor naționale de politică agricolă, publicată în Monitorul Oficial al României, Partea I, nr. 118 din 9 februarie 2024."
+    }
+  ],
+  "definitions": []
+}

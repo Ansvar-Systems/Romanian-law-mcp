@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263801",
+  "type": "statute",
+  "title": "LEGE nr. 22 din 9 ianuarie 2023",
+  "short_name": "lege 22 09 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-09",
+  "in_force_date": "2023-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263801",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 22 09/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 28 din 23 martie 2022 pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 282 din 23 martie 2022."
+    }
+  ],
+  "definitions": []
+}

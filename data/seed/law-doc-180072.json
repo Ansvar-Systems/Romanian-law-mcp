@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-180072",
+  "type": "statute",
+  "title": "LEGE nr. 145 din 12 iulie 2016",
+  "short_name": "lege 145 12 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-12",
+  "in_force_date": "2016-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180072",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 145 12/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se instituie ziua de 23 iunie ca Ziua funcţionarului public. (2) Ziua funcţionarului public poate fi marcată de către autorităţile şi instituţiile publice prin organizarea unor programe şi manifestări cultural-educative."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Agenţia Naţională a Funcţionarilor Publici, autorităţile şi instituţiile cu acelaşi specific din România pot acorda, cu prilejul acestei sărbători, premii, distincţii, medalii şi titluri onorifice funcţionarilor publici, pentru merite deosebite."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Guvernul, prin intermediul Agenţiei Naţionale a Funcţionarilor Publici, sindicatele şi asociaţiile profesionale, precum şi autorităţile administraţiei publice centrale şi locale vor lua măsurile necesare pentru organizarea în bune condiţii a unor manifestări cu caracter simbolic, cu ocazia acestui eveniment. (2) Autorităţile administraţiei publice centrale şi locale pot sprijini material sau logistic organizarea şi desfăşurarea manifestărilor prevăzute la art. 1 alin. (2). (3) Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni culturale ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

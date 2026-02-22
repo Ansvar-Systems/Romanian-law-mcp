@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-229888",
+  "type": "statute",
+  "title": "LEGE nr. 200 din 10 septembrie 2020",
+  "short_name": "lege 200 10 09 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-10",
+  "in_force_date": "2020-09-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/229888",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 200 10/09/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La alineatul (3) al articolului 44 din Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România, republicată în Monitorul Oficial al României, Partea I, nr. 421 din 5 iunie 2008, cu modificările și completările ulterioare, după litera d) se introduce o nouă literă, litera e), cu următorul cuprins: e) cetățenilor din Republica Moldova, Ucraina și Republica Serbia încadrați în muncă pe teritoriul României cu contract individual de muncă cu normă întreagă, pe o perioadă de maximum 9 luni într-un an calendaristic."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța Guvernului nr. 25/2014 privind încadrarea în muncă și detașarea străinilor pe teritoriul României și pentru modificarea și completarea unor acte normative privind regimul străinilor în România, publicată în Monitorul Oficial al României, Partea I, nr. 640 din 30 august 2014, aprobată prin Legea nr. 14/2016, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 3 alineatul (2), după litera n) se introduce o nouă literă, litera o), cu următorul cuprins: o) cetățenilor din Republica Moldova, Ucraina și Republica Serbia încadrați în muncă pe teritoriul României cu contract individual de muncă cu normă întreagă, pe o perioadă de maximum 9 luni într-un an calendaristic. 2. La articolul 13, după alineatul (2) se introduce un nou alineat, alineatul (3), cu următorul cuprins: (3) Prin excepție de la prevederile alin. (1) și alin. (2) lit. a), nu este nevoie de aviz de angajare pentru cetățenii din Republica Moldova, Ucraina și Republica Serbia încadrați în muncă pe teritoriul României cu contract individual de muncă cu normă întreagă, pe o perioadă de maximum 9 luni într-un an calendaristic, dacă îndeplinesc condițiile prevăzute la alin. (2) lit. b)."
+    }
+  ],
+  "definitions": []
+}

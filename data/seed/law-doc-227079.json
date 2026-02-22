@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227079",
+  "type": "statute",
+  "title": "LEGE nr. 88 din 25 iunie 2020",
+  "short_name": "lege 88 25 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-25",
+  "in_force_date": "2020-06-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227079",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 88 25/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 5 din 28 ianuarie 2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 43/2007 privind introducerea deliberată în mediu a organismelor modificate genetic, publicată în Monitorul Oficial al României, Partea I, nr. 67 din 30 ianuarie 2020."
+    }
+  ],
+  "definitions": []
+}

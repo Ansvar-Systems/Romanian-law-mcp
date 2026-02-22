@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189180",
+  "type": "statute",
+  "title": "LEGE nr. 98 din 9 mai 2017",
+  "short_name": "lege 98 09 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-09",
+  "in_force_date": "2017-05-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189180",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 98 09/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul semnat la Bucureşti, la 4 iulie 2016, de modificare a Convenţiei dintre România şi Republica Uzbekistan pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital, semnată la Bucureşti la 6 iunie 1996 şi ratificată prin Legea nr. 26/1997 , publicată în Monitorul Oficial al României, Partea I, nr. 46 din 18 martie 1997."
+    }
+  ],
+  "definitions": []
+}

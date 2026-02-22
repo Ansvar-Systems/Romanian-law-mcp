@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276273",
+  "type": "statute",
+  "title": "LEGE nr. 346 din 10 noiembrie 2023",
+  "short_name": "lege 346 10 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-10",
+  "in_force_date": "2023-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276273",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 346 10/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 21 din 5 aprilie 2023 privind Statutul lucrătorului cultural profesionist, publicată în Monitorul Oficial al României, Partea I, nr. 297 din 7 aprilie 2023, cu următoarea modificare: – La articolul 9, alineatul (2) se modifică și va avea următorul cuprins: (2) Contractele încheiate de lucrătorii culturali profesioniști sunt asimilate contractelor individuale de muncă în ceea ce privește atribuirea contractelor de achiziție publică sau a acordurilor-cadru de servicii."
+    }
+  ],
+  "definitions": []
+}

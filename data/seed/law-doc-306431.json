@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-306431",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 15 ianuarie 2026",
+  "short_name": "lege 20 15 01 2026",
+  "status": "in_force",
+  "issued_date": "2026-01-15",
+  "in_force_date": "2026-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/306431",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 15/01/2026",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 47 din 18 septembrie 2025 pentru modificarea Ordonanței Guvernului nr. 66/2000 privind organizarea și exercitarea profesiei de consilier în proprietate industrială, publicată în Monitorul Oficial al României, Partea I, nr. 880 din 25 septembrie 2025."
+    }
+  ],
+  "definitions": []
+}

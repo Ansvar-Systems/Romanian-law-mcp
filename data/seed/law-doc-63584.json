@@ -1,0 +1,56 @@
+{
+  "id": "law-doc-63584",
+  "type": "statute",
+  "title": "LEGE nr. 235 din 13 iulie 2005",
+  "short_name": "lege 235 13 07 2005",
+  "status": "in_force",
+  "issued_date": "2005-07-13",
+  "in_force_date": "2005-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/63584",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 235 13/07/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declara ca obiectiv de interes naţional zona de amplasare a monumentelor istorice din nordul Moldovei, potrivit anexelor nr. 1-8 la prezenta lege, pentru lucrările de restaurare, consolidare, conservare şi punere în valoare a acestora, precum şi pentru lucrările publice de reabilitare a construcţiilor, echipamentelor şi a infrastructurii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Se constituie Comitetul Nordul Moldovei, structura fără personalitate juridică, cu rol consultativ. Acesta este format din reprezentanţi ai Regiunii de Dezvoltare Nord-Est, ai Ministerului Culturii şi Cultelor, Ministerului Transporturilor, Construcţiilor şi Turismului, Ministerului Administraţiei şi Internelor, Ministerului Finanţelor Publice, Ministerului Mediului şi Gospodăririi Apelor, consiliilor judeţene şi prefecturilor Suceava, Botosani, Neamt şi Iaşi, precum şi ai consiliilor locale ale localităţilor prevăzute în anexele la prezenta lege. În derularea programelor privind restaurarea lacasurilor de cult, reprezentanţii Comitetului Nordul Moldovei colaborează cu reprezentanţii cultelor religioase implicate. (2) Comitetul Nordul Moldovei are rolul de a coordona acţiunile întreprinse de autorităţile pe care le reprezintă pentru realizarea lucrărilor prevăzute la art. 1 şi de a propune Guvernului măsuri prin care să fie aplicată strategia de dezvoltare a zonei. (3) Comitetul Nordul Moldovei propune autorităţilor administraţiei publice competente, pentru unităţile administrativ-teritoriale prevăzute în anexele nr. 1-8, măsuri necesare îndeplinirii obiectivelor pe termen scurt, mediu şi lung şi urmăreşte realizarea coordonata a acestora, avându-se în vedere, cu precădere: a) reabilitarea construcţiilor, echipamentelor şi infrastructurii, precum: dezvoltarea şi modernizarea aeroporturilor, modernizarea drumurilor naţionale, judeţene şi comunale cuprinse în zonele stabilite în anexele nr. 1-8, rectificarea şi modernizarea căilor de rulare a căilor ferate, construirea unor şosele de centura, asfaltarea căilor de acces în zonele turistice, dezvoltarea reţelelor de apa, canal, gaze, curent electric, telefonie în întreaga zona, realizarea unor sisteme de colectare a apelor care să protejeze monumentele istorice, asfaltarea şi modernizarea strazilor din interiorul localităţilor zonei şi a întregii infrastructuri; b) reabilitarea obiectivelor turistice din zona; c) restaurarea şi introducerea monumentelor istorice în circuitul turistic. (4) În termen de 30 de zile de la intrarea în vigoare a prezentei legi se aproba, prin ordin comun al ministrului administraţiei şi internelor şi al ministrului culturii şi cultelor, cu consultarea structurilor asociative ale autorităţilor administraţiei publice locale, regulamentul de organizare şi funcţionare a Comitetului Nordul Moldovei."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Pentru finanţarea lucrărilor prevăzute la art. 1 se utilizează: a) sume alocate cu aceasta destinaţie de la bugetul de stat şi de la bugetele judeţene, municipale, orăşeneşti sau comunale, după caz; b) sume alocate din Fondul naţional de dezvoltare regionala, precum şi din alte fonduri constituite potrivit legii; c) sume alocate de organisme internaţionale, precum şi de organizaţii neguvernamentale; d) sume provenite din sponsorizări, donaţii şi alte liberalităţi, potrivit legii; e) sume provenite din alte surse, constituite potrivit legii."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Sumele prevăzute la art. 3 lit. b) şi c) şi, după caz, cele prevăzute la lit. d) vor fi repartizate unităţilor administrativ-teritoriale prevăzute în anexele nr. 1-8, în funcţie de programul stabilit, şi vor fi cuprinse în bugetele acestora, urmând a fi utilizate exclusiv pentru finanţarea lucrărilor prevăzute în program."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Anexele nr. 1-8 fac parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la data publicării ei în Monitorul Oficial al României, Partea I. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE PREŞEDINTELE SENATULUI NICOLAE VACAROIU Bucureşti, 13 iulie 2005. Nr. 235."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "reabilitarea construcţiilor, echipamentelor şi infrastructurii, precum",
+      "definition": "dezvoltarea şi modernizarea aeroporturilor, modernizarea drumurilor naţionale, judeţene şi comunale cuprinse în zonele stabilite în anexele nr",
+      "source_provision": "Art.2"
+    }
+  ]
+}

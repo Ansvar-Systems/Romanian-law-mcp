@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-2243",
+  "type": "statute",
+  "title": "LEGE nr. 45 din 14 mai 1992",
+  "short_name": "lege 45 14 05 1992",
+  "status": "in_force",
+  "issued_date": "1992-05-14",
+  "in_force_date": "1992-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2243",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 45 14/05/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Taxele în lei stabilite în sume fixe pe feluri de servicii prestate sau pe bunuri taxabile, datorate bugetului de stat sau bugetelor locale, după caz, de către persoanele fizice și juridice sînt cele prevăzute în anexele nr. 1-9 la prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Abrogat. (la 01-06-1994, Articolul 2 a fost abrogat de Articolul 77, Capitolul 11 din LEGEA nr. 27 din 17 mai 1994, publicată în MONITORUL OFICIAL nr. 127 din 24 mai 1994 )"
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Abrogat. (la 01-06-1994, Articolul 3 a fost abrogat de Articolul 77, Capitolul 11 din LEGEA nr. 27 din 17 mai 1994, publicată în MONITORUL OFICIAL nr. 127 din 24 mai 1994 )"
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Prevederile prezentei legi intra în vigoare la data de 1 mai 1992."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Abrogat. (la 01-06-1994, Articolul 5 a fost abrogat de Articolul 77, Capitolul 11 din LEGEA nr. 27 din 17 mai 1994, publicată în MONITORUL OFICIAL nr. 127 din 24 mai 1994 )"
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Abrogat. (la 01-06-1994, Articolul 6 a fost abrogat de Articolul 77, Capitolul 11 din LEGEA nr. 27 din 17 mai 1994, publicată în MONITORUL OFICIAL nr. 127 din 24 mai 1994 )"
+    }
+  ],
+  "definitions": []
+}

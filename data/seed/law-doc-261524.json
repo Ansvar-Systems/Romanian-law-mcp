@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-261524",
+  "type": "statute",
+  "title": "LEGE nr. 314 din 18 noiembrie 2022",
+  "short_name": "lege 314 18 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-18",
+  "in_force_date": "2022-11-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261524",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 314 18/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 32 din 26 martie 2022 privind instituirea cadrului legal pentru acordarea unui ajutor de stat pentru compensarea pierderilor suferite ca urmare a pandemiei de COVID-19 de către Societatea Națională de Transport Feroviar de Călători „C.F.R. Călători“ - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 304 din 29 martie 2022."
+    }
+  ],
+  "definitions": []
+}

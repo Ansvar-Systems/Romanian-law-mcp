@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-42991",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 19 ianuarie 1948",
+  "short_name": "lege 6 19 01 1948",
+  "status": "in_force",
+  "issued_date": "1948-01-19",
+  "in_force_date": "1948-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/42991",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 19/01/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Articolul 1 al Legii Nr. 877 din 9 Decemvrie 1940 , se completează cu următoarele dispoziţiuni: \"Naţionalitatea română mai poate fi retrasă romanului care pleacă ori incearca sa plece din ţara în mod clandestin sau fraudulos, precum şi aceluia care nu se întoarce în ţara după expirarea termenului de valabilitate a actelor de călătorie, eliberate de autorităţile române. În cazul cînd valabilitatea a expirat sau frontiera a fost trecută în mod clandestin sau fraudulos înainte de publicarea prezentei legi, naţionalitatea va putea fi retrasă romanului care, în termen de 60 zile dela această dată, nu s'a întors în ţara sau nu a obţinut dela autorităţile române actele necesare pentru rămânerea mai departe în străinătate.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Art. 2 al Legii Nr. 877 din 9 Decemvrie 1940 , se completează cu următoarele dispoziţiuni: \"Vor fi socotite ca aparţinînd celui vinovat din punct de vedere al aplicării prezentei legi şi bunurile pe care acesta le-a înstrăinat în ultimele 12 luni, înainte de publicarea Jurnalului Consiliului de Miniştri; actele juridice intervenite cu privire la aceste bunuri sînt nule de drept, iar bunurile trec în patrimoniul Statului dacă actul de dispoziţie a fost făcut în favoarea unei rude sau actul de dispoziţie a fost făcut în favoarea unei rude sau afin pînă la gradul al patrulea inclusiv, coasociati, consilieri tehnici, administrativi sau juridici, sau de către ori care alt procurator sau prepus. Cînd actul de dispoziţie a fost făcut de către oricare altă persoană fizica sau juridică prin coluziune frauduloasă între părţile contractante, el se va anula şi bunurile vor trece în patrimoniul Statului.\""
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Justiţiei este autorizat sa republice textul integral al Legii Nr. 877 din 9 Decemvrie 1940 , cuprinzînd modificările şi completările aduse. Votată de Adunarea Deputaţilor, în şedinţa dela 20 Decemvrie 1947. (Avizul Consiliului Legislativ, secţia I, Nr. 209 din 1947). ----"
+    }
+  ],
+  "definitions": []
+}

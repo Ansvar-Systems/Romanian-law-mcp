@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277881",
+  "type": "statute",
+  "title": "LEGE nr. 423 din 29 decembrie 2023",
+  "short_name": "lege 423 29 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-29",
+  "in_force_date": "2023-12-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277881",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 423 29/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 21 din 30 mai 2012 privind modificarea și completarea Legii educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 372 din 31 mai 2012."
+    }
+  ],
+  "definitions": []
+}

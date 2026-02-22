@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-232536",
+  "type": "statute",
+  "title": "LEGE nr. 224 din 30 octombrie 2020",
+  "short_name": "lege 224 30 10 2020",
+  "status": "in_force",
+  "issued_date": "2020-10-30",
+  "in_force_date": "2020-10-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/232536",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 224 30/10/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul-cadru *) dintre Uniunea Europeană și statele sale membre, pe de o parte, și Australia, pe de altă parte, semnat la Manila la 7 august 2017. *) Acordul-cadru se publică în Monitorul Oficial al României, Partea I, nr. 1026 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome „Monitorul Oficial“, București, șos. Panduri nr. 1."
+    }
+  ],
+  "definitions": []
+}

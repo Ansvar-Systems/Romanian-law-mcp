@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-185114",
+  "type": "statute",
+  "title": "LEGE nr. 251 din 23 decembrie 2016",
+  "short_name": "lege 251 23 12 2016",
+  "status": "in_force",
+  "issued_date": "2016-12-23",
+  "in_force_date": "2016-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/185114",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 251 23/12/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, publicată în Monitorul Oficial al României, Partea I, nr. 278 din 17 mai 2013, cu modificările şi completările ulterioare, se modifică şi se completează după cum urmează: 1. La articolul 31, alineatul (2^1) se modifică şi va avea următorul cuprins: \"(2^1) Valoarea unui titlu de plată nu poate fi mai mică de 20.000 lei, cu condiţia ca suma astfel acordată să nu depăşească totalul despăgubirilor stabilite.\" 2. La articolul 41, alineatul (2) se abrogă la data de 1 ianuarie 2017. 3. La articolul 41, după alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: \"(2^1) Începând cu 1 ianuarie 2017, cuantumul unei tranşe nu poate fi mai mic de 20.000 lei.\""
+    }
+  ],
+  "definitions": []
+}

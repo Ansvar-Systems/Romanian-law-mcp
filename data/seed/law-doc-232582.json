@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-232582",
+  "type": "statute",
+  "title": "LEGE nr. 230 din 4 noiembrie 2020",
+  "short_name": "lege 230 04 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-04",
+  "in_force_date": "2020-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/232582",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 230 04/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 456, alineatul (4) va avea următorul cuprins: (4) Impozitul pe clădirile aflate în proprietatea persoanelor fizice și juridice care sunt utilizate pentru prestarea de servicii turistice, pe o durată de cel mult 180 de zile consecutive sau cumulate, în cursul unui an calendaristic, se reduce cu 50%. Reducerea se aplică în anul fiscal următor celui în care este îndeplinită această condiție. 2. La articolul 464, alineatul (4) va avea următorul cuprins: (4) Impozitul pe terenurile aflate în proprietatea persoanelor fizice și juridice care sunt utilizate pentru prestarea de servicii turistice, pe o durată de cel mult 180 de zile consecutive sau cumulate, în cursul unui an calendaristic, se reduce cu 50%. Reducerea se aplică în anul fiscal următor celui în care este îndeplinită această condiție."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la data de 1 ianuarie 2021."
+    }
+  ],
+  "definitions": []
+}

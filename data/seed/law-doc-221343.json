@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221343",
+  "type": "statute",
+  "title": "LEGE nr. 254 din 23 decembrie 2019",
+  "short_name": "lege 254 23 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-23",
+  "in_force_date": "2019-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221343",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 254 23/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 1 din 30 ianuarie 2019 privind reglementarea unor măsuri fiscal-bugetare, adoptată în temeiul art. 1 pct. I. l din Legea nr. 4/2019 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 79 din 31 ianuarie 2019."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-190791",
+  "type": "statute",
+  "title": "LEGE nr. 158 din 30 iunie 2017",
+  "short_name": "lege 158 30 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-30",
+  "in_force_date": "2017-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190791",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 158 30/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege asigură cadrul legal pentru impulsionarea activităților de cercetare științifică, dezvoltare, inovare, creație, servicii și transfer tehnologic din cadrul instituțiilor de învățământ superior de stat și unităților de cercetare-dezvoltare-inovare din sistemul național, prin atragerea de resurse financiare din mediul economic privat, și pentru dezvoltarea parteneriatului public-privat."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În interacțiunea cu entitățile economico-sociale și din domeniul culturii, instituțiile de învățământ superior de stat și unitățile de cercetare-dezvoltare-inovare din sistemul național oferă diverse tipuri de servicii specializate, activități de expertiză, consiliere și asistență științifică."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Implementarea activităților prevăzute la art. 1 se face de către următoarele categorii de personal: personal didactic de predare, personal didactic auxiliar, personal nedidactic, cercetători, masteranzi și doctoranzi. (2) Personalul implicat în contracte/proiecte de cercetare științifică, dezvoltare, inovare, creație, servicii și transfer tehnologic, a căror sursă de finanțare nu provine de la bugetul de stat, își desfășoară activitatea pe bază de contract individual de muncă pe perioadă determinată și este salarizat în raport cu numărul de ore/luni de muncă, în conformitate cu prevederile contractului de cercetare/finanțare/servicii, în limita fondurilor atrase. (3) Cuantumul orar/lunar se stabilește de instituția de învățământ superior de stat și/sau unitatea de cercetare-dezvoltare-inovare din sistemul național, la propunerea directorului de contract/proiect sau, după caz, a centrului/institutului, respectând rezultatul negocierilor, stipulat în contractul de cercetare/finanțare/servicii."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Pentru dezvoltarea și consolidarea centrelor/ institutelor de cercetare, inclusiv pentru susținerea unor reviste sau mobilități, instituția de învățământ superior de stat și/sau unitatea de cercetare-dezvoltare-inovare din sistemul național poate aloca o sumă reprezentând maximum 10% din volumul cheltuielilor indirecte."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Prevederile prezentei legi se aplică tuturor tipurilor de contracte de cercetare/finanțare/servicii care sunt încheiate cu persoane juridice de drept privat, exceptându-le pe cele care sunt finanțate din fonduri externe nerambursabile."
+    }
+  ],
+  "definitions": []
+}

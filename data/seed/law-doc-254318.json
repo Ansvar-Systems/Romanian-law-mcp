@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254318",
+  "type": "statute",
+  "title": "LEGE nr. 107 din 20 aprilie 2022",
+  "short_name": "lege 107 20 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-20",
+  "in_force_date": "2022-04-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254318",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 107 20/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (1) al articolului 32 din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, publicată în Monitorul Oficial al României, Partea I, nr. 410 din 25 iulie 2001, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 32 (1) Plângerea se depune și se soluționează în baza competenței alternative la judecătoria în a cărei circumscripție a fost săvârșită contravenția ori la judecătoria în a cărei rază teritorială își are domiciliul sau sediul contravenientul."
+    }
+  ],
+  "definitions": []
+}

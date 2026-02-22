@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-129465",
+  "type": "statute",
+  "title": "LEGE nr. 123 din 20 iunie 2011",
+  "short_name": "lege 123 20 06 2011",
+  "status": "in_force",
+  "issued_date": "2011-06-20",
+  "in_force_date": "2011-06-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/129465",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 123 20/06/2011",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 9 din 9 februarie 2011 pentru modificarea și completarea Legii nr. 126/1995 privind regimul materiilor explozive, publicată în Monitorul Oficial al României, Partea I, nr. 107 din 10 februarie 2011, cu următoarea modificare: – La articolul I punctul 2, alineatul (3) al articolului 7 se modifică și va avea următorul cuprins: (3) Prin excepție de la prevederile alin. (1): a) persoanele care au împlinit vârsta de 16 ani pot deține și utiliza articole pirotehnice din categoriile 1 și P1; b) persoanele care au vârsta peste 15 ani și care urmează cursuri de formare în învățământul de specialitate pot avea la dispoziție articole pirotehnice numai pe timpul instruirii."
+    }
+  ],
+  "definitions": []
+}

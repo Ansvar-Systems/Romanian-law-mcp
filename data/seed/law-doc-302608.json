@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-302608",
+  "type": "statute",
+  "title": "LEGE nr. 143 din 29 septembrie 2025",
+  "short_name": "lege 143 29 09 2025",
+  "status": "in_force",
+  "issued_date": "2025-09-29",
+  "in_force_date": "2025-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/302608",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 143 29/09/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie anul 2025 ca „Anul cultural George Enescu“, pentru celebrarea vieții și operei compozitorului George Enescu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul sărbătoririi „Anului cultural George Enescu“ se organizează evenimente culturale, artistice sau educaționale dedicate celebrării vieții și operei acestuia. (2) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice centrale și locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii pentru a organiza sau sprijini logistic și/sau financiar manifestările culturale, artistice, educaționale sau programele de promovare organizate în vederea respectării prevederilor alin. (1) , în limita alocărilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

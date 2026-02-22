@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-180262",
+  "type": "statute",
+  "title": "LEGE nr. 128 din 7 iulie 2016",
+  "short_name": "lege 128 07 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-07",
+  "in_force_date": "2016-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180262",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 128 07/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul de garanţie*) dintre statele membre ale Uniunii Europene şi Banca Europeană de Investiţii privind împrumuturile care urmează a fi acordate de către Banca Europeană de Investiţii pentru proiectele de investiţii din statele din Africa, Caraibe şi Pacific şi din ţările şi teritoriile de peste mări, semnat la 1 iulie 2015 la Bucureşti."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu ocazia semnării, România declară că, având în vedere prevederile art. 15 din Constituţia României, republicată, acesteia nu i se va aplica prevederea \"şi va intra în vigoare în data de 1 ianuarie 2014\" din art. 11 al Acordului de garanţie. Obligaţiile României cu privire la Acordul de garanţie vor avea efect doar cu privire la împrumuturile, aşa cum sunt definite în Acordul de garanţie, acordate după semnarea Acordului de garanţie."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Se ratifică Acordul de gestionare arierate*) dintre statele membre ale Uniunii Europene şi Banca Europeană de Investiţii care reglementează procedurile de plată şi rambursare în cadrul Acordului de garantare privind împrumuturile care urmează a fi acordate de către Banca Europeană de Investiţii pentru proiectele de investiţii din statele din Africa, Caraibe şi Pacific, precum şi din ţările şi teritoriile de peste mări, semnat la 1 iulie 2015 la Bucureşti. Notă ────────── *) Traducere oficială. ──────────"
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Cu ocazia semnării, România declară că, având în vedere prevederile art. 15 din Constituţia României, republicată, acesteia nu i se va aplica prevederea \"şi va intra în vigoare în data de 1 ianuarie 2014\" din art. 11 al Acordului de gestionare arierate. Obligaţiile României cu privire la Acordul de gestionare arierate vor avea efect doar cu privire la împrumuturile, aşa cum sunt definite în Acordul de gestionare arierate, acordate după semnarea Acordului de gestionare arierate."
+    }
+  ],
+  "definitions": []
+}

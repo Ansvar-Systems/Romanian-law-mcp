@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243876",
+  "type": "statute",
+  "title": "LEGE nr. 180 din 28 iunie 2021",
+  "short_name": "lege 180 28 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-28",
+  "in_force_date": "2021-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243876",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 180 28/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 49 din 15 aprilie 2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, precum și pentru reglementarea unor măsuri de protecție socială, publicată în Monitorul Oficial al României, Partea I, nr. 319 din 16 aprilie 2020."
+    }
+  ],
+  "definitions": []
+}

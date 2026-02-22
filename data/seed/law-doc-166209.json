@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-166209",
+  "type": "statute",
+  "title": "LEGE nr. 23 din 9 martie 2015",
+  "short_name": "lege 23 09 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-09",
+  "in_force_date": "2015-03-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166209",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 23 09/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 8 mai Ziua egalităţii de şanse între femei şi bărbaţi."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Autorităţile administraţiei publice locale pot organiza manifestări şi acţiuni publice dedicate sărbătoririi Zilei egalităţii de şanse între femei şi bărbaţi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societatea Română de Televiziune şi Societatea Română de Radiodifuziune vor putea include în programele lor emisiuni dedicate Zilei egalităţii de şanse între femei şi bărbaţi."
+    }
+  ],
+  "definitions": []
+}

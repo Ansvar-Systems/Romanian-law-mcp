@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-30647",
+  "type": "statute",
+  "title": "LEGE nr. 510 din 5 septembrie 1940",
+  "short_name": "lege 510 05 09 1940",
+  "status": "in_force",
+  "issued_date": "1940-09-05",
+  "in_force_date": "1940-09-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30647",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 510 05/09/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se suspenda Constituţia promulgată la 27 Februarie 1938 şi publicată în Monitorul Oficial Nr. 48 din 27 Februarie 1938."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Corpurile Legiuitoare se disolva pe data acestui decret-lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Preşedintele Consiliului Nostru de Miniştri este însărcinat cu aducerea la îndeplinire a acestui decret. ---------------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198710",
+  "type": "statute",
+  "title": "LEGE nr. 65 din 12 martie 2018",
+  "short_name": "lege 65 12 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-12",
+  "in_force_date": "2018-03-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198710",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 65 12/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea nr. 252/2013 privind organizarea și funcționarea sistemului de probațiune, publicată în Monitorul Oficial al României, Partea I, nr. 512 din 14 august 2013, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 17, după litera ș) se introduce o nouă literă, litera ș^1), cu următorul cuprins: ș^1) elaborează și sprijină desfășurarea, în colaborare cu alte instituții ale statului, de acțiuni și programe de reintegrare socială pe piața muncii a persoanelor aflate, potrivit legii, în supravegherea serviciului de probațiune; 2. La articolul 111, după alineatul (6) se introduce un nou alineat, alineatul (7), cu următorul cuprins: (7) În activitatea sa, consilierul de probațiune întocmește, la solicitarea persoanei supravegheate, un raport care va conține și o recomandare în vederea angajării acesteia."
+    }
+  ],
+  "definitions": []
+}

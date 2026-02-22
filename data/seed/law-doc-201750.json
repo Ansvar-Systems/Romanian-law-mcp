@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201750",
+  "type": "statute",
+  "title": "LEGE nr. 134 din 18 iunie 2018",
+  "short_name": "lege 134 18 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201750",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 134 18/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 89 din 29 noiembrie 2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 49/2015 privind gestionarea financiară a fondurilor europene nerambursabile aferente politicii agricole comune, politicii comune de pescuit și politicii maritime integrate la nivelul Uniunii Europene, precum și a fondurilor alocate de la bugetul de stat pentru perioada de programare 2014-2020 și pentru modificarea și completarea unor acte normative din domeniul garantării, publicată în Monitorul Oficial al României, Partea I, nr. 978 din 8 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

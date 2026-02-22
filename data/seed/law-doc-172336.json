@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172336",
+  "type": "statute",
+  "title": "LEGE nr. 238 din 20 octombrie 2015",
+  "short_name": "lege 238 20 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-20",
+  "in_force_date": "2015-10-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172336",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 238 20/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Guvernul Republicii Cipru privind protecţia reciprocă a informaţiilor clasificate, semnat la Nicosia la 31 octombrie 2014."
+    }
+  ],
+  "definitions": []
+}

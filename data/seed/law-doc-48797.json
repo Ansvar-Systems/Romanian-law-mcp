@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-48797",
+  "type": "statute",
+  "title": "LEGE nr. 601 din 22 decembrie 2003",
+  "short_name": "lege 601 22 12 2003",
+  "status": "in_force",
+  "issued_date": "2003-12-22",
+  "in_force_date": "2003-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/48797",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 601 22/12/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 48 din 29 iulie 2003 pentru modificarea și completarea Ordonanței Guvernului nr. 42/1997 privind transportul naval, adoptată în temeiul art. 1 pct. II.12 din Legea nr. 279/2003 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 566 din 6 august 2003, cu următoarea completare: – La articolul unic, după punctul 7 se introduce punctul 8, cu următorul cuprins: 8. La articolul 103^5, după alineatul (2) se introduce alineatul (3), cu următorul cuprins: (3) Persoanele juridice române cu capital majoritar străin, care la data de 1 august 2003 erau autorizate să efectueze transport public fluvial de mărfuri, sunt exceptate de la aplicarea prevederilor art. 2 alin. (4) până la data de 1 ianuarie 2007."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța Guvernului nr. 42/1997 privind transportul naval, cu modificările și completările ulterioare și cu completarea adusă prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor numerotarea corespunzătoare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-248933",
+  "type": "statute",
+  "title": "LEGE nr. 279 din 26 noiembrie 2021",
+  "short_name": "lege 279 26 11 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-26",
+  "in_force_date": "2021-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/248933",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 279 26/11/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 19 iulie - Ziua națională a înotului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Ziua națională a înotului va fi marcată de către Federația Română de Natație și Pentatlon Modern, de cluburi sportive/asociații și membri afiliați prin participarea la evenimente și programe cu caracter sportiv sau social, cu scopul de a informa și de a promova importanța practicării înotului pentru sănătatea oamenilor. (2) Autoritățile administrației publice centrale și locale, societatea civilă, precum și persoanele fizice sau juridice pot acorda sprijin material sau logistic în vederea organizării și derulării în bune condiții a manifestărilor consacrate acestei zile. (3) Pentru a crește gradul de conștientizare cu privire la importanța practicării înotului pentru sănătatea și viața oamenilor, Societatea Română de Radiodifuziune și Societatea Română de Televiziune vor difuza emisiuni de promovare a programelor și evenimentelor dedicate acestei zile."
+    }
+  ],
+  "definitions": []
+}

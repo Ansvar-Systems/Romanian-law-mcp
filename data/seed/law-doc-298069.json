@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-298069",
+  "type": "statute",
+  "title": "LEGE nr. 69 din 14 mai 2025",
+  "short_name": "lege 69 14 05 2025",
+  "status": "in_force",
+  "issued_date": "2025-05-14",
+  "in_force_date": "2025-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/298069",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 69 14/05/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Ungariei, semnat la București la 3 septembrie 2024, pentru modificarea Acordului dintre Guvernul României și Guvernul Republicii Ungare privind colaborarea în domeniul prevenirii și combaterii criminalității transfrontaliere, semnat la Szeged la 21 octombrie 2008, ratificat prin Legea nr. 311/2009 ."
+    }
+  ],
+  "definitions": []
+}

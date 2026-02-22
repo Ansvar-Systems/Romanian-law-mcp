@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-259910",
+  "type": "statute",
+  "title": "LEGE nr. 281 din 5 octombrie 2022",
+  "short_name": "lege 281 05 10 2022",
+  "status": "in_force",
+  "issued_date": "2022-10-05",
+  "in_force_date": "2022-10-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/259910",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 281 05/10/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Ordonanța de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe, publicată în Monitorul Oficial al României, Partea I, nr. 155 din 12 martie 2009, aprobată cu modificări și completări prin Legea nr. 158/2011 , cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 2, după litera d) se introduce o nouă literă, litera e), cu următorul cuprins: e) raport tehnic de specialitate - document întocmit în urma evaluării ascensorului privind funcționarea în condiții de siguranță și a performanței energetice, întocmit de o persoană juridică autorizată în domeniul ascensoarelor; acesta conține: descrierea caracteristicilor tehnice ale ascensorului existent, soluțiile propuse, caracteristicile tehnice după aplicarea măsurilor de modernizare/înlocuire, consumurile de energie înainte și după implementarea soluțiilor, analiza de riscuri, modul de utilizare optimă a ascensorului după implementarea măsurilor, dar și analiza economică. 2. La articolul 3, alineatul (8) se modifică și va avea următorul cuprins: (8) În exercitarea atribuțiilor, comisiile tehnice de amenajare a teritoriului și urbanism colaborează, în condițiile legii, cu filialele teritoriale ale Ordinului Arhitecților din România care sunt înregistrate în Tabloul Național al Arhitecților și cu asociațiile profesionale ale auditorilor energetici pentru clădiri care sunt înregistrați în lista auditorilor energetici pentru clădiri."
+    }
+  ],
+  "definitions": []
+}

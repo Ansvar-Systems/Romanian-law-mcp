@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250302",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 5 ianuarie 2022",
+  "short_name": "lege 6 05 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-05",
+  "in_force_date": "2022-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250302",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 05/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (3) al articolului 3 din Legea cooperației agricole nr. 566/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 1236 din 22 decembrie 2004, cu modificările și completările ulterioare, se modifică după cum urmează: Articolul 3 (3) Gospodăria țărănească poate deveni membru cooperator asociat în cooperativele agricole. Definirea, modul de autorizare și organizare a gospodăriei țărănești, modelul de atestat și modelul de carnet de comercializare a produselor din sectorul agricol sunt prevăzute în anexele nr. 1-3, care fac parte integrantă din prezenta lege."
+    }
+  ],
+  "definitions": []
+}

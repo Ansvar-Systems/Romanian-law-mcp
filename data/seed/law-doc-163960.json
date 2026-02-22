@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-163960",
+  "type": "statute",
+  "title": "LEGE nr. 175 din 16 decembrie 2014",
+  "short_name": "lege 175 16 12 2014",
+  "status": "in_force",
+  "issued_date": "2014-12-16",
+  "in_force_date": "2014-12-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/163960",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 175 16/12/2014",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 40 din 18 iunie 2014 pentru modificarea şi completarea unor acte normative, precum şi pentru reglementarea unor măsuri fiscale, publicată în Monitorul Oficial al României, Partea I, nr. 455 din 23 iunie 2014."
+    }
+  ],
+  "definitions": []
+}

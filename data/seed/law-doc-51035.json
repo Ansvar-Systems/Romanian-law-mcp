@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-51035",
+  "type": "statute",
+  "title": "LEGE nr. 83 din 5 aprilie 2004",
+  "short_name": "lege 83 05 04 2004",
+  "status": "in_force",
+  "issued_date": "2004-04-05",
+  "in_force_date": "2004-04-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/51035",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 83 05/04/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se aprobă declararea ca orașe a unor comune din județele Arad, Argeș, Constanța, Dolj, Gorj, Ialomița, Maramureș, Olt, Satu Mare, Sibiu, Suceava și Timiș. (2) Denumirea și componența comunelor declarate orașe sunt prevăzute în anexa care face parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Anexa la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României, republicată în Buletinul Oficial, Partea I, nr. 54-55 din 27 iulie 1981, cu modificările ulterioare, precum și pct. 5.6 din anexa nr. II la Legea nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea a IV-a - Rețeaua de localități, publicată în Monitorul Oficial al României, Partea I, nr. 408 din 24 iulie 2001, cu modificările ulterioare, se modifică în mod corespunzător."
+    }
+  ],
+  "definitions": []
+}

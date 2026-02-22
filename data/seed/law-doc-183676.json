@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-183676",
+  "type": "statute",
+  "title": "LEGE nr. 205 din 7 noiembrie 2016",
+  "short_name": "lege 205 07 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-07",
+  "in_force_date": "2016-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183676",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 205 07/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul privind transferul şi mutualizarea contribuţiilor la Fondul unic de rezoluţie, semnat la Bruxelles la 21 mai 2014."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "La data semnării Acordului prevăzut la art. 1, România a susţinut următoarea declaraţie: \"În înţelegerea Republicii Bulgaria, Republicii Cehe, Republicii Federale Germania, Republicii Estonia, Republicii Malta, României, Republicii Slovace şi Republicii Finlanda, Acordul privind transferul şi mutualizarea contribuţiilor la Fondul unic de rezoluţie în integralitatea sa, şi în special considerentele 6 şi 13, precum şi articolele 5 şi 7, precum şi considerentele şi articolele Regulamentului MUR vor fi interpretate într-o manieră care să nu creeze vreo obligaţie de răspundere comună a părţilor contractante, de modificare a Tratatului MES sau, în special, de a impune vreun sprijin financiar public sau măsuri care să afecteze suveranitatea bugetară sau responsabilitatea fiscală a părţilor contractante.\""
+    }
+  ],
+  "definitions": []
+}

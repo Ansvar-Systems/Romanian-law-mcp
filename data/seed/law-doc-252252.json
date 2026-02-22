@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-252252",
+  "type": "statute",
+  "title": "LEGE nr. 35 din 28 februarie 2022",
+  "short_name": "lege 35 28 02 2022",
+  "status": "in_force",
+  "issued_date": "2022-02-28",
+  "in_force_date": "2022-02-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252252",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 35 28/02/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 6 din 28 ianuarie 2020 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , precum și pentru reglementarea unor măsuri fiscal-bugetare, adoptată în temeiul art. 1 pct. I pozițiile 5 și 7 din Legea nr. 262/2019 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 72 din 31 ianuarie 2020."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Pentru bunurile vândute în regim de consignație sau din stocuri la dispoziția clientului, care au fost transportate sau expediate din România în alt stat membru, respectiv din alt stat membru în România, până la data intrării în vigoare a Ordonanței Guvernului nr. 6/2020 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal , precum și pentru reglementarea unor măsuri fiscal-bugetare, se aplică legislația în vigoare la momentul transportului sau expedierii."
+    }
+  ],
+  "definitions": []
+}

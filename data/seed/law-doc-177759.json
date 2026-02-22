@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-177759",
+  "type": "statute",
+  "title": "LEGE nr. 67 din 19 aprilie 2016",
+  "short_name": "lege 67 19 04 2016",
+  "status": "in_force",
+  "issued_date": "2016-04-19",
+  "in_force_date": "2016-04-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177759",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 67 19/04/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 67 din 30 decembrie 2015 privind prorogarea termenului prevăzut la art. III din Legea nr. 91/2015 pentru modificare a şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, publicată în Monitorul Oficial al României, Partea I, nr. 986 din 31 decembrie 2015, cu următoarea modificare: \"Articol unic. - Termenul prevăzut la art. III din Legea nr. 91/2015 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, publicată în Monitorul Oficial al României, Partea I, nr. 283 din 27 aprilie 2015, se prorogă până la data de 31 decembrie 2016.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 95/2006 privind reforma în domeniul sănătăţii, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările ulterioare, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

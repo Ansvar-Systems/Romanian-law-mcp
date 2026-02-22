@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-174414",
+  "type": "statute",
+  "title": "LEGE nr. 356 din 23 decembrie 2015",
+  "short_name": "lege 356 23 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-23",
+  "in_force_date": "2015-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174414",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 356 23/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 45 din Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 353 din 22 mai 2015, se modifică după cum urmează: 1. Alineatul (2) se abrogă. 2. Alineatul (3) se modifică şi va avea următorul cuprins: \"(3) Deputaţii şi senatorii beneficiază, pentru desfăşurarea activităţilor legate de exercitarea mandatului, de o sumă forfetară al cărei cuantum este stabilit prin hotărâre a birourilor permanente, în funcţie de resursele bugetare ale celor două Camere, pentru acoperirea cheltuielilor de transport din circumscripţie, pe bază de declaraţie pe propria răspundere, care reprezintă document justificativ.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 353 din 22 mai 2015, cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

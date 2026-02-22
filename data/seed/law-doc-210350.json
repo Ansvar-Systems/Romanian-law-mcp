@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-210350",
+  "type": "statute",
+  "title": "LEGE nr. 29 din 10 ianuarie 2019",
+  "short_name": "lege 29 10 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-10",
+  "in_force_date": "2019-01-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/210350",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 29 10/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "România aderă la Protocolul adițional *) privind scrisoarea electronică de însoțire, adoptat la Geneva la 20 februarie 2008, la Convenția referitoare la contractul de transport rutier internațional de mărfuri pe șosele (CMR), încheiată la Geneva la 19 mai 1956, ratificată prin Decretul nr. 451/1972 . *) Traducere."
+    }
+  ],
+  "definitions": []
+}

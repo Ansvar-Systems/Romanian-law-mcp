@@ -1,0 +1,56 @@
+{
+  "id": "law-doc-71963",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 16 mai 2006",
+  "short_name": "lege 183 16 05 2006",
+  "status": "in_force",
+  "issued_date": "2006-05-16",
+  "in_force_date": "2006-05-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/71963",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 16/05/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege stabileşte obligaţia autorităţilor şi a instituţiilor publice, precum şi a notarilor publici de a utiliza codificarea standardizată a setului de caractere româneşti şi tastatura standard românească în scopul elaborării şi procesării documentelor în formă electronică în limba română."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În înţelesul prezentei legi, termenii şi expresiile de mai jos se definesc după cum urmează: a) document în formă electronică - orice colecţie de date în formă electronică între care există relaţii logice şi funcţionale şi care redau litere, cifre sau orice alte caractere cu semnificaţie inteligibilă, destinate a fi citite prin intermediul unui program informatic sau al altui procedeu similar; b) codificare standardizată a setului de caractere - asocierea în mod biunivoc a unui cod numeric fiecărei litere, cifre, fiecărui semn de punctuaţie, operator aritmetic, simbol monetar şi oricărui alt semn auxiliar inteligibil; c) tastatură standard - standardul prin care sunt specificate numărul tastelor, modul de inscripţionare a acestora, modul de aşezare a lor pe tastatură, precum şi codurile generate de fiecare tastă."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Autorităţile şi instituţiile publice, precum şi notarii publici au obligaţia de a utiliza codificarea standardizată a setului de caractere româneşti în activitatea de elaborare a documentelor în formă electronică, dacă acestea sunt redactate în limba română. (2) Obligaţia de utilizare a codificării standardizate a setului de caractere româneşti se aplică tuturor documentelor în formă electronică, elaborate în limba română de autorităţile şi instituţiile publice, precum şi de notarii publici, atât documentelor cu circulaţie internă, cât şi documentelor destinate altor autorităţi, instituţii publice, notari publici, precum şi oricărei persoane fizice sau juridice."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Autorităţile şi instituţiile publice, precum şi notarii publici au obligaţia de a utiliza tastatura standard românească în procesul de elaborare a documentelor în formă electronică în limba română."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Autorităţile şi instituţiile publice, precum şi notarii publici au obligaţia ca în relaţiile cu cetăţenii aparţinând minorităţilor naţionale, atunci când, în condiţiile legii, este necesară asigurarea folosirii limbii minorităţii naţionale respective, să utilizeze codificarea standardizată a setului de caractere specifice limbii minorităţii naţionale respective, pentru activitatea de elaborare a documentelor în formă electronică. (2) În cazul redactării de documente în formă electronică în limba unei minorităţi naţionale, prin utilizarea codificării standardizate a setului de caractere specifice limbii minorităţii naţionale respective, nu există obligaţia autorităţilor şi a instituţiilor publice române, precum şi a notarilor publici de a utiliza tastatura standard corespunzătoare limbii respective."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) Nerespectarea obligaţiilor prevăzute la art. 3-5 constituie contravenţie şi se sancţionează cu amendă de la 3.000 lei (RON) la 5.000 lei (RON). Sancţiunea se aplică notarului public sau, după caz, conducătorului autorităţii ori instituţiei publice respective. (2) Prevederile Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002 , cu modificările şi completările ulterioare, se aplică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.7",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) În termen de 90 de zile de la publicarea prezentei legi în Monitorul Oficial al României, Partea I, Ministerul Comunicaţiilor şi Tehnologiei Informaţiei va elabora un ordin referitor la codificarea standardizată a setului de caractere româneşti şi al limbilor minorităţilor naţionale, precum şi la tastatura standard românească. (2) Prezenta lege intră în vigoare la un an de la data publicării în Monitorul Oficial al României, Partea I. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR BOGDAN OLTEANU PREŞEDINTELE SENATULUI NICOLAE VĂCĂROIU Bucureşti, 16 mai 2006. Nr. 183. ---------"
+    }
+  ],
+  "definitions": []
+}

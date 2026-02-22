@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-182614",
+  "type": "statute",
+  "title": "LEGE nr. 177 din 7 octombrie 2016",
+  "short_name": "lege 177 07 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-07",
+  "in_force_date": "2016-10-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/182614",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 177 07/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 21 noiembrie ca Ziua Limbii Sârbe."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătoririi Zilei Limbii Sârbe, în localităţile în care trăiesc membri ai comunităţii sârbe se organizează manifestări dedicate acestei zile. (2) Autorităţile administraţiei publice centrale şi locale, organizaţiile neguvernamentale şi alte instituţii pot sprijini logistic şi/sau financiar, după caz, sărbătorirea acestei zile."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituţiile de învăţământ în care este studiată limba sârbă, în ziua de 21 noiembrie se organizează programe cultural-artistice dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor momente sau aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

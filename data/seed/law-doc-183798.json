@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-183798",
+  "type": "statute",
+  "title": "LEGE nr. 223 din 17 noiembrie 2016",
+  "short_name": "lege 223 17 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-17",
+  "in_force_date": "2016-11-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183798",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 223 17/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 5 iunie ca Ziua Limbii Turce."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătoririi Zilei Limbii Turce în localităţile în care trăiesc membri ai comunităţii turce se organizează manifestări culturale dedicate acestei sărbători. (2) Autorităţile administraţiei publice centrale şi locale, precum şi organizaţiile neguvernamentale interesate pot sprijini logistic şi/sau financiar, după caz, organizarea manifestărilor dedicate sărbătoririi acestei zile. (3) Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni ori aspecte de la manifestările dedicate acestei sărbători."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituţiile de învăţământ în care se predă limba turcă, în ziua de 5 iunie se pot organiza manifestări culturale dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

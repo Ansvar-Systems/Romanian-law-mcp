@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240943",
+  "type": "statute",
+  "title": "LEGE nr. 76 din 12 aprilie 2021",
+  "short_name": "lege 76 12 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-12",
+  "in_force_date": "2021-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240943",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 76 12/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 214 din 30 decembrie 2020 privind modificarea și completarea art. 10 din Ordonanța de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală și pentru instituirea unor măsuri pentru derularea Programului național de dezvoltare locală etapa I, publicată în Monitorul Oficial al României, Partea I, nr. 1329 din 31 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-279451",
+  "type": "statute",
+  "title": "LEGE nr. 23 din 23 februarie 2024",
+  "short_name": "lege 23 23 02 2024",
+  "status": "in_force",
+  "issued_date": "2024-02-23",
+  "in_force_date": "2024-02-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/279451",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 23 23/02/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernului României și Cabinetul de miniștri al Ucrainei privind recunoașterea reciprocă a actelor de studii, semnat la București la 18 august 2023."
+    }
+  ],
+  "definitions": []
+}

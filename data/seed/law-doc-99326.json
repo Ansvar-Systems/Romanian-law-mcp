@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-99326",
+  "type": "statute",
+  "title": "LEGE nr. 284 din 14 noiembrie 2008",
+  "short_name": "lege 284 14 11 2008",
+  "status": "in_force",
+  "issued_date": "2008-11-14",
+  "in_force_date": "2008-11-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/99326",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 284 14/11/2008",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 52 din 21 aprilie 2008 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale și pentru completarea Legii nr. 26/1990 privind registrul comerțului, publicată în Monitorul Oficial al României, Partea I, nr. 333 din 30 aprilie 2008, cu următoarele completări: – La articolul I, după punctul 3 se introduc două noi puncte, punctele 3^1 și 3^2, cu următorul cuprins: 3^1. La articolul 208, alineatul (4) va avea următorul cuprins: (4) Reducerea capitalului social nu are efect și nu se fac plăți în beneficiul acționarilor până când creditorii nu vor fi obținut realizarea creanțelor lor ori garanții adecvate sau până la data la care instanța a respins cererea creditorilor ca inadmisibilă ori, apreciind că societatea a oferit creditorilor garanții adecvate sau că, luându-se în considerare activul societății, garanțiile nu sunt necesare, a respins cererea creditorilor ca neîntemeiată, iar hotărârea judecătorească a devenit irevocabilă. 3^2. La articolul 208, după alineatul (4) se introduce un nou alineat, alineatul (5), cu următorul cuprins: (5) La cererea creditorilor societății, ale căror creanțe sunt anterioare publicării hotărârii, instanța poate obliga societatea la acordarea de garanții adecvate dacă, în mod rezonabil, se poate aprecia că reducerea capitalului social afectează șansele de acoperire a creanțelor, iar societatea nu a acordat garanții creditorilor, potrivit prevederilor alin. (3)."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303313",
+  "type": "statute",
+  "title": "LEGE nr. 152 din 13 octombrie 2025",
+  "short_name": "lege 152 13 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-13",
+  "in_force_date": "2025-10-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303313",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 152 13/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 61 din 13 iunie 2024 pentru modificarea și completarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale, publicată în Monitorul Oficial al României, Partea I, nr. 558 din 14 iunie 2024."
+    }
+  ],
+  "definitions": []
+}

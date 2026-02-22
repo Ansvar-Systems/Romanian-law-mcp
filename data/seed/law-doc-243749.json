@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-243749",
+  "type": "statute",
+  "title": "LEGE nr. 170 din 23 iunie 2021",
+  "short_name": "lege 170 23 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-23",
+  "in_force_date": "2021-06-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243749",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 170 23/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 3 din 28 ianuarie 2020 pentru modificarea și completarea Ordonanței Guvernului nr. 83/2001 privind înființarea, organizarea și funcționarea serviciilor publice comunitare pentru eliberarea și evidența pașapoartelor simple și serviciilor publice comunitare regim permise de conducere și înmatriculare a vehiculelor, adoptată în temeiul art. 1 pct. IV.2 din Legea nr. 262/2019 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 65 din 30 ianuarie 2020."
+    }
+  ],
+  "definitions": []
+}

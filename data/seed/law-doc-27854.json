@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-27854",
+  "type": "statute",
+  "title": "LEGE nr. 154 din 6 aprilie 2001",
+  "short_name": "lege 154 06 04 2001",
+  "status": "in_force",
+  "issued_date": "2001-04-06",
+  "in_force_date": "2001-04-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/27854",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 154 06/04/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 234 din 24 noiembrie 2000 pentru aprobarea prelungirii participării Guvernului României, pentru perioada 2001-2005, la Acordul dintre Comisia Economică pentru Europa a Națiunilor Unite (C.E.E./O.N.U.) și guvernele participante la proiectul \"Calea Ferată Transeuropeana (TER) privind fondul de cooperare și creditare\", semnat la Geneva la 17 decembrie 1992, publicată în Monitorul Oficial al României, Partea I, nr. 614 din 29 noiembrie 2000, cu următoarea modificare: - În tot cuprinsul ordonanței de urgență sintagma Ministerul Transporturilor va fi înlocuită cu sintagma Ministerul Lucrărilor Publice, Transporturilor și Locuinței."
+    }
+  ],
+  "definitions": []
+}

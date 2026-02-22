@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-262426",
+  "type": "statute",
+  "title": "LEGE nr. 350 din 12 decembrie 2022",
+  "short_name": "lege 350 12 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-12",
+  "in_force_date": "2022-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262426",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 350 12/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie Ziua sportului românesc în prima zi de duminică din luna iunie."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Ministerul Sportului, Muzeul Sportului și direcțiile județene de sport, respectiv Direcția pentru Sport a Municipiului București, în colaborare cu autoritățile administrației publice locale, organizează anual, de Ziua sportului românesc, în fiecare reședință de județ și în municipiul București, programe și manifestări publice. (2) Programele și manifestările publice prevăzute la alin. (1) promovează sportul de masă, sportul de performanță, sportul pentru persoanele cu dizabilități, beneficiile unui stil de viață activ și sănătos, realizările internaționale ale României pe plan sportiv și sportivii care au avut un aport semnificativ în acestea."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Finanțarea evenimentelor dedicate Zilei sportului românesc se face de către Ministerul Sportului din bugetul de stat, în limita fondurilor disponibile prevăzute în acest sens. (2) Autoritățile administrației publice locale sprijină material sau logistic organizarea și desfășurarea programelor și manifestărilor publice prevăzute la art. 2 , în limita fondurilor disponibile prevăzute în acest sens. (3) Autoritățile administrației publice locale pun la dispoziție, cu titlu gratuit, bazele sportive aflate în administrare sau în folosință gratuită, cu ocazia desfășurării evenimentelor dedicate Zilei sportului românesc."
+    }
+  ],
+  "definitions": []
+}

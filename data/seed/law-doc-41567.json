@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-41567",
+  "type": "statute",
+  "title": "LEGE nr. 47 din 21 ianuarie 2003",
+  "short_name": "lege 47 21 01 2003",
+  "status": "in_force",
+  "issued_date": "2003-01-21",
+  "in_force_date": "2003-01-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/41567",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 47 21/01/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 56 din 16 august 2002 privind monitorizarea pieței transporturilor rutiere și măsurile ce trebuie luate în situații de criza în domeniul transportului rutier de mărfuri, adoptată în temeiul art. 1 pct. II.9 din Legea nr. 411/2002 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 645 din 30 august 2002, cu următoarele modificări și completări: 1. La articolul 2, partea introductivă a alineatului (2) va avea următorul cuprins: (2) Prin monitorizare, în sensul prezentei ordonanțe, se înțelege activitatea de urmărire prin date statistice a: 2. Articolul 3 va avea următorul cuprins: Articolul 3 Ministerul Lucrărilor Publice, Transporturilor și Locuinței va publică anual, într-o publicație de specialitate, rezultatul monitorizarii pieței transporturilor rutiere de mărfuri. 3. Articolul 5 va avea următorul cuprins: Articolul 5 Dacă în urma monitorizarii se constata posibilitatea apariției unei situații de criza în domeniul transporturilor rutiere de mărfuri, susceptibilă sa persiste, ministrul lucrărilor publice, transporturilor și locuinței convoacă Comitetul consultativ. 4. Articolul 7 va avea următorul cuprins: Articolul 7 (1) În baza datelor furnizate de raportul Comitetului consultativ, Ministerul Lucrărilor Publice, Transporturilor și Locuinței poate propune Guvernului măsurile necesare pentru soluționarea situației de criza. (2) Măsurile adoptate prin hotărâre a Guvernului, emisă cu avizul prealabil al Consiliului Concurentei, se vor aplica pentru o perioadă de cel mult 6 luni și pot fi prelungite o singură dată pentru o perioadă având aceeași durata."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ordonanța Guvernului nr. 56/2002 , cu modificările și completările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

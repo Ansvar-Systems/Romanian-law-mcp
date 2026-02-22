@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-292089",
+  "type": "statute",
+  "title": "LEGE nr. 304 din 5 decembrie 2024",
+  "short_name": "lege 304 05 12 2024",
+  "status": "in_force",
+  "issued_date": "2024-12-05",
+  "in_force_date": "2024-12-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/292089",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 304 05/12/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul de împrumut *) (Împrumut pentru politici de dezvoltare privind managementul fiscal și creșterea verde) dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare, semnat la București la 1 august 2024, în valoare de 599,1 milioane de euro, denumit în continuare Acord de împrumut. *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele trase din împrumutul prevăzut la art. 1 și virate în contul de valută deschis pe numele Ministerului Finanțelor la Banca Națională a României se utilizează pe măsura necesităților de finanțare a deficitului bugetului de stat și de refinanțare a datoriei publice guvernamentale, în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică, aprobată cu modificări și completări prin Legea nr. 109/2008 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Plata serviciului datoriei publice aferent împrumutului prevăzut la art. 1 , respectiv rambursarea capitalului, achitarea dobânzilor, comisioanelor și a altor costuri aferente împrumutului se asigură conform legislației în vigoare privind datoria publică prin mecanismul aferent finanțărilor rambursabile contractate de Guvernul României, prin Ministerul Finanțelor, în vederea finanțării deficitului bugetului de stat, refinanțării și rambursării anticipate a datoriei publice guvernamentale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Se autorizează Guvernul României ca, prin Ministerul Finanțelor, să convină cu Banca Internațională pentru Reconstrucție și Dezvoltare amendamente la conținutul Acordului de împrumut care nu sunt de natură să majoreze obligațiile financiare asumate de România față de Banca Internațională pentru Reconstrucție și Dezvoltare. (2) Amendamentele la Acordul de împrumut convenite potrivit alin. (1) se aprobă prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

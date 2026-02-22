@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-253492",
+  "type": "statute",
+  "title": "LEGE nr. 74 din 30 martie 2022",
+  "short_name": "lege 74 30 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-30",
+  "in_force_date": "2022-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253492",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 74 30/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 30 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, după alineatul (4^3) se introduce un nou alineat, alineatul (4^4), cu următorul cuprins: (4^4) Este asimilată stagiului de cotizare în condiții speciale de muncă perioada anterioară datei de 1 aprilie 2001, în care salariații au desfășurat activități dintre cele prevăzute la alin. (1) lit. i), în locurile de muncă încadrate conform legislației anterioare în grupa I și/sau grupa a II-a de muncă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) De prevederile art. 30 alin. (4^4) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, beneficiază, la cerere, și persoanele ale căror drepturi de pensie s-au deschis în perioada anterioară datei intrării în vigoare a prezentei legi. (2) Drepturile de pensie recalculate conform alin. (1) se acordă începând cu luna următoare celei în care a fost depusă solicitarea. (3) În situația în care, după aplicarea prevederilor alin. (1) și (2) , rezultă un cuantum al pensiei mai mic decât cel cuvenit anterior intrării în vigoare a prezentei legi sau aflat în plată, se păstrează cuantumul mai avantajos."
+    }
+  ],
+  "definitions": []
+}

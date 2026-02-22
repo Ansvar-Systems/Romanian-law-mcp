@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-297984",
+  "type": "statute",
+  "title": "LEGE nr. 62 din 12 mai 2025",
+  "short_name": "lege 62 12 05 2025",
+  "status": "in_force",
+  "issued_date": "2025-05-12",
+  "in_force_date": "2025-05-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/297984",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 62 12/05/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Moldova privind controlul coordonat pe teritoriul României în punctul de trecere a frontierei de stat Galați (România) - Giurgiulești (Republica Moldova) rutier, pe sensul de intrare în România, semnat la 20 noiembrie 2024 la București."
+    }
+  ],
+  "definitions": []
+}

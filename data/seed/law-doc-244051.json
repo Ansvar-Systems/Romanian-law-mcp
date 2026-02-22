@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-244051",
+  "type": "statute",
+  "title": "LEGE nr. 184 din 1 iulie 2021",
+  "short_name": "lege 184 01 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-01",
+  "in_force_date": "2021-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244051",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 184 01/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 16 din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată în Monitorul Oficial al României, Partea I, nr. 440 din 24 mai 2018, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 16 Exercitarea profesiei de avocat este compatibilă numai cu: a) calitatea de deputat sau senator, consilier în consiliile locale sau județene; b) activități și funcții didactice în învățământul superior, activități didactice cu conținut juridic în învățământul liceal și gimnazial; c) activități în domeniul cercetării științifice sau al creației intelectuale; d) calitatea de arbitru, mediator, conciliator sau negociator, consilier fiscal, consilier în proprietate industrială, traducător autorizat, practician în insolvență, responsabil cu protecția datelor cu caracter personal, expert în executarea contractelor cu finanțare europeană; e) alte activități prevăzute de lege."
+    }
+  ],
+  "definitions": []
+}

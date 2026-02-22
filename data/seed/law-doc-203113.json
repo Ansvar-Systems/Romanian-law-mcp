@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-203113",
+  "type": "statute",
+  "title": "LEGE nr. 202 din 20 iulie 2018",
+  "short_name": "lege 202 20 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-20",
+  "in_force_date": "2018-07-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203113",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 202 20/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea energiei electrice și a gazelor naturale nr. 123/2012 , publicată în Monitorul Oficial al României, Partea I, nr. 485 din 16 iulie 2012, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 1 alineatul (2), litera a) se modifică și va avea următorul cuprins: a) acumulatoarele electrice, grupurile electrogene mobile, instalațiile electrice amplasate pe vehicule de orice fel, cu excepția unităților de tracțiune electrică constând în locomotive electrice, rame electrice tramvaie și rame metrou; 2. La articolul 67, după litera k) se introduce o nouă literă, litera l), cu următorul cuprins: l) energia obținută din frânarea cu recuperarea energiei a unităților de tracțiune electrică."
+    }
+  ],
+  "definitions": []
+}

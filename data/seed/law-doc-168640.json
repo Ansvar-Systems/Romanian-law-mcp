@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168640",
+  "type": "statute",
+  "title": "LEGE nr. 134 din 8 iunie 2015",
+  "short_name": "lege 134 08 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-08",
+  "in_force_date": "2015-06-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168640",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 134 08/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 110 din 18 decembrie 2013 pentru completarea Legii nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune, publicată în Monitorul Oficial al României, Partea I, nr. 808 din 19 decembrie 2013."
+    }
+  ],
+  "definitions": []
+}

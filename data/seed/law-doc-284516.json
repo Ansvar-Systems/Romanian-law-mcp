@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-284516",
+  "type": "statute",
+  "title": "LEGE nr. 196 din 21 iunie 2024",
+  "short_name": "lege 196 21 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-21",
+  "in_force_date": "2024-06-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/284516",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 196 21/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 117 din 26 august 2022 pentru modificarea și completarea Legii concediului paternal nr. 210/1999 , publicată în Monitorul Oficial al României, Partea I, nr. 845 din 29 august 2022."
+    }
+  ],
+  "definitions": []
+}

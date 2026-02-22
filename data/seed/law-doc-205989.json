@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-205989",
+  "type": "statute",
+  "title": "LEGE nr. 239 din 12 octombrie 2018",
+  "short_name": "lege 239 12 10 2018",
+  "status": "in_force",
+  "issued_date": "2018-10-12",
+  "in_force_date": "2018-10-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/205989",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 239 12/10/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 21 din 21 martie 2018 pentru modificarea Ordonanței Guvernului nr. 23/2016 privind înființarea Institutului Național de Administrație, publicată în Monitorul Oficial al României, Partea I, nr. 260 din 23 martie 2018."
+    }
+  ],
+  "definitions": []
+}

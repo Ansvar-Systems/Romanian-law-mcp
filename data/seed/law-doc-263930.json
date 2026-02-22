@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263930",
+  "type": "statute",
+  "title": "LEGE nr. 41 din 12 ianuarie 2023",
+  "short_name": "lege 41 12 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-12",
+  "in_force_date": "2023-01-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263930",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 41 12/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre România și Republica Chile în domeniul securității sociale, semnat la Santiago, Chile, la 26 februarie 2021."
+    }
+  ],
+  "definitions": []
+}

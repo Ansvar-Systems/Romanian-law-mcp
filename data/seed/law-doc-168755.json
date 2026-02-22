@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-168755",
+  "type": "statute",
+  "title": "LEGE nr. 140 din 10 iunie 2015",
+  "short_name": "lege 140 10 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-10",
+  "in_force_date": "2015-06-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168755",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 140 10/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 56/2012 privind organizarea şi funcţionarea Academiei de Ştiinţe Militare, publicată în Monitorul Oficial al României, Partea I, nr. 195 din 26 martie 2012, cu modificările şi completările ulterioare, se modifică după cum urmează: 1. Titlul legii se modifică şi va avea următorul cuprins: \"LEGE privind organizarea şi funcţionarea Academiei de Ştiinţe ale Securităţii Naţionale\" 2. La articolul 1, alineatele (1) şi (2) se modifică şi vor avea următorul cuprins: \"Art. 1. - (1) Se înfiinţează Academia de Ştiinţe ale Securităţii Naţionale, denumită în continuare ASSN, ca for naţional de consacrare ştiinţifică ce reuneşte personalităţi ştiinţifice reprezentative din domeniul de apărare, ordine publică şi siguranţă naţională, aflată în coordonarea ştiinţifică a Ministerului Apărării Naţionale, Ministerului Afacerilor Interne şi Serviciului Român de Informaţii. (2) ASSN este instituţie publică de interes naţional, cu personalitate juridică, şi reprezintă în justiţie interesele proprii. ASSN poate fi reprezentată în justiţie şi de organele de specialitate ale Ministerului Apărării Naţionale, Ministerului Afacerilor Interne şi Serviciului Român de Informaţii, după caz.\" 3. La articolul 10, alineatul (4) se modifică şi va avea următorul cuprins: \"(4) Indemnizaţiile prevăzute la alin. (1) şi (2) se asigură din sume alocate de la bugetul de stat, conform legilor bugetare anuale.\" 4. La articolul 23, alineatul (2) se modifică şi va avea următorul cuprins: \"(2) Preşedintele ASSN reprezintă Academia în relaţiile cu terţii şi este ordonator principal de credite.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Se autorizează Ministerul Finanţelor Publice şi Ministerul Educaţiei şi Cercetării Ştiinţifice să efectueze modificările ce se impun în Legea bugetului de stat pe anul 2015 nr. 186/2014 , ca urmare a modificărilor aduse prin prezenta lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "În tot cuprinsul Legii nr. 56/2012 privind organizarea şi funcţionarea Academiei de Ştiinţe Militare, cu modificările şi completările ulterioare, sintagma \"Academia de Ştiinţe Militare\" se înlocuieşte cu sintagma \"Academia de Ştiinţe ale Securităţii Naţionale\"."
+    }
+  ],
+  "definitions": []
+}

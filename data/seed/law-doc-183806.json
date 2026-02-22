@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-183806",
+  "type": "statute",
+  "title": "LEGE nr. 227 din 17 noiembrie 2016",
+  "short_name": "lege 227 17 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-17",
+  "in_force_date": "2016-11-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183806",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 227 17/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se aprobă transmiterea unui teren în suprafaţă totală de 86.333 mp, situat în intravilanul municipiului Cluj-Napoca, judeţul Cluj, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului şi din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A., în domeniul public al judeţului Cluj, pentru investiţii de utilitate publică. (2) Contractul de concesiune încheiat între Ministerul Transporturilor şi Compania Naţională de Căi Ferate \"C.F.R.\" - S.A. se modifică în mod corespunzător, în condiţiile legii. (3) Terenul transmis va fi utilizat pentru construirea Parcului ştiinţific şi tehnologic \"Tetapolis\". (4) Parcul ştiinţific şi tehnologic \"Tetapolis\" reprezintă o zonă în cadrul căreia se desfăşoară activităţi de învăţământ, de cercetare şi de transfer tehnologic al rezultatelor cercetării şi valorificarea acestora prin activităţi economice."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Predarea-preluarea terenului transmis potrivit prevederilor art. 1 se face pe bază de protocol încheiat între părţile interesate, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Ministerul Transporturilor elaborează şi supune spre aprobare Guvernului proiectul de hotărâre privind modificarea corespunzătoare a anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, cu modificările şi completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "În cazul nerealizării în termen de 10 ani a destinaţiei pentru care se transmite terenul menţionat, suprafaţa de teren revine de drept în domeniul public al statului şi în administrarea Ministerului Transporturilor."
+    }
+  ],
+  "definitions": []
+}

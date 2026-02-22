@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-277040",
+  "type": "statute",
+  "title": "LEGE nr. 364 din 6 decembrie 2023",
+  "short_name": "lege 364 06 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-06",
+  "in_force_date": "2023-12-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277040",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 364 06/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 31 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, publicată în Monitorul Oficial al României, Partea I, nr. 278 din 17 mai 2013, cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 31 (1) În termen de 3 ani de la comunicarea deciziei de compensare, deținătorul de puncte poate solicita valorificarea acestora în numerar."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, publicată în Monitorul Oficial al României, Partea I, nr. 278 din 17 mai 2013, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-249835",
+  "type": "statute",
+  "title": "LEGE nr. 308 din 22 decembrie 2021",
+  "short_name": "lege 308 22 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-22",
+  "in_force_date": "2021-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249835",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 308 22/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 79 din 20 decembrie 2019 privind unele măsuri în domeniul educației și pentru prorogarea unor termene, publicată în Monitorul Oficial al României, Partea I, nr. 1032 din 23 decembrie 2019."
+    }
+  ],
+  "definitions": []
+}

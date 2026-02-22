@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-209366",
+  "type": "statute",
+  "title": "LEGE nr. 317 din 20 decembrie 2018",
+  "short_name": "lege 317 20 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-20",
+  "in_force_date": "2018-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209366",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 317 20/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "La data intrării în vigoare a prezentei legi, Universitatea „George Barițiu“ din Brașov, instituție de învățământ superior, persoană juridică de drept privat și de utilitate publică, parte a sistemului național de învățământ, cu sediul în municipiul Brașov, Strada Lunii nr. 6, cod poștal 500327, se desființează."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În conformitate cu prevederile art. 230 alin. (2) din Legea educației naționale nr. 1/2011, cu modificările și completările ulterioare, patrimoniul universității revine fondatorilor."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Studenții și absolvenții fără diplomă care au fost înmatriculați la specializări/programe de studii universitare din cadrul Universității „George Barițiu“ din Brașov au dreptul să își finalizeze studiile la specializări/programe de studii acreditate identice sau similare din același domeniu al specializării/programului de studii."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Documentele universității, inclusiv cele create pe timpul funcționării, cu caracter permanent vor fi depuse la Arhivele Naționale ale României, Serviciul Municipiului București al Arhivelor Naționale."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "La data intrării în vigoare a prezentei legi, Legea nr. 483/2002 privind înființarea Universității „George Barițiu“ din Brașov, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 17 iulie 2002, se abrogă."
+    }
+  ],
+  "definitions": []
+}

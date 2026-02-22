@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-211723",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 6 martie 2019",
+  "short_name": "lege 39 06 03 2019",
+  "status": "in_force",
+  "issued_date": "2019-03-06",
+  "in_force_date": "2019-03-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/211723",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 06/03/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 16 din 15 martie 2018 privind asigurarea măsurilor necesare organizării și desfășurării unor proiecte culturale, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 239 din 19 martie 2018, cu următoarea modificare: – Articolul 19 se abrogă."
+    }
+  ],
+  "definitions": []
+}

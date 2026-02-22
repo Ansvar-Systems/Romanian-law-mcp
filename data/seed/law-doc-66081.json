@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-66081",
+  "type": "statute",
+  "title": "LEGE nr. 333 din 15 noiembrie 2005 (*actualizată*)",
+  "short_name": "lege 333 15 11 2005",
+  "status": "in_force",
+  "issued_date": "2005-11-15",
+  "in_force_date": "2005-11-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/66081",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 333 15/11/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Convenţia dintre România şi Republica Austria pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital şi protocolul-anexă, semnate la Bucureşti la 30 martie 2005."
+    }
+  ],
+  "definitions": []
+}

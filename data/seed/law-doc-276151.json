@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276151",
+  "type": "statute",
+  "title": "LEGE nr. 323 din 7 noiembrie 2023",
+  "short_name": "lege 323 07 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-07",
+  "in_force_date": "2023-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276151",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 323 07/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 378 alineatul (1) din Legea nr. 286/2009 privind Codul penal , publicată în Monitorul Oficial al României, Partea I, nr. 510 din 24 iulie 2009, cu modificările și completările ulterioare, litera c) se modifică și va avea următorul cuprins: c) neplata, cu rea-credință, timp de 3 luni, a pensiei de întreținere stabilite pe cale judecătorească sau notarială,"
+    }
+  ],
+  "definitions": []
+}

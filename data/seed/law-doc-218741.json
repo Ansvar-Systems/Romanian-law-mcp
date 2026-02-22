@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-218741",
+  "type": "statute",
+  "title": "LEGE nr. 173 din 7 octombrie 2019",
+  "short_name": "lege 173 07 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-07",
+  "in_force_date": "2019-10-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/218741",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 173 07/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se aprobă plata cotizației anuale pentru participarea Arhivelor Naționale ale României din subordinea Ministerului Afacerilor Interne la Centrul Internațional pentru Cercetări Arhivistice. (2) Pentru anul 2018, cotizația reprezintă echivalentul în lei al sumei de 100 euro. (3) Începând cu anul 2019, plata cotizației prevăzute la alin. (1) se asigură în limita echivalentului în lei al sumei stabilite de Adunarea generală a Centrului Internațional pentru Cercetări Arhivistice. (4) Echivalentul în lei al sumelor prevăzute la alin. (2) și (3) se calculează pe baza cursului de schimb leu/euro stabilit de Banca Națională a României, în vigoare la data efectuării plății. (5) Sumele prevăzute la alin. (2) și (3) se asigură de la bugetul de stat, cu încadrarea în bugetul anual aprobat Arhivelor Naționale ale României, potrivit legii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "La anexa nr. 1 punctul II din Ordonanța Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, publicată în Monitorul Oficial al României, Partea I, nr. 241 din 29 august 1994, aprobată prin Legea nr. 126/1994 , cu modificările și completările ulterioare, după numărul curent 86 se introduce un nou număr curent, numărul curent 87, cu următorul cuprins: Nr. crt. Denumirea organizației Sediul Anul înființării Anul aderării României Instituția română care coordonează relațiile cu organizația internațională respectivă Explicații 87. Centrul Internațional pentru Cercetări Arhivistice Viena 2007 2010 Arhivele Naționale ale României"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-142175",
+  "type": "statute",
+  "title": "LEGE nr. 181 din 18 octombrie 2012",
+  "short_name": "lege 181 18 10 2012",
+  "status": "in_force",
+  "issued_date": "2012-10-18",
+  "in_force_date": "2012-10-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/142175",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 181 18/10/2012",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Protocolul de modificare a Convenției dintre România și Marele Ducat de Luxemburg pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și avere, semnată la Luxemburg la 14 decembrie 1993, ratificată prin Legea nr. 85/1994 , și Protocolul adițional la acesta, semnate la Luxemburg la 4 octombrie 2011."
+    }
+  ],
+  "definitions": []
+}

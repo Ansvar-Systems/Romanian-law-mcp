@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240939",
+  "type": "statute",
+  "title": "LEGE nr. 74 din 12 aprilie 2021",
+  "short_name": "lege 74 12 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-12",
+  "in_force_date": "2021-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240939",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 74 12/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 48 din 25 iunie 2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 16/2018 privind asigurarea măsurilor necesare organizării și desfășurării unor proiecte culturale, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 533 din 28 iunie 2019, cu următoarea modificare: – La articolul I punctul 2 , alineatul (6) al articolului 7 se modifică și va avea următorul cuprins: (6) Asigurarea transportului exponatelor ce vor face parte din Expoziția «Dacia Felix» și din Expoziția «La începuturile istoriei. Civilizații timpurii (preistorice) între Carpați și Dunărea de Jos» se suportă integral din bugetul Ministerului Culturii, prin Muzeul Național de Istorie a României, și se realizează cu aeronave aparținând companiilor civile."
+    }
+  ],
+  "definitions": []
+}

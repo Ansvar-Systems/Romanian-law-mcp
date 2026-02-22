@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-238859",
+  "type": "statute",
+  "title": "LEGE nr. 8 din 4 martie 2021",
+  "short_name": "lege 8 04 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-04",
+  "in_force_date": "2021-03-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/238859",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 8 04/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se acceptă amendamentul adoptat la cea de-a cincea Conferință a părților, la Lillafüred la 12 octombrie 2017, la Convenția-cadru privind protecția și dezvoltarea durabilă a Carpaților, adoptată la Kiev la 22 mai 2003."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ministerul Mediului, Apelor și Pădurilor întreprinde demersurile necesare în vederea punerii în aplicare a amendamentului prevăzut la art. 1 . Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din Constituția României, republicată ."
+    }
+  ],
+  "definitions": []
+}

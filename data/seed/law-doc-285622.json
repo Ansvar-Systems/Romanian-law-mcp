@@ -1,0 +1,36 @@
+{
+  "id": "law-doc-285622",
+  "type": "statute",
+  "title": "LEGE nr. 230 din 17 iulie 2024",
+  "short_name": "lege 230 17 07 2024",
+  "status": "in_force",
+  "issued_date": "2024-07-17",
+  "in_force_date": "2024-07-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/285622",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 230 17/07/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 25 din 18 aprilie 2019 privind protecția know-how-ului și a informațiilor de afaceri nedivulgate care constituie secrete comerciale împotriva dobândirii, utilizării și divulgării ilegale, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 309 din 19 aprilie 2019, cu următoarele modificări și completări: 1. Articolul 6 se modifică și va avea următorul cuprins: Articolul 6 Dreptul la acțiune Pentru protecția secretului comercial împotriva dobândirii, utilizării și divulgării ilegale, deținătorul acestuia se poate adresa instanței competente. 2. La articolul 9, alineatul (1) se modifică și va avea următorul cuprins: (1) Procesul se desfășoară fără prezența publicului, prevederile art. 213 alin. (2) din Legea nr. 134/2010 privind Codul de procedură civilă, republicată , cu modificările și completările ulterioare, fiind aplicabile în mod corespunzător. 3. La articolul 10, partea introductivă a alineatului (1) se modifică și va avea următorul cuprins: (1) La cererea deținătorului secretului comercial, instanța poate dispune, în procedură de urgență, prin încheiere executorie în cadrul procesului având ca obiect aplicarea măsurilor, procedurilor și acțiunilor reparatorii pentru a preveni sau împiedica dobândirea, utilizarea sau divulgarea ilegală a secretelor comerciale sau pentru a obține reparații în urma unor astfel de fapte ori printr-o cerere distinctă, oricare dintre următoarele măsuri provizorii și asigurătorii împotriva presupusului autor al încălcării: 4. La articolul 11, partea introductivă a alineatului (3) se modifică și va avea următorul cuprins: (3) La cererea pârâtului, instanța dispune, prin încheiere executorie, încetarea măsurilor provizorii și asigurătorii prevăzute la art. 10 alin. (1), dacă: 5. La articolul 11, după alineatul (6) se introduce un nou alineat, alineatul (7), următorul cuprins: (7) Împotriva măsurilor dispuse de instanță potrivit art. 10 alin. (1) și (2) și alin. (3) și (5) ale prezentului articol, partea interesată poate formula apel în termen de 5 zile de la pronunțare, dacă s-a dat cu citarea părților, și de la comunicare, dacă s-a dat fără citarea lor, care va fi judecat de instanța ierarhic superioară în condiții de urgență. 6. La articolul 16, alineatul (1) și litera b) a alineatului (4) se modifică și vor avea următorul cuprins: (1) Nerespectarea măsurilor provizorii și asigurătorii prevăzute la art. 10 se sancționează cu amendă civilă între 1.000 lei și 10.000 lei pentru persoanele fizice, respectiv între 0,1 și 1% din cifra de afaceri realizată anul anterior pentru persoane juridice, dar nu mai puțin de 10.000 lei. La individualizarea cuantumului amenzii, instanța se va asigura că aceasta este eficientă, proporțională și cu efect de descurajare în raport cu circumstanțele concrete ale cauzei. .............................................................................................. b) în cazul persoanei juridice nou-înființate, care nu a înregistrat cifră de afaceri în anul anterior sancționării, aceasta va fi sancționată cu amendă de la 10.000 lei la 50.000 lei; 7. La articolul 20, după punctul 1 se introduce un nou punct, punctul 1^1, cu următorul cuprins: 1^1. La articolul 31 alineatul (5), litera c) se modifică și va avea următorul cuprins: c) indemnizație de performanță acordată o dată pe an personalului Consiliului Concurenței cu rezultate deosebite, în condițiile prezentei legi, pentru stimularea performanțelor profesionale, în cuantum aprobat de Plenul Consiliului Concurenței, în limita fondurilor prevăzute la alin. (3), indemnizație care nu reprezintă premiu și nu se ia în calcul la determinarea limitei prevăzute de art. 25 alin. (1) din Legea-cadru nr. 153/2017 , cu modificările și completările ulterioare; 8. La articolul 20 punctul 3 , alineatele (6^1) și (6^2) ale articolului 31 se modifică și vor avea următorul cuprins: (6^1) Membrii Plenului Consiliului Concurenței beneficiază de indemnizație de ședință în cuantum aprobat de Plenul Consiliului Concurenței, acordată din veniturile prevăzute la alin. (3). Indemnizația de ședință acordată într-o lună membrilor Plenului Consiliului Concurenței nu va depăși cuantumul indemnizației lunare de care aceștia beneficiază în calitate de membri ai plenului, indiferent de numărul de ședințe ale plenului desfășurate în cursul unei luni. (6^2) Modul de acordare a indemnizațiilor prevăzute la alin. (5) lit. c) și c^1) se stabilește prin regulament al Consiliului Concurenței, în limita sumelor prevăzute la alin. (3)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "a alineatului (4) se modifică și vor avea următorul cuprins",
+      "definition": "(1) Nerespectarea măsurilor provizorii și asigurătorii prevăzute la art. 10 se sancționează cu amendă civilă între 1.000 lei și 10.000 lei pentru persoanele fizice, respectiv între 0,1 și 1% din cifra de afaceri realizată anul anterior pentru persoane juridice, dar nu mai puțin de 10.000 lei. La individualizarea cuantumului amenzii, instanța se va asigura că aceasta este eficientă, proporțională și cu efect de descurajare în raport cu circumstanțele concrete ale cauzei. .........................",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "în cazul persoanei juridice nou",
+      "definition": "înființate, care nu a înregistrat cifră de afaceri în anul anterior sancționării, aceasta va fi sancționată cu amendă de la 10.000 lei la 50",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "se modifică și va avea următorul cuprins",
+      "definition": "c) indemnizație de performanță acordată o dată pe an personalului Consiliului Concurenței cu rezultate deosebite, în condițiile prezentei legi, pentru stimularea performanțelor profesionale, în cuantum aprobat de Plenul Consiliului Concurenței, în limita fondurilor prevăzute la alin. (3), indemnizație care nu reprezintă premiu și nu se ia în calcul la determinarea limitei prevăzute de art. 25 alin. (1) din Legea-cadru nr",
+      "source_provision": "Art.1"
+    }
+  ]
+}

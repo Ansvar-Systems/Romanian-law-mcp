@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219858",
+  "type": "statute",
+  "title": "LEGE nr. 218 din 14 noiembrie 2019",
+  "short_name": "lege 218 14 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-14",
+  "in_force_date": "2019-11-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219858",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 218 14/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de parteneriat strategic dintre Uniunea Europeană și statele sale membre, pe de o parte, și Japonia, pe de altă parte, semnat la 17 iulie 2018 la Tokyo."
+    }
+  ],
+  "definitions": []
+}

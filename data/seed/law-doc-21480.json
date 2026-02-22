@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-21480",
+  "type": "statute",
+  "title": "LEGE nr. 3 din 18 aprilie 1989",
+  "short_name": "lege 3 18 04 1989",
+  "status": "in_force",
+  "issued_date": "1989-04-18",
+  "in_force_date": "1989-04-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/21480",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 3 18/04/1989",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se interzice organelor de stat, unităţilor de stat, cooperatiste şi obşteşti, precum şi unităţilor bancare, sa contracteze credite din străinătate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Nerespectarea prevederilor art. 1 atrage răspunderea persoanelor vinovate, în condiţiile prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Orice dispoziţii contrare prezentei legi se abroga. Preşedintele Marii Adunare Naţionale, NICOLAE GIOSAN -----------"
+    }
+  ],
+  "definitions": []
+}

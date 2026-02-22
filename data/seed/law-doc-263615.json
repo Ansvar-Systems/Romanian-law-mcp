@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263615",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 3 ianuarie 2023",
+  "short_name": "lege 1 03 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-03",
+  "in_force_date": "2023-01-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263615",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 03/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările și completările ulterioare, se modifică după cum urmează: – La articolul 32 alineatul (2), litera b) se modifică și va avea următorul cuprins: b) pentru lumina albastră - autovehiculele aparținând poliției, jandarmeriei, poliției de frontieră, Autorității Vamale Române, Agenției Naționale de Administrare Fiscală, serviciului de ambulanță sau medicină legală, protecției civile, serviciilor publice Salvamont și Salvaspeo organizate de consiliile județene și consiliile locale, Ministerului Apărării Naționale care însoțesc coloane militare, unităților speciale ale Serviciului Român de Informații și ale Serviciului de Protecție și Pază, Administrației Naționale a Penitenciarelor din cadrul Ministerului Justiției, precum și autovehiculele de serviciu ale procurorilor din Ministerul Public, atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență;"
+    }
+  ],
+  "definitions": []
+}

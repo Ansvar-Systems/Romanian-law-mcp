@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195087",
+  "type": "statute",
+  "title": "LEGE nr. 225 din 27 noiembrie 2017",
+  "short_name": "lege 225 27 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-27",
+  "in_force_date": "2017-11-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195087",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 225 27/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 57 din 4 august 2017 pentru modificarea și completarea art. 2 din Legea nr. 406/2001 privind acordarea unor drepturi persoanelor care au avut calitatea de șef al statului român, publicată în Monitorul Oficial al României, Partea I, nr. 647 din 7 august 2017."
+    }
+  ],
+  "definitions": []
+}

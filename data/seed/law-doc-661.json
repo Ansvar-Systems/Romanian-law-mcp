@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-661",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 30 martie 1988",
+  "short_name": "lege 1 30 03 1988",
+  "status": "in_force",
+  "issued_date": "1988-03-30",
+  "in_force_date": "1988-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/661",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 30/03/1988",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Preţurile de producţie se formează pe baza costurilor planificate ca limita maxima ce nu poate fi depăşită, la care se adauga rentabilitati diferenţiate în funcţie de destinaţia produselor, astfel: a) 6 - 12 la suta, în medie 8 la suta, pentru produsele destinate consumului intern; b) pentru produsele destinate exportului, rentabilitatea prevăzută la lit. a) se majorează cu 10 la suta pentru relaţia devize convertibile şi cu 6 la suta pentru relaţia cliring tari socialiste. Pentru materii prime, precum şi pentru produsele din industria orizontala, rentabilitatea este de 6 la suta, la care se adauga 6 la suta dacă produsele respective sînt destinate indirect exportului. Produsele destinate consumului intern şi exportului indirect, care în prezent au o rentabilitate de pînă la 6 la suta, îşi menţin rentabilitatea actuala."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Noile preţuri de producţie, stabilite în condiţiile prezentei legi, se aproba prin decret al Consiliului de Stat."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Beneficiile realizate suplimentar pe seama reducerii costurilor de producţie peste sarcina planificata rămîn integral la dispoziţia întreprinderii respective în primul an şi în proporţie de 50 la suta în următorii patru ani şi se utilizează potrivit legii. Orice creştere a beneficiului obţinută ca urmare a unor majorări de preţuri se preia la bugetul statului."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Diferenţele dintre actualele preţuri de producţie şi noile preţuri constituie venit al bugetului statului sub forma impozitului pe circulaţia mărfurilor şi se plătesc de unităţile socialiste beneficiare ale produselor respective."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Evaluarea producţiei marfa, precum şi a celorlalţi indicatori derivati, se face, atît în plan, cît şi în execuţie, pe baza noilor preţuri de producţie diferenţiate în funcţie de destinaţia produselor. Evoluţia principalilor indicatori ai dezvoltări economico-sociale se stabileşte pe baza preţurilor curente şi în condiţii comparabile."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Prevederile prezentei legi se aplică experimental în anul 1988, începînd cu data de 15 aprilie 1988. Concluziile desprinse din experimentare vor fi supuse, spre dezbatere, Marii Adunări Naţionale a Republicii Socialiste România pînă la finele anului 1988. ---------------"
+    }
+  ],
+  "definitions": []
+}

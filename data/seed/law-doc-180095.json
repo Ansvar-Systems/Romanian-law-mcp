@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-180095",
+  "type": "statute",
+  "title": "LEGE nr. 141 din 12 iulie 2016",
+  "short_name": "lege 141 12 07 2016",
+  "status": "in_force",
+  "issued_date": "2016-07-12",
+  "in_force_date": "2016-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/180095",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 141 12/07/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 63 din Legea educaţiei naţionale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările şi completările ulterioare, se modifică şi se completează după cum urmează: 1. Alineatul (3) se modifică şi va avea următorul cuprins: \"(3) În situaţii excepţionale, formaţiunile de preşcolari sau de elevi pot funcţiona sub efectivul minim sau peste efectivul maxim, cu aprobarea consiliului de administraţie al inspectoratului şcolar, pe baza unei justificări din partea consiliului de administraţie al unităţii de învăţământ care solicită exceptarea de la prevederile alin. (1).\" 2. După alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: \"(3^1) Situaţiile aprobate de inspectoratul şcolar se comunică Ministerului Educaţiei Naţionale şi Cercetării Ştiinţifice şi autorităţilor locale pentru asigurarea finanţării.\""
+    }
+  ],
+  "definitions": []
+}

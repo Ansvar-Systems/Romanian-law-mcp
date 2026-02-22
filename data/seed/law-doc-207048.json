@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-207048",
+  "type": "statute",
+  "title": "LEGE nr. 269 din 19 noiembrie 2018",
+  "short_name": "lege 269 19 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-19",
+  "in_force_date": "2018-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/207048",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 269 19/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 34 din 10 mai 2018 pentru completarea art. 5 din Ordonanța de urgență a Guvernului nr. 40/2016 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 407 din 14 mai 2018."
+    }
+  ],
+  "definitions": []
+}

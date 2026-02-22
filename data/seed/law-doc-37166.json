@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-37166",
+  "type": "statute",
+  "title": "LEGE nr. 422 din 27 iunie 2002",
+  "short_name": "lege 422 27 06 2002",
+  "status": "in_force",
+  "issued_date": "2002-06-27",
+  "in_force_date": "2002-06-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37166",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 422 27/06/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Banca Naţionala a României, în calitate de banca centrala a statului român, stabileşte lunar nivelul dobânzii de referinţa, care se publică în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În toate actele normative în care se face referire la dobânda de refinantare a Băncii Naţionale a României şi/sau la taxa oficială a scontului, aceste notiuni se înlocuiesc cu noţiunea de dobânda de referinţa a Băncii Naţionale a României. Această lege a fost adoptată de Senat în şedinţa din 25 aprilie 2002, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI, DORU IOAN TARACILA Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 13 iunie 2002, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR VALER DORNEANU -----------"
+    }
+  ],
+  "definitions": []
+}

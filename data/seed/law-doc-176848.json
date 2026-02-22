@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176848",
+  "type": "statute",
+  "title": "LEGE nr. 37 din 22 martie 2016",
+  "short_name": "lege 37 22 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-22",
+  "in_force_date": "2016-03-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176848",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 37 22/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 7 din 15 aprilie 2015 privind stabilirea destinaţiei unor bunuri imobile confiscate, publicată în Monitorul Oficial al României, Partea I, nr. 256 din 16 aprilie 2015."
+    }
+  ],
+  "definitions": []
+}

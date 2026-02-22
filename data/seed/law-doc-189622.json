@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189622",
+  "type": "statute",
+  "title": "LEGE nr. 122 din 29 mai 2017",
+  "short_name": "lege 122 29 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-29",
+  "in_force_date": "2017-05-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189622",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 122 29/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 71 din 26 octombrie 2016 pentru stabilirea unor măsuri organizatorice la nivelul administraţiei publice centrale, reglementarea unor măsuri fiscal-bugetare şi pentru modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 870 din 31 octombrie 2016."
+    }
+  ],
+  "definitions": []
+}

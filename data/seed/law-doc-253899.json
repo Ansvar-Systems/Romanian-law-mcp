@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-253899",
+  "type": "statute",
+  "title": "LEGE nr. 87 din 13 aprilie 2022",
+  "short_name": "lege 87 13 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-13",
+  "in_force_date": "2022-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253899",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 87 13/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 114 din 4 octombrie 2021 pentru modificarea unor acte normative, precum și reglementarea unor măsuri în domeniul protecției drepturilor persoanelor cu dizabilități, publicată în Monitorul Oficial al României, Partea I, nr. 950 din 5 octombrie 2021."
+    }
+  ],
+  "definitions": []
+}

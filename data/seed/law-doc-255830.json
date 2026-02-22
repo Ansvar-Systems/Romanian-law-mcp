@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255830",
+  "type": "statute",
+  "title": "LEGE nr. 162 din 30 mai 2022",
+  "short_name": "lege 162 30 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-30",
+  "in_force_date": "2022-05-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255830",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 162 30/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 167 din 1 octombrie 2020 privind unele măsuri pentru susținerea activității unor aeroporturi regionale în contextul crizei economice generate de pandemia de COVID19 și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 139/2020 privind instituirea cadrului legal pentru acordarea unor ajutoare de stat Societății „Compania națională de transporturi aeriene române - TAROM“ - S.A. și Societății Blue Air Aviation - S.A. pentru compensarea pierderilor economice suferite în contextul pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 899 din 2 octombrie 2020, cu următoarea modificare: – La articolul II punctul 4 , alineatul (2) al articolului 9 se modifică și va avea următorul cuprins: (2) În situația executării garanției de stat, garanțiile prevăzute la art. 4 alin. (2) lit. d)-f) se trec integral în proprietatea statului, prin Autoritatea pentru Administrarea Activelor Statului, statul devenind acționar."
+    }
+  ],
+  "definitions": []
+}

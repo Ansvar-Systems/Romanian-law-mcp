@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-213564",
+  "type": "statute",
+  "title": "LEGE nr. 94 din 7 mai 2019",
+  "short_name": "lege 94 07 05 2019",
+  "status": "in_force",
+  "issued_date": "2019-05-07",
+  "in_force_date": "2019-05-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213564",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 94 07/05/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 27 ianuarie ca Ziua Sveti Sava, sărbătoare a minorității sârbe din România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Ziua Sveti Sava poate fi organizată de către autoritățile administrației publice centrale și locale și instituțiile aflate în subordinea sau coordonarea acestora, de către societatea civilă și persoane fizice și juridice, prin organizarea și/sau participarea la programe și manifestări culturale, educative, artistice, cu caracter social sau științific, consacrate promovării minorității sârbe din România. (2) Autoritățile administrației publice centrale și locale și instituțiile aflate în subordinea sau coordonarea acestora pot acorda sprijin logistic și pot aloca fonduri din bugetele proprii în vederea organizării și derulării în bune condiții a manifestărilor prevăzute la alin. (1) , în limita alocațiilor bugetare aprobate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni și/sau aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

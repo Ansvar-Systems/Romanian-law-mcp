@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270062",
+  "type": "statute",
+  "title": "LEGE nr. 113 din 9 mai 2023",
+  "short_name": "lege 113 09 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-09",
+  "in_force_date": "2023-05-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270062",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 113 09/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 31 din Legea nr. 360/2002 privind Statutul polițistului, publicată în Monitorul Oficial al României, Partea I, nr. 440 din 24 iunie 2002, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. Alineatul (1) se modifică și va avea următorul cuprins: Articolul 31 (1) Polițistul numit în prima funcție sau mutat în interesul serviciului într-o altă localitate decât cea în care își are domiciliul și care nu deține locuință proprietate personală în acea localitate, nici el și nici soția/soțul acestuia, în situația în care nu i se poate asigura spațiu de locuit corespunzător, are dreptul la o compensație lunară pentru chirie de până la 50% din salariul lunar, dar nu mai mult decât chiria prevăzută în contractul de închiriere încheiat în condițiile legii. 2. După alineatul (1^4) se introduce un nou alineat, alin. (1^5), cu următorul cuprins: (1^5) Contractul de închiriere pe baza căruia se acordă compensația lunară pentru chirie în condițiile alin. (1) și alin. (1^1) sau documentele în baza cărora se acordă dreptul prevăzut la alin. (1^2) pot avea ca obiect o locuință din localitatea unde polițistul a fost numit în prima funcție ori mutat în interesul serviciului sau o locuință situată într-o localitate aflată la o distanță de maximum 70 km, în cazul în care nici polițistul și nici soțul/soția nu au în proprietate personală o locuință în localitatea unde se află locuința ce face obiectul contractului de închiriere ori al documentelor în baza cărora se acordă dreptul prevăzut la alin. (1^2) sau în altă localitate situată mai aproape de locul de muncă."
+    }
+  ],
+  "definitions": []
+}

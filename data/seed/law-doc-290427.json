@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-290427",
+  "type": "statute",
+  "title": "LEGE nr. 274 din 6 noiembrie 2024",
+  "short_name": "lege 274 06 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-06",
+  "in_force_date": "2024-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/290427",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 274 06/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 20 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată în Monitorul Oficial al României, Partea I, nr. 1 din 3 ianuarie 2008, cu modificările și completările ulterioare, alineatul (4) se modifică și va avea următorul cuprins: (4) Beneficiază de prevederile alin. (2) lit. b) și adultul cu handicap accentuat și familia sau reprezentantul legal pe perioada în care are în îngrijire un minor ori un adult cu handicap accentuat."
+    }
+  ],
+  "definitions": []
+}

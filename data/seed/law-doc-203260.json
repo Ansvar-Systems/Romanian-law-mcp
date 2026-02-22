@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-203260",
+  "type": "statute",
+  "title": "LEGE nr. 213 din 27 iulie 2018",
+  "short_name": "lege 213 27 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-27",
+  "in_force_date": "2018-07-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203260",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 213 27/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 9 noiembrie ca Ziua Limbii Ucrainene."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Anual, cu prilejul sărbătoririi Zilei Limbii Ucrainene, în localitățile în care trăiesc membri ai comunității ucrainene se pot organiza manifestări culturale dedicate acestei sărbători. (2) Autoritățile administrației publice centrale și locale, precum și organizațiile neguvernamentale interesate pot sprijini logistic și/sau financiar organizarea manifestărilor dedicate sărbătoririi acestei zile."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În instituțiile de învățământ în care se predă limba ucraineană ca limbă maternă, în ziua de 9 noiembrie se pot organiza manifestări culturale dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

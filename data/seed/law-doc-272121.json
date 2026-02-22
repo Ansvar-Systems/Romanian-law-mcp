@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272121",
+  "type": "statute",
+  "title": "LEGE nr. 220 din 13 iulie 2023",
+  "short_name": "lege 220 13 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-13",
+  "in_force_date": "2023-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272121",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 220 13/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 19 din 29 martie 2023 pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 268 din 30 martie 2023."
+    }
+  ],
+  "definitions": []
+}

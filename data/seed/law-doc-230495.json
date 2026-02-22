@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-230495",
+  "type": "statute",
+  "title": "LEGE nr. 210 din 25 septembrie 2020",
+  "short_name": "lege 210 25 09 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-25",
+  "in_force_date": "2020-09-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/230495",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 210 25/09/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, publicată în Monitorul Oficial al României, Partea I, nr. 634 din 18 iulie 2020, se modifică după cum urmează: 1. La articolul 15, alineatul (19) va avea următorul cuprins: (19) Înalta Curte de Casație și Justiție se pronunță în complet de 5 judecători constituit în cadrul Secției de contencios administrativ și fiscal, în termen de 5 zile de la sesizare, prin hotărâre definitivă. 2. La articolul 16, alineatul (1) va avea următorul cuprins: Articolul 16 (1) Orice persoană care se consideră vătămată într-un drept sau interes legitim printr-un act administrativ individual emis potrivit art. 8 alin. (3) poate introduce, în termen de cel mult 24 de ore de la data comunicării deciziei direcției de sănătate publică județene sau a municipiului București, acțiune la judecătoria în a cărei circumscripție domiciliază sau își are reședința ori la judecătoria în a cărei circumscripție este situat spațiul sau unitatea sanitară în care este izolată, solicitând anularea actului. Cererile sunt scutite de plata taxei judiciare de timbru. 3. La articolul 17, alineatul (8) va avea următorul cuprins: (8) Apelul se soluționează de secția civilă a tribunalului într-un termen ce nu va depăși 24 de ore de la data sesizării instanței, prevederile alin. (5) aplicându-se în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Dispozițiile prezentei legi sunt aplicabile și proceselor în curs de soluționare la data intrării în vigoare a acesteia. Dosarele se trimit, de urgență, pe cale administrativă, secțiilor devenite competente să le judece potrivit prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, publicată în Monitorul Oficial al României, Partea I, nr. 634 din 18 iulie 2020, cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

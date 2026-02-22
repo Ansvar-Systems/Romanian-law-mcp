@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-61485",
+  "type": "statute",
+  "title": "LEGE nr. 111 din 3 mai 2005",
+  "short_name": "lege 111 03 05 2005",
+  "status": "in_force",
+  "issued_date": "2005-05-03",
+  "in_force_date": "2005-05-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/61485",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 111 03/05/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 89 din 4 noiembrie 2004 privind vânzarea bunurilor imobile în care se desfăşoară activităţi de asistenţă sanitar-veterinară, publicată în Monitorul Oficial al României, Partea I, nr. 1.053 din 12 noiembrie 2004, cu următoarele modificări şi completări: 1. La articolul 1, după alineatul (2) se introduce alineatul (2^1) cu următorul cuprins: \"(2^1) Prin clădiri, în sensul prezentei ordonanţe de urgenţă, se înţelege sediile de circumscripţii sanitar-veterinare, locuinţe de serviciu şi anexele inseparabile în cazul înstrăinărilor.\" 2. Articolul 2 se abrogă. 3. La articolul 4, după alineatul (4) se introduce alineatul (5) cu următorul cuprins: \"(5) Contractele de vânzare-cumpărare pe care Agenţia Domeniilor Statului le va încheia în condiţiile prevăzute de prezenta ordonanţă de urgenţă cu concesionarii bunurilor imobile prevăzute în anexă vor avea ca obiect suprafeţele rezultate din măsurătorile cadastrale.\" 4. La articolul 5 alineatul (2), litera c) va avea următorul cuprins: \"c) perceperea unei dobânzi anuale la nivelul ratei lunare a dobânzii de referinţă a Băncii Naţionale a României de la data plăţii.\" 5. La articolul 6, litera b) va avea următorul cuprins: \"b) constituirea unei ipoteci pe imobilul care face obiectul vânzării, până la achitarea în totalitate a bunului cumpărat.\" 6. Articolul 7 se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Anexa face parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Anexa la Ordonanţa de urgenţă a Guvernului nr. 89/2004 privind vânzarea bunurilor imobile în care se desfăşoară activităţi de asistenţă sanitar-veterinară se înlocuieşte cu anexa la prezenta lege. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. p. PREŞEDINTELE CAMEREI DEPUTAŢILOR, MIRON TUDOR MITREA PREŞEDINTELE SENATULUI NICOLAE VĂCĂROIU Bucureşti, 3 mai 2005. Nr. 111."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "va avea următorul cuprins",
+      "definition": "\"c) perceperea unei dobânzi anuale la nivelul ratei lunare a dobânzii de referinţă a Băncii Naţionale a României de la data plăţii.\" 5. La articolul 6, litera b) va avea următorul cuprins: \"b) constituirea unei ipoteci pe imobilul care face obiectul vânzării, până la achitarea în totalitate a bunului cumpărat.\" 6. Articolul 7 se abrogă.",
+      "source_provision": "Art.1"
+    }
+  ]
+}

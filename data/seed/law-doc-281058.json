@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281058",
+  "type": "statute",
+  "title": "LEGE nr. 76 din 4 aprilie 2024",
+  "short_name": "lege 76 04 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-04",
+  "in_force_date": "2024-04-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281058",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 76 04/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 73 din 14 septembrie 2023 privind unele măsuri bugetare, publicată în Monitorul Oficial al României, Partea I, nr. 830 din 14 septembrie 2023, cu completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

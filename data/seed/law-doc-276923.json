@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276923",
+  "type": "statute",
+  "title": "LEGE nr. 359 din 29 noiembrie 2023",
+  "short_name": "lege 359 29 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-29",
+  "in_force_date": "2023-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276923",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 359 29/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 59 din 15 iunie 2023 privind stabilirea unor măsuri la nivelul administrației publice centrale, publicată în Monitorul Oficial al României, Partea I, nr. 536 din 15 iunie 2023."
+    }
+  ],
+  "definitions": []
+}

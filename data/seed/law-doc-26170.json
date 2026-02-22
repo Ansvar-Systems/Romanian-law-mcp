@@ -1,0 +1,18 @@
+{
+  "id": "law-doc-26170",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 1937*)",
+  "short_name": "lege 43 01 01 1937",
+  "status": "in_force",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/26170",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 01/01/1937",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute: 1. Convenţiunea internationala pentru unificarea anumitor reguli în materie de conosament, încheiată la Bruxelles la 25 August 1924. 2. Convenţiunea internationala pentru unificarea anumitor reguli privitoare la privilegiile şi ipotecile maritime, semnată la Bruxelles la 10 Aprilie 1926. 3. Convenţiunea internationala pentru unificarea anumitor reguli privind imunităţile vaselor de Stat, semnată la Bruxelles la 10 Aprilie 1926. 4. Protocolul adiţional acestei Convenţiuni semnat la Bruxelles la 24 Mai 1934. Copie şi traducere de pe aceste Convenţiuni şi Protocolul se alătură la legea de faţa."
+    }
+  ],
+  "definitions": []
+}

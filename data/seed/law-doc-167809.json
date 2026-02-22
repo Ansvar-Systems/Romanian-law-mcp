@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-167809",
+  "type": "statute",
+  "title": "LEGE nr. 97 din 7 mai 2015",
+  "short_name": "lege 97 07 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-07",
+  "in_force_date": "2015-05-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167809",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 97 07/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (1) al articolului 137 din Legea nr. 53/2003 - Codul muncii, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"Art. 137. - (1) Repausul săptămânal este de 48 de ore consecutive, de regulă sâmbăta şi duminica.\""
+    }
+  ],
+  "definitions": []
+}

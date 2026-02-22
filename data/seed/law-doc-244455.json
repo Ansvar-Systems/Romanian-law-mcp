@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-244455",
+  "type": "statute",
+  "title": "LEGE nr. 198 din 16 iulie 2021",
+  "short_name": "lege 198 16 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-16",
+  "in_force_date": "2021-07-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244455",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 198 16/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 54 din Legea nr. 304/2004 privind organizarea judiciară, republicată în Monitorul Oficial al României, Partea I, nr. 827 din 13 septembrie 2005, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. Alineatul (2) se modifică și va avea următorul cuprins: (2) Apelurile se judecă în complet format din 2 judecători, cu excepția cazurilor în care legea prevede altfel. 2. După alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: (2^1) Recursurile se judecă în complet format din 3 judecători, cu excepția cazurilor în care legea prevede altfel."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La data intrării în vigoare a prezentei legi se abrogă Ordonanța de urgență a Guvernului nr. 215/2020 privind adoptarea unor măsuri în materia alcătuirii completurilor de judecată în apel, publicată în Monitorul Oficial al României, Partea I, nr. 1316 din 30 decembrie 2020, aprobată prin Legea nr. 85/2021 ."
+    }
+  ],
+  "definitions": []
+}

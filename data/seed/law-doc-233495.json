@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-233495",
+  "type": "statute",
+  "title": "LEGE nr. 261 din 20 noiembrie 2020",
+  "short_name": "lege 261 20 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-20",
+  "in_force_date": "2020-11-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/233495",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 261 20/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 8 alineatul (7) din Legea nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe, republicată în Monitorul Oficial al României, Partea I, nr. 740 din 21 octombrie 2011, cu modificările și completările ulterioare, litera b) se modifică și va avea următorul cuprins: b) o cotă de maximum 1,5%, aplicată la valoarea de înlocuire a construcției, destinată administratorilor locuințelor prevăzuți la alin. (2), pentru administrarea, întreținerea și reparațiile curente, precum și reparațiile capitale;"
+    }
+  ],
+  "definitions": []
+}

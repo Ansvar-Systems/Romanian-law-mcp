@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173257",
+  "type": "statute",
+  "title": "LEGE nr. 287 din 19 noiembrie 2015",
+  "short_name": "lege 287 19 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-19",
+  "in_force_date": "2015-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173257",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 287 19/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Guvernul Republicii Coreea privind protecţia informaţiilor clasificate militare, semnat la Bucureşti la 26 martie 2015."
+    }
+  ],
+  "definitions": []
+}

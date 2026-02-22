@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169014",
+  "type": "statute",
+  "title": "LEGE nr. 153 din 18 iunie 2015",
+  "short_name": "lege 153 18 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-18",
+  "in_force_date": "2015-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169014",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 153 18/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (2) al articolului 18 din Legea educaţiei naţionale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările şi completările ulterioare, se modifică şi va avea următorul cuprins: \"(2) Înscrierea elevului pentru a frecventa orele de religie se face prin cerere scrisă a elevului major, respectiv a părintelui sau a tutorelui legal instituit pentru elevul minor. Schimbarea acestei opţiuni se face tot prin cerere scrisă a elevului major, respectiv a părintelui sau a tutorelui legal instituit pentru elevul minor. În cazul în care elevul nu frecventează orele de religie, situaţia şcolară se încheie fără disciplina Religie. În mod similar se procedează şi pentru elevul căruia, din motive obiective, nu i s-au asigurat condiţiile pentru frecventarea orelor la această disciplină.\""
+    }
+  ],
+  "definitions": []
+}

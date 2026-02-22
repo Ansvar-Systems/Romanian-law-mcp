@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183898",
+  "type": "statute",
+  "title": "LEGE nr. 231 din 22 noiembrie 2016",
+  "short_name": "lege 231 22 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-22",
+  "in_force_date": "2016-11-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183898",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 231 22/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 51 din 28 iunie 2014 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii, publicată în Monitorul Oficial al României, Partea I, nr. 486 din 30 iunie 2014."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168575",
+  "type": "statute",
+  "title": "LEGE nr. 128 din 3 iunie 2015",
+  "short_name": "lege 128 03 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-03",
+  "in_force_date": "2015-06-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168575",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 128 03/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 7 din 28 ianuarie 2015 pentru completarea art. 35^1 din Legea poliţiei locale nr. 155/2010 , adoptată în temeiul art. 1 pct. II.5 din Legea nr. 184/2014 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 81 din 30 ianuarie 2015."
+    }
+  ],
+  "definitions": []
+}

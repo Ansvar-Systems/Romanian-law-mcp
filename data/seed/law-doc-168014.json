@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168014",
+  "type": "statute",
+  "title": "LEGE nr. 112 din 14 mai 2015",
+  "short_name": "lege 112 14 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-14",
+  "in_force_date": "2015-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168014",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 112 14/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 88 din 23 decembrie 2014 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/2013 privind întărirea disciplinei financiare la nivelul unor operatori economici la care statul sau unităţile administrativ-teritoriale sunt acţionari unici ori majoritari sau deţin direct ori indirect o participaţie majoritară, precum şi pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 949 din 23 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

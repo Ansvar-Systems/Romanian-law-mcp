@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-185135",
+  "type": "statute",
+  "title": "LEGE nr. 252 din 23 decembrie 2016",
+  "short_name": "lege 252 23 12 2016",
+  "status": "in_force",
+  "issued_date": "2016-12-23",
+  "in_force_date": "2016-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/185135",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 252 23/12/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 4^1 din Legea recunoştinţei pentru victoria Revoluţiei Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Braşov din noiembrie 1987 şi pentru revolta muncitorească anticomunistă din Valea Jiului - Lupeni - august 1977 nr. 341/2004 , publicată în Monitorul Oficial al României, Partea I, nr. 654 din 20 iulie 2004, cu modificările şi completările ulterioare, după alineatul (3) se introduce un nou alineat, alineatul (4), cu următorul cuprins: \"(4) Indemnizaţia lunară reparatorie prevăzută pentru beneficiarii ale căror certificate au fost preschimbate se acordă la cerere, începând cu luna următoare celei în care a fost depusă la Secretariatul de Stat documentaţia care a stat la baza preschimbării certificatului.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271991",
+  "type": "statute",
+  "title": "LEGE nr. 213 din 7 iulie 2023",
+  "short_name": "lege 213 07 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-07",
+  "in_force_date": "2023-07-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271991",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 213 07/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 91 din Legea nr. 286/2009 privind Codul penal , publicată în Monitorul Oficial al României, Partea I, nr. 510 din 24 iulie 2009, cu modificările și completările ulterioare, după alineatul (3) se introduce un nou alineat, alin. (3^1), cu următorul cuprins: (3^1) Nu se poate dispune suspendarea executării pedepsei sub supraveghere în cazul infracțiunilor prevăzute la art. 192 alin. (2) și (3), dacă acestea au fost săvârșite în condițiile art. 335 sau 336."
+    }
+  ],
+  "definitions": []
+}

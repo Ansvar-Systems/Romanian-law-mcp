@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-267149",
+  "type": "statute",
+  "title": "LEGE nr. 92 din 12 aprilie 2023",
+  "short_name": "lege 92 12 04 2023",
+  "status": "in_force",
+  "issued_date": "2023-04-12",
+  "in_force_date": "2023-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/267149",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 92 12/04/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la art. 4 din Ordonanța de urgență a Guvernului nr. 64/2007 privind datoria publică, aprobată cu modificări și completări prin Legea nr. 109/2008 , cu modificările și completările ulterioare, se aprobă participarea României la garanțiile acordate de statele membre pentru asistența macrofinanciară excepțională din partea Uniunii Europene, în temeiul Deciziei (UE) 2022/1.628 a Parlamentului European și a Consiliului din 20 septembrie 2022 privind acordarea de asistență macrofinanciară excepțională Ucrainei și consolidarea fondului comun de provizionare prin garanții din partea statelor membre și prin provizionare specifică pentru anumite datorii financiare legate de Ucraina, garantate în temeiul Deciziei nr. 466/2014/UE și de modificare a Deciziei (UE) 2022/1.201."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În vederea aplicării prevederilor art. 1 se autorizează Guvernul României, prin Ministerul Finanțelor, să semneze Acordul de garantare dintre Comisia Europeană și România în conformitate cu articolul 10 din Decizia (UE) 2022/1.628 a Parlamentului European și a Consiliului, în valoare de 60.453.864 euro, denumit în continuare Acord de garantare , prevăzut în anexa care face parte integrantă din prezenta lege. (2) Acordul de garantare intră în vigoare după semnarea acestuia de ambele părți, astfel cum este prevăzut în textul acestuia, dată de la care clauzele Acordului de garantare își produc efectele și sunt aplicabile în conformitate cu termenii acestuia. (3) Orice amendament la conținutul Acordului de garantare , convenit între Guvernul României, prin Ministerul Finanțelor, și Comisia Europeană care nu este de natură să majoreze obligațiile financiare asumate de România față de Comisia Europeană se aprobă prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Obligațiile ce revin României, în calitate de Garant, în cadrul Acordului de garantare sunt asimilate obligațiilor de natura datoriei publice guvernamentale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Plata obligațiilor care revin României, în cadrul Acordului de garantare , se asigură prin mecanismul aferent finanțărilor rambursabile contractate de Guvernul României, prin Ministerul Finanțelor, în vederea finanțării deficitului bugetului de stat, refinanțării și rambursării anticipate a datoriei publice guvernamentale, conform legislației în vigoare privind datoria publică. (2) Sumele recuperate potrivit Acordului de garantare se virează în contul de valută al Ministerului Finanțelor deschis la Banca Națională a României și vor fi utilizate pe măsura necesităților de finanțare a deficitului bugetului de stat, refinanțării și rambursării anticipate a datoriei publice guvernamentale."
+    }
+  ],
+  "definitions": []
+}

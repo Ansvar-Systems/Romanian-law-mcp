@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208039",
+  "type": "statute",
+  "title": "LEGE nr. 278 din 26 noiembrie 2018",
+  "short_name": "lege 278 26 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-26",
+  "in_force_date": "2018-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208039",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 278 26/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 43 din 24 mai 2018 pentru adoptarea unei măsuri privind reducerea riscului de dezangajare a fondurilor europene, publicată în Monitorul Oficial al României, Partea I, nr. 451 din 30 mai 2018."
+    }
+  ],
+  "definitions": []
+}

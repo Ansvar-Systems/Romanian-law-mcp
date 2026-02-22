@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-241165",
+  "type": "statute",
+  "title": "LEGE nr. 91 din 19 aprilie 2021",
+  "short_name": "lege 91 19 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-19",
+  "in_force_date": "2021-04-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241165",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 91 19/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 58 din 3 iulie 2019 pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 553 din 5 iulie 2019."
+    }
+  ],
+  "definitions": []
+}

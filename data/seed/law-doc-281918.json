@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281918",
+  "type": "statute",
+  "title": "LEGE nr. 109 din 17 aprilie 2024",
+  "short_name": "lege 109 17 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-17",
+  "in_force_date": "2024-04-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281918",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 109 17/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 107 din 29 noiembrie 2023 privind unele măsuri pentru consolidarea capacităților tehnice necesare funcționării sistemului informatic al Ministerului Finanțelor, publicată în Monitorul Oficial al României, Partea I, nr. 1092 din 5 decembrie 2023."
+    }
+  ],
+  "definitions": []
+}

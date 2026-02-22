@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-129212",
+  "type": "statute",
+  "title": "LEGE nr. 96 din 6 iunie 2011",
+  "short_name": "lege 96 06 06 2011",
+  "status": "in_force",
+  "issued_date": "2011-06-06",
+  "in_force_date": "2011-06-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/129212",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 96 06/06/2011",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 91 din 30 iunie 2009 pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 457 din 1 iulie 2009, cu următoarele modificări: 1. Articolul II se abrogă. 2. Articolul IV va avea următorul cuprins: Articolul IV Se autorizează Ministerul Finanțelor Publice să introducă, la propunerea ordonatorilor principali de credite, modificările prevăzute la art. III în structura bugetului de stat și în volumul și structura bugetelor acestora pe anul 2009."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La data intrării în vigoare a prezentei legi se abrogă art. III din Ordonanța Guvernului nr. 7/2009 pentru instituirea sistemului temporar de sprijinire a derulării afacerilor în domeniul comerțului cu semințe de consum, precum și pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 476 din 10 iulie 2009, aprobată cu modificări și completări prin Legea nr. 53/2010 ."
+    }
+  ],
+  "definitions": []
+}

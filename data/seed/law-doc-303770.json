@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-303770",
+  "type": "statute",
+  "title": "LEGE nr. 169 din 29 octombrie 2025",
+  "short_name": "lege 169 29 10 2025",
+  "status": "in_force",
+  "issued_date": "2025-10-29",
+  "in_force_date": "2025-10-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/303770",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 169 29/10/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Convenția dintre România și Regatul Unit al Marii Britanii și Irlandei de Nord pentru eliminarea dublei impuneri cu privire la impozitele pe venit și pe câștiguri de capital și prevenirea evaziunii fiscale și a evitării plății impozitelor și Protocolul la convenție , semnate la Londra la 13 noiembrie 2024."
+    }
+  ],
+  "definitions": []
+}

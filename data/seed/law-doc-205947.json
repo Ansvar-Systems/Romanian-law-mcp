@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-205947",
+  "type": "statute",
+  "title": "LEGE nr. 238 din 10 octombrie 2018",
+  "short_name": "lege 238 10 10 2018",
+  "status": "in_force",
+  "issued_date": "2018-10-10",
+  "in_force_date": "2018-10-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/205947",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 238 10/10/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 22 din 21 martie 2018 pentru modificarea și completarea Ordonanței Guvernului nr. 5/2017 privind stabilirea unor măsuri organizatorice la nivelul administrației publice centrale cu privire la Centenarul României, publicată în Monitorul Oficial al României, Partea I, nr. 265 din 26 martie 2018."
+    }
+  ],
+  "definitions": []
+}

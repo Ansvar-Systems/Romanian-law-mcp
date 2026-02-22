@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-32262",
+  "type": "statute",
+  "title": "LEGE nr. 621 din 7 noiembrie 2001",
+  "short_name": "lege 621 07 11 2001",
+  "status": "in_force",
+  "issued_date": "2001-11-07",
+  "in_force_date": "2001-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32262",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 621 07/11/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 75 din 16 iunie 2000 pentru modificarea Ordonanței de urgenta a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, publicată în Monitorul Oficial al României, Partea I, nr. 282 din 22 iunie 2000, cu următoarele modificări și completări: 1. La articolul I punctul 2 , articolul 6 alineatul (1) litera b) va avea următorul cuprins: b) scutirea de la plata taxelor vamale pentru materiile prime și componentele importate necesare în vederea realizării producției proprii în zona; 2. La articolul I punctul 5 , articolul 12 alineatul (2) va avea următorul cuprins: (2) În cazul în care schimbarea destinației bunurilor se realizează fără îndeplinirea condițiilor prevăzute în prezentul articol, beneficiarilor de facilități li se aplică prevederile legislației în vigoare privind importul și achitarea taxelor vamale, precum și a taxei pe valoarea adăugată."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgență a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată, cu modificările și completările ulterioare, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare."
+    }
+  ],
+  "definitions": []
+}

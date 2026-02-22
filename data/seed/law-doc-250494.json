@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-250494",
+  "type": "statute",
+  "title": "LEGE nr. 19 din 13 ianuarie 2022",
+  "short_name": "lege 19 13 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-13",
+  "in_force_date": "2022-01-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250494",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 19 13/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie anul 2022 ca Anul Smaranda Brăescu, pentru celebrarea împlinirii a 90 de ani de la stabilirea recordului absolut la parașutism, la data de 19 mai 1932, de către aviatoarea Smaranda Brăescu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Începând cu anul 2022, pentru a marca personalitatea aviatoarei Smaranda Brăescu, se pot desfășura anual ceremonii, în datele de 19 mai și 2 octombrie, care pot fi organizate de autoritățile administrației publice centrale și locale, precum și de instituțiile publice de cultură din țară și din străinătate, prin derularea unor programe și manifestări cu caracter cultural sportiv, în colaborare cu organizații neguvernamentale."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Autoritățile administrației publice centrale și locale pot sprijini material sau logistic organizarea și desfășurarea programelor și manifestărilor prevăzute la art. 2 , în limita fondurilor disponibile. (2) Societatea Română de Televiziune și Societatea Română de Radiodifuziune, în calitate de servicii publice, pot include în programele lor emisiuni culturale ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169410",
+  "type": "statute",
+  "title": "LEGE nr. 169 din 29 iunie 2015",
+  "short_name": "lege 169 29 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-29",
+  "in_force_date": "2015-06-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169410",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 169 29/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Organizaţia pentru Eliberarea Palestinei privind dobândirea, pe bază de reciprocitate, a dreptului de proprietate asupra terenurilor pentru buna funcţionare a misiunilor diplomatice şi oficiilor consulare, semnat la Bethlehem la 24 decembrie 2013."
+    }
+  ],
+  "definitions": []
+}

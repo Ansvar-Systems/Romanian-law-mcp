@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-249119",
+  "type": "statute",
+  "title": "LEGE nr. 291 din 10 decembrie 2021",
+  "short_name": "lege 291 10 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-10",
+  "in_force_date": "2021-12-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249119",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 291 10/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 291 alineatul (3) din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) livrarea de manuale școlare, cărți, ziare și reviste, pe suport fizic și/sau pe cale electronică, cu excepția celor care au, în totalitate sau în mod predominant, un conținut video sau un conținut muzical audio și a celor destinate exclusiv sau în principal publicității;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prin derogare de la prevederile art. 4 din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, prezenta lege intră în vigoare la data de 1 ianuarie 2022."
+    }
+  ],
+  "definitions": []
+}

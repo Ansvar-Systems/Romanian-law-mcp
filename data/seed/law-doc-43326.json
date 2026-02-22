@@ -1,0 +1,31 @@
+{
+  "id": "law-doc-43326",
+  "type": "statute",
+  "title": "LEGE nr. 143 din 14 aprilie 2003",
+  "short_name": "lege 143 14 04 2003",
+  "status": "in_force",
+  "issued_date": "2003-04-14",
+  "in_force_date": "2003-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/43326",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 143 14/04/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenta a Guvernului nr. 152 din 7 noiembrie 2002 privind organizarea şi funcţionarea societăţilor comerciale de turism balnear şi de recuperare, publicată în Monitorul Oficial al României, Partea I, nr. 826 din 15 noiembrie 2002, cu următoarele modificări şi completări: 1. Articolul 1 va avea următorul cuprins: \"Art. 1. - (1) În sensul prezentei ordonanţe de urgenţă, societatea de turism balnear este acea societate comercială constituită conform Legii nr. 31/1990 privind societăţile comerciale, republicată, cu modificările şi completările ulterioare, care prestează cumulat servicii de cazare, alimentaţie publică, asigura asistenţa medicală balneara şi de recuperare, autorizata în condiţiile legii, denumita în continuare societate. (2) Societatea poate desfăşura şi alte activităţi, prevăzute în actul constitutiv, conexe cu activitatea de turism. (3) Pentru prestarea serviciilor de tratament balnear şi de recuperare, societatea poate să constituie propriile servicii medico-sanitare, acreditate ca baze de tratament, conform legii, cu personal medical şi paramedical propriu, sau sa încheie contracte de parteneriat cu următoarele structuri medicale: a) Institutul Naţional de Recuperare, Medicina Fizica şi Balneoclimatologie Bucureşti; b) unităţile sanitare cu personalitate juridică din subordinea direcţiilor de sănătate publică, precum: spitalele de recuperare, sanatoriile balneare şi de recuperare, secţiile de profil din spitale, centrele medicale balneare şi de recuperare, ambulatoriile de recuperare-reabilitare din staţiunile balneoclimatice; c) cabinetele medicale de specialitate, în condiţiile legii; d) unităţile sanitare de profil din subordinea altor ministere sau instituţii, autorizate şi acreditate conform legii.\" 2. Litera b) a articolului 3 va avea următorul cuprins: \"b) societatea are în mod obligatoriu un director medical, de profesie medic, care va coordona activitatea bazei de tratament, în conformitate cu prevederile legale.\" 3. La articolul 3 se introduce alineatul (2) cu următorul cuprins: \"(2) Societăţile care îndeplinesc condiţiile prevăzute la alin. (1) sunt asimilate unităţilor sanitare.\" 4. Articolul 4 va avea următorul cuprins: \"Art. 4. - Autorizarea şi controlul de specialitate al bazelor de tratament balnear şi de recuperare din cadrul societăţilor se realizează de Ministerul Sănătăţii şi Familiei, în condiţiile legii.\" Această lege a fost adoptată de Senat în şedinţa din 13 martie 2003, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI, ALEXANDRU ATHANASIU Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 25 martie 2003, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR VALER DORNEANU Bucureşti, 14 aprilie 2003. Nr. 143. -----------"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "unităţile sanitare cu personalitate juridică din subordinea direcţiilor de sănătate publică, precum",
+      "definition": "spitalele de recuperare, sanatoriile balneare şi de recuperare, secţiile de profil din spitale, centrele medicale balneare şi de recuperare, ambulatoriile de recuperare-reabilitare din staţiunile balneoclimatice",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "a articolului 3 va avea următorul cuprins",
+      "definition": "\"b) societatea are în mod obligatoriu un director medical, de profesie medic, care va coordona activitatea bazei de tratament, în conformitate cu prevederile legale.\" 3. La articolul 3 se introduce alineatul (2) cu următorul cuprins: \"(2) Societăţile care îndeplinesc condiţiile prevăzute la alin. (1) sunt asimilate unităţilor sanitare.\" 4. Articolul 4 va avea următorul cuprins: \"Art. 4",
+      "source_provision": "Art.1"
+    }
+  ]
+}

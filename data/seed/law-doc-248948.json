@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-248948",
+  "type": "statute",
+  "title": "LEGE nr. 282 din 2 decembrie 2021",
+  "short_name": "lege 282 02 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-02",
+  "in_force_date": "2021-12-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/248948",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 282 02/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale, publicată în Monitorul Oficial al României, Partea I, nr. 647 din 25 iulie 2018, cu modificările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 11, alineatul (2) se modifică și va avea următorul cuprins: (2) Elementele minime obligatorii de structură și de format ale procesului-verbal de contravenție prevăzut la alin. (1) se stabilesc prin normele de aplicare ale prezentei legi. 2. La articolul 21, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Prin derogare de la art. 20 alin. (1) din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, pe perioada aplicării sistemului pilot, dacă agentul constatator constată în același timp mai multe contravenții săvârșite de aceeași persoană, pentru amenzile prevăzute la alin. (1) se încheie un proces-verbal de constatare a contravenției și de aplicare a sancțiunii distinct de celelalte, având seria de evidență unică prevăzută la art. 2 lit. b)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale, publicată în Monitorul Oficial al României, Partea I, nr. 647 din 25 iulie 2018, cu modificările ulterioare, precum și cu modificările și completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

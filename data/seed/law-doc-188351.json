@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-188351",
+  "type": "statute",
+  "title": "LEGE nr. 61 din 12 aprilie 2017",
+  "short_name": "lege 61 12 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-12",
+  "in_force_date": "2017-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188351",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 61 12/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 46 din 26 iunie 2014 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 475 din 27 iunie 2014."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Dispozițiile art. 133 alin. (7) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, se aplică până la data de 31 decembrie 2017. (2) Începând cu data de 1 ianuarie 2018 alin. (7) al art. 133 din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, se abrogă."
+    }
+  ],
+  "definitions": []
+}

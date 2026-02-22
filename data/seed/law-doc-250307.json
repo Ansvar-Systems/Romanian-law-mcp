@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250307",
+  "type": "statute",
+  "title": "LEGE nr. 11 din 7 ianuarie 2022",
+  "short_name": "lege 11 07 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-07",
+  "in_force_date": "2022-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250307",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 11 07/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 104 din 22 septembrie 2021 privind înființarea Directoratului Național de Securitate Cibernetică, publicată în Monitorul Oficial al României, Partea I, nr. 918 din 24 septembrie 2021, cu următoarele modificări și completări: 1. La articolul 1, alineatul (6) se modifică și va avea următorul cuprins: (6) DNSC are responsabilități privind securitatea cibernetică a spațiului cibernetic național civil, componentă a securității naționale. 2. La articolul 5 litera b), punctul 5 se modifică și avea următorul cuprins: 5. îndeplinește atribuțiile de autoritate competentă de securitate cibernetică la nivel național pentru furnizorii de servicii de găzduire/hosting, de servicii tip cloud și furnizorii de rețele de distribuție de conținut; 3. La articolul 20, după alineatul (8) se introduce un nou alineat, alineatul (8^1), cu următorul cuprins: (8^1) Prin derogare de la prevederile art. 16 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, personalul nominalizat în echipele proiectelor finanțate prin programe, instrumente, mecanisme, fonduri europene sau internaționale în care DNSC participă este plătit la tariful orar/zilnic/lunar specificat prin contractul de finanțare. În cazul în care contractul de finanțare nu specifică tariful orar/zilnic/lunar, se utilizează plafoanele stabilite în Planul național de cercetaredezvoltare și inovare aflat în vigoare."
+    }
+  ],
+  "definitions": []
+}

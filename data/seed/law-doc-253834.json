@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-253834",
+  "type": "statute",
+  "title": "LEGE nr. 82 din 11 aprilie 2022",
+  "short_name": "lege 82 11 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-11",
+  "in_force_date": "2022-04-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253834",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 82 11/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 109 din 29 septembrie 2021 privind echivalarea funcțiilor publice specifice cu funcțiile publice generale, la nivelul Autorității Naționale pentru Protecția Consumatorilor, publicată în Monitorul Oficial al României, Partea I, nr. 945 din 4 octombrie 2021."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Începând cu luna următoare celei în care intră în vigoare prezenta lege, nivelul salariilor de bază de care beneficiază personalul din cadrul structurii centrale a Autorității Naționale pentru Protecția Consumatorilor și din structurile subordonate acesteia se stabilește la nivelul maxim aflat în plată al salariilor de bază ale personalului Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor, pentru aceeași funcție, categorie, clasă, grad, treaptă și gradație. (2) Stabilirea salariilor de bază potrivit alin. (1) se face prin ordin al conducătorului Autorității Naționale pentru Protecția Consumatorilor, pe baza datelor comunicate de către Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor."
+    }
+  ],
+  "definitions": []
+}

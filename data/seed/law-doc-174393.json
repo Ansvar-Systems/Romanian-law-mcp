@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-174393",
+  "type": "statute",
+  "title": "LEGE nr. 345 din 22 decembrie 2015",
+  "short_name": "lege 345 22 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-22",
+  "in_force_date": "2015-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174393",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 345 22/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 18 din 10 iunie 2015 privind stabilirea unor măsuri necesare pentru asigurarea tranziţiei de la televiziunea analogică terestră la televiziunea digitală terestră şi implementarea serviciilor multimedia la nivel naţional, precum şi pentru completarea Legii audiovizualului nr. 504/2002 , publicată în Monitorul Oficial al României, Partea I, nr. 423 din 15 iunie 2015, cu următoarele modificări: 1. Titlul ordonanţei de urgenţă se modifică şi va avea următorul cuprins: \"ORDONANŢĂ DE URGENŢĂ privind stabilirea unor măsuri necesare pentru asigurarea tranziţiei de la televiziunea analogică terestră la televiziunea digitală terestră şi implementarea serviciilor multimedia la nivel naţional\" 2. Titlul II se abrogă."
+    }
+  ],
+  "definitions": []
+}

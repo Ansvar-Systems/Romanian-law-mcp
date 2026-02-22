@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-1453",
+  "type": "statute",
+  "title": "LEGE Nr. 16 din 13 februarie 1991",
+  "short_name": "lege 16 13 02 1991",
+  "status": "in_force",
+  "issued_date": "1991-02-13",
+  "in_force_date": "1991-02-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1453",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 16 13/02/1991",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Volumul de masa lemnoasă pe picior ce se va recolta în anul 1991 este de maximum 19 milioane m.c., din care 3 milioane m.c. vor fi pentru acoperirea nevoilor locale de lemn e foc şi lemn de lucru. Volumul anual de recoltare va scădea treptat, astfel încît în perioada 1991-1995 sa nu depăşească posibilitatea normală de regenerare a pădurii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Masa lemnoasă provenită din doborîturi de vînt, de zapada şi din uscături va fi valorificată, cu prioritate, reţinîndu-se pe picior un volum echivalent din cel prevăzut la tăiere, în cadrul aceleiaşi unităţi silvice sau pe total ţara."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Se abroga, la data apariţiei prezentei legi, prevederile Decretului nr. 73 din 8 martie 1983 privind modificarea preţurilor la masa lemnoasă pe picior, precum şi la unele produse rezultate din exploatarea şi industrializarea lemnului. Această lege a fost adoptată de Senat în şedinţa din 7 februarie 1991. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din 11 februarie 1991. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea pentru aprobarea volumului de masa lemnoasă ce se va recolta în anul 1991 şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU -------------------------"
+    }
+  ],
+  "definitions": []
+}

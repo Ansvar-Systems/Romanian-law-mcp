@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196928",
+  "type": "statute",
+  "title": "LEGE nr. 42 din 19 ianuarie 2018",
+  "short_name": "lege 42 19 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-19",
+  "in_force_date": "2018-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196928",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 42 19/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Anexa la Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri, republicată în Monitorul Oficial al României, Partea I, nr. 163 din 6 martie 2014, cu modificările și completările ulterioare, se completează după cum urmează: 1. În tabelul nr. I, după substanța MBZP = 1-benzyl-4-methylpiperazine se introduc următoarele substanțe: U-47700 = 3,4 - dichloroN-(2-dimethylamino-cyclohexyl)-N-methyl-benzamide Butyrfentanyl = N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] butanamide Ethylone = 1-(2H-1,3- benzodioxol-5-yl)-2-(ethylamino)propan-1-one Ethylphenidate = ethyl phenyl(piperidin-2-yl)acetate Methiopropamine (MPA) = N-methyl-1-(thiophen-2-yl)propan-2-amine MDMB-CHMICA = methyl N-{[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl}-3-methyl-L-valinate 5F-APINACA (5F-AKB-48) = N-(1-adamantyl)-1-(5-fluoropentyl)-1H-indazole-3 –carboxamide AH-7921 = 3,4-dichloro-N-{[1 (dimethylamino) cyclohexyl]methyl}benzamide 25B-NBOMe = 2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine 25C-NBOMe = 2-(4-Chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine 25I-NBOMe = 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine Methoxetamine (MXE) = (R/S)-2-(3-Methoxyphenyl)-2-(ethylamino)cyclohexanone 4,4 DMAR = para-methyl-4-methylaminorex 2. În tabelul nr. III, după substanța „MDPBP=1-(3,4-methylendioxyphenyl)-2-(1-pyrrolidinyl)-1-butanone“ se introduce următoarea substanță: Phenazepam = 7-Bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one"
+    }
+  ],
+  "definitions": []
+}

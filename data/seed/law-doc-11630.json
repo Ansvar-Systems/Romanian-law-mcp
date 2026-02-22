@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-11630",
+  "type": "statute",
+  "title": "LEGE nr. 104 din 23 iunie 1997",
+  "short_name": "lege 104 23 06 1997",
+  "status": "in_force",
+  "issued_date": "1997-06-23",
+  "in_force_date": "1997-06-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/11630",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 104 23/06/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (1) al articolului 23 din Legea nr. 53/1991 privind indemnizațiile și celelalte drepturi ale senatorilor și deputaților, precum și salarizarea personalului din aparatul Parlamentului României, astfel cum a fost republicată în Monitorul Oficial al României, Partea I, nr. 23 din 31 ianuarie 1996, se modifică după cum urmează: Articolul 23 (1) În scopul exercitării mandatului în circumscripțiile electorale, deputații primesc, lunar, o sumă forfetara din bugetul Camerei Deputaților, egala cu dublul indemnizației lunare brute a deputatului."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-270801",
+  "type": "statute",
+  "title": "LEGE nr. 146 din 26 mai 2023",
+  "short_name": "lege 146 26 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-26",
+  "in_force_date": "2023-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270801",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 146 26/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 15 din 10 martie 2021 pentru modificarea Ordonanței de urgență a Guvernului nr. 146/2020 privind aprobarea Programului IMM FACTOR - Produs de garantare a creditului comercial și a Schemei de ajutor de stat asociate acestuia, publicată în Monitorul Oficial al României, Partea I, nr. 245 din 11 martie 2021."
+    }
+  ],
+  "definitions": []
+}

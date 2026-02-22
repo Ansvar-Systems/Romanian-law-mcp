@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-187824",
+  "type": "statute",
+  "title": "LEGE nr. 42 din 29 martie 2017",
+  "short_name": "lege 42 29 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-29",
+  "in_force_date": "2017-03-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187824",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 42 29/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 65 din 5 octombrie 2016 privind instituirea cadrului legal pentru acordarea unui ajutor de stat individual pentru salvarea Companiei Naţionale a Uraniului - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 801 din 11 octombrie 2016, cu următoarele modificări: 1. La articolul 2, alineatele(4) - (8) se abrogă. 2. La articolul 4, alineatul (1) se modifică şi va avea următorul cuprins: Articolul 4 (1) Ministerul Energiei încheie în termen de 5 zile lucrătoare de la solicitarea scrisă formulată de Compania Naţională a Uraniului - S.A. o convenţie de împrumut, în care vor fi precizate drepturile şi obligaţiile părţilor, precum şi termenii şi condiţiile de acordare şi derulare a tranşelor de împrumut. 3. La articolul 6, alineatul (3) se modifică şi va avea următorul cuprins: (3) Pe baza acestui plan de restructurare, Ministerul Energiei, la solicitarea Companiei Naţionale a Uraniului - S.A., prelungeşte perioada de acordare a împrumutului, conform planului de restructurare, în aceleaşi condiţii de dobândă, prin act adiţional la convenţia de împrumut, până la data aprobării de către Comisia Europeană a planului de restructurare. 4. La articolul 7, alineatul (2) se abrogă. 5. La articolul 7, alineatul (4) se modifică şi va avea următorul cuprins: (4) Ajutorul de stat care trebuie recuperat include şi dobânda aferentă, datorată de la data scadenţei împrumutului până la data recuperării. Rata dobânzii aplicabile este cea stabilită potrivit prevederilor Regulamentului (UE) 2015/1.589 al Consiliului din 13 iulie 2015 de stabilire a normelor de aplicare a articolului 108 din Tratatul privind funcţionarea Uniunii Europene ."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Garanţiile care au fost constituite în baza Ordonanţei de urgenţă a Guvernului nr. 65/2016 privind instituirea cadrului legal pentru acordarea unui ajutor de stat individual pentru salvarea Companiei Naţionale a Uraniului - S.A. se ridică începând cu data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

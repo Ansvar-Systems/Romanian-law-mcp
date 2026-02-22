@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-203270",
+  "type": "statute",
+  "title": "LEGE nr. 218 din 27 iulie 2018",
+  "short_name": "lege 218 27 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-27",
+  "in_force_date": "2018-07-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203270",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 218 27/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 56/2010 privind accesibilizarea fondului forestier național, publicată în Monitorul Oficial al României, Partea I, nr. 183 din 23 martie 2010, cu modificările ulterioare, se modifică după cum urmează: 1. La articolul 1 alineatul (1), literele a) și b) se modifică și vor avea următorul cuprins: a) lucrări de construire de drumuri și căi ferate forestiere; b) lucrări de intervenții de natura investițiilor la drumurile și căile ferate forestiere existente, în scopul menținerii integrității și funcționalității acestora, inclusiv repuneri provizorii în funcțiune. 2. La articolul 6, literele a) - d) se modifică și vor avea următorulcuprins: a) proiectarea lucrărilor de construire a drumurilor forestiere și a căilor ferate forestiere; b) proiectarea lucrărilor de intervenții de natura investițiilor la drumurile forestiere și la căile ferate forestiere existente; c) executarea lucrărilor de construire a drumurilor forestiere și a căilor ferate forestiere noi; d) executarea lucrărilor de intervenții de natura investițiilor la drumurile forestiere și la căile ferate forestiere existente."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 56/2010 privind accesibilizarea fondului forestier național, publicată în Monitorul Oficial al României, Partea I, nr. 183 din 23 martie 2010, cu modificările ulterioare, precum și cu cele aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,567 @@
+{
+  "id": "law-doc-534",
+  "type": "statute",
+  "title": "LEGE nr. 6 din 12 noiembrie 1982",
+  "short_name": "lege 6 12 11 1982",
+  "status": "in_force",
+  "issued_date": "1982-11-12",
+  "in_force_date": "1982-11-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/534",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 6 12/11/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Asigurarea calităţii obiectivelor şi instalaţiilor nucleare, a produselor şi serviciilor utilizate la construcţia şi exploatarea lor constituie o obligaţie permanenta pentru ministere, celelalte organe centrale şi locale, centrale industriale, întreprinderi, pentru toate unităţile socialiste participante la realizarea acestora."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Produsele şi serviciile destinate obiectivelor şi instalaţiilor nucleare, precum şi exploatarea acestor obiective şi instalaţii, sînt supuse regimului de autorizare şi control prevăzut la prezenta lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Toate activităţile de construcţii-montaj şi exploatare a obiectivelor şi instalaţiilor nucleare şi de execuţie a produselor şi prestare a serviciilor destinate acestor obiective sau instalaţii se desfăşoară pe baza programelor de asigurare a calităţii. Prin programul de asigurare a calităţii se stabileşte ansamblu de măsuri tehnice şi organizatorice necesare în fiecare unitate pentru asigurarea calităţii produselor şi serviciilor, pentru prevenirea şi detectarea oricărei abateri faţă de cerinţele din documentaţiile tehnice de execuţie, precum şi corectarea tuturor neconformitatilor, în vederea îndeplinirii cerinţelor de securitate nucleara, siguranţa în funcţionare şi eficienta economică a obiectivelor şi instalaţiilor nucleare. Programul de asigurare a calităţii cuprinde manualul de asigurare a calităţii, procedurilor şi planul de control de calitate, verificări şi încercări. Programul de asigurare a calităţii va fi actualizat periodic, în vederea creşterii eficientei acestuia."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Controlul activităţii de asigurare a calităţii se organizează şi se exercită pe toată durata proiectării, construcţiei şi exploatării obiectivelor şi instalaţiilor nucleare, precum şi în timpul executării produselor şi prestării serviciilor destinate acestora, pentru respectarea întocmai a cerinţelor de calitate şi prevenirea oricăror abateri de la norme, standarde, caiete de sarcini sau documentaţii tehnice. Controlul se exercită în temeiul planului de examinari tehnice şi inspecţii, obligatoriu pentru fiecare unitate autorizata, şi consta în acţiuni efectuate sistematic sau inopinat, ori în stadii fizice prestabilite, potrivit dispoziţiilor legii."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Comitetul de Stat pentru Energia Nucleara controlează şi răspunde de realizarea cerinţelor de asigurare a calităţii în activităţile de proiectare, construcţii-montaj şi exploatare a obiectivelor şi instalaţiilor nucleare şi de executare a produselor şi prestare a serviciilor pentru aceste obiective şi instalaţii."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Ministerele şi celelalte organe centrale infaptuiesc şi răspund, împreună cu Comitetul de Stat pentru Energia Nucleara, de îndeplinirea sarcinilor ce le revin din programul de energetica nucleara, de respectarea stricta a cerinţelor de asigurare a calităţii la obiectivele şi instalaţiile nucleare."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Consiliul Naţional pentru Ştiinţa şi Tehnologie coordonează şi răspunde de desfăşurarea activităţii de cercetare ştiinţifică şi inginerie tehnologică pentru realizarea obiectivelor şi instalaţiilor nucleare, a produselor şi serviciilor destinate acestora, în condiţii de deplina asigurare a calităţii."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Proiectarea, fabricatia produselor şi prestarea serviciilor, lucrările de construcţii-montaj pentru obiectivele şi instalaţiile nucleare, precum şi exploatarea acestor obiective şi instalaţii, se pot efectua numai în baza autorizaţiei de asigurare a calităţii, eliberata de Comitetul de Stat pentru Energia Nucleara. Autorizaţia se eliberează pentru o perioadă determinata şi numai unităţilor cu personalitate juridică. Autorizaţia se eliberează la cererea unităţilor solicitante, pe baza manualului de asigurare a calităţii şi a planului de examinari tehnice şi inspecţii de asigurare a calităţii, după îndeplinirea de către solicitant a dispoziţiilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Autorizaţia emisă potrivit art. 8 nu exclude obligaţia de a obţine şi celelalte autorizaţii prevăzute de lege. Părţile din instalaţiile nucleare care, prin specificul lor, se supun unor norme speciale şi au funcţiunile prevăzute de acestea, cum sînt instalaţiile de ridicat, instalaţiile sub presiune, instalaţiile de gaze sau altele asemenea, se supun în continuare regimului de control şi autorizare prevăzut de dispoziţiile legale, pentru acest fel de instalaţii, precum şi dispoziţiilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Autorizaţia de asigurare a calităţii poate fi suspendată sau retrasă de către Comitetul de Stat pentru Energie Nucleara, în cazul în care: a) nu au fost respectate prevederile prezentei legi; b) nu au fost respectate întocmai condiţiile în care a fost eliberata; c) nu au fost îndeplinite măsurile dispuse de organele de control pentru asigurarea calităţii."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Unităţile beneficiare au obligaţia sa achizitioneze produse şi sa angajeze servicii destinate obiectivelor şi instalaţiilor nucleare numai prin contracte încheiate cu unităţi autorizate în acest scop şi sa precizeze în documentele contractuale ca produsele sau serviciile contractate sînt supuse prevederilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Unităţile autorizate să execute produse sau sa presteze servicii destinate obiectivelor sau instalaţiilor nucleare sînt obligate sa îndeplinească toate cerinţele cuprinse în documentaţia tehnica anexată la comanda şi sa încheie contractul numai după îndeplinirea acestor cerinţe."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Unităţile autorizate vor efectua analiza comenzilor primite de la unităţile beneficiare, elaborarea documentelor contractuale şi lansarea în fabricaţie numai pe bază de proceduri scrise."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Pentru îndeplinirea obligaţiilor contractuale, unităţile care executa produse sau prestează servicii pot subcontracta, cu acordul unităţilor beneficiare, realizarea unor părţi din aceste produse sau servicii; subcontractarea se poate face numai cu unităţi autorizate. Unitatea care a încredinţat altei unităţi, prin subcontractare, executarea unor părţi din produse sau servicii este obligată ca la receptionarea acestora să efectueze controlul de calitate şi încercarea lor. Răspunderea pentru asigurarea calităţii incumba, în acest caz, fiecăreia dintre unităţi, pentru obligaţiile ce-i revin direct."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Unităţile care executa produse sau prestează servicii pot utiliza în procesul de producţie produsele sau serviciile pe care unitatea beneficiara le pune la dispoziţie în vederea îndeplinirii obligaţiilor contractuale. Răspunderea pentru asigurarea calităţii revine, în acest caz, în mod solidar, ambelor unităţi."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Unităţile beneficiare de import de produse şi servicii destinate obiectivelor şi instalaţiilor nucleare şi întreprinderile de comerţ exterior vor include în contractele externe prevederi care vor avea în vedere dispoziţiile prezentei legi. Ministerul Comerţului Exterior şi Cooperării Economice Internaţionale şi Comitetul de Stat pentru Energia Nucleara vor veghea ca în contractele cu partenerii externi să fie incluse obligatoriu şi clauze corespunzătoare privind îndeplinirea prevederilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul 2 - Autorizarea unităţilor care participa la realizarea şi exploatarea obiectivelor şi instalaţiilor nucleare",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Încheierea sau modificarea contractelor cu partenerii externi pentru importul produselor sau serviciilor destinate obiectivelor şi instalaţiilor nucleare, precum şi utilizarea de produse sau servicii din import la obiectivele şi instalaţiile nucleare din ţara, se fac cu acordul Comitetului de Stat pentru Energie Nucleara în ceea ce priveşte respectarea cerinţelor de asigurare a calităţii prevăzute în prezenta lege."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Obiectivele şi instalaţiile nucleare cărora li se aplică prevederile acestei legi se stabilesc prin decret al Consiliului de Stat. Produsele şi serviciile destinate obiectivelor şi instalaţiilor nucleare, care sînt supuse autorizării şi controlului potrivit prezentei legi, sînt cuprinse în anexa nr. 1. Conţinutul programului de asigurare a calităţii şi al planului de examinari tehnice şi inspecţii este prevăzut în anexa nr. 2."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Documentele cuprinse în programul de asigurare a calităţii şi planul de examinari tehnice şi inspecţii din activităţile de cercetare ştiinţifică şi inginerie tehnologică, proiectare, executarea produselor şi serviciilor, construcţii-montaj şi exploatare a obiectivelor şi instalaţiilor nucleare se întocmesc de către unităţile executante, cu acordul unităţilor beneficiare, şi se aproba de către Comitetul de Stat pentru Energie Nucleara. Documentele cuprinse în programul de asigurare a calităţii şi planul de examinari tehnice şi inspecţii pentru fiecare obiectiv nuclear sau instalatie nucleara se elaborează de către unitatea beneficiara a obiectivului nuclear sau instalaţiei nucleare şi se supun aprobării Comitetului de Stat pentru Energia Nucleara. Modificarea documentelor prevăzute în prezentul articol se poate face în aceleaşi condiţii în care au fost emise."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Desfăşurarea tuturor activităţilor de asigurare a calităţii va respecta obligatoriu cerinţele prezentei legi cu privire la: a) proiectarea obiectivelor şi instalaţiilor nucleare, precum şi a produselor destinate acestora; b) fabricatia, omologarea şi recepţia produselor; c) prestarea serviciilor; d) lucrările de construcţii-montaj; e) exploatarea obiectivelor şi instalaţiilor nucleare; f) alte faze şi operaţiuni."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Unităţile de proiectare autorizate sa elaboreze documentaţii tehnice pentru obiectivele şi instalaţiile nucleare, precum şi pentru produsele destinate acestora, au următoarele obligaţii şi raspunderi: a) sa elaboreze proiecte care prin soluţiile constructive adoptate şi cerinţele tehnice de calitate prevăzute în documentaţii să asigure funcţionarea obiectivelor şi instalaţiilor nucleare în condiţii de securitate şi eficienta economică; b) sa prevadă în proiecte controalele de calitate, verificările şi încercările ce trebuie efectuate în uzine şi pe santiere pentru a asigura funcţionarea obiectivelor şi instalaţiilor nucleare în condiţii de securitate; c) sa stabilească cerinţe de calitate pentru montajul, punerea în funcţiune, exploatarea, întreţinerea, repararea şi scoaterea din funcţiune a obiectivelor şi instalaţiilor nucleare."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Unităţile autorizate sa elaboreze lucrări de proiectare pentru obiectivele şi instalaţiile nucleare, precum şi pentru produsele destinate realizării acestora, vor efectua următoarele activităţi numai pe bază de proceduri scrise: a) controlul datelor necesare pentru proiectare; b) elaborarea proiectelor; c) controlul activităţii de proiectare; d) controlul lucrărilor de proiectare elaborate de unităţile subcontractante; e) întocmirea, verificarea, aprobarea, distribuirea, utilizarea, păstrarea şi circulaţia documentelor care au stat la baza proiectării; f) evidenta şi aprobarea modificărilor la proiectele aprobate; g) retragerea părţilor din proiecte ieşite din uz prin modificările aprobate; h) aplicarea, în proprie activitate, a acţiunilor corective rezultate din examinarile tehnice de asigurare a calităţii."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Unităţile care executa produse destinate obiectivelor şi instalaţiilor nucleare răspund de aplicarea programului de asigurare a calităţii pentru produsele contractate."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Unităţile autorizate să execute produse destinate obiectivelor sau instalaţiilor nucleare vor efectua următoarele activităţi numai pe bază de proceduri scrise: a) întocmirea, verificarea, aprobarea, distribuirea, utilizarea, păstrarea şi circulaţia tuturor documentelor privind asigurarea calităţii; b) etalonarea sau verificarea metrologica, marcarea şi utilizarea mijloacelor de măsurare folosite în execuţia, controlul de calitate şi încercarea produselor, în conformitate cu cerinţele metrologice prevăzute de lege, cu indicarea datei la care expira valabilitatea etalonarii sau verificării metrologice; c) execuţia produselor; d) tratamentul termic, sudarea, brazarea, controlul nedistructiv, curăţirea, acoperirea suprafeţelor, precum şi alte procese speciale care trebuie să fie realizate în condiţii controlate; e) identificarea şi marcarea produselor; f) manipularea şi depozitarea de produse subcontractate, a celor puse la dispoziţie de beneficiar, a produselor aflate în diferite faze de fabricaţie, precum şi a produsului final; g) conservarea, ambalarea, precum şi expedierea şi transportul produselor; h) marcarea distinctă a produselor neconforme cu cerinţele de asigurare a calităţii, conservarea lor în stadiul în care s-a constatat abaterea, depozitarea separată, precum şi remedierea sau respingerea lor, după caz."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Unităţile autorizate vor putea începe fabricatia unui produs destinat obiectivelor sau instalaţiilor nucleare numai după ce procedurile necesare pentru fabricatia produsului, precum şi planul de control de calitate, verificări şi încercări pentru produsul contractat, au fost întocmite, avizate şi aprobate potrivit prevederilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Procesele speciale, cum sînt tratamentele termice, sudura şi altele asemenea, se vor executa la produsele destinate obiectivelor şi instalaţiilor nucleare numai după ce au fost omologate şi numai de personal calificat sau autorizat pentru aceasta, verificat periodic, în conformitate cu cerinţele prevăzute în standarde, norme sau documentaţiile tehnice de execuţie."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Abaterile de la toleranţele prevăzute, utilizarea de materiale necorespunzătoare, execuţia defectuoasă şi orice alte asemenea deficiente de natura a prejudicia calitatea se vor identifica şi raporta direct conducerii unităţii executante, pentru a dispune măsuri de corectare şi de prevenire a repetarii lor."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Unităţile executante de produse vor elabora documente care însoţesc produsele pe toată durata execuţiei, indicind permanent operaţiile, controalele de calitate, verificările şi încercările, pe faze de execuţie, la care acestea au fost supuse pînă în acel moment."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Toate documentele care consemnează sau atesta, pe toată durata execuţiei, îndeplinirea cerinţelor de asigurarea a calităţii, cum sînt documentele de autorizare a subfurnizorilor, rezultatele controalelor de calitate, ale verificărilor şi încercărilor, procesele-verbale întocmite de examinarile tehnice şi inspecţiile de asigurare a calităţii efectuate în cadrul unităţii executante şi la subfurnizori, precum şi altele asemenea, se vor întocmi, inregistra şi păstra în condiţii corespunzătoare şi se vor preda în copie unităţii beneficiare la livrarea produsului. Unitatea care administrează obiectul nuclear sau instalatia nucleara va păstra, pe toată durata de existenta a acestora, în arhiva unităţii, înregistrările privind calitatea, pentru toate produsele achiziţionate."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Ministerele şi organele centrale cărora le sînt subordonate unităţile care executa produse destinate obiectivelor şi instalaţiilor nucleare vor elabora şi aplica procedura de omologare a acestor produse, avizată de Comitetul de Stat pentru Energie Nucleara. În cazul în care un produs se realizează de unităţi aparţinînd mai multor organe centrale, se aplică procedura de omologare elaborata de organul central care are în subordine producătorul produsului final. În procedurile de omologare se vor preciza conţinutul documentaţiei de omologare, condiţiile de reexaminare periodică obligatorie a produselor omologate şi componenta comisiilor de omologare, în raport cu categoria de instalaţii, echipamente şi aparate."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Încercările de omologare, precum şi testarea produselor destinate obiectivelor şi instalaţiilor nucleare, se efectuează în laboratoare cu standuri echipate corespunzător, aparţinînd unităţilor producătoare sau altor unităţi specializate. Produsele cu grad mare de complexitate tehnica, importante pentru securitatea instalaţiilor, protecţia populaţiei şi a mediului înconjurător sau pentru eficienta economică a obiectivelor şi instalaţiilor nucleare, stabilite prin normele republicane de asigurare a calităţii, se vor incerca atît în vederea omologării, cît şi la livrare, în laboratoare sau standuri aparţinînd Comitetului de Stat pentru Energie Nucleara."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Recepţia produselor destinate obiectivelor şi instalaţiilor nucleare se face de comisii constituite în acest scop, în care vor fi incluşi şi reprezentanţi ai compartimentelor de asigurare a calităţii din unităţile beneficiare şi executante. Componenta comisiilor se aproba de conducerea unităţii beneficiare."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "Comisiile de recepţie a produselor destinate obiectivelor şi instalaţiilor nucleare îşi desfăşoară activitatea potrivit legii şi controlează existenta şi conţinutul înregistrărilor de calitate prevăzute în prezenta lege pentru produsul supus recepţiei."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "Unităţile care prestează servicii destinate obiectivelor şi instalaţiilor nucleare răspund de aplicarea programului de asigurare a calităţii pentru serviciile contractate."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Unităţile autorizate sa presteze servicii destinate obiectivelor şi instalaţiilor nucleare vor efectua următoarele activităţi numai pe bază de proceduri scrise: a) întocmirea, verificarea, aprobarea, distribuirea, utilizarea, păstrarea şi circulaţia tuturor documentelor privind asigurarea calităţii; b) prestarea serviciilor; c) etalonarea sau verificarea metrologica, marcarea şi utilizarea mijloacelor de măsurare folosite în prestarea serviciilor, în conformitate cu cerinţele metrologice prevăzute de lege, cu indicarea datei la care expira valabilitatea etalonarii sau verificării metrologice."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Unităţile autorizate pentru prestarea de servicii vor putea începe activitatea contractată numai după ce procedurile necesare, precum şi planul de control de calitate, verificări şi încercări, au fost întocmite, avizate şi aprobate potrivit prevederilor prezentei legi."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Unităţile prestatoare de servicii vor elabora documente insotitoare pentru operaţiile îndeplinite, pe care le vor inregistra şi păstra în condiţii corespunzătoare, predindu-le în copie unităţii beneficiare. Unitatea care administrează obiectivul necesar sau instalatia nucleara va păstra, pe toată durata de existenta a acestora, în arhiva unităţii, înregistrările privind calitatea, pentru toate serviciile de care s-a beneficiat."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "Recepţia serviciilor destinate obiectivelor şi instalaţiilor nucleare se face de comisii constituite în acest scop, în care vor fi incluşi şi reprezentanţi ai compartimentelor de asigurare a calităţii din unităţile beneficiare şi executante. Componenta comisiilor se aproba de conducerea unităţii beneficiare."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Comisiile de recepţie a serviciilor destinate obiectivelor şi instalaţiilor nucleare îşi desfăşoară activitatea potrivit legii şi controlează existenta şi conţinutul înregistrărilor de calitate prevăzute în prezenta lege pentru serviciul supus recepţiei."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Unităţile care executa lucrări de construcţii-montaj pentru obiectivele şi instalaţiile nucleare răspund de aplicarea programului de asigurare a calităţii pentru lucrările pe care le executa la aceste obiective şi instalaţii."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Unităţile autorizate vor putea începe execuţia oricărei lucrări de construcţii-montaj pentru obiectivele şi instalaţiile nucleare numai după întocmirea, avizarea şi aprobarea potrivit prevederilor prezentei legi a procedurilor necesare, precum şi a planului de control de calitate, verificări şi încercări pentru aceste lucrări."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Unităţile care executa lucrări de construcţii-montaj pentru obiectivele şi instalaţiile nucleare vor efectua următoarele activităţi numai pe bază de proceduri scrise: a) întocmirea, verificarea, aprobarea, distribuirea, utilizarea, păstrarea şi circulaţia tuturor documentelor privind asigurarea calităţii; b) etalonarea sau verificarea metrologica, marcarea şi utilizarea mijloacelor de măsurare folosite în execuţia, controlul de calitate şi încercarea produselor şi serviciilor, în conformitate cu cerinţele metrologice prevăzute de lege, cu indicarea datei la care expira valabilitatea etalonarii sau verificării metrologice; c) execuţia lucrărilor de construcţii-montaj; d) tratamentul termic, sudarea, brazarea, controlul nedistructiv, curăţirea, acoperirea suprafeţelor, precum şi alte procese speciale care trebuie să fie realizate în condiţii controlate; e) identificarea şi marcarea lucrărilor; f) manipularea şi depozitarea produselor achiziţionate şi a celor puse la dispoziţie de beneficiar; g) marcarea distinctă a lucrărilor de construcţii-montaj neconforme cu cerinţele de asigurare a calităţii, conservarea lor în stadiul în care s-a constatat abaterea, precum şi remedierea sau îndepărtarea lor, după caz."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Sudura, tratamentele termice şi alte procese speciale la obiectivele şi instalaţiile nucleare se vor executa cu personal calificat sau autorizat, după caz, verificat periodic, şi numai după omologarea acestor procese speciale, potrivit cerinţelor prevăzute prin standarde, norme sau documentaţiile tehnice de execuţie."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Cauzele de orice natura care au prejudiciat calitatea, cum sînt abateri de la toleranţele prevăzute, utilizarea de materiale necorespunzătoare, execuţia defectuoasă şi alte deficiente, se vor identifica şi raporta direct conducerii unităţii executante, pentru a dispune măsuri de corectare şi de prevenire a repetarii lor."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "La executarea lucrărilor de construcţii-montaj pentru obiectivele şi instalaţiile nucleare, unităţile executante vor însoţi lucrările, pe toată durata execuţiei lor, cu documente care să indice permanent şi la zi, pe faze de execuţie, operaţiile, controalele de calitate, verificările şi încercările la care acestea au fost supuse."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "Documentele de autorizare a subfurnizorilor, rezultatele controalelor de calitate, ale verificărilor şi încercărilor, procesele-verbale întocmite la examinarile tehnice şi inspecţiile de asigurare a calităţii efectuate în cadrul unităţii executante şi la subfurnizori, precum şi orice alte documente prin care se atesta îndeplinirea cerinţelor de asigurare a calităţii, se vor întocmi pe toată durata execuţiei, se vor inregistra şi păstra în condiţii corespunzătoare şi se vor preda în copie unităţii beneficiare odată cu admiterea la decontare. Unitatea beneficiara a obiectivului nuclear sau instalaţiei nucleare este obligată sa păstreze în arhiva unităţii, pe toată durata de existenta a acestora, înregistrările privind calitatea pentru toate lucrările de construcţii-montaj contractate cu unităţile executante."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "Comisia de recepţie a obiectivului nuclear sau instalaţiei nucleare se numeşte potrivit legii. În comisie vor fi numiţi şi reprezentanţi ai Inspecţiei de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare, precum şi ai compartimentelor de asigurare a calităţii din unitatea beneficiara."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "Comisia de recepţie a obiectivului nuclear sau instalaţiei nucleare îşi desfăşoară activitatea potrivit atribuţiilor prevăzute de lege şi controlează existenta şi conţinutul înregistrărilor de calitate prevăzute în prezenta lege pentru obiectivul nuclear sau instalatia nucleara supusă recepţiei."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "Unităţile care administrează obiectivele şi instalaţiile nucleare vor efectua următoarele activităţi numai pe bază de proceduri scrise: a) lucrările legate de punerea în funcţiune, exploatarea, întreţinerea, repararea şi scoaterea din funcţiune; b) etalonarea sau verificarea metrologica, marcarea şi utilizarea mijloacelor de măsurare folosite în punerea în funcţiune, exploatarea, întreţinerea, repararea şi scoaterea din funcţiune a obiectivelor şi instalaţiilor nucleare, în conformitate cu cerinţele metrologice prevăzute de lege, cu indicarea datei la care expira valabilitatea etalonarii sau verificării metrologice; c) încercările şi controalele periodice ale echipamentelor din compunerea obiectivelor şi instalaţiilor nucleare; d) curăţirea şi decontaminarea sistemelor şi construcţiilor; e) identificarea şi marcarea echipamentelor din compunerea obiectivelor şi instalaţiilor nucleare; f) manipularea, depozitarea şi transportul produselor utilizate la punerea în funcţiune, exploatarea, întreţinerea, repararea şi scoaterea din funcţiune a obiectivelor şi instalaţiilor nucleare; g) controlul activităţilor de punere în funcţiune, exploatare, întreţinere, reparare şi scoatere din funcţiune; h) aplicarea în propria activitate a acţiunilor corective rezultate din examinarile tehnice de asigurare a calităţii."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "Unităţile care administrează obiective şi instalaţii nucleare vor păstra în arhiva unităţii toate documentele de calitate acumulate în timpul construcţiei şi funcţionarii lor, pînă la scoaterea din funcţiune."
+    },
+    {
+      "provision_ref": "Art.51",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "51",
+      "title": "Articolul 51",
+      "content": "Aprovizionarea, manipularea, transportul şi depozitarea produselor destinate obiectivelor şi instalaţiilor nucleare se fac pe bază de proceduri scrise şi se executa numai de personal calificat, special instruit şi prevăzut cu mijloace şi dotări corespunzătoare. Căderea, răsturnarea, rostogolirea şi alte asemenea evenimente neprevăzute care pot avea loc în cursul manipulării, depozitarii şi transportului acestor produse atrag obligatoriu consemnarea evenimentelor şi îndeplinirea controalelor de calitate, a încercărilor şi verificărilor suplimentare necesare, după caz, potrivit procedurilor scrise. Ele vor fi aduse imediat la cunoştinţa conducerii unităţii furnizoare sau beneficiare, în vederea adoptării măsurilor corespunzătoare."
+    },
+    {
+      "provision_ref": "Art.52",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "52",
+      "title": "Articolul 52",
+      "content": "În cazul în care unităţile care executa produse sau prestează servicii primesc de la unitatea beneficiara produse în vederea îndeplinirii obligaţiilor lor contractuale, vor asigura manipularea, transportul şi depozitarea acestora în mod corespunzător, pe bază de proceduri scrise."
+    },
+    {
+      "provision_ref": "Art.53",
+      "chapter": "Capitolul 3 - Desfăşurarea activităţilor de asigurare a calităţii obiectivelor şi instalaţiilor nucleare şi a produselor şi serviciilor destinate acestora",
+      "section": "53",
+      "title": "Articolul 53",
+      "content": "În funcţie de necesităţile de asigurare a calităţii obiectivelor şi instalaţiilor nucleare în construcţie şi exploatare, sau a produselor şi serviciilor destinate acestor obiective sau instalaţii, aflate în diverse stadii de realizare, organele competente pot limita sau suspenda, temporar şi pe o raza corespunzătoare, accesul altor categorii de persoane decît cele angrenate fie în activităţile menţionate, fie în acţiunile de control al asigurării calităţii prevăzute de lege. Limitarea sau suspendarea accesului se asigura, după caz, de personalul unităţii furnizoare sau beneficiare ori de organele publice, special instruite."
+    },
+    {
+      "provision_ref": "Art.54",
+      "chapter": "Capitolul 4 - Controlul calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "54",
+      "title": "Articolul 54",
+      "content": "Personalul din compartimentele şi colectivele distincte de control tehnic de calitate din unităţile care executa produse şi servicii, precum şi lucrări de construcţii-montaj pentru obiectivele şi instalaţiile nucleare, are următoarele obligaţii şi raspunderi: a) verifica calitatea materiilor prime, materialelor, reperelor şi subansamblelor la aprovizionarea şi introducerea lor în fabricaţie, reglajul şi precizia mijloacelor de măsura şi control, respectarea stricta a normelor de calitate la ambalarea şi expedierea produselor; b) efectuează operaţiile tehnologice de control de calitate în toate fazele de fabricaţie şi asupra produselor finite; c) respinge produsele cu deficiente de calitate; d) propune sistarea fabricaţiei şi opreşte livrarea produselor care nu corespund calitativ."
+    },
+    {
+      "provision_ref": "Art.55",
+      "chapter": "Capitolul 4 - Controlul calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "55",
+      "title": "Articolul 55",
+      "content": "Inspecţia de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare îşi îndeplineşte atribuţiile de control al activităţii de asigurare a calităţii prin personalul propriu sau prin specialişti de înaltă calificare delegaţi de alte unităţi şi împuterniciţi în acest scop de Inspecţia de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare. În urma examinarilor tehnice sau inspecţiilor efectuate, inspectorii ori împuterniciţii Inspecţiei de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare, precum şi personalul compartimentelor sau colectivelor de asigurare a calităţii, vor întocmi procese-verbale de control, care cuprind constatările, măsurile şi termenele de aplicare a acestora."
+    },
+    {
+      "provision_ref": "Art.56",
+      "chapter": "Capitolul 4 - Controlul calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "56",
+      "title": "Articolul 56",
+      "content": "Unităţile supuse controlului sînt obligate: a) să prezinte inspectorilor sau imputernicitilor Inspecţiei de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare actele, documentele şi toate informaţiile în legătură cu aplicarea programului de asigurare a calităţii; b) sa desemneze un reprezentant al conducerii unităţii, care să asiste la efectuarea controlului; c) să asigure condiţii de lucru corespunzătoare pentru îndeplinirea obiectivelor controlului; d) să se conformeze întocmai indicaţiilor organelor de control, rezultate din acţiunile de control întreprinse."
+    },
+    {
+      "provision_ref": "Art.57",
+      "chapter": "Capitolul 5 - Sarcinile cercetării ştiinţifice şi ingineriei tehnologice pentru asigurarea calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "57",
+      "title": "Articolul 57",
+      "content": "Consiliul Naţional pentru Ştiinţa şi Tehnologie va lua măsuri pentru ca institutele de cercetare ştiinţifică şi inginerie tehnologică sa acorde prioritate, atît la înscrierea în planurile tematice de activitate, cît şi la fixarea termenelor finale de realizare, cercetărilor care privesc obiective şi instalaţii nucleare sau părţi componente ale acestora, ori produse şi servicii destinate lor, precum şi sa urmărească asigurarea calităţii acestora."
+    },
+    {
+      "provision_ref": "Art.58",
+      "chapter": "Capitolul 5 - Sarcinile cercetării ştiinţifice şi ingineriei tehnologice pentru asigurarea calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "58",
+      "title": "Articolul 58",
+      "content": "Unităţile de cercetare ştiinţifică şi inginerie tehnologică au următoarele obligaţii şi raspunderi: a) sa adopte soluţii moderne, la nivelul celor mai noi cuceriri ale ştiinţei şi tehnicii, în ţara şi pe plan mondial, în rezolvarea temelor de cercetare de produse şi tehnologii necesare în activitatea de proiectare, în executarea produselor şi serviciilor, în lucrările de construcţii-montaj şi în exploatarea obiectivelor şi instalaţiilor nucleare, în condiţii de securitate şi eficienta economică; b) sa elaboreze metode de control tehnic de calitate, verificarea şi încercare adecvate pentru demonstrarea îndeplinirii cerinţelor din proiect pe parcursul executării produselor şi serviciilor, lucrărilor de construcţii-montaj şi exploatării obiectivelor şi instalaţiilor nucleare."
+    },
+    {
+      "provision_ref": "Art.59",
+      "chapter": "Capitolul 5 - Sarcinile cercetării ştiinţifice şi ingineriei tehnologice pentru asigurarea calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "59",
+      "title": "Articolul 59",
+      "content": "Unităţile autorizate să efectueze lucrări de cercetare ştiinţifică şi inginerie tehnologică pentru obiectivele şi instalaţiile nucleare vor efectua următoarele activităţi numai pe bază de proceduri scrise: a) etalonarea sau verificarea metrologica, marcarea şi utilizarea mijloacelor de măsurare folosite în procesul de cercetare, în conformitate cu cerinţele metrologice prevăzute de lege, cu indicarea datei la care expira valabilitatea etalonarii sau verificării metrologice; b) procedeele tipizate de prelevare a esantioanelor şi pregătire a probelor pentru măsurători şi efectuarea acestor măsurători; c) identificarea şi marcarea esantioanelor; d) evidenta şi păstrarea rezultatelor cercetării."
+    },
+    {
+      "provision_ref": "Art.60",
+      "chapter": "Capitolul 5 - Sarcinile cercetării ştiinţifice şi ingineriei tehnologice pentru asigurarea calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "60",
+      "title": "Articolul 60",
+      "content": "Tema de cercetare se lanseaza numai după ce institutul, cu avizul unităţii beneficiare, a întocmit programul de asigurare a calităţii pe parcursul cercetării, potrivit cu datele cunoscute la începerea acesteia."
+    },
+    {
+      "provision_ref": "Art.61",
+      "chapter": "Capitolul 5 - Sarcinile cercetării ştiinţifice şi ingineriei tehnologice pentru asigurarea calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "61",
+      "title": "Articolul 61",
+      "content": "Tema de cercetare se considera încheiată numai după ce rezultatul ei este completat cu propuneri, asa cum reies în urma cercetărilor întreprinse, privind programul de asigurare a calităţii ce urmează a fi elaborat de unitatea care aplica rezultatele cercetării."
+    },
+    {
+      "provision_ref": "Art.62",
+      "chapter": "Capitolul 5 - Sarcinile cercetării ştiinţifice şi ingineriei tehnologice pentru asigurarea calităţii obiectivelor şi instalaţiilor nucleare",
+      "section": "62",
+      "title": "Articolul 62",
+      "content": "Pe parcursul cercetărilor sau la încheierea acestora, institutele de cercetare ştiinţifică şi inginerie tehnologică vor face propuneri concrete de elaborare sau modificare a normelor, standardelor şi instrucţiunilor privind asigurarea calităţii în domeniul nuclear."
+    },
+    {
+      "provision_ref": "Art.63",
+      "chapter": "Capitolul 6 - Obligaţii şi raspunderi",
+      "section": "63",
+      "title": "Articolul 63",
+      "content": "Comitetul de Stat pentru Energia Nucleara are următoarele obligaţii şi raspunderi în domeniul asigurării calităţii obiectivelor şi instalaţiilor nucleare: a) elaborează, împreună cu ministerele şi celelalte organe centrale participante la programul de energetica nucleara, norme, standarde şi instrucţiuni privind asigurarea calităţii în domeniul nuclear, pe care le supune aprobării potrivit prevederilor legale; b) autoriza unităţile care executa produse sau prestează servicii în domeniul nuclear; c) controlează aplicarea de către unităţile autorizate a planurilor de control de calitate, verificări şi încercări; d) inspecteaza fabricatia, proiectarea, construcţia şi montajul, în punctele de control obligatorii, stabilite prin planurile de control de calitate, verificări şi încercări."
+    },
+    {
+      "provision_ref": "Art.64",
+      "chapter": "Capitolul 6 - Obligaţii şi raspunderi",
+      "section": "64",
+      "title": "Articolul 64",
+      "content": "Ministerele şi celelalte organe centrale au în domeniul asigurării calităţii obiectivelor şi instalaţiilor nucleare următoarele obligaţii şi raspunderi: a) iau măsuri pentru elaborarea programului de asigurare a calităţii de către unităţile subordonate; b) controlează, la unităţile subordonate, aplicarea stricta a programului de asigurare a calităţii în cercetarea ştiinţifică şi ingineria tehnologică, proiectarea, executarea produselor şi serviciilor, construcţii-montaj şi exploatare; c) controlează respectarea întocmai a normelor, standardelor şi instrucţiunilor privind asigurarea calităţii în domeniul nuclear, precum şi îndeplinirea de către unităţile subordonate, la termenele stabilite, a măsurilor dispuse de organele de control prevăzute de lege. Ministerele şi celelalte organe centrale care au sarcini ce decurg din programul de energetica nucleara sînt obligate să raporteze trimestrial Consiliului de Miniştri îndeplinirea cerinţelor de asigurare a calităţii în activitatea unităţilor subordonate."
+    },
+    {
+      "provision_ref": "Art.65",
+      "chapter": "Capitolul 6 - Obligaţii şi raspunderi",
+      "section": "65",
+      "title": "Articolul 65",
+      "content": "În vederea aplicării, programului de asigurare a calităţii de către unităţile subordonate, ministerele, celelalte organe centrale şi centralele industriale sînt obligate: a) sa organizeze, în cadrul fiecărei unităţi, compartimente sau colective de asigurare a calităţii, precum şi compartimente sau colective distincte de control tehnic de calitate pentru produsele sau serviciile destinate obiectivelor şi instalaţiilor nucleare; b) să asigure toate dotările necesare pentru aplicarea programului de asigurare a calităţii; c) sa pregătească personalul necesar pentru aplicarea programului de asigurare a calităţii şi sa organizeze instructajul periodic şi verificarea cunoştinţelor acestui personal; d) sa dispună sistarea execuţiei de produse şi prestări de servicii, în caz de nerespectare a programului de asigurare a calităţii."
+    },
+    {
+      "provision_ref": "Art.66",
+      "chapter": "Capitolul 6 - Obligaţii şi raspunderi",
+      "section": "66",
+      "title": "Articolul 66",
+      "content": "Compartimentele sau colectivele de asigurare a calităţii din unităţile beneficiare sau executante, sub îndrumarea şi controlul Inspecţiei de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare din cadrul Comitetului de Stat pentru Energie Nucleara, exercita atribuţii de control şi răspund de activitatea de asigurare a calităţii, în propria unitate şi la furnizori, în care scop: a) verifica modul în care se elaborează documentele corespunzătoare din cadrul programului de asigurare a calităţii; b) verifica, în concordanta cu prevederile manualului de asigurare a calităţii, gradul de organizare şi pregătire a execuţiei produselor şi serviciilor; c) efectuează examinari tehnice privind asigurarea calităţii sau inspecţii de asigurare a calităţii în conformitate cu prevederile planului de examinari tehnice şi inspecţii; d) inspecteaza fabricatia în punctele de control obligatorii; e) confirma calitatea în vederea livrării produselor şi predării serviciilor; f) controlează activitatea persoanelor, colectivelor sau compartimentelor care executa activităţi de care depinde asigurarea calităţii şi dispun oprirea activităţii cînd constata abateri de la prevederile manualului de asigurare a calităţii; g) propun organului care a emis autorizaţia suspendarea sau retragerea acesteia în situaţiile prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.67",
+      "chapter": "Capitolul 6 - Obligaţii şi raspunderi",
+      "section": "67",
+      "title": "Articolul 67",
+      "content": "Compartimentele sau colectivele de asigurare a calităţii, precum şi compartimentele sau colectivele distincte de control tehnic de calitate pentru produsele şi serviciile destinate obiectivelor şi instalaţiilor nucleare, sînt subordonate şi Comitetului de Stat pentru Energia Nucleara. Încadrarea personalului din aceste compartimente sau colective se face de către conducătorul unităţii, cu acordul Comitetului de Stat pentru Energie Nucleara. Schimbarea din funcţie şi sancţionarea personalului prevăzut în prezentul articol se fac cu acordul Comitetului de Stat pentru Energia Nucleara."
+    },
+    {
+      "provision_ref": "Art.68",
+      "chapter": "Capitolul 6 - Obligaţii şi raspunderi",
+      "section": "68",
+      "title": "Articolul 68",
+      "content": "Răspunderea privind aplicarea programului de asigurare a calităţii în activităţile de cercetare ştiinţifică şi inginerie tehnologică, în proiectare, în executarea produselor şi serviciilor, în construcţii-montaj, revine unităţilor executante. Răspunderea privind aplicarea programului de asigurare a calităţii pentru obiectivele sau instalaţiile nucleare revine unităţilor beneficiare. Unitatea beneficiara poate incredinta altei unităţi autorizate lucrări pentru îndeplinirea oricărei părţi a programului de asigurare a calităţii pentru obiectivul nuclear sau instalatia nucleara în ansamblu, fără ca aceasta sa conducă la diminuarea în vreun fel a răspunderii sale."
+    },
+    {
+      "provision_ref": "Art.69",
+      "chapter": "Capitolul 7 - Sancţiuni",
+      "section": "69",
+      "title": "Articolul 69",
+      "content": "Încălcarea dispoziţiilor prezentei legi atrage răspunderea materială, civilă, disciplinară, contravenţională sau penală, după caz."
+    },
+    {
+      "provision_ref": "Art.70",
+      "chapter": "Capitolul 7 - Sancţiuni",
+      "section": "70",
+      "title": "Articolul 70",
+      "content": "Pagubele materiale ca urmare a distrugerii sau degradării obiectivelor şi instalaţiilor nucleare, datorate proiectantului, producătorului, constructorului, montorului ori altor unităţi, precum şi persoanelor care au participat la realizarea sau exploatarea obiectivelor şi instalaţiilor nucleare, se suporta de către aceştia, în funcţie de culpa fiecăruia."
+    },
+    {
+      "provision_ref": "Art.71",
+      "chapter": "Capitolul 7 - Sancţiuni",
+      "section": "71",
+      "title": "Articolul 71",
+      "content": "Confirmarea calităţii de către compartimentul sau colectivul de asigurare a calităţii din unitatea executanta sau de către comisiile de recepţie nu inlatura răspunderea directa a celor care au executat produsele şi au prestat serviciile. Persoanele din compartimentele sau colectivele de asigurare a calităţii răspund de calitatea produselor sau serviciilor, împreună cu cei care au organizat, condus şi efectuat respectivele activităţi, fiecare potrivit atribuţiilor şi gradului sau de vinovăţie."
+    },
+    {
+      "provision_ref": "Art.72",
+      "chapter": "Capitolul 7 - Sancţiuni",
+      "section": "72",
+      "title": "Articolul 72",
+      "content": "Constituie contravenţii la prevederile prezentei legi următoarele fapte, dacă nu au fost săvîrşite în astfel de condiţii încît, potrivit legii penale, sînt considerate infracţiuni: a) încercarea de inducere în eroare a personalului Inspecţiei de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare, sau raportarea eronată a datelor sau documentelor privind asigurarea calităţii în domeniul nuclear; b) neaducerea la îndeplinire, în termenul stabilit, a dispoziţiilor date prin procesul-verbal de control al asigurării calităţii; c) neîndeplinirea formalităţilor de obţinere a avizului prevăzut de lege pentru contractarea produselor sau serviciilor din import; d) neprecizarea în contracte a faptului ca produsele sau serviciile contractate sînt supuse prevederilor prezentei legi, sau încheierea contractelor fără a verifica în prealabil existenta şi valabilitatea autorizaţiei unităţii executante; e) elaborarea documentelor cuprinse în programul de asigurare a calităţii cu nerespectarea acordului unităţilor beneficiare şi observaţiilor Inspecţiei de stat pentru controlul activităţilor nucleare şi al asigurării calităţii nucleare; f) săvîrşirea oricăror abateri de la prevederile manualului de asigurare a calităţii, procedurilor de execuţie, de control de calitate şi de asigurare a calităţii, precum şi a planului de control de calitate, verificări şi încercări; g) neîndeplinirea formalităţilor de avizare şi aprobare a tuturor procedurilor necesare şi a planului de control de calitate, verificări şi încercări; h) utilizarea de personal care nu are pregătirea necesară pentru activitatea prestată sau personal neverificat ori respins la examenele periodice; i) neîndeplinirea măsurilor necesare în vederea asigurării dotării pentru controale de calitate, verificări şi încercări; j) neasigurarea unor condiţii de păstrare corespunzătoare a documentelor de asigurare a calităţii şi a contraprobelor. Contravenţiile de la lit. a) - d) se sancţionează cu amendă de la 3.000 la 10.000 lei, iar cele de la lit. e) - j), cu amendă de la 1.000 la 3.000 lei."
+    },
+    {
+      "provision_ref": "Art.73",
+      "chapter": "Capitolul 7 - Sancţiuni",
+      "section": "73",
+      "title": "Articolul 73",
+      "content": "Constatarea contravenţiilor şi aplicarea sancţiunilor se fac de către personalul cu atribuţii de control prevăzut la art. 55. Împotriva procesului-verbal de constatare a contravenţiei se poate face plîngere în termen de 15 zile de la data comunicării acestuia. Plîngerea se depune la Comitetul de Stat pentru Energia Nucleara şi va fi însoţită de copia procesului-verbal de constatare a contravenţiei."
+    },
+    {
+      "provision_ref": "Art.74",
+      "chapter": "Capitolul 7 - Sancţiuni",
+      "section": "74",
+      "title": "Articolul 74",
+      "content": "Contravenţiilor prevăzute la art. 72 le sînt aplicabile dispoziţiile Legii nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor."
+    },
+    {
+      "provision_ref": "Art.75",
+      "chapter": "Capitolul 8 - Dispoziţii finale",
+      "section": "75",
+      "title": "Articolul 75",
+      "content": "Cerinţele specifice de calitate pentru produsele şi serviciile destinate obiectivelor şi instalaţiilor nucleare se stabilesc prin norme republicane de asigurare a calităţii, elaborate sau avizate de către Comitetul de Stat pentru Energia Nucleara, obligatorii pentru toate ministerele şi celelalte organe centrale, precum şi pentru toate unităţile executante sau beneficiare de asemenea produse şi servicii. Prin normele republicane de asigurare a calităţii în domeniul nuclear se vor stabili şi criteriile de clasificare pe nivele de calitate a construcţiilor, sistemelor şi componentelor obiectivelor şi instalaţiilor nucleare, în funcţie de importanţa acestora pentru securitatea instalaţiilor, protecţia populaţiei şi a mediului înconjurător, precum şi pentru eficienta economică a obiectivului nuclear."
+    },
+    {
+      "provision_ref": "Art.76",
+      "chapter": "Capitolul 8 - Dispoziţii finale",
+      "section": "76",
+      "title": "Articolul 76",
+      "content": "Ministerele şi celelalte organe centrale, precum şi centralele industriale, care au sarcini şi raspunderi în realizarea obiectivelor şi instalaţiilor nucleare, vor elabora norme tehnice de timp specifice pentru executarea produselor şi serviciilor destinate obiectivelor şi instalaţiilor nucleare, precum şi pentru desfăşurarea activităţilor privind asigurarea calităţii la aceste lucrări."
+    },
+    {
+      "provision_ref": "Art.77",
+      "chapter": "Capitolul 8 - Dispoziţii finale",
+      "section": "77",
+      "title": "Articolul 77",
+      "content": "Structura organizatorică a compartimentelor de asigurare a calităţii în domeniul nuclear, funcţiile specifice şi nivelul retributiei tarifare pentru personalul muncitor din aceste compartimente se stabilesc prin decret al Consiliului de Stat."
+    },
+    {
+      "provision_ref": "Art.78",
+      "chapter": "Capitolul 8 - Dispoziţii finale",
+      "section": "78",
+      "title": "Articolul 78",
+      "content": "Anexele nr. 1 şi 2 fac parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.79",
+      "chapter": "Capitolul 8 - Dispoziţii finale",
+      "section": "79",
+      "title": "Articolul 79",
+      "content": "Prezenta lege intră în vigoare la 60 de zile de la publicarea în Buletinul Oficial al Republicii Socialiste România."
+    }
+  ],
+  "definitions": []
+}

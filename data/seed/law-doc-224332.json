@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-224332",
+  "type": "statute",
+  "title": "LEGE nr. 25 din 20 martie 2020",
+  "short_name": "lege 25 20 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-20",
+  "in_force_date": "2020-03-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224332",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 25 20/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Singapore cu privire la serviciile aeriene, semnat la Singapore la 31 mai 2018."
+    }
+  ],
+  "definitions": []
+}

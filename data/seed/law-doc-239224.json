@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239224",
+  "type": "statute",
+  "title": "LEGE nr. 27 din 15 martie 2021",
+  "short_name": "lege 27 15 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-15",
+  "in_force_date": "2021-03-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239224",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 27 15/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 56 din 23 aprilie 2020 privind unele măsuri provizorii în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 340 din 27 aprilie 2020."
+    }
+  ],
+  "definitions": []
+}

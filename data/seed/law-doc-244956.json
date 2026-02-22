@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-244956",
+  "type": "statute",
+  "title": "LEGE nr. 225 din 26 iulie 2021",
+  "short_name": "lege 225 26 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-26",
+  "in_force_date": "2021-07-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244956",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 225 26/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, publicată în Monitorul Oficial al României, Partea I, nr. 103 din 6 februarie 2002, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. După articolul 33^1 se introduc două noi articole, articolele 33^2 și 33^3, cu următorul cuprins: Articolul 33^2 Valoarea indicatorului social de referință se actualizează, din oficiu, în fiecare an, la data de 1 martie, cu rata medie anuală a inflației din anul precedent, indicator definitiv, comunicat de Institutul Național de Statistică. În situația în care rata medie anuală a inflației are valoare negativă se păstrează ultima valoare a indicatorului social de referință. Articolul 33^3 Valoarea anuală a indicatorului social de referință este avută în vedere la elaborarea legilor bugetare anuale. 2. La articolul 127, alineatul (2) se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Actualizarea indicatorului social de referință prevăzut la art. 33^2 din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, publicată în Monitorul Oficial al României, Partea I, nr. 103 din 6 februarie 2002, cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, intră în vigoare la 1 martie 2022."
+    }
+  ],
+  "definitions": []
+}

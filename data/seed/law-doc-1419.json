@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-1419",
+  "type": "statute",
+  "title": "LEGE nr. 2 din 7 ianuarie 1991",
+  "short_name": "lege 2 07 01 1991",
+  "status": "in_force",
+  "issued_date": "1991-01-07",
+  "in_force_date": "1991-01-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1419",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2 07/01/1991",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Orice persoană poate cumula mai multe funcții și are dreptul sa primească salariul corespunzător pentru fiecare din funcțiile ocupate. Prevederile alin. 1 nu se aplică în situațiile în care prin lege sînt prevăzute incompatibilități pentru cumulul unor funcții."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Persoanele care cumulează mai multe funcții sînt obligate să-și aleagă o unitate unde vor avea funcția de baza, care îi achită și celelalte drepturi de personal. Unitatea prevăzută la alin. 1 plătește pentru salariatul respectiv contribuția de asigurări sociale și retine contribuția pentru pensia suplimentară, stabilite pe baza salariului luat în calcul pentru celelalte drepturi, și orice alte sume datorate potrivit legii. De asemenea tine și completează carnetul de muncă al salariatului respectiv."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Pensionării pentru limita de vîrsta, precum și pensionării de invaliditate gradul III, pot fi angajați, în condițiile prezentei legi, cumulind, pe perioada angajării, pensia cu salariul. Persoanele pensionate pe baza prevederilor Decretului-lege nr. 60/1990 privind pensionarea cu reducere de vîrsta a unor salariați primesc, pe durata angajării, numai salariul corespunzător funcțiilor ocupate. Organele centrale și locale ale administrației de stat, instituțiile și celelalte unități, precum și regiile autonome și societățile comerciale cu capital de stat, care au angajat persoane pensionate, au obligația sa organizeze în fiecare an, dar nu mai înainte de 6 luni, în condițiile prevăzute de lege, concurs pentru ocuparea funcțiilor în care sînt angajate aceste persoane."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Art. 4 alin. (3) și art. 199 alin. (1) din Legea retribuirii după cantitatea și calitatea muncii nr. 57/1974 , art. 6 din Legea nr. 3/1977 privind pensiile de asigurări sociale de stat și asistența socială, precum și orice alte dispoziții contrare prezentei legi, se abroga."
+    }
+  ],
+  "definitions": []
+}

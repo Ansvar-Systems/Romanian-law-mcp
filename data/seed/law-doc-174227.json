@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-174227",
+  "type": "statute",
+  "title": "LEGE nr. 336 din 18 decembrie 2015",
+  "short_name": "lege 336 18 12 2015",
+  "status": "in_force",
+  "issued_date": "2015-12-18",
+  "in_force_date": "2015-12-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174227",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 336 18/12/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre România şi Republica Albania în domeniul securităţii sociale, semnat la Bucureşti la 27 februarie 2015."
+    }
+  ],
+  "definitions": []
+}

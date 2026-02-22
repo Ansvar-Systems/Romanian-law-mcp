@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166459",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 17 martie 2015",
+  "short_name": "lege 43 17 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-17",
+  "in_force_date": "2015-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166459",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 17/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 41 din 18 iunie 2014 privind înfiinţarea, organizarea şi funcţionarea Agenţiei pentru Finanţarea Investiţiilor Rurale, prin reorganizarea Agenţiei de Plăţi pentru Dezvoltare Rurală şi Pescuit, publicată în Monitorul Oficial al României, Partea I, nr. 472 din 26 iunie 2014."
+    }
+  ],
+  "definitions": []
+}

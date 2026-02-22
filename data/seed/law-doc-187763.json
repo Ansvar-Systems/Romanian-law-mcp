@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187763",
+  "type": "statute",
+  "title": "LEGE nr. 30 din 27 martie 2017",
+  "short_name": "lege 30 27 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-27",
+  "in_force_date": "2017-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187763",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 30 27/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 38 din Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 49 din 22 ianuarie 2016, după alineatul (12) se introduce un nou alineat, alineatul (12^1), cu următorul cuprins: (12^1) Prin derogare de la art. 301 din Legea nr. 286/2009 privind Codul penal , cu modificările şi completările ulterioare, nu constituie conflict de interese angajarea la biroul parlamentar a persoanelor cu care senatorii sau deputaţii s-au aflat în raporturi de muncă în ultimii 5 ani."
+    }
+  ],
+  "definitions": []
+}

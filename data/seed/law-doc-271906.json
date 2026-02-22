@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271906",
+  "type": "statute",
+  "title": "LEGE nr. 204 din 5 iulie 2023",
+  "short_name": "lege 204 05 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-05",
+  "in_force_date": "2023-07-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271906",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 204 05/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 5 din 3 februarie 2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România, publicată în Monitorul Oficial al României, Partea I, nr. 117 din 4 februarie 2022."
+    }
+  ],
+  "definitions": []
+}

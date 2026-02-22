@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-16070",
+  "type": "statute",
+  "title": "LEGE nr. 199 din 4 noiembrie 1998",
+  "short_name": "lege 199 04 11 1998",
+  "status": "in_force",
+  "issued_date": "1998-11-04",
+  "in_force_date": "1998-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/16070",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 199 04/11/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Absolvenții învățământului particular liceal din promotiile 1994-2000, precum și cei ai învățământului profesional și postliceal din promotiile 1993-2000 pot susține examenul de finalizare a studiilor, bacalaureat sau absolvire, la o unitate de învățământ sau la o instituție de stat similară din rețeaua Ministerului Educației Naționale, în sesiunile organizate pentru absolvenții învățământului de stat, în condițiile legii. (2) Diploma de bacalaureat sau de absolvire se eliberează de unitatea de învățământ sau de instituția de stat din rețeaua Ministerului Educației Naționale la care s-a susținut examenul respectiv. (la 26-04-2000, Articolul 1 a fost modificat de Articolul UNIC din LEGEA nr. 58 din 24 aprilie 2000, publicată în MONITORUL OFICIAL nr. 180 din 26 aprilie 2000 )"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Absolvenții învățământului postliceal se pot prezenta la examenul de finalizare a studiilor, la unități similare din învățământul de stat, numai dacă au promovat examenul de selecție, în condițiile Legii nr. 71/1995 ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Susținerea examenelor de selecție și de finalizare a studiilor de către persoanele prevăzute la art. 1 se face cu taxa, al carei cuantum este următorul: a) pentru fiecare examen de selecție - 400.000 lei; b) pentru examenul de absolvire a învățământului postliceal și profesional - 250.000 lei; c) pentru examenul de bacalaureat - 400.000 lei. (2) Sumele încasate din taxele prevăzute la alin. (1) se vor utiliza pentru acoperirea cheltuielilor de personal și materiale, ocazionate de susținerea examenelor de selecție și de finalizare a studiilor, în condițiile legii."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Orice dispoziții contrare se abroga."
+    }
+  ],
+  "definitions": []
+}

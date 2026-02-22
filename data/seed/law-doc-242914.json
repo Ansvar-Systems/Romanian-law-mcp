@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242914",
+  "type": "statute",
+  "title": "LEGE nr. 150 din 28 mai 2021",
+  "short_name": "lege 150 28 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-28",
+  "in_force_date": "2021-05-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242914",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 150 28/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Decizia (UE, EURATOM) 2020/2.053 a Consiliului din 14 decembrie 2020 privind sistemul de resurse proprii ale Uniunii Europene și de abrogare a Deciziei 2014/335/UE, Euratom, adoptată la Bruxelles și publicată în Jurnalul Oficial al Uniunii Europene, seria L, nr. 424 din 15 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-210070",
+  "type": "statute",
+  "title": "LEGE nr. 37 din 17 ianuarie 2019",
+  "short_name": "lege 37 17 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-17",
+  "in_force_date": "2019-01-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/210070",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 37 17/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) La data intrării în vigoare a prezentei legi, orașul Băneasa, județul Constanța, trece la rangul de comună, deținut anterior intrării în vigoare a Legii nr. 83/2004 pentru declararea ca orașe a unor comune. (2) Comuna Băneasa are în componență satele Băneasa, Făurei, Negureni și Tudor Vladimirescu. (3) Reședința comunei Băneasa este satul Băneasa."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Anexa la Legea nr. 2/1968 privind organizarea administrativă a teritoriului României, republicată în Buletinul Oficial al României, Partea I, nr. 54-55 din 27 iulie 1981, cu modificările și completările ulterioare, se modifică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Legea nr. 83/2004 pentru declararea ca orașe a unor comune, publicată în Monitorul Oficial al României, Partea I, nr. 310 din 7 aprilie 2004, se modifică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "La anexa nr. II la Legea nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea a IV-a - Rețeaua de localități, publicată în Monitorul Oficial al României, Partea I, nr. 408 din 24 iulie 2001, cu modificările și completările ulterioare, punctele 5.6 și 6.1 se modifică în mod corespunzător."
+    }
+  ],
+  "definitions": []
+}

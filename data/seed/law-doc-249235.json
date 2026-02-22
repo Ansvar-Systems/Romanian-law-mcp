@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-249235",
+  "type": "statute",
+  "title": "LEGE nr. 297 din 14 decembrie 2021",
+  "short_name": "lege 297 14 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-14",
+  "in_force_date": "2021-12-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249235",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 297 14/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Tratatul dintre România și Regatul Hașemit al Iordaniei privind extrădarea, semnat la Amman la 4 aprilie 2021."
+    }
+  ],
+  "definitions": []
+}

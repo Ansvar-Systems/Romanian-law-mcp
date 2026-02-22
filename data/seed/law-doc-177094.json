@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-177094",
+  "type": "statute",
+  "title": "LEGE nr. 45 din 30 martie 2016",
+  "short_name": "lege 45 30 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-30",
+  "in_force_date": "2016-03-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/177094",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 45 30/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 22 din 24 iunie 2015 privind acordarea unui ajutor de stat individual pentru salvare Societăţii \"Complexul Energetic Hunedoara\" - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 468 din 29 iunie 2015."
+    }
+  ],
+  "definitions": []
+}

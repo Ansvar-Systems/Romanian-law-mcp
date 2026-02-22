@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276041",
+  "type": "statute",
+  "title": "LEGE nr. 313 din 3 noiembrie 2023",
+  "short_name": "lege 313 03 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-03",
+  "in_force_date": "2023-11-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276041",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 313 03/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 196 din 18 noiembrie 2020 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 1108 din 19 noiembrie 2020."
+    }
+  ],
+  "definitions": []
+}

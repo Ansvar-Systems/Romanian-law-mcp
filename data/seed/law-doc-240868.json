@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-240868",
+  "type": "statute",
+  "title": "LEGE nr. 66 din 8 aprilie 2021",
+  "short_name": "lege 66 08 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-08",
+  "in_force_date": "2021-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240868",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 66 08/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă majorarea capitalului autorizat deținut de România la Corporația Financiară Internațională cu 6.777 de acțiuni, în valoare de 6.777.000 dolari S.U.A., în conformitate cu prevederile Rezoluției nr. 271/2020 privind „Majorarea selectivă de capital 2018“ adoptată de Consiliul Guvernatorilor Corporației Financiare Internaționale la data de 16 aprilie 2020. Capitalul subscris va fi vărsat integral și se achită începând cu anul 2021 prin virament bancar în dolari S.U.A., anual, în tranșe egale până la data de 16 aprilie 2023."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se aprobă majorarea capitalului autorizat deținut de România la Corporația Financiară Internațională cu 11.176 de acțiuni, în valoare de 11.176.000 dolari S.U.A., în conformitate cu prevederile Rezoluției nr. 272/2020 privind „Majorarea generală de capital 2018“ adoptată de Consiliul Guvernatorilor Corporației Financiare Internaționale la data de 16 aprilie 2020. Capitalul subscris va fi vărsat integral și se achită începând cu anul 2021 prin virament bancar în dolari S.U.A., anual, în tranșe egale până la data de 16 aprilie 2025."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Plata capitalului vărsat în conformitate cu prevederile Rezoluției nr. 271/2020 și ale Rezoluției nr. 272/2020 se asigură anual de la bugetul de stat, prin bugetul Ministerului Finanțelor."
+    }
+  ],
+  "definitions": []
+}

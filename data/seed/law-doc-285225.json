@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-285225",
+  "type": "statute",
+  "title": "LEGE nr. 218 din 9 iulie 2024",
+  "short_name": "lege 218 09 07 2024",
+  "status": "in_force",
+  "issued_date": "2024-07-09",
+  "in_force_date": "2024-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/285225",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 218 09/07/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 43 din 12 iunie 2019 pentru modificarea și completarea unor acte normative care privesc stabilirea unor măsuri în domeniul investițiilor, publicată în Monitorul Oficial al României, Partea I, nr. 507 din 21 iunie 2019."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247460",
+  "type": "statute",
+  "title": "LEGE nr. 255 din 15 octombrie 2021",
+  "short_name": "lege 255 15 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-15",
+  "in_force_date": "2021-10-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247460",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 255 15/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 25 din 4 februarie 2020 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, precum și a Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, publicată în Monitorul Oficial al României, Partea I, nr. 109 din 12 februarie 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-223432",
+  "type": "statute",
+  "title": "LEGE nr. 17 din 2 martie 2020",
+  "short_name": "lege 17 02 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-02",
+  "in_force_date": "2020-03-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/223432",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 17 02/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 11 din 27 februarie 2019 privind modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 164 din 1 martie 2019."
+    }
+  ],
+  "definitions": []
+}

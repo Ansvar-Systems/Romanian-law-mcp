@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-298940",
+  "type": "statute",
+  "title": "LEGE nr. 95 din 10 iunie 2025",
+  "short_name": "lege 95 10 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-10",
+  "in_force_date": "2025-06-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/298940",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 95 10/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 157 din 17 noiembrie 2022 pentru instituirea unei scheme de ajutor de stat sub forma de grant acordat producătorilor agricoli care au înființat culturi în toamna anului 2021 ce au fost afectate de seceta pedologică, publicată în Monitorul Oficial al României, Partea I, nr. 1111 din 17 noiembrie 2022."
+    }
+  ],
+  "definitions": []
+}

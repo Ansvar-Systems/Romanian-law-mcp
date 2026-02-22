@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209691",
+  "type": "statute",
+  "title": "LEGE nr. 12 din 8 ianuarie 2019",
+  "short_name": "lege 12 08 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-08",
+  "in_force_date": "2019-01-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209691",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 08/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 52 din 28 iunie 2018 pentru modificarea și completarea Ordonanței Guvernului nr. 18/2009 privind organizarea și finanțarea rezidențiatului, publicată în Monitorul Oficial al României, Partea I, nr. 543 din 29 iunie 2018, cu următoarele completări: 1. La articolul I, înaintea punctului 1 se introduce un nou punct, cu următorul cuprins: – Articolul 12 se modifică și va avea următorul cuprins: Articolul 12 (1) Rezidenții efectuează pregătirea de specialitate în unități sanitare acreditate, inclusiv în cabinete medicale individuale de medicină de familie, precum și în unități sanitare ale ministerelor cu rețea sanitară proprie sau în unități sanitare aflate în administrarea unităților publice locale. (2) Unitățile de pregătire se nominalizează de Ministerul Sănătății, în baza propunerilor instituțiilor de învățământ superior publice acreditate care au facultăți de medicină, medicină dentară și farmacie și în funcție de capacitățile de pregătire ale acestora. 2. La articolul I, după punctul 2 se introduce un nou punct, punctul 3, cu următorul cuprins: 3. În tot cuprinsul Ordonanței Guvernului nr. 18/2009 privind organizarea și finanțarea rezidențiatului, aprobată prin Legea nr. 103/2012 , cu modificările și completările ulterioare, sintagma «universitățile de medicină și farmacie» se înlocuiește cu sintagma «instituțiile de învățământ superior publice acreditate care au facultăți de medicină, medicină dentară și farmacie» și sintagma «Centrul Național de Perfecționare în Domeniul Sanitar București» se înlocuiește cu sintagma «Ministerul Sănătății»."
+    }
+  ],
+  "definitions": []
+}

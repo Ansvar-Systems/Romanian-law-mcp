@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-243751",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 23 iunie 2021",
+  "short_name": "lege 171 23 06 2021",
+  "status": "in_force",
+  "issued_date": "2021-06-23",
+  "in_force_date": "2021-06-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/243751",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 23/06/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie zilele colindului din România în perioada 6-31 decembrie."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Zilele colindului din România pot fi marcate de către autoritățile administrației publice centrale și locale, de către societatea civilă, precum și de către persoane fizice sau juridice, prin organizarea de evenimente educative, de voluntariat, cu caracter social. De asemenea, consacrarea acestei perioade poate fi făcută și prin participarea la orice astfel de evenimente. (2) Autoritățile administrației publice centrale și locale pot acorda sprijin logistic și pot aloca fonduri din bugetele proprii în vederea organizării și derulării în bune condiții a evenimentelor prevăzute la alin. (1) , în limita alocărilor bugetare aprobate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Unitățile de învățământ, unitățile de cult, centrele comunitare și instituțiile culturale pot participa la acțiuni de promovare a practicării colindului, precum și de identificare și creare a fondului de colinde."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "În termen de 60 de zile de la intrarea în vigoare a prezentei legi, Ministerul Culturii întocmește un calendar de evenimente pentru zilele colindului din România."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-224264",
+  "type": "statute",
+  "title": "LEGE nr. 24 din 20 martie 2020",
+  "short_name": "lege 24 20 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-20",
+  "in_force_date": "2020-03-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224264",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 24 20/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 14 din Legea nr. 165/2018 privind acordarea biletelor de valoare, publicată în Monitorul Oficial al României, Partea I, nr. 599 din 13 iulie 2018, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 14 Valoarea nominală a unui tichet de masă nu poate depăși suma de 20 de lei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile prezentei legi intră în vigoare la data de întâi a lunii următoare celei în care prezenta lege se publică în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

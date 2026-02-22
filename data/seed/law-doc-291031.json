@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-291031",
+  "type": "statute",
+  "title": "LEGE nr. 281 din 13 noiembrie 2024",
+  "short_name": "lege 281 13 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-13",
+  "in_force_date": "2024-11-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/291031",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 281 13/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul *) privind Programul de schimburi pentru studii universitare în Europa Centrală (CEEPUS IV), semnat la Varșovia, Polonia, la 20 septembrie 2023. *) Traducere"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Categoriile de cheltuieli ocazionate de aplicarea acordului prevăzut la art. 1 se stabilesc prin hotărâre a Guvernului și se asigură din fondurile de la bugetul de stat, prin bugetul Ministerului Educației."
+    }
+  ],
+  "definitions": []
+}

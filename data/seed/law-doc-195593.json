@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195593",
+  "type": "statute",
+  "title": "LEGE nr. 242 din 6 decembrie 2017",
+  "short_name": "lege 242 06 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-06",
+  "in_force_date": "2017-12-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195593",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 242 06/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul , semnat la Moscova la 18 decembrie 1990, de modificare a Convenției privind decontările multilaterale în ruble transferabile și organizarea Băncii Internaționale de Cooperare Economică, precum și a Statutului acestei bănci, încheiate la Moscova la 22 octombrie 1963, ratificate prin Decretul nr. 132/1964 ."
+    }
+  ],
+  "definitions": []
+}

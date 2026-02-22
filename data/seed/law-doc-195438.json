@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195438",
+  "type": "statute",
+  "title": "LEGE nr. 234 din 29 noiembrie 2017",
+  "short_name": "lege 234 29 11 2017",
+  "status": "in_force",
+  "issued_date": "2017-11-29",
+  "in_force_date": "2017-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195438",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 234 29/11/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 6 din 27 iulie 2017 pentru prorogarea termenului de intrare în vigoare a Legii nr. 151/2015 privind procedura insolvenței persoanelor fizice, adoptată în temeiul art. 1 pct. XII din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 614 din 28 iulie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305141",
+  "type": "statute",
+  "title": "LEGE nr. 216 din 11 decembrie 2025",
+  "short_name": "lege 216 11 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-11",
+  "in_force_date": "2025-12-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305141",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 216 11/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 150 din Legea nr. 134/2010 privind Codul de procedură civilă , republicată în Monitorul Oficial al României, Partea I, nr. 247 din 10 aprilie 2015, cu modificările și completările ulterioare, alineatul (2) se modifică și va avea următorul cuprins: (2) Copiile vor fi certificate de parte pentru conformitate cu originalul. Dacă copiile sunt transmise în format electronic, partea le va putea conforma cu originalul, prin aplicarea semnăturii electronice."
+    }
+  ],
+  "definitions": []
+}

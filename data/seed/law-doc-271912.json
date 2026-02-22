@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271912",
+  "type": "statute",
+  "title": "LEGE nr. 202 din 5 iulie 2023",
+  "short_name": "lege 202 05 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-05",
+  "in_force_date": "2023-07-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271912",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 202 05/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "România aderă la Convenția privind combaterea coruperii funcționarilor publici străini în cadrul operațiunilor economice internaționale, adoptată la Paris la 21 noiembrie 1997 și intrată în vigoare la 15 februarie 1999."
+    }
+  ],
+  "definitions": []
+}

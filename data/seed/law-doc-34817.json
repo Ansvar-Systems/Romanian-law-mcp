@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-34817",
+  "type": "statute",
+  "title": "LEGE nr. 4.256 din 13 decembrie 1938",
+  "short_name": "lege 4256 13 12 1938",
+  "status": "in_force",
+  "issued_date": "1938-12-13",
+  "in_force_date": "1938-12-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34817",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4256 13/12/1938",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Articolul 63, punctul 3 al legii pentru lichidarea datoriilor agricole şi urbane din 7 Aprilie 1934, se interpretează în sensul că dispoziţiile ce cuprinde sînt aplicabile împrumuturilor în scrisuri funciare contractate după 1 Ianuarie 1919, nu şi celor contractate înainte de această dată. -------------"
+    }
+  ],
+  "definitions": []
+}

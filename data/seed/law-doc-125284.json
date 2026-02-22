@@ -1,0 +1,392 @@
+{
+  "id": "law-doc-125284",
+  "type": "statute",
+  "title": "LEGE nr. 271 din 22 decembrie 2010",
+  "short_name": "lege 271 22 12 2010",
+  "status": "in_force",
+  "issued_date": "2010-12-22",
+  "in_force_date": "2010-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/125284",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 271 22/12/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege reglementează înfiinţarea, organizarea şi funcţionarea Sistemului naţional de informaţii privind vizele şi asigură cadrul juridic necesar utilizării de către autorităţile române a Sistemului de informaţii privind vizele."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În sensul prezentei legi, termenii şi expresiile de mai jos au următoarele semnificaţii: a) Sistemul de informaţii privind vizele, denumit în continuare VIS - sistemul informatic al Uniunii Europene, instituit prin Decizia 2004/512/CE a Consiliului din 8 iunie 2004 de instituire a Sistemului de informaţii privind vizele (VIS), publicată în Jurnalul Oficial al Uniunii Europene nr. L 213 din 15 iunie 2004, destinat schimbului de date privind vizele, care permite autorităţilor competente din statele membre ale Uniunii Europene să introducă, să actualizeze şi să consulte aceste date pe cale electronică; b) Sistemul naţional de informaţii privind vizele, denumit în continuare SNIV - sistemul informatic compatibil cu VIS, care permite autorităţilor naţionale competente să participe la schimbul de date cu autorităţile competente ale celorlalte state membre ale Uniunii Europene în scopurile prevăzute la art. 2 din Regulamentul (CE) nr. 767/2008 al Parlamentului European şi al Consiliului din 9 iulie 2008 privind Sistemul de informaţii privind vizele (VIS) şi schimbul de date între statele membre cu privire la vizele de scurtă şedere ( Regulamentul VIS ), publicat în Jurnalul Oficial al Uniunii Europene nr. L 218 din 13 august 2008, cu modificările şi completările ulterioare, denumit în continuare Regulamentul VIS , şi să gestioneze datele necesare în procedurile de acordare a vizelor de lungă şedere şi a dreptului de azil, precum şi să asigure consultarea datelor din VIS în scopul prevenirii şi combaterii infracţiunilor de terorism şi a altor infracţiuni grave; c) interfaţa naţională locală, denumită în continuare INL - echipamentele tehnice şi aplicaţiile informatice prin intermediul cărora SNIV se conectează fizic la VIS. INL este situată pe teritoriul României şi este localizată la Centrul Naţional de Vize, denumit în continuare CNV; d) componenta Ministerului Afacerilor Externe a SNIV, denumită în continuare componenta MAE a SNIV, este alcătuită din componenta MAE a bazei de date a SNIV, sistemul informatic reprezentând totalitatea aplicaţiilor informatice, a echipamentelor de prelucrare a datelor din SNIV şi de conectare la VIS, precum şi infrastructura de comunicaţii aflate la sediile misiunilor diplomatice, oficiilor consulare ale României şi CNV, inclusiv echipamentele care asigură securizarea comunicaţiilor între CNV şi baza de date localizată la Oficiul Român pentru Imigrări, denumit în continuare ORI, precum şi a comunicaţiei dintre CNV şi INL; e) componenta Ministerului Administraţiei şi Internelor a SNIV, denumită în continuare componenta MAI a SNIV, este alcătuită din componenta MAI a bazei de date a SNIV şi din sistemul informatic reprezentând totalitatea aplicaţiilor informatice, echipamentelor de prelucrare a datelor din SNIV şi a infrastructurii de comunicaţii utilizate de structurile centrale şi teritoriale ale ORI şi ale Poliţiei de Frontieră Române, denumită în continuare PFR; f) autorităţi naţionale competente - autorităţile publice române prevăzute la art. 5, 19 şi 31; g) componenta naţională a Sistemului de informaţii Schengen, denumită în continuare N.SIS - sistemul informatic constituit din Sistemul informatic naţional de semnalări şi copia naţională a bazei de date centrale a Sistemului de informaţii Schengen; h) baza de date a SNIV - bază de date care cuprinde două componente interconectate, cu următoarele categorii de date: I. componenta MAE a SNIV: (i) datele prevăzute la art. 5 alin. (1) şi art. 9-14 din Regulamentul VIS , care au fost introduse de autorităţile naţionale competente, atât cu privire la vizele de scurtă şedere, cât şi cu privire la vizele de lungă şedere; (îi) datele preluate din VIS de către autorităţile naţionale competente; II. componenta MAI a SNIV: - date din Sistemul naţional de evidenţă a străinilor, constituit în conformitate cu prevederile legale, care sunt relevante pentru SNIV; i) punct central de acces - autoritatea publică română prin intermediul căreia se asigură accesul, în vederea consultării datelor din VIS, al autorităţilor naţionale competente care au atribuţii în prevenirea, depistarea şi cercetarea infracţiunilor de terorism şi a altor infracţiuni grave; j) tranzacţie - orice operaţie de introducere, modificare, ştergere sau consultare a datelor conţinute în SNIV ori VIS; k) stat membru - stat care utilizează VIS; l) ţară terţă - stat care nu aplică acquis-ul Schengen şi care nu are acces la VIS; m) infracţiuni de terorism şi alte infracţiuni grave - infracţiunile prevăzute de Legea nr. 535/2004 privind prevenirea şi combaterea terorismului, şi cele prevăzute la art. 85 alin. (1) din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, cu modificările şi completările ulterioare; n) alţi termeni din cuprinsul prezentei legi, precum: viză, autocolant de viză, formular de cerere, solicitant, document de călătorie, date alfanumerice, membri ai grupului, stat membru responsabil, identificare, verificare au înţelesul prevăzut la art. 4 din Regulamentul VIS ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea 1 - Înfiinţarea şi obiectivul general al SNIV",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Se înfiinţează SNIV, în conformitate cu Decizia 2004/512/CE a Consiliului şi cu Regulamentul VIS , precum şi cu respectarea specificaţiilor tehnice stabilite prin Decizia 2008/602/CE a Comisiei din 17 iunie 2008 de stabilire a arhitecturii fizice şi a cerinţelor privind interfeţele naţionale şi infrastructura de comunicaţii dintre Sistemul central de informaţii privind vizele (VIS) şi interfeţele naţionale pentru etapa de dezvoltare, publicată în Jurnalul Oficial al Uniunii Europene nr. L 194 din 23 iulie 2008."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea 1 - Înfiinţarea şi obiectivul general al SNIV",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) SNIV urmăreşte îmbunătăţirea punerii în aplicare a politicii comune în materie de vize, a cooperării la nivel consular şi a consultărilor care au loc între autorităţile responsabile în domeniul vizelor, prin facilitarea schimbului de date între statele membre cu privire la cererile de vize şi la deciziile referitoare la acestea. (2) SNIV este folosit printr-un sistem de mesagerie electronică pentru a consulta celelalte state care participă la VIS, în cadrul procesului de acordare a vizelor, respectiv pentru a răspunde la solicitările similare formulate de celelalte state membre. (3) De la data la care România va aplica în totalitate dispoziţiile acquis-ului Schengen, în temeiul deciziei Consiliului emise în acest sens, prin SNIV se vor tranzacţiona date către VIS central, conform calendarului de implementare pe regiuni stabilit la nivelul Uniunii Europene. Până la data la care România va aplica în totalitate dispoziţiile acquis-ului Schengen, SNIV va putea fi folosit pentru testarea în timp real."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 2-a - Gestionarea şi utilizarea SNIV",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Ministerul Afacerilor Externe, prin CNV, şi Ministerul Administraţiei şi Internelor, prin ORI, sunt autorităţile naţionale care, în conformitate cu competenţele ce le revin potrivit prezentei legi, asigură aplicarea prevederilor art. 28 alin. 4 lit. a) şi b) din Regulamentul VIS cu privire la gestionarea şi funcţionarea SNIV."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 2-a - Gestionarea şi utilizarea SNIV",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) Se înfiinţează Comisia tehnică, în subordinea Consiliului interministerial pentru relaţii externe şi afaceri europene, prevăzut la art. 1 lit. b) din Hotărârea Guvernului nr. 750/2005 privind constituirea consiliilor interministeriale permanente, cu modificările şi completările ulterioare, şi sub coordonarea Ministerului Afacerilor Externe, ca organism cu atribuţii de analiză şi soluţionare a problemelor de ordin tehnic apărute în funcţionarea SNIV, compusă din reprezentanţi la nivel de experţi ai autorităţilor naţionale competente care sunt prevăzute la art. 5 şi ai PFR, în calitate de consultanţi, desemnaţi de către fiecare autoritate în parte, conform procedurilor interne. (2) Preşedintele Comisiei tehnice este şeful structurii centrale din Ministerul Afacerilor Externe cu atribuţii în domeniul tehnologiei informaţiei."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 2-a - Gestionarea şi utilizarea SNIV",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Comisia tehnică are următoarele atribuţii: a) asigură punerea în aplicare a deciziilor de ordin tehnic ale autorităţilor naţionale cărora le revin competenţe în gestionarea şi funcţionarea SNIV; b) prezintă propuneri, pentru buna funcţionare a SNIV, autorităţilor naţionale locale cărora le revin competenţe în gestionarea şi funcţionarea SNIV; c) asigură informarea autorităţilor naţionale competente cu privire la deciziile luate în cadrul grupurilor de lucru tehnice ale Uniunii Europene în domeniul VIS; d) stabileşte metodologia de lucru privind norme generale de utilizare a sistemului pentru introducerea, consultarea, modificarea sau ştergerea datelor din SNIV."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 2-a - Gestionarea şi utilizarea SNIV",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "La prima întrunire a Comisiei tehnice, membrii acesteia adoptă, cu majoritatea voturilor celor prezenţi, regulamentul de organizare şi funcţionare al acesteia."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 2-a - Gestionarea şi utilizarea SNIV",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) Comisia tehnică se întruneşte trimestrial sau ori de câte ori este nevoie, la iniţiativa preşedintelui comisiei. (2) La lucrările Comisiei tehnice pot participa şi invitaţi de la instituţii cu atribuţii în domeniul tehnologiei informaţiei şi comunicaţiilor. (3) Secretariatul Comisiei tehnice este asigurat de structura centrală din Ministerul Afacerilor Externe cu atribuţii în domeniul tehnologiei informaţiei. (4) Secretariatul Comisiei tehnice are următoarele atribuţii: a) transmite informări Comisiei tehnice privind modificările tehnice intervenite la nivelul Uniunii Europene în VIS; b) asigură legătura permanentă între Comisia tehnică şi autorităţile reprezentate în acesta; c) gestionează documentaţia Comisiei tehnice."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Autorităţile naţionale competente introduc în SNIV următoarele tipuri de date: a) date alfanumerice şi dactiloscopice referitoare la solicitantul de viză, precum şi fotografii ale acestuia; b) date referitoare la vizele anterior solicitate, eliberate, refuzate, anulate, retrase sau prelungite ale solicitantului; c) conexiuni cu alte dosare de cerere ale solicitantului respectiv, precum şi cu dosarele de cerere ale persoanelor care îl însoţesc, în situaţia în care solicitantul călătoreşte în grup ori împreună cu soţul, soţia şi/sau copiii lor."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Autoritatea naţională competentă care primeşte cererea de viză introduce în SNIV datele alfanumerice referitoare la solicitant preluate din formularul de cerere, după cum urmează: a) numele (numele de familie), numele la naştere [numele anterior (anterioare)], prenumele; data naşterii, locul naşterii, ţara naşterii, sexul; b) cetăţenia actuală şi cetăţenia la naştere; c) tipul şi numărul documentului de călătorie, autoritatea care l-a eliberat şi data eliberării şi a expirării acestuia; d) locul şi data cererii; e) tipul vizei solicitate; f) datele referitoare la persoana care adresează invitaţia şi/sau care îşi asumă cheltuielile de întreţinere a solicitantului pe perioada şederii, şi anume: 1. în cazul unei persoane fizice, numele, prenumele şi adresa persoanei; 2. în cazul unei persoane juridice, denumirea şi adresa acesteia, precum şi numele şi prenumele persoanei de contact din cadrul societăţii/organizaţiei; g) statul membru (statele membre) de destinaţie şi durata şederii sau a tranzitului prevăzut; h) principalul scop (principalele scopuri) al (ale) călătoriei; i) data prevăzută de sosire în spaţiul Schengen şi data prevăzută de plecare din spaţiul Schengen; j) statul membru al primei intrări; k) adresa de domiciliu a solicitantului; l) ocupaţia actuală şi angajatorul; pentru studenţi: denumirea instituţiei de învăţământ; m) în cazul minorilor, autoritatea părintească sau tutelară; n) o fotografie a solicitantului, potrivit prevederilor Regulamentului (CE) nr. 1.683/95 al Consiliului din 29 mai 1995 de instituire a unui model uniform de viză; o) amprentele digitale ale solicitantului, în conformitate cu dispoziţiile corespunzătoare din Regulamentul (CE) nr. 810/2009 al Parlamentului European şi al Consiliului din 13 iulie 2009 privind instituirea unui cod comunitar de vize (Codul de vize), denumit în continuare Codul comunitar de vize."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Autoritatea responsabilă în domeniul vizelor introduce în SNIV datele referitoare la vizele solicitate admisibile potrivit prevederilor art. 19 din Codul comunitar de vize, după cum urmează: a) numărul cererii; b) informaţii referitoare la stadiul procedurii, cu menţionarea faptului că a fost solicitată o viză; c) autoritatea căreia i-a fost prezentată cererea, inclusiv sediul acesteia, şi dacă cererea a fost prezentată acestei autorităţi reprezentând un alt stat membru; d) datele prevăzute la art. 11."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) În cazul în care s-a luat decizia eliberării unei vize, autoritatea naţională competentă care a decis eliberarea vizei adaugă în SNIV categoria de date în cauză, după cum urmează: a) informaţii referitoare la stadiul procedurii, cu menţionarea faptului că viza a fost eliberată; b) autoritatea care a eliberat viza, inclusiv sediul său, şi dacă aceasta a eliberat-o în numele unui alt stat membru; c) locul şi data deciziei de eliberare a vizei; d) tipul de viză; e) numărul autocolantului de viză; f) teritoriul pe care deţinătorul vizei este autorizat să călătorească, în conformitate cu dispoziţiile corespunzătoare din cadrul Codului comunitar de vize; g) data de la care decurge şi data la care expiră perioada de valabilitate a vizei; h) numărul de intrări autorizate de viză pe teritoriul pentru care este valabilă viza; i) durata de şedere autorizată prin viză; j) dacă este cazul, indicaţia că viza a fost eliberată pe o filă separată, în conformitate cu Regulamentul (CE) nr. 333/2002 al Consiliului din 18 februarie 2002 de stabilire a unui model uniform de formular pentru aplicarea unei vize eliberate de statele membre titularilor unui document de călătorie nerecunoscut de statul membru care emite formularul respectiv; k) adresa de domiciliu a solicitantului. (2) În cazul în care solicitantul îşi retrage cererea sau renunţă la aceasta înainte de luarea unei decizii de eliberare ori de neeliberare a vizei, autoritatea responsabilă în domeniul vizelor căreia i-a fost prezentată cererea indică faptul că cererea a fost clasată din aceste motive, precum şi data clasării."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "În cazul în care autoritatea naţională competentă în domeniul vizelor este nevoită să suspende examinarea cererii, aceasta adaugă următoarele date în dosarul de cerere: a) informaţii referitoare la stadiul procedurii, cu menţionarea faptului că examinarea cererii a fost suspendată; b) autoritatea care a suspendat examinarea cererii, inclusiv sediul acesteia; c) locul şi data deciziei de suspendare a examinării; d) statul membru competent să examineze cererea."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "(1) În cazul în care s-a luat decizia de a refuza o viză, autoritatea naţională competentă care a luat această decizie adaugă în SNIV următoarele categorii de date: a) informaţii referitoare la stadiul procedurii, cu menţionarea faptului că viza a fost refuzată şi, dacă este cazul, că autoritatea respectivă a refuzat-o în numele altui stat membru; b) autoritatea naţională competentă care a refuzat viza, inclusiv sediul acesteia; c) locul şi data deciziei de refuzare a vizei. (2) În dosarul de cerere se menţionează, de asemenea, motivul sau motivele refuzului vizei, care poate/pot fi unul sau mai multe dintre următoarele: a) solicitantul: (i) prezintă un document de călătorie contrafăcut, fals sau falsificat; (îi) nu furnizează o justificare pentru scopul şi condiţiile şederii prevăzute; (iii) nu furnizează dovada unor mijloace de întreţinere suficiente, atât pe durata şederii prevăzute, cât şi pentru întoarcerea în ţara de origine sau de reşedinţă ori pentru tranzitul către o ţară terţă în care este sigur că urmează să fie primit, sau dacă nu este în măsură să dobândească astfel de mijloace în mod legal; (iv) a petrecut deja 3 luni în cursul perioadei de 6 luni în desfăşurare pe teritoriul statelor membre în temeiul unei vize uniforme sau al unei vize cu valabilitate teritorială limitată; (v) este o persoană care face obiectul unei alerte în SIS emise în scopul de a i se refuza intrarea; (vi) este considerat ca reprezentând o ameninţare pentru ordinea publică, siguranţa internă sau pentru sănătatea publică, astfel cum este definită la art. 2 pct. 19 din Regulamentul (CE) nr. 562/2006 al Parlamentului European şi al Consiliului din 15 martie 2006 de instituire a unui Cod comunitar privind regimul de trecere a frontierelor de către persoane (Codul frontierelor Schengen), sau pentru relaţiile internaţionale ale unuia dintre statele membre, în special dacă în bazele de date naţionale ale statelor membre a fost emisă o alertă în scopul de a i se refuza intrarea pentru motivele enumerate anterior; (vii) nu dovedeşte că deţine o asigurare medicală de călătorie corespunzătoare şi valabilă, după caz; b) informaţiile prezentate cu privire la justificarea scopului şi a condiţiilor şederii preconizate nu sunt fiabile; c) intenţia solicitantului de a părăsi teritoriul statelor membre înainte de expirarea vizei nu a putut fi stabilită; d) nu s-au furnizat suficiente dovezi care să arate că solicitantul nu a fost în măsură să solicite o viză în prealabil, ceea ce ar justifica solicitarea vizei la frontieră."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "(1) În cazul în care s-a luat decizia de a anula sau de a retrage o viză, autoritatea naţională competentă care a luat această decizie introduce în SNIV următoarele date: a) informaţii referitoare la stadiul procedurii, cu menţionarea faptului că viza a fost anulată sau retrasă; b) autoritatea care a anulat sau a retras viza, inclusiv sediul acesteia; c) locul şi data deciziei. (2) În dosarul de cerere se menţionează, de asemenea, motivul sau motivele anulării ori al/ale retragerii, care poate/pot fi: a) unul sau mai multe dintre motivele prevăzute la art. 15 alin. (2); b) cererea titularului vizei de revocare a acesteia."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 3-a - Datele introduse în SNIV",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "În cazul în care s-a luat decizia de a prelungi perioada de valabilitate a unei vize şi/sau durata şederii, autoritatea naţională competentă care a prelungit viza adaugă în SNIV următoarele date: a) informaţii referitoare la stadiul procedurii, cu menţionarea faptului că viza a fost prelungită; b) autoritatea naţională competentă care a prelungit viza, inclusiv sediul acesteia; c) locul şi data deciziei; d) numărul autocolantului de viză corespunzător vizei prelungite; e) data de la care decurge şi data la care expiră prelungirea vizei; f) perioada de prelungire a duratei autorizate de şedere; g) teritoriul pe care titularul vizei este autorizat să călătorească, dacă valabilitatea teritorială a vizei prelungite diferă de cea a vizei iniţiale; h) tipul vizei prelungite; i) motivul sau motivele prelungirii vizei, care pot fi forţa majoră, motive de ordin umanitar, motive serioase de ordin personal."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 4-a - Utilizarea SNIV şi VIS de către autorităţile naţionale competente",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "(1) Autorităţile naţionale competente aplică procedurile prevăzute la art. 15 şi 17 din Regulamentul VIS , pentru consultarea datelor din SNIV, în scopul examinării cererilor de viză, respectiv în scopul raportării şi al elaborării statisticilor. (2) Autorităţile naţionale competente aplică procedurile prevăzute la art. 18 şi 20 din Regulamentul VIS, pentru consultarea datelor din SNIV, în scopul realizării verificărilor la punctele de trecere a frontierei. (3) Autorităţile naţionale competente aplică procedurile prevăzute la art. 19 şi 20 din Regulamentul VIS, pentru consultarea datelor din SNIV, în scopul realizării verificărilor efectuate pe teritoriul României cu privire la îndeplinirea condiţiilor de intrare sau de şedere. (4) Autorităţile naţionale competente aplică procedurile prevăzute la art. 22 din Regulamentul VIS, pentru consultarea datelor din SNIV, în scopul examinării cererilor de azil."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 5-a - Autorităţi cu competenţe în gestionarea şi exploatarea SNIV",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Autorităţile naţionale competente să efectueze tranzacţii asupra datelor din SNIV sunt: a) Ministerul Afacerilor Externe, prin CNV, şi misiunile diplomatice şi oficiile consulare ale României din străinătate; b) Ministerul Administraţiei şi Internelor, prin ORI şi PFR."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 5-a - Autorităţi cu competenţe în gestionarea şi exploatarea SNIV",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Prin intermediul SNIV, Ministerul Afacerilor Externe, prin CNV, consultă N.SIS în procesul de acordare a vizelor, în conformitate cu drepturile lor de acces, printr-un punct de conexiune unic."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 5-a - Autorităţi cu competenţe în gestionarea şi exploatarea SNIV",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "CNV, structură special desemnată din cadrul Ministerului Afacerilor Externe, este autoritatea naţională cu competenţe în domeniul soluţionării cererilor de vize şi are următoarele atribuţii: a) asigură funcţionalitatea componentei MAE a SNIV; b) asigură gestionarea şi reglementarea accesului la VIS al personalului propriu autorizat, precum şi al personalului autorizat al celorlalte autorităţi naţionale competente prevăzute la art. 19; c) colaborează cu Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal, denumită în continuare ANSPDCP, în scopul instruirii corespunzătoare a personalului său, în vederea monitorizării legalităţii efectuării tranzacţiilor proprii componentei MAE a SNIV, a asigurării funcţionării tehnice corespunzătoare a acesteia, precum şi a integrităţii şi securităţii datelor prelucrate; d) realizează şi actualizează periodic lista cu membrii personalului său autorizat să efectueze tranzacţii, în conformitate cu prevederile art. 19, pe care o comunică Comisiei Europene; e) este desemnată autoritate responsabilă de prelucrarea datelor cu caracter personal în SNIV, în conformitate cu prevederile art. 41 alin. (4) din Regulamentul VIS ; f) în calitate de autoritate responsabilă de prelucrarea datelor cu caracter personal în SNIV, primeşte şi soluţionează cererile persoanelor care îşi exercită dreptul de acces, de rectificare şi de ştergere a datelor personale proprii care sunt prelucrate în SNIV; g) autorizează accesul la datele din VIS al autorităţilor naţionale competente prevăzute la art. 31; h) în baza solicitărilor primite de la autorităţile naţionale competente prevăzute la art. 31, consultă VIS şi furnizează acestor autorităţi informaţiile necesare; i) consultă celelalte state care participă la VIS în cadrul procesului de verificare a solicitantului de viză şi răspunde la solicitările similare adresate României, conform art. 16 din Regulamentul VIS ; j) în situaţia în care deţine dovezi care sugerează că datele introduse în VIS de un alt stat membru sunt eronate sau prelucrarea lor contravine dispoziţiilor Regulamentului VIS, informează imediat statul membru responsabil; k) informează statul membru sau statele membre responsabile cu privire la dobândirea de către un solicitant a cetăţeniei române; l) administrează împreună cu ORI baza de date a SNIV şi asigură integritatea şi securitatea acesteia, în conformitate cu legislaţia naţională privind protecţia datelor cu caracter personal şi informaţiile clasificate."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul II - Participarea României la VIS | Secţiunea a 5-a - Autorităţi cu competenţe în gestionarea şi exploatarea SNIV",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Atribuţiile ORI sunt următoarele: a) administrează împreună cu CNV baza de date a SNIV şi asigură integritatea şi securitatea acesteia, în conformitate cu legislaţia naţională privind protecţia datelor cu caracter personal şi informaţiile clasificate; b) cooperează cu specialiştii Ministerului Afacerilor Externe pentru asigurarea condiţiilor de interconectare a bazei de date cu aplicaţia SNIV; c) asigură funcţionalitatea componentei MAI a SNIV; d) realizează şi actualizează periodic lista cu membrii personalului său autorizat să efectueze tranzacţii, în conformitate cu prevederile art. 19; e) colaborează cu ANSPDCP în vederea monitorizării legalităţii efectuării tranzacţiilor proprii componentei MAI a SNIV, asigurării funcţionării tehnice corespunzătoare a acesteia, asigurării integrităţii şi securităţii datelor prelucrate şi instruirii corespunzătoare a personalului său."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea 1 - Păstrarea, modificarea şi ştergerea anticipată a datelor",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "(1) Datele introduse în SNIV de autorităţile prevăzute la art. 19 pot fi păstrate pentru o perioadă de cel mult 5 ani. (2) În cazul în care există dovezi că un solicitant ale cărui date personale au fost introduse în SNIV a dobândit cetăţenia română sau cetăţenia unui alt stat membru, datele sale sunt şterse fără întârziere de către CNV, înainte de expirarea perioadei prevăzute la alin. (1). (3) În cazul în care refuzul eliberării unei vize a fost anulat prin hotărâre judecătorească definitivă şi irevocabilă, autoritatea naţională competentă şterge, fără întârziere, datele introduse în SNIV, potrivit art. 15, şi datele introduse în VIS, potrivit art. 12 din Regulamentul VIS . (4) Durata de păstrare a datelor prevăzută la alin. (1) se calculează conform art. 23 alin. (1) din Regulamentul VIS . (5) Datele introduse de un alt stat membru în VIS pot fi recuperate şi păstrate în fişiere naţionale numai dacă este nevoie într-un caz determinat şi numai cu respectarea dispoziţiilor legale referitoare la protecţia datelor cu caracter personal. Durata de păstrare a datelor recuperate din VIS şi păstrate în fişiere naţionale încetează în momentul în care motivele care au condus la luarea deciziei de recuperare şi păstrare a acestora au încetat."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea 1 - Păstrarea, modificarea şi ştergerea anticipată a datelor",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "(1) Numai autoritatea naţională competentă care a introdus date în SNIV are dreptul de a modifica sau şterge datele introduse. (2) Dacă o autoritate naţională competentă, alta decât cea care a introdus datele, deţine dovezi că unele date introduse în SNIV sunt eronate sau că prelucrarea datelor respective contravine prevederilor prezentei legi, comunică autorităţii naţionale competente care a introdus datele dovezile care fac necesară modificarea sau ştergerea datelor în cauză. (3) În situaţia în care o autoritate naţională competentă este sesizată că datele pe care aceasta le-a introdus în SNIV sunt eronate sau prelucrarea lor contravine prevederilor prezentei legi, aceasta are obligaţia să verifice dovezile prezentate în acest sens şi, în cazul în care informarea este corectă, să modifice sau să şteargă imediat datele respective. În cazul în care informarea nu este corectă, comunică acest lucru autorităţii naţionale competente care a transmis sesizarea. (4) Dacă o autoritate naţională competentă care efectuează tranzacţii asupra datelor din SNIV deţine dovezi că unele date prelucrate în VIS, introduse de autorităţile competente ale unui alt stat membru, sunt eronate sau că prelucrarea lor contravine dispoziţiilor Regulamentului VIS , comunică CNV că este necesară modificarea sau ştergerea datelor în cauză şi prezintă dovezile în acest sens. CNV contactează punctul central de acces din statul membru responsabil şi comunică necesitatea modificării sau ştergerea datelor în cauză şi dovezile care susţin această comunicare."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea 1 - Păstrarea, modificarea şi ştergerea anticipată a datelor",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "(1) Autorităţile naţionale competente asigură colectarea şi introducerea datelor în SNIV şi în VIS exclusiv potrivit competenţelor lor legale şi răspund pentru exactitatea şi actualitatea datelor pe care le introduc. (2) Datele cu caracter personal se utilizează exclusiv în scopurile pentru care au fost introduse în SNIV."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea 1 - Păstrarea, modificarea şi ştergerea anticipată a datelor",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Datele prelucrate în SNIV nu pot fi transferate sau puse la dispoziţia unei ţări terţe ori a unei organizaţii internaţionale decât în cazurile şi în condiţiile prevăzute la art. 31 din Regulamentul VIS ."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea a 2-a - Securitatea datelor",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "(1) Ministerul Afacerilor Externe şi Ministerul Administraţiei şi Internelor adoptă măsuri de securitate în legătură cu gestionarea şi utilizarea SNIV, fiecare instituţie fiind responsabilă în ceea ce priveşte componentele proprii care vizează: a) controlul accesului la echipamente, pentru a împiedica accesul persoanelor neautorizate la echipamentele de prelucrare a datelor cu caracter personal; b) controlul suportului de date, pentru a împiedica citirea, copierea, modificarea sau ştergerea suportului de date în mod neautorizat; c) controlul stocării, pentru a împiedica introducerea neautorizată de date şi inspectarea, modificarea sau ştergerea neautorizată a datelor cu caracter personal; d) controlul utilizării, pentru a împiedica utilizarea sistemelor de prelucrare automată a datelor de către persoane neautorizate cu ajutorul echipamentelor de transmitere a datelor; e) controlul accesului la date, pentru a limita accesul persoanelor autorizate să utilizeze un sistem de prelucrare automată a datelor, în baza unei identităţi unice şi individuale de utilizator şi a unui mod de acces confidenţial, numai la datele pentru care au fost autorizate; f) asigurarea faptului că toate autorităţile publice competente care au acces la SNIV sau la echipamentele de prelucrare a datelor din acest sistem îşi creează profiluri care descriu competenţele şi responsabilităţile specifice ale persoanelor cu autorizaţie de acces, introducere, actualizare, ştergere şi căutare a datelor şi pun fără întârziere aceste profiluri la dispoziţia ANSPDCP; g) controlul comunicaţiilor aferente SNIV, astfel încât să se poată asigura verificarea şi stabilirea organismelor cărora le pot fi transmise datele cu caracter personal folosind echipamentele de comunicaţii; h) controlul introducerii de date, pentru a se asigura că este posibil ulterior să se verifice şi să se stabilească ce date cu caracter personal au fost introduse în sistemele de prelucrare automată a datelor, când şi în ce scop au fost introduse datele; i) controlul transportului de date, pentru a împiedica citirea, copierea, modificarea sau ştergerea neautorizată a datelor cu caracter personal în timpul transmiterii acestora ori în timpul transportului de suporturi de date prin intermediul măsurilor tehnice de securizare; j) întocmirea unui plan de rezervă pentru protecţia infrastructurii critice. (2) Fiecare autoritate naţională competentă care are drept de acces la datele din SNIV asigură aplicarea măsurilor de securitate prevăzute la alin. (1) şi cooperează cu ANSPDCP. (3) Ministerul Afacerilor Externe şi Ministerul Administraţiei şi Internelor monitorizează aplicarea măsurilor de securitate prevăzute la alin. (1)."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea a 2-a - Securitatea datelor",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Ministerul Afacerilor Externe şi Ministerul Administraţiei şi Internelor vor adopta măsuri tehnice, operative şi de procedură, potrivit următoarelor principii: a) principiul confidenţialităţii - asigurarea accesului la date numai pentru persoanele autorizate potrivit atribuţiilor de serviciu; b) principiul integrităţii - asigurarea exactităţii şi caracterului complet al informaţiilor, precum şi al metodelor de prelucrare; c) principiul disponibilităţii - asigurarea accesului la informaţii în termenul solicitat; d) principiul identificării şi autentificării - asigurarea identificării şi autentificării tuturor utilizatorilor în mod corespunzător, în funcţie de competenţe, înainte de efectuarea oricărei tranzacţii; e) principiul autorizării - autorizarea participanţilor la efectuarea unei tranzacţii în vederea accesării datelor din SNIV în funcţie de competenţe; f) principiul nonrepudierii - asigurarea înregistrării în sistem a tranzacţiilor efectuate asupra datelor din SNIV şi atribuirea acestora utilizatorilor participanţi la efectuarea lor."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea a 3-a - Evidenţa prelucrării datelor",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "(1) Toate tranzacţiile efectuate asupra datelor din SNIV de către autorităţile naţionale competente sunt înregistrate în sistem, pentru controlul legalităţii prelucrării datelor din punctul de vedere al protecţiei acestora, precum şi pentru garantarea securităţii datelor. Utilizarea înregistrărilor în alte scopuri este interzisă. (2) Responsabilitatea pentru evidenţa prelucrării datelor în SNIV revine fiecărei autorităţi naţionale competente pentru tranzacţiile proprii. Înregistrările prevăzute la alin. (1) conţin datele prevăzute la art. 34 alin. (1) din Regulamentul VIS . (3) Înregistrările prevăzute la alin. (1) pot fi accesate numai de personalul autorizat şi pot fi şterse după o perioadă de un an de la expirarea duratei de păstrare prevăzute la art. 23 alin. (1) din Regulamentul VIS , în cazul în care nu sunt necesare pentru o procedură de control deja iniţiată."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul III - Dispoziţii comune privind regimul datelor din SNIV şi VIS | Secţiunea a 3-a - Evidenţa prelucrării datelor",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "(1) Prelucrarea datelor cu caracter personal conţinute în SNIV este supusă controlului ANSPDCP, în conformitate cu prevederile art. 41 şi 42 din Regulamentul VIS . Autorităţile naţionale competente sunt obligate să asigure acces ANSPDCP la fişierele ce conţin înregistrări ale prelucrării datelor conţinute în SNIV şi să pună la dispoziţie orice alte informaţii necesare exercitării atribuţiilor ANSPDCP, conform art. 41-43 din Regulamentul VIS . (2) ANSPDCP cooperează cu Autoritatea Europeană pentru Protecţia Datelor în vederea asigurării supravegherii coordonate a utilizării VIS."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul IV | Secţiunea 1 - Autorităţi competente",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Autorităţile naţionale care, potrivit normelor legale în vigoare, au competenţe privind prevenirea, depistarea şi cercetarea infracţiunilor de terorism prevăzute de Legea nr. 535/2004 , precum şi a infracţiunilor grave prevăzute la art. 85 alin. (1) din Legea nr. 302/2004 , cu modificările şi completările ulterioare, obţin accesul la datele din VIS pentru consultare, prin punctul central de acces, exclusiv în scopul îndeplinirii atribuţiilor lor legale."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul IV | Secţiunea 1 - Autorităţi competente",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Autorităţile naţionale competente prevăzute la art. 31 comunică CNV unitatea operaţională şi personalul autorizat să solicite accesul la datele din VIS."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul IV | Secţiunea 1 - Autorităţi competente",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "(1) CNV se desemnează punct central de acces. (2) Până la data operaţionalizării SNIV, CNV notifică Comisiei şi Secretariatului General al Consiliului Uniunii Europene, prin declaraţie scrisă, lista autorităţilor naţionale competente prevăzute la art. 31. Orice modificare ulterioară a listei este comunicată în cel mai scurt timp posibil Comisiei şi Secretariatului General al Consiliului Uniunii Europene prin declaraţie scrisă. (3) CNV desemnează personalul autorizat să proceseze cererile de acces la VIS transmise de autorităţile naţionale competente prevăzute la art. 31."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul IV | Secţiunea 1 - Autorităţi competente",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "În calitate de punct central de acces, CNV are următoarele atribuţii: a) primeşte cererile autorităţilor naţionale competente prevăzute la art. 31 de acces la datele din VIS; b) verifică îndeplinirea condiţiilor privind accesul la datele din VIS prevăzute la art. 36 şi 37; c) dacă sunt îndeplinite condiţiile de acces, procesează cererea şi furnizează, prin mijloace securizate, autorităţilor naţionale competente care au efectuat solicitarea datele obţinute; d) dacă nu sunt îndeplinite condiţiile de acces, comunică autorităţii naţionale competente care a efectuat solicitarea motivele pentru care cererea formulată de aceasta nu a fost procesată; e) în caz excepţional de urgenţă, poate răspunde, fără întârziere, cererilor autorităţilor naţionale competente menţionate la art. 31, prin excepţie de la prevederile lit. b). Verificările prevăzute la lit. b) se efectuează ulterior; f) asigură schimbul de date cu punctele centrale de acces ale celorlalte state care participă la VIS."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul IV | Secţiunea a 2-a - Datele din VIS care sunt consultate de punctul central de acces",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "(1) Pentru efectuarea verificărilor, CNV consultă VIS, utilizând oricare dintre următoarele tipuri de date existente în dosarul de cerere: a) numele (numele de familie), numele la naştere [numele anterior (anterioare)], prenumele, data naşterii, locul naşterii, ţara naşterii, sexul; b) cetăţenia actuală şi cetăţenia la naştere; c) tipul şi numărul documentului de călătorie, autoritatea care l-a eliberat şi data eliberării şi expirării acestuia; d) statul membru (statele membre) de destinaţie şi durata şederii sau a tranzitului prevăzute; e) principalul scop (principalele scopuri) al (ale) călătoriei; f) data planificată a sosirii şi a plecării; g) statul membru al primei intrări; h) reşedinţa; i) amprente digitale; j) tipul de viză şi numărul colantului de viză; k) detaliile persoanei care a emis invitaţia şi/sau căreia îi revine răspunderea de a suporta cheltuielile de întreţinere pe durata şederii. (2) În cazul în care, în urma verificării cu ajutorul unuia sau al mai multor tipuri de date dintre cele enumerate la alin. (1), se constată că în VIS sunt înregistrate date referitoare la deţinătorul de viză, CNV are acces la toate datele enumerate la alin. (1), precum şi la următoarele categorii de date: a) orice alte date preluate din dosarul de cerere; b) fotografii; c) datele introduse cu privire la eventualele vize emise, refuzate, anulate, revocate sau prelungite."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul IV | Secţiunea a 3-a - Condiţiile de acces la datele din VIS al autorităţilor naţionale competente prevăzute la art. 31",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Autorităţile naţionale competente prevăzute la art. 31 obţin accesul la datele din VIS pentru consultare, exclusiv în scopul îndeplinirii atribuţiilor lor legale şi dacă sunt îndeplinite următoarele condiţii: a) accesul în vederea consultării să fie necesar în scopul prevenirii, depistării şi cercetării infracţiunilor de terorism prevăzute de Legea nr. 535/2004 sau a infracţiunilor grave prevăzute la art. 85 din Legea nr. 302/2004 , cu modificările şi completările ulterioare; b) accesul în vederea consultării să fie necesar într-un caz concret; c) în cazul în care există temei raţional să se considere că respectiva consultare a datelor VIS contribuie substanţial la prevenirea, depistarea sau cercetarea oricăreia dintre infracţiunile prevăzute la lit. a)."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul IV | Secţiunea a 3-a - Condiţiile de acces la datele din VIS al autorităţilor naţionale competente prevăzute la art. 31",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Cererea de acces la datele din VIS formulată de către autorităţile naţionale competente prevăzute la art. 31 se face în scris sau electronic şi trebuie motivată corespunzător."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul IV | Secţiunea a 4-a - Condiţiile şi procedura privind accesul la datele VIS al autorităţilor desemnate ale statelor pentru care Regulamentul VIS nu a fost încă pus în aplicare",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "(1) CNV primeşte cereri de acces la datele din VIS transmise de către autorităţile desemnate ale unui stat membru pentru care Regulamentul VIS nu a fost încă pus în aplicare. (2) Cererea prevăzută la alin. (1) trebuie să fie conformă cu prevederile art. 36 şi 37 şi este transmisă de autoritatea desemnată a statului pentru care Regulamentul VIS nu a fost încă pus în aplicare CNV, în vederea procesării acesteia. (3) La primirea cererii de acces, CNV procesează cererea, în conformitate cu prevederile art. 34. (4) Răspunsul CNV ca urmare a procesării cererii prevăzute la alin. (1) este transmis către autoritatea desemnată a statului membru pentru care Regulamentul VIS nu a fost încă pus în aplicare, care a trimis iniţial solicitarea."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul IV | Secţiunea a 5-a - Condiţiile şi procedura privind accesul la datele VIS al Europol",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "(1) Unitatea Naţională Europol primeşte cererile de acces la datele din VIS transmise de către Europol. (2) Cererea prevăzută la alin. (1) trebuie să fie conformă cu prevederile art. 36 şi 37 şi este transmisă de Unitatea Naţională Europol CNV, în vederea procesării acesteia. (3) La primirea cererii de acces, CNV procesează cererea, în conformitate cu prevederile art. 34 şi cu respectarea următoarelor condiţii: a) în cazul în care este necesar în vederea îndeplinirii atribuţiilor Europol în baza art. 5 alin. (1) lit. a) din Decizia 2009/371/JAI a Consiliului din 6 aprilie 2009 privind înfiinţarea Oficiului European de Poliţie (EUROPOL) şi în scopul realizării unei analize specifice, astfel cum se prevede la art. 14 din aceeaşi decizie; b) atunci când este necesar pentru îndeplinirea atribuţiilor Europol în baza art. 5 alin. (1) lit. a) din Decizia 2009/371/JAI a Consiliului din 6 aprilie 2009 şi în scopul realizării unei analize generale de tip strategic, astfel cum se prevede la art. 14 din aceeaşi decizie, cu condiţia ca datele VIS să fie transmise anonim de către Europol înaintea respectivei prelucrări şi păstrate într-o formă în care nu se mai pot identifica persoanele vizate. (4) În cazul în care în urma verificării se constată că în VIS sunt înregistrate date referitoare la deţinătorul de viză şi dacă datele sunt introduse de o autoritate naţională, CNV comunică Unităţii Naţionale Europol rezultatele verificării. (5) În cazul în care în urma verificării se constată că în VIS sunt înregistrate date referitoare la deţinătorul de viză, iar aceste date sunt introduse de o autoritate competentă dintr-un alt stat membru, CNV comunică Unităţii Naţionale Europol necesitatea obţinerii acordului statului membru respectiv pentru prelucrarea datelor introduse în VIS. Respectivul acord se obţine prin intermediul Unităţii Naţionale Europol din acel stat membru. După obţinerea acordului, CNV comunică Unităţii Naţionale Europol rezultatele verificării. (6) Răspunsul CNV ca urmare a procesării cererii de acces este transmis Europol de către Unitatea Naţională Europol."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul V - Protecţia datelor cu caracter personal prelucrate în SNIV | Secţiunea 1 - Protecţia datelor cu caracter personal cuprinse în SNIV",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Accesarea şi exploatarea datelor cu caracter personal conţinute în SNIV şi VIS se fac potrivit dispoziţiilor legale în materia protecţiei persoanelor cu privire la prelucrarea datelor cu caracter personal şi cu respectarea Convenţiei pentru protejarea persoanelor faţă de prelucrarea automatizată a datelor cu caracter personal, adoptată la Strasbourg la 28 ianuarie 1981, ratificată prin Legea nr. 682/2001 , cu modificările ulterioare, exclusiv de către autorităţile naţionale competente şi numai în scopul îndeplinirii atribuţiilor stabilite prin prezenta lege şi în condiţiile prevăzute de aceasta."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul V - Protecţia datelor cu caracter personal prelucrate în SNIV | Secţiunea 1 - Protecţia datelor cu caracter personal cuprinse în SNIV",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "(1) Datele cu caracter personal obţinute din SNIV sau VIS de către autorităţile prevăzute la art. 31 sunt prelucrate doar în scopul prevenirii, depistării, cercetării şi urmăririi penale a infracţiunilor de terorism sau a altor infracţiuni grave. (2) Datele personale obţinute din SNIV sau VIS nu sunt transferate sau puse la dispoziţia unei ţări terţe ori a unei organizaţii internaţionale. (3) Pe cale de excepţie, în caz de urgenţă, astfel de date pot fi transferate sau puse la dispoziţia unei ţări terţe ori a unei organizaţii internaţionale, exclusiv în scopul prevenirii şi depistării infracţiunilor de terorism şi a altor infracţiuni grave şi în condiţiile stabilite de prezenta lege, sub rezerva consimţământului statului român care a introdus datele în VIS şi care transferă sau pune la dispoziţie datele în conformitate cu dreptul intern. Aceste transferuri sunt înregistrate şi puse la dispoziţia ANSPDCP, la cerere."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul V - Protecţia datelor cu caracter personal prelucrate în SNIV | Secţiunea 1 - Protecţia datelor cu caracter personal cuprinse în SNIV",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "(1) Legalitatea prelucrării datelor cu caracter personal în SNIV sau VIS pe teritoriul României şi transmiterea acestor date în străinătate, precum şi schimbul ori procesarea ulterioară a informaţiilor suplimentare sunt monitorizate şi se supun controlului ANSPDCP, în condiţiile legii. (2) Auditarea operaţiunilor de prelucrare a datelor cu caracter personal în SNIV se efectuează de către ANSPDCP, în conformitate cu standardele internaţionale de audit, cel puţin o dată la 4 ani. (3) Sumele necesare pentru realizarea atribuţiilor prevăzute la alin. (1) şi (2) se suportă de la bugetul de stat, prin bugetul aprobat ANSPDCP."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul V - Protecţia datelor cu caracter personal prelucrate în SNIV | Secţiunea a 2-a - Dreptul de informare şi exercitarea drepturilor de acces, de rectificare şi de ştergere a datelor cu caracter personal de către persoanele ale căror date sunt prelucrate în SNIV",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "(1) Misiunile diplomatice şi oficiile consulare, precum şi formaţiunile teritoriale ale ORI au obligaţia de a pune la dispoziţia solicitanţilor de viză, respectiv la dispoziţia persoanelor care adresează invitaţii informaţiile prevăzute la art. 37 alin. (1) din Regulamentul VIS . (2) Informaţiile prevăzute la alin. (1) sunt puse la dispoziţia solicitanţilor de vize, în scris, la momentul depunerii formularelor de cerere de viză. (3) Informaţiile menţionate la alin. (1) sunt puse la dispoziţia persoanelor care adresează invitaţii, în cuprinsul formularelor speciale pe care acestea le semnează."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul V - Protecţia datelor cu caracter personal prelucrate în SNIV | Secţiunea a 2-a - Dreptul de informare şi exercitarea drepturilor de acces, de rectificare şi de ştergere a datelor cu caracter personal de către persoanele ale căror date sunt prelucrate în SNIV",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "(1) Drepturile persoanei vizate în contextul prelucrării datelor cu caracter personal în SNIV sau VIS se exercită potrivit prevederilor Legii nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date, cu modificările şi completările ulterioare, precum şi ale art. 38 din Regulamentul VIS şi schimbul de date între statele membre cu privire la vizele de scurtă şedere ( Regulamentul VIS ). (2) Prin derogare de la prevederile Legii nr. 677/2001 , cu modificările şi completările ulterioare, cererile care privesc exercitarea drepturilor persoanei vizate în contextul prelucrării datelor cu caracter personal în SNIV sau VIS se adresează CNV, iar răspunsul va fi comunicat petentului cât mai curând posibil, dar nu mai târziu de 60 de zile de la data primirii cererii. (3) Termenul prevăzut la alin. (2) se prelungeşte la 90 de zile, în cazul în care solicitarea se referă la date ce au fost introduse de un alt stat membru. (4) Înainte de a comunică petentului informaţiile cu privire la datele cu caracter personal cuprinse în SNIV sau VIS, CNV solicită acordul autorităţilor publice competente care au introdus datele respective. Acordul se comunică în cel mult 15 zile de la solicitare. (5) În cazul datelor cu caracter personal introduse în VIS de un alt stat membru, informaţiile cu privire la acestea se comunică petentului numai după obţinerea consimţământului statului membru respectiv. CNV solicită consimţământul autorităţii competente în domeniul vizelor din statul membru care a introdus datele."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul VI - Dispoziţii tranzitorii şi finale | Secţiunea a 2-a - Dreptul de informare şi exercitarea drepturilor de acces, de rectificare şi de ştergere a datelor cu caracter personal de către persoanele ale căror date sunt prelucrate în SNIV",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Finanţarea cheltuielilor curente şi de capital aferente realizării şi funcţionării SNIV se asigură din programele Uniunii Europene şi cofinanţare de la bugetul de stat, în condiţiile legii, prin bugetele aprobate Ministerului Afacerilor Externe şi Ministerului Administraţiei şi Internelor."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul VI - Dispoziţii tranzitorii şi finale | Secţiunea a 2-a - Dreptul de informare şi exercitarea drepturilor de acces, de rectificare şi de ştergere a datelor cu caracter personal de către persoanele ale căror date sunt prelucrate în SNIV",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "În termen de 30 de zile de la intrarea în vigoare a prezentei legi, Guvernul va adopta hotărârea pentru completarea în mod corespunzător a anexei nr. 2 la Hotărârea Guvernului nr. 750/2005 , cu modificările şi completările ulterioare. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (1) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ROBERTA ALMA ANASTASE p. PREŞEDINTELE SENATULUI, TEODOR VIOREL MELEŞCANU Bucureşti, 22 decembrie 2010. Nr. 271. ---------"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Sistemul de informaţii privind vizele, denumit în continuare VIS",
+      "definition": "sistemul informatic al Uniunii Europene, instituit prin Decizia 2004/512/CE a Consiliului din 8 iunie 2004 de instituire a Sistemului de informaţii privind vizele (VIS), publicată în Jurnalul Oficial al Uniunii Europene nr. L 213 din 15 iunie 2004, destinat schimbului de date privind vizele, care permite autorităţilor competente din statele membre ale Uniunii Europene să introducă, să actualizeze şi să consulte aceste date pe cale electronică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Sistemul naţional de informaţii privind vizele, denumit în continuare SNIV",
+      "definition": "sistemul informatic compatibil cu VIS, care permite autorităţilor naţionale competente să participe la schimbul de date cu autorităţile competente ale celorlalte state membre ale Uniunii Europene în scopurile prevăzute la art. 2 din Regulamentul (CE) nr",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "interfaţa naţională locală, denumită în continuare INL",
+      "definition": "echipamentele tehnice şi aplicaţiile informatice prin intermediul cărora SNIV se conectează fizic la VIS. INL este situată pe teritoriul României şi este localizată la Centrul Naţional de Vize, denumit în continuare CNV",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "autorităţi naţionale competente",
+      "definition": "autorităţile publice române prevăzute la art. 5, 19 şi 31",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "baza de date a SNIV",
+      "definition": "bază de date care cuprinde două componente interconectate, cu următoarele categorii de date: I. componenta MAE a SNIV: (i) datele prevăzute la art. 5 alin. (1) şi art",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "punct central de acces",
+      "definition": "autoritatea publică română prin intermediul căreia se asigură accesul, în vederea consultării datelor din VIS, al autorităţilor naţionale competente care au atribuţii în prevenirea, depistarea şi cercetarea infracţiunilor de terorism şi a altor infracţiuni grave",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "tranzacţie",
+      "definition": "orice operaţie de introducere, modificare, ştergere sau consultare a datelor conţinute în SNIV ori VIS",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "stat membru",
+      "definition": "stat care utilizează VIS",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "ţară terţă",
+      "definition": "stat care nu aplică acquis-ul Schengen şi care nu are acces la VIS",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "infracţiuni de terorism şi alte infracţiuni grave",
+      "definition": "infracţiunile prevăzute de Legea nr. 535/2004 privind prevenirea şi combaterea terorismului, şi cele prevăzute la art. 85 alin. (1) din Legea nr. 302/2004 privind cooperarea judiciară internaţională în materie penală, cu modificările şi completările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "alţi termeni din cuprinsul prezentei legi, precum",
+      "definition": "viză, autocolant de viză, formular de cerere, solicitant, document de călătorie, date alfanumerice, membri ai grupului, stat membru responsabil, identificare, verificare au înţelesul prevăzut la art. 4 din Regulamentul VIS .",
+      "source_provision": "Art.2"
+    }
+  ]
+}

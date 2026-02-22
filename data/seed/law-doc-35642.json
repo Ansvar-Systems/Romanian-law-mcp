@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-35642",
+  "type": "statute",
+  "title": "LEGE nr. 196 din 16 aprilie 2002",
+  "short_name": "lege 196 16 04 2002",
+  "status": "in_force",
+  "issued_date": "2002-04-16",
+  "in_force_date": "2002-04-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35642",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 196 16/04/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 74 din 30 august 2001 privind abilitarea Ministerului de Interne de a angaja și presta servicii, adoptată în temeiul art. 1 pct. VI.6 din Legea nr. 324/2001 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 540 din 1 septembrie 2001, cu următoarele modificări: 1. Articolul 1 va avea următorul cuprins: Articolul 1 Ministerul de Interne poate angaja și presta în condițiile legii, la cerere, pe bază de contract sau comanda ferma, prin unitățile sale, servicii pentru persoane juridice sau pentru persoane fizice. 2. Articolul 2 va avea următorul cuprins: Articolul 2 Condițiile și criteriile de organizare și realizare a serviciilor se stabilesc prin regulament aprobat prin hotărâre a Guvernului în termen de 30 de zile de la data intrării în vigoare a legii de aprobare a prezentei ordonanțe. 3. La articolul 3, alineatul (2) se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Domeniile în care Ministerul de Interne poate angaja și presta servicii sunt cele cuprinse în lista din anexa care face parte integrantă din prezenta lege."
+    }
+  ],
+  "definitions": []
+}

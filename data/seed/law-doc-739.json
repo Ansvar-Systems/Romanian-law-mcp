@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-739",
+  "type": "statute",
+  "title": "LEGEA nr. 10 din 31 iulie 1990",
+  "short_name": "lege 10 31 07 1990",
+  "status": "in_force",
+  "issued_date": "1990-07-31",
+  "in_force_date": "1990-07-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/739",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 31/07/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se proclama \"1 Decembrie\" ziua naţionala a României."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Hotărîrea Consiliului de Miniştri nr. 903 din 18 august 1949 privind declararea zilei de 23 august ca sărbătoare naţionala, precum şi orice alte dispoziţii contrare prezentei legi, se abroga. Această lege a fost adoptată de Senat în şedinţa sa din ziua de 30 iulie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa sa din ziua de 30 iulie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea privind proclamarea zilei naţionale a României şi dispunem publicarea sa în Monitorul Oficial. PREŞEDINTELE ROMÂNIEI ION ILIESCU -------------------"
+    }
+  ],
+  "definitions": []
+}

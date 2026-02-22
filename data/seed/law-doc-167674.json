@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-167674",
+  "type": "statute",
+  "title": "LEGE nr. 95 din 30 aprilie 2015",
+  "short_name": "lege 95 30 04 2015",
+  "status": "in_force",
+  "issued_date": "2015-04-30",
+  "in_force_date": "2015-04-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167674",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 95 30/04/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La alineatul (2) al articolului 96 din Legea educaţiei naţionale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările şi completările ulterioare, după litera c) se introduce o nouă literă, litera d), cu următorul cuprins: \"d) în consiliile de administraţie ale unităţilor şcolare, din cota rezervată părinţilor un loc este repartizat, cu drept de vot, unui reprezentant al elevilor, care a împlinit 18 ani.\""
+    }
+  ],
+  "definitions": []
+}

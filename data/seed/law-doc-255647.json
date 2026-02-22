@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255647",
+  "type": "statute",
+  "title": "LEGE nr. 147 din 23 mai 2022",
+  "short_name": "lege 147 23 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-23",
+  "in_force_date": "2022-05-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255647",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 147 23/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 7 din 8 februarie 2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 3/2021 privind unele măsuri pentru recrutarea și plata personalului implicat în procesul de vaccinare împotriva COVID-19 și stabilirea unor măsuri în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 134 din 9 februarie 2021."
+    }
+  ],
+  "definitions": []
+}

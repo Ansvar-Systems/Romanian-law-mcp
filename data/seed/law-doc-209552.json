@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209552",
+  "type": "statute",
+  "title": "LEGE nr. 361 din 27 decembrie 2018",
+  "short_name": "lege 361 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209552",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 361 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "În anul Centenarului, pentru reconsiderarea rolului istoriei și al culturii naționale, municipiul Iași se declară „Capitală istorică“ a României și municipiul Alba Iulia „Capitală a Marii Uniri“ a României."
+    }
+  ],
+  "definitions": []
+}

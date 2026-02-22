@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-41",
+  "type": "statute",
+  "title": "LEGE Nr. 177 din 7 iunie 1947",
+  "short_name": "lege 177 07 06 1947",
+  "status": "in_force",
+  "issued_date": "1947-06-07",
+  "in_force_date": "1947-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/41",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 177 07/06/1947",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Lucrările pentru înfăptuirea reformei agrare săvîrşite de organele prevăzute prin Legea Nr. 187 din 23 Martie 1945 , regulamentul ei şi deciziunile completatoare ale Ministerului Agriculturii şi Domeniilor, sînt acte de guvernamant şi nu pot fi atacate în justiţie pe nici o cale. Dispoziţiunile prezentei legi vor putea fi invocate pentru prima data şi în instanţa de recurs. -------------------"
+    }
+  ],
+  "definitions": []
+}

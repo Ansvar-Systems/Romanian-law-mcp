@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242087",
+  "type": "statute",
+  "title": "LEGE nr. 128 din 6 mai 2021",
+  "short_name": "lege 128 06 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-06",
+  "in_force_date": "2021-05-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242087",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 128 06/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 209 din 27 noiembrie 2020 privind modificarea art. IV alin. (6) din Ordonanța de urgență a Guvernului nr. 180/2020 pentru modificarea și completarea Legii nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, a Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, precum și pentru stabilirea unor măsuri cu privire la acordarea concediilor medicale și pentru reglementarea unor măsuri în domeniul sănătății cauzate de evoluția răspândirii infecțiilor determinate de virusul SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 1185 din 7 decembrie 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240945",
+  "type": "statute",
+  "title": "LEGE nr. 77 din 12 aprilie 2021",
+  "short_name": "lege 77 12 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-12",
+  "in_force_date": "2021-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240945",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 77 12/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 204 din 23 noiembrie 2020 privind stabilirea unor măsuri de aplicare a Acordului privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în materie de reglementare a dreptului de intrare și ședere pe teritoriul României, publicată în Monitorul Oficial al României, Partea I, nr. 1132 din 25 noiembrie 2020, cu următoarea modificare: – La articolul 9, alineatul (2) se modifică și va avea următorul cuprins: (2) Împotriva refuzului eliberării permisului de ședere temporară se poate înainta acțiune la instanța de contencios administrativ competentă, în termen de 10 zile de la comunicarea deciziei de către Inspectoratul General pentru Imigrări."
+    }
+  ],
+  "definitions": []
+}

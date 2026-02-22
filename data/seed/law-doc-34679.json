@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-34679",
+  "type": "statute",
+  "title": "LEGE nr. 122 din 18 martie 2002",
+  "short_name": "lege 122 18 03 2002",
+  "status": "in_force",
+  "issued_date": "2002-03-18",
+  "in_force_date": "2002-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34679",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 122 18/03/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 48 din 19 august 1999 privind transportul rutier al mărfurilor periculoase, publicată în Monitorul Oficial al României, Partea I, nr. 401 din 24 august 1999, cu următoarele modificări: 1. Articolul 2 va avea următorul cuprins: Articolul 2 Ministerul Lucrărilor Publice, Transporturilor și Locuinței este autoritatea de stat responsabilă cu aplicarea prevederilor Acordului european referitor la transportul rutier internațional al mărfurilor periculoase (A.D.R.). 2. Articolul 3 va avea următorul cuprins: Articolul 3 Ministerul Lucrărilor Publice, Transporturilor și Locuinței va elabora și va supune spre aprobare Guvernului, în termen de 90 de zile de la data intrării în vigoare a prezentei ordonanțe, norme privind aplicarea etapizata în trafic intern a prevederilor Acordului european referitor la transportul rutier internațional al mărfurilor periculoase (A.D.R.)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța Guvernului nr. 48/1999 , cu modificările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

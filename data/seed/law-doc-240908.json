@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240908",
+  "type": "statute",
+  "title": "LEGE nr. 69 din 9 aprilie 2021",
+  "short_name": "lege 69 09 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-09",
+  "in_force_date": "2021-04-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240908",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 69 09/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 37 din 30 mai 2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 202/2008 privind punerea în aplicare a sancțiunilor internaționale, publicată în Monitorul Oficial al României, Partea I, nr. 437 din 3 iunie 2019."
+    }
+  ],
+  "definitions": []
+}

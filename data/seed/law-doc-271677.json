@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-271677",
+  "type": "statute",
+  "title": "LEGE nr. 185 din 26 iunie 2023",
+  "short_name": "lege 185 26 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-26",
+  "in_force_date": "2023-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271677",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 185 26/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 92 din 29 iunie 2022 pentru modificarea art. 34 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, publicată în Monitorul Oficial al României, Partea I, nr. 646 din 29 iunie 2022."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prin derogare de la Legea responsabilității fiscal-bugetare nr. 69/2010, republicată , cu modificările și completările ulterioare, pentru aplicarea prevederilor art. 17 din Legea nr. 195/2020 privind statutul personalului feroviar, cu modificările ulterioare, operatorii economici cu specific feroviar se exceptează de la prevederile art. 63 alin. (7) din Legea bugetului de stat pe anul 2023 nr. 368/2022 ."
+    }
+  ],
+  "definitions": []
+}

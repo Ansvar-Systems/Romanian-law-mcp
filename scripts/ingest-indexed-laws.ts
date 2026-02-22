@@ -212,6 +212,58 @@ function cleanupParsedSeed(raw: Record<string, unknown>): Record<string, unknown
   return seed;
 }
 
+function parseDateFromDdMmYyyy(text: string): string | undefined {
+  const match = text.match(/\b(\d{2})\/(\d{2})\/(\d{4})\b/);
+  if (!match) return undefined;
+  return `${match[3]}-${match[2]}-${match[1]}`;
+}
+
+function extractPageTitle(rawHtml: string): string | undefined {
+  const titleMatch = rawHtml.match(/<title>([^<]+)<\/title>/i);
+  if (!titleMatch?.[1]) return undefined;
+  const cleaned = normalizeWhitespace(titleMatch[1].replace(/-\s*Portal Legislativ\s*$/i, ''));
+  return cleaned.length > 0 ? cleaned : undefined;
+}
+
+function shouldUseMetadataFallback(errorMessage: string): boolean {
+  return errorMessage.startsWith('No provisions extracted for')
+    || errorMessage.startsWith('Could not extract law title (S_DEN) for');
+}
+
+function buildMetadataOnlySeed(
+  profile: TargetProfile,
+  row: IndexRow,
+  rawHtml: string,
+  parseError: string,
+): Record<string, unknown> {
+  const listingLabel = normalizeWhitespace(row.listingLabel ?? '');
+  const title = (extractPageTitle(rawHtml) ?? listingLabel) || `LEGE ${profile.documentId}`;
+  const issuedDate = parseDateFromDdMmYyyy(title) ?? parseDateFromDdMmYyyy(listingLabel);
+  const processingFlag = /act în curs de procesare/i.test(rawHtml)
+    ? 'Source page reports "Act în curs de procesare".'
+    : '';
+
+  return cleanupParsedSeed({
+    id: profile.id,
+    type: 'statute',
+    title,
+    title_en: profile.title_en,
+    short_name: profile.short_name,
+    status: profile.status,
+    issued_date: issuedDate,
+    in_force_date: issuedDate,
+    url: `https://legislatie.just.ro/Public/DetaliiDocument/${profile.documentId}`,
+    description: [
+      profile.description,
+      processingFlag,
+      `Metadata-only fallback applied: ${parseError}`,
+      listingLabel ? `Listing label: ${listingLabel}` : '',
+    ].filter(Boolean).join(' '),
+    provisions: [],
+    definitions: [],
+  });
+}
+
 function loadIndexRows(): IndexRow[] {
   if (!fs.existsSync(INDEX_PATH)) {
     throw new Error(`Index file not found: ${INDEX_PATH}`);
@@ -303,6 +355,7 @@ async function main(): Promise<void> {
   let runProcessed = 0;
   let runSkipped = 0;
   let existingSeeds = 0;
+  let fallbackSeeds = 0;
 
   console.log('Romanian Law MCP — Ingest indexed LEGE corpus');
   console.log(`Index: ${INDEX_PATH}`);
@@ -335,16 +388,27 @@ async function main(): Promise<void> {
 
     try {
       const html = await fetchDetailHtml(row.documentId, args.forceRefetch);
-      const parsed = parseRomanianLawHtml(html, {
-        id: profile.id,
-        seedFile: profile.seedFile,
-        documentId: profile.documentId,
-        title_en: profile.title_en,
-        short_name: profile.short_name,
-        status: profile.status,
-        description: profile.description,
-      });
-      const cleaned = cleanupParsedSeed(parsed as unknown as Record<string, unknown>);
+      let cleaned: Record<string, unknown>;
+      try {
+        const parsed = parseRomanianLawHtml(html, {
+          id: profile.id,
+          seedFile: profile.seedFile,
+          documentId: profile.documentId,
+          title_en: profile.title_en,
+          short_name: profile.short_name,
+          status: profile.status,
+          description: profile.description,
+        });
+        cleaned = cleanupParsedSeed(parsed as unknown as Record<string, unknown>);
+      } catch (parseError) {
+        const parseMessage = parseError instanceof Error ? parseError.message : String(parseError);
+        if (!shouldUseMetadataFallback(parseMessage)) {
+          throw parseError;
+        }
+        cleaned = buildMetadataOnlySeed(profile, row, html, parseMessage);
+        fallbackSeeds += 1;
+      }
+
       fs.writeFileSync(seedPath, `${JSON.stringify(cleaned, null, 2)}\n`);
       processedDocs += 1;
       runProcessed += 1;
@@ -382,7 +446,7 @@ async function main(): Promise<void> {
   }
 
   console.log('');
-  console.log(`Done. runProcessed=${runProcessed} runSkipped=${runSkipped} existingSeeds=${existingSeeds}`);
+  console.log(`Done. runProcessed=${runProcessed} runSkipped=${runSkipped} existingSeeds=${existingSeeds} fallbackSeeds=${fallbackSeeds}`);
   console.log(`Cumulative: processedDocs=${processedDocs} skippedDocs=${skippedDocs}`);
   console.log(`State: ${STATE_PATH}`);
 }

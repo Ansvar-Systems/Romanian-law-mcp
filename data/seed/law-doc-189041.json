@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189041",
+  "type": "statute",
+  "title": "LEGE nr. 93 din 5 mai 2017",
+  "short_name": "lege 93 05 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-05",
+  "in_force_date": "2017-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189041",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 93 05/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 23 din 16 iunie 2016 pentru aprobarea unor măsuri de eficientizare a sistemului de gestionare a fondurilor structurale şi de investiţii europene, publicată în Monitorul Oficial al României, Partea I, nr. 460 din 21 iunie 2016, cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

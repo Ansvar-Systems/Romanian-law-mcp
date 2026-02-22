@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-6094",
+  "type": "statute",
+  "title": "LEGE Nr. 68 din 28 iunie 1995",
+  "short_name": "lege 68 28 06 1995",
+  "status": "in_force",
+  "issued_date": "1995-06-28",
+  "in_force_date": "1995-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/6094",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 28/06/1995",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifica Acordul de împrumut dintre România şi Banca Internationala pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de dezvoltare industriala, în valoare de 175 milioane dolari S.U.A., semnat la Washington la 21 martie 1995."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se autorizeaza Guvernul României, prin Ministerul Finanţelor, ca de comun acord cu Banca Internationala pentru Reconstrucţie şi Dezvoltare sa introducă pe parcursul utilizării împrumutului, în raport cu condiţiile concrete de derulare a acordului de împrumut, amendamente la conţinutul acestuia, care privesc realocari de fonduri, modificări în structura împrumutului pe componente, beneficiari, modificări de termene, precum şi orice alte modificări care nu sunt de natura sa sporeasca volumul împrumutului sau sa determine noi condiţionari economice faţă de cele convenite iniţial între părţi. Guvernul va raporta periodic Parlamentului în legătură cu aceste amendamente, în cadrul Raportului privind datoria publică externa a României. Această lege a fost adoptată de Senat în şedinţa din 8 iunie 1995, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI ION SOLCANU Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 19 iunie 1995, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE"
+    }
+  ],
+  "definitions": []
+}

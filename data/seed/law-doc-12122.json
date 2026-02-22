@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-12122",
+  "type": "statute",
+  "title": "LEGE nr. 220 din 24 decembrie 1997",
+  "short_name": "lege 220 24 12 1997",
+  "status": "in_force",
+  "issued_date": "1997-12-24",
+  "in_force_date": "1997-12-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/12122",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 220 24/12/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 18 din 15 august 1997 privind stabilirea cuantumurilor plăților compensatorii pentru persoanele ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective, emisă în temeiul art. 1 lit. j) din Legea nr. 134/1997 pentru abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 199 din 19 august 1997, cu următoarele modificări: 1. Articolul unic devine articolul 1 , cu următorul cuprins: Articolul 1 Plățile compensatorii acordate în condițiile Ordonanței de urgenta a Guvernului nr. 9/1997 , aprobată și modificată prin Legea nr. 108/1997 , se stabilesc ca suma neimpozabila, al carei cuantum lunar este egal cu câștigul salarial mediu net pe ramura, dar nu mai mic decât câștigul salarial mediu net pe economie, comunicat de Comisia Naționala pentru Statistica, la data stabilirii dreptului. 2. După articolul 1 se introduce articolul 2, cu următorul cuprins: Articolul 2 Începând cu data de 1 ianuarie 1998, cuantumul plăților compensatorii se va stabili luându-se în calcul salariul net lunar realizat de diviziunile sau grupele de diviziuni corespunzătoare Clasificarii activităților din economia naționala (CAEN)."
+    }
+  ],
+  "definitions": []
+}

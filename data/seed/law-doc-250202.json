@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250202",
+  "type": "statute",
+  "title": "LEGE nr. 4 din 4 ianuarie 2022",
+  "short_name": "lege 4 04 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-04",
+  "in_force_date": "2022-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250202",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4 04/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul , semnat la Ierusalim la 3 noiembrie 2020, de modificare a Convenției dintre Guvernul României și Guvernul Statului Israel pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnată la Ierusalim la 15 iunie 1997, ratificată prin Legea nr. 39/1998 , publicată în Monitorul Oficial al României, Partea I, nr. 86 din 23 februarie 1998."
+    }
+  ],
+  "definitions": []
+}

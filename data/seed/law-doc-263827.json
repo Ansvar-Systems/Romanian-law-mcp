@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263827",
+  "type": "statute",
+  "title": "LEGE nr. 28 din 10 ianuarie 2023",
+  "short_name": "lege 28 10 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-10",
+  "in_force_date": "2023-01-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263827",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 28 10/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 386, după alineatul (1^3) se introduce un nou alineat, alin. (1^4), cu următorul cuprins: (1^4) Perioada în care titularul cabinetului medical individual a furnizat servicii medicale este asimilată vechimii în muncă, fără a fi luată în considerare perioada în care medicul titular a avut suspendată calitatea de membru al CMR, cu îndeplinirea următoarelor condiții: a) serviciile medicale furnizate de medicul titular au produs venituri nete în anul de referință a căror valoare este cel puțin egală cu nivelul a de 12 ori salariul minim brut pe țară garantat în plată stabilit potrivit legii în anul respectiv; b) a achitat contribuțiile datorate bugetului asigurărilor sociale de stat, aferente perioadei prevăzute la lit. a). 2. La articolul 485, după alineatul (1^2) se introduce un nou alineat, alin. (1^3), cu următorul cuprins: (1^3) Perioada în care titularul cabinetului medical individual a furnizat servicii medico-dentare este asimilată vechimii în muncă, fără a fi luată în considerare perioada în care medicul titular a avut suspendată calitatea de membru al CMSR, cu îndeplinirea următoarelor condiții: a) serviciile medico-dentare furnizate de medicul stomatolog titular au produs venituri nete în anul de referință a căror valoare este cel puțin egală cu nivelul a de 12 ori salariul minim brut pe țară garantat în plată stabilit potrivit legii în anul respectiv; b) a achitat contribuțiile datorate bugetului asigurărilor sociale de stat aferente perioadei prevăzute la lit. a)."
+    }
+  ],
+  "definitions": []
+}

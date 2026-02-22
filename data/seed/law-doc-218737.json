@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-218737",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 7 octombrie 2019",
+  "short_name": "lege 171 07 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-07",
+  "in_force_date": "2019-10-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/218737",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 07/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se exonerează de la plata sumelor stabilite ca debite principale și accesorii reprezentând contravaloarea prestațiilor aferente furnizării de energie electrică neachitate ca urmare a neacordării subvențiilor pentru decontarea energiei electrice destinate irigațiilor, precum și a altor obligații contractuale, ce decurg din neacordarea acestor subvenții, aferente anului 2009, nerecuperate de către Agenția Națională de Îmbunătățiri Funciare de la organizațiile utilizatorilor de apă pentru irigații, constatate înainte de intrarea în vigoare a prezentei legi. (2) La data intrării în vigoare a prezentei legi încetează plata de către organizațiile utilizatorilor de apă pentru irigații a sumelor menționate la alin. (1) , precum și orice formă de recuperare a acestor sume."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Stingerea în contabilitate a obligațiilor prevăzute la art. 1 se efectuează din oficiu de către Agenția Națională de Îmbunătățiri Funciare, urmând ca acestea să se scadă din evidența analitică pe plătitor, pe bază de borderou de scădere."
+    }
+  ],
+  "definitions": []
+}

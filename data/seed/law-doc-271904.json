@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271904",
+  "type": "statute",
+  "title": "LEGE nr. 203 din 5 iulie 2023",
+  "short_name": "lege 203 05 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-05",
+  "in_force_date": "2023-07-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271904",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 203 05/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 129 din 15 decembrie 2021 privind implementarea formularului digital de intrare în România, publicată în Monitorul Oficial al României, Partea I, nr. 1190 din 15 decembrie 2021."
+    }
+  ],
+  "definitions": []
+}

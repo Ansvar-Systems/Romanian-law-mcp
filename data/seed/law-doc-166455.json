@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166455",
+  "type": "statute",
+  "title": "LEGE nr. 41 din 17 martie 2015",
+  "short_name": "lege 41 17 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-17",
+  "in_force_date": "2015-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166455",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 41 17/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 73 din 3 decembrie 2014 pentru aprobarea unor măsuri derogatorii de la dispoziţiile Legii nr. 500/2002 privind finanţele publice şi ale Legii responsabilităţii fiscal-bugetare nr. 69/2010 , publicată în Monitorul Oficial al României, Partea I, nr. 883 din 4 decembrie 2014."
+    }
+  ],
+  "definitions": []
+}

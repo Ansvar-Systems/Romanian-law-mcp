@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35857",
+  "type": "statute",
+  "title": "LEGE nr. 12 din 9 decembrie 1982",
+  "short_name": "lege 12 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35857",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 395/1981 privind contractările şi achiziţiile de animale, păsări, şi produse animale, astfel cum a fost modificat prin decretele Consiliului de Stat nr. 56/1982 , nr. 308/1982, nr. 312/1982 şi nr. 396/1982. ────────────────"
+    }
+  ],
+  "definitions": []
+}

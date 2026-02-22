@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-246762",
+  "type": "statute",
+  "title": "LEGE nr. 229 din 29 septembrie 2021",
+  "short_name": "lege 229 29 09 2021",
+  "status": "in_force",
+  "issued_date": "2021-09-29",
+  "in_force_date": "2021-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/246762",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 229 29/09/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După articolul 34 din Legea nr. 72/2016 privind sistemul de pensii și alte drepturi de asigurări sociale ale avocaților, publicată în Monitorul Oficial al României, Partea I, nr. 342 din 5 mai 2016, se introduce un nou articol, articolul 34^1, cu următorul cuprins: Articolul 34^1 Persoanele cu handicap grav care au realizat, în profesia de avocat, cel puțin o treime din stagiul complet de cotizare în condiții de handicap grav beneficiază de reducerea cu 15 ani a vârstelor standard de pensionare prevăzute în anexa nr. 1."
+    }
+  ],
+  "definitions": []
+}

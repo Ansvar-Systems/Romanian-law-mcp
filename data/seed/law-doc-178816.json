@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-178816",
+  "type": "statute",
+  "title": "LEGE nr. 109 din 26 mai 2016",
+  "short_name": "lege 109 26 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-26",
+  "in_force_date": "2016-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178816",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 109 26/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 51 din Legea nr. 422/2001 privind protejarea monumentelor istorice, republicată în Monitorul Oficial al României, Partea I, nr. 938 din 20 noiembrie 2006, cu modificările şi completările ulterioare, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: \"(3^1) Un procent de 3% din sumele colectate la bugetul de stat de la operatorii economici care desfăşoară activităţi în domeniul jocurilor de noroc va fi direcţionat anual către Ministerul Culturii pentru finanţarea lucrărilor de restaurare, conservare şi consolidare la monumentele istorice; suma va fi virată către Ministerul Culturii până la data de 31 mai a anului în curs pentru anul precedent.\""
+    }
+  ],
+  "definitions": []
+}

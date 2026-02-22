@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-211965",
+  "type": "statute",
+  "title": "LEGE nr. 53 din 20 martie 2019",
+  "short_name": "lege 53 20 03 2019",
+  "status": "in_force",
+  "issued_date": "2019-03-20",
+  "in_force_date": "2019-03-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/211965",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 53 20/03/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la prevederile alin. (4) și (10) ale art. 24 din Legea nr. 182/2002 privind protecția informațiilor clasificate, cu modificările și completările ulterioare, se declasifică hotărârile clasificate adoptate, precum și documentele clasificate primite, realizate sau transmise de Consiliul de Miniștri, Consiliul de Cabinet sau Consiliul de Stat în perioada 1938-1989, depozitate la Arhivele Naționale ale României și în arhiva Secretariatului General al Guvernului, privind comunitățile evreiești și/sau formele de organizare ale acestora, Cultul Mozaic, respectiv organizațiile, societățile, asociațiile, așezămintele, fundațiile evreiești/israelite/mozaice."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Deținătorii documentelor ce conțin informațiile clasificate prevăzute la art. 1 , precum și cei care dețin copii ale acestora iau măsuri pentru suprimarea marcajelor de clasificare și scoaterea informațiilor de sub incidența reglementărilor protective prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Prin derogare de la prevederile art. 28 și 30 și ale anexei nr. 6 la Legea Arhivelor Naționale nr. 16/1996, republicată , documentele ce conțin informațiile declasificate potrivit prevederilor art. 1 se pun imediat la dispoziția persoanelor interesate, la cererea acestora."
+    }
+  ],
+  "definitions": []
+}

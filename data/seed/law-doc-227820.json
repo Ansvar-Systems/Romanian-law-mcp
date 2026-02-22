@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227820",
+  "type": "statute",
+  "title": "LEGE nr. 127 din 14 iulie 2020",
+  "short_name": "lege 127 14 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-14",
+  "in_force_date": "2020-07-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227820",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 127 14/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 39 din 2 aprilie 2020 pentru completarea Legii nr. 455/2001 privind semnătura electronică, publicată în Monitorul Oficial al României, Partea I, nr. 281 din 3 aprilie 2020, cu următoarea completare: – La articolul unic , după alineatul (1) al articolului 3^1 se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Serviciile menționate la alin. (1) sunt furnizate, cu titlu gratuit, instituțiilor și autorităților publice din România, astfel cum acestea sunt definite în Legea nr. 500/2002 privind finanțele publice, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

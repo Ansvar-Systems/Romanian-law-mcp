@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-295598",
+  "type": "statute",
+  "title": "LEGE nr. 19 din 14 martie 2025",
+  "short_name": "lege 19 14 03 2025",
+  "status": "in_force",
+  "issued_date": "2025-03-14",
+  "in_force_date": "2025-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/295598",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 19 14/03/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 286/2009 privind Codul penal , publicată în Monitorul Oficial al României, Partea I, nr. 510 din 24 iulie 2009, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 285, după alineatul (3) se introduce un nou alineat, alin. (3^1), cu următorul cuprins: (3^1) Se consideră evadare și fapta persoanei condamnate la pedeapsa detențiunii pe viață sau la pedeapsa închisorii de a nu se prezenta la organul de poliție în vederea punerii în executare a mandatului de executare a pedepsei în termen de 7 zile de la data la care a rămas definitivă hotărârea prin care s-a dispus executarea pedepsei. 2. La articolul 285, alineatul (4) se modifică și va avea următorul cuprins: (4) În situațiile prevăzute la alin. (1), (2), alin. (3) lit. a) și b) și alin. (3^1), pedeapsa aplicată pentru infracțiunea de evadare se adaugă la pedeapsa rămasă neexecutată la data evadării."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În cazul hotărârilor care au rămas definitive anterior intrării în vigoare a prezentei legi, termenul de 7 zile prevăzut la art. 285 alin. (3^1) din Legea nr. 286/2009 privind Codul penal , cu modificările și completările ulterioare, curge de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Structurile Ministerului Afacerilor Interne care pun în executare ordinul de dare în urmărire potrivit art. 522 alin. (1) din Legea nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare, la expirarea termenelor prevăzute de art. 285 alin. (3^1) din Legea nr. 286/2009 privind Codul penal , cu modificările și completările ulterioare, și de art. II din prezenta lege, sesizează organele de urmărire penală competente să efectueze urmărirea penală cu privire la infracțiunea prevăzută de art. 285 alin. (3^1) din Legea nr. 286/2009 , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

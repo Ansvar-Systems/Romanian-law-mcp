@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-280149",
+  "type": "statute",
+  "title": "LEGE nr. 53 din 19 martie 2024",
+  "short_name": "lege 53 19 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-19",
+  "in_force_date": "2024-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280149",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 53 19/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară anul 2025 drept „Anul Centenar al Patriarhiei Române“."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul sărbătoririi „Anului Centenar al Patriarhiei Române“, Biserica Ortodoxă Română organizează activități și evenimente prin care să omagieze memoria tuturor acelora care s-au ostenit pentru recunoașterea oficială a Autocefaliei Bisericii Ortodoxe Române și dobândirea rangului ei de Patriarhie. (2) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii, în limita alocărilor bugetare aprobate, și pot sprijini logistic activitățile organizate de Biserica Ortodoxă Română cu acest prilej."
+    }
+  ],
+  "definitions": []
+}

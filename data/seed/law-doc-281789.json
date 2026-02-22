@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-281789",
+  "type": "statute",
+  "title": "LEGE nr. 92 din 12 aprilie 2024",
+  "short_name": "lege 92 12 04 2024",
+  "status": "in_force",
+  "issued_date": "2024-04-12",
+  "in_force_date": "2024-04-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/281789",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 92 12/04/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 184 din 28 decembrie 2022 pentru modificarea art. 1 alin. (12) din Ordonanța de urgență a Guvernului nr. 68/2021 privind adoptarea unor măsuri pentru punerea în aplicare a cadrului european pentru eliberarea, verificarea și acceptarea certificatului digital al Uniunii Europene privind COVID pentru a facilita libera circulație pe durata pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 1263 din 28 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

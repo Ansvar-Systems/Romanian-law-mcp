@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-190686",
+  "type": "statute",
+  "title": "LEGE nr. 160 din 30 iunie 2017",
+  "short_name": "lege 160 30 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-30",
+  "in_force_date": "2017-06-30",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190686",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 160 30/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 102, după alineatul (6) se introduce un nou alineat, alineatul (7), cu următorul cuprins: (7) Majorările anuale ale valorii punctului de pensie prevăzute la alin. (2), (5) și (6) reprezintă praguri minime. Valori superioare ale punctului de pensie pot fi stabilite prin legea anuală a bugetului asigurărilor sociale de stat, cu respectarea prevederilor Legii responsabilității fiscal-bugetare nr. 69/2010, republicată , și în concordanță cu strategia fiscal-bugetară corespunzătoare. 2. La articolul 170, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) În situația în care indicele de corecție rezultat în urma aplicării prevederilor alin. (1) și (2) este mai mic decât cel precedent calculat, se păstrează acesta din urmă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prin derogare de la prevederile Legii nr. 7/2017 privind bugetul asigurărilor sociale de stat pe anul 2017, în anul 2017 indicele de corecție este de 1,14."
+    }
+  ],
+  "definitions": []
+}

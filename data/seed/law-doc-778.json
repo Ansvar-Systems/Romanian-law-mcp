@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-778",
+  "type": "statute",
+  "title": "LEGEA nr. 24 din 24 octombrie 1990",
+  "short_name": "lege 24 24 10 1990",
+  "status": "in_force",
+  "issued_date": "1990-10-24",
+  "in_force_date": "1990-10-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/778",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 24 24/10/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul de înființare a Băncii Europene pentru Reconstrucție și Dezvoltare, semnat la Paris la data de 29 mai 1990. Această lege a fost adoptată de Senat în ședința din 26 septembrie 1990. PREȘEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaților în ședința din 22 octombrie 1990. PREȘEDINTELE ADUNĂRII DEPUTAȚILOR MARȚIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului și a Președintelui României, promulgăm Legea privind ratificarea Acordului de înființare a Băncii Europene de Reconstrucție și Dezvoltare și dispunem publicarea sa în Monitorul Oficial al României. PREȘEDINTELE ROMÂNIEI ION ILIESCU"
+    }
+  ],
+  "definitions": []
+}

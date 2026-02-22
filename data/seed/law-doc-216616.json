@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-216616",
+  "type": "statute",
+  "title": "LEGE nr. 155 din 24 iulie 2019",
+  "short_name": "lege 155 24 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-24",
+  "in_force_date": "2019-07-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216616",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 155 24/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 104 din 29 noiembrie 2018 privind implementarea Programului guvernamental „gROwth - Contul individual de economii Junior Centenar“, publicată în Monitorul Oficial al României, Partea I, nr. 1.029 din 4 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

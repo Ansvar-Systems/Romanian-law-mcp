@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-211697",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 17 ianuarie 2019",
+  "short_name": "lege 36 17 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-17",
+  "in_force_date": "2019-01-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/211697",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 17/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul Nagoya *) privind accesul la resursele genetice și împărțirea corectă și echitabilă a beneficiilor care rezultă din utilizarea acestora, adoptat la Nagoya la 29 octombrie 2010, semnat de România la 20 septembrie 2011 la New York, la Convenția privind diversitatea biologică , semnată la 5 iunie 1992 la Rio de Janeiro, ratificată prin Legea nr. 58/1994 . *) Traducere."
+    }
+  ],
+  "definitions": []
+}

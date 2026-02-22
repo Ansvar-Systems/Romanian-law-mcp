@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-3043",
+  "type": "statute",
+  "title": "LEGE Nr. 15 din 25 martie 1993",
+  "short_name": "lege 15 25 03 1993",
+  "status": "in_force",
+  "issued_date": "1993-03-25",
+  "in_force_date": "1993-03-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/3043",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 15 25/03/1993",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România adera la Convenţia europeană în materia adopţiei de copii, încheiată la Strasbourg la 24 aprilie 1967."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Aderarea la aceasta convenţie se face cu următoarea rezerva: \"În temeiul posibilităţilor conferite de art. 25 paragraful 1 din convenţie, de a formula cel mult două rezerve cu privire la dispoziţiile părţii a II-a, România declara că nu va aplica dispoziţiile art. 7, potrivit cărora vârsta minimă a adoptatorului nu poate fi mai mica de 21 de ani şi nici mai de 35 de ani, în legislaţia română vârsta minimă fiind de 18 ani, fără limita maxima.\" În temeiul facultăţii prevăzute în art. 2 din convenţie, de a aprecia care din dispoziţiile părţii a III-a se vor lua în considerare, România declara ca din aceasta parte va da efect art. 18, 19 şi 20."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În conformitate cu art. 26 din convenţie, autoritatea din România căreia i se pot transmite cererile prevăzute la art. 14 este Ministerul Justiţiei. Potrivit prevederilor art. 1 şi 2 din convenţie, Ministerul Justiţiei va notifica secretarului general al Consiliului Europei măsurile luate pentru a asigura conformitatea legislaţiei române cu dispoziţiile convenţiei. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 15 martie 1993, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR ADRIAN NASTASE Această lege a fost adoptată de Senat în şedinţa din 15 martie 1993, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE SENATULUI prof. univ. OLIVIU GHERMAN"
+    }
+  ],
+  "definitions": []
+}

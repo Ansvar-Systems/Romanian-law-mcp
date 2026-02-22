@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-37673",
+  "type": "statute",
+  "title": "LEGE nr. 11 din 31 ianuarie 1948",
+  "short_name": "lege 11 31 01 1948",
+  "status": "in_force",
+  "issued_date": "1948-01-31",
+  "in_force_date": "1948-01-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37673",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 11 31/01/1948",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute Tratatul de Prietenie, Colaborare şi Asistenţa Mutuala, între Republica Populara Română şi Republica Populara Bulgara semnat la Bucureşti la 16 ianuarie 1948"
+    }
+  ],
+  "definitions": []
+}

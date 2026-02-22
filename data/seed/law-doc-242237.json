@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242237",
+  "type": "statute",
+  "title": "LEGE nr. 138 din 13 mai 2021",
+  "short_name": "lege 138 13 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-13",
+  "in_force_date": "2021-05-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242237",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 138 13/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 34 din Legea nr. 53/2003 - Codul muncii, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările și completările ulterioare, după alineatul (6) se introduce un nou alineat, alineatul (6^1), cu următorul cuprins: (6^1) În cazul în care angajatorul se află în procedură de insolvență, faliment sau lichidare conform prevederilor legale în vigoare, administratorul judiciar sau, după caz, lichidatorul judiciar este obligat să elibereze salariaților un document care să ateste activitatea desfășurată de aceștia, conform prevederilor alin. (5), să înceteze și să transmită în registrul general de evidență a salariaților încetarea contractelor individuale de muncă."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-257865",
+  "type": "statute",
+  "title": "LEGE nr. 257 din 21 iulie 2022",
+  "short_name": "lege 257 21 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-21",
+  "in_force_date": "2022-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257865",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 257 21/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Amenzile contravenționale aplicate în temeiul art. 4 alin. (1) din Ordonanța de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România, cu modificările și completările ulterioare, abrogată prin Ordonanța de urgență a Guvernului nr. 22/2022 pentru abrogarea Ordonanței de urgență a Guvernului nr. 129/2021 privind implementarea formularului digital de intrare în România, neachitate până la data intrării în vigoare a prezentei legi, se anulează și se scad din evidențele organelor de executare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele de bani achitate până la data intrării în vigoare a prezentei legi, reprezentând amenzi contravenționale aplicate în temeiul art. 4 alin. (1) din Ordonanța de urgență a Guvernului nr. 129/2021 , cu modificările și completările ulterioare, abrogată prin Ordonanța de urgență a Guvernului nr. 22/2022 , se restituie la cererea contravenientului depusă la organul fiscal de executare competent în termen de 90 de zile de la data intrării în vigoare a ordinului ministrului prevăzut la art. 3 ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În termen de 15 zile de la data intrării în vigoare a prezentei legi, Ministerul Dezvoltării, Lucrărilor Publice și Administrației stabilește, prin ordin al ministrului, procedura de restituire, de către organele fiscale locale, a sumelor de bani prevăzute la art. 2 ."
+    }
+  ],
+  "definitions": []
+}

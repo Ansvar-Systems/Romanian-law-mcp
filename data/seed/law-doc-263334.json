@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-263334",
+  "type": "statute",
+  "title": "LEGE nr. 380 din 28 decembrie 2022",
+  "short_name": "lege 380 28 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-28",
+  "in_force_date": "2022-12-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263334",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 380 28/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România aderă la Convenția*) cu privire la înregistrarea obiectelor lansate în spațiul extraatmosferic, adoptată la New York la 12 noiembrie 1974 și deschisă spre semnare la New York la 14 ianuarie 1975. *) Traducere."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Agenția Spațială Română înființează și administrează registrul național al obiectelor lansate în spațiul extraatmosferic."
+    }
+  ],
+  "definitions": []
+}

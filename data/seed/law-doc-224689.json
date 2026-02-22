@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-224689",
+  "type": "statute",
+  "title": "LEGE nr. 47 din 3 aprilie 2020",
+  "short_name": "lege 47 03 04 2020",
+  "status": "in_force",
+  "issued_date": "2020-04-03",
+  "in_force_date": "2020-04-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224689",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 47 03/04/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (2) al articolului 24 din Legea nr. 119/1996 cu privire la actele de stare civilă, republicată în Monitorul Oficial al României, Partea I, nr. 339 din 18 mai 2012, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: (2) Căsătoria se poate încheia și în afara sediului serviciului public comunitar local de evidență a persoanelor sau, după caz, al primăriei competente, cum ar fi grădinile publice, parcurile, muzeele și alte locuri în aer liber, la cererea viitorilor soți, cu aprobarea primarului."
+    }
+  ],
+  "definitions": []
+}

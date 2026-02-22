@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-146811",
+  "type": "statute",
+  "title": "LEGE nr. 85 din 5 aprilie 2013",
+  "short_name": "lege 85 05 04 2013",
+  "status": "in_force",
+  "issued_date": "2013-04-05",
+  "in_force_date": "2013-04-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/146811",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 85 05/04/2013",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 96 din 24 iunie 2008 privind modificarea art. III alin. (1) lit. b) din Ordonanța de urgență a Guvernului nr. 29/2005 pentru modificarea Legii nr. 290/2002 privind organizarea și funcționarea unităților de cercetare-dezvoltare din domeniile agriculturii, silviculturii industriei alimentare și a Academiei de Științe Agricole și Silvice \"Gheorghe Ionescu-Șișești\" publicată în Monitorul Oficial al României, Partea I, nr. 485 din 30 iunie 2008."
+    }
+  ],
+  "definitions": []
+}

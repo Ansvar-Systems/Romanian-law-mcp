@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-57278",
+  "type": "statute",
+  "title": "LEGE nr. 489 din 10 noiembrie 2004",
+  "short_name": "lege 489 10 11 2004",
+  "status": "in_force",
+  "issued_date": "2004-11-10",
+  "in_force_date": "2004-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/57278",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 489 10/11/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 539/2003 privind Ordinul Meritul Sanitar și Medalia Meritul Sanitar, publicată în Monitorul Oficial al României, Partea I, nr. 926 din 23 decembrie 2003, se modifică după cum urmează: 1. Alineatul (2) al articolului 3 din Regulamentul privind descrierea și acordarea Ordinului Meritul Sanitar, prevăzut în anexa nr. 1 , va avea următorul cuprins: (2) Pe avers, central, este aplicat simbolul medicinei, un șarpe încolăcit pe un toiag, confecționat din argint cu titlul de 925%o (la mie) și având înălțimea de 18 mm. 2. Anexa nr. 3 \"Modelul desenat al Ordinului Meritul Sanitar\" se înlocuiește cu anexa nr. 1 \"Modelul desenat al Ordinului Meritul Sanitar\" care face parte integrantă din prezenta lege. 3. Anexa nr. 4 \"Modelul desenat al Medaliei Meritul Sanitar\" se înlocuiește cu anexa nr. 2 \"Modelul desenat al Medaliei Meritul Sanitar\" care face parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 539/2003 privind Ordinul Meritul Sanitar și Medalia Meritul Sanitar, cu modificările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

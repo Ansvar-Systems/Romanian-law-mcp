@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-42472",
+  "type": "statute",
+  "title": "LEGE nr. 61 din 11 martie 2003",
+  "short_name": "lege 61 11 03 2003",
+  "status": "in_force",
+  "issued_date": "2003-03-11",
+  "in_force_date": "2003-03-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/42472",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 61 11/03/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanța Guvernului nr. 43 din 24 iulie 1998 pentru modificarea și completarea Ordonanței Guvernului nr. 8/1998 privind constituirea Fondului special pentru promovarea și dezvoltarea turismului, emisă în temeiul art. 1 pct. 14 lit. a) din Legea nr. 148/1998 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 278 din 27 iulie 1998."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-304602",
+  "type": "statute",
+  "title": "LEGE nr. 192 din 20 noiembrie 2025",
+  "short_name": "lege 192 20 11 2025",
+  "status": "in_force",
+  "issued_date": "2025-11-20",
+  "in_force_date": "2025-11-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/304602",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 192 20/11/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 29 octombrie ca „Ziua Reginei Maria“, zi dedicată comemorării personalității și contribuției istorice a Reginei Maria a României."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul marcării „Zilei Reginei Maria“, Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau în coordonarea acestora pot aloca fonduri din bugetele proprii sau din alte surse atrase potrivit legii, pentru a organiza sau sprijini logistic și/sau financiar manifestările sportive, culturale, artistice, educaționale sau programele de promovare organizate, în limita bugetelor aprobate. (2) În vederea marcării „Zilei Reginei Maria“, Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot produce, difuza sau redifuza conținut editorial care promovează acțiunile și activitățile realizate cu ocazia manifestărilor dedicate „Zilei Reginei Maria“."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În ziua de 29 octombrie, instituțiile publice arborează drapelul național, potrivit prevederilor Legii nr. 75/1994 privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României de către autoritățile și instituțiile publice, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

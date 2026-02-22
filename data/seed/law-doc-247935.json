@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247935",
+  "type": "statute",
+  "title": "LEGE nr. 262 din 4 noiembrie 2021",
+  "short_name": "lege 262 04 11 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-04",
+  "in_force_date": "2021-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247935",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 262 04/11/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 81 din 20 decembrie 2019 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin Ministerul Finanțelor, de a scoate la licitație certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene, precum și pentru instituirea unei scheme de ajutor de stat privind sprijinirea întreprinderilor din sectoarele și subsectoarele expuse unui risc important de relocare ca urmare a transferului costului emisiilor de gaze cu efect de seră în prețul energiei electrice, publicată în Monitorul Oficial al României, Partea I, nr. 1049 din 30 decembrie 2019, cu următoarea modificare: – La articolul I punctul 3 , litera c) a alineatului (1) al articolului 10 se modifică și va avea următorul cuprins: c) 15% din suma brută se face venit la Ministerul Energiei, se reține în contul de disponibil deschis pe numele Ministerului Finanțelor la Trezoreria operativă centrală și se virează de către gestionarul contului, în termen de 5 zile lucrătoare de la solicitarea Ministerului Energiei, într-un cont distinct de venituri ale bugetului de stat, deschis pe numele acestuia, la Activitatea de Trezorerie și Contabilitate Publică a Municipiului București, în vederea implementării de măsuri financiare în favoarea sectoarelor sau a subsectoarelor care sunt expuse unor riscuri semnificative de relocare a emisiilor de dioxid de carbon din cauza costurilor indirecte semnificative care sunt suportate efectiv de pe urma costurilor emisiilor de gaze cu efect de seră transferate în prețul energiei electrice cu condiția ca astfel de măsuri financiare să fie în conformitate cu normele privind ajutorul de stat sau pentru proiecte de reducere a gazelor cu efect de seră;"
+    }
+  ],
+  "definitions": []
+}

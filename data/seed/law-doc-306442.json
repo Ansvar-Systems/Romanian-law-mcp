@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-306442",
+  "type": "statute",
+  "title": "LEGE nr. 15 din 15 ianuarie 2026",
+  "short_name": "lege 15 15 01 2026",
+  "status": "in_force",
+  "issued_date": "2026-01-15",
+  "in_force_date": "2026-01-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/306442",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 15 15/01/2026",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul-cadru dintre Guvernul României și Organizația pentru Cooperare Comună în Domeniul Armamentului (OCCAR) pentru participarea României la programele gestionate de OCCAR, semnat la București la 8 octombrie 2025."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-140008",
+  "type": "statute",
+  "title": "LEGE nr. 151 din 23 iulie 2012",
+  "short_name": "lege 151 23 07 2012",
+  "status": "in_force",
+  "issued_date": "2012-07-23",
+  "in_force_date": "2012-07-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/140008",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 151 23/07/2012",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică amendamentul aprobat la cea de a 13-a Reuniune anuală a Consiliului Guvernatorilor, prin Rezoluţia nr. 131, adoptată la Tirana la 19 iunie 2011, la Acordul de înfiinţare a Băncii pentru Comerţ şi Dezvoltare a Mării Negre, semnat la Atena la 30 decembrie 1994, ratificat prin Legea nr. 67/1996 . Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată. PREŞEDINTELE CAMEREI DEPUTAŢILOR ROBERTA ALMA ANASTASE PREŞEDINTELE SENATULUI VASILE BLAGA Bucureşti, 23 iulie 2012. Nr. 151. REZOLUŢIE A CONSILIULUI GUVERNATORILOR*1) ---------- *1) Traducerea urmăreşte concordanţa cu textul în limba română al Acordului de înfiinţare ratificat prin Legea nr. 67/1996 . Rezoluţia nr. 131 Subiect: Adoptarea unui proiect de rezoluţie a Consiliului Guvernatorilor cu privire la propunerile de amendamente la Acordul de înfiinţare (EUR) Guvernatorii, luând în considerare propunerile înaintate Consiliului în conformitate cu Rezoluţia nr. 126, adoptată la cea de a 8-a Reuniune extraordinară a Consiliului Guvernatorilor din 5 decembrie 2010, şi în conformitate cu articolele 23.2(a), 24.3 şi 54 ale Acordului: hotărăsc, prin consens, să adopte următoarele amendamente la Acord (denumite colectiv Amendamentul): - paragraful 1 al art. 4 din Acord este amendat pentru a substitui majuscula \"U\" cu litera mică \"u\" în articolul de la începutul paragrafului şi pentru a insera următoarele cuvinte imediat înaintea acesteia: \"Făcând obiectul prevederilor subparagrafului (m) al paragrafului 2 din art. 23,\"; - paragraful 2 al art. 23 din Acord este amendat pentru a schimba semnul de punctuaţie (.) cu semnul de punctuaţie (;) la finalul subparagrafului (I) şi pentru a insera următorul subparagraf nou (m) imediat sub acesta: \"de a modifica unitatea de cont a Băncii, de a redenomina întregul capital autorizat al Băncii şi de a determina numărul şi valoarea nominală a acţiunilor în care este divizat, după cum va fi cazul.\"; - paragraful 3 al art. 24 din Acord este amendat pentru a se elimina cuvântul \"şi\" înainte de \"(k)\", inserând o virgulă (,) în locul său şi adăugând cuvintele \"şi (m)\" înainte de expresia \"ale paragrafului 2 din art. 23\"; să dea instrucţiuni conducerii Băncii să trimită imediat comunicările oficiale prevăzute în art. 54 al Acordului către toate statele membre, certificând adoptarea Amendamentului în conformitate cu paragraful 3 al art. 24 din Acord şi declarând că se specifică prin aceasta de către Consiliul Guvernatorilor că Amendamentul va intra în vigoare pentru toţi membrii Băncii la data (\"Data efectivităţii\") la care Banca va fi primit confirmări oficiale de la fiecare guvernator prin care se comunică faptul că statul membru pe care îl reprezintă a finalizat toate acţiunile considerate necesare în legătură cu acest amendament în conformitate cu sistemul său juridic; că de la Data efectivităţii, inclusiv aceasta: (i) unitatea de cont a Băncii va fi EUR; (îi) întregul capital al Băncii va fi denominat în EUR; (iii) capitatul autorizat al Băncii va fi o sumă egală cu trei miliarde multiplicat cu rata de schimb DST/EUR determinată de către Fondul Monetar Internaţional, valabilă la Data efectivităţii (\"Rata de conversie\"), împărţită la 3 milioane (3.000.000) de acţiuni, fiecare având o valoare nominală egală cu suma capitalului autorizat împărţită la trei milioane (3.000.000); şi (iv) toate angajamentele în DST ale statelor membre privind plăţi aferente capitalului vărsat şi nevărsat vor fi convertite şi fixate în EUR utilizând Rata de conversie. Adoptată la 19 iunie 2011, la cea de a 13-a Reuniune anuală a Consiliului Guvernatorilor, la Tirana, Albania. ----------"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "şi pentru a insera următorul subparagraf nou (m) imediat sub acesta",
+      "definition": "\"de a modifica unitatea de cont a Băncii, de a redenomina întregul capital autorizat al Băncii şi de a determina numărul şi valoarea nominală a acţiunilor în care este divizat, după cum va fi cazul",
+      "source_provision": "Art.1"
+    }
+  ]
+}

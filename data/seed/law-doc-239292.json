@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239292",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 12 martie 2021",
+  "short_name": "lege 18 12 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-12",
+  "in_force_date": "2021-03-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239292",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18 12/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 80 din 20 decembrie 2019 pentru modificarea și completarea unor acte normative în domeniul fondurilor europene, publicată în Monitorul Oficial al României, Partea I, nr. 1044 din 24 decembrie 2019, cu următoarea completare: – La articolul III punctul 9 , după alineatul (3) al articolului 18^1 se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) Beneficiarii sunt exceptați de la reținerea ratei forfetare de 6% aferente contribuției lor până la implementarea a 75% din proiect, cheltuielile eligibile fiind rambursate în proporție de 100% din fonduri europene."
+    }
+  ],
+  "definitions": []
+}

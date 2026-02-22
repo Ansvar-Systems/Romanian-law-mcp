@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-129221",
+  "type": "statute",
+  "title": "LEGE nr. 83 din 6 iunie 2011",
+  "short_name": "lege 83 06 06 2011",
+  "status": "in_force",
+  "issued_date": "2011-06-06",
+  "in_force_date": "2011-06-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/129221",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 83 06/06/2011",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (1) al articolului 7 din Ordonanța Guvernului nr. 33/2003 privind înființarea Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV, publicată în Monitorul Oficial al României, Partea I, nr. 62 din 1 februarie 2003, aprobată cu modificări prin Legea nr. 502/2003 , se modifică și va avea următorul cuprins: Articolul 7 (1) Conducerea CERONAV este asigurată de către consiliul de conducere, compus din 7 membri, al cărui președinte este directorul general."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Alineatul (1) al articolului 9 din Ordonanța Guvernului nr. 42/1997 privind transportul maritim și pe căile navigabile interioare, republicată în Monitorul Oficial al României, Partea I, nr. 210 din 10 martie 2004, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 9 (1) Autoritatea Navală Română este condusă de un consiliu de conducere compus din 7 membri, dintre care unul este președinte și director general."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Guvernul va modifica dispozițiile Hotărârii Guvernului nr. 1.133/2002 privind organizarea și funcționarea Autorității Navale Române, cu modificările ulterioare, și dispozițiile Hotărârii Guvernului nr. 449/2003 privind organizarea și funcționarea Centrului Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV, cu privire la conducerea celor două instituții publice."
+    }
+  ],
+  "definitions": []
+}

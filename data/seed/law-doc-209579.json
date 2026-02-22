@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209579",
+  "type": "statute",
+  "title": "LEGE nr. 358 din 27 decembrie 2018",
+  "short_name": "lege 358 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209579",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 358 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (3) al articolului 11 din Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil , republicată în Monitorul Oficial al României, Partea I, nr. 45 din 26 ianuarie 2001, cu modificările și completările ulterioare, se introduc patru noi alineate, alineatele (3^1)-(3^4), cu următorul cuprins: (3^1) Aeronavele care operează în spațiul aerian național sunt obligate să dețină la bord un dispozitiv de localizare în caz de urgență, activ, cu excepția cazului în care, din considerente de securitate națională, se impune dezactivarea acestuia. (3^2) Prevederile alin. (3^1) intră în vigoare în termen de 2 ani de la publicarea prezentei legi în Monitorul Oficial al României, Partea I, pentru aeronavele de stat și pentru aeronavele civile, cu excepția cazurilor în care reglementările naționale sau europene prevăd altfel. (3^3) Prin excepție de la prevederile alin. (3^1), Ministerul Transporturilor, respectiv Ministerul Apărării Naționale pot stabili, prin reglementări specifice, categorii de aeronave civile, respectiv aeronave de stat, care pot opera în spațiul aerian național fără a deține un dispozitiv de localizare în caz de urgență. (3^4) Categoriile de dispozitive prevăzute la alin. (3^1) se stabilesc prin reglementări specifice emise de Ministerul Transporturilor sau la nivel european pentru aeronavele civile și de Ministerul Apărării Naționale pentru aeronavele de stat."
+    }
+  ],
+  "definitions": []
+}

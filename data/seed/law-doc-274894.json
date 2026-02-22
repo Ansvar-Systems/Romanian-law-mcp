@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-274894",
+  "type": "statute",
+  "title": "LEGE nr. 261 din 29 septembrie 2023",
+  "short_name": "lege 261 29 09 2023",
+  "status": "in_force",
+  "issued_date": "2023-09-29",
+  "in_force_date": "2023-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/274894",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 261 29/09/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 14 din 23 februarie 2022 pentru modificarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale, publicată în Monitorul Oficial al României, Partea I, nr. 182 din 24 februarie 2022."
+    }
+  ],
+  "definitions": []
+}

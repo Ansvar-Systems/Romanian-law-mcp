@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-33823",
+  "type": "statute",
+  "title": "LEGE nr. 51 din 16 ianuarie 2002",
+  "short_name": "lege 51 16 01 2002",
+  "status": "in_force",
+  "issued_date": "2002-01-16",
+  "in_force_date": "2002-01-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/33823",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 51 16/01/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 94 din 29 august 2000 pentru modificarea și completarea Ordonanței Guvernului nr. 19/1997 privind transporturile, adoptată în temeiul art. 1 lit. F pct. 10 din Legea nr. 125/2000 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 421 din 1 septembrie 2000, cu următoarele modificări și completări: 1. La articolul unic punctul 1 , alineatul (1) al articolului 1 va avea următorul cuprins: Articolul 1 (1) Prezenta ordonanță stabilește normele generale aplicabile modurilor de transport rutier, feroviar, naval și aerian, componentele rețelei de transport de interes național și european incluse în acestea, precum și atribuțiile și răspunderile autorităților competente de reglementare, coordonare, control, inspecție și supraveghere cu privire la activitățile de transport și la mijloacele de transport. 2. La articolul unic, după punctul 2 se introduc punctele 2^1-2^3, cu următorul cuprins: 2^1. La articolul 5, alineatul (2) va avea următorul cuprins: (2) Fiecare mod de transport are în compunere infrastructura de transport, mijloacele de transport, operatorii de transport și ai activităților conexe transportului, precum și sistemele de management al traficului și sistemele de pozitionare și navigație, după caz. 2^2. La articolul 9, alineatele (1) și (3) vor avea următorul cuprins: Articolul 9 (1) Infrastructurile de transport sunt destinate desfășurării activităților de transport, activităților conexe transporturilor și activităților privind administrarea infrastructurilor respective. Infrastructurile de transport sunt de interes național și de interes european și împreună cu sistemele de management al traficului și cu sistemele de pozitionare și navigație constituie rețelele de transport care pot fi de interes național sau de interes european. Infrastructurile destinate desfășurării activităților de transport sunt căile de comunicație rutiere, feroviare, navale și aeriene. ............................................................. (3) Operatorii de transport sunt transportatori, români sau străini, care au acces egal și nediscriminatoriu la infrastructura deschisă accesului public. Prin transportatori se înțelege persoanele fizice sau juridice, autorizate să efectueze transporturi, interne sau internaționale, de persoane ori de bunuri, în interes public sau în interes propriu, cu mijloace de transport deținute în proprietate sau cu contract de închiriere ori leasing. 2^3. La articolul 9, după alineatul (4) se introduce alineatul (5), cu următorul cuprins: (5) Sistemele de management al traficului și sistemele de pozitionare și navigație includ instalațiile tehnice necesare, precum și sistemele de informații și telecomunicații necesare asigurării unei operari armonioase a rețelelor și a gestionării eficiente a traficului. 3. La articolul unic, punctul 3 va avea următorul cuprins: 3. Literele b), c) și r) ale articolului 10 vor avea următorul cuprins: b) elaborează și supune spre adoptare Guvernului programele și prioritățile de modernizare și dezvoltare a infrastructurilor de transport deschise accesului public, aparținând domeniului public; c) asigura administrarea infrastructurilor de transport deschise accesului public, de interes național și european, aparținând domeniului public al statului; .............................................................. r) clasifica rețelele de transport de interes național și european, în conformitate cu standardele naționale și europene; 4. La articolul unic punctul 4 , litera b) a articolului 12 va avea următorul cuprins: b) elaborează proiecte de acte normative și aproba norme tehnice destinate asigurării compatibilitatii sistemului național de transport cu sistemele de transport internaționale; 5. La articolul unic, după punctul 4 se introduc punctele 4^1 -4^5 cu următorul cuprins: 4^1. La articolul 12, după litera p) se introduce litera p^1) cu următorul cuprins: p^1) aproba aplicarea reglementărilor specifice adoptate de organizațiile de aviatie civilă din Comunitatea Europeană la care autoritatea română în domeniul aviației civile este parte; 4^2. La articolul 19, alineatul (1) va avea următorul cuprins: Articolul 19 (1) Ministerul Lucrărilor Publice, Transporturilor și Locuinței elaborează și supune spre aprobare Guvernului definirea și schema rețelei de transport de interes național și european care va avea ca obiective asigurarea deplasarii persoanelor și a mărfurilor între toate localitățile tarii, precum și conectarea infrastructurilor naționale de transport la principalele infrastructuri de transport internațional. 4^3. La articolul 19, alineatul (3) se abrogă. 4^4. La articolul 21, alineatul (1) va avea următorul cuprins: Articolul 21 (1) Transportul în interes personal, executat de persoane fizice în vederea asigurării deplasarii unor persoane sau bunuri, precum și transportul în folos propriu, organizat de persoane fizice sau juridice pentru activitățile proprii autorizate, cu mijloacele de transport pe care le dețin în proprietate sau le folosesc în baza unui contract de închiriere sau leasing, este transport în interes propriu. 4^5. Articolul 27 se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ordonanța Guvernului nr. 19/1997 privind transporturile, republicată în Monitorul Oficial al României, Partea I, nr. 552 din 11 noiembrie 1999, cu modificările și completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o noua numerotare."
+    }
+  ],
+  "definitions": [
+    {
+      "term": ", c) și r) ale articolului 10 vor avea următorul cuprins",
+      "definition": "b) elaborează și supune spre adoptare Guvernului programele și prioritățile de modernizare și dezvoltare a infrastructurilor de transport deschise accesului public, aparținând domeniului public",
+      "source_provision": "Art.1"
+    }
+  ]
+}

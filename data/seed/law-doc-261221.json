@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-261221",
+  "type": "statute",
+  "title": "LEGE nr. 296 din 4 noiembrie 2022",
+  "short_name": "lege 296 04 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-04",
+  "in_force_date": "2022-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/261221",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 296 04/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta lege are ca obiect de reglementare introducerea în curriculumul la decizia școlii, la clasa a XII-a/a XIII-a din învățământul liceal, a disciplinei opționale „Istoria Revoluției din 1989 și a schimbării de regim din România“, disciplină de importanță națională pentru sistemul de învățământ românesc. (2) Introducerea disciplinei prevăzute la alin. (1) în curriculumul la decizia școlii va completa prevederile Legii educației naționale nr. 1/2011 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Programa școlară, manualele, materialele didactice și metodologiile specifice pentru disciplina „Istoria Revoluției din 1989 și a schimbării de regim din România“ se elaborează de către Ministerul Educației, în urma consultărilor cu reprezentanți ai organizațiilor de revoluționari, precum Fundația Națională a Revoluției din Decembrie 1989 sau alte organizații timișorene ale revoluționarilor din Decembrie 1989, cu reprezentanți ai Institutului Revoluției Române din Decembrie 1989 sau ai altor instituții asociative reprezentative pentru revoluționarii din Decembrie 1989, și se aprobă prin ordin al ministrului educației. (2) Cadrele didactice care predau disciplina „Istoria Revoluției din 1989 și a schimbării de regim din România“ pot beneficia de pregătire profesională și cursuri de perfecționare de specialitate în cadrul cursurilor universitare specializate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Până la începutul anului școlar 2023-2024, Ministerul Educației va emite ordinul de ministru cuprinzând decizia de introducere a disciplinei, dar și cu privire la programa școlară, manualele, materialele didactice și metodologiile specifice pentru disciplina „Istoria Revoluției din 1989 și a schimbării de regim din România“, aferente curriculumului la decizia școlii, ce va fi adoptată și publicată de Ministerul Educației."
+    }
+  ],
+  "definitions": []
+}

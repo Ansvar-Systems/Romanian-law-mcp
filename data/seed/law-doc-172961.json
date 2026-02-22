@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172961",
+  "type": "statute",
+  "title": "LEGE nr. 277 din 12 noiembrie 2015",
+  "short_name": "lege 277 12 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-12",
+  "in_force_date": "2015-11-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172961",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 277 12/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 10 din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, publicată în Monitorul Oficial al României, Partea I, nr. 490 din 23 iulie 2007, cu modificările şi completările ulterioare, după alineatul (1) se introduce un nou alineat, alineatul (2), cu următorul cuprins: \"(2) La solicitarea scrisă a proprietarului, preşedintele şi administratorul asociaţiei de proprietari au obligaţia să elibereze în scris o adeverinţă prin care să prezinte situaţia cheltuielilor privind întreţinerea, defalcate pe datoria de bază şi penalităţi, precum şi modalitatea de calcul al penalităţilor.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166523",
+  "type": "statute",
+  "title": "LEGE nr. 48 din 19 martie 2015",
+  "short_name": "lege 48 19 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-19",
+  "in_force_date": "2015-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166523",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 48 19/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 43 din 26 iunie 2014 privind durata unor contracte de închiriere pentru suprafeţe locative cu destinaţia de locuinţe, publicată în Monitorul Oficial al României, Partea I, nr. 474 din 27 iunie 2014."
+    }
+  ],
+  "definitions": []
+}

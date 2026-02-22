@@ -1,0 +1,50 @@
+{
+  "id": "law-doc-80805",
+  "type": "statute",
+  "title": "LEGE nr. 72 din 26 martie 2007",
+  "short_name": "lege 72 26 03 2007",
+  "status": "in_force",
+  "issued_date": "2007-03-26",
+  "in_force_date": "2007-03-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/80805",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 72 26/03/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Angajatorul care încadrează în muncă elevi și studenți pe perioada vacanțelor beneficiază, pentru fiecare elev și student, de un stimulent financiar lunar egal cu 50% din valoarea indicatorului social de referință al asigurărilor pentru șomaj și stimulării ocupării forței de muncă în vigoare, prevăzut de Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, cu modificările și completările ulterioare. (la 14-10-2008, Art. 1 a fost modificat de art. III din ORDONANȚA DE URGENȚĂ nr. 126 din 8 octombrie 2008, publicată în MONITORUL OFICIAL nr. 697 din 14 octombrie 2008. )"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Stimulentul financiar se acordă la cererea angajatorului din bugetul asigurărilor pentru șomaj."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Perioada maximă de acordare a stimulentului financiar prevăzut la art. 1 este de 60 de zile lucrătoare într-un an calendaristic."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Diferența dintre stimulentul financiar lunar acordat conform art. 1 și salariul realizat se suportă de către angajator din fonduri proprii."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "În termen de 30 de zile de la publicarea prezentei legi, Ministerul Muncii, Solidarității Sociale și Familiei împreună cu Ministerul Finanțelor Publice și Ministerul Educației și Cercetării vor supune aprobării, prin hotărâre a Guvernului, normele metodologice de aplicare a prevederilor prezentei legi."
+    }
+  ],
+  "definitions": []
+}

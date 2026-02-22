@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-175201",
+  "type": "statute",
+  "title": "LEGE nr. 13 din 19 ianuarie 2016",
+  "short_name": "lege 13 19 01 2016",
+  "status": "in_force",
+  "issued_date": "2016-01-19",
+  "in_force_date": "2016-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/175201",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 13 19/01/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "În semn de omagiu adus eroismului manifestat de cetăţenii municipiului Turda şi pentru cinstirea martirilor căzuţi în Revoluţia din decembrie 1989, municipiul Turda se declară \"Oraş-martir al Revoluţiei din decembrie 1989\"."
+    }
+  ],
+  "definitions": []
+}

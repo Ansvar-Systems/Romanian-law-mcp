@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-196049",
+  "type": "statute",
+  "title": "LEGE nr. 265 din 20 decembrie 2017",
+  "short_name": "lege 265 20 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-20",
+  "in_force_date": "2017-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196049",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 265 20/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 9 din 9 august 2017 privind prorogarea termenului prevăzut la art. IV din Ordonanța de urgență a Guvernului nr. 51/2016 pentru modificarea și completarea Legii nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice, adoptată în temeiul art. 1 pct. XII din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 660 din 10 august 2017."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "De la data de 1 ianuarie 2018 se stabilește prețul mediu al unui metru cub de masă lemnoasă pe picior, la valoarea de 164 lei."
+    }
+  ],
+  "definitions": []
+}

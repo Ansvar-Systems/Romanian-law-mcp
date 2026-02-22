@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-280601",
+  "type": "statute",
+  "title": "LEGE nr. 70 din 28 martie 2024",
+  "short_name": "lege 70 28 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-28",
+  "in_force_date": "2024-03-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280601",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 70 28/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 51 din 31 mai 2023 pentru completarea Ordonanței de urgență a Guvernului nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin Ministerul Finanțelor, de a scoate la licitație certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene, publicată în Monitorul Oficial al României, Partea I, nr. 498 din 7 iunie 2023, cu următoarea completare: – La articolul I , după alineatul (3) al articolului 12^11 se introduce un nou alineat, alin. (3^1), cu următorul cuprins: (3^1) În cazul în care rămân sume disponibile în urma scoaterii la licitație a certificatelor de emisii de gaze cu efect de seră, autoritatea publică centrală pentru protecția mediului va aloca sume suplimentare municipiului Cluj-Napoca în vederea realizării întregului obiectiv de investiții «Amenajarea parcului Est din municipiul Cluj-Napoca», având o suprafață de 53,2 ha."
+    }
+  ],
+  "definitions": []
+}

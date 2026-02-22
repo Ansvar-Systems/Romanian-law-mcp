@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196666",
+  "type": "statute",
+  "title": "LEGE nr. 12 din 9 ianuarie 2018",
+  "short_name": "lege 12 09 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-09",
+  "in_force_date": "2018-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196666",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 09/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 47 din 30 iunie 2017 pentru prorogarea unui termen și pentru modificarea art. 13 alin. (1) lit. b) din Legea nr. 232/2016 privind industria națională de apărare, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 506 din 30 iunie 2017, cu următoarea modificare: – Articolul I se modifică și va avea următorul cuprins: Articolul I Termenul prevăzut la art. 42 din Legea nr. 232/2016 privind industria națională de apărare, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 972 din 5 decembrie 2016, se prorogă, în ceea ce privește art. 42 lit. a) din același act normativ, până la data de 31 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

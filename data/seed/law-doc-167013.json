@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-167013",
+  "type": "statute",
+  "title": "LEGE nr. 72 din 3 aprilie 2015",
+  "short_name": "lege 72 03 04 2015",
+  "status": "in_force",
+  "issued_date": "2015-04-03",
+  "in_force_date": "2015-04-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167013",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 72 03/04/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 71 din 11 noiembrie 2014 privind modificarea art. X alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 65/2014 pentru modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 834 din 17 noiembrie 2014."
+    }
+  ],
+  "definitions": []
+}

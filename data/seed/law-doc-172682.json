@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-172682",
+  "type": "statute",
+  "title": "LEGE nr. 257 din 3 noiembrie 2015",
+  "short_name": "lege 257 03 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-03",
+  "in_force_date": "2015-11-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172682",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 257 03/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (5) al articolului 7 din Legea nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor, republicată în Monitorul Oficial al României, Partea I, nr. 189 din 18 martie 2014, cu completările ulterioare, se modifică şi va avea următorul cuprins: \"(5) Veniturile realizate din paza şi prestarea altor servicii, organizate şi executate, potrivit legii, de unităţile de jandarmi, se varsă integral la bugetul de stat.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ministerul Finanţelor Publice este autorizat să introducă, la propunerea ordonatorului principal de credite, modificările corespunzătoare în structura bugetului de stat şi în volumul şi structura bugetului Ministerului Afacerilor Interne."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Prezenta lege intră în vigoare la data de întâi a lunii următoare celei în care se publică în Monitorul Oficial al României, Partea I, dar nu mai devreme de 3 zile de la data publicării."
+    }
+  ],
+  "definitions": []
+}

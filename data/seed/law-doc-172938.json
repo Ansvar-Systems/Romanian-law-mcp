@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-172938",
+  "type": "statute",
+  "title": "LEGE nr. 273 din 11 noiembrie 2015",
+  "short_name": "lege 273 11 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-11",
+  "in_force_date": "2015-11-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172938",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 273 11/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 1 octombrie Ziua luptei împotriva cancerului de sân."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Autorităţile administraţiei publice locale pot organiza manifestări şi acţiuni publice dedicate sărbătoririi Zilei luptei împotriva cancerului de sân."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Unităţile sanitare pot efectua gratuit screening pentru depistarea precoce activă a cancerului de sân şi pot îndruma pacientele cu leziuni precursoare sau incipiente către servicii medicale specializate de diagnostic şi tratament."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Societatea Română de Televiziune şi Societatea Română de Radiodifuziune pot include în programele lor emisiuni dedicate Zilei luptei împotriva cancerului de sân."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-216632",
+  "type": "statute",
+  "title": "LEGE nr. 156 din 25 iulie 2019",
+  "short_name": "lege 156 25 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-25",
+  "in_force_date": "2019-07-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216632",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 156 25/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 25 alineatul (4) litera i) din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, punctul 1 se modifică și va avea următorul cuprins: 1. valoarea calculată prin aplicarea a 0,75% la cifra de afaceri; pentru situațiile în care reglementările contabile aplicabile nu definesc indicatorul cifra de afaceri, această limită se determină potrivit normelor;"
+    }
+  ],
+  "definitions": []
+}

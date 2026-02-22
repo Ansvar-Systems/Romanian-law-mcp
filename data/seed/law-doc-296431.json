@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-296431",
+  "type": "statute",
+  "title": "LEGE nr. 35 din 4 aprilie 2025",
+  "short_name": "lege 35 04 04 2025",
+  "status": "in_force",
+  "issued_date": "2025-04-04",
+  "in_force_date": "2025-04-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/296431",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 35 04/04/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 64 din 30 iunie 2023 pentru stabilirea unor măsuri în vederea realizării rețelei transeuropene de transport (TEN-T), precum și pentru prorogarea unui termen, publicată în Monitorul Oficial al României, Partea I, nr. 604 din 30 iunie 2023, cu următoarea modificare: – La articolul 2, litera e) se modifică și va avea următorul cuprins: e) infrastructura de transport de interes național - totalitatea construcțiilor, instalațiilor și amenajărilor rutiere, feroviare, aeriene și navale, inclusiv clădiri și instalații și echipamente de furnizare de utilități, platforme, parcări și căi de acces aferente acestora, cuprinse în proiectele de infrastructură de transport de interes național, aflate în proprietatea publică a statului și în administrarea sau concesionate unităților aflate în subordinea/sub autoritatea Ministerului Transporturilor și Infrastructurii, precum și cea aflată în proprietate privată;"
+    }
+  ],
+  "definitions": []
+}

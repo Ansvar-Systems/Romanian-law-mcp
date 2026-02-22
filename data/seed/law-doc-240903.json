@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240903",
+  "type": "statute",
+  "title": "LEGE nr. 64 din 8 aprilie 2021",
+  "short_name": "lege 64 08 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-08",
+  "in_force_date": "2021-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240903",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 64 08/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Consiliul de Miniștri al Bosniei și Herțegovinei privind protecția reciprocă a informațiilor clasificate , semnat la Sarajevo la 27 ianuarie 2020."
+    }
+  ],
+  "definitions": []
+}

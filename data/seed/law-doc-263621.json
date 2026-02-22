@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-263621",
+  "type": "statute",
+  "title": "LEGE nr. 4 din 3 ianuarie 2023",
+  "short_name": "lege 4 03 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-03",
+  "in_force_date": "2023-01-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263621",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 4 03/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 13 din Legea nr. 153/2011 privind măsuri de creștere a calității arhitectural-ambientale a clădirilor, publicată în Monitorul Oficial al României, Partea I, nr. 493 din 11 iulie 2011, cu modificările și completările ulterioare, se modifică după cum urmează: – La alineatul (3), literele a) și b) se modifică și vor avea următorul cuprins: a) cel puțin 20%, dar nu mai mult de 80%, din fonduri aprobate anual cu această destinație în bugetele locale/centrale sub formă de grant; b) diferența până la 100% din fondul de reparații al asociației de proprietari și/sau din alte surse legal constituite."
+    }
+  ],
+  "definitions": []
+}

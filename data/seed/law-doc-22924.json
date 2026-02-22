@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-22924",
+  "type": "statute",
+  "title": "LEGE nr. 602 din 10 septembrie 1943",
+  "short_name": "lege 602 10 09 1943",
+  "status": "in_force",
+  "issued_date": "1943-09-10",
+  "in_force_date": "1943-09-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22924",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 602 10/09/1943",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La art. 5 din legea nr. 80 din 1942 se adauga următorul alineat: \"În timpul vacantelor mari, cînd din diferite motive, unul din completele de judecată rămîne fără numărul legal de membri, primul-preşedinte sau preşedintele Curţii de Apel, ori inlocuitorul lor, pot împlini lipsurile, dând delegaţie consilierilor de la celelalte complete de judecată. Consilierii delegaţi vor continua sa judece şi în completul din care fac parte\". -----"
+    }
+  ],
+  "definitions": []
+}

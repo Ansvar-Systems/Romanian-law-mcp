@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-20008",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 23 octombrie 1986",
+  "short_name": "lege 20 23 10 1986",
+  "status": "in_force",
+  "issued_date": "1986-10-23",
+  "in_force_date": "1986-10-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/20008",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 23/10/1986",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă reducerea cu 5 la suta a armamentelor, efectivelor şi cheltuielilor militare ale Republicii Socialiste România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În legătură cu măsura privind reducerea armamentelor, efectivelor şi cheltuielilor militare, Marea Adunare Naţionala hotărăşte consultarea poporului, prin referendum în ziua de 23 noiembrie 1986. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 23 octombrie 1986. Preşedintele Marii Adunări Naţionale, NICOLAE GIOSAN ---------"
+    }
+  ],
+  "definitions": []
+}

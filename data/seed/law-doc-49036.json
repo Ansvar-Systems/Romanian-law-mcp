@@ -1,0 +1,364 @@
+{
+  "id": "law-doc-49036",
+  "type": "statute",
+  "title": "LEGE nr. 7 din 29 martie 1974 (*republicată*)",
+  "short_name": "lege 7 03 04 1974",
+  "status": "in_force",
+  "issued_date": "1974-03-29",
+  "in_force_date": "1974-03-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/49036",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 03/04/1974",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Lucrările de îmbunătăţiri funciare au drept scop punerea cat mai deplina în valoare a capacităţii de producţie a terenurilor agricole, ridicarea fertilitatii pământurilor slab productive, darea în producţia agricolă a unor suprafeţe cat mai mari de terenuri neproductive, prevenirea şi combaterea unor fenomene naturale care influenţează negativ productivitatea terenurilor agricole. Prin lucrări de îmbunătăţiri funciare se înţeleg: - amenajările de irigaţii; - amenajarea terenurilor agricole în panta; - indiguirea şi regularizarea cursurilor de apa; - desecare şi drenaj; - ameliorarea terenurilor sărăturate şi amendarea solurilor acide; - nivelarea şi modelarea terenurilor agricole; - defrişarea şi curăţirea terenurilor."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "După importanţa lor economică, lucrările de îmbunătăţiri funciare constituie: a) sisteme, care se realizează pe terenurile aparţinînd mai multor unităţi agricole socialiste; în cadrul sistemelor sînt lucrări de interes comun mai multor unităţi agricole socialiste şi lucrări de amenajări interioare care se executa pe terenul şi în interesul fiecărei unităţi agricole socialiste; b) amenajări locale, care se executa pe suprafeţe limitate de teren, folosind în principal posibilităţile locale, şi se realizează, de regula, pe teritoriul unei singure unităţi agricole socialiste."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare răspunde de înfăptuirea politicii partidului şi statului în domeniul amenajărilor de irigaţii şi al celorlalte lucrări de îmbunătăţiri funciare, asigurând, prin unităţile sale de specialitate, cercetarea, proiectarea, realizarea, exploatarea şi întreţinerea lucrărilor."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Amenajările de irigaţii au drept scop combaterea efectelor dăunătoare ale secetei şi completarea deficitului de umiditate, în vederea obţinerii unor producţii agricole mari an de an, neconditionate de regimul precipitatiilor. La proiectarea şi realizarea amenajărilor de irigaţii se va ţine seama de posibilităţile folosirii lor, după caz, şi în alte scopuri ca: alimentarea cu apa a centrelor gospodăreşti agricole, a amenajărilor piscicole, a localităţilor şi obiectivelor industriale, producerea de energie electrica, navigaţie şi agrement."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Activitatea de cercetare în domeniul irigatiilor se asigura de către Ministerul Agriculturii şi Industriei Alimentare - Academia de Ştiinţe Agricole şi Silvice -, prin institutele de cercetări din subordine şi prin institutele de învăţămînt superior."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Activităţile de studii şi proiectare în domeniul amenajărilor de irigaţii se realizează, în funcţie de importanţa economică şi complexitatea lucrărilor, prin unităţile de specialitate din subordinea Ministerului Agriculturii şi Industriei Alimentare sau a comitetelor executive ale consiliilor populare judeţene."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Documentaţiile tehnico-economice pentru sistemele de irigaţii se elaborează pe bazine şi subbazine hidrografice sau pe unităţi naturale, în corelare cu schemele cadru de amenajare a bazinelor hidrografice din punct de vedere al gospodăririi apelor şi cu studiile de organizare a teritoriului agricol şi a producţiei agricole."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare răspunde de realizarea unei concepţii unitare la întocmirea studiilor şi proiectelor pentru irigaţii, elaborează prin unităţile de cercetare şi proiectare din subordine, metodologii, normative tehnice, proiecte tip şi directive, precum şi instrucţiuni pentru toate unităţile care au sarcini în acest domeniu şi asigura: - reducerea suprafeţelor care se scot din producţia agricolă vegetala, prin folosirea judicioasă a configuraţiei terenului şi adoptarea unor soluţii tehnice corespunzătoare; - creşterea continua a gradului de automatizare a funcţionarii sistemelor de irigaţii şi de mecanizare a activităţilor de exploatare şi întreţinere a amenajărilor, în vederea reducerii forţei de muncă şi a costurilor de exploatare; - reducerea continua a consumurilor specifice de materiale, combustibili şi energie electrica."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Sistemele de irigaţii se executa prin unităţile de construcţii-montaj de specialitate din subordinea Ministerului Agriculturii şi Industriei Alimentare şi prin unităţile de specialitate din subordinea comitetelor executive ale consiliilor populare judeţene. Organizaţiile agricole cooperatiste executa cu forte proprii amenajări locale cu asistenţa tehnica a unităţilor de specialitate din subordinea comitetelor executive ale consiliilor populare judeţene şi cu sprijinul unităţilor socialiste care pot executa, contra cost, lucrările de construcţii-montaj de tehnicitate ridicată."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare, prin unităţile de construcţii-montaj de specialitate şi unităţile de exploatare a lucrărilor de îmbunătăţiri funciare, răspunde de instruirea, în timpul executării lucrărilor, a personalului tehnic şi a muncitorilor calificaţi necesari exploatării, puşi la dispoziţie de către unităţile beneficiare, pentru asigurarea intrării în producţie a amenajărilor de irigaţii imediat după terminarea lor şi a realizării, în termenul planificat, a indicatorilor tehnico-economici aprobaţi."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Amenajarea terenurilor agricole în panta prin lucrări de combatere a eroziunii solului, regularizare a scurgerii apei pe versanţi şi de corectare a formatiunilor torentiale are drept scop apărarea terenurilor agricole şi silvice de pe versanţi şi de la baza acestora, conservarea şi ridicarea potenţialului de producţie a solului, îmbunătăţirea regimului hidrologic al cursurilor de apa, protecţia lacurilor de acumulare împotriva colmatarii, apărarea localităţilor, căilor de comunicaţii, construcţiilor hidrotehnice şi a altor obiective din zona."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare va lua măsuri ca, prin documentaţiile de amenajare a terenurilor agricole în panta, să se stabilească cele mai corespunzătoare folosinţe ale terenurilor şi structura culturilor, care să asigure o eficienta economică ridicată la exploatarea suprafeţelor agricole."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Deţinătorii terenurilor care beneficiază de lucrări de amenajare a terenurilor agricole în panta sînt obligaţi să execute, în acelaşi timp cu lucrările de combatere a eroziunii solului şi de corectare a torenţilor, lucrările şi măsurile agrofitoameliorative specifice şi sa nu efectueze nici o alta lucrare care poate favoriza procesul de eroziune a terenurilor sau poate pune în pericol lucrările executate în acest scop. Ministerul Agriculturii şi Industriei Alimentare, prin direcţiile generale pentru agricultura şi industria alimentara şi prin institutele şi staţiunile de cercetări ale Academiei de Ştiinţe Agricole şi Silvice, va elabora tehnologii adecvate cultivarii terenurilor în panta, cu caracter obligatoriu, şi va îndrumă unităţile agricole socialiste în aplicarea măsurilor agrofitoameliorative, diferenţiat în funcţie de condiţiile naturale locale."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Lucrările de indiguire şi regularizare a cursurilor de apa au drept scop apărarea de inundaţii a terenurilor agricole şi silvice, a bunurilor situate pe acestea, a localităţilor, precum şi a obiectivelor social-economice. Lucrările de indiguire şi regularizare a cursurilor de apa se studiază şi se realizează pe bazine şi subbazine hidrografice sau pe unităţi naturale, incadrandu-se în prevederile de ansamblu ale schemelor cadru de amenajare a bazinelor hidrografice din punct de vedere al regularizării scurgerii de suprafaţa."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Lucrările de desecare-drenaj au ca obiect eliminarea excesului de apa de la suprafaţa terenului şi reglarea umiditatii din sol, în vederea creării de condiţii corespunzătoare pentru efectuarea lucrărilor agricole şi intensificarea producţiei. Unităţile agricole socialiste pe ale căror terenuri se executa lucrări de desecare-drenaj sînt obligate ca, odată cu realizarea acestora, să efectueze lucrările şi măsurile agroameliorative specifice (nivelări, modelări, afanarea adanca a solului, aplicarea de amendamente, îngrăşăminte organice şi minerale) în vederea îmbunătăţirii însuşirilor hidrofizice şi biologice ale solului. Lucrările şi măsurile agroameliorative se vor realiza diferenţiat, după condiţiile naturale locale, pe baza indicaţiilor tehnice elaborate de către institutele şi staţiunile de cercetări ale Academiei de Ştiinţe Agricole şi Silvice."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare are sarcina ca, prin ansamblul de lucrări de indiguire, regularizare a cursurilor de apa, desecare şi drenaj, să asigure creşterea suprafeţei agricole şi în special a celei arabile, prin punerea în valoare a terenurilor ocupate de balti, mlastini, stufarisuri şi a altor terenuri neproductive, precum şi prin trecerea la o categorie de folosinţă superioară a terenurilor exploatate în mod neeficient."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "În scopul extinderii suprafeţelor cultivate şi ridicării continue a potenţialului de producţie al solului, din sistemele de irigaţii, îndiguiri, desecări şi combatere a eroziunii solului, cat şi din afară acestora, Ministerul Agriculturii şi Industriei Alimentare va lua măsuri să se execute, în funcţie de condiţiile specifice ale terenurilor, lucrări de ameliorare a saraturilor, de amendare a solurilor acide, de nivelare, modelare, defrişare şi curăţire a acestor terenuri."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Barajele de retenţie şi derivatiile de cursuri de apa care se executa în cadrul sistemelor de irigaţii, îndiguiri, desecări şi combatere a eroziunii solului vor fi concepute şi realizate astfel încît sa servească pentru atenuarea viiturilor şi pentru crearea de noi surse de apa, în scopul apărării terenurilor agricole şi silvice, dezvoltării irigatiilor şi altor folosinţe."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul 2 - Obiectul şi modul de realizare a lucrărilor",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Activităţilor de cercetare, studii, proiectare şi execuţie necesare lucrărilor prevăzute la lit. B), C) şi D) din prezentul capitol le sînt aplicabile dispoziţiile art. 4 alin. 2 şi art. 5-10."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Lucrările din cadrul sistemelor de irigaţii, de îndiguiri, desecări-drenaje, combatere a eroziunii solului, lucrările de regularizare şi consolidare a cursurilor de apa, acumulari şi derivatii complexe, de ameliorare a terenurilor sărăturate, ce se vor realiza atît pe terenurile proprietate de stat, cat şi pe cele ale cooperativelor agricole de producţie, începînd cu anul de plan 1974, se vor finanta din fonduri de stat, aceste lucrări rămînînd, după executarea lor, în proprietatea exclusiva a statului. Statul dobândeşte dreptul de folosinţă asupra terenului proprietatea cooperatista, ocupat de lucrările respective, pe durata existenţei lor."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Amenajările interioare din cadrul sistemelor de irigaţii, de desecări şi de combatere a eroziunii solului, executate pe terenurile aparţinînd cooperativelor agricole de producţie, se finalizează de acestea din fonduri proprii şi aport în munca, precum şi din credite pe termen lung acordate de stat, în condiţiile prevăzute de lege, şi rămîn în proprietatea exclusiva a acestor cooperative. Prevederile alin. 1 se aplică următoarelor categorii de lucrări: a) irigaţii: reţeaua de canale sau conductele ingropate de ultim ordin, cu accesoriile aferente (construcţii hidrotehnice, vane hidranti, dispozitive), precum şi echipamentul de udare; b) la desecări: reţeaua de canale de ultim ordin, de pe terenul unei cooperative agricole de producţie, cu construcţiile hidrotehnice aferente; c) la combaterea eroziunii solului: agroterase şi lucrări agrofitoameliorative (benzi inerbate, culturi în fasii, bilonari, fertilizari, suprainsamantari şi reinsamantari pe păşuni)."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Amenajările locale pentru irigaţii, desecări, combaterea eroziunii solului şi alte lucrări de îmbunătăţiri funciare de interes local, realizate pe terenurile unei singure unităţi agricole socialiste, se vor finanta: a) la unităţile de stat, din fondurile de investiţie; b) la cooperativele agricole de producţie, prin mijloacele acestora: din fonduri proprii şi aport în munca, precum şi din credite pe termen lung acordate de stat."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Creditele pe termen lung pentru realizarea lucrărilor de îmbunătăţiri funciare prevăzute la art. 21 şi 22 se acordă, în condiţiile legii, cooperativelor agricole de producţie pe un termen de pînă la 25 de ani; rambursarea primei rate se va face după darea în funcţiune a obiectivului, dar nu mai târziu de 5 ani de la acordarea creditelor. Creditele pe termen lung acordate cooperativelor agricole de producţie pentru executarea lucrărilor de îmbunătăţiri funciare şi nerambursate pînă la 31 decembrie 1973 se vor reesalona de către Banca pentru Agricultura şi Industrie Alimentara, împreună cu organele agricole, corespunzător posibilităţilor de plată, în cadrul termenului maxim prevăzut la alineatul precedent."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Pentru realizarea lucrărilor de nivelare de baza, modelare şi scarificare a terenurilor din sistemele de îndiguiri şi desecări şi din afară acestora, se autoriza Banca pentru Agricultura şi Industrie Alimentara sa acorde credite unităţilor agricole de stat şi cooperativelor agricole de producţie, cu dobînda legală. Rambursarea creditelor se va face din cheltuielile de producţie, pe o perioadă de pînă la 8 ani, prima rata urmând a fi achitată după un an de la darea în folosinţă a terenului amenajat. Lucrările de nivelare de baza, modelare şi scarificare, ce se executa de către unităţile agricole de stat, nu vor afecta cheltuielile la 1.000 lei producţie marfa, precum şi rezultatele financiare prevăzute în plan. Cheltuielile pentru efectuarea acestor lucrări vor fi acoperite din sporurile de producţie ce se vor obţine de pe terenurile respective. Pentru lucrările de nivelare de baza, modelare şi scarificare a terenurilor din cadrul perimetrelor pe care se executa lucrări de combatere a eroziunii solului, finanţarea se face din fonduri de stat. În sistemele de irigaţii, începînd cu anul 1975, lucrările de nivelare de baza sau modelare, inclusiv lucrările de scarificare aferente, se cuprind în valoarea investiţiilor, se finanţează din fondurile statului şi se executa concomitent cu amenajările pentru irigaţii. Lucrările de nivelare de baza sau modelare, inclusiv lucrările de scarificare aferente, din amenajările locale de irigaţii se vor cuprinde, de asemenea, în valoarea investiţiilor şi se vor executa odată cu amenajările de irigaţii, finanţarea făcându-se, în funcţie de beneficiari, din sursele prevăzute la art. 22 din prezenta lege. Terenurile proprietate cooperatista pe care se executa lucrări de nivelare de baza sau modelare, finanţate din fonduri de stat, se exceptează de la prevederile art. 20 şi rămîn în folosinţă cooperativelor agricole de producţie. Lucrările de nivelare de întreţinere se finanţează din fonduri proprii sau din credite de producţie de către unităţile deţinătoare de terenuri pe care s-a efectuat nivelarea de baza şi se executa de acestea cu utilaje din dotarea proprie sau prin staţiunile pentru mecanizarea agriculturii (Conform dispoziţiilor art. II din Decretul nr. 55/1975 , lucrările de nivelare de baza sau modelare, neexecutate pe terenurile din sistemele şi amenajările locale de irigaţii date în folosinţă pînă la 31 decembrie 1974, au fost finanţate, după caz, din sursele prevăzute la art. 24)."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare împreună cu Banca pentru Agricultura şi Industrie Alimentara vor stabili anual, înaintea definitivării lucrărilor de plan pentru anul următor, volumul de lucrări şi de credite aferente lucrărilor prevăzute la art. 24, precum şi sursele de acoperire."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Răspunderea pentru realizarea lucrărilor de investiţii privind amenajările de irigaţii şi celelalte lucrări de îmbunătăţiri funciare revine Ministerului Agriculturii şi Industriei Alimentare, care urmăreşte executarea lor la termen şi de calitate corespunzătoare, prin: a) unităţile din subordinea sa, special organizate ca beneficiare de investiţii, pentru sistemele finanţate din fonduri de stat; b) unităţile de specialitate din subordinea Comitetelor executive ale consiliilor populare judeţene, în calitate de beneficiare de investiţii, pentru lucrările de interes local finanţate din fonduri de stat; c) unităţile agricole, pentru amenajările interioare din cadrul sistemelor şi pentru amenajările locale, la care acestea sînt beneficiare de investiţii."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul 3 - Finanţarea lucrărilor şi urmărirea realizării lor",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Sistemele de irigaţii şi celelalte lucrări de îmbunătăţiri funciare se receptioneaza de comisii a căror componenta se aproba de: a) Consiliul de Miniştri, pentru investiţiile ai căror principali indicatori tehnico-economici au fost aprobaţi de Consiliul de Miniştri; b) Consiliul de conducere al Ministerului Agriculturii şi Industriei Alimentare, pentru lucrările ai căror indicatori tehnico-economici sînt în competenţa de aprobare a titularului de investiţie. Din comisiile de recepţie vor face parte reprezentanţi ai consiliilor populare judeţene şi băncilor finanţatoare, cadre din învăţămîntul superior şi din institutele de cercetări de profil, alţi specialişti, precum şi reprezentanţi ai beneficiarilor de lucrări şi proiectantului. Ca presedinti ai comisiilor de recepţie, pentru lucrările din competenţa de aprobare a Consiliului de Miniştri, se vor numi cadre cu munci de răspundere din afară aparatului Ministerului Agriculturii şi Industriei Alimentare. Comisiile vor receptiona atît lucrările executate, cat şi suprafeţele de teren amenajate prin lucrări de irigaţii, desecări-drenaje, combatere a eroziunii, îndiguiri, regularizări de râuri şi alte lucrări de îmbunătăţiri funciare, pe deţinători şi categorii de folosinţă, rezultate în urma executării lucrărilor. Pe baza actelor de recepţie astfel întocmite se vor înscrie, în cadastrul funciar, lucrările executate şi suprafeţele de teren amenajate."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Exploatarea, întreţinerea şi paza amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare constituie o sarcina de a carei realizare răspund toate unităţile de stat, cooperatiste şi alte organizaţii obşteşti care au în administrare sau, după caz, în proprietate, astfel de lucrări."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Lucrările executate din fonduri de stat se administrează de către întreprinderile de exploatare a lucrărilor de îmbunătăţiri funciare, din subordinea Ministerului Agriculturii şi Industriei Alimentare. Fac excepţie reţelele interioare de canale de irigaţii şi desecări din sisteme, conductele secundare ingropate din sistemele de irigaţii de pe teritoriul întreprinderilor agricole de stat, amenajările interioare din orezării, amenajările interioare, inclusiv lucrările de nivelare de baza şi modelare, din cadrul sistemelor de lucrări de combatere a eroziunii solului, lucrările de nivelare de baza şi modelare din sistemele de irigaţii şi desecări, motopompele şi echipamentele de udare, precum şi amenajările locale de irigaţii, desecări şi combatere a eroziunii solului, executate pe terenurile aparţinînd unităţilor agricole socialiste de stat, care se administrează de către acestea. Fac, de asemenea, excepţie lucrările de nivelare de baza şi modelare, finanţate din fondurile de stat, executate, în sistemele de irigaţii, desecări şi de combatere a eroziunii solului, pe terenuri aflate în folosinţă cooperativelor agricole de producţie, care vor fi preluate în administrare de către acestea, cu obligaţia de a executa periodic lucrările de nivelare de întreţinere. Comitetele executive ale consiliilor populare judeţene şi al municipiului Bucureşti au obligaţia de a controla activitatea întreprinderilor de exploatare a lucrărilor de îmbunătăţiri funciare şi a unităţilor agricole socialiste, pe linie de exploatare şi întreţinere a lucrărilor şi de folosire a terenurilor amenajate în sistemele de irigaţii şi alte lucrări de îmbunătăţiri funciare de pe teritoriul judeţelor şi municipiului Bucureşti."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Amenajările interioare din sistemele de îmbunătăţiri funciare şi amenajările locale, executate pe terenurile aparţinînd cooperativelor agricole de producţie, prin aport propriu în munca şi bani şi din credite, se administrează de către acestea."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare răspunde de evidenta pe ţara a lucrărilor de îmbunătăţiri funciare, pe care o va tine, prin organele sale, pe categorii de unităţi socialiste şi genuri de lucrări. Comitetele executive ale consiliilor populare judeţene răspund de evidenta lucrărilor de îmbunătăţiri funciare de pe teritoriul judeţului, care se va tine pe beneficiari, pe genuri de lucrări şi pe categorii de folosinţă a terenurilor amenajate."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Unităţile socialiste care au în administrare amenajări de irigaţii şi alte lucrări de îmbunătăţiri funciare răspund de exploatarea, întreţinerea şi paza acestora, pentru asigurarea funcţionarii lor la parametrii stabiliţi prin documentaţiile aprobate. Regulile generale de exploatare, întreţinere şi paza a lucrărilor de îmbunătăţiri funciare se stabilesc de către Ministerul Agriculturii şi Industriei Alimentare. În activitatea lor unităţile socialiste care au în administrare lucrări de îmbunătăţiri funciare au obligaţia să respecte întocmai aceste reguli, precum şi prevederile din regulamentele de exploatare întocmite de către unităţile de proiectare, pentru fiecare lucrare şi obiectiv în parte. Unităţile agricole care au în administrare amenajări de irigaţii şi alte lucrări de îmbunătăţiri funciare vor înscrie, în planurile anuale de producţie şi financiare, fondurile şi mijloacele necesare exploatării, întreţinerii şi pazei acestor lucrări, răspunzând de executarea lor. Pentru buna exploatare şi întreţinere a lucrărilor care sînt administrate de către unităţile agricole de stat, de cooperativele agricole de producţie sau de alte organizaţii obşteşti, unităţile de exploatare a lucrărilor de îmbunătăţiri funciare vor executa la cerere, contra cost, pe bază de documentaţii tehnico-economice, întreţinerea şi repararea acestor lucrări. În acest scop, se vor încheia contracte de lungă durata, iar anual se vor stabili, de comun acord, volumele de lucrări şi graficele de execuţie. Lucrările de amenajări interioare din sistemele de irigaţii şi desecări executate pe terenurile unităţilor agricole cooperatiste, prin aport propriu în munca şi bani şi din credite, vor fi exploatate şi întreţinute de către acestea. De la prevederile alin. 5 se exceptează jgheaburile şi reţelele de conducte ingropate din sistemele de irigaţii, precum şi reţelele de drenaj închis, care vor fi exploatate şi întreţinute, contra plata, de către întreprinderile de exploatare a lucrărilor de îmbunătăţiri funciare, pe bază de contracte anuale."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "Unităţile socialiste care au în administrare amenajări de irigaţii sau alte lucrări de îmbunătăţiri funciare sînt obligate sa constituie, pe baza normativului tehnic elaborat de Ministerul Agriculturii şi Industriei Alimentare, stocul minim de materiale, combustibili, lubrifianţi, unelte şi utilaje necesare executării lucrărilor de reparaţii ce pot surveni, în mod neprevăzut, pe timpul exploatării lucrărilor, precum şi stocul de apărare împotriva inundaţiilor stabilit potrivit dispoziţiilor legale."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "În cadrul fiecărui sistem de irigaţii, desecări şi combaterea eroziunii solului se constituie un consiliu de conducere, format din şeful acestui sistem, directorii şi inginerii şefi ai unităţilor agricole de stat, preşedinţii şi inginerii şefi ai unităţilor agricole cooperatiste, deţinătoare de terenuri amenajate în cadrul sistemului. Consiliul răspunde de elaborarea şi aplicarea planului de exploatare, întreţinere şi paza a lucrărilor din cadrul sistemului şi de luarea măsurilor tehnico-organizatorice necesare folosirii corespunzătoare a terenurilor agricole amenajate, în vederea realizării prevederilor planului de producţie şi a parametrilor tehnico-economici aprobaţi pentru funcţionarea sistemului. Ministerul Agriculturii şi Industriei Alimentare şi Uniunea Naţionala a Cooperativelor Agricole de Producţie stabilesc, prin regulament, modul de organizare şi funcţionare a consiliului de conducere."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Pentru realizarea parametrilor tehnico-economici aprobaţi, pentru funcţionarea sistemului, unităţile agricole socialiste care deţin terenuri amenajate sînt obligate: - sa folosească în cultura, cu randament ridicat, întreaga suprafaţa agricolă amenajată; - să respecte structura culturilor prevăzută în studiul tehnico-economic, eventuale modificări putând fi făcute numai în măsura în care acestea ridica valoarea producţiei şi imbunatateste eficienta economică a amenajărilor; - la amenajările de irigaţii, să respecte programele de udari stabilite; - sa înscrie în planurile anuale de producţie şi sa folosească fondurile necesare, seminţele cele mai corespunzătoare, ingrasamintele, erbicidele, forta de muncă şi celelalte mijloace tehnice, pentru realizarea productiilor prevăzute, dând prioritate, în cadrul cantităţilor primite, terenurilor amenajate pentru irigaţii; - să aplice întocmai tehnologiile specifice culturilor de pe terenurile irigate, indiguite, desecate şi amenajate, prin lucrări de combatere a eroziunii solului."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Unităţile de exploatare a lucrărilor de îmbunătăţiri funciare răspund, alături de unităţile de producţie agricolă, de realizarea productiilor planificate. Ele au dreptul sa controleze modul în care organizaţiile agricole socialiste cuprinse în raza lor de activitate aplica normativele şi regulamentele de exploatare şi întreţinere a amenajărilor interioare, precum şi întregul complex de măsuri tehnico-organizatorice necesar pentru realizarea producţiei agricole, şi pot cere organelor locale competente sa pretindă unităţilor agricole să respecte toate obligaţiile ce le revin. În scopul bunei exploatări a lucrărilor din cadrul sistemelor de irigaţii, Ministerul Agriculturii şi Industriei Alimentare va constitui, pe sisteme sau grupe de sisteme, colective de specialişti agricoli care vor urmări aplicarea programelor de dezvoltare a agriculturii în perimetrele amenajate pentru irigaţii şi executarea prevederilor din planurile anuale ale unităţilor agricole, în vederea realizării productiilor şi rezultatelor economice cel puţin la nivelul parametrilor proiectati."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Scoaterea unei lucrări de îmbunătăţiri funciare din fondul amenajat se poate face numai prin casarea acesteia, cu respectarea prevederilor legale, şi se aproba de organul care a aprobat investiţia. Pe aceasta baza se vor opera modificările necesare în cadastrul funciar."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "Unităţile de exploatare a lucrărilor de îmbunătăţiri funciare răspund de efectuarea următoarelor categorii de prestări de servicii: a) captarea, transportul şi distribuirea apei pentru irigaţii, consum industrial, piscicultura şi în alte scopuri; b) apărarea împotriva inundaţiilor; c) evacuari de apa din sistemele de desecări, amenajări piscicole şi altele."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Unităţile socialiste care beneficiază de amenajări de irigaţii şi de lucrări de îmbunătăţiri funciare în sisteme vor încheia, anual, contracte cu unităţile prestatoare de servicii, prevăzute în articolul precedent, plata contravalorii prestaţiilor efectuandu-se potrivit tarifelor în vigoare. Contractele se vor încheia pentru suprafaţa de teren amenajată, înscrisă în evidenta fondului funciar. Nu se cuprind în suprafaţa ce face obiectul contractului: a) la distribuirea apei pentru irigaţii: terenurile ocupate de construcţii, drumurile şi terenurile neproductive, perdelele de protecţie care nu se iriga, precum şi suprafeţele amenajate care din cauza de forta majoră nu pot fi cultivate; b) la apărarea împotriva inundaţiilor: terenurile din perimetrul construibil al localităţilor, cele acoperite cu balti neproductive şi mlastini, drumurile publice, precum şi pădurile de plop şi de salcie care depăşesc 2 ani de la plantare. De asemenea, unităţile agricole socialiste vor plati contravaloarea prestaţiilor efectuate de către întreprinderile de exploatare a lucrărilor de îmbunătăţiri funciare şi întreprinderile de utilaje terasiere, îmbunătăţiri funciare, proiectare şi executare de construcţii pentru exploatarea şi întreţinerea amenajărilor interioare din sistemele de irigaţii şi desecări, potrivit tarifelor legale."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul 4 - Administrarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Drepturile şi obligaţiile prestatorului de servicii şi ale beneficiarului se stabilesc prin contract. Ei răspund, pentru neîndeplinirea obligaţiilor contractuale, potrivit legii."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul 5 - Control şi sancţiuni",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Controlul privind exploatarea, întreţinerea şi paza amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare, precum şi realizarea indicatorilor tehnico-economici, se executa, pentru toţi deţinătorii unor astfel de lucrări, de către specialişti din Ministerul Agriculturii şi Industriei Alimentare şi din unităţile de specialitate subordonate acestuia sau comitetelor executive ale consiliilor populare judeţene, numiţi prin ordinul ministrului agriculturii şi industriei alimentare."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul 5 - Control şi sancţiuni",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Încălcarea dispoziţiilor prezentei legi atrage răspunderea disciplinară, materială, civilă, contravenţională sau penală, după caz."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul 5 - Control şi sancţiuni",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Degradarea sau distrugerea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare constituie infracţiune şi se pedepseşte potrivit art. 231 din Codul penal."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul 5 - Control şi sancţiuni",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Contravenţiile la normele privind protecţia amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare şi persoanele competente să le constate şi să aplice sancţiuni contravenţionale se stabilesc prin hotărîre a Consiliului de Miniştri. Sancţiunile contravenţionale se aplică şi persoanelor juridice. Amenzile aplicate unităţilor socialiste vor fi imputate persoanelor fizice vinovate de săvîrşirea contravenţiei."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul 6 - Dispoziţii finale",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare, odată cu realizarea unor noi sisteme de irigaţii, îndiguiri, desecări şi combatere a eroziunii solului, va asigura şi organizarea unităţilor de exploatare a acestor sisteme, precum şi dotarea lor cu utilajele, mijloacele de transport şi materialele specifice, corelata cu punerea în funcţiune a noilor capacităţi. De asemenea, Ministerul Agriculturii şi Industriei Alimentare va asigura organizarea activităţii de exploatare a reţelelor interioare de canale de irigaţii şi desecări din sisteme, a amenajărilor locale de irigaţii, desecări şi combatere a eroziunii solului din administrarea unităţilor agricole socialiste."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul 6 - Dispoziţii finale",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare va asigura pregătirea, din timp, a cadrelor tehnice şi de muncitori calificaţi, necesare unităţilor agricole socialiste, pentru întreţinerea lucrărilor de amenajare interioară şi exploatarea agricolă a terenurilor amenajate."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul 6 - Dispoziţii finale",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare, prin Academia de Ştiinţe Agricole şi Silvice, răspunde de introducerea tehnologiilor şi utilajelor noi în activitatea de exploatare şi întreţinere a lucrărilor, în vederea îmbunătăţirii continue a nivelurilor indicatorilor tehnico-economici ce trebuie obţinuţi prin realizarea amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul 6 - Dispoziţii finale",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "Ministerul Agriculturii şi Industriei Alimentare raportează anual Consiliului de Miniştri executarea programului de amenajări şi realizarea indicatorilor tehnico-economici aprobaţi, pe terenurile pe care s-au realizat amenajări de irigaţii şi alte lucrări de îmbunătăţiri funciare. Consiliul de Miniştri prezintă Consiliului de Stat, anual, situaţia realizării amenajărilor de irigaţii şi a celorlalte lucrări de îmbunătăţiri funciare prevăzute în planul naţional unic de dezvoltare economico-socială, măsurile luate pentru menţinerea în exploatare a lucrărilor executate, precum şi rezultatele obţinute pe terenurile irigate."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul 6 - Dispoziţii finale",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "Se autoriza Consiliul de Miniştri ca, pe baza documentaţiei prezentate de Ministerul Agriculturii şi Industriei Alimentare, pusă de acord cu Comitetul de Stat al Planificarii şi Ministerul Finanţelor, sa introducă în planul naţional unic de dezvoltare economico-socială şi bugetul de stat pe anul 1974 modificările ce decurg din aplicarea prevederilor cap. III din prezenta lege, în cadrul volumului total de investiţii şi de credite pe termen lung, aprobat pentru acest an Ministerului Agriculturii şi Industriei Alimentare."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Capitolul 6 - Dispoziţii finale",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la publicarea în Buletinul Oficial al Republicii Socialiste România (Fac excepţie prevederile art. 24, art. 32 alin. 1-3, art. 36 alin. 2 şi art. 39 alin. final, care au intrat în vigoare la data publicării în Buletinul Oficial nr. 62 din 14 iunie 1975 a Decretului nr. 55/1975 , precum şi prevederile art. 29, art. 32 alin. 4-6 şi art. 45 alin. 2, care au intrat în vigoare la data publicării în Buletinul Oficial nr. 13 din 9 martie 1983 a Decretului nr. 68/1983 ). Pe aceeaşi dată se abroga prevederile Hotărîrii Consiliului de Miniştri nr. 1279/1967 privind administrarea şi finanţarea lucrărilor de îmbunătăţiri funciare, precum şi aprobarea tarifelor pentru unele prestări de servicii, cu excepţia art. 12 şi 13, şi art 2 şi 9 lit. d) din Hotărîrea Consiliului de Miniştri nr. 1686/1970 privind finanţarea, proiectarea, executarea şi administrarea lucrărilor de combatere a eroziunii solului, de regularizare a scurgerii apelor pe versanţi şi de corectare a torenţilor, precum şi orice alte dispoziţii contrare. --------"
+    }
+  ],
+  "definitions": []
+}

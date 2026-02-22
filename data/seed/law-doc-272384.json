@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272384",
+  "type": "statute",
+  "title": "LEGE nr. 254 din 21 iulie 2023",
+  "short_name": "lege 254 21 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-21",
+  "in_force_date": "2023-07-21",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272384",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 254 21/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 118, alineatul (1) din Ordonanța de urgență a Guvernului nr. 195 din 12 decembrie 2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 118 (1) Împotriva procesului-verbal de constatare și sancționare a contravenției se poate depune plângere, în termen de 15 zile de la comunicare, la judecătoria în a cărei rază de competență a fost constatată fapta ori la judecătoria în a cărei rază teritorială își are domiciliul sau sediul contravenientul."
+    }
+  ],
+  "definitions": []
+}

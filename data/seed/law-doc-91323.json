@@ -1,0 +1,195 @@
+{
+  "id": "law-doc-91323",
+  "type": "statute",
+  "title": "LEGE nr. 76 din 8 aprilie 2008",
+  "short_name": "lege 76 08 04 2008",
+  "status": "in_force",
+  "issued_date": "2008-04-08",
+  "in_force_date": "2008-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/91323",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 76 08/04/2008",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta lege are drept scop constituirea Sistemului Național de Date Genetice Judiciare, denumit în continuare S.N.D.G.J., pentru prevenirea și combaterea unor categorii de infracțiuni prin care se aduc atingeri grave drepturilor și libertăților fundamentale ale persoanei, în special dreptului la viață și la integritate fizică și psihică, precum și pentru identificarea cadavrelor cu identitate necunoscută, a persoanelor dispărute sau a persoanelor decedate în urma catastrofelor naturale, a accidentelor în masă, a infracțiunilor de omor sau a actelor de terorism. (2) Prezenta lege stabilește condițiile în care pot fi prelevate probe biologice de la anumite persoane fizice sau din urmele rămase la locul comiterii unor infracțiuni, în vederea determinării profilului genetic, precum și condițiile în care pot fi prelucrate datele cuprinse în S.N.D.G.J. (3) În S.N.D.G.J. se verifică și se compară profile genetice și date cu caracter personal, în scopul: a) excluderii persoanelor din cercul de suspecți și identificării autorilor infracțiunilor cuprinse în anexa care face parte integrantă din prezenta lege; b) stabilirii identității persoanelor - victime ale catastrofelor naturale, ale accidentelor în masă și ale actelor de terorism; c) realizării schimbului de informații cu celelalte state și combaterii criminalității transfrontaliere; d) identificării participanților la comiterea infracțiunilor cuprinse în anexă. e) prevenirii și combaterii faptelor de natură sexuală, de exploatare a unor persoane sau asupra minorilor. (la 29-06-2019, Articolul 1 din Capitolul I a fost completat de Punctul 1, Articolul 27 din LEGEA nr. 118 din 20 iunie 2019, publicată în MONITORUL OFICIAL nr. 522 din 26 iunie 2019 ) f) prevenirii și combaterii faptelor din sfera traficului de droguri. (la 29-03-2024, Alineatul (3), Articolul 1, Capitolul I a fost completat de Punctul 1., Articolul 24 din LEGEA nr. 61 din 25 martie 2024, publicată în MONITORUL OFICIAL nr. 259 din 26 martie 2024 )"
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În înțelesul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații: a) profil genetic - codul alfanumeric obținut din materialul genetic, prin aplicarea tehnicilor de biologie moleculară; b) analiză genetică judiciară - utilizarea unui set de determinări biochimice prin care informația deținută în anumite fragmente necodate ale macromoleculei de acid dezoxiribonucleic este transformată într-un cod alfanumeric specific fiecărui individ; c) S.N.D.G.J. - ansamblul de subunități interactive și independente în care sunt stocate informații ce sunt utilizate în scopul prevăzut la art. 1 . S.N.D.G.J. cuprinde: baza de date cu caracter personal, baza de date despre caz și baza de date cu profile genetice; d) bază de date cu caracter personal - componenta S.N.D.G.J. care cuprinde: datele cu caracter personal ale persoanelor prevăzute la art. 4 alin. (1) lit. a) și b) și date despre infracțiunea comisă sau cercetată; e) bază de date despre caz - componenta S.N.D.G.J. care cuprinde informații referitoare la infracțiune și alte date de interes pentru munca de poliție, corespondente profilelor genetice ale urmelor biologice ridicate din câmpul infracțional și neatribuite unui autor; f) bază de date cu profile genetice judiciare - componenta S.N.D.G.J. care cuprinde profilele genetice ale persoanelor prevăzute la art. 4 alin. (1) lit. a) și b) și ale urmelor biologice prelevate de la fața locului; g) prelucrare a datelor cuprinse în S.N.D.G.J. - orice operațiune sau set de operațiuni ce se efectuează asupra datelor cuprinse în S.N.D.G.J., prin mijloace automate sau neautomate, cum ar fi: colectarea, înregistrarea, organizarea, verificarea, stocarea, compararea, extragerea, consultarea, utilizarea, transmiterea către terți, ștergerea sau distrugerea; h) urme biologice - urmele care au în componență celule, țesuturi sau secreții umane; i) probe biologice - orice urmă sau obiect care are legătură cu o infracțiune, cu cadavrele cu identitate necunoscută ori cu persoanele dispărute și cele decedate în urma catastrofelor naturale sau a accidentelor în masă și a cărei/cărui examinare este necesară pentru stabilirea unei situații de fapt ori pentru identificarea obiectelor sau persoanelor; j) metode noninvazive - modalitățile de recoltare a probelor biologice de la persoane fizice, ce nu aduc atingere intimității și integrității corporale ale persoanei."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul II - Prelevarea probelor biologice",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Infracțiunile pentru care pot fi prelevate probe biologice în vederea introducerii profilelor genetice în S.N.D.G.J. sunt prevăzute în anexa care face parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul II - Prelevarea probelor biologice",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) S.N.D.G.J. conține profile genetice, date cu caracter personal și date despre caz, corespunzătoare următoarelor categorii: a) suspecți - persoanele despre care există date și informații că ar putea fi autori, instigatori sau complici ai infracțiunilor cuprinse în anexă ; b) persoane condamnate definitiv pentru săvârșirea infracțiunilor cuprinse în anexă la pedeapsa închisorii, precum și persoanele pentru care instanța a pronunțat amânarea aplicării pedepsei sau renunțarea la aplicarea pedepsei; (la 01-02-2014, Lit. b) a alin. (1) al art. 4 a fost modificată de pct. 1 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. ) b^1) persoane înscrise potrivit legii în Registrul național automatizat cu privire la persoanele care au comis infracțiuni sexuale, de exploatare a unor persoane sau asupra minorilor; (la 29-06-2019, Alineatul (1) din Articolul 4 , Capitolul II a fost completat de Punctul 2, Articolul 27 din LEGEA nr. 118 din 20 iunie 2019, publicată în MONITORUL OFICIAL nr. 522 din 26 iunie 2019 ) b^2) persoane înscrise potrivit legii în Registrul național automatizat cu privire la persoanele care au comis infracțiuni din sfera traficului de droguri; (la 29-03-2024, Alineatul (1), Articolul 4, Capitolul II a fost completat de Punctul 2., Articolul 24 din LEGEA nr. 61 din 25 martie 2024, publicată în MONITORUL OFICIAL nr. 259 din 26 martie 2024 ) c) urme biologice prelevate cu ocazia efectuării cercetării la fața locului; d) cadavre cu identitate necunoscută, persoane dispărute ori persoane decedate în urma catastrofelor naturale, a accidentelor în masă, a infracțiunilor de omor sau a actelor de terorism. (2) S.N.D.G.J. poate fi completat cu alte categorii de date decât cele prevăzute la alin. (1) , prin hotărâre a Guvernului, la propunerea Ministerului Justiției și a Ministerului Internelor și Reformei Administrative, în funcție de necesități și de resursele alocate. (3) Pentru excluderea persoanelor care au avut contact cu locul comiterii infracțiunii în mod justificat sau accidental, se pot preleva și analiza probe biologice de la acestea, precum și de la victimele infracțiunilor, cu consimțământul acestora. (4) Profilele genetice ale persoanelor prevăzute la alin. (3) vor fi verificate prin comparare în S.N.D.G.J. doar în scopul pentru care s-a făcut recoltarea. Profilele genetice ale persoanelor prevăzute la alin. (3) vor fi stocate în baza de date pănă la soluționarea definitivă a cauzei în care a fost dispusă introducerea lor în S.N.D.G.J. (la 28-06-2014, Alin. (4) al art. 4 a fost modificat de pct. 2 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. ) (5) Pentru îndeplinirea obiectivelor prevăzute la art. 1 , pot fi efectuate comparații între profilele genetice înregistrate, în și între categoriile prevăzute la alin. (1) lit. a)-c) . Verificarea și compararea datelor sunt realizate automat, la introducerea profilului genetic aparținând unei noi persoane sau a urmelor biologice de la un caz nou. (6) Profilele genetice provenind de la categoria prevăzută la alin. (1) lit. d) vor fi comparate, în scopul identificării, cu profilele genetice provenind de la rude de gradele I și II, dar și cu alte categorii de profile genetice existente în baza de date. Profilele genetice ale rudelor care servesc pentru identificare vor fi stocate în baza de date până la soluționarea definitivă a cauzei. (la 01-02-2014, Alin. (6) al art. 4 a fost modificat de pct. 2 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul II - Prelevarea probelor biologice",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Prelevarea probelor biologice se face prin metode noninvazive, respectiv recoltarea celulelor epiteliale prin periaj al mucoasei bucale, iar în situațiile în care nu se poate realiza această modalitate, prin recoltarea unor celule epiteliale din regiunea feței. (2) Prelevarea probelor biologice de la persoanele prevăzute la art. 4 alin. (1) se face conform art. 190 din Codul de procedură penală , care se aplică în mod corespunzător. (la 01-02-2014, Alin. (2) al art. 5 a fost modificat de pct. 3 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. ) (3) Abrogat. (la 01-02-2014, Alin. (3) al art. 5 a fost abrogat de pct. 4 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. ) (4) Prelevarea probelor biologice la minori cu vârsta sub 14 ani, în vederea stabilirii profilului genetic, se face numai cu acordul părinților sau al reprezentantului legal și în prezența acestora. (5) Judecătorul de drepturi și libertăți, instanțele de judecată și organele de urmărire penală care dispun prelevarea au obligația de a informa persoanele prevăzute la art. 4 alin. (1) lit. a) și b) că probele biologice recoltate vor fi utilizate pentru obținerea și stocarea în S.N.D.G.J. a profilului genetic. (la 01-02-2014, Alin. (5) al art. 5 a fost modificat de pct. 5 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Prelevarea probelor biologice",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) În cauzele penale, prelevarea, păstrarea și transportul probelor biologice de la persoanele prevăzute la art. 4 alin. (1) lit. a) , în vederea introducerii profilelor genetice în S.N.D.G.J., se realizează de personalul Poliției Române instruit în acest sens, la solicitarea organelor de urmărire penală și/sau a instanțelor de judecată. De asemenea, personalul Poliției Române instruit în acest sens poate preleva, păstra și transporta probe biologice de la persoanele prevăzute la art. 4 alin. (3) . (2) Prelevarea probelor biologice de la persoanele prevăzute la art. 4 alin. (1) lit. a) și alin. (3) poate fi efectuată și de personalul medico-sanitar calificat."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Prelevarea probelor biologice",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Prelevarea probelor biologice de la persoanele prevăzute la art. 4 alin. (1) lit. b) este dispusă de instanța de judecată, prin hotărârea de condamnare ori prin hotărârea de amânare a aplicării pedepsei sau de renunțare la aplicarea pedepsei*). Notă Decizie de admitere: RIL nr. 20/2022 , publicată în Monitorul Oficial nr. 1103 din 16 noiembrie 2022: În interpretarea și aplicarea unitară a dispozițiilor art. 7 alin. (1) din Legea nr. 76/2008 privind organizarea și funcționarea Sistemului Național de Date Genetice Judiciare, modificată, stabilește: Prelevarea de probe biologice de la persoane condamnate definitiv sau față de care s-a dispus amânarea aplicării pedepsei sau renunțarea la aplicarea pedepsei, pentru săvârșirea infracțiunilor cuprinse în anexa Legii nr. 76/2008 , are caracter facultativ, iar nu caracter obligatoriu, instanțele având competența de a aprecia dacă trebuie sau nu introduse amprente genetice în Sistemul Național de Date Genetice Judiciare. (2) Prelevarea probelor biologice de la persoanele condamnate definitiv la pedeapsa închisorii prevăzute la art. 4 alin. (1) lit. b) , în vederea adăugării profilelor genetice în S.N.D.G.J., se realizează la introducerea în penitenciar, de personalul medical al penitenciarului, cu sprijinul personalului de pază și în prezența unui polițist, fără nicio altă notificare prealabilă din partea instanței de judecată. (3) Prelevarea probelor biologice de la persoanele prevăzute la art. 4 alin. (1) lit. b) , pentru care instanța a pronunțat amânarea aplicării pedepsei sau renunțarea la aplicarea pedepsei, în vederea introducerii profilelor genetice în S.N.D.G.J., se realizează de către personalul Poliției Române instruit în acest sens, imediat după comunicarea hotărârii definitive de condamnare, respectiv a hotărârii prin care instanța a pronunțat amânarea aplicării pedepsei sau renunțarea la aplicarea pedepsei. (la 01-02-2014, Art. 7 a fost modificat de pct. 6 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. ) Notă Potrivit DECIZIEI ÎNALTEI CURȚI DE CASAȚIE ȘI JUSTIȚIE nr. 5 din 16 mai 2016 , publicate în MONITORUL OFICIAL nr. 493 din 1 iulie 2016, în interpretarea și aplicarea unitară a dispozițiilor art. 7 alin. (1) din Legea nr. 76/2008 privind organizarea și funcționarea Sistemului Național de Date Genetice Judiciare se stabilește că: În cazul inculpaților minori sancționați prin aplicarea unor măsuri educative conform noului Cod penal, instanța de judecată nu poate dispune prelevarea probelor biologice pentru obținerea și stocarea în Sistemul Național de Date Genetice Judiciare a profilului genetic."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Prelevarea probelor biologice",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Prelevarea probelor biologice de la locul săvârșirii infracțiunii se realizează de polițiști specializați. (2) Prelevarea probelor biologice de la cadavrele cu identitate necunoscută, cele recoltate cu ocazia efectuării autopsiei, precum și prelevarea probelor biologice prin metode invazive se efectuează de instituțiile medico-legale."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul III - Prelucrarea datelor cu caracter personal și a profilelor genetice introduse în S.N.D.G.J.",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) Autoritatea responsabilă de prelucrarea datelor cuprinse în S.N.D.G.J. este Inspectoratul General al Poliției Române din cadrul Ministerului Internelor și Reformei Administrative, denumit în continuare I.G.P.R., prin Institutul de Criminalistică. Institutul de Criminalistică are calitatea de administrator al S.N.D.G.J. (2) Structurile din I.G.P.R. care gestionează baza de date cu caracter personal, pe de o parte, respectiv baza de date cu profile genetice judiciare și baza de date despre caz, pe de altă parte, sunt două unități distincte ale Institutului de Criminalistică, între care nu există relații de subordonare, iar comunicarea este restricționată. (3) Beneficiarii datelor existente în S.N.D.G.J. sunt organele de urmărire penală și instanțele judecătorești în cauze penale, Serviciul Român de Informații pentru îndeplinirea atribuțiilor legale în domeniul prevenirii și combaterii terorismului, precum și autoritățile judiciare ale altor state, pe bază de reciprocitate sau în temeiul unor acorduri internaționale la care România este parte. (4) Solicitările internaționale de interogare, căutare și verificare a unor date din S.N.D.G.J. se efectuează prin Centrul de Cooperare Polițienească Internațională sau prin alte căi de contact stabilite oficial. (5) Pentru îndeplinirea obiectivelor prevăzute la art. 1 , pot fi efectuate prelucrări de date în S.N.D.G.J., cu respectarea prevederilor alin. (3) și (4) , în temeiul unei solicitări oficiale a organelor de urmărire penală și/sau a instanței de judecată. (6) Prelucrarea datelor cu caracter personal introduse în S.N.D.G.J. se efectuează cu respectarea prevederilor Legii nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date, cu modificările și completările ulterioare. (7) Modalitățile concrete de prelucrare a datelor, inclusiv formularele tipizate necesare, se stabilesc prin normele metodologice de aplicare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul III - Prelucrarea datelor cu caracter personal și a profilelor genetice introduse în S.N.D.G.J.",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Probele biologice prelevate în condițiile prezentei legi și datele din S.N.D.G.J. nu pot fi folosite în alte scopuri decât cele prevăzute de prezenta lege."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul III - Prelucrarea datelor cu caracter personal și a profilelor genetice introduse în S.N.D.G.J.",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Laboratorul de analize genetice judiciare din cadrul I.G.P.R. este abilitat să analizeze probele biologice prelevate de la categoriile prevăzute la art. 4 alin. (1) . Analizele genetice judiciare pot fi efectuate și de alte laboratoare acreditate, conform standardului internațional ISO 17025. (2) Dispozițiile Codului de procedură penală cu privire la expertize se aplică în mod corespunzător și analizelor genetice judiciare efectuate în laboratoarele prevăzute la alin. (1) . (3) Datele de natura celor cuprinse în bazele de date definite la art. 2 lit. d) și f) obținute de laboratoare de genetică, altele decât Institutul de Criminalistică din cadrul I.G.P.R., se transmit administratorului S.N.D.G.J., în vederea înregistrării."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul III - Prelucrarea datelor cu caracter personal și a profilelor genetice introduse în S.N.D.G.J.",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Analizele genetice judiciare se efectuează prin aplicarea tehnicilor de biologie moleculară, iar profilele genetice care se introduc în S.N.D.G.J. nu conțin informații privind starea de sănătate sau alte caracteristici individuale care pot aduce atingere dreptului la viața intimă, familială și privată a persoanei."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul IV - Păstrarea, distrugerea probelor biologice și ștergerea datelor personale din S.N.D.G.J.",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) Profilele genetice introduse în S.N.D.G.J., obținute de la persoanele prevăzute la art. 4 alin. (1) lit. a) , sunt păstrate până când organele de urmărire penală sau instanțele judecătorești dispun ștergerea lor din baza de date. Păstrarea profilelor genetice, a datelor cu caracter personal și a celor despre caz se realizează electronic prin stocarea acestora în fișiere din servere ce au această destinație. (2) În cazul în care s-a dispus clasarea sau renunțarea la urmărirea penală ori, după caz, achitarea sau încetarea procesului penal, ștergerea datelor din S.N.D.G.J. se efectuează în baza ordonanței emise de procuror ori, după caz, în baza hotărârii judecătorești, dacă în cuprinsul acestora există mențiuni exprese cu privire la măsura ștergerii; în aceste situații, dispozitivul ordonanței procurorului ori, după caz, al hotărârii judecătorești se comunică de îndată administratorului S.N.D.G.J. (la 01-02-2014, Alin. (2) al art. 13 a fost modificat de pct. 7 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul IV - Păstrarea, distrugerea probelor biologice și ștergerea datelor personale din S.N.D.G.J.",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) Profilele genetice obținute de la persoanele condamnate definitiv la pedeapsa închisorii pentru săvârșirea infracțiunilor cuprinse în anexă, introduse în S.N.D.G.J., sunt șterse după trecerea unei perioade de 5 ani de la decesul acestora. (2) Profilele genetice obținute de la persoanele prevăzute la art. 4 alin. (1) lit. b) teza a II-a, pentru care instanța de judecată a pronunțat amânarea aplicării pedepsei sau renunțarea la aplicarea pedepsei, introduse în S.N.D.G.J., sunt păstrate timp de 10 ani, iar în cazul în care acestea decedează înainte de împlinirea termenului respectiv, profilele genetice sunt păstrate încă 2 ani după deces, după care sunt șterse. (la 01-02-2014, Art. 14 a fost modificat de pct. 8 al art. 91, Titlul II din LEGEA nr. 255 din 19 iulie 2013, publicată în MONITORUL OFICIAL nr. 515 din 14 august 2013. )"
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul IV - Păstrarea, distrugerea probelor biologice și ștergerea datelor personale din S.N.D.G.J.",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Datele existente în baza definită la art. 2 lit. d) se șterg din evidență odată cu profilele genetice, în condițiile prevăzute la art. 13 și 14 ."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul IV - Păstrarea, distrugerea probelor biologice și ștergerea datelor personale din S.N.D.G.J.",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Profilele genetice provenite de la categoria prevăzută la art. 4 alin. (1) lit. d) și din urmele ridicate de la fața locului sunt păstrate până când se realizează identificarea sau 25 de ani de la înregistrare, nefiind necesară o notificare prealabilă pentru ștergere."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul IV - Păstrarea, distrugerea probelor biologice și ștergerea datelor personale din S.N.D.G.J.",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Probele biologice rămase în urma analizelor genetice pentru persoanele prevăzute la art. 4 alin. (1) lit. a) și b) sunt păstrate în locuri special amenajate și sunt distruse numai odată cu ștergerea profilelor genetice din baza de date."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul V - Dispoziții finale",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Fondurile necesare constituirii și funcționării S.N.D.G.J. se asigură anual din sumele alocate cu această destinație de la bugetul de stat, prin bugetul Ministerului Internelor și Reformei Administrative."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul V - Dispoziții finale",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Ministerul Internelor și Reformei Administrative și Ministerul Justiției elaborează norme metodologice de aplicare a acesteia, referitoare la recoltarea probelor biologice de referință, înregistrarea datelor cu caracter personal, efectuarea analizelor genetice, transmiterea datelor, care se aprobă prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul V - Dispoziții finale",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Prezenta lege intră în vigoare la 6 luni de la data publicării în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "profil genetic",
+      "definition": "codul alfanumeric obținut din materialul genetic, prin aplicarea tehnicilor de biologie moleculară",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "analiză genetică judiciară",
+      "definition": "utilizarea unui set de determinări biochimice prin care informația deținută în anumite fragmente necodate ale macromoleculei de acid dezoxiribonucleic este transformată într-un cod alfanumeric specific fiecărui individ",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "bază de date cu caracter personal",
+      "definition": "componenta S.N.D.G.J. care cuprinde: datele cu caracter personal ale persoanelor prevăzute la art. 4 alin. (1) lit. a) și b) și date despre infracțiunea comisă sau cercetată",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "bază de date despre caz",
+      "definition": "componenta S.N.D.G.J. care cuprinde informații referitoare la infracțiune și alte date de interes pentru munca de poliție, corespondente profilelor genetice ale urmelor biologice ridicate din câmpul infracțional și neatribuite unui autor",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "bază de date cu profile genetice judiciare",
+      "definition": "componenta S.N.D.G.J. care cuprinde profilele genetice ale persoanelor prevăzute la art. 4 alin. (1) lit. a) și b) și ale urmelor biologice prelevate de la fața locului",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "urme biologice",
+      "definition": "urmele care au în componență celule, țesuturi sau secreții umane",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "probe biologice",
+      "definition": "orice urmă sau obiect care are legătură cu o infracțiune, cu cadavrele cu identitate necunoscută ori cu persoanele dispărute și cele decedate în urma catastrofelor naturale sau a accidentelor în masă și a cărei/cărui examinare este necesară pentru stabilirea unei situații de fapt ori pentru identificarea obiectelor sau persoanelor",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "metode noninvazive",
+      "definition": "modalitățile de recoltare a probelor biologice de la persoane fizice, ce nu aduc atingere intimității și integrității corporale ale persoanei.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

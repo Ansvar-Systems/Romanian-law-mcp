@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-98827",
+  "type": "statute",
+  "title": "LEGE nr. 239 din 31 octombrie 2008",
+  "short_name": "lege 239 31 10 2008",
+  "status": "in_force",
+  "issued_date": "2008-10-31",
+  "in_force_date": "2008-10-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/98827",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 239 31/10/2008",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatele (1) și (2) ale articolului 5 din Legea nr. 118/2002 pentru instituirea indemnizației de merit, publicată în Monitorul Oficial al României, Partea I, nr. 189 din 20 martie 2002, cu modificările și completările ulterioare, se modifică și vor avea următorul cuprins: Articolul 5 (1) Cuantumul lunar al indemnizației de merit este egal cu o sumă ce reprezintă de 3 ori valoarea salariului minim brut pe țară garantat în plată și este neimpozabil. (2) Numărul total de indemnizații de merit este de 1.650.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254211",
+  "type": "statute",
+  "title": "LEGE nr. 99 din 14 aprilie 2022",
+  "short_name": "lege 99 14 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-14",
+  "in_force_date": "2022-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254211",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 99 14/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 94 din 30 august 2021 pentru modificarea Legii nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 830 din 31 august 2021."
+    }
+  ],
+  "definitions": []
+}

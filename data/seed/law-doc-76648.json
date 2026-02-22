@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-76648",
+  "type": "statute",
+  "title": "LEGE nr. 401 din 31 octombrie 2006",
+  "short_name": "lege 401 31 10 2006",
+  "status": "in_force",
+  "issued_date": "2006-10-31",
+  "in_force_date": "2006-10-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/76648",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 401 31/10/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 35 din 10 mai 2006 pentru completarea Ordonanței de urgență a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare și privatizare a unor societăți naționale, companii naționale și societăți comerciale cu capital majoritar de stat, precum și a societăților comerciale și regiilor autonome subordonate autorităților administrației publice locale, publicată în Monitorul Oficial al României, Partea I, nr. 420 din 16 mai 2006, cu următoarea modificare: – La articolul unic, punctul 2 va avea următorul cuprins: 2. După articolul 15 se introduce un nou articol, articolul 15^1, cu următorul cuprins: Articolul 15^1 (1) Măsurile de sprijin susceptibile de a constitui ajutoare de stat, prevăzute de prezenta ordonanță de urgență, vor fi notificate Consiliului Concurenței de către inițiator/furnizor, conform reglementărilor în vigoare în domeniul ajutorului de stat, iar ajutorul de stat va fi efectiv acordat numai după autorizarea acestuia. (2) În cazul actelor administrative emise și al contractelor administrative încheiate fără respectarea obligației prevăzute la alin. (1), Consiliul Concurenței va solicita instanțelor de judecată competente anularea actului administrativ prin care s-a acordat ajutorul ilegal și, pe cale de consecință, recuperarea, rambursarea sau suspendarea plății oricărui ajutor ilegal."
+    }
+  ],
+  "definitions": []
+}

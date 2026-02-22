@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-186997",
+  "type": "statute",
+  "title": "LEGE nr. 10 din 1 martie 2017",
+  "short_name": "lege 10 01 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-01",
+  "in_force_date": "2017-03-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/186997",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 10 01/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 59 din 28 septembrie 2016 pentru modificarea art. 890 din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, publicată în Monitorul Oficial al României, Partea I, nr. 768 din 30 septembrie 2016."
+    }
+  ],
+  "definitions": []
+}

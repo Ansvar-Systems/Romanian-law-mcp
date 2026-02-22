@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208050",
+  "type": "statute",
+  "title": "LEGE nr. 281 din 26 noiembrie 2018",
+  "short_name": "lege 281 26 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-26",
+  "in_force_date": "2018-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208050",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 281 26/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 35 din 10 mai 2018 privind desființarea Autorității Metropolitane de Transport București din subordinea Ministerului Transporturilor, publicată în Monitorul Oficial al României, Partea I, nr. 407 din 14 mai 2018."
+    }
+  ],
+  "definitions": []
+}

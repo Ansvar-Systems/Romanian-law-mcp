@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-190105",
+  "type": "statute",
+  "title": "LEGE nr. 138 din 13 iunie 2017",
+  "short_name": "lege 138 13 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-13",
+  "in_force_date": "2017-06-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190105",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 138 13/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 13 din 26 martie 2014 pentru modificarea anexei la Ordonanța Guvernului nr. 7/2013 privind instituirea impozitului asupra veniturilor suplimentare obținute ca urmare a dereglementării prețurilor din sectorul gazelor naturale, publicată în Monitorul Oficial al României, Partea I, nr. 227 din 31 martie 2014."
+    }
+  ],
+  "definitions": []
+}

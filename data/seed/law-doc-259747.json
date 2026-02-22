@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-259747",
+  "type": "statute",
+  "title": "LEGE nr. 271 din 28 septembrie 2022",
+  "short_name": "lege 271 28 09 2022",
+  "status": "in_force",
+  "issued_date": "2022-09-28",
+  "in_force_date": "2022-09-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/259747",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 271 28/09/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 87 din 11 august 2021 privind completarea art. 3 din Ordonanța de urgență a Guvernului nr. 82/2016 pentru aprobarea Statutului special al funcției publice specifice de inspector social și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 787 din 16 august 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-253178",
+  "type": "statute",
+  "title": "LEGE nr. 68 din 23 martie 2022",
+  "short_name": "lege 68 23 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-23",
+  "in_force_date": "2022-03-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253178",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 68 23/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul, încheiat la Montreal la 4 aprilie 2014 și semnat de România la 13 decembrie 2019, pentru amendarea Convenției referitoare la infracțiuni și la anumite alte acte săvârșite la bordul aeronavelor, încheiată la Tokyo la 14 septembrie 1963, la care România a aderat prin Decretul Consiliului de Stat nr. 627 din 21 noiembrie 1973."
+    }
+  ],
+  "definitions": []
+}

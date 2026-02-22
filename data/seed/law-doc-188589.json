@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188589",
+  "type": "statute",
+  "title": "LEGE nr. 74 din 25 aprilie 2017",
+  "short_name": "lege 74 25 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-25",
+  "in_force_date": "2017-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188589",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 74 25/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 26 din 28 iunie 2016 pentru modificarea Legii nr. 277/2010 privind alocaţia pentru susţinerea familiei, publicată în Monitorul Oficial al României, Partea I, nr. 486 din 29 iunie 2016."
+    }
+  ],
+  "definitions": []
+}

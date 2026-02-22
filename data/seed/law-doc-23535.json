@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-23535",
+  "type": "statute",
+  "title": "LEGE nr. 149 din 26 iulie 2000",
+  "short_name": "lege 149 26 07 2000",
+  "status": "in_force",
+  "issued_date": "2000-07-26",
+  "in_force_date": "2000-07-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/23535",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 149 26/07/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 5 din 21 ianuarie 2000 pentru completarea Legii nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale și necorporale, emisă în temeiul art. 1 lit. B pct. 32 din Legea nr. 206/1999 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 26 din 25 ianuarie 2000, cu următoarea modificare: – La articolul I, după punctul 1 se introduce punctul 1^1 cu următorul cuprins: 1^1. La articolul 11 se introduce un nou alineat cu următorul cuprins: Amortizarea mijloacelor fixe care fac obiectul unui contract de leasing operational se calculează de finanțator, cu posibilitatea amortizarii întregii valori a mijlocului fix minus valoarea reziduala prevăzută în contract, pe parcursul duratei contractului, dar nu mai puțin de 3 ani."
+    }
+  ],
+  "definitions": []
+}

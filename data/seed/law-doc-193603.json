@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-193603",
+  "type": "statute",
+  "title": "LEGE nr. 27 din 14 decembrie 1979",
+  "short_name": "lege 27 14 12 1979",
+  "status": "in_force",
+  "issued_date": "1979-12-14",
+  "in_force_date": "1979-12-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/193603",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 27 14/12/1979",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 280/1979 pentru aplicarea majorării retribuției personalului muncitor, în cadrul celei de-a II-a etape prevăzute pentru cincinalul 1976-1980."
+    }
+  ],
+  "definitions": []
+}

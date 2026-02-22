@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-104378",
+  "type": "statute",
+  "title": "LEGE nr. 54 din 1 aprilie 2009",
+  "short_name": "lege 54 01 04 2009",
+  "status": "in_force",
+  "issued_date": "2009-04-01",
+  "in_force_date": "2009-04-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/104378",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 54 01/04/2009",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 117 din 24 septembrie 2008 privind aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a unor cantități de combustibili pentru unele centrale electrice și termice aflate în coordonarea Ministerului Economiei și Finanțelor, Autorității pentru Valorificarea Activelor Statului și a Ministerului Internelor și Reformei Administrative, precum și prorogarea termenului prevăzut la art. 1 din Ordonanța de urgență a Guvernului nr. 136/2007 privind aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a unor cantități de combustibil pentru Societatea Comercială \"Termoelectrica\" - S.A., Societatea Comercială \"Electrocentrale\" București - S.A., Societatea Comercială \"Electrocentrale\" Galați - S.A., Regia Autonomă pentru Activități Nucleare - Sucursala \"ROMAG-TERMO\", Societatea Comercială \"Complexul Energetic Rovinari\" - S.A., Societatea Comercială \"Complexul Energetic Turceni\" - S.A., Societatea Comercială \"Complexul Energetic Craiova\" - S.A. și pentru centralele termice și electrice de termoficare aflate în administrarea consiliilor județene și locale, publicată în Monitorul Oficial al României, Partea I, nr. 686 din 8 octombrie 2008, cu următoarea modificare: – În titlul și în cuprinsul ordonanței de urgență , denumirile \"Ministerul Economiei și Finanțelor\" și \"Ministerul Internelor și Reformei Administrative\" se înlocuiesc cu denumirea \"Ministerul Economiei\", respectiv cu denumirea \"Ministerul Administrației și Internelor\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262394",
+  "type": "statute",
+  "title": "LEGE nr. 340 din 9 decembrie 2022",
+  "short_name": "lege 340 09 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-09",
+  "in_force_date": "2022-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262394",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 340 09/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 144 din 30 decembrie 2021 pentru modificarea și completarea Legii serviciului de alimentare cu apă și de canalizare nr. 241/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 1258 din 31 decembrie 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-253564",
+  "type": "statute",
+  "title": "LEGE nr. 75 din 1 aprilie 2022",
+  "short_name": "lege 75 01 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-01",
+  "in_force_date": "2022-04-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253564",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 75 01/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 99 din 10 septembrie 2021 privind modificarea unor acte normative din domeniul învățământului, precum și pentru modificarea și completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 876 din 13 septembrie 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-57902",
+  "type": "statute",
+  "title": "LEGE nr. 599 din 15 decembrie 2004",
+  "short_name": "lege 599 15 12 2004",
+  "status": "in_force",
+  "issued_date": "2004-12-15",
+  "in_force_date": "2004-12-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/57902",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 599 15/12/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 177 din 20 decembrie 2001 privind unele măsuri de redresare financiară în vederea finalizării procesului de privatizare a Societății Comerciale \"Rafo\" - S.A. Onești, publicată în Monitorul Oficial al României, Partea I, nr. 839 din 27 decembrie 2001, cu următoarea modificare: – La articolul 6, alineatul (3) va avea următorul cuprins: (3) Acțiunile emise de societate ca urmare a conversiilor, aparținând creditorilor prevăzuți la art. 3, se transferă către APAPS pe bază de protocol, în vederea vânzării acestora către investitorul strategic la un preț pe acțiune rezultat din raportarea sumei cu titlu de plăți suplimentare efectuate de către cumpărător pentru achiziționarea acțiunilor în cauză, în conformitate cu cap. 9 din contract, la numărul de acțiuni aferent conversiei în cauză."
+    }
+  ],
+  "definitions": []
+}

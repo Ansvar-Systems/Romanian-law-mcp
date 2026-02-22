@@ -1,0 +1,235 @@
+{
+  "id": "law-doc-138881",
+  "type": "statute",
+  "title": "LEGE nr. 82 din 13 iunie 2012 (*republicată*)",
+  "short_name": "lege 82 13 06 2012",
+  "status": "in_force",
+  "issued_date": "2012-06-13",
+  "in_force_date": "2012-06-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/138881",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 82 13/06/2012",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta lege stabileşte obligaţia furnizorilor de reţele publice de comunicaţii electronice şi a furnizorilor de servicii de comunicaţii electronice destinate publicului de a reţine anumite date generate sau prelucrate în cadrul activităţii lor pentru punerea acestora la dispoziţia organelor de urmărire penală, instanţelor de judecată şi organelor de stat cu atribuţii în domeniul siguranţei naţionale în scopul utilizării lor în cadrul activităţilor de prevenire, de cercetare, de descoperire şi de urmărire penală a infracţiunilor grave sau pentru rezolvarea cauzelor cu persoane dispărute ori pentru punerea în executare a unui mandat de arestare sau de executare a pedepsei. (2) Prezenta lege se aplică datelor de trafic şi de localizare a persoanelor fizice şi a persoanelor juridice, precum şi datelor necesare pentru identificarea unui abonat sau unui utilizator înregistrat. (3) Prezenta lege se aplică doar datelor generate sau prelucrate ca urmare a unei comunicaţii ori a unui serviciu de comunicaţii şi nu se aplică în ceea ce priveşte conţinutul comunicării sau informaţiilor consultate în timpul utilizării unei reţele de comunicaţii electronice, în aceste cazuri fiind aplicabile prevederile Codului de procedură penală, precum şi cele ale legilor speciale în materie. (4) Punerea în aplicare a prevederilor prezentei legi se face cu respectarea dispoziţiilor Legii nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date, cu modificările şi completările ulterioare, precum şi ale Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice, cu modificările şi completările ulterioare, precum şi cu modificările şi completările aduse prin prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În înţelesul prezentei legi, termenii şi expresiile de mai jos au următoarele semnificaţii: a) date - informaţiile privind traficul, localizarea, precum şi informaţiile necesare pentru identificarea unui abonat sau a unui utilizator; b) utilizator - persoana fizică sau persoana juridică ce foloseşte un serviciu de comunicaţii electronice destinat publicului în scopuri personale sau profesionale, fără a fi în mod necesar abonat al acelui serviciu; c) abonat - persoana fizică sau persoana juridică ce a încheiat un contract cu un furnizor de servicii de comunicaţii electronice destinate publicului, în vederea furnizării unor asemenea servicii; d) serviciu de telefonie - apelul, inclusiv voce, mesagerie vocală, teleconferinţă şi transfer de date, serviciile suplimentare, inclusiv redirecţionarea şi transferul apelului şi serviciile de mesagerie şi multimedia, inclusiv serviciile de mesagerie scurtă, serviciile multimedia îmbunătăţite; e) infracţiune gravă - infracţiunea care face parte din una dintre următoarele categorii: 1. infracţiunile prevăzute la art. 2 lit. b) din Legea nr. 39/2003 privind prevenirea şi combaterea criminalităţii organizate, cu modificările ulterioare, săvârşite sau nu de un grup infracţional organizat; 2. infracţiunile prevăzute în cap. IV din Legea nr. 535/2004 privind prevenirea şi combaterea terorismului, cu modificările şi completările ulterioare; 3. următoarele infracţiuni prevăzute de Legea nr. 286/2009 privind Codul penal, cu modificările şi completările ulterioare: infracţiunile contra securităţii naţionale a statului, uciderea ori vătămarea nou-născutului săvârşită de către mamă, vătămare corporală, viol, tâlhărie şi tâlhărie calificată, actul sexual cu un minor, distrugerea şi distrugerea calificată, ultrajul, evadarea şi înlesnirea evadării, infracţiunile de falsuri în înscrisuri, constituirea unui grup infracţional organizat, furtul calificat, înşelăciunea şi înşelăciunea privind asigurările, falsificarea de titluri de credit sau instrumente de plată atunci când priveşte un instrument de plată electronică, şantajul şi pornografia infantilă; 4. infracţiunile de corupţie, infracţiunile asimilate acestora, precum şi infracţiunile împotriva intereselor financiare ale Uniunii Europene, prevăzute de Legea nr. 78/2000 pentru prevenirea, descoperirea şi sancţionarea faptelor de corupţie, cu modificările şi completările ulterioare; 5. infracţiuni de evaziune fiscală prevăzute la art. 9 din Legea nr. 241/2005 pentru prevenirea şi combaterea evaziunii fiscale, cu modificările ulterioare; f) identificatorul utilizatorului - codul unic de identificare alocat unei persoane care se abonează sau se înregistrează la un serviciu de acces la internet ori la un serviciu de comunicaţii prin internet; g) identificatorul celulei - codul de identificare a celulei în care se iniţiază sau se finalizează un apel de telefonie mobilă; h) apel telefonic nereuşit - comunicarea în cadrul căreia apelul telefonic a fost conectat, dar nu a primit răspuns sau a făcut obiectul unei intervenţii din partea administratorului reţelei; i) apel neconectat - apelul iniţiat de la un terminal telefonic sau echipament cu acces la un serviciu de telefonie, dar care nu s-a finalizat tehnic, în sensul stabilirii unei conexiuni între apelant şi apelat. (2) În tot cuprinsul prezentei legi sunt, de asemenea, aplicabile definiţiile prevăzute la art. 3 din Legea nr. 677/2001 , cu modificările şi completările ulterioare, la art. 2 din Legea nr. 506/2004 , cu modificările şi completările ulterioare şi cu modificările şi completările aduse prin prezenta lege, precum şi la art. 4 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 111/2011 privind comunicaţiile electronice, aprobată cu modificări şi completări prin Legea nr. 140/2012 ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului au obligaţia de a asigura, pe cheltuială proprie, crearea şi administrarea unor baze de date în format electronic, în vederea reţinerii următoarelor categorii de date, în măsura în care sunt generate sau prelucrate de aceştia: a) date necesare pentru urmărirea şi identificarea sursei unei comunicări; b) date necesare pentru identificarea destinaţiei unei comunicări; c) date necesare pentru a determina data, ora şi durata comunicării; d) date necesare pentru identificarea tipului de comunicare; e) date necesare pentru identificarea echipamentului de comunicaţie al utilizatorului sau a dispozitivelor ce servesc utilizatorului drept echipament; f) date necesare pentru identificarea locaţiei echipamentului de comunicaţii mobile. (2) Datele prevăzute la alin. (1) se reţin şi se păstrează timp de 6 luni de la data efectuării comunicării. (3) Cheltuielile legate de crearea şi administrarea bazelor de date sunt deductibile fiscal."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Datele necesare pentru urmărirea şi identificarea sursei unei comunicări cuprind: a) în cazul reţelelor de telefonie fixă şi de telefonie mobilă: numărul de telefon apelant, precum şi numele şi adresa abonatului sau ale utilizatorului înregistrat; b) în cazul serviciilor de acces la internet, poştă electronică şi telefonie prin internet: 1. identificatorul alocat; 2. identificatorul de utilizator şi numărul de telefon alocat pentru efectuarea oricărei comunicări prin reţeaua publică de telefonie; 3. numele şi adresa abonatului sau ale utilizatorului înregistrat, căruia i s-a alocat o adresă Internet Protocol, denumită în continuare adresă IP, un identificator de utilizator sau un număr de telefon, la momentul comunicării."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Datele necesare pentru identificarea destinaţiei unei comunicări cuprind: a) în cazul reţelelor de telefonie fixă şi de telefonie mobilă: 1. numărul format sau apelat şi, în cazurile care includ servicii suplimentare precum redirecţionarea sau transferul apelului, numărul către care este direcţionat apelul; 2. numele şi adresa abonatului ori ale utilizatorului înregistrat; b) în cazul serviciilor de acces la internet, poştă electronică şi telefonie prin internet: 1. identificatorul utilizatorului sau numărul de telefon al destinatarului unui apel telefonic prin internet; 2. numele şi adresa abonatului sau ale utilizatorului înregistrat şi identificatorul utilizatorului destinatar al comunicării."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Datele necesare pentru determinarea datei, orei şi a duratei comunicării cuprind: a) în cazul reţelelor de telefonie fixă şi de telefonie mobilă: data şi ora iniţierii şi încheierii unei comunicări; b) în cazul serviciilor de acces la internet, poştă electronică şi telefonie prin internet: 1. data şi ora conectării şi deconectării de la serviciul de acces la internet, adresa IP alocată dinamic sau static unei comunicări de furnizorul de servicii de acces la internet, precum şi identificatorul abonatului sau al utilizatorului înregistrat; 2. data şi ora conectării şi deconectării de la serviciul de poştă electronică sau de telefonie prin internet."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Datele necesare pentru identificarea tipului de comunicare cuprind: a) în cazul reţelelor de telefonie fixă şi de telefonie mobilă: informaţii privind serviciul de telefonie utilizat; b) în cazul comunicărilor prin serviciul de poştă electronică şi de telefonie prin internet: informaţii privind serviciul de acces la internet utilizat."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Datele necesare pentru identificarea echipamentului de comunicaţie al utilizatorului sau a dispozitivelor ce servesc utilizatorului drept echipament cuprind: a) în cazul reţelelor de telefonie fixă: numărul de telefon al apelantului şi numărul de telefon al apelatului; b) în cazul reţelelor de telefonie mobilă: 1. numărul de telefon al apelantului şi numărul de telefon al apelatului; 2. identitatea internaţională de abonat mobil, denumită în continuare IMSI, a apelantului; 3. identitatea internaţională a echipamentului mobil, denumită în continuare IMEI, a apelantului; 4. identitatea IMSI a apelatului; 5. identitatea IMEI a apelatului; 6. în cazul serviciilor anonime preplătite: data şi ora activării iniţiale a serviciului, precum şi identificatorul celulei de la care a fost activat serviciul; c) în cazul serviciilor de acces la internet, poştă electronică şi telefonie prin internet: numărul de telefon al apelantului în cazul accesului prin dial-up; linia DSL sau alt punct terminal al celui care iniţiază comunicarea."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Datele necesare pentru identificarea locaţiei echipamentului de comunicaţii mobile cuprind: a) identificatorul celulei la începutul comunicării; b) datele care permit stabilirea localizării geografice a celulelor, prin referire la identificatorul acestora, pe durata în care datele comunicării sunt reţinute."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului, aflaţi sub jurisdicţie română, au obligaţia reţinerii datelor referitoare la un apel nereuşit în cazul în care aceste date sunt generate sau prelucrate şi stocate, în cazul serviciului de telefonie, ori înregistrate, în cazul serviciului de acces la internet în cadrul activităţii de furnizare a serviciilor respective. (2) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului nu au obligaţia reţinerii datelor prevăzute la art. 3 alin. (1) în cazul apelurilor neconectate."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului, pe lângă datele reţinute potrivit prezentei legi, pot reţine şi alte date necesare activităţii lor comerciale, şi anume pentru facturare sau alte plăţi pentru interconectare, precum şi alte date prelucrate potrivit legii, la cererea clienţilor, în scopuri de comercializare ori în vederea furnizării de servicii, numai cu acordul prealabil al persoanei ale cărei date sunt prelucrate, cu respectarea prevederilor Legii nr. 506/2004 , cu modificările şi completările ulterioare, precum şi cu modificările şi completările aduse prin prezenta lege. (2) Datele reţinute potrivit alin. (1) sunt exceptate de la prevederile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) În aplicarea prevederilor prezentei legi sunt interzise interceptarea şi reţinerea conţinutului comunicării sau a informaţiilor consultate în timpul utilizării unei reţele de comunicaţii electronice, în aceste cazuri fiind aplicabile prevederile Codului de procedură penală şi cele ale legilor speciale în materie. (2) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului au obligaţia de a reţine numai acele categorii de date enumerate la art. 3 alin. (1), care sunt generate sau prelucrate ca urmare a desfăşurării activităţilor proprii în condiţiile legii. (3) La sfârşitul perioadei de reţinere, toate datele reţinute exclusiv în temeiul prezentei legi, cu excepţia datelor accesate şi reţinute conform legii, puse la dispoziţia autorităţilor prevăzute la art. 1 alin. (1), trebuie distruse, prin proceduri ireversibile, la data expirării termenului prevăzut la art. 3 alin. (2). Procedura distrugerii datelor reţinute conform prezentei legi va fi reglementată prin normele metodologice de aplicare a prezentei legi, aprobate prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Activitatea de reţinere a datelor se realizează cu respectarea următoarelor principii: a) datele reţinute trebuie să fie de aceeaşi calitate şi trebuie supuse aceleiaşi securităţi şi protecţii ca şi datele din reţea; b) datele reţinute trebuie supuse unor măsuri tehnice şi organizatorice corespunzătoare, în vederea protejării acestora împotriva distrugerilor accidentale sau intenţionate, alterării ori pierderii accidentale, stocării, prelucrării, accesării sau dezvăluirii neautorizate ori ilicite; c) datele reţinute trebuie supuse unor măsuri tehnice şi organizatorice corespunzătoare, în vederea asigurării faptului că numai personalul autorizat în acest sens are acces la aceste date; d) datele sunt distruse la expirarea termenului prevăzut la art. 3 alin. (2), cu excepţia celor care au fost accesate şi reţinute."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) În situaţia în care datele prevăzute la art. 4-9 pot fi reţinute de mai mulţi furnizori de servicii de comunicaţii electronice destinate publicului şi de reţele publice de comunicaţii electronice, activitatea de reţinere a datelor se face doar la furnizorul care prelucrează datele prevăzute la art. 3. (2) Activitatea de reţinere a datelor prevăzute la art. 4-9 poate fi desfăşurată, acolo unde este tehnic posibil şi în urma unei înţelegeri contractuale, de un terţ, în numele unui furnizor de servicii de comunicaţii electronice destinate publicului şi de reţele publice de comunicaţii electronice, cu respectarea prevederilor art. 19 şi 20 din Legea nr. 677/2001 , cu modificările şi completările ulterioare, ale Legii nr. 506/2004 , cu modificările şi completările ulterioare şi cu modificările şi completările aduse prin prezenta lege, precum şi ale prezentei legi. (3) Obligaţia de reţinere a datelor prevăzute la art. 4-9 se aplică furnizorilor de servicii de comunicaţii electronice destinate publicului şi de reţele publice de comunicaţii electronice care alocă numerotaţie, inclusiv în situaţia portării numerelor, în cazul serviciilor de telefonie fixă şi mobilă, respectiv adrese IP, în cazul serviciilor de date."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "(1) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului au obligaţia de a colecta şi de a transmite anual Ministerului pentru Societatea Informaţională următoarele date statistice, în vederea urmăririi şi controlului aplicării prevederilor cuprinse în prezenta lege: a) numărul cazurilor în care informaţiile au fost furnizate organelor de urmărire penală, instanţelor de judecată şi organelor de stat cu atribuţii în domeniul securităţii naţionale, în conformitate cu prevederile prezentei legi; b) perioada de timp scursă între data la care datele au fost reţinute şi data la care organele de urmărire penală, instanţele de judecată sau organele de stat cu atribuţii în domeniul securităţii naţionale au solicitat transmiterea acestor date; c) numărul de cazuri în care solicitările de date nu au putut fi îndeplinite. (2) Termenele până la care trebuie transmise datele statistice se stabilesc prin normele metodologice de aplicare a prezentei legi. (3) Ministerul pentru Societatea Informaţională centralizează datele statistice primite de la furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului şi transmite anual Comisiei Europene statisticile elaborate în baza acestora. Statisticile nu vor conţine date cu caracter personal sau informaţii clasificate."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "(1) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului au obligaţia ca, la solicitarea organelor de urmărire penală, a instanţelor de judecată şi a organelor de stat cu atribuţii în domeniul securităţii naţionale, formulată în aplicarea dispoziţiilor Codului de procedură penală, precum şi a celor din legile speciale în materie, să transmită acestora, în cel mult 48 de ore de la data solicitării, datele reţinute potrivit prezentei legi. (2) În cazul în care nu este posibilă transmiterea informaţiilor solicitate în termenul prevăzut la alin. (1), furnizorii sunt obligaţi să anunţe solicitantul cu privire la motivul întârzierii şi, în orice caz, să transmită informaţiile solicitate în cel mult 5 zile de la data solicitării iniţiale. (3) Solicitările organelor de urmărire penală, ale instanţelor de judecată şi ale organelor de stat cu atribuţii în domeniul securităţii naţionale se vor face cu invocarea temeiului legal existent şi se vor transmite în format electronic, semnate cu semnătură electronică extinsă bazată pe un certificat calificat eliberat de un furnizor de servicii de certificare acreditat. (4) Furnizorii de reţele publice de comunicaţii electronice şi furnizorii de servicii de comunicaţii electronice destinate publicului au obligaţia să asigure semnarea datelor solicitate, utilizând o semnătură electronică extinsă bazată pe un certificat calificat eliberat de un furnizor de servicii de certificare acreditat. Semnarea electronică a datelor se va face în mod automat în momentul extragerii lor din bazele de date prevăzute la art. 3 alin. (1). (5) Orice persoană autorizată care transmite date reţinute în baza prezentei legi are obligaţia să semneze datele transmise, utilizând o semnătură electronică extinsă bazată pe un certificat calificat eliberat de un furnizor de servicii de certificare acreditat, asumându-şi astfel responsabilitatea în ceea ce priveşte integritatea datelor transmise. (6) Orice persoană autorizată care primeşte date reţinute în baza prezentei legi are obligaţia să verifice integritatea datelor primite şi să certifice această integritate prin semnarea datelor, utilizând o semnătură electronică extinsă bazată pe un certificat calificat eliberat de un furnizor de servicii de certificare acreditat. (7) Fiecare persoană care certifică datele sub semnătură electronică răspunde potrivit legii pentru integritatea şi securitatea acestor date. (8) Aplicarea prevederilor alin. (3)-(7) se face cu respectarea procedurilor stabilite prin normele metodologice de aplicare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Dacă în cauză s-a dispus o soluţie de clasare sau renunţare la urmărirea penală, procurorul este obligat ca în termen de 5 zile de la dispunerea soluţiei să înştiinţeze despre aceasta persoana ale cărei date au fost vizate de solicitare."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Organele de urmărire penală pot solicita datele reţinute în baza prezentei legi cu respectarea prevederilor art. 152 din Legea nr. 135/2010 privind Codul de procedură penală, cu modificările şi completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Dacă în cauză s-a dispus o soluţie de clasare sau renunţare la urmărirea penală, suportul pe care sunt stocate informaţiile se arhivează la sediul parchetului, în locuri speciale, în plic sigilat, cu asigurarea confidenţialităţii, şi se păstrează până la îndeplinirea termenului de prescripţie a răspunderii penale pentru fapta ce a format obiectul cauzei, când se distruge, încheind un proces-verbal în acest sens. (2) Dacă în cauză instanţa a pronunţat o hotărâre de condamnare, renunţare la aplicarea pedepsei, amânare a aplicării pedepsei, achitarea sau încetarea procesului penal, rămasă definitivă, datele reţinute se arhivează odată cu dosarul cauzei, la sediul instanţei, cu respectarea prevederilor legale privind arhivarea documentelor în formă electronică."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul II - Reţinerea datelor",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Autorităţile competente să monitorizeze aplicarea prevederilor prezentei legi sunt Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal, denumită în continuare A.N.S.P.D.C.P. şi Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii, denumită în continuare ANCOM."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul III - Contravenţii şi sancţiuni",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "(1) Constituie contravenţii şi se sancţionează cu amendă de la 2.500 lei la 500.000 lei următoarele fapte: a) neîndeplinirea obligaţiilor prevăzute la art. 3 alin. (1); b) neîndeplinirea obligaţiilor prevăzute la art. 3 alin. (2); c) neîndeplinirea obligaţiilor prevăzute la art. 12 alin. (2) şi (3); d) nerespectarea principiilor prevăzute la art. 13; e) neîndeplinirea obligaţiilor prevăzute la art. 16 alin. (1) şi (2); f) neîndeplinirea obligaţiilor prevăzute la art. 25 alin. (4). (2) Constatarea contravenţiilor prevăzute la alin. (1) lit. b), c), d) şi e), precum şi aplicarea sancţiunilor se efectuează de către personalul de control împuternicit în acest scop al A.N.S.P.D.C.P. (3) Constatarea contravenţiilor prevăzute la alin. (1) lit. a) şi f) şi aplicarea sancţiunilor se fac de persoane împuternicite în acest sens din cadrul ANCOM. (4) Contravenţiilor prevăzute la alin. (1) le sunt aplicabile dispoziţiile Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002 , cu modificările şi completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul III - Contravenţii şi sancţiuni",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "(1) Orice accesare intenţionată, alterare sau transfer al datelor reţinute în baza prezentei legi, fără autorizare, constituie infracţiune şi se pedepseşte cu închisoare de la unu la 5 ani. (2) Tentativa se pedepseşte."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul III - Contravenţii şi sancţiuni",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Nerespectarea obligaţiei de comunicare în termenul prevăzut la art. 17 atrage răspunderea penală, în condiţiile legii."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul IV - Dispoziţii finale",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "La data intrării în vigoare a prezentei legi, Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice, publicată în Monitorul Oficial al României, Partea I, nr. 1.101 din 25 noiembrie 2004, cu modificările şi completările ulterioare, se modifică şi se completează după cum urmează: 1. La articolul 5, alineatele (1) şi (6) se modifică şi vor avea următorul cuprins: \"Art. 5. - (1) Datele de trafic referitoare la abonaţi şi utilizatori înregistraţi, prelucrate şi reţinute de către furnizorul unei reţele publice de comunicaţii electronice sau de către furnizorul unui serviciu de comunicaţii electronice destinat publicului, trebuie să fie şterse sau transformate în date anonime atunci când nu mai sunt necesare la transmiterea unei comunicări, cu excepţia situaţiilor prevăzute la alin. (2), (3) şi (5). ...................................................................... (6) Prevederile alin. (1)-(3) şi (5) nu aduc atingere posibilităţii organelor de urmărire penală, instanţelor de judecată şi organelor de stat cu atribuţii în domeniul securităţii naţionale de a avea acces la datele de trafic, în condiţiile legii.\" 2. La articolul 8, după alineatul (5) se introduce un nou alineat, alineatul (6), cu următorul cuprins: \"(6) Dispoziţiile prezentului articol nu aduc atingere posibilităţii organelor de urmărire penală, instanţelor de judecată şi organelor de stat cu atribuţii în domeniul securităţii naţionale de a avea acces la datele generate sau prelucrate şi păstrate de furnizorii de reţele publice de comunicaţii şi de furnizorii de servicii de comunicaţii electronice destinate publicului, în condiţiile legii.\""
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul IV - Dispoziţii finale",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "(1) Prezenta lege intră în vigoare la 3 zile de la data publicării în Monitorul Oficial al României, Partea I, cu excepţia prevederilor art. 12 alin. (3) şi art. 16 alin. (3)-(8), care intră în vigoare la 90 de zile de la data publicării prezentei legi în Monitorul Oficial al României, Partea I, şi a prevederilor art. 21 alin. (1) lit. a) şi e), care intră în vigoare la 6 luni de la data publicării prezentei legi în Monitorul Oficial al României, Partea I. (2) În termen de 3 luni de la intrarea în vigoare a prezentei legi potrivit alin. (1) teza I, Guvernul, la propunerea Ministerului pentru Societatea Informaţională, Ministerului Afacerilor Interne şi Ministerului Justiţiei, aprobă prin hotărâre normele metodologice de aplicare a prezentei legi. (3) Furnizorii de reţele publice de comunicaţii şi furnizorii de servicii de comunicaţii electronice destinate publicului vor duce la îndeplinire obligaţia prevăzută la art. 3 alin. (1) şi (2), cel mai târziu în termen de 6 luni de la intrarea în vigoare a prezentei legi. (4) Până la împlinirea termenului de 6 luni prevăzut la alin. (3), furnizorii de reţele publice de comunicaţii şi furnizorii de servicii de comunicaţii electronice destinate publicului au obligaţia de a informa ANCOM, la cerere, cu privire la acţiunile întreprinse în vederea creării bazelor de date prevăzute la art. 3 alin. (1). (5) Până la împlinirea termenului de 90 de zile prevăzut la alin. (1), solicitările organelor de urmărire penală, instanţelor de judecată şi organelor de stat cu atribuţii în domeniul securităţii naţionale se vor face cu respectarea dispoziţiilor legale în vigoare. _________"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "date",
+      "definition": "informaţiile privind traficul, localizarea, precum şi informaţiile necesare pentru identificarea unui abonat sau a unui utilizator",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "utilizator",
+      "definition": "persoana fizică sau persoana juridică ce foloseşte un serviciu de comunicaţii electronice destinat publicului în scopuri personale sau profesionale, fără a fi în mod necesar abonat al acelui serviciu",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "abonat",
+      "definition": "persoana fizică sau persoana juridică ce a încheiat un contract cu un furnizor de servicii de comunicaţii electronice destinate publicului, în vederea furnizării unor asemenea servicii",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "serviciu de telefonie",
+      "definition": "apelul, inclusiv voce, mesagerie vocală, teleconferinţă şi transfer de date, serviciile suplimentare, inclusiv redirecţionarea şi transferul apelului şi serviciile de mesagerie şi multimedia, inclusiv serviciile de mesagerie scurtă, serviciile multimedia îmbunătăţite",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "infracţiune gravă",
+      "definition": "infracţiunea care face parte din una dintre următoarele categorii: 1. infracţiunile prevăzute la art. 2 lit. b) din Legea nr",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "identificatorul utilizatorului",
+      "definition": "codul unic de identificare alocat unei persoane care se abonează sau se înregistrează la un serviciu de acces la internet ori la un serviciu de comunicaţii prin internet",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "identificatorul celulei",
+      "definition": "codul de identificare a celulei în care se iniţiază sau se finalizează un apel de telefonie mobilă",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "apel telefonic nereuşit",
+      "definition": "comunicarea în cadrul căreia apelul telefonic a fost conectat, dar nu a primit răspuns sau a făcut obiectul unei intervenţii din partea administratorului reţelei",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "apel neconectat",
+      "definition": "apelul iniţiat de la un terminal telefonic sau echipament cu acces la un serviciu de telefonie, dar care nu s-a finalizat tehnic, în sensul stabilirii unei conexiuni între apelant şi apelat. (2) În tot cuprinsul prezentei legi sunt, de asemenea, aplicabile definiţiile prevăzute la art. 3 din Legea nr. 677/2001 , cu modificările şi completările ulterioare, la art. 2 din Legea nr",
+      "source_provision": "Art.2"
+    }
+  ]
+}

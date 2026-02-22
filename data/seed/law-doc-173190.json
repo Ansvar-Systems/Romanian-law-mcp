@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-173190",
+  "type": "statute",
+  "title": "LEGE nr. 284 din 19 noiembrie 2015",
+  "short_name": "lege 284 19 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-19",
+  "in_force_date": "2015-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173190",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 284 19/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă participarea României la fondul Poverty Reduction and Growth Trust (PRGT), administrat de Fondul Monetar Internaţional, cu o contribuţie în sumă de 7.571.246 DST, reprezentând cota-parte ce îi revine în cadrul celei de-a doua runde de distribuire a profitului suplimentar obţinut în urma operaţiunilor de vânzare de aur ale Fondului Monetar Internaţional, efectuate în perioada septembrie 2009 - decembrie 2010."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se autorizează transferul sumei de 7.571.246 DST din contul intermediar administrat de Fondul Monetar Internaţional, în care suma respectivă a fost temporar depozitată, în contul general de subvenţii al PRGT, denumit General Subsidy Account of the PRGT."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Banca Naţională a României va duce la îndeplinire prevederile prezentei legi."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-271651",
+  "type": "statute",
+  "title": "LEGE nr. 180 din 26 iunie 2023",
+  "short_name": "lege 180 26 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-26",
+  "in_force_date": "2023-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271651",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 180 26/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 89 din 27 iunie 2022 privind înființarea, administrarea și dezvoltarea infrastructurilor și serviciilor informatice de tip cloud utilizate de autoritățile și instituțiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 638 din 28 iunie 2022, cu următoarele modificări și completări: 1. La articolul 1, alineatul (7) se modifică și va avea următorul cuprins: (7) Începând cu data intrării în vigoare a hotărârii prevăzute la alin. (4), sistemele informatice utilizate de către autoritățile și instituțiile publice centrale sunt dezvoltate astfel încât să fie apte pentru migrarea în Platformă sau interconectate cu aceasta. 2. La articolul 1, după alineatul (9) se introduce un nou alineat, alineatul (9^1), cu următorul cuprins: (9^1) Autoritățile administrației publice locale pot migra, respectiv rula în Platformă serviciile publice electronice și serviciile informatice utilizate pentru operațiunile administrative proprii, în limita resurselor disponibile ale Platformei."
+    }
+  ],
+  "definitions": []
+}

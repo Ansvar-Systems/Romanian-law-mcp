@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-229146",
+  "type": "statute",
+  "title": "LEGE nr. 174 din 14 august 2020",
+  "short_name": "lege 174 14 08 2020",
+  "status": "in_force",
+  "issued_date": "2020-08-14",
+  "in_force_date": "2020-08-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/229146",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 174 14/08/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Ordonanța de urgență a Guvernului nr. 217/2000 privind aprobarea coșului minim de consum lunar, publicată în Monitorul Oficial al României, Partea I, nr. 606 din 25 noiembrie 2000, aprobată prin Legea nr. 554/2001 , cu modificările ulterioare, se modifică și se completează după cum urmează: 1. Titlul ordonanței de urgență se modifică și va avea următorul cuprins: ORDONANȚĂ DE URGENȚĂ privind structura coșului minim de consum pentru un trai decent în România 2. Articolul 1 se modifică și va avea următorul cuprins: Articolul 1 Se aprobă structura și componentele coșului minim de consum pentru un trai decent, potrivit anexei care face parte integrantă din prezenta ordonanță de urgență. 3. După articolul 1 se introduce un nou articol, articolul 1^1, cu următorul cuprins: Articolul 1^1 Valoarea coșului minim de consum pentru un trai decent se stabilește anual de către Institutul Național de Statistică și se aprobă prin ordin al președintelui acestuia. 4. Articolul 3 se modifică și va avea următorul cuprins: Articolul 3 Coșul minim de consum pentru un trai decent constituie elementul principal de fundamentare a salariului de bază minim brut pe țară garantat în plată și a politicii salariale. 5. Anexa se modifică și se înlocuiește cu anexa la prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgență a Guvernului nr. 217/2000 privind aprobarea coșului minim de consum lunar, publicată în Monitorul Oficial al României, Partea I, nr. 606 din 25 noiembrie 2000, aprobată prin Legea nr. 554/2001 , cu modificările ulterioare, precum și cu modificările și completările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

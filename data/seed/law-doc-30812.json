@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30812",
+  "type": "statute",
+  "title": "LEGE nr. 150 din 12 iunie 1930",
+  "short_name": "lege 150 12 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-12",
+  "in_force_date": "1930-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30812",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 150 12/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Dispoziţiunile art. 3, alin 3 şi 4 din Legea pentru Curtea de Casaţie şi Justiţie se modifica precum urmează: \"Art. 3, alin. 3. - Fiecare secţiune se compune dintr'un preşedinte şi numărul de consilieri ce urmează: secţiunea I - 23 consilieri; secţiunea II - 16 consilieri şi secţiunea III - 16 consilieri. Alin. 4. - Câte un consilier din fiecare secţiune va fi delegat, în condiţiunile prevăzute de Legea de organizare judecătorească, în comitetul central de revizuire. În tot timpul cat vor îndeplini aceasta delegaţiune, consilierii delegaţi nu pot lucra în Curte. Repartizarea între cele trei secţiuni ale Înaltei Curţi, a actualilor consilieri delegaţi în comitetul central de revizuire, se va face prin decret regal, după punerea în aplicare a acestei legi.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Alin. 8 al art. 29 din Legea de organizare judecătorească se completează precum urmează: \"Aceşti consilieri vor fi repartizaţi pe secţiuni începînd cu secţia I-a; dacă numărul lor depăşeşte pe acela al secţiunilor, consilierii ce prisosesc vor fi repartizaţi după aceeaşi norma. În tot timpul cat vor îndeplini aceasta delegaţiune, consilierii delegaţi nu pot lucra în Curte.\" Timpul cat durează delegaţiunea va fi socotit în stagiul prevăzut prin Legea de organizare judecătorească privitor la vechime şi inaintare. Repartizarea actualilor consilieri delegaţi în comitetele locale de revizuire se va face prin decret regal, după punerea în aplicare a acestei legi. Desbateri: Camera Nr. 55-1929/30; Senat Nr. 47-1929/30. Votat de Adunarea Deputaţilor la 20 Mai şi de Senat la 5 Iunie 1930. -------"
+    }
+  ],
+  "definitions": []
+}

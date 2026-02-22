@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208630",
+  "type": "statute",
+  "title": "LEGE nr. 301 din 10 decembrie 2018",
+  "short_name": "lege 301 10 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-10",
+  "in_force_date": "2018-12-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208630",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 301 10/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 62 din 12 iulie 2018 privind unele măsuri de asigurare a personalului necesar pregătirii și exercitării de către România a Președinției Consiliului Uniunii Europene în primul semestru al anului 2019, publicată în Monitorul Oficial al României, Partea I, nr. 602 din 13 iulie 2018."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272123",
+  "type": "statute",
+  "title": "LEGE nr. 221 din 13 iulie 2023",
+  "short_name": "lege 221 13 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-13",
+  "in_force_date": "2023-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272123",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 221 13/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 122 din 8 septembrie 2022 privind unele măsuri pentru proiectele de infrastructură de transport, proiectele pentru dezvoltarea infrastructurii de management integrat al deșeurilor, proiectele privind îmbunătățirea sistemului de răspuns la risc și proiectele privind investiții în infrastructuri spitalicești, finanțate din fonduri externe nerambursabile, precum și pentru modificarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 891 din 9 septembrie 2022."
+    }
+  ],
+  "definitions": []
+}

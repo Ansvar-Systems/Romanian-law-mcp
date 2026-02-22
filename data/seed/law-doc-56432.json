@@ -1,0 +1,104 @@
+{
+  "id": "law-doc-56432",
+  "type": "statute",
+  "title": "LEGE nr. 451 din 1 noiembrie 2004",
+  "short_name": "lege 451 01 11 2004",
+  "status": "in_force",
+  "issued_date": "2004-11-01",
+  "in_force_date": "2004-11-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/56432",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 451 01/11/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege stabilește regimul juridic al mărcii temporale și condițiile de furnizare a serviciilor de marcare temporală."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În înțelesul prezentei legi, termenii și expresiile de mai jos se definesc după cum urmează: a) amprenta atașată unui document electronic reprezintă acea informație cu ajutorul căreia documentul poate fi identificat în mod unic, dar care nu permite deducerea conținutului documentului respectiv; b) marca temporală este o colecție de date în formă electronică, atașată în mod unic unui document electronic; ea certifică faptul că anumite date în formă electronică au fost prezentate la un moment de timp determinat furnizorului de servicii de marcare temporală; c) certificatul asociat mărcii temporale este acea informație cuprinsă în marca temporală prezentabilă în formă inteligibilă și care conține cel puțin furnizorul de servicii de marcare temporală, numărul de ordine din registrul furnizorului și informația reprezentând momentul de timp; d) baza de timp reprezintă sistemul unitar de referință temporală la care se raportează toți furnizorii de servicii de marcare temporală; e) autoritatea de reglementare și supraveghere este autoritatea prevăzută în cap. IV \"Monitorizare și control\", secțiunea 1 \"Autoritatea de reglementare și supraveghere\" din Legea nr. 455/2001 privind semnătura electronică, denumită în continuare autoritatea."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Marca temporală este formată din cel puțin următoarele elemente: a) amprenta atașată documentului electronic supus marcării; b) data și momentul de timp aferente documentului supus marcării, exprimate în timp universal; c) informații care identifică în mod unic furnizorul de servicii de marcare temporală; d) numărul de ordine din registrul furnizorului de servicii de marcare temporală. (2) Informațiile verificate la furnizorul de servicii de marcare temporală sunt: a) elementele de identificare ale certificatului relativ la cheia ce verifică marca; b) identificarea algoritmului utilizat pentru generarea amprentei. (3) Marca temporală poate să conțină și elementele de identificare ale solicitantului mărcii temporale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Marca temporală trebuie generată de un sistem informatic sigur, care va îndeplini următoarele cerințe de securitate: a) asigură că este imposibil să fie emisă o marcă corectă pentru un alt timp decât momentul când a fost primit documentul sau să se schimbe ordinea în care mărcile de timp sunt emise; b) asigură continuitatea furnizării serviciului. (2) Generarea mărcii temporale trebuie să garanteze un timp de răspuns; modul de calcul și eroarea maxim admisibilă vor fi stabilite de autoritate prin norme."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Furnizorii de servicii de marcare temporală au obligația de a crea și de a menține un registru electronic operativ de evidență cuprinzând momentul de timp la care au fost emise mărcile temporale. (2) Structura și condițiile de exploatare ale registrului electronic vor fi stabilite de autoritate prin norme."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) Cu 30 de zile înainte de începerea activităților legate de emiterea mărcilor temporale, persoanele care intenționează să furnizeze servicii de marcare temporală au obligația de a notifica autorității data începerii acestor activități. (2) O dată cu efectuarea notificării prevăzute la alin. (1) furnizorii de servicii de marcare temporală au obligația de a comunică autorității următoarele informații și documente: a) asigurarea activităților conform art. 8 ; b) certificatul calificat pe baza căruia se va putea verifica semnătura asupra mărcii temporale; c) politica referitoare la protecția datelor cu caracter personal care să fie conformă cu legislația română în vigoare; d) orice alte informații referitoare la activitatea de furnizare de servicii de marcare temporală cerute de autoritate."
+    },
+    {
+      "provision_ref": "Art.7",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Furnizorul de servicii de marcare temporală trebuie să dispună de instrumente financiare asigurătorii pentru acoperirea prejudiciilor pe care le-ar putea cauza cu prilejul desfășurării activităților legate de marcarea temporală. (2) Asigurarea se realizează fie prin subscrierea unei polițe de asigurare la o societate de asigurări, fie prin intermediul unei scrisori de garanție din partea unei instituții financiare de specialitate sau printr-o altă modalitate stabilită prin decizie a autorității. (3) Suma asigurată și, respectiv, suma acoperită prin scrisoarea de garanție sunt stabilite de autoritate."
+    },
+    {
+      "provision_ref": "Art.8",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Furnizorii de servicii de marcare temporală au următoarele obligații: a) să mențină înregistrări ale mărcilor temporale emise pe o perioadă de 10 ani; b) să păstreze documentația aferentă algoritmilor și procedurilor de generare a mărcilor temporale emise; c) să asigure posibilitatea obținerii și verificării on-line a mărcilor temporale; verificarea se face gratuit; d) să asigure accesarea permanentă a bazei de timp. (2) În cazul încetării activității, furnizorul de servicii de marcare temporală are obligația să transfere unui alt furnizor de servicii de marcare temporală sau, după caz, autorității registrul electronic operativ de evidență, registrul mărcilor temporale, precum și documentația aferentă algoritmilor și procedurilor de generare a mărcilor temporale emise."
+    },
+    {
+      "provision_ref": "Art.9",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) Responsabilitatea aplicării dispozițiilor prezentei legi și a reglementărilor legate de aceasta revine autorității. (2) În termen de 3 luni de la data publicării prezentei legi în Monitorul Oficial al României, Partea I, autoritatea va desemna furnizorul unic de bază de timp. (3) Autoritatea va emite norme conținând setul minimal de proceduri pentru activitatea de generare a mărcii temporale, precum și procedurile de verificare a aplicării acestora. (4) Autoritatea va supraveghea îndeplinirea obligațiilor impuse de prezenta lege furnizorilor de servicii de marcare temporală. (5) În cazul în care furnizorul de servicii de marcare temporală este în imposibilitate de a-și îndeplini obligațiile, autoritatea poate dispune suspendarea temporară sau, după caz, încetarea activității furnizorului. (6) În cadrul Registrului furnizorilor de servicii de certificare prevăzut la art. 28 din Legea nr. 455/2001 se va crea o secțiune distinctă, destinată furnizorilor de servicii de marcare temporală. Informațiile care trebuie prevăzute în acest registru sunt stabilite de către autoritate prin norme."
+    },
+    {
+      "provision_ref": "Art.10",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) Furnizorul de servicii de marcare temporală răspunde pentru prejudiciul adus oricărei persoane care își întemeiază conduita pe efectele juridice ale respectivelor mărci temporale: a) în ceea ce privește exactitatea, în momentul eliberării mărcii temporale, a tuturor informațiilor pe care le conține; b) în ceea ce privește asigurarea că, în momentul eliberării mărcii temporale, furnizorul identificat în cuprinsul acesteia deținea datele de generare a mărcii temporale corespunzătoare datelor de verificare a mărcii temporale, prevăzute în prezenta lege; c) în privința îndeplinirii tuturor obligațiilor prevăzute la art. 3-8 . (2) Furnizorul de servicii de marcare temporală nu răspunde potrivit alin. (1) în cazurile în care probează că, deși a depus diligența necesară, nu a putut împiedica producerea prejudiciului."
+    },
+    {
+      "provision_ref": "Art.11",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Furnizorul de servicii de marcare temporală poate să indice în cuprinsul unei mărci temporale restricții ale utilizării acesteia, precum și limite ale valorii operațiunilor pentru care aceasta poate fi utilizată, cu condiția ca respectivele restricții să poată fi cunoscute de terți. (2) Furnizorul de servicii de marcare temporală nu răspunde pentru prejudiciile rezultând din utilizarea unei mărci temporale cu încălcarea restricțiilor prevăzute în cuprinsul acesteia."
+    },
+    {
+      "provision_ref": "Art.12",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) Constituie contravenție dacă, potrivit legii, nu constituie infracțiune și se sancționează cu amendă de la 10.000.000 lei la 50.000.000 lei fapta furnizorului de servicii de marcare temporală care furnizează serviciul de marcare temporală fără notificarea prealabilă prevăzută la art. 6 . (2) Constituie contravenție dacă, potrivit legii, nu constituie infracțiune și se sancționează cu amendă în cuantum de până la 5% din cifra de afaceri încălcarea obligațiilor prevăzute la art. 8 alin. (1) lit. a) și b) . (3) Constituie contravenție dacă, potrivit legii, nu constituie infracțiune și se sancționează cu amendă de la 50.000.000 lei la 500.000.000 lei încălcarea obligațiilor prevăzute la art. 8 alin. (1) lit. c) și d) ."
+    },
+    {
+      "provision_ref": "Art.13",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Prezenta lege se completează cu prevederile Legii nr. 455/2001 privind semnătura electronică, publicată în Monitorul Oficial al României, Partea I, nr. 429 din 31 iulie 2001."
+    },
+    {
+      "provision_ref": "Art.14",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "În termen de 3 luni de la data publicării prezentei legi în Monitorul Oficial al României, Partea I, autoritatea va elabora normele tehnice și metodologice de aplicare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.15",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Prezenta lege intră în vigoare la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

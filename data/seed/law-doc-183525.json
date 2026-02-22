@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-183525",
+  "type": "statute",
+  "title": "LEGE nr. 214 din 9 noiembrie 2016",
+  "short_name": "lege 214 09 11 2016",
+  "status": "in_force",
+  "issued_date": "2016-11-09",
+  "in_force_date": "2016-11-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183525",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 214 09/11/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 13 din 11 mai 2016 pentru prorogarea termenului prevăzut la art. 62 alin. (3) din Legea nr. 207/2015 privind Codul de procedură fiscală, publicată în Monitorul Oficial al României, Partea I, nr. 368 din 12 mai 2016."
+    }
+  ],
+  "definitions": []
+}

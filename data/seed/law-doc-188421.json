@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188421",
+  "type": "statute",
+  "title": "LEGE nr. 72 din 14 aprilie 2017",
+  "short_name": "lege 72 14 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-14",
+  "in_force_date": "2017-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188421",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 72 14/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 14 din 11 mai 2016 pentru modificarea art. 2 din Legea nr. 248/2015 privind stimularea participării în învăţământul preşcolar a copiilor provenind din familii defavorizate, publicată în Monitorul Oficial al României, Partea I, nr. 368 din 12 mai 2016."
+    }
+  ],
+  "definitions": []
+}

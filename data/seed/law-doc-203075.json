@@ -1,0 +1,350 @@
+{
+  "id": "law-doc-203075",
+  "type": "statute",
+  "title": "LEGE nr. 188 din 18 iulie 2018",
+  "short_name": "lege 188 18 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-18",
+  "in_force_date": "2018-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203075",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 188 18/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1 - Obiect",
+      "content": "Prezenta lege stabilește normele pentru controlul emisiilor în aer de dioxid de sulf (SO_2), oxizi de azot (NOx) și pulberi, provenite de la instalațiile medii de ardere, în scopul reducerii emisiilor în aer și a riscurilor potențiale pentru sănătatea umană și pentru mediu, precum și normele pentru monitorizarea emisiilor de monoxid de carbon (CO)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2 - Domeniul de aplicare",
+      "content": "(1) Prezenta lege se aplică: a) instalațiilor de ardere cu o putere termică nominală mai mare sau egală cu 1 MW și mai mică de 50 MW, indiferent de tipul de combustibil utilizat, denumite în continuare instalații medii de ardere; b) în cazul unei combinații formate din instalații medii de ardere noi cărora li se aplică regulile de agregare prevăzute la art. 10 , inclusiv în cazul unei combinații având puterea termică nominală totală mai mare sau egală cu 50 MW, cu excepția cazului în care această combinație formează o instalație de ardere care intră sub incidența capitolului III din Legea nr. 278/2013 privind emisiile industriale, cu modificările și completările ulterioare. (2) Prezenta lege nu se aplică: a) instalațiilor de ardere care intră sub incidența capitolului III sau IV din Legea nr. 278/2013 , cu modificările și completările ulterioare; b) instalațiilor de ardere care intră sub incidența Regulamentului (UE) 2016/1.628 al Parlamentului European și al Consiliului din 14 septembrie 2016 privind cerințele referitoare la limitele emisiilor de poluanți gazoși și de particule poluante și omologarea de tip pentru motoarele cu ardere internă pentru echipamentele mobile fără destinație rutieră, de modificare a Regulamentelor (UE) nr. 1.024/2012 și (UE) nr. 167/2013 și de modificare și abrogare a Directivei 97/68/CE; c) instalațiilor de ardere din exploatațiile agricole cu o putere termică nominală totală mai mică sau egală cu 5 MW, care utilizează drept combustibil exclusiv gunoi de grajd neprelucrat provenit de la păsări de curte, astfel cum se prevede la art. 9 lit. a) din Regulamentul (CE) nr. 1.069/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de abrogare a Regulamentului (CE) nr. 1.774/2002; d) instalațiilor de ardere ale căror produse gazoase rezultate în urma arderii sunt utilizate pentru încălzire directă, uscarea obiectelor ori a materialelor sau orice alt tratament aplicat acestora; e) instalațiilor de ardere ale căror produse gazoase rezultate în urma arderii sunt utilizate pentru încălzirea directă cu gaz folosită pentru încălzirea unor spații interioare în scopul îmbunătățirii condițiilor la locul de muncă; f) instalațiilor de postardere care sunt proiectate pentru purificarea prin ardere a gazelor reziduale din procesele industriale și care nu funcționează ca instalații de ardere independente; g) dispozitivelor tehnice utilizate la propulsia vehiculelor, a navelor sau aeronavelor; h) turbinelor cu gaz și motoarelor cu gaz și diesel atunci când sunt folosite pe platformele maritime; i) instalațiilor pentru regenerarea catalizatorilor de cracare catalitică; j) instalațiilor pentru conversia hidrogenului sulfurat în sulf; k) reactoarelor utilizate în industria chimică; l) cuptoarelor de cocs; m) cauperelor; n) crematoriilor; o) instalațiilor de ardere care ard combustibili de rafinărie, individual sau împreună cu alți combustibili, pentru producerea de energie în cadrul rafinăriilor de petrol și gaze; p) cazanelor de recuperare din cadrul instalațiilor de fabricare a celulozei. (3) Prezenta lege nu se aplică activităților de cercetare și dezvoltare sau activităților de testare ce vizează instalațiile medii de ardere."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3 - Definiții",
+      "content": "În sensul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații: 1. emisie - evacuarea în aer a substanțelor provenite dintr-o instalație de ardere; 2. valoare-limită de emisie - cantitatea permisă dintr-o substanță ce este conținută în gazele reziduale provenite de la o instalație de ardere, care poate fi evacuată în aer într-o perioadă dată de timp; 3. oxizi de azot (NOx) - oxid de azot și dioxid de azot, exprimați ca dioxid de azot (NO_2); 4. pulberi - particule de orice formă, structură sau densitate, dispersate în faza gazoasă în condițiile punctului de prelevare a probelor, care pot fi colectate prin filtrare în condiții specifice după prelevarea reprezentativă de probe ale gazului care urmează să fie analizat și care rămân în amonte de filtru și pe filtru după uscare în condiții specificate; 5. instalație de ardere - orice echipament tehnic în care combustibilii sunt oxidați în scopul utilizării energiei termice astfel generată; 6. instalație de ardere existentă - o instalație de ardere pusă în funcțiune înainte de 20 decembrie 2018 sau o instalație de ardere ale cărei condiții de funcționare au fost incluse într-o autorizație de mediu emisă înainte de 19 decembrie 2017 în baza legislației naționale privind procedura de emitere a autorizației de mediu, cu condiția ca instalația să fi fost pusă în funcțiune până cel târziu la 20 decembrie 2018; 7. instalație de ardere nouă - o instalație de ardere, alta decât o instalație de ardere existentă definită la pct. 6 ; 8. motor - un motor cu gaz, un motor diesel sau un motor cu combustibil dual; 9. motor cu gaz - un motor cu ardere internă care funcționează conform ciclului Otto și utilizează aprinderea cu scânteie pentru arderea combustibilului; 10. motor diesel - un motor cu ardere internă care funcționează conform ciclului Diesel și utilizează aprinderea prin compresie pentru arderea combustibilului; 11. motor cu combustibil dual - un motor cu ardere internă care utilizează aprinderea prin compresie și funcționează conform ciclului Diesel pentru arderea combustibililor lichizi și conform ciclului Otto pentru arderea combustibililor gazoși; 12. turbină cu gaz - orice mașină rotativă care transformă energia termică în lucru mecanic, fiind alcătuită, în principal, dintr-un compresor, un dispozitiv termic în care combustibilul este oxidat pentru a încălzi fluidul de lucru și o turbină; definiția include atât turbinele cu gaz cu ciclu deschis și cu ciclu combinat, cât și turbinele cu gaz care funcționează în regim de cogenerare, toate funcționând cu sau fără ardere suplimentară; 13. sistem izolat mic (SIM) - orice rețea cu un consum mai mic de 3.000 GWh energie electrică în anul 1996, în care mai puțin de 5% din consumul anual se obține prin interconectarea cu alte rețele;- 14. microsistem izolat (MI) - orice rețea cu un consum mai mic de 500 GWh energie electrică în anul 1996, fără a fi interconectată cu alte rețele; 15. combustibil - orice material combustibil solid, lichid sau gazos; 16. combustibil de rafinărie - orice material combustibil solid, lichid sau gazos provenit din etapele de distilare și de conversie ale rafinării țițeiului, inclusiv gaz de rafinărie, gaz de sinteză, uleiuri de rafinărie și cocs de petrol; 17. deșeu - orice deșeu astfel definit la pct. 9 din anexa nr. 1 la Legea nr. 211/2011 privind regimul deșeurilor, republicată , cu modificările și completările ulterioare; 18. biomasă - oricare dintre categoriile următoare: a) produsele de natură vegetală provenite din agricultură sau activități forestiere, care pot fi folosite drept combustibil în scopul recuperării conținutului său energetic; b) următoarele deșeuri: (i) deșeuri vegetale din agricultură și activități forestiere; (ii) deșeuri vegetale din industria alimentară, dacă se valorifică energia termică generată; (iii) deșeuri vegetale fibroase provenite din procesul de producere a celulozei primare și a hârtiei din celuloză, în cazul în care sunt coincinerate la locul de producție și energia termică generată este valorificată; (iv) deșeuri de plută; (v) deșeuri lemnoase, cu excepția celor care pot conține compuși organici halogenați sau metale grele, ca rezultat al tratării cu conservanți pentru lemn sau al acoperirii, și care includ în special deșeurile lemnoase provenind din construcții și demolări 19. motorină - oricare dintre categoriile următoare: a) orice combustibil lichid derivat din petrol care se încadrează la codurile NC 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 sau 2710 20 19; sau b) orice combustibil lichid derivat din petrol, din care mai puțin de 65% din volum, inclusiv pierderile, se distilează la 250°C și din care cel puțin 85% din volum, inclusiv pierderile, se distilează la 350°C prin metoda ASTM D86; 20. gaz natural - metan produs natural cu un conținut maxim de 20%, în funcție de volum, de materie inertă și alți compuși; 21. păcură grea - oricare dintre categoriile următoare: a) orice combustibil lichid derivat din petrol care se încadrează la codurile NC 2710 19 51-2710 19 68, 2710 20 31, 2710 20 35 sau 2710 20 39; sau b) orice combustibil lichid derivat din petrol, altul decât motorina definită la pct. 19 , care, din cauza limitelor de distilare, se încadrează în categoria păcurii grele destinate utilizării drept combustibil și din care mai puțin de 65% din volum, inclusiv pierderile, se distilează la 250°C prin metoda ASTM D86. Dacă distilarea nu poate fi determinată prin metoda ASTM D86, produsul derivat din petrol intră în categoria păcurii grele; 22. ore de funcționare - timpul, exprimat în ore, în care o instalație de ardere funcționează și evacuează emisii în aer, cu excepția perioadelor de pornire și de oprire; 23. operator - orice persoană fizică sau juridică care exploatează ori deține controlul asupra instalației de ardere sau, așa cum este prevăzut în legislația națională, căreia i s-a delegat puterea economică decisivă asupra funcționării tehnice a instalației; 24. zonă - o parte a teritoriului României delimitată în scopul evaluării și gestionării calității aerului, astfel cum se prevede la art. 3 lit. p) din Legea nr. 104/2011 privind calitatea aerului înconjurător, cu modificările ulterioare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "4",
+      "title": "Articolul 4 - Autorități competente",
+      "content": "(1) Autoritățile competente desemnate la nivel central și teritorial responsabile pentru aplicarea prevederilor prezentei legi sunt: a) autoritatea publică centrală pentru protecția mediului, autoritatea publică centrală cu competențe în implementarea politicilor și legislației în domeniul protecției mediului și autoritatea publică centrală de inspecție și control în domeniul protecției mediului; b) autoritățile publice teritoriale pentru protecția mediului organizate la nivel județean și la nivelul municipiului București, denumite în continuare autorități publice teritoriale pentru protecția mediului, sunt responsabile cu emiterea autorizației de mediu sau a documentului de confirmare a înregistrării instalației medii de ardere, după caz, în care sunt stabilite condițiile de funcționare ale instalației medii de ardere în conformitate cu prevederile prezentei legi; c) autoritățile publice teritoriale de inspecție și control în domeniul protecției mediului organizate la nivel județean și la nivelul municipiului București, denumite în continuare autorități publice teritoriale de inspecție și control, au atribuții de inspecție și control al conformității instalațiilor medii de ardere cu cerințele prezentei legi, iar în cazurile de neconformare, acestea pot aplica sancțiuni. (2) Autoritățile competente desemnate potrivit prevederilor alin. (1) cooperează și își coordonează activitățile în vederea aplicării prevederilor prezentei legi. (3) Autoritățile competente la nivel central cooperează cu Comisia Europeană în cadrul activităților de sprijinire a punerii în aplicare a prevederilor prezentei legi, implicând, atunci când este necesar, părțile interesate. (4) Autoritatea publică centrală pentru protecția mediului are responsabilitatea transmiterii Comisiei Europene a rapoartelor privind implementarea prevederilor prezentei legi conform art. 34 ."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea 1 - Înregistrarea și autorizarea instalațiilor medii de ardere",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Operarea instalațiilor medii de ardere cu o putere termică nominală mai mare sau egală cu 1 MWt și mai mică de 20 MWt este permisă cu condiția înregistrării acestora în conformitate cu procedura de înregistrare prevăzută la secțiunea A din anexa nr. 4 . (2) Prevederile alin. (1) se aplică începând cu: a) 20 decembrie 2018, pentru instalațiile medii de ardere noi; b) 1 ianuarie 2024, pentru instalațiile medii de ardere existente, cu o putere termică nominală mai mare de 5 MW; c) 1 ianuarie 2029, pentru instalațiile medii de ardere existente, cu o putere termică nominală mai mică sau egală cu 5 MW."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea 1 - Înregistrarea și autorizarea instalațiilor medii de ardere",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) Operarea instalațiilor medii de ardere cu o putere termică nominală mai mare sau egală cu 20 MWt și mai mică de 50 MWt este permisă cu condiția ca activitatea de producere a energiei termice și/sau a energiei electrice să fie autorizată în conformitate cu prevederile Ordinului ministrului mediului și dezvoltării durabile nr. 1.798/2007 pentru aprobarea Procedurii de emitere a autorizației de mediu , cu modificările și completările ulterioare, iar condițiile de funcționare stabilite în autorizația de mediu să respecte cerințele specifice prevăzute în prezenta lege. (2) Prevederile alin. (1) se aplică începând cu: a) 20 decembrie 2018, pentru instalațiile medii de ardere noi; b) 1 ianuarie 2024, pentru instalațiile medii de ardere existente."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea 1 - Înregistrarea și autorizarea instalațiilor medii de ardere",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) În aplicarea prevederilor art. 5 și 6 operatorii instalațiilor medii de ardere sunt obligați să depună la autoritatea publică teritorială pentru protecția mediului în a căror rază de competență se află o notificare prin care informează cu privire la operarea sau intenția de operare a unei instalații medii de ardere. (2) Notificarea prevăzută la alin. (1) trebuie să conțină obligatoriu toate informațiile cuprinse în anexa nr. 1 . (3) Operatorii instalațiilor medii de ardere care intră sub incidența prevederilor art. 5 alin. (1) sunt obligați să depună notificarea prevăzută la alin. (1) cu cel puțin 60 de zile înainte de termenele prevăzute la art. 5 alin. (2) . (4) Operatorii instalațiilor medii de ardere care intră sub incidența prevederilor art. 6 alin. (1) sunt obligați să depună notificarea prevăzută la alin. (1) , precum și documentația prevăzută de legislația națională în vigoare privind procedura de emitere a autorizației de mediu, cu respectarea termenelor prevăzute la art. 6 alin. (2) ."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea 1 - Înregistrarea și autorizarea instalațiilor medii de ardere",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul înregistrează instalația medie de ardere în termen de o lună de la depunerea de către operator a notificării prevăzute la art. 7 alin. (1) . (2) Autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul demarează procedura de emitere a unei autorizații de mediu pentru acesta, în termen de o lună de la depunerea de către operator a notificării prevăzute la art. 7 alin. (1) . (3) Autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul informează operatorul cu privire la înregistrarea instalației medii de ardere în conformitate cu procedura de înregistrare prevăzută la secțiunea A din anexa nr. 4 sau, după caz, cu privire la demararea procedurii de emitere a unei autorizații de mediu în conformitate cu prevederile legislației naționale în vigoare. (4) Documentul de confirmare a înregistrării prin care autoritatea publică teritorială pentru protecția mediului informează operatorul cu privire la înregistrarea instalației medii de ardere și, respectiv, autorizația de mediu emisă trebuie să conțină obligatoriu măsurile pe care operatorul trebuie să le respecte privind monitorizarea emisiilor și cerințele specifice de funcționare a instalației medii de ardere prevăzute în prezenta lege."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea 1 - Înregistrarea și autorizarea instalațiilor medii de ardere",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) În cazul în care o instalație medie de ardere care trebuie înregistrată sau a cărei activitate de producere a energiei termice și/sau electrice trebuie autorizată în conformitate cu prevederile legislației naționale în vigoare privind procedura de emitere a autorizației de mediu este conexă unei activități industriale principale desfășurate de același operator în baza unei autorizații de mediu, autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul include în autorizația de mediu măsurile pe care operatorul trebuie să le respecte privind monitorizarea emisiilor și cerințele specifice de funcționare a instalației medii de ardere prevăzute în prezenta lege. (2) În cazul în care la termenele prevăzute la art. 5 alin. (2) lit. b) și c) și la art. 6 alin. (2) lit. b) activitatea de producere a energiei termice și/sau electrice aferentă unei instalații medii de ardere existente se desfășoară în baza unei autorizații de mediu valabile emise în conformitate cu prevederile legislației naționale în vigoare, autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul înregistrează instalația medie de ardere sau, respectiv, actualizează condițiile din autorizație cu includerea măsurilor pe care operatorul trebuie să le respecte privind monitorizarea emisiilor și a cerințelor specifice de funcționare a instalației medii de ardere prevăzute în prezenta lege. (3) La termenele prevăzute la art. 5 alin. (2) lit. b) și c) , autorizațiile de mediu valabile la acea dată își pierd valabilitatea."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea 1 - Înregistrarea și autorizarea instalațiilor medii de ardere",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "O combinație formată din două sau mai multe instalații medii de ardere noi este considerată în sensul prezentei legi ca fiind o singură instalație medie de ardere, iar în scopul calculării puterii termice nominale totale, puterile termice nominale ale instalațiilor se însumează, în cazul în care: a) gazele reziduale ale acestor instalații medii de ardere sunt evacuate printr-un coș comun; sau b) autoritatea publică teritorială pentru protecția mediului responsabilă cu înregistrarea sau autorizarea instalațiilor medii de ardere, după caz, luând în considerare factorii tehnici și economici, stabilește că gazele reziduale ale acestor instalații medii de ardere ar putea fi evacuate printr-un coș comun."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 2-a - Obligațiile operatorului",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) Operatorii instalațiilor medii de ardere au obligația de a monitoriza emisiile de poluanți în aer în conformitate cu prevederile din partea I a anexei nr. 3 , în condițiile stabilite de către autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză și incluse în autorizația de mediu emisă pentru activitatea desfășurată de operator în baza legislației naționale privind procedura de emitere a autorizației de mediu sau în documentul de confirmare a înregistrării instalației medii de ardere emis potrivit art. 6 alin. (1) din secțiunea A a anexei nr. 4 . (2) Pentru instalațiile medii de ardere care utilizează mai multe tipuri de combustibil, monitorizarea emisiilor de poluanți în aer se efectuează de către operatori în timpul arderii unui combustibil sau a unei combinații de combustibili care conduce la cel mai înalt nivel al emisiilor și în perioada funcționării în condiții normale. (3) Operatorul este obligat să țină o evidență a rezultatelor monitorizării emisiilor și să prelucreze aceste rezultate în scopul verificării respectării valorilor-limită de emisie în conformitate cu normele stabilite în partea a 2-a din anexa nr. 3 . (4) Pentru instalațiile medii de ardere care utilizează echipamente secundare de reducere a emisiilor în vederea respectării valorilor-limită de emisie, operatorul trebuie să păstreze o evidență a înregistrărilor sau a informațiilor care atestă funcționarea efectivă continuă a acestor echipamente. (5) Operatorul unei instalații medii de ardere trebuie să dețină următoarele documente: a) autorizația de mediu sau documentul de confirmare a înregistrării instalației medii de ardere și, după caz, versiunile actualizate și informațiile conexe; b) rezultatele monitorizării și informațiile prevăzute la alin. (3) și (4) ; c) o evidență a orelor de funcționare anuală a instalației în cazul aplicării prevederilor art. 20 sau art. 27 ; d) o evidență a tipului și a cantităților de combustibili utilizați în cadrul instalației, precum și a oricărei funcționări defectuoase sau defecțiuni a echipamentului secundar de reducere a emisiilor; e) o evidență a evenimentelor de neconformare și a măsurilor luate, prevăzute la art. 13 alin. (2) . (6) Datele și informațiile prevăzute la alin. (5) lit. b)-e) se păstrează de către operator pe o perioadă de cel puțin 6 ani."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 2-a - Obligațiile operatorului",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) În scopul verificării conformității cu cerințele prezentei legi, operatorul este obligat să pună la dispoziția autorității publice teritoriale de inspecție și control, la cererea acesteia și fără întârzieri nejustificate, documentele prevăzute la art. 11 alin. (5) . (2) Prevederile alin. (1) se aplică și în cazul în care un reprezentant al publicului solicită autorității publice teritoriale de inspecție și control sau autorității publice teritoriale pentru protecția mediului accesul la documentele prevăzute la art. 11 alin. (5) ."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 2-a - Obligațiile operatorului",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) În cazul nerespectării valorilor-limită de emisie prevăzute în anexa nr. 2 , operatorul ia măsurile necesare pentru a asigura restabilirea conformității în cel mai scurt timp posibil, fără a aduce atingere măsurilor prevăzute la art. 14 . (2) Autoritatea publică centrală de inspecție și control stabilește normele aferente tipului, frecvenței și formatului informațiilor referitoare la evenimentele de neconformare pe care operatorii instalațiilor medii de ardere trebuie să le transmită către autoritățile publice teritoriale pentru protecția mediului în a căror rază de competență se află operatorul în cauză."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 2-a - Obligațiile operatorului",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Operatorii instalațiilor medii de ardere acordă autorităților publice teritoriale de inspecție și control și autorităților publice teritoriale pentru protecția mediului în a căror rază de competență se află toată asistența necesară pentru a permite acestora să efectueze orice fel de inspecții și vizite la fața locului, să preleve probe și să obțină orice informații necesare pentru îndeplinirea obligațiilor care decurg din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 2-a - Obligațiile operatorului",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Operatorii sunt obligați să ia măsurile necesare ca operațiunile de pornire și oprire a instalațiilor medii de ardere să se desfășoare într-un interval de timp cât mai scurt."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 3-a - Registrul instalațiilor medii de ardere",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "(1) Autoritatea publică teritorială pentru protecția mediului are obligația să dețină un registru al instalațiilor medii de ardere amplasate în zona de competență a acesteia, care va conține: informațiile referitoare la instalații prevăzute în anexa nr. 1 , date și informații privind modificările aduse instalației notificate de către operator în conformitate cu prevederile art. 33 , tehnici și tehnologii de reducere a emisiilor implementate și date de monitorizare a emisiilor de poluanți atmosferici. (2) Instalațiile medii de ardere trebuie incluse în registru la data înregistrării sau autorizării acestora, după caz. (3) Autoritatea publică teritorială pentru protecția mediului pune la dispoziția publicului pe propria pagină web informațiile conținute în registru, inclusiv autorizațiile de mediu și documentele de înregistrare, în conformitate cu prevederile legislației privind accesul publicului la informațiile privind mediul. (4) Autoritatea publică teritorială pentru protecția mediului menține și actualizează pe propria pagină web informațiile și documentele prevăzute la alin. (3) ."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 3-a - Registrul instalațiilor medii de ardere",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "(1) Fără a aduce atingere obligației ca instalațiile medii de ardere să fie înregistrate sau autorizate, autoritatea publică centrală pentru protecția mediului stabilește, după caz, reguli general obligatorii în care să fie incluse cerințe pentru anumite categorii de instalații medii de ardere în baza unor studii care să stabilească oportunitatea și modalitatea de aplicare a regulilor general obligatorii. (2) În cazul stabilirii regulilor general obligatorii, acestea se adoptă prin ordin al conducătorului autorității publice centrale pentru protecția mediului, iar autorizația sau, după caz, documentul de confirmare a înregistrării include o simplă trimitere la acestea. (3) Pentru instalațiile medii de ardere care fac parte dintr-o instalație reglementată potrivit prevederilor capitolului II din Legea nr. 278/2013 privind emisiile industriale, cu modificările și completările ulterioare, obligațiile prevăzute la art. 11-13 se consideră îndeplinite, cu respectarea prevederilor legii mai sus menționate."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Valorile-limită de emisie prevăzute în anexa nr. 2 se aplică instalațiilor medii de ardere fără a aduce atingere prevederilor capitolului II din Legea nr. 278/2013 , cu modificările și completările ulterioare, acolo unde este cazul."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Începând cu data de 1 ianuarie 2025, emisiile în aer de SO_2, NO_x și pulberi provenite de la o instalație medie de ardere existentă cu o putere termică nominală mai mare de 5 MW nu trebuie să depășească valorile-limită de emisie prevăzute în tabelele 2 și 3 din partea 1 a anexei nr. 2 . (2) Începând cu data de 1 ianuarie 2030, emisiile în aer de SO_2, NO_x și pulberi provenite de la o instalație medie de ardere existentă cu o putere termică nominală de 5 MW sau mai mică nu trebuie să depășească valorile-limită de emisie prevăzute în tabelele 1 și 3 din partea 1 a anexei nr. 2 ."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "(1) Instalațiile medii de ardere existente care nu funcționează mai mult de 500 de ore pe an, calculate ca medie mobilă pe o perioadă de 5 ani, sunt exceptate de la obligația de a respecta valorile-limită de emisie prevăzute în tabelele 1-3 din partea 1 a anexei nr. 2 . (2) Instalațiile medii de ardere existente care nu funcționează mai mult de 1.000 de ore pe an, calculate ca medie mobilă pe o perioadă de 5 ani, sunt exceptate de la obligația de a respecta valorile-limită de emisie prevăzute în tabelele 1-3 din partea I a anexei nr. 2 , dacă sunt exploatate pentru producerea de energie termică în cazul unor condiții meteorologice cu temperaturi excepțional de scăzute. (3) În situațiile prevăzute la alin. (1) și (2) se aplică o valoare-limită de emisie pentru pulberi de 200 mg/Nm^3 pentru instalațiile care ard combustibili solizi."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Începând cu data de 1 ianuarie 2030, instalațiile medii de ardere care fac parte din sisteme izolate mici sau microsisteme izolate respectă valorile-limită de emisie prevăzute în tabelele 1-3 din partea 1 a anexei nr. 2 ."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "(1) Până la data de 1 ianuarie 2030, instalațiile medii de ardere existente cu o putere termică nominală mai mare de 5 MW sunt exceptate de la obligația de a respecta valorile-limită de emisie prevăzute în anexa nr. 2 , cu condiția ca cel puțin 50% din producția de energie termică utilă a instalației, ca medie mobilă pe o perioadă de 5 ani, să fie distribuită sub formă de aburi sau apă caldă unei rețele publice de termoficare. (2) În situația aplicării exceptării prevăzute la alin. (1) , valorile-limită de emisie stabilite de autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză nu depășesc 1.100 mg/Nmc pentru SO_2 și 150 mg/Nmc pentru pulberi."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "(1) Până la data de 1 ianuarie 2030, instalațiile medii de ardere care folosesc biomasă solidă drept combustibil principal sunt exceptate de la obligația de a respecta valorile-limită de emisie pentru pulberi prevăzute în anexa nr. 2 , cu condiția ca aceste instalații să fie situate în zone în care, potrivit evaluărilor realizate în concordanță cu prevederile Legii nr. 104/2011 privind calitatea aerului înconjurător, cu modificările ulterioare, este asigurată conformitatea cu valorile-limită impuse pentru poluanții pentru care se realizează evaluarea calității aerului. (2) În situația aplicării exceptării prevăzute la alin. (1) , valorile-limită de emisie stabilite de autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză nu depășesc 150 mg/Nmc în cazul pulberilor."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "În oricare dintre cazurile prevăzute la art. 22 și 23 autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză se asigură că nu se produce nicio poluare semnificativă și că se obține un nivel ridicat de protecție a mediului în ansamblul său."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Până la 1 ianuarie 2030, instalațiile medii de ardere cu o putere termică nominală mai mare de 5 MW, exploatate pentru a alimenta stațiile de comprimare a gazelor naturale necesare asigurării siguranței și securității sistemului național de transport al gazelor naturale, sunt exceptate de la obligația de a respecta valorile-limită de emisie de NO_x prevăzute în tabelul 3 din partea 1 a anexei nr. 2 ."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Începând cu 20 decembrie 2018, emisiile în aer de SO_2, NO_x și pulberi provenite de la instalațiile medii de ardere noi nu depășesc valorile-limită de emisie prevăzute în partea a 2-a din anexa nr. 2 ."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "(1) Instalațiile medii de ardere noi care nu funcționează mai mult de 500 de ore pe an, calculate ca medie mobilă pe o perioadă de 3 ani, sunt exceptate de la obligația de a respecta valorile-limită de emisie prevăzute în partea a 2-a din anexa nr. 2 . (2) Pentru instalațiile care ard combustibili solizi, în situația aplicării unei exceptări prevăzute la alin. (1) , autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză stabilește ca cerință specifică o valoare-limită de emisie pentru pulberi de 100 mg/Nmc."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "(1) În zonele și aglomerările sau în părți ale acestora încadrate în regimul I de gestionare conform prevederilor art. 42 lit. a) din Legea nr. 104/2011 , cu modificările ulterioare, autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză evaluează necesitatea de a aplica, pentru fiecare instalație medie de ardere din aceste zone sau părți ale acestor zone, valori-limită de emisie mai stricte decât cele prevăzute în prezenta lege, ca măsură a planului de calitate a aerului elaborat pentru acea zonă sau aglomerare în conformitate cu prevederile art. 43 alin. (1) din Legea nr. 104/2011 , cu modificările ulterioare. (2) La aplicarea unor asemenea valori-limită de emisie se ține cont de rezultatele schimbului de informații organizat de Comisia Europeană în legătură cu nivelurile de emisii care pot fi obținute prin utilizarea celor mai bune tehnologii disponibile și a tehnologiilor emergente luând în considerare și costurile aferente acestora, cu condiția ca aplicarea unor asemenea valori-limită de emisie să contribuie efectiv la o îmbunătățire semnificativă a calității aerului."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "(1) În cazul în care operatorul unei instalații medii de ardere care utilizează, în mod normal, combustibil cu conținut scăzut de sulf nu poate să respecte valorile-limită de emisie pentru SO_2 din cauza unei întreruperi a aprovizionării cu combustibil cu conținut scăzut de sulf, ca urmare a unei penurii grave, autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză poate acorda o derogare de la obligația respectării valorilor-limită de emisie pentru SO_2 prevăzute la art. 19 și 26 , pentru o perioadă de maximum șase luni, cu înștiințarea autorității publice centrale pentru protecția mediului. (2) Autoritatea publică centrală pentru protecția mediului informează Comisia Europeană cu privire la orice derogare acordată în conformitate cu prevederile alin. (1) , în termen de o lună de la acordarea acesteia."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "(1) În cazul în care, din cauza unei întreruperi neașteptate a furnizării de gaz, operatorul unei instalații medii de ardere care utilizează numai combustibil gazos trebuie să recurgă în mod excepțional la utilizarea altor combustibili, motiv pentru care instalația ar trebui să fie dotată cu un echipament secundar de reducere a emisiilor, autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul în cauză, cu înștiințarea autorității publice centrale pentru protecția mediului, poate acorda o derogare de la obligația respectării valorilor-limită de emisie prevăzute la art. 19 și 26 . (2) Perioada pentru care se acordă o astfel de derogare nu poate depăși 10 zile, cu excepția cazului în care operatorul demonstrează autorității publice teritoriale pentru protecția mediului în a cărei rază de competență se află operatorul în cauză că se justifică o perioadă mai îndelungată. (3) Autoritatea publică centrală pentru protecția mediului informează Comisia Europeană cu privire la orice derogare acordată în conformitate cu prevederile alin. (1) și (2) , în termen de o lună de la acordarea acesteia."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 4-a - Valorile-limită de emisie",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "În cazul în care o instalație medie de ardere utilizează simultan două sau mai multe tipuri de combustibil, autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află operatorul instalației în cauză stabilește valorile-limită de emisie, respectând etapele următoare: a) adoptarea valorii-limită de emisie relevantă pentru fiecare combustibil, astfel cum este prevăzută în anexa nr. 2 ; b) determinarea valorii-limită de emisie ponderată în funcție de combustibil, care se obține, pentru fiecare combustibil în parte, înmulțind valoarea-limită de emisie individuală menționată la lit. a) cu puterea termică a combustibilului, produsul înmulțirii fiind împărțit la suma puterilor termice produse de toți combustibilii; și c) însumarea valorilor-limită de emisie ponderate în funcție de combustibil."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 5-a - Verificarea conformității și modificări ale instalațiilor medii de ardere",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "(1) Autoritatea publică teritorială de inspecție și control verifică conformarea valorilor de emisie rezultate în urma monitorizării efectuate de operator și validate de către acesta, astfel cum este prevăzut în anexa nr. 3 , în raport cu valorile-limită de emisie stabilite în autorizația de mediu sau în documentul de confirmare a înregistrării în conformitate cu prevederile anexei nr. 2 . (2) În scopul verificării conformității instalațiilor medii de ardere cu cerințele prezentei legi, autoritatea publică teritorială de inspecție și control instituie un sistem de inspecții de mediu. (3) În cazul situațiilor de neconformare a instalațiilor medii de ardere cu cerințele prezentei legi, în completarea măsurilor pe care operatorii sunt obligați să le aplice în temeiul prevederilor art. 13 , autoritățile publice teritoriale de inspecție și control solicită operatorilor să ia orice măsuri suplimentare pe care autoritatea competentă le consideră necesare pentru a asigura restabilirea neîntârziată a conformității. (4) În cazul în care neconformitățile cauzează o degradare semnificativă a calității aerului din zonă, autoritatea publică teritorială pentru protecția mediului de inspecție și control dispune întreruperea funcționării instalațiilor medii de ardere până la restabilirea conformității."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 5-a - Verificarea conformității și modificări ale instalațiilor medii de ardere",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "(1) Operatorii sunt obligați să informeze, fără întârziere, autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență se află cu privire la orice modificări planificate la instalațiile medii de ardere care ar afecta valorile-limită de emisie stabilite în documentul de confirmare a înregistrării potrivit prevederilor anexei nr. 4 sau în autorizația de mediu. (2) Autoritatea prevăzută la alin. (1) actualizează autorizația de mediu sau, după caz, documentul de confirmare a înregistrării cu stabilirea cerințelor specifice instalațiilor medii de ardere, în urma modificărilor prevăzute la alin. (1) ."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul II - Obligații și responsabilități | Secţiunea a 6-a - Raportarea",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "(1) Până la data de 1 octombrie 2026 și, respectiv, 1 octombrie 2031, autoritatea publică centrală pentru protecția mediului transmite Comisiei Europene un raport elaborat de autoritatea publică centrală cu competențe în implementarea politicilor și legislației în domeniul protecției mediului în colaborare cu autoritatea publică centrală de inspecție și control în domeniul protecției mediului, conținând informații calitative și cantitative privind implementarea prevederilor prezentei legi, cu privire la: a) măsurile luate pentru verificarea și asigurarea funcționării instalațiilor medii de ardere în conformitate cu prevederile prezentei legi; b) sancțiunile aplicate pentru asigurarea respectării prevederilor prezentei legi. (2) Primul raport prevăzut la alin. (1) va cuprinde o estimare a emisiilor anuale totale de SO_2, NO_x și pulberi provenite de la instalațiile medii de ardere grupate în funcție de tipul de instalație, tipul de combustibil și de clasa de putere termică nominală. (3) Până la data de 1 ianuarie 2021, autoritatea publică centrală pentru protecția mediului transmite Comisiei Europene un raport elaborat de autoritatea publică centrală cu competențe în implementarea politicilor și legislației în domeniul protecției mediului, conținând o estimare a emisiilor totale anuale de monoxid de carbon (CO) și orice informații disponibile privind concentrațiile emisiilor de monoxid de carbon provenite de la instalațiile medii de ardere, grupate în funcție de tipul de combustibil și de clasa de putere termică nominală. (4) În vederea asigurării conformării cu prevederile alin. (3) , autoritatea publică centrală cu competențe în implementarea politicilor și legislației în domeniul protecției mediului elaborează inventarul instalațiilor medii de ardere până la data de 1 ianuarie 2020. (5) Pentru transmiterea rapoartelor prevăzute la alin. (1) și (3) autoritatea publică centrală pentru protecția mediului utilizează formatul de raportare și instrumentele electronice de raportare puse la dispoziție de Comisia Europeană."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul III - Sancțiuni | Secţiunea a 6-a - Raportarea",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "(1) Constituie contravenție dacă nu sunt întrunite elementele constitutive ale unei infracțiuni și se sancționează cu amendă de la 20.000 lei la 50.000 lei, după cum urmează: a) operarea oricărei instalații medii de ardere cu încălcarea de către operatori a prevederilor art. 5 din prezenta lege privind obligativitatea înregistrării instalației medii de ardere; b) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 11 alin. (3) privind obligația de a ține o evidență a rezultatelor monitorizării emisiilor și de a prelucra aceste rezultate în scopul verificării respectării valorilor-limită de emisie în conformitate cu normele stabilite în partea a 2-a din anexa nr. 3 ; c) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 11 alin. (4) privind obligația de a deține o evidență a înregistrărilor sau a informațiilor care atestă funcționarea efectivă continuă a echipamentelor secundare de reducere a emisiilor; d) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 13 alin. (1) privind obligația de a lua măsurile necesare pentru a asigura restabilirea conformității în cel mai scurt timp posibil, în cazul nerespectării valorilor-limită de emisie stabilite în anexa nr. 2 ; e) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 32 alin. (3) privind obligația de a aplica măsurile necesare restabilirii neîntârziate a conformității solicitate de autoritățile publice teritoriale de inspecție și control. (2) Constituie contravenție dacă nu sunt întrunite elementele constitutive ale unei infracțiuni și se sancționează cu amendă de la 30.000 lei la 60.000 lei operarea oricărei instalații medii de ardere cu încălcarea de către operatori a prevederilor art. 6 din prezenta lege privind obligativitatea solicitării emiterii autorizației de mediu în conformitate cu legislația în vigoare privind procedura de emitere a autorizației de mediu. (3) Constituie contravenție dacă nu sunt întrunite elementele constitutive ale unei infracțiuni și se sancționează cu amendă de la 50.000 lei la 100.000 lei, după cum urmează: a) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor privind obligativitatea respectării valorilor-limită de emisii prevăzute în anexa nr. 2 ; b) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 11 alin. (1) și (2) privind obligația de a monitoriza emisiile de poluanți în aer, în concordanță cu prevederile părții 1 a anexei nr. 3 ; c) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 12 privind obligația de a pune la dispoziția autorității publice teritoriale de inspecție și control și autorității publice teritoriale pentru protecția mediului documentele prevăzute la art. 11 alin. (5) , la cererea acestora și fără întârzieri nejustificate; d) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 14 privind obligația de a acorda autorității publice teritoriale de inspecție și control și autorității publice teritoriale pentru protecția mediului a asistenței necesare pentru a permite acestora să efectueze orice fel de inspecții și vizite la fața locului, să preleve probe și să obțină orice informații necesare pentru îndeplinirea obligațiilor care decurg din prezenta lege; e) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 32 alin. (4) privind obligația de a întrerupe funcționarea instalațiilor medii de ardere până la restabilirea conformității, în cazul în care neconformitățile cauzează o degradare semnificativă a calității aerului din zonă; f) nerespectarea de către operatorii instalațiilor medii de ardere care intră sub incidența prezentei legi a prevederilor art. 33 alin. (1) privind obligația de a informa autoritățile publice teritoriale pentru protecția mediului, fără întârziere, cu privire la orice modificări planificate la instalațiile medii de ardere care ar afecta valorile-limită de emisie stabilite în autorizațiile de mediu. (4) Constatarea contravențiilor și aplicarea sancțiunilor prevăzute la alin. (1)-(3) se realizează de către comisarii autorității publice centrale și teritoriale de inspecție și control. (5) Contravențiilor prevăzute la alin. (1)-(3) le sunt aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul III - Sancțiuni | Secţiunea a 6-a - Raportarea",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Autoritatea publică centrală pentru protecția mediului notifică Comisiei Europene dispozițiile prevăzute la art. 35 de îndată ce prezenta lege intră în vigoare și o informează fără întârziere cu privire la orice modificare ulterioară a respectivelor dispoziții."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea a 6-a - Raportarea",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Prevederile art. 35 intră în vigoare la 30 de zile de la data publicării prezentei legi."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea a 6-a - Raportarea",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, autoritatea publică centrală pentru protecția mediului aprobă prin ordin al conducătorului acesteia normele prevăzute la art. 13 alin. (2) ."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea a 6-a - Raportarea",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Anexele nr. 1-4 fac parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea a 6-a - Raportarea",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Pentru instalațiile de ardere cu putere termică nominală mai mare sau egală cu 1 MW și mai mică de 50 MW, la data intrării în vigoare a prezentei legi încetează aplicabilitatea prevederilor punctului 1 „Domeniu de aplicare“, din anexa nr. 2 „Norme de limitare a emisiilor de poluanți pentru instalațiile de ardere“ la Condițiile tehnice privind protecția atmosferei, aprobate prin Ordinul ministrului apelor, pădurilor și protecției mediului nr. 462/1993 pentru aprobarea Condițiilor tehnice privind protecția atmosferei și Normelor metodologice privind determinarea emisiilor de poluanți atmosferici produși de surse staționare, publicat în Monitorul Oficial al României, Partea I, nr. 190 din 10 august 1993, cu modificările ulterioare. Prezenta lege transpune Directiva (UE) 2015/2.193 a Parlamentului European și a Consiliului din 25 noiembrie 2015 privind limitarea emisiilor în atmosferă a anumitor poluanți provenind de la instalații medii de ardere, publicată în Jurnalul Oficial al Uniunii Europene, seria L, nr. 313/1 din 28 noiembrie 2015."
+    },
+    {
+      "provision_ref": "Art.1",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta procedură se aplică tuturor operatorilor care dețin instalații medii de ardere cu o putere termică nominală mai mică de 20 MW. (2) În aplicarea prevederilor art. 5 alin. (1) din lege, operatorii instalațiilor medii de ardere cu o putere termică nominală mai mică de 20 MW au obligația de a solicita înregistrarea instalației de către autoritatea publică teritorială pentru protecția mediului în a cărei rază de competență sunt amplasate acele instalații, denumită autoritate competentă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În scopul înregistrării unei instalații medii de ardere în registrul prevăzut la art. 16 din lege , operatorul instalației va depune la sediul autorității competente o notificare de solicitare a înregistrării care va conține cel puțin datele și informațiile prevăzute în anexa nr. 1 cu privire la instalația medie de ardere pe care are intenția să o opereze sau pe care o operează, precum și mențiunea că a luat cunoștință de prevederile legii și va respecta obligațiile care îi incumbă prin aplicarea acestor prevederi instalației pentru care solicită înregistrarea. (2) Modelul notificării de solicitare a înregistrării în Registrul instalațiilor medii de ardere este prevăzut în secțiunea B."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În cazul în care notificarea de solicitare a înregistrării nu conține toate datele și informațiile prevăzute în anexa nr. 1 , conține date și informații eronate sau contradictorii sau nu respectă modelul prevăzut în secțiunea B, în termen de 5 zile lucrătoare de la depunerea notificării de către operatorul instalației medii de ardere, autoritatea competentă transmite acestuia o informare care trebuie să conțină toate neregulile constatate și mențiunea că solicitarea de înregistrare a fost respinsă și că este necesară depunerea unei noi notificări în termen de 10 zile de la data primirii respingerii privind înregistrarea."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "În cazul în care notificarea de solicitare a înregistrării este considerată conformă, în termen de 5 zile lucrătoare de la data depunerii acesteia autoritatea competentă transmite operatorului o informare privind acceptarea notificării."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Autoritatea competentă înregistrează o instalație medie de ardere în Registrul instalațiilor medii de ardere în termen de 30 de zile de la data depunerii de către operatorul instalației a notificării de solicitare a înregistrării."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) În termen de 5 zile de la înregistrarea unei instalații în Registrul instalațiilor medii de ardere, autoritatea competentă emite și eliberează operatorului documentul de confirmare a înregistrării. (2) Documentul de confirmare a înregistrării, al cărui model este prevăzut în secțiunea C a prezentei anexe, va conține măsurile pe care operatorul trebuie să le respecte privind monitorizarea emisiilor și condițiile de operare din punctul de vedere al respectării valorilor-limită de emisie impuse prin aplicarea prevederilor legii instalației pentru care s-a solicitat înregistrarea."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "În conformitate cu prevederile legislației în vigoare privind accesul publicului la informația privind mediul, autoritatea competentă actualizează pe propria pagină web lista instalațiilor medii de ardere înregistrate în Registrul instalațiilor medii de ardere, precum și documentele de confirmare a înregistrării respectivelor instalații."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "PARTEA a 2-a | Capitolul IV - Dispoziții tranzitorii și finale | Secţiunea A - Procedura de înregistrare a instalațiilor medii de ardere care nu se supun autorizării de mediu",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) În cazul în care operatorul unei instalații medii de ardere înregistrate conform prezentei proceduri decide planificarea de modificări în ceea ce privește caracteristicile sau funcționarea instalației, care pot avea consecințe asupra mediului și care ar putea afecta valorile-limită de emisie, acesta este obligat să notifice imediat modificările planificate autorității competente. (2) În situația prevăzută la alin. (1) , autoritatea competentă actualizează înregistrarea cu noile caracteristici ale instalației și/sau noile condiții de funcționare, stabilind totodată noile valori-limită de emisie prin aplicarea prevederilor legii la instalația cu modificări. (3) Autoritatea competentă emite și eliberează operatorului documentul de confirmare a înregistrării actualizate după modelul prevăzut în secțiunea C , în care va include noile condiții de funcționare a instalației, respectiv noile valori-limită de emisie stabilite prin aplicarea prevederilor legii la instalația cu modificări."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-42868",
+  "type": "statute",
+  "title": "LEGE nr. 108 din 2 aprilie 2003",
+  "short_name": "lege 108 02 04 2003",
+  "status": "in_force",
+  "issued_date": "2003-04-02",
+  "in_force_date": "2003-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/42868",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 108 02/04/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 179 din 6 decembrie 2002 privind demilitarizarea unităților aparatului central al Ministerului de Interne și a structurilor subordonate acestuia, publicată în Monitorul Oficial al României, Partea I, nr. 925 din 18 decembrie 2002, cu următoarea modificare: – Articolul 3 va avea următorul cuprins: Articolul 3 Personalul Ministerului de Interne beneficiază de drepturile dobândite anterior, precum și de cele care vor fi stabilite pentru personalul din sistemul național de apărare, ordine publică și siguranța naționala."
+    }
+  ],
+  "definitions": []
+}

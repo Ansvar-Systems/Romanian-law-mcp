@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-265504",
+  "type": "statute",
+  "title": "LEGE nr. 55 din 3 martie 2023",
+  "short_name": "lege 55 03 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-03",
+  "in_force_date": "2023-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265504",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 55 03/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 152 din 11 noiembrie 2022 pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, publicată în Monitorul Oficial al României, Partea I, nr. 1091 din 11 noiembrie 2022."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Pentru aplicarea prevederilor pct. 4 al articolului unic din Legea nr. 378/2022 pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, se autorizează Ministerul Finanțelor să introducă modificările corespunzătoare în anexa nr. 9 la Legea bugetului de stat pe anul 2023 nr. 368/2022 , la propunerea Secretariatului de Stat pentru Culte, în termen de 5 zile lucrătoare de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

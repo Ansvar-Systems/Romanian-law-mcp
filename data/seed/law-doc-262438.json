@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262438",
+  "type": "statute",
+  "title": "LEGE nr. 348 din 12 decembrie 2022",
+  "short_name": "lege 348 12 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-12",
+  "in_force_date": "2022-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262438",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 348 12/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Tratatul dintre România și Guvernul Malaysiei privind extrădarea, semnat la Kuala Lumpur la 6 decembrie 2021."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166310",
+  "type": "statute",
+  "title": "LEGE nr. 34 din 11 martie 2015",
+  "short_name": "lege 34 11 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-11",
+  "in_force_date": "2015-03-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166310",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 11/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 36 din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari, publicată în Monitorul Oficial al României, Partea I, nr. 490 din 23 iulie 2007, cu modificările ulterioare, după litera f) se introduce o nouă literă, litera g), cu următorul cuprins: \"g) informarea trimestrială, în scris sau prin poşta electronică, a proprietarilor, membrii asociaţiei de proprietari, cu privire la situaţia financiară cuprinzând toate elementele de cheltuieli, venituri, încasări şi plăţi aferente asociaţiei de proprietari, sub semnătura proprie şi contrasemnată de preşedintele şi de cenzorul asociaţiei de proprietari.\""
+    }
+  ],
+  "definitions": []
+}

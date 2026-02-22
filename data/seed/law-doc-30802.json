@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-30802",
+  "type": "statute",
+  "title": "LEGE nr. 51 din 2 aprilie 1930",
+  "short_name": "lege 51 02 04 1930",
+  "status": "in_force",
+  "issued_date": "1930-04-02",
+  "in_force_date": "1930-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30802",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 51 02/04/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se vor pedepsi cu închisoare corecţională dela 3 luni pînă la 2 ani toţi acei cari vor fi răspândit în public prin publicaţiuni, broşuri, ziare, circulari, afişe sau vor fi colportat prin viu grai fapte neadevărate de natura a produce panica sau de a turbura siguranţa Statului, ordinea publică sau liniştea cetăţenilor. Cînd răspândirea în public a faptelor neadevărate prin mijloacele arătate mai sus ar putea atinge încrederea în creditul Statului, al Instituţiilor de credit garantat de Stat, precum şi al institutiunilor de credit particular, sau va fi pricinuit un pericol sau o turburare pentru creditul public şi privat, pedeapsa va fi dela 6 luni la 3 ani închisoare corecţională."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se vor pedepsi cu închisoare corecţională dela un an pînă la 3 ani toţi acei ce vor fi adus cunostintei publice acte sau fapte privitoare la interese superioare de Stat, secrete, prin natura lor sau declarate astfel de lege. Cînd divulgarea actelor sau faptelor arătate mai sus se va săvârşi de însăşi cei însărcinaţi cu păstrarea lor, pedeapsa va fi maximum închisorii corecţionale."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Judecarea acestor delicte se va face de tribunalele corecţionale în prima instanţa. În toate cazurile urmărirea acelora ce au săvârşit vreunul din delictele pedepsite de această lege nu se va putea începe decât din iniţiativa sau cu aprobarea unuia din şefii departamentelor a căror interese au fost lezate. Procesele se vor judeca de urgenta şi cu precădere înaintea tuturor celorlalte procese."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Acţiunea publică şi cea privată privitoare la infracţiunile prevăzute mai sus se prescriu după un an dela săvîrşirea lor. Desbateri: Senat Nr. 21-1929/30; Camera Nr. 39 şi 41-1929/30. Votat de Senat la 26 Martie şi de Adunarea Deputaţilor la 18 Martie 1930. --------"
+    }
+  ],
+  "definitions": []
+}

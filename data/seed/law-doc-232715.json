@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-232715",
+  "type": "statute",
+  "title": "LEGE nr. 237 din 6 noiembrie 2020",
+  "short_name": "lege 237 06 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-06",
+  "in_force_date": "2020-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/232715",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 237 06/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 27 alineatul (2^3) din Legea fondului funciar nr. 18/1991, republicată în Monitorul Oficial al României, Partea I, nr. 1 din 5 ianuarie 1998, cu modificările și completările ulterioare, litera a) se modifică și va avea următorul cuprins: a) dacă deținătorii sau moștenitorii acestora figurează cu casa de locuit în registrele agricole sau registrele cadastrale și în evidențele fiscale;"
+    }
+  ],
+  "definitions": []
+}

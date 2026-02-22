@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-34880",
+  "type": "statute",
+  "title": "LEGE nr. 126 din 1 aprilie 1937",
+  "short_name": "lege 126 01 04 1937",
+  "status": "in_force",
+  "issued_date": "1937-04-01",
+  "in_force_date": "1937-04-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34880",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 126 01/04/1937",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Invalizii prevăzuţi la art. 2 şi 10 din Legea privitoare la pensiile de razboiu din 2 Septemvrie 1920, puşi definitiv în retragere pentru infirmităţi dobândite în războiul pentru întregirea Neamului şi constatate pînă la 1 Aprilie 1933, care din orice motive au scăpat termenele de înscriere la pensie, prevăzute în legile anterioare celei de faţa, vor putea sa ceara Casei Generale de Pensiuni, cel târziu pînă la 1 Ianuarie 1938, înscrierea lor la pensie, în condiţiunile legii din 2 Septemvrie 1920, cu modificările ei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Deciziunile Comisiunilor de pensiuni, date pînă la publicarea prezentei legi, pentru cazurile prevăzute la art. 1 de mai sus, chiar dacă acele deciziuni au rămas definitive, cu derogare dela dispoziţiunile art. 106 din Legea generală de pensiuni din 1925, precum şi ale art. 7 din Legea interpretativa din 21 Iulie 1931, se vor putea revizui dacă cel interesat va face Casei Generale de Pensiuni cerere de revizuire pînă la 1 Ianuarie 1938."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Urmaşii invalizilor, prevăzuţi la art. 1 din legea de faţa se vor bucura de dispoziţiunile prezentei legi şi în aceleaşi condiţiuni."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Se extind de asemeni şi drepturile de pensionare ale ofiţerilor invalizi, clasaţi pînă la data trecerii armatei pe picior de pace şi asupra celor clasaţi ulterior acestei date, şi numai pînă la 1 Aprilie 1923, ultim termen acordat de art. 36 din legea susmentionata. Aceste prevederi se vor aplica şi invalizilor de razboiu dinainte de 1916, şi a căror invaliditate se menţine."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Pensiunile stabilite în conformitate cu prezenta lege, se vor plati cu începere dela 1 Aprilie 1938. Votat de Adunarea Deputaţilor şi de Senat la 20 Martie 1937. -------------"
+    }
+  ],
+  "definitions": []
+}

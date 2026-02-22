@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239603",
+  "type": "statute",
+  "title": "LEGE nr. 42 din 17 martie 2021",
+  "short_name": "lege 42 17 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-17",
+  "in_force_date": "2021-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239603",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 42 17/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 112 din 9 iulie 2020 pentru asigurarea de la bugetul de stat, prin bugetul Ministerului Sănătății, a sumelor necesare acoperirii plății TVA aferente bunurilor și serviciilor achiziționate în cadrul Programului ROU-T-MOH „Abordarea provocărilor sistemului de sănătate privind controlul tuberculozei în România“, publicată în Monitorul Oficial al României, Partea I, nr. 608 din 10 iulie 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-12036",
+  "type": "statute",
+  "title": "LEGE nr. 200 din 26 noiembrie 1997",
+  "short_name": "lege 200 26 11 1997",
+  "status": "in_force",
+  "issued_date": "1997-11-26",
+  "in_force_date": "1997-11-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/12036",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 200 26/11/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă Ordonanța Guvernului nr. 21 din 18 august 1997 privind instituirea sistemului de cupoane pentru agricultori, emisă în temeiul art. 1 lit. b) din Legea nr. 134/1997 pentru abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 200 din 20 august 1997, cu următoarele modificări și completări: 1. La articolul 1, alineatul 4 va avea următorul cuprins: Pentru moștenitori, persoane fizice prevăzute la alin. 3 lit. a)-d), care dețin terenuri agricole în indiviziune, cupoanele se acordă, pentru întreaga suprafața, celui care se prezintă să le ridice și care va prezenta o declarație pe propria răspundere ca are acordul celorlalți moștenitori. 2. La articolul 2, alineatul 4 va avea următorul cuprins: Falsificarea listei cu prilejul întocmirii sau modificarea acesteia prin contrafacere, ori schimbarea numelor se pedepsește conform legii. 3. Articolul 6 va avea următorul cuprins: Articolul 6 Furnizorii care livreaza bunurile ori efectuează serviciile prevăzute la art. 3 alin. 1 vor incasa contravaloarea acestora prin băncile comerciale, în termen de 7 zile de la solicitare, în condițiile stabilite prin convenții încheiate cu Ministerul Agriculturii și Alimentației. Depășirea de către băncile comerciale a termenului prevăzut la alin. 1 se sancționează conform legii. 4. La articolul 8, alineatul 2 va avea următorul cuprins: Falsificarea cupoanelor pentru agricultori se pedepsește conform legii."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Ordonanța Guvernului nr. 21/1997 privind instituirea sistemului de cupoane pentru agricultori, cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României."
+    }
+  ],
+  "definitions": []
+}

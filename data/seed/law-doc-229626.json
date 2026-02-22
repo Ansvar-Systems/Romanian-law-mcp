@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-229626",
+  "type": "statute",
+  "title": "LEGE nr. 194 din 28 august 2020",
+  "short_name": "lege 194 28 08 2020",
+  "status": "in_force",
+  "issued_date": "2020-08-28",
+  "in_force_date": "2020-08-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/229626",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 194 28/08/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 1 din Legea nr. 239/2007 privind reglementarea regimului juridic al unor bunuri imobile aflate în folosința unităților de cult, publicată în Monitorul Oficial al României, Partea I, nr. 517 din 1 august 2007, alineatul (1) se modifică și va avea următorul cuprins: Articolul 1 (1) Imobilele aflate în proprietatea statului ori a unităților administrativ-teritoriale, atribuite în folosință gratuită cultelor religioase după 1 ianuarie 1990, pot fi transmise fără plată în proprietatea unităților de cult deținătoare, în condițiile prezentei legi."
+    }
+  ],
+  "definitions": []
+}

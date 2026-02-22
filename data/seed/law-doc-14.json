@@ -1,0 +1,1980 @@
+{
+  "id": "law-doc-14",
+  "type": "statute",
+  "title": "LEGE nr. 70 din 8 mai 1934",
+  "short_name": "lege 70 08 05 1934",
+  "status": "in_force",
+  "issued_date": "1934-05-08",
+  "in_force_date": "1934-05-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/14",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 70 08/05/1934",
+  "provisions": [
+    {
+      "provision_ref": "Par.1",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "pentru organizarea şi reglementarea comerţului de banca*)"
+    },
+    {
+      "provision_ref": "Par.1-2",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "1. Prin întreprindere de banca se înţelege orice întreprindere comercială al carei obiect principal este acela de a săvârşi orice fel de operaţiuni asupra sumelor de bani în numerar, asupra creditelor, asupra efectelor de comerţ, asupra diferitelor valori negociabile, precum şi orice alte operaţiuni în legătură cu acestea."
+    },
+    {
+      "provision_ref": "Par.2",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "2. Comerţul de banca nu se poate exercita decât numai de către societăţi bancare, constituite în condiţiunile legii de faţa."
+    },
+    {
+      "provision_ref": "Par.3",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "3. Se considera societate bancară orice societate comercială înscrisă în registrul societăţilor bancare."
+    },
+    {
+      "provision_ref": "Par.5",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "Întreprinderile, al căror obiect principal este comerţul de banca, neînscrise în acest registru, pe lîngă celelalte sancţiuni civile şi penale, vor fi puse în stare de lichidare potrivit art. 54, alineatul final, din această lege."
+    },
+    {
+      "provision_ref": "Par.4",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "4. Comerţul de banca nu se poate exercita decât pe baza unei autorizatiuni speciale."
+    },
+    {
+      "provision_ref": "Par.7",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "7",
+      "title": "Paragraful 7",
+      "content": "Aceasta autorizaţiune se acordă de către Consiliul Superior Bancar în condiţiunile legii de faţa şi poate fi data pentru tot felul de operaţiuni de banca sau numai pentru un număr limitat din aceste operaţiuni."
+    },
+    {
+      "provision_ref": "Par.8",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "8",
+      "title": "Paragraful 8",
+      "content": "Nefolosirea autorizaţiunii timp de un an de la data acordării ei, atrage de plin drept pierderea beneficiului de a exercita comerţul de banca."
+    },
+    {
+      "provision_ref": "Par.9",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "9",
+      "title": "Paragraful 9",
+      "content": "Autorizaţiunea va putea fi totuşi reînnoită după o noua examinare a condiţiunilor de încuviinţare."
+    },
+    {
+      "provision_ref": "Par.5-10",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "5. Cererea de autorizare se va adresa Consiliului Superior Bancar, instituit potrivit art. 42 din prezenta lege, la care se va alătură actul constitutiv şi statutele."
+    },
+    {
+      "provision_ref": "Par.11",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "11",
+      "title": "Paragraful 11",
+      "content": "Consiliul Superior Bancar examinând oportunitatea economică generală şi locală a infiintarii unei noi întreprinderi de banca, precum şi îndeplinirea tuturor condiţiunilor cerute de lege, hotărăşte în mod definitiv asupra infiintarii societăţii."
+    },
+    {
+      "provision_ref": "Par.12",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "12",
+      "title": "Paragraful 12",
+      "content": "Consiliul Superior Bancar poate propune părţilor modificările şi completările care trebuiesc aduse actului constitutiv şi statutelor, cînd cele prezentate cuprind clauze sau norme contrare legii de faţa sau celorlalte legi în vigoare."
+    },
+    {
+      "provision_ref": "Par.6",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "6. Toate întreprinderile bancare funcţionînd în România sînt supuse legii de faţa."
+    },
+    {
+      "provision_ref": "Par.14",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "14",
+      "title": "Paragraful 14",
+      "content": "Întreprinderile bancare cu sediul principal în străinătate, vor putea exercita comerţul de banca în România, constituindu-se în condiţiunile legii de faţa."
+    },
+    {
+      "provision_ref": "Par.15",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "15",
+      "title": "Paragraful 15",
+      "content": "Numai întreprinderile bancare avînd sediul în România pot înfiinţa sucursale pe teritoriul acestei tari."
+    },
+    {
+      "provision_ref": "Par.16",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "16",
+      "title": "Paragraful 16",
+      "content": "În toate societăţile bancare funcţionînd în România, administratorul unic şi cel puţin două treimi din numărul membrilor consiliului de administraţie şi al consiliului de censori vor fi cetăţeni români."
+    },
+    {
+      "provision_ref": "Par.7-17",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "7",
+      "title": "Paragraful 7",
+      "content": "7. Sînt aplicabile societăţilor bancare toate dispoziţiunile din codul de comerţ sau din celelalte legi în vigoare, care nu sînt contrare prescripţiunilor acestei legi."
+    },
+    {
+      "provision_ref": "Par.18",
+      "chapter": "Titlul I - Dispoziţiuni generale",
+      "section": "18",
+      "title": "Paragraful 18",
+      "content": "Dispoziţiunile legii de faţa se aplică şi institutiunilor comerciale de credit, funcţionînd pe bază de legi speciale, în măsura în care nu contravin dispoziţiunilor din acele legi."
+    },
+    {
+      "provision_ref": "Par.8-19",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "8",
+      "title": "Paragraful 8",
+      "content": "8. Societăţile bancare, oricare ar fi felul lor, trebuiesc constituite prin act autentic."
+    },
+    {
+      "provision_ref": "Par.20",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "20",
+      "title": "Paragraful 20",
+      "content": "Statutele unei societăţi bancare vor arata operaţiunile pe care banca este autorizata a le exercita."
+    },
+    {
+      "provision_ref": "Par.9-21",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "9",
+      "title": "Paragraful 9",
+      "content": "9. La fiecare Oficiu al registrului comerţului din ţara se va înfiinţa câte un registru special, denumit \"registrul societăţilor bancare\", în care se va înscrie, în întregime actul constitutiv."
+    },
+    {
+      "provision_ref": "Par.22",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "22",
+      "title": "Paragraful 22",
+      "content": "Odată cu cererea de înscriere se vor depune şi statutele societăţii bancare."
+    },
+    {
+      "provision_ref": "Par.23",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "23",
+      "title": "Paragraful 23",
+      "content": "Înscrierea în registrul societăţilor bancare înlocuieşte înscrierea în registrul comerţului."
+    },
+    {
+      "provision_ref": "Par.24",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "24",
+      "title": "Paragraful 24",
+      "content": "Nici o societate bancară nu va putea fi înscrisă în acest registru mai înainte ca actul constitutiv şi statutele sale sa fi fost aprobate de către Consiliul Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.25",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "25",
+      "title": "Paragraful 25",
+      "content": "La cererea de înscriere se va alătură şi recipisa Casei de Depuneri sau adeverinta Băncii Naţionale a României, de depunerea capitalului în condiţiunile prevăzute de art. 11."
+    },
+    {
+      "provision_ref": "Par.26",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "26",
+      "title": "Paragraful 26",
+      "content": "Înscrierea în acest registru se va face pe baza unei ordonanţe data de judecătorul delegat pe lîngă Oficiul registrului comerţului din localitate unde societatea bancară îşi va stabili sediul sau principal, în conformitate cu deciziunea data potrivit art. 5, fără a mai fi nevoie de vreo alta formalitate cerută de legile comerciale."
+    },
+    {
+      "provision_ref": "Par.27",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "27",
+      "title": "Paragraful 27",
+      "content": "În termen de 30 de zile de la data rămînerii definitive a ordonanţei de înscriere, atît actul constitutiv şi statutele, cat şi deciziunea de încuviinţare data de Consiliul Superior Bancar vor fi publicate, în întregime, în Monitorul Oficial şi, în extras, în unul din ziarele cele mai răspândite în localitate."
+    },
+    {
+      "provision_ref": "Par.28",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "28",
+      "title": "Paragraful 28",
+      "content": "Sînt aplicabile registrului societăţilor bancare toate dispoziţiunile din legea pentru înfiinţarea unui registru al comerţului*), care nu sînt contrarii legii de faţa."
+    },
+    {
+      "provision_ref": "Par.29",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "29",
+      "title": "Paragraful 29",
+      "content": "Societăţile înscrise în acest registru se considera regulat constituite, fără îndeplinirea nici unei alte formalităţi şi au personalitate juridică."
+    },
+    {
+      "provision_ref": "Par.30",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "30",
+      "title": "Paragraful 30",
+      "content": "----------------"
+    },
+    {
+      "provision_ref": "Par.10",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "10",
+      "title": "Paragraful 10",
+      "content": "10. Societăţile bancare sînt supuse dispoziţiunilor referitoare la firmele sociale din legea pentru înfiinţarea unui registru al comerţului, precum şi următoarelor dispoziţiuni."
+    },
+    {
+      "provision_ref": "Par.32",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "32",
+      "title": "Paragraful 32",
+      "content": "Cuvântul de \"banca\" nu poate fi întrebuinţat decât de firma socială a unei întreprinderi bancare legalmente autorizata şi constituită."
+    },
+    {
+      "provision_ref": "Par.33",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "33",
+      "title": "Paragraful 33",
+      "content": "Nici o banca nu poate alege o firma socială care să poată da loc la confuziune cu Banca Naţionala a României sau cu o alta întreprindere bancară existenta."
+    },
+    {
+      "provision_ref": "Par.34",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "34",
+      "title": "Paragraful 34",
+      "content": "Orice modificare a firmei sociale nu se poate face decât cu autorizarea expresă a Consiliului Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.35",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "35",
+      "title": "Paragraful 35",
+      "content": "Pe orice act de corespondenta al societăţii bancare se va arata lămurit capitalul efectiv vărsat, rezervele, localitatea sediului principal şi adresa, sucursalele, precum şi data şi numărul de înscriere în registrul societăţilor bancare."
+    },
+    {
+      "provision_ref": "Par.11-36",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "11",
+      "title": "Paragraful 11",
+      "content": "11. Capitalul unei societăţi bancare în nume colectiv, în comandită simpla, sau cu răspundere limitată, nu poate fi mai mic: în Bucureşti de 20.000.000 lei, în municipii de 10.000.000 lei, în celelalte comune urbane de lei 5.000.000, iar în comunele rurale de lei 2.000.000."
+    },
+    {
+      "provision_ref": "Par.37",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "37",
+      "title": "Paragraful 37",
+      "content": "Este interzis a se constitui capitalul social prin aporturi în natura sau prin debitari în cont."
+    },
+    {
+      "provision_ref": "Par.38",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "38",
+      "title": "Paragraful 38",
+      "content": "Cel puţin jumătate din capitalul social va trebui să fie efectiv vărsat la constituirea societăţii, iar restul cel mai târziu într-un an de la constituire."
+    },
+    {
+      "provision_ref": "Par.12-39",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "12",
+      "title": "Paragraful 12",
+      "content": "12. Capitalul societăţilor bancare anonime sau în comandită pe acţiuni, nu va putea fi mai mic decât indoitul sumelor specificate în articolul precedent, după localităţi."
+    },
+    {
+      "provision_ref": "Par.40",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "40",
+      "title": "Paragraful 40",
+      "content": "Este interzisă constituirea capitalului social prin aporturi în natura sau prin debitari în cont."
+    },
+    {
+      "provision_ref": "Par.41",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "41",
+      "title": "Paragraful 41",
+      "content": "Fiecare din membrii fondatori ai societăţilor bancare pe acţiuni este obligat a păstra timp de 5 ani o cota de cel puţin 30% din capitalul ce a subscris. Aceste acţiuni vor fi nominative şi blocate la sediul băncii."
+    },
+    {
+      "provision_ref": "Par.42",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "42",
+      "title": "Paragraful 42",
+      "content": "Cel puţin jumătate din capitalul subscris va fi vărsat pînă în ziua constituirii societăţii, restul urmând a fi vărsat cel mai târziu într-un an de la constituire."
+    },
+    {
+      "provision_ref": "Par.43",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "43",
+      "title": "Paragraful 43",
+      "content": "Capitalul social va fi divizat în acţiuni a căror valoare nominală nu poate fi mai mica de 500 lei fiecare."
+    },
+    {
+      "provision_ref": "Par.44",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "44",
+      "title": "Paragraful 44",
+      "content": "Sînt interzise acţiunile cu vot plural."
+    },
+    {
+      "provision_ref": "Par.45",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "45",
+      "title": "Paragraful 45",
+      "content": "Cheltuielile de constituire nu vor putea depăşi 5 la suta din valoarea capitalului social şi ele vor fi amortizate în decursul primilor 5 ani de la înfiinţarea societăţii."
+    },
+    {
+      "provision_ref": "Par.13",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "13",
+      "title": "Paragraful 13",
+      "content": "13. Orice societate bancară este obligată a prelua în fiecare an cel puţin 10 la suta din beneficiile nete pentru constituirea unui fond de rezerva, destinat sa acopere eventualele pierderi din operaţiunile băncii."
+    },
+    {
+      "provision_ref": "Par.47",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "47",
+      "title": "Paragraful 47",
+      "content": "Aceste preluări se vor efectua pînă ce fondul de rezerva va atinge cel puţin capitalul social."
+    },
+    {
+      "provision_ref": "Par.48",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "48",
+      "title": "Paragraful 48",
+      "content": "După aceea, aceasta obligaţie se reduce la 5 la suta, pînă cînd fondul de rezerva va fi egal cu de doua ori capitalul."
+    },
+    {
+      "provision_ref": "Par.49",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "49",
+      "title": "Paragraful 49",
+      "content": "Rezervele legale, constituite în limitele cotelor obligatorii arătate în alineatele de mai sus, sînt neimpozabile prin derogare de la dispoziţiunile legii contributiunilor directe*)."
+    },
+    {
+      "provision_ref": "Par.50",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "50",
+      "title": "Paragraful 50",
+      "content": "Jumătate din rezervele astfel constituite după promulgarea prezentei legi vor fi plasate în titluri de Stat, garantate de Stat, sau în titluri lombardabile la Banca Naţionala a României."
+    },
+    {
+      "provision_ref": "Par.51",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "51",
+      "title": "Paragraful 51",
+      "content": "----------------"
+    },
+    {
+      "provision_ref": "Par.14-52",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "14",
+      "title": "Paragraful 14",
+      "content": "14. Capitalul unei societăţi bancare nu poate fi sporit prin aporturi în natura sau prin debitari în cont."
+    },
+    {
+      "provision_ref": "Par.53",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "53",
+      "title": "Paragraful 53",
+      "content": "În caz cînd o societate bancară îşi sporeşte capitalul prin emitere de noi acţiuni la un curs superior valorii lor nominale, diferenţa va fi trecută la fondul de rezerva de la art. 13."
+    },
+    {
+      "provision_ref": "Par.54",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "54",
+      "title": "Paragraful 54",
+      "content": "Primele de emisiune, percepute peste valoarea nominală a acţiunilor, cu ocaziunea sporirii capitalului unei societăţi anonime bancare, nu sînt impuse atîta timp cat raportul dintre prima de emisiune şi valoarea nominală a acţiunii este egal cu cel dintre rezerva legală existenta (constituită prin scutire de impozit) şi capitalul social."
+    },
+    {
+      "provision_ref": "Par.15-55",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "15",
+      "title": "Paragraful 15",
+      "content": "15. Nici o societate bancară nu-şi va putea modifica statutele, decât cu autorizarea Consiliului Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.56",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "56",
+      "title": "Paragraful 56",
+      "content": "Aceste modificări se vor înscrie în registrul societăţilor bancare, pe baza unei ordonanţe data de judecătorul delegat la oficiul registrului de comerţ, potrivit procedurii fixată prin art. 9."
+    },
+    {
+      "provision_ref": "Par.16-57",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "16",
+      "title": "Paragraful 16",
+      "content": "16. Nici o sucursala a unei societăţi bancare nu poate lua fiinta, în ţara sau în străinătate, mai înainte de a fi fost autorizata de Consiliul Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.58",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "58",
+      "title": "Paragraful 58",
+      "content": "Neinfiintarea sucursalei în timp de un an de la obţinerea autorizaţiunii atrage de plin drept pierderea beneficiului de a o mai înfiinţa fără o noua aprobare."
+    },
+    {
+      "provision_ref": "Par.59",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "59",
+      "title": "Paragraful 59",
+      "content": "Formalităţile prescrise de art. 9 se vor respecta şi în caz de creatiune a unei sucursale."
+    },
+    {
+      "provision_ref": "Par.60",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "60",
+      "title": "Paragraful 60",
+      "content": "Pe lîngă aceste formalităţi, sucursala va fi înscrisă şi în registrul societăţilor bancare al oficiului registrului de comerţ al locului unde se deschide. În acest caz se vor trece în registru, în întregime, atît actul constitutiv, cat şi numele şi puterile acordate reprezentanţilor ei din sucursala."
+    },
+    {
+      "provision_ref": "Par.17",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "17",
+      "title": "Paragraful 17",
+      "content": "17. Membrii fondatori ai unei societăţi bancare pe acţiuni nu pot stipula, în propriul lor interes, nici un avantaj de natura sa micşoreze capitalul social şi rezervele, nici în momentul constituirii şi nici în viitor."
+    },
+    {
+      "provision_ref": "Par.62",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "62",
+      "title": "Paragraful 62",
+      "content": "Orice stipulaţiune contrară este nulă."
+    },
+    {
+      "provision_ref": "Par.63",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "63",
+      "title": "Paragraful 63",
+      "content": "Ei pot totuşi stipula, prin actul constitutiv, o participare la beneficiile nete ale societăţii, care să nu reprezinte un procent mai mare de 6% calculat asupra beneficiului net, aprobat de adunarea generală, şi care să nu aibă o durată mai mare de 5 ani."
+    },
+    {
+      "provision_ref": "Par.64",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "64",
+      "title": "Paragraful 64",
+      "content": "În caz de sporire a capitalului social în decursul acestor 5 ani, calculul beneficiului net se va face numai în raport cu capitalul social de constituire."
+    },
+    {
+      "provision_ref": "Par.65",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "65",
+      "title": "Paragraful 65",
+      "content": "Plata acestor avantaje sau părţi de fondator nu poate avea loc decât după acordarea unui dividend de minimum 5%, distribuit acţionarilor societăţii. Părţile de fondatori vor fi reprezentate prin titluri nominative de egala valoare, care nu vor putea fi transmise prin acte între vii, sau gajate, decât cu consimţămîntul expres al consiliului de administraţie."
+    },
+    {
+      "provision_ref": "Par.66",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "66",
+      "title": "Paragraful 66",
+      "content": "Sînt consideraţi ca membri fondatori, în înţelesul acestui articol, numai persoanele desemnate ca atare prin actul constitutiv."
+    },
+    {
+      "provision_ref": "Par.18-67",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "18",
+      "title": "Paragraful 18",
+      "content": "18. Administratorii unei societăţi bancare pe acţiuni vor trebui să fie acţionari într-o proporţie de cel puţin 1/200 din valoarea capitalului social."
+    },
+    {
+      "provision_ref": "Par.68",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "68",
+      "title": "Paragraful 68",
+      "content": "Valoarea nominală a acţiunilor prevăzute de acest articol nu poate fi mai mica de 50.000 lei; statutele vor putea însă prevedea ca valoarea acestor acţiuni sa nu depăşească nominal 300.000 lei."
+    },
+    {
+      "provision_ref": "Par.69",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "69",
+      "title": "Paragraful 69",
+      "content": "La intrarea în funcţiune a administratorilor, acţiunile vor fi depozitate cu titlu de garanţie la sediul societăţii şi nu vor putea fi eliberate decât după expirarea sau încetarea mandatului şi numai după descărcarea lor de gestiune, data de adunarea generală a acţionarilor."
+    },
+    {
+      "provision_ref": "Par.70",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "70",
+      "title": "Paragraful 70",
+      "content": "Administratorii societăţilor bancare în nume colectiv sau în comandită simpla vor fi numiţi de adunarea asociaţilor numai dintre asociaţii cu răspundere nemărginită."
+    },
+    {
+      "provision_ref": "Par.71",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "71",
+      "title": "Paragraful 71",
+      "content": "În societăţile cu răspundere limitată administratorii vor fi aleşi tot de adunarea generală a asociaţilor numai dintre posesorii de cote a căror valoare nu poate fi mai mica pentru fiecare administrator în parte de 1/50 din valoarea capitalului social."
+    },
+    {
+      "provision_ref": "Par.19",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "19",
+      "title": "Paragraful 19",
+      "content": "19. Administratorii unei societăţi bancare sînt ţinuţi a executa personal funcţiunile ce le sînt încredinţate, cu grija unui comerciant constiincios şi de a observa secretul comercial."
+    },
+    {
+      "provision_ref": "Par.73",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "73",
+      "title": "Paragraful 73",
+      "content": "Directorii şi funcţionarii băncii nu pot face parte nici din consiliul de administraţie şi nici din consiliul de censori."
+    },
+    {
+      "provision_ref": "Par.20-74",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "20",
+      "title": "Paragraful 20",
+      "content": "20. Administratorii unei societăţi bancare nu pot ocupa fără autorizare expresă a consiliului de administraţie sau, în lipsa unui consiliu, fără autorizarea expresă a adunării asociaţilor, postul de membri în consiliile de administraţie sau de directori în alte întreprinderi bancare şi nici sa participe în asemenea întreprinderi ca asociaţi cu răspundere nemărginită."
+    },
+    {
+      "provision_ref": "Par.75",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "75",
+      "title": "Paragraful 75",
+      "content": "Tot astfel membrii directiunii nu pot conduce, pe contul lor sau pe contul unor terţe persoane, alte întreprinderi bancare, comerciale sau industriale; ei nu pot participa în alte întreprinderi de acest fel, nici în calitate de asociaţi, personal răspunzători şi nici ca administratori sau directori, afară de cazurile cînd exercita aceste funcţiuni cu autorizarea consiliului băncii."
+    },
+    {
+      "provision_ref": "Par.21",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "21",
+      "title": "Paragraful 21",
+      "content": "21. Consiliul de administraţie al unei bănci nu poate delibera valabil decât dacă sînt prezenţi sau reprezentaţi două treimi din numărul total al membrilor care-l compun. Deciziunile consiliului de administraţie al unei bănci se iau cu majoritate absolută a membrilor prezenţi sau reprezentaţi; statutele pot însă prevede o majoritate mai însemnată."
+    },
+    {
+      "provision_ref": "Par.77",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "77",
+      "title": "Paragraful 77",
+      "content": "Un membru din consiliul de administraţie nu poate reprezenta în consiliu mai mult decât un alt membru şi numai pe baza unei delegatiuni speciale."
+    },
+    {
+      "provision_ref": "Par.78",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "78",
+      "title": "Paragraful 78",
+      "content": "Administratorii societăţilor bancare sînt datori a tine un registru de procese-verbale, constatând, în ordine cronologică, deciziunile luate de consiliu, cu menţiunea membrilor care au luat parte la şedinţa, precum şi a rezultatului votului."
+    },
+    {
+      "provision_ref": "Par.79",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "79",
+      "title": "Paragraful 79",
+      "content": "Procesele-verbale vor trebui semnate de membrii care au luat parte la şedinţa. Ele vor consemna impotrivirile exprimate prin opiniile separate ale membrilor prezenţi şi la ele se vor alătură cele trimise ulterior de membrii absenţi."
+    },
+    {
+      "provision_ref": "Par.80",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "80",
+      "title": "Paragraful 80",
+      "content": "Pînă la redactarea definitivă a procesului-verbal, precum şi pînă la trecerea deciziunilor în registrul de procese-verbale, minuta semnată de membrii prezenţi va tine loc de proces-verbal."
+    },
+    {
+      "provision_ref": "Par.22-81",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "22",
+      "title": "Paragraful 22",
+      "content": "22. Administratorii societăţilor bancare, cu al căror vot s-a luat deciziunea, sînt solidar răspunzători, atît faţă de societate, cat şi faţă de terţi, de toate prejudiciile cauzate prin culpa lor, conform regulelor de la mandat."
+    },
+    {
+      "provision_ref": "Par.82",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "82",
+      "title": "Paragraful 82",
+      "content": "Solidaritatea nu poate fi degajata, decât prin împotrivire formala la săvîrşirea actului prejudiciabil consemnată în procesul-verbal, dresat conform articolului precedent."
+    },
+    {
+      "provision_ref": "Par.83",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "83",
+      "title": "Paragraful 83",
+      "content": "Acţiunea în responsabilitate civilă în contra administratorilor, aparţine societăţii, prin adunarea sa generală; pentru deschiderea acţiunii este necesară numai majoritatea absolută de voturi a adunării asociaţiilor. Orice clauza contrară este nulă."
+    },
+    {
+      "provision_ref": "Par.23-84",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "23",
+      "title": "Paragraful 23",
+      "content": "23. Directorii societăţilor bancare, precum şi conducătorii sucursalelor şi agentiilor lor, sînt responsabili, atît faţă de societate, cat şi faţă de terţi, de toate prejudiciile cauzate prin culpa lor, conform regulelor de la mandat."
+    },
+    {
+      "provision_ref": "Par.85",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "85",
+      "title": "Paragraful 85",
+      "content": "Cînd mai mulţi directori au participat la săvîrşirea unor asemenea acte prejudiciabile, responsabilitatea lor este solidară, afară de împotrivirea formala în chiar momentul luării deciziunii pentru încheierea actului."
+    },
+    {
+      "provision_ref": "Par.24-86",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "24",
+      "title": "Paragraful 24",
+      "content": "24. Întreprinderile bancare vor comunică Consiliului Superior Bancar, odată cu trimiterea bilanţurilor, remuneraţia globală acordată administratorilor, directorilor şi censorilor, care nu se preleva asupra beneficiului, făcînd parte din cheltuielile generale, cum ar fi: salariile fixe, jetoanele de prezenta, indemnizaţiile de locuinta, misiune şi transport, gratificatiile de orice fel, tantiemele contractuale sau orice alte sume de aceeaşi natură."
+    },
+    {
+      "provision_ref": "Par.87",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "87",
+      "title": "Paragraful 87",
+      "content": "Toate remuneraţiile alocate conducerii întreprinderilor bancare din beneficiul net, vor fi supuse aprobării adunării generale."
+    },
+    {
+      "provision_ref": "Par.88",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "88",
+      "title": "Paragraful 88",
+      "content": "Se va proceda în acelaşi mod şi pentru participatiile la beneficiu ale personalului."
+    },
+    {
+      "provision_ref": "Par.89",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "89",
+      "title": "Paragraful 89",
+      "content": "Statutele întreprinderilor bancare vor prevedea cotele maxime ce pot fi alocate conducerii şi personalului."
+    },
+    {
+      "provision_ref": "Par.90",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "90",
+      "title": "Paragraful 90",
+      "content": "Totalul cheltuielilor generale ale băncii, exceptând dobânzile plătite, nu va putea depăşi 5 la suta din totalul plasamentelor."
+    },
+    {
+      "provision_ref": "Par.25-91",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "25",
+      "title": "Paragraful 25",
+      "content": "25. Censorii societăţilor bancare pe acţiuni vor trebui să fie acţionari într-o proporţie de cel puţin jumătate din aceea stabilite de art. 18. La intrarea în funcţiune ei vor depune în garanţie aceste acţiuni, conform art. 18."
+    },
+    {
+      "provision_ref": "Par.92",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "92",
+      "title": "Paragraful 92",
+      "content": "Cel puţin unul din censori va fi expert contabil."
+    },
+    {
+      "provision_ref": "Par.93",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "93",
+      "title": "Paragraful 93",
+      "content": "Acesta nu este supus condiţiunilor din alineatul precedent."
+    },
+    {
+      "provision_ref": "Par.94",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "94",
+      "title": "Paragraful 94",
+      "content": "Durata funcţiunii censorilor va fi determinata prin statute, fără a putea depăşi 5 ani şi tot prin statute se va fixa şi modul lor de retribuire, independent de rezultate."
+    },
+    {
+      "provision_ref": "Par.95",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "95",
+      "title": "Paragraful 95",
+      "content": "Censorii al căror mandat a expirat sau a încetat, pot fi realeşi."
+    },
+    {
+      "provision_ref": "Par.26-96",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "26",
+      "title": "Paragraful 26",
+      "content": "26. Membrii din consiliul de censori trebuie să-şi îndeplinească personal atribuţiunile lor legale şi statutare şi sînt datori sa păstreze secretul comercial asupra tuturor celor constatate cu prilejul exercitării funcţiunii lor."
+    },
+    {
+      "provision_ref": "Par.97",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "97",
+      "title": "Paragraful 97",
+      "content": "Consiliul de censori, sau fiecare censor în parte, are dreptul de a asista la deliberaţiunile consiliului de administraţie. Ei vor fi convocaţi în acest scop de preşedintele consiliului de administraţie sau inlocuitorul sau."
+    },
+    {
+      "provision_ref": "Par.98",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "98",
+      "title": "Paragraful 98",
+      "content": "Censorii pot cere oricînd lămuriri şi documente de la administratorii societăţii, sa verifice registrele, casa, depozitele de titluri, utilizarea fondului de rezerva, potrivit art. 13, bilanţul anual, repartizarea beneficiilor etc., despre care vor face o dare de seama prin raportul lor către adunarea generală."
+    },
+    {
+      "provision_ref": "Par.99",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "99",
+      "title": "Paragraful 99",
+      "content": "Aceste cercetări se vor face cu discretiune şi fără a tulbura activitatea normală a băncii."
+    },
+    {
+      "provision_ref": "Par.100",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "100",
+      "title": "Paragraful 100",
+      "content": "În cazul în care se constata abateri de la aplicarea legii, sau nerespectarea statutelor, consiliul de censori, sau fiecare censor în parte, vor aduce cele constatate la cunoştinţa preşedintelui consiliului de administraţie."
+    },
+    {
+      "provision_ref": "Par.101",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "101",
+      "title": "Paragraful 101",
+      "content": "Dacă acesta nu ia de îndată măsurile necesare de îndreptare, censorii vor aduce abaterile la cunoştinţa primei adunări generale, iar dacă neregulile sînt grave, consiliul de censori va convoca în cel mai scurt timp posibil, adunarea generală spre a delibera asupra acestor nereguli, sesizand despre aceasta şi Consiliul Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.102",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "102",
+      "title": "Paragraful 102",
+      "content": "În acest din urmă caz, Consiliul Superior Bancar, verificand reclamatiunea consiliului de censori, va putea lua după expirarea termenului pentru ţinerea adunării generale, măsurile dictate de titlul V din această lege."
+    },
+    {
+      "provision_ref": "Par.103",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "103",
+      "title": "Paragraful 103",
+      "content": "Censorii sînt direct şi solidar răspunzători de prejudiciile cauzate societăţii prin culpa lor, conform regulelor de la mandat."
+    },
+    {
+      "provision_ref": "Par.27-104",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "27",
+      "title": "Paragraful 27",
+      "content": "27. Administratorii, membrii directiunii şi censorii nu pot lua sume de bani pe credit de la societate."
+    },
+    {
+      "provision_ref": "Par.105",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "105",
+      "title": "Paragraful 105",
+      "content": "Cu toate acestea, consiliul de administraţie, cu avizul consiliului de censori, le va putea acorda, pe bază de garanţii reale, credite a căror valoare totală nu va putea întrece, pentru toţi administratorii, censorii şi directorii, 20 la suta din valoarea capitalului social, plus rezervele."
+    },
+    {
+      "provision_ref": "Par.106",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "106",
+      "title": "Paragraful 106",
+      "content": "Este de asemenea interzis a se acordă în cursul primului an de funcţionare a întreprinderii, credite fondatorilor, membrilor consiliului de administraţie, censorilor, directorilor şi rudelor lor pînă la al patrulea grad."
+    },
+    {
+      "provision_ref": "Par.107",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "107",
+      "title": "Paragraful 107",
+      "content": "Nerespectarea dispoziţiunilor prezentului articol, atrage pentru administratorii care au semnat asemenea acte, pierderea mandatului lor, deosebit de responsabilitatea decurgînd din aceste acte."
+    },
+    {
+      "provision_ref": "Par.28-108",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "28",
+      "title": "Paragraful 28",
+      "content": "28. Banca nu va putea încheia cu nici unul din funcţionarii săi, nici un fel de operaţiuni privind patrimoniul băncii, decât cu autorizarea expresă a consiliului de administraţie şi cu avizul consiliului de censori."
+    },
+    {
+      "provision_ref": "Par.29-109",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "29",
+      "title": "Paragraful 29",
+      "content": "29. Nu pot fi fondatori de societăţi bancare, administratori, censori şi directori, persoanele care au suferit vreo condamnare penală pentru furt, escrocherie, abuz de încredere, fals, delapidare, bancruta simpla ori frauduloasă, sau orice crime sau delicte săvîrşite în vederea unui interes patrimonial ilicit, cum şi complicii la asemenea fapte."
+    },
+    {
+      "provision_ref": "Par.110",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "110",
+      "title": "Paragraful 110",
+      "content": "De asemenea nu pot fi fondatori de societăţi bancare, administratori, censori şi directori, faliţii chiar reabilitaţi, cum şi persoanele care sînt sau au fost administratori, censori sau directori ai unei întreprinderi falite."
+    },
+    {
+      "provision_ref": "Par.30-111",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "30",
+      "title": "Paragraful 30",
+      "content": "30. La 30 Iunie al fiecărui an, administratorii societăţilor bancare sînt obligaţi sa întocmească bilanţul brut semestrial al întreprinderii, după modelul tip, stabilit în regulamentul acestei legi*)."
+    },
+    {
+      "provision_ref": "Par.112",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "112",
+      "title": "Paragraful 112",
+      "content": "Bilanţul anual trebuie să fie întocmit şi aprobat de adunarea generală cel mai târziu în termen de patru luni de la finele fiecărui an, după modelul tip stabilit prin regulamentul acestei legi."
+    },
+    {
+      "provision_ref": "Par.113",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "113",
+      "title": "Paragraful 113",
+      "content": "Aceste bilanţuri vor fi depuse la Oficiul registrului comerţului al locului unde banca îşi are sediul principal, precum şi la Oficiul registrului de comerţ al sediului fiecăruia din sucursale, şi vor fi înaintate Consiliului Superior Bancar, cele anuale în termen de maximum 30 zile de la data aprobării lor de către adunarea generală, iar cele semestriale în termen de cel mult două luni de la întocmirea lor, arătându-se şi data publicării în Monitorul Oficial."
+    },
+    {
+      "provision_ref": "Par.114",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "114",
+      "title": "Paragraful 114",
+      "content": "Bilanţul anual se va publică în Monitorul Oficial, în termen de cel mult 15 zile de la expirarea termenului prevăzut de alineatul precedent."
+    },
+    {
+      "provision_ref": "Par.115",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "115",
+      "title": "Paragraful 115",
+      "content": "În acelaşi termen, atît bilanţul anual, cat şi cel semestrial, se vor publică şi în Buletinul Consiliului Superior Bancar cum şi în cel puţin unul din ziarele cele mai răspândite în localitate."
+    },
+    {
+      "provision_ref": "Par.116",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "116",
+      "title": "Paragraful 116",
+      "content": "Societăţile bancare sînt de asemenea obligate a inainta Băncii Naţionale a României situaţiuni sumare lunare, conform modelului stabilit prin regulamentul acestei legi, în termen de maximum 15 zile de la sfîrşitul lunii expirate."
+    },
+    {
+      "provision_ref": "Par.117",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "117",
+      "title": "Paragraful 117",
+      "content": "----------------"
+    },
+    {
+      "provision_ref": "Par.31",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "31",
+      "title": "Paragraful 31",
+      "content": "31. La întocmirea bilanţului se vor observa următoarele reguli:"
+    },
+    {
+      "provision_ref": "Par.119",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "119",
+      "title": "Paragraful 119",
+      "content": "Nu sînt admisibile compensatiuni de partide deosebite, atît în bilanţ, cat şi în contul de profit şi pierdere;"
+    },
+    {
+      "provision_ref": "Par.120",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "120",
+      "title": "Paragraful 120",
+      "content": "Valoarea cambiilor reescontate trebuie să rezulte în mod expres din bilanţ."
+    },
+    {
+      "provision_ref": "Par.121",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "121",
+      "title": "Paragraful 121",
+      "content": "Cambiile primite spre încasare vor fi trecute în conturi de ordine ce se vor alătură la bilanţ."
+    },
+    {
+      "provision_ref": "Par.122",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "122",
+      "title": "Paragraful 122",
+      "content": "Cambiile primite în garanţie şi cele de circulaţiune vor fi trecute în bilanţ, în posturi separate, în măsura în care corespund unui sold creditor pentru banca, diferenţa trecandu-se în conturi de ordine ce se vor alătură la bilanţ."
+    },
+    {
+      "provision_ref": "Par.123",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "123",
+      "title": "Paragraful 123",
+      "content": "Obligaţiunile cambiale ale băncii vor figura în pasivul bilanţului în mod distinct de celelalte obligaţiuni ale ei, fiind clasificate după cum sînt plătibile în ţara sau în străinătate;"
+    },
+    {
+      "provision_ref": "Par.124",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "124",
+      "title": "Paragraful 124",
+      "content": "Cele provenite din raporturi, comodate, depozite şi gajuri, vor fi trecute la conturile de ordine ce se vor alătură la bilanţ."
+    },
+    {
+      "provision_ref": "Par.125",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "125",
+      "title": "Paragraful 125",
+      "content": "Asemenea se vor arata separat valorile mobiliare cu venit fix şi cele cu venit variabil;"
+    },
+    {
+      "provision_ref": "Par.32-126",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "32",
+      "title": "Paragraful 32",
+      "content": "32. Pentru evaluarile diferitelor posturi din bilanţ se vor observa următoarele reguli:"
+    },
+    {
+      "provision_ref": "Par.127",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "127",
+      "title": "Paragraful 127",
+      "content": "Diferenţa de curs ce s-ar realiza în plus după scăderea pierderilor la totalitatea portofoliului de titluri, nu va fi distribuita şi prin derogare la dispoziţiunile legii contributiunilor directe, nu va fi impusa."
+    },
+    {
+      "provision_ref": "Par.128",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "128",
+      "title": "Paragraful 128",
+      "content": "Diferenţa în minus între cele doua cursuri va fi trecută la pierderi."
+    },
+    {
+      "provision_ref": "Par.129",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "129",
+      "title": "Paragraful 129",
+      "content": "Titlurile necotate în bursa nu vor putea fi trecute la un preţ mai mare decât cel de cumpărare sau cel din ultimul bilanţ. În caz ca valoarea actuala a acestor titluri ar fi inferioară preţului de cumpărare sau celei înregistrată în bilanţul precedent, ele vor fi trecute la valoarea lor actuala, iar diferenţa în minus va fi trecută la pierdere;"
+    },
+    {
+      "provision_ref": "Par.130",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "130",
+      "title": "Paragraful 130",
+      "content": "Prin derogare de la dispoziţiunile legii contributiunilor directe creanţele asupra unor debitori recunoscuţi insolvabili, sau pentru parte din aceste creanţe, nu vor fi trecute în bilanţ, ci vor fi înregistrate la pierderi, dacă nu au fost amortizate printr-un fond de rezerva special."
+    },
+    {
+      "provision_ref": "Par.131",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "131",
+      "title": "Paragraful 131",
+      "content": "Creanţele sau parte din creanţe pentru care s-a făcut dovada insolvabilitatii debitorului, prin acte judecătoreşti, cu data certa în ce priveşte încetarea de plati a debitorului şi de la serviciile de constatare ale Ministerului de Finanţe, în ce priveşte averea debitorului, vor putea fi înregistrate la pierderi."
+    },
+    {
+      "provision_ref": "Par.132",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "132",
+      "title": "Paragraful 132",
+      "content": "Pentru dobânzile neîncasate, calculate la creanţele dubioase, se va crea un post rectificativ neimpozabil, prin derogare de la dispoziţiunile legii contributiunilor directe; ele vor fi impuse numai în momentul realizării lor;"
+    },
+    {
+      "provision_ref": "Par.133",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "133",
+      "title": "Paragraful 133",
+      "content": "Prin derogare de la dispoziţiunile legii contributiunilor directe*), la primul bilanţ ce se va alcătui după punerea în aplicare a acestei legi, plus valoarea ce va rezultă pentru imobile din evaluarea lor la preţul de reconstrucţie, faţă de preţul din registre, va fi trecută într-un cont special de amortizare, neimpozabil."
+    },
+    {
+      "provision_ref": "Par.134",
+      "chapter": "Titlul II - Dispoziţiuni referitoare la constituirea şi administrarea societăţilor bancare",
+      "section": "134",
+      "title": "Paragraful 134",
+      "content": "---------------"
+    },
+    {
+      "provision_ref": "Par.33-135",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "33",
+      "title": "Paragraful 33",
+      "content": "33. Prin operaţiune de banca se înţelege orice operaţiune juridică asupra sumelor de bani în numerar, asupra creditelor, asupra efectelor de comerţ şi asupra valorilor negociabile, române sau străine, săvîrşite de o întreprindere bancară."
+    },
+    {
+      "provision_ref": "Par.34-136",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "34",
+      "title": "Paragraful 34",
+      "content": "34. Operaţiunile de banca se împart în:"
+    },
+    {
+      "provision_ref": "Par.137",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "137",
+      "title": "Paragraful 137",
+      "content": "Operaţiunile de banca necesitand o autorizaţiune expresă sînt:"
+    },
+    {
+      "provision_ref": "Par.1-138",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "1. Eliberarea de livrete de economie la purtător sau nominative, dar plătibile la purtător;"
+    },
+    {
+      "provision_ref": "Par.2-139",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "2. Emiterea de bonuri de casa la purtător sau nominative, dar plătibile la purtător;"
+    },
+    {
+      "provision_ref": "Par.3-140",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "3. Emiterea de titluri de obligaţiuni;"
+    },
+    {
+      "provision_ref": "Par.4-141",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "4. Primirea de depozite spre fructificare pe termen sau la vedere, şi"
+    },
+    {
+      "provision_ref": "Par.5-142",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "5. Emiterea de cecuri circulare sau de cecuri de călătorie."
+    },
+    {
+      "provision_ref": "Par.143",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "143",
+      "title": "Paragraful 143",
+      "content": "Toate celelalte operaţiuni de banca sînt considerate ordinare."
+    },
+    {
+      "provision_ref": "Par.35-144",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "35",
+      "title": "Paragraful 35",
+      "content": "35. Dreptul de a elibera livrete de economie la purtător sau nominative dar plătibile la purtător, precum şi de a elibera bonuri de casa la purtător sau nominative dar plătibile la purtător, nu poate fi acordat decât societăţilor bancare avînd o existenta de cel puţin 5 ani şi al căror capital social reprezintă, după felul societăţii, cel puţin indoitul capitalului social cerut de art. 11 şi 12 din prezenta lege."
+    },
+    {
+      "provision_ref": "Par.145",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "145",
+      "title": "Paragraful 145",
+      "content": "Aceste livrete şi bonuri de casa nu vor putea fi emise decât pe bază de depozite în numerar."
+    },
+    {
+      "provision_ref": "Par.146",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "146",
+      "title": "Paragraful 146",
+      "content": "Acest drept nu va putea fi acordat băncilor care au suferit condamnare pentru abateri de la prezenta lege în cursul ultimilor 5 ani."
+    },
+    {
+      "provision_ref": "Par.147",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "147",
+      "title": "Paragraful 147",
+      "content": "Totalul depunerilor pe care o banca le poate primi nu poate fi mai mare de şapte ori valoarea capitalului social, plus rezervele."
+    },
+    {
+      "provision_ref": "Par.148",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "148",
+      "title": "Paragraful 148",
+      "content": "Din acest total depozitele de livrete de economie şi contra bonuri de casa la purtător, sau nominative dar plătibile la purtător, nu pot depăşi de trei ori valoarea capitalului social, plus rezervele."
+    },
+    {
+      "provision_ref": "Par.149",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "149",
+      "title": "Paragraful 149",
+      "content": "Bonurile de casa emise conform acestui articol vor putea avea o valoare mai mica de 5.000 lei fiecare."
+    },
+    {
+      "provision_ref": "Par.150",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "150",
+      "title": "Paragraful 150",
+      "content": "Aceleaşi condiţiuni de capital şi de emisiune sînt obligatorii şi pentru băncile care emit cecuri circulare sau călătorie, fără aplicarea alineatului precedent."
+    },
+    {
+      "provision_ref": "Par.36",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "36",
+      "title": "Paragraful 36",
+      "content": "36. Totalul obligaţiunilor, de orice fel, pe care o banca le poate contracta, nu poate depăşi de 10 ori valoarea capitalului social, plus rezervele."
+    },
+    {
+      "provision_ref": "Par.37-152",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "37",
+      "title": "Paragraful 37",
+      "content": "37. Nici o banca nu va putea acorda unui singur client, fără garanţii reale, un credit mai mare de 10 la suta din valoarea capitalului social, plus rezervele. Aprobarea de credite unui singur client peste 5 la suta din valoarea capitalului social, plus rezervele, este exclusiv de competenţa consiliului de administraţie."
+    },
+    {
+      "provision_ref": "Par.153",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "153",
+      "title": "Paragraful 153",
+      "content": "Orice stipulaţiune contrară acestui articol este nulă."
+    },
+    {
+      "provision_ref": "Par.38-154",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "38",
+      "title": "Paragraful 38",
+      "content": "38. Băncile nu pot face următoarele operaţiuni:"
+    },
+    {
+      "provision_ref": "Par.1-155",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "1",
+      "title": "Paragraful 1",
+      "content": "1. De a cumpara şi vinde mărfuri pe cont propriu."
+    },
+    {
+      "provision_ref": "Par.156",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "156",
+      "title": "Paragraful 156",
+      "content": "Se exceptează de la aceasta interzicere, cumpărarea acelor mărfuri care au fost dobândite în executarea creanţelor băncii şi care vor fi vândute în cel mai scurt timp posibil, precum şi primirea în depozit a mărfurilor engros ale clienţilor săi, sau chiar ale persoanelor străine, în magazii anume destinate."
+    },
+    {
+      "provision_ref": "Par.2-157",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "2",
+      "title": "Paragraful 2",
+      "content": "2. De a cumpara imobile pe cont propriu, afară de acelea necesare exerciţiului comerţului sau de banca sau uzului personalului băncii, precum şi afară de imobilele dobândite în executarea creanţelor băncii. Aceste din urma imobile vor fi vândute în cel mai scurt timp posibil."
+    },
+    {
+      "provision_ref": "Par.158",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "158",
+      "title": "Paragraful 158",
+      "content": "De la aceasta interzicere se exceptează şi imobilele cumpărate pentru inmagazinarea mărfurilor a căror depozitare este permisă în condiţiunile alin. 1 din acest articol."
+    },
+    {
+      "provision_ref": "Par.3-159",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "3",
+      "title": "Paragraful 3",
+      "content": "3. De a cumpara pentru contul lor propriu, titluri producătoare de dividende pentru un total mai mare de 25 la suta din valoarea capitalului social, plus rezervele."
+    },
+    {
+      "provision_ref": "Par.4-160",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "4",
+      "title": "Paragraful 4",
+      "content": "4. De a crea sau participa în alte întreprinderi de orice natura, cu un capital mai mare de 25 la suta din valoarea capitalului social, plus rezervele."
+    },
+    {
+      "provision_ref": "Par.5-161",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "5",
+      "title": "Paragraful 5",
+      "content": "5. De a cumpara propriile lor acţiuni pe cont propriu, de a acorda credite asupra lor, de a le constitui în gaj pentru datoriile băncii, de a le plasa prin colportaj, sau impunandu-le cu prilejul acordării împrumuturilor clienţilor."
+    },
+    {
+      "provision_ref": "Par.162",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "162",
+      "title": "Paragraful 162",
+      "content": "Se exceptează răscumpărarea de acţiuni proprii în vederea reducerii capitalului social, hotarita de adunarea generală extraordinară a acţionarilor."
+    },
+    {
+      "provision_ref": "Par.6-163",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "6",
+      "title": "Paragraful 6",
+      "content": "6. De a primi depozite în numerar sau titluri, cînd patrimoniul băncii se afla în stare de încetare de plati, sau pasivul întrece activul."
+    },
+    {
+      "provision_ref": "Par.164",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "164",
+      "title": "Paragraful 164",
+      "content": "În toate aceste cazuri responsabilitatea administratorilor este prezumată pînă la dovada contrarie."
+    },
+    {
+      "provision_ref": "Par.39",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "39",
+      "title": "Paragraful 39",
+      "content": "39. Nimeni nu poate exercita în mod obişnuit operaţiuni de credit pe termen scurt, nici din capitalul sau propriu şi nici din capitalul altor persoane sau bănci, decât în condiţiunile legii de faţa."
+    },
+    {
+      "provision_ref": "Par.166",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "166",
+      "title": "Paragraful 166",
+      "content": "Prin credit pe termen scurt se înţelege orice fel de operaţiune de împrumut de sume de bani, al căror termen nu este mai lung de şase luni."
+    },
+    {
+      "provision_ref": "Par.167",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "167",
+      "title": "Paragraful 167",
+      "content": "În ce priveşte creditele acordate agricultorilor, aceste se socotesc a fi pe termen scurt cînd scadenta lor nu trece de un an de la acordarea împrumutului."
+    },
+    {
+      "provision_ref": "Par.168",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "168",
+      "title": "Paragraful 168",
+      "content": "Dovada ca o persoană este agricultor se face cu un certificat eliberat de Camera de agricultura competenţa, sau de perceptia respectiva."
+    },
+    {
+      "provision_ref": "Par.40-169",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "40",
+      "title": "Paragraful 40",
+      "content": "40. Băncile care primesc depuneri la vedere sau contractează alte obligaţiuni la vedere, sînt obligate a avea o rezervă în numerar de cel puţin 10 la suta din totalitatea acestor angajamente."
+    },
+    {
+      "provision_ref": "Par.170",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "170",
+      "title": "Paragraful 170",
+      "content": "În afară de aceasta, băncile sînt obligate a avea o rezervă uşor lichidabila, constând din titluri de Stat, sau garantate de Stat, efecte de comerţ sau warante scontabile la Banca Naţionala a României, în proporţie de 1/3 din aceste angajamente."
+    },
+    {
+      "provision_ref": "Par.171",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "171",
+      "title": "Paragraful 171",
+      "content": "Prin depozite şi obligaţiuni la vedere se înţeleg toate depozitele şi obligaţiunile contractate de banca, a căror executare trebuie să aibă loc la cerere sau într-un termen de maximum 30 zile."
+    },
+    {
+      "provision_ref": "Par.41-172",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "41",
+      "title": "Paragraful 41",
+      "content": "41. Întreprinderile bancare care primesc titluri sau efecte de comerţ în depozit sau în gaj, sînt obligate a le păstra cu grija unui comerciant constiincios, de a le înscrie în registre speciale, cu arătarea felului lor, a valorii lor nominale, a numerelor şi seriilor ce poarta, precum şi a tuturor semnelor ce le deosebesc de alte titluri, purtînd aceeaşi denumire."
+    },
+    {
+      "provision_ref": "Par.173",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "173",
+      "title": "Paragraful 173",
+      "content": "Aceste valori nu pot fi date în gaj de către banca şi nici încredinţate altor persoane, decât cu consimţămîntul expres al deponentului sau al celui care a constituit gajul."
+    },
+    {
+      "provision_ref": "Par.174",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "174",
+      "title": "Paragraful 174",
+      "content": "Nici o banca nu poate exercita dreptul de vot aparţinînd titlurilor ce i-au fost date în depozit sau în gaj, decât cu încuviinţarea expresă a deponentului sau constituitorului gajului."
+    },
+    {
+      "provision_ref": "Par.175",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "175",
+      "title": "Paragraful 175",
+      "content": "Aceasta încuviinţare trebuie data cu prilejul fiecărei depuneri de titluri în depozit sau în gaj."
+    },
+    {
+      "provision_ref": "Par.176",
+      "chapter": "Titlul III - Despre operaţiunile de banca",
+      "section": "176",
+      "title": "Paragraful 176",
+      "content": "Pentru valorile primite în depozit sau în gaj întreprinderea bancară este obligată a elibera clientului o adeverinta constatând enumerarea tuturor elementelor distinctive prevăzute în alineatul 1 din acest articol."
+    },
+    {
+      "provision_ref": "Par.42-177",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "42",
+      "title": "Paragraful 42",
+      "content": "42. Pentru aplicarea acestei legi, cum şi pentru supravegherea comerţului de banca în genere, se instituie un Consiliu Superior Bancar, avînd de drept personalitate juridică."
+    },
+    {
+      "provision_ref": "Par.178",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "178",
+      "title": "Paragraful 178",
+      "content": "Consiliul Superior Bancar funcţionează pe lîngă Banca Naţionala a României."
+    },
+    {
+      "provision_ref": "Par.179",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "179",
+      "title": "Paragraful 179",
+      "content": "Acest Consiliu se compune din:"
+    },
+    {
+      "provision_ref": "Par.180",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "180",
+      "title": "Paragraful 180",
+      "content": "Guvernatorul Băncii Naţionale a României;"
+    },
+    {
+      "provision_ref": "Par.181",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "181",
+      "title": "Paragraful 181",
+      "content": "Un delegat desemnat dintre administratorii acestei instituţiuni;"
+    },
+    {
+      "provision_ref": "Par.182",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "182",
+      "title": "Paragraful 182",
+      "content": "Un delegat al Ministerului de Finanţe;"
+    },
+    {
+      "provision_ref": "Par.183",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "183",
+      "title": "Paragraful 183",
+      "content": "Un delegat al Ministerului de Justiţie, ales dintre consilierii Curţii de apel din Bucureşti;"
+    },
+    {
+      "provision_ref": "Par.184",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "184",
+      "title": "Paragraful 184",
+      "content": "Un delegat al Uniunii Camerelor de comerţ şi industrie."
+    },
+    {
+      "provision_ref": "Par.185",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "185",
+      "title": "Paragraful 185",
+      "content": "Un delegat al Uniunii Camerelor de agricultura."
+    },
+    {
+      "provision_ref": "Par.186",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "186",
+      "title": "Paragraful 186",
+      "content": "Profesorul de moneda, credit şi bănci de la Academia de Înalte Studii Comerciale din Bucureşti."
+    },
+    {
+      "provision_ref": "Par.187",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "187",
+      "title": "Paragraful 187",
+      "content": "Patru delegaţi ai Asociaţiunii Băncilor Române, din care unul va fi desemnat de gruparea băncilor mici din aceasta asociaţiune. Cel puţin doi din aceşti delegaţi vor fi din provincie."
+    },
+    {
+      "provision_ref": "Par.188",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "188",
+      "title": "Paragraful 188",
+      "content": "Numirile membrilor care compun Consiliul se fac prin decret regal, după propunerea ministrului de finanţe şi recomandarea institutiunilor care îi desemnează, cu excepţia guvernatorului Băncii Naţionale a României."
+    },
+    {
+      "provision_ref": "Par.189",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "189",
+      "title": "Paragraful 189",
+      "content": "Durata delegatiunilor membrilor din Consiliul Superior Bancar va fi de 4 ani."
+    },
+    {
+      "provision_ref": "Par.190",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "190",
+      "title": "Paragraful 190",
+      "content": "La doi ani de la instituire, trei dintre membrii Consiliului Superior Bancar, afară de guvernatorul Băncii Naţionale a României şi delegaţii Statului, se vor trage la sorţi, mandatul lor incetand de drept."
+    },
+    {
+      "provision_ref": "Par.191",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "191",
+      "title": "Paragraful 191",
+      "content": "În locul lor vor fi îndată numiţi alţi trei membrii, în aceleaşi condiţiuni arătate mai sus."
+    },
+    {
+      "provision_ref": "Par.192",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "192",
+      "title": "Paragraful 192",
+      "content": "Membrii iesiti la sorţi sau al căror mandat a expirat, sau a încetat, pot fi din nou recomandaţi şi numiţi."
+    },
+    {
+      "provision_ref": "Par.193",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "193",
+      "title": "Paragraful 193",
+      "content": "Delegaţiunea membrilor din Consiliul Superior Bancar este irevocabilă, afară de abateri grave ce se vor constata prin deciziunea unanima a celorlalţi membri care compun Consiliul."
+    },
+    {
+      "provision_ref": "Par.194",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "194",
+      "title": "Paragraful 194",
+      "content": "Guvernatorul Băncii Naţionale a României este de drept preşedintele Consiliului Superior Bancar; Consiliul va desemna din sanul sau un vicepreşedinte."
+    },
+    {
+      "provision_ref": "Par.195",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "195",
+      "title": "Paragraful 195",
+      "content": "Membrii numiţi în baza calităţii pe care o deţin, sînt consideraţi demisionaţi atunci cînd activitatea lor încetează."
+    },
+    {
+      "provision_ref": "Par.196",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "196",
+      "title": "Paragraful 196",
+      "content": "Membrii Consiliului trebuie să îndeplinească condiţiunile cerute de art. 29 al prezentei legi. Ei pierd de drept calitatea lor de membri, în cazul unei condamnări definitive pentru faptele prevăzute la acel articol."
+    },
+    {
+      "provision_ref": "Par.43-197",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "43",
+      "title": "Paragraful 43",
+      "content": "43. Pe lîngă Consiliul Superior Bancar se creează un Secretariat general."
+    },
+    {
+      "provision_ref": "Par.198",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "198",
+      "title": "Paragraful 198",
+      "content": "Secretarul general va fi numit prin decret regal, după propunerea Ministerului de Finanţe şi recomandarea Consiliului Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.199",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "199",
+      "title": "Paragraful 199",
+      "content": "Secretarul general va avea un titlu academic de specialitate."
+    },
+    {
+      "provision_ref": "Par.200",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "200",
+      "title": "Paragraful 200",
+      "content": "El va asista la deliberaţiunile Consiliului Superior Bancar, contrasemnand toate deciziunile acestuia."
+    },
+    {
+      "provision_ref": "Par.44-201",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "44",
+      "title": "Paragraful 44",
+      "content": "44. Consiliul Superior Bancar hotărăşte asupra chestiunilor date în competenţa sa, în prezenta a cel puţin 7 membri. El judeca pe bază de memorii scrise la termenul ce va fixa."
+    },
+    {
+      "provision_ref": "Par.202",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "202",
+      "title": "Paragraful 202",
+      "content": "Pentru acest termen partea interesată va fi citata din oficiu, prin scrisoare recomandată, cu cel puţin 10 zile libere înainte de ziua termenului fixat. La primul termen partea interesată va putea cere încă un termen pentru depunere de acte şi memorii."
+    },
+    {
+      "provision_ref": "Par.45-203",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "45",
+      "title": "Paragraful 45",
+      "content": "45. Pentru valabilitatea deciziunilor Consiliului Superior Bancar sînt necesare 6 voturi. În caz de paritate, votul preşedintelui decide."
+    },
+    {
+      "provision_ref": "Par.204",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "204",
+      "title": "Paragraful 204",
+      "content": "Deciziunile Consiliului Superior Bancar trebuiesc motivate."
+    },
+    {
+      "provision_ref": "Par.205",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "205",
+      "title": "Paragraful 205",
+      "content": "Ele sînt definitive."
+    },
+    {
+      "provision_ref": "Par.206",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "206",
+      "title": "Paragraful 206",
+      "content": "Deciziunile Consiliului Superior Bancar sînt obligatorii pentru judecătorul delegat la Oficiul registrului de comerţ, chemat sa dea ordonanţa de înscriere în registrul societăţilor bancare, potrivit art. 9, atît în caz de constituire cat şi în caz de modificare a statutelor băncii."
+    },
+    {
+      "provision_ref": "Par.207",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "207",
+      "title": "Paragraful 207",
+      "content": "Aceste deciziuni se vor comunică prin scrisoare recomandată, în termen de 30 zile de la pronunţarea lor, părţii interesate şi procurorului general al Curţii de Casaţie."
+    },
+    {
+      "provision_ref": "Par.208",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "208",
+      "title": "Paragraful 208",
+      "content": "În termen de 30 zile de la comunicarea deciziunii, partea interesată şi procurorul general vor putea face recurs în Casaţie."
+    },
+    {
+      "provision_ref": "Par.209",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "209",
+      "title": "Paragraful 209",
+      "content": "În caz de admitere a recursului, Curtea de Casaţie va evoca fondul."
+    },
+    {
+      "provision_ref": "Par.210",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "210",
+      "title": "Paragraful 210",
+      "content": "Curtea de Casaţie va judeca de urgenta în camera de consiliu."
+    },
+    {
+      "provision_ref": "Par.211",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "211",
+      "title": "Paragraful 211",
+      "content": "Recursul Ministerului public suspenda executarea."
+    },
+    {
+      "provision_ref": "Par.46",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "46",
+      "title": "Paragraful 46",
+      "content": "46. În caz de abateri de la prezenta lege sau de la statutele băncii, Consiliul Superior Bancar se poate sesiza, fie din oficiu, prin reclamaţia oricărei părţi interesate, fie de către Ministerul public."
+    },
+    {
+      "provision_ref": "Par.213",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "213",
+      "title": "Paragraful 213",
+      "content": "În cazul în care se sesizează, Consiliul Superior Bancar va ordonă o cercetare a situaţiunii reclamate."
+    },
+    {
+      "provision_ref": "Par.214",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "214",
+      "title": "Paragraful 214",
+      "content": "Cercetarea se va face de Consiliu prin organele speciale ale Băncii Naţionale a României."
+    },
+    {
+      "provision_ref": "Par.215",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "215",
+      "title": "Paragraful 215",
+      "content": "După depunerea raportului de constatare, preşedintele Consiliului Superior Bancar sau inlocuitorul sau va fixa un termen pentru judecarea cazului, conform art. 44."
+    },
+    {
+      "provision_ref": "Par.216",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "216",
+      "title": "Paragraful 216",
+      "content": "Dacă Consiliul găseşte reclamatiunea intemeiata, va pronunţa o deciziune potrivit art. 45, prin care va lua măsurile prevăzute în această lege, date în competenţa sa şi va sesiza, de va fi cazul, Ministerul public sau instanţele judecătoreşti competente."
+    },
+    {
+      "provision_ref": "Par.217",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "217",
+      "title": "Paragraful 217",
+      "content": "Deciziunile Consiliului Superior Bancar, pronunţate conform acestui articol, sînt executorii de drept."
+    },
+    {
+      "provision_ref": "Par.218",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "218",
+      "title": "Paragraful 218",
+      "content": "Ele vor fi executate printr-un delegat al Consiliului Superior Bancar; la caz de necesitate va putea cere concursul autorităţii publice, conform legilor de executarea silită*)."
+    },
+    {
+      "provision_ref": "Par.219",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "219",
+      "title": "Paragraful 219",
+      "content": "Recursul în contra deciziunilor date pe baza acestui articol suspenda executarea."
+    },
+    {
+      "provision_ref": "Par.220",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "220",
+      "title": "Paragraful 220",
+      "content": "-----------------"
+    },
+    {
+      "provision_ref": "Par.47-221",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "47",
+      "title": "Paragraful 47",
+      "content": "47. Membrii Consiliului Superior Bancar sînt obligaţi a păstra secretul comercial."
+    },
+    {
+      "provision_ref": "Par.222",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "222",
+      "title": "Paragraful 222",
+      "content": "De asemenea sînt obligaţi a păstra secretul comercial secretarul general şi ceilalţi funcţionari ai Consiliului, sub sancţiunile ce se vor prevedea în regulament."
+    },
+    {
+      "provision_ref": "Par.48-223",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "48",
+      "title": "Paragraful 48",
+      "content": "48. Prin regulamentul acestei legi se vor determina în chip amănunţit modul de funcţionare al Consiliului Superior Bancar, organele sale de reprezentare şi executare a deciziunilor luate, serviciile şi personalul necesar birourilor sale, precum şi bugetul cheltuielilor şi salarizarii, atît a membrilor compunand Consiliul, cat şi a personalului ajutator."
+    },
+    {
+      "provision_ref": "Par.49-224",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "49",
+      "title": "Paragraful 49",
+      "content": "49. Bugetul Consiliului Superior Bancar va fi acoperit prin cotizaţiile tuturor băncilor funcţionînd în România şi prin taxele speciale pentru autorizari, ce se vor determina prin regulamentul acestei legi."
+    },
+    {
+      "provision_ref": "Par.225",
+      "chapter": "Titlul IV - Supravegherea şi controlul comerţului de banca",
+      "section": "225",
+      "title": "Paragraful 225",
+      "content": "Cotizaţiile vor fi proporţionale cu capitalul social al fiecărei bănci, fără a putea depăşi 0,25 la mie anual şi se vor achită în patru rate trimestriale, sub sancţiune de retragerea autorizării în caz de refuz nejustificat la cererea Consiliului, după o prealabilă somaţie prin scrisoare recomandată de 15 zile."
+    },
+    {
+      "provision_ref": "Par.50-226",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "50",
+      "title": "Paragraful 50",
+      "content": "50. Casele de schimb sau zarafiile care îşi limitează comerţul numai la operaţiuni de schimb de orice fel de monede nu sînt supuse art. 2 şi 4 şi nici celorlalte dispoziţiuni de constituire şi funcţionare din această lege."
+    },
+    {
+      "provision_ref": "Par.227",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "227",
+      "title": "Paragraful 227",
+      "content": "Ele vor fi însă supuse supravegherii şi controlului Consiliului Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.228",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "228",
+      "title": "Paragraful 228",
+      "content": "Casele de schimb nu vor putea pune în firma lor cuvântul \"banca\"."
+    },
+    {
+      "provision_ref": "Par.51-229",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "51",
+      "title": "Paragraful 51",
+      "content": "51. Întreprinderile comerciale care au de obiect principal al comerţului lor numai acordarea de împrumuturi pe gaj, de orice fel de obiecte şi care nu cad sub prevederile legii din 9 Martie 1915, modificate la 30 Mai 1929*), referitoare la casele de împrumut pe gaj a agricultorilor şi industriasilor, se constituiesc şi funcţionează în condiţiunile legii de faţa."
+    },
+    {
+      "provision_ref": "Par.230",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "230",
+      "title": "Paragraful 230",
+      "content": "Casele de împrumut pe gaj nu vor putea însă purta în firma lor cuvântul \"banca\", ci numai denumirea de \"case de împrumut pe gaj\" sau o alta asemănătoare."
+    },
+    {
+      "provision_ref": "Par.231",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "231",
+      "title": "Paragraful 231",
+      "content": "----------------"
+    },
+    {
+      "provision_ref": "Par.52",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "52",
+      "title": "Paragraful 52",
+      "content": "52. Fuziunea a doua sau mai multe societăţi bancare, oricare ar fi felul lor, se hotărăşte de fiecare societate în parte, cu votul necesar pentru modificarea statutelor."
+    },
+    {
+      "provision_ref": "Par.233",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "233",
+      "title": "Paragraful 233",
+      "content": "Consiliul de administraţie al fiecăreia din băncile care voiesc a fuziona va putea însă supune prospectul de fuziune vizei prealabile a Consiliului Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.234",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "234",
+      "title": "Paragraful 234",
+      "content": "Deciziunea de fuzionare a fiecărei societăţi bancare, cuprinzînd condiţiunile fuziunii, bilanţurile şi deciziunea de autorizare a Consiliului Superior Bancar, se vor depune la Oficiul registrului de comerţ al fiecărei societăţi care fuzionează, spre a fi înscrise în registrul societăţilor bancare şi publicate potrivit art. 9."
+    },
+    {
+      "provision_ref": "Par.235",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "235",
+      "title": "Paragraful 235",
+      "content": "În termen de 2 luni de la data publicării actelor de mai sus, fiecare creditor va putea face opoziţie la fuziune la tribunalul de comerţ al locului unde societăţile fuzionate şi-au fixat sediul central."
+    },
+    {
+      "provision_ref": "Par.236",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "236",
+      "title": "Paragraful 236",
+      "content": "Toate opoziţiile se vor judeca de urgenta în camera de consiliu, printr-o singura hotărîre."
+    },
+    {
+      "provision_ref": "Par.237",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "237",
+      "title": "Paragraful 237",
+      "content": "În contra hotărîrii tribunalului se poate face apel în termen de 10 zile de la pronunţare."
+    },
+    {
+      "provision_ref": "Par.238",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "238",
+      "title": "Paragraful 238",
+      "content": "Curtea va judeca de urgenta în camera de consiliu."
+    },
+    {
+      "provision_ref": "Par.239",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "239",
+      "title": "Paragraful 239",
+      "content": "Termenul de recurs este de 10 zile de la pronunţare."
+    },
+    {
+      "provision_ref": "Par.240",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "240",
+      "title": "Paragraful 240",
+      "content": "Recursul se va judeca de urgenta în camera de consiliu."
+    },
+    {
+      "provision_ref": "Par.241",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "241",
+      "title": "Paragraful 241",
+      "content": "Opoziţiunea suspenda fuziunea, afară de cazurile cînd se va justifica plata tuturor datoriilor sociale sau consemnarea lor la Banca Naţionala a României sau la Cassa de Depuneri, cînd toţi creditorii consimt la fuziune sau cînd creditorii oponenţi au fost desinteresati prin plata sau consemnarea sumei."
+    },
+    {
+      "provision_ref": "Par.242",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "242",
+      "title": "Paragraful 242",
+      "content": "După expirarea termenului de mai sus, sau în cazul ca s-a făcut opoziţiune şi oponentii nu au fost desinteresati, în urma rămînerii definitive a hotărîrii data asupra opoziţiei, fuziunea va putea fi executată."
+    },
+    {
+      "provision_ref": "Par.243",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "243",
+      "title": "Paragraful 243",
+      "content": "Societatea rămasă în fiinta sau noua societate care rezultă din fuziune preia asupra sa toate drepturile şi obligaţiunile societăţilor stinse."
+    },
+    {
+      "provision_ref": "Par.244",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "244",
+      "title": "Paragraful 244",
+      "content": "Deciziunile de fuziune sînt opozabile acţionarilor, fără a se putea retrage din societate."
+    },
+    {
+      "provision_ref": "Par.53-245",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "53",
+      "title": "Paragraful 53",
+      "content": "53. Dacă la alcătuirea primului bilanţ al băncilor fuzionate ar rezultă din reevaluarea imobilelor sau altor active plusuri de valoare, care, conform legilor în vigoare, sînt impozabile, ce vor fi scutite de orice impunere dacă vor fi trecute la rezervele băncii fuzionate."
+    },
+    {
+      "provision_ref": "Par.54-246",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "54",
+      "title": "Paragraful 54",
+      "content": "54. Dacă, din cauza pierderilor suferite, capitalul social al unei bănci a scăzut la jumătate din valoarea capitalului statuar, sau la jumătate din valoarea capitalului necesar, prevăzut la art. 11, 12 şi 35 din prezenta lege, cînd cel statuar nu a fost mai mare, administratorii, iar în caz de omisiune din partea lor, consiliul de censori, sînt datori a convoca, în maximum 2 luni de la aceasta constatare, adunarea generală extraordinară a asociaţilor, spre a decide asupra reintregirii capitalului social."
+    },
+    {
+      "provision_ref": "Par.247",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "247",
+      "title": "Paragraful 247",
+      "content": "Dacă adunarea generală nu va fi convocată de către aceste organe, convocarea se va face de urgente, în urma unei cercetări prealabile, de către Consiliul Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.248",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "248",
+      "title": "Paragraful 248",
+      "content": "Dacă adunarea generală nu decide completarea capitalului social sau lichidarea societăţii, sau dacă în termen de 3 luni de la data întrunirii adunării generale a asociaţilor completarea capitalului social nu este realizată, Consiliul Superior Bancar va retrage autorizaţiunea putând decide şi lichidarea societăţii bancare."
+    },
+    {
+      "provision_ref": "Par.249",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "249",
+      "title": "Paragraful 249",
+      "content": "Aceleaşi norme se vor putea aplica şi societăţilor în nume colectiv, în comandită sau cu răspundere limitată, cînd adunarea asociaţilor va putea fi convocată de oricare dintre asociaţi."
+    },
+    {
+      "provision_ref": "Par.250",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "250",
+      "title": "Paragraful 250",
+      "content": "Lichidarea se va face conform prescripţiunilor codului de comerţ în materie de lichidare a societăţilor comerciale*) şi sub supravegherea Consiliului Superior Bancar, care va sesiza în acest scop tribunalul de comerţ competent."
+    },
+    {
+      "provision_ref": "Par.251",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "251",
+      "title": "Paragraful 251",
+      "content": "------------------"
+    },
+    {
+      "provision_ref": "Par.55",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "55",
+      "title": "Paragraful 55",
+      "content": "55. În caz de faliment din partea unei întreprinderi bancare, activul inventariat de judecătorul sindic se va lichidă de către un curator numit de tribunalul care a declarat falimentul, după o lista de specialişti întocmită de Consiliul Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.253",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "253",
+      "title": "Paragraful 253",
+      "content": "Numirea curatorului se va face prin chiar sentinta declarativă de faliment sau printr-o încheiere posterioară."
+    },
+    {
+      "provision_ref": "Par.254",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "254",
+      "title": "Paragraful 254",
+      "content": "Activul băncilor falite se va lichidă de curator, sub direcţiunea şi controlul judecătorului sindic."
+    },
+    {
+      "provision_ref": "Par.255",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "255",
+      "title": "Paragraful 255",
+      "content": "În caz de necesitate, adunarea creditorilor unei bănci falite va putea desemna o comisiune de creditori care să ajute şi sa supravegheze opera de lichidare încredinţată curatorului."
+    },
+    {
+      "provision_ref": "Par.256",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "256",
+      "title": "Paragraful 256",
+      "content": "Conturile de lichidare se vor depune judecătorului sindic care le va supune omologării tribunalului."
+    },
+    {
+      "provision_ref": "Par.257",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "257",
+      "title": "Paragraful 257",
+      "content": "Toate acţiunile şi actele săvîrşite de curator, în vederea lichidării, sînt scutite de orice taxe sau timbru, fără prejudiciul taxelor falimentare cuvenite Statutului."
+    },
+    {
+      "provision_ref": "Par.258",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "258",
+      "title": "Paragraful 258",
+      "content": "Dispoziţiunile acestui articol se aplică şi falimentelor bancare în curs de lichidare."
+    },
+    {
+      "provision_ref": "Par.56-259",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "56",
+      "title": "Paragraful 56",
+      "content": "56. Dacă în cursul existenţei unei bănci se constată că aceasta nu respecta prescripţiunile legii de faţa, Consiliul Superior Bancar va putea decide limitarea operaţiunilor băncii sau la caz de necesitate lichidarea acesteia."
+    },
+    {
+      "provision_ref": "Par.260",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "260",
+      "title": "Paragraful 260",
+      "content": "Dacă din cercetarea facuta se constată că valoarea totalului angajamentelor unei bănci întrece valoarea activului sau, Consiliul Superior Bancar va putea decide lichidarea şi va sesiza tribunalul comercial competent, spre a se proceda la lichidarea băncii."
+    },
+    {
+      "provision_ref": "Par.57",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "57",
+      "title": "Paragraful 57",
+      "content": "57. Oricine va exercita comerţul de banca fără autorizarea cerută de art. 4 sau va viola dispoziţiunea art. 39 din prezenta lege, se va pedepsi cu închisoare de la 3 luni pînă la 2 ani şi cu amendă de la 20.000 pînă la lei 500.000."
+    },
+    {
+      "provision_ref": "Par.262",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "262",
+      "title": "Paragraful 262",
+      "content": "Transmisiunea cambiilor care garantează împrumuturile de către împrumutătorul contravenient la dispoziţiunea art. 39, nu-l apara de penalitatea prevăzută de acest articol."
+    },
+    {
+      "provision_ref": "Par.263",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "263",
+      "title": "Paragraful 263",
+      "content": "În caz de înfiinţare a unei sucursale fără autorizarea cerută de art. 16, administratorii şi directorii vinovaţi se vor pedepsi cu amendă de 50.000 pînă la lei 500.000 fiecare. În acest caz Consiliul Superior Bancar va decide desfiinţarea sucursalei."
+    },
+    {
+      "provision_ref": "Par.58-264",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "58",
+      "title": "Paragraful 58",
+      "content": "58. Fondatorii, administratorii, directorii şi censorii, care vor fi trecut sub tăcere situaţiunea de falit sau vreuna din condamnările prevăzute de art. 29, vor fi pasibili de pedeapsa de la 15 zile pînă la 6 luni închisoare şi amenda de la 10.000 pînă la lei 100.000, fără aplicare de circumstanţe uşurătoare. Ei vor pierde de plin drept calitatea de administratori, censori sau directori ai băncii respective."
+    },
+    {
+      "provision_ref": "Par.265",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "265",
+      "title": "Paragraful 265",
+      "content": "Aceasta decădere se va pronunţa de către Consiliul Superior Bancar, chiar mai înainte de deschiderea acţiunii publice, în care caz recursul nu suspenda executarea."
+    },
+    {
+      "provision_ref": "Par.59-266",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "59",
+      "title": "Paragraful 59",
+      "content": "59. În caz de faliment din partea unei bănci, violarea art. 4, 9-15, 17, 19, 20, 24, 26-28, 30-32, 34-38, 40-41, va atrage pentru administratorii, directorii şi censorii vinovaţi, sancţiunea prevăzută de legi pentru bancruta frauduloasă, fără prejudiciul celorlalte sancţiuni civile şi penale prevăzute în această lege sau alte legi în vigoare."
+    },
+    {
+      "provision_ref": "Par.60-267",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "60",
+      "title": "Paragraful 60",
+      "content": "60. Sancţiunile penale prevăzute în această lege sînt de competenţa tribunalelor ordinare."
+    },
+    {
+      "provision_ref": "Par.61",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "61",
+      "title": "Paragraful 61",
+      "content": "61. În termen de doua luni de la promulgarea acestei legi, în care timp va lua fiinta Consiliul Superior Bancar, fiecare banca existenta este obligată a comunică Consiliului Superior Bancar, copie de pe ultimul bilanţ anual, copie de pe bilanţul brut al ultimului semestru, cum şi lista membrilor Consiliului de administraţie, a censorilor şi directorilor."
+    },
+    {
+      "provision_ref": "Par.269",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "269",
+      "title": "Paragraful 269",
+      "content": "Întreprinderile bancare înscrise astăzi în registrul comerţului*), vor fi înscrise în registrul bancar, pe baza unei cereri, însoţită de actul constitutiv, de statute cum şi de lista administratorilor. Cererea se va adresa în termen de 2 luni de la promulgarea acestei legi judecătorului delegat la Oficiul respectiv, indicând numărul de înscriere în registrul comerţului, fără orice formalitate sau plata vreunei taxe."
+    },
+    {
+      "provision_ref": "Par.270",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "270",
+      "title": "Paragraful 270",
+      "content": "Dispoziţiunile acestui articol se aplică şi băncilor existente sub firma individuală. Acestea sînt obligate totdeodată a declara capitalul lor propriu, a comunică actul constitutiv şi statutele. Ele vor mai putea primi depuneri spre fructificare, pe termen sau la vedere, încă timp de doi ani de la promulgarea prezentei legi."
+    },
+    {
+      "provision_ref": "Par.271",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "271",
+      "title": "Paragraful 271",
+      "content": "Băncile existente sub forma de societăţi în nume colectiv, în comandită simpla sau cu răspundere limitată, care nu îndeplinesc prescripţiunile prezentei legi, sînt supuse aceloraşi condiţiuni, putând însă primi depozite numai pînă la valoarea capitalului lor social deplin vărsat."
+    },
+    {
+      "provision_ref": "Par.272",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "272",
+      "title": "Paragraful 272",
+      "content": "Depozitele primite pînă la data promulgării acestei legi, cum şi totalul angajamentelor, vor fi proportionate în termen de maximum cinci ani, de la această dată, potrivit prescripţiunilor acestei legi."
+    },
+    {
+      "provision_ref": "Par.273",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "273",
+      "title": "Paragraful 273",
+      "content": "De asemenea băncile existente sub forma de societăţi pe acţiuni sînt supuse condiţiunilor fixate prin acest articol, fiind în acelaşi timp obligate ca în termen de maximum cinci ani sa proportioneze depunerile şi totalul pasivului, în conformitate cu dispoziţiunile prezentei legi."
+    },
+    {
+      "provision_ref": "Par.274",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "274",
+      "title": "Paragraful 274",
+      "content": "De drepturile câştigate, prevăzute în prezentul articol, vor beneficia şi societăţile care vor fuziona în decursul acestor 5 ani."
+    },
+    {
+      "provision_ref": "Par.275",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "275",
+      "title": "Paragraful 275",
+      "content": "------------------"
+    },
+    {
+      "provision_ref": "Par.62-276",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "62",
+      "title": "Paragraful 62",
+      "content": "62. Dispoziţiunile prezentei legi intră în vigoare de la publicarea ei în Monitorul Oficial."
+    },
+    {
+      "provision_ref": "Par.277",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "277",
+      "title": "Paragraful 277",
+      "content": "Imobilele care se găsesc la promulgarea legii de faţa în patrimoniul unei bănci, nu sînt supuse dispoziţiunilor art. 38, punctul 2."
+    },
+    {
+      "provision_ref": "Par.278",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "278",
+      "title": "Paragraful 278",
+      "content": "În termen de cinci ani de la publicarea ei toate băncile existente în România se vor conformă tuturor condiţiunilor prevăzute în prezenta lege. Acest termen va putea fi prelungit de Consiliul Superior Bancar."
+    },
+    {
+      "provision_ref": "Par.63-279",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "63",
+      "title": "Paragraful 63",
+      "content": "63. Toate dispoziţiunile contrarii acestei legi se abroga."
+    },
+    {
+      "provision_ref": "Par.280",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "280",
+      "title": "Paragraful 280",
+      "content": "Printr-un regulament al acestei legi se vor determina normele de funcţionare ale Consiliului Superior Bancar, bilanţurile şi situaţiile sumare tip, cum şi orice alte norme de aplicare a dispoziţiunilor prezentei legi."
+    },
+    {
+      "provision_ref": "Par.281",
+      "chapter": "Titlul V - Dispoziţiuni finale, penale şi tranzitorii",
+      "section": "281",
+      "title": "Paragraful 281",
+      "content": "---------------------"
+    }
+  ],
+  "definitions": []
+}

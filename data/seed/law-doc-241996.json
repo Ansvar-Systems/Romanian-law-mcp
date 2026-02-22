@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-241996",
+  "type": "statute",
+  "title": "LEGE nr. 116 din 4 mai 2021",
+  "short_name": "lege 116 04 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-04",
+  "in_force_date": "2021-05-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241996",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 116 04/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 2 din Ordonanța Guvernului nr. 81/2003 privind reevaluarea și amortizarea activelor fixe aflate în patrimoniul instituțiilor publice, publicată în Monitorul Oficial al României, Partea I, nr. 624 din 31 august 2003, aprobată prin Legea nr. 493/2003 , cu modificările și completările ulterioare, alineatul (3) se modifică și va avea următorul cuprins: (3) Bunurile din patrimoniul cultural național, cu excepția acelora care nu pot fi reevaluate potrivit standardelor internaționale de evaluare, vor fi reevaluate de către experți autorizați de Ministerul Culturii pentru domeniul de autorizare corespunzător sau de către evaluatori autorizați conform reglementărilor legale în vigoare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 45 de zile de la data intrării în vigoare a prezentei legi, Ministerul Culturii va actualiza normele de aplicare privind reevaluarea bunurilor culturale mobile deținute de instituții publice de drept public."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-136375",
+  "type": "statute",
+  "title": "LEGE nr. 39 din 19 martie 2012",
+  "short_name": "lege 39 19 03 2012",
+  "status": "in_force",
+  "issued_date": "2012-03-19",
+  "in_force_date": "2012-03-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/136375",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 39 19/03/2012",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 58 din 16 iunie 2011 pentru modificarea art. 5^2 din Ordonanța Guvernului nr. 70/2002 privind administrarea unităților sanitare publice de interes județean și local, publicată în Monitorul Oficial al României, Partea I, nr. 436 din 22 iunie 2011, cu următoarea modificare: – La articolul I alineatul (4), litera d) va avea următorul cuprins: d) laboratoare de analize medicale, de radiologie și de imagistică medicală."
+    }
+  ],
+  "definitions": []
+}

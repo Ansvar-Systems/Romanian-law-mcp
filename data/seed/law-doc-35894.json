@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35894",
+  "type": "statute",
+  "title": "LEGE nr. 12 din 1 aprilie 1986",
+  "short_name": "lege 12 01 04 1986",
+  "status": "in_force",
+  "issued_date": "1986-04-01",
+  "in_force_date": "1986-04-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35894",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 01/04/1986",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 75/1986 privind completarea Statutului Cooperativei agricole de producţie, aprobat prin Decretul nr. 93/1983 . ------------"
+    }
+  ],
+  "definitions": []
+}

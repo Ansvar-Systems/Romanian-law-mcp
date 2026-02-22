@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-2136",
+  "type": "statute",
+  "title": "LEGE Nr. 12 din 24 februarie 1992",
+  "short_name": "lege 12 24 02 1992",
+  "status": "in_force",
+  "issued_date": "1992-02-24",
+  "in_force_date": "1992-02-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/2136",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 12 24/02/1992",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC.",
+      "content": "Se ratifica tratatul de asistenţa juridică în materie civilă şi penală dintre România şi Republica Populara Chineza, semnat la Beijing la 16 ianuarie 1991."
+    }
+  ],
+  "definitions": []
+}

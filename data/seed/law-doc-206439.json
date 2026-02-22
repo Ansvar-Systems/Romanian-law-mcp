@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-206439",
+  "type": "statute",
+  "title": "LEGE nr. 248 din 5 noiembrie 2018",
+  "short_name": "lege 248 05 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-05",
+  "in_force_date": "2018-11-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/206439",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 248 05/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La anexa din Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri, republicată în Monitorul Oficial al României, Partea I, nr. 163 din 6 martie 2014, cu modificările și completările ulterioare, în tabelul nr. I, după substanța „4,4 DMAR=para-methyl-4-methylaminorex“ se introduc următoarele substanțe: MT-45 = 1 -ciclohexil- 4-(1,2-difeniletil)piperazină, Acriloilfentanil = N-(l-fenetilpiperidin-4-il)-N-fenilacrilamidă"
+    }
+  ],
+  "definitions": []
+}

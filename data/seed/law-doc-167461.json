@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-167461",
+  "type": "statute",
+  "title": "LEGE nr. 89 din 23 aprilie 2015",
+  "short_name": "lege 89 23 04 2015",
+  "status": "in_force",
+  "issued_date": "2015-04-23",
+  "in_force_date": "2015-04-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167461",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 89 23/04/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 28 din 10 aprilie 2013 pentru aprobarea Programului naţional de dezvoltare locală, publicată în Monitorul Oficial al României, Partea I, nr. 230 din 22 aprilie 2013, cu modificările şi completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 30 de zile de la publicarea prezentei legi, Ordonanţa de urgenţă a Guvernului nr. 28/2013 pentru aprobarea Programului naţional de dezvoltare locală, publicată în Monitorul Oficial al României, Partea I, nr. 230 din 22 aprilie 2013, cu modificările şi completările ulterioare, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

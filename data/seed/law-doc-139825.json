@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-139825",
+  "type": "statute",
+  "title": "LEGE nr. 97 din 4 iulie 2012",
+  "short_name": "lege 97 04 07 2012",
+  "status": "in_force",
+  "issued_date": "2012-07-04",
+  "in_force_date": "2012-07-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/139825",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 97 04/07/2012",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Bulgaria privind operațiile transfrontaliere de poliție aeriană, semnat la București la 12 octombrie 2011."
+    }
+  ],
+  "definitions": []
+}

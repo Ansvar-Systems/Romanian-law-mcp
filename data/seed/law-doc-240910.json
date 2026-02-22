@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-240910",
+  "type": "statute",
+  "title": "LEGE nr. 70 din 9 aprilie 2021",
+  "short_name": "lege 70 09 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-09",
+  "in_force_date": "2021-04-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/240910",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 70 09/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 65 din 12 septembrie 2019 privind modificarea și completarea Ordonanței de urgență a Guvernului nr. 34/2012 pentru stabilirea cadrului instituțional de acțiune în scopul utilizării durabile a pesticidelor pe teritoriul României, publicată în Monitorul Oficial al României, Partea I, nr. 749 din 13 septembrie 2019."
+    }
+  ],
+  "definitions": []
+}

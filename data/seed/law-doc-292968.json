@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-292968",
+  "type": "statute",
+  "title": "LEGE nr. 322 din 20 decembrie 2024",
+  "short_name": "lege 322 20 12 2024",
+  "status": "in_force",
+  "issued_date": "2024-12-20",
+  "in_force_date": "2024-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/292968",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 322 20/12/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 84 din 16 iunie 2022 privind combaterea acțiunilor speculative și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 601 din 20 iunie 2022."
+    }
+  ],
+  "definitions": []
+}

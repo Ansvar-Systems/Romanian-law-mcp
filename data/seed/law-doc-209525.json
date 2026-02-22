@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-209525",
+  "type": "statute",
+  "title": "LEGE nr. 344 din 27 decembrie 2018",
+  "short_name": "lege 344 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209525",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 344 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 70/2015 pentru întărirea disciplinei financiare privind operațiunile de încasări și plăți în numerar și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plată, publicată în Monitorul Oficial al României, Partea I, nr. 242 din 9 aprilie 2015, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 11, după alineatul (3) se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) Prin excepție de la prevederile alin. (3), în cazul operațiunilor efectuate prin instrumente de plată cu acces la distanță, persoanele prevăzute la art. 1 alin. (1) pot transfera sume din contul lor în contul persoanelor fizice, cu condiția existenței documentelor justificative legale în evidența plătitorilor. 2. La articolul 12, alineatul (2) se modifică și va avea următorul cuprins: (2) Nerespectarea prevederilor art. 6 și art. 11 alin. (1)-(4) constituie contravenție și se sancționează cu amendă de la 3.000 lei la 4.500 lei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Dispozițiile privitoare la constatarea și sancționarea contravențiilor pentru nerespectarea prevederilor art. 11 alin. (3) și (4) din Legea nr. 70/2015 pentru întărirea disciplinei financiare privind operațiunile de încasări și plăți în numerar și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 193/2002 privind introducerea sistemelor moderne de plată, cu modificările și completările ulterioare, intră în vigoare la 30 de zile de la data publicării prezentei legi în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

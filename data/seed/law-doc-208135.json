@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-208135",
+  "type": "statute",
+  "title": "LEGE nr. 261 din 14 noiembrie 2018",
+  "short_name": "lege 261 14 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-14",
+  "in_force_date": "2018-11-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/208135",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 261 14/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Organizația Națiunilor Unite privind protecția reciprocă a informațiilor clasificate schimbate cu Biroul mediatorului stabilit în baza Rezoluției Consiliului de Securitate nr. 1.904(2009) , semnat la New York la 15 iunie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-34509",
+  "type": "statute",
+  "title": "LEGE nr. 113 din 8 aprilie 1947",
+  "short_name": "lege 113 08 04 1947",
+  "status": "in_force",
+  "issued_date": "1947-04-08",
+  "in_force_date": "1947-04-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34509",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 113 08/04/1947",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi a face să se execute Tratatul de Comerţ şi de Navigaţiune între România şi Uniunea Republicilor Sovietice Socialiste, semnat la Moscova la 20 Februarie 1947. Copie şi traducere de pe suszisul Tratat se alătură la legea de faţa."
+    }
+  ],
+  "definitions": []
+}

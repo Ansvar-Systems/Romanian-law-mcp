@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-304159",
+  "type": "statute",
+  "title": "LEGE nr. 182 din 13 noiembrie 2025",
+  "short_name": "lege 182 13 11 2025",
+  "status": "in_force",
+  "issued_date": "2025-11-13",
+  "in_force_date": "2025-11-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/304159",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 182 13/11/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 89 din 28 iunie 2024 privind unele măsuri pentru desfășurarea activităților integrate aferente emiterii și transmiterii deciziilor privind recalcularea pensiilor din sistemul public de pensii, publicată în Monitorul Oficial al României, Partea I, nr. 611 din 29 iunie 2024."
+    }
+  ],
+  "definitions": []
+}

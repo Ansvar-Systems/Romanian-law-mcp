@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-213357",
+  "type": "statute",
+  "title": "LEGE nr. 76 din 25 aprilie 2019",
+  "short_name": "lege 76 25 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-25",
+  "in_force_date": "2019-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213357",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 76 25/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă participarea României la sistemul Națiunilor Unite al Echipelor de evaluare și coordonare în caz de dezastre, denumit în continuare sistemul UNDAC."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Se aprobă plata contribuției financiare a României la sistemul UNDAC, în limita echivalentului în lei al sumei de 50.000 USD, în anul 2018. (2) Echivalentul în lei al sumei prevăzute la alin. (1) se calculează pe baza raportului de schimb lei/dolar comunicat de Banca Națională a României la data efectuării plății. (3) Contribuția financiară prevăzută la alin. (1) se plătește o singură dată și se reîntregește periodic, potrivit regulilor referitoare la modalitatea de stabilire a contribuției UNDAC aplicabile statelor membre. (4) Echivalentul în lei al contribuției financiare prevăzute la alin. (1) , precum și al reîntregirilor ulterioare ale acesteia potrivit alin. (3) se asigură de la bugetul de stat, cu încadrare în bugetul anual aprobat Inspectoratului General pentru Situații de Urgență, potrivit legii."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "La anexa nr. 1 punctul II din Ordonanța Guvernului nr. 41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, publicată în Monitorul Oficial al României, Partea I, nr. 241 din 29 august 1994, aprobată prin Legea nr. 126/1994 , cu modificările și completările ulterioare, după numărul curent 85 se introduce un nou număr curent, numărul curent 86, cu următorul cuprins: Nr. crt. Denumirea organizației Sediul Anul înființării Anul aderării României Instituția română care coordonează relațiile cu organizația internațională respectivă Explicații 86. Sistemul Națiunilor Unite al Echipelor de evaluare și coordonare în caz de dezastre (UNDAC) Geneva 1993 2018 Inspectoratul General pentru Situații de Urgență Memorandumul Ministerului Afacerilor Interne nr. 339.738 din 30.06.2016 prin care au fost aprobate obținerea de către România a statutului de stat membru în sistemul UNDAC și plata contribuției financiare a României"
+    }
+  ],
+  "definitions": []
+}

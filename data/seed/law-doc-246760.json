@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-246760",
+  "type": "statute",
+  "title": "LEGE nr. 228 din 29 septembrie 2021",
+  "short_name": "lege 228 29 09 2021",
+  "status": "in_force",
+  "issued_date": "2021-09-29",
+  "in_force_date": "2021-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/246760",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 228 29/09/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 44 din 6 aprilie 2020 privind prelungirea mandatelor autorităților administrației publice locale cuprinse în perioada 2016-2020, unele măsuri pentru organizarea alegerilor locale din anul 2020, precum și modificarea Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ , publicată în Monitorul Oficial al României, Partea I, nr. 297 din 8 aprilie 2020."
+    }
+  ],
+  "definitions": []
+}

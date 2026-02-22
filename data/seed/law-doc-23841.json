@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-23841",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 20 aprilie 1972",
+  "short_name": "lege 1 20 04 1972",
+  "status": "in_force",
+  "issued_date": "1972-04-20",
+  "in_force_date": "1972-04-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/23841",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 20/04/1972",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Articolele 45 alin. 1 şi 81 alin. 3 din Constituţie se modifica şi vor avea următorul cuprins: 1. Art. 45 alin. I: \"Marea Adunare Naţionala se alege pentru o legislatura de 5 ani, socotiţi de la data încetării mandatului Marii Adunări naţionale precedente\". 2. Art. 81 alin. 3: \"Durata mandatului consiliului popular este de 5 ani, socotiţi de la data încetării mandatului consiliului popular precedent\"."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu modificările prevăzute la art. I al prezentei legi, Constituţia Republicii Socialiste România se va republica. Această lege a fost votată de Marea Adunare Naţionala în şedinţa din 20 aprilie 1972, intrunind din cele 439 voturi exprimate 434 voturi pentru şi 5 voturi împotriva. PREŞEDINTELE MARII ADUNĂRI NAŢIONALE, Ştefan Voitec ------------"
+    }
+  ],
+  "definitions": []
+}

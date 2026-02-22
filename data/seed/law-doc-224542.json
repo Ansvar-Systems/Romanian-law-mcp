@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-224542",
+  "type": "statute",
+  "title": "LEGE nr. 31 din 31 martie 2020",
+  "short_name": "lege 31 31 03 2020",
+  "status": "in_force",
+  "issued_date": "2020-03-31",
+  "in_force_date": "2020-03-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224542",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 31 31/03/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (1) al articolului 3 din Hotărârea Guvernului nr. 250/1992 privind concediul de odihnă și alte concedii ale salariaților din administrația publică, din regiile autonome cu specific deosebit și din unitățile bugetare, republicată în Monitorul Oficial al României, Partea I, nr. 118 din 13 iunie 1995, cu modificările ulterioare, se abrogă."
+    }
+  ],
+  "definitions": []
+}

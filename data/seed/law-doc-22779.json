@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-22779",
+  "type": "statute",
+  "title": "LEGE nr. 180 din 26 iunie 1930",
+  "short_name": "lege 180 26 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-26",
+  "in_force_date": "1930-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22779",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 180 26/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se autoriza judeţul Neamt de a imprumuta de la Casa de depuneri, consemnaţiuni şi economie suma de 10.000.000 lei, în condiţiunile în care aceasta Casa acorda asemenea împrumuturi, spre a servi la terminarea a 49 localuri de şcoli primare rurale, a căror construcţii sînt începute şi rămase neterminate. Desbateri: Camera Nr. 67-1929/30; Senat Nr. 53-1929/30. Votat de Adunarea deputaţilor la 5 Iunie şi de Senat la 19 Iunie 1930. -----"
+    }
+  ],
+  "definitions": []
+}

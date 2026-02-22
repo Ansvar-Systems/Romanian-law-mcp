@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242262",
+  "type": "statute",
+  "title": "LEGE nr. 139 din 14 mai 2021",
+  "short_name": "lege 139 14 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-14",
+  "in_force_date": "2021-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242262",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 139 14/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 179 din 22 octombrie 2020 privind instituirea unor măsuri pentru asigurarea resurselor umane necesare instituțiilor din cadrul sistemului național de apărare, ordine publică și securitate națională, Ministerului Sănătății și unităților subordonate, unităților sanitare și serviciilor de asistență socială în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, publicată în Monitorul Oficial al României, Partea I, nr. 981 din 23 octombrie 2020."
+    }
+  ],
+  "definitions": []
+}

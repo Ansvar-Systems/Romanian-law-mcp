@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-212234",
+  "type": "statute",
+  "title": "LEGE nr. 55 din 20 martie 2019",
+  "short_name": "lege 55 20 03 2019",
+  "status": "in_force",
+  "issued_date": "2019-03-20",
+  "in_force_date": "2019-03-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/212234",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 55 20/03/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Protocolul privind transportul durabil, semnat la Mikulov la 26 septembrie 2014, la Convenția-cadru privind protecția și dezvoltarea durabilă a Carpaților, adoptată la Kiev la 22 mai 2003, ratificată prin Legea nr. 389/2006 ."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cu ocazia depunerii instrumentului de ratificare a Protocolului , Guvernul României este autorizat să formuleze următoarea declarație: Guvernul României declară că interpretează art. 2 alin. (1) din prezentul protocol doar conform prevederilor și în limitele Convenției-cadru privind protecția și dezvoltarea durabilă a Carpaților, adoptată la Kiev la 22 mai 2003."
+    }
+  ],
+  "definitions": []
+}

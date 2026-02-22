@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-22673",
+  "type": "statute",
+  "title": "LEGE nr. 517 din 6 septembrie 1940",
+  "short_name": "lege 517 06 09 1940",
+  "status": "in_force",
+  "issued_date": "1940-09-06",
+  "in_force_date": "1940-09-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22673",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 517 06/09/1940",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se recunosc în virtutea acestei legi, deplini proprietari asupra terenurilor pe care le stapanesc în baza sentinţelor judecătoreşti de expropriere şi improprietarire, date în baza legii de reforma agrară pentru Transilvania, Banat şi Maramures, cu modificările ulterioare, toţi locuitorii, toate comunele şi institutiunile de orice fel, fără osebire dacă lucrările de măsurătoare cadastrala au fost sau nu executate, sau dacă terenurile au fost sau nu plătite de aceştia, chiar dacă drepturile de proprietate, asa cum rezultă din sentinţele de mai sus, nu au fost încă intabulate în cărţile funciare. Statul renunţa la dreptul de proprietate asupra terenurilor care nu au fost încă intabulate pe seama indreptatitilor, în favoarea stapanitorilor lor de fapt, care au fost puşi în posesie fie de organele judecătoreşti, fie de organele administrative. Dispoziţiunile alineatelor precedente se aplică şi în cazul vânzărilor făcute de către Stat, din terenurile provenite din expropriere şi din exercitarea dreptului de preemţiune, către micii cultivatori de pămînt, pînă la întinderea maxima de 15 ha de fiecare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Toate dispoziţiunile contrarii prezentului decret cu putere de lege sînt şi rămîn abrogate. ---------"
+    }
+  ],
+  "definitions": []
+}

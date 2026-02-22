@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-20007",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 2 iulie 1976",
+  "short_name": "lege 18 02 07 1976",
+  "status": "in_force",
+  "issued_date": "1976-07-02",
+  "in_force_date": "1976-07-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/20007",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18 02/07/1976",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 93/1976 privind normele pentru calcularea recompenselor băneşti cuvenite autorilor inventiilor aplicate în economia naţionala. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 2 iulie 1976. Preşedintele Marii Adunări Naţionale Nicolae Giosan ---------"
+    }
+  ],
+  "definitions": []
+}

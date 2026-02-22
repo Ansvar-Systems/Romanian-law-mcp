@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198427",
+  "type": "statute",
+  "title": "LEGE nr. 57 din 6 martie 2018",
+  "short_name": "lege 57 06 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-06",
+  "in_force_date": "2018-03-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198427",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 57 06/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 5 din 20 iulie 2017 privind stabilirea unor măsuri organizatorice la nivelul administrației publice centrale cu privire la Centenarul României, adoptată în temeiul art. 1 pct. III.4 din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 608 din 27 iulie 2017."
+    }
+  ],
+  "definitions": []
+}

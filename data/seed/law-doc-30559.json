@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-30559",
+  "type": "statute",
+  "title": "LEGE nr. 173 din 25 iulie 1931",
+  "short_name": "lege 173 25 07 1931",
+  "status": "in_force",
+  "issued_date": "1931-07-25",
+  "in_force_date": "1931-07-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30559",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 173 25/07/1931",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se scoate din administraţia P.A.R.I.D. suprafaţa de 12 ha dela \"Punctul Pescariilor Statului Constanta (Siut Ghiol)\"."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se autoriza Ministerul Agriculturii şi Domeniilor a face schimbul suprafeţei prevăzut la art. I, cu o suprafaţa de 13 ha, proprietatea satului Palazul-Mare, judeţul Constanta, aflate în perimetrul acestui sat."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Agriculturii şi Domeniilor este autorizat sa cedeze Ministerului Armatei suprafaţa de 13 ha, dobandita prin schimb, pentru construirea bazei de hidroaviatie Constanta. Avizul Consiliului Legislativ, secţia I, Nr. 99/1931. Desbateri: Camera Nr. 28/1931 extr.; Senat Nr. 19/1931 extr. Votat de Adunarea Deputaţilor la 13 Iulie şi de Senat la 14 Iulie 1931. -------"
+    }
+  ],
+  "definitions": []
+}

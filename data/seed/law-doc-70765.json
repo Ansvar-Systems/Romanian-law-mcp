@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-70765",
+  "type": "statute",
+  "title": "LEGE nr. 82 din 5 aprilie 2006",
+  "short_name": "lege 82 05 04 2006",
+  "status": "in_force",
+  "issued_date": "2006-04-05",
+  "in_force_date": "2006-04-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/70765",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 82 05/04/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se acceptă amendamentele la art. 25 și 26 din Convenția privind protecția și utilizarea cursurilor de apă transfrontiere și a lacurilor internaționale, încheiată la Helsinki la 17 martie 1992, ratificată de România prin Legea nr. 30/1995 , care au fost adoptate la Madrid la 28 noiembrie 2003, prin Decizia III/1, la cea de-a 3-a Reuniune a părților la Convenție."
+    }
+  ],
+  "definitions": []
+}

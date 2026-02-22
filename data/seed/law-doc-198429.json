@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-198429",
+  "type": "statute",
+  "title": "LEGE nr. 58 din 6 martie 2018",
+  "short_name": "lege 58 06 03 2018",
+  "status": "in_force",
+  "issued_date": "2018-03-06",
+  "in_force_date": "2018-03-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/198429",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 58 06/03/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 18 din 30 august 2017 pentru modificarea unor acte normative în domeniul administrației publice centrale, adoptată în temeiul art. 1 pct. III. 4 și 5 din Legea nr. 161/2017 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 703 din 30 august 2017."
+    }
+  ],
+  "definitions": []
+}

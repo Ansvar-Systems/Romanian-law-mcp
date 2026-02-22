@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-771",
+  "type": "statute",
+  "title": "LEGEA nr. 22 din 15 octombrie 1990",
+  "short_name": "lege 22 15 10 1990",
+  "status": "in_force",
+  "issued_date": "1990-10-15",
+  "in_force_date": "1990-10-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/771",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 22 15/10/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Decretul-lege nr. 100 din 14 martie 1990 privind atribuirea sau schimbarea de denumiri se modifica după cum urmează: 1. Litera a) a articolului 1 va avea următorul conţinut: \"a) parlament, pentru judeţe, municipii, oraşe, comune, sate, localităţi componente ale municipiilor şi oraşelor şi staţiuni balneoclimaterice, la propunerea guvernului;\" 2. Cuvintele \"primăriile judeţene şi a municipiului Bucureşti\" din cuprinsul decretului-lege se înlocuiesc cu cuvintele \"prefecturi şi Primăria municipiului Bucureşti\", iar cuvintul \"viceprimar\" cu cuvintele \"subprefect sau viceprimar\"."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Decretul-lege nr. 100 din 14 martie 1990 privind atribuirea sau schimbarea de denumiri, în forma modificată prin prezenta lege, se publică în Monitorul Oficial al României. Această lege a fost adoptată de Senat în şedinţa din 2 octombrie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din 9 octombrie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea pentru modificarea Decretului-lege nr. 100/1990 privind atribuirea sau schimbarea de denumiri şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU -------------------------"
+    }
+  ],
+  "definitions": []
+}

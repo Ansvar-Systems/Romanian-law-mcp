@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-30560",
+  "type": "statute",
+  "title": "LEGE nr. 172 din 25 iulie 1931",
+  "short_name": "lege 172 25 07 1931",
+  "status": "in_force",
+  "issued_date": "1931-07-25",
+  "in_force_date": "1931-07-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30560",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 172 25/07/1931",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Domeniul Coroanei Cocioc din judeţul Ilfov se reduce cu 25 ha din întinderea actuala, fixate în anexată schita de plan*). ------------- Notă *) A se vedea schita de plan în Monitorul Oficial Nr. 170 din 25 Iulie 1931. Ministerul Agriculturii şi Domeniilor va dispune de acest teren, potrivit legilor în vigoare. Avizul Consiliului Legislativ, secţia I, Nr. 89/1931. Desbateri: Camera Nr. 28/1931 extr.; Senat Nr. 19/1931 extr. Votat de Adunarea Deputaţilor la 13 Iulie şi de Senat la 14 Iulie 1931. --------"
+    }
+  ],
+  "definitions": []
+}

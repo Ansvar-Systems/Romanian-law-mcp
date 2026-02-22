@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-23909",
+  "type": "statute",
+  "title": "LEGE nr. 42 din 22 decembrie 1978",
+  "short_name": "lege 42 22 12 1978",
+  "status": "in_force",
+  "issued_date": "1978-12-22",
+  "in_force_date": "1978-12-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/23909",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 42 22/12/1978",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 252/1978 pentru aprobarea normelor privind condiţiile în care se poate efectua taierea animalelor în situaţii speciale, clasarea pentru tăiere a femelelor de bovine şi ovine, precum şi cu privire la aplicarea unor măsuri sanitare veterinare speciale pentru prevenirea difuzării epizootiilor şi acordarea unor despăgubiri celor care au suferit pagube prin aplicarea acestor măsuri. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 22 decembrie 1978. Preşedintele Marii Adunări Naţionale, NICOLAE GIOSAN --------"
+    }
+  ],
+  "definitions": []
+}

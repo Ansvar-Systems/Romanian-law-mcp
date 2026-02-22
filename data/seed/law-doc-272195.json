@@ -1,0 +1,31 @@
+{
+  "id": "law-doc-272195",
+  "type": "statute",
+  "title": "LEGE nr. 225 din 14 iulie 2023",
+  "short_name": "lege 225 14 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-14",
+  "in_force_date": "2023-07-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272195",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 225 14/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Ordonanța de urgență a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 680 din 26 septembrie 2011, aprobată prin Legea nr. 184/2015 , cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. După articolul 3^7 se introduce un nou articol, art. 3^8, cu următorul cuprins: Articolul 3^8 (1) Începând cu trimestrul III al anului 2023, pentru medicamentele prevăzute la art. 1, deținătorii autorizațiilor de punere pe piață a medicamentelor care sunt persoane juridice române, precum și deținătorii autorizațiilor de punere pe piață a medicamentelor care nu sunt persoane juridice române, prin reprezentanții legali ai acestora, datorează o contribuție trimestrială calculată diferențiat în funcție de clasificarea medicamentelor în «medicamente de tip I» și «medicamente de tip II», în condițiile prezentului articol. (2) Clasificarea medicamentelor în «medicamente de tip I» și «medicamente de tip II» în vederea calculării contribuției trimestriale prevăzute la alin. (1) se realizează după cum urmează: a) prin medicament de tip I se înțelege: medicament autorizat potrivit prevederilor art. 704 , 706 și 710 din Legea nr. 95/2006, republicată , cu modificările și completările ulterioare, precum și medicamentul pentru care s-a acordat o autorizație de uz pediatric (PUMA), pentru care, în ultima lună din fiecare trimestru, nu există cel puțin un medicament generic sau biosimilar care să îndeplinească condițiile de comercializare pe teritoriul României; b) prin medicament de tip II se înțelege: medicamentul definit potrivit prevederilor art. 708 alin. (2) lit. b) din Legea nr. 95/2006, republicată , cu modificările și completările ulterioare. În scopul aplicării prezentei ordonanțe de urgență, medicamentele autorizate potrivit prevederilor art. 708 alin. (3) , art. 709 și 710 - cu indicație de substituție, art. 711 , 715 și 718 din Legea nr. 95/2006, republicată , cu modificările și completările ulterioare, precum și oricare alte medicamente care nu se încadrează în definiția prevăzută la lit. a) sunt considerate medicamente de tip II; c) definițiile prevăzute la lit. a) și b) se aplică și medicamentelor importate/distribuite paralel. (3) Lista «medicamentelor de tip I și tip II» se aprobă trimestrial prin ordin al ministrului sănătății, până la data de 15 inclusiv a celei de-a doua luni următoare încheierii trimestrului pentru care se datorează contribuția. Încadrarea medicamentelor în categoriile prevăzute la alin. (2) lit. a) și b) se realizează de către Agenția Națională a Medicamentului și a Dispozitivelor Medicale din România. (4) Pentru «medicamentele de tip I», contribuția trimestrială se calculează prin aplicarea procentului de 25% asupra valorii aferente consumului centralizat al acestora, comunicat de Casa Națională de Asigurări de Sănătate, în condițiile art. 5 alin. (7^1), după scăderea TVA. (5) Pentru «medicamentele de tip II», contribuția trimestrială se calculează prin aplicarea procentului de 15% asupra valorii aferente consumului centralizat al acestora, comunicat de Casa Națională de Asigurări de Sănătate, în condițiile art. 5 alin. (7^1), după scăderea TVA. 2. La articolul 5, alineatul (3) se modifică și va avea următorul cuprins: (3) Stabilirea, calculul și declararea contribuției trimestriale se efectuează de către persoanele obligate la plata acesteia, prevăzute la art. 1, după scăderea TVA-ului de către aceștia din valoarea aferentă consumului trimestrial de medicamente transmis de Casa Națională de Asigurări de Sănătate potrivit prevederilor alin. (7^1). Contribuția trimestrială se declară de către plătitori la organul fiscal competent, până la termenul de plată al acesteia prevăzut la alin. (8). 3. La articolul 5, după alineatul (7^1) se introduce un nou alineat, alin. (7^2), cu următorul cuprins: (7^2) Valoarea aferentă consumului centralizat de medicamente prevăzută la alin. (7^1) nu include valoarea consumului pentru medicamentele prevăzute la art. 1^1 alin. (1), art. 1^2 alin. (1) și art. 12, pentru care se încheie contracte cost-volum/cost-volum-rezultat."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "prin medicament de tip I se înțelege",
+      "definition": "medicament autorizat potrivit prevederilor art. 704 , 706 și 710 din Legea nr. 95/2006, republicată , cu modificările și completările ulterioare, precum și medicamentul pentru care s-a acordat o autorizație de uz pediatric (PUMA), pentru care, în ultima lună din fiecare trimestru, nu există cel puțin un medicament generic sau biosimilar care să îndeplinească condițiile de comercializare pe teritoriul României",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "prin medicament de tip II se înțelege",
+      "definition": "medicamentul definit potrivit prevederilor art. 708 alin. (2) lit. b) din Legea nr. 95/2006, republicată , cu modificările și completările ulterioare. În scopul aplicării prezentei ordonanțe de urgență, medicamentele autorizate potrivit prevederilor art. 708 alin. (3) , art. 709 și 710 - cu indicație de substituție, art. 711 , 715 și 718 din Legea nr",
+      "source_provision": "Art.1"
+    }
+  ]
+}

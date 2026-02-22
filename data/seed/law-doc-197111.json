@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-197111",
+  "type": "statute",
+  "title": "LEGE nr. 43 din 19 ianuarie 2018",
+  "short_name": "lege 43 19 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-19",
+  "in_force_date": "2018-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/197111",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 43 19/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin derogare de la prevederile art. 31 alin. (2) din Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice „Gheorghe Ionescu-Șișești“ și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, cu modificările și completările ulterioare, se aprobă transmiterea unui teren situat în orașul Odobești, județul Vrancea, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului și din administrarea Stațiunii de Cercetare-Dezvoltare pentru Viticultură și Vinificație Odobești, județul Vrancea, în domeniul public al statului și în administrarea Institutului Național de Cercetare-Dezvoltare pentru Fizica Pământului, județul Ilfov, în vederea extinderii Rețelei Seismice Naționale."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Predarea-preluarea terenului prevăzut la art. 1 se face pe bază de protocol încheiat între părțile interesate, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Numărul curent 19 și totalul din anexa nr. 3 și anexa nr. 3.25 la Legea nr. 45/2009 , cu modificările și completările ulterioare, se modifică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Ministerul Agriculturii și Dezvoltării Rurale și Ministerul Cercetării și Inovării împreună cu Ministerul Finanțelor Publice vor supune spre adoptare Guvernului un proiect de hotărâre pentru modificarea în consecință a anexelor nr. 3 și 8 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

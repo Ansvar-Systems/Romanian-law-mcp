@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276103",
+  "type": "statute",
+  "title": "LEGE nr. 320 din 6 noiembrie 2023",
+  "short_name": "lege 320 06 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-06",
+  "in_force_date": "2023-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276103",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 320 06/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 68 din 29 iunie 2021 privind adoptarea unor măsuri pentru punerea în aplicare a cadrului european pentru eliberarea, verificarea și acceptarea certificatului digital al Uniunii Europene privind COVID pentru a facilita libera circulație pe durata pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 644 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

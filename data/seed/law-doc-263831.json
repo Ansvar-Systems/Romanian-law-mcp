@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-263831",
+  "type": "statute",
+  "title": "LEGE nr. 30 din 10 ianuarie 2023",
+  "short_name": "lege 30 10 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-10",
+  "in_force_date": "2023-01-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263831",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 30 10/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prin hotărâre a Guvernului, la propunerea Ministerului Afacerilor Externe, se aprobă plata contribuției financiare voluntare a României pentru susținerea construirii Muzeului Victimelor Comunismului din Washington D.C., reprezentând echivalentul în lei a 3.000.000 USD. (2) Contribuția financiară se acordă într-o tranșă unică. (3) Contribuția se va calcula pe baza cursului de schimb leu/dolar american, la data efectuării plății."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Contribuția prevăzută la art. 1 este destinată construirii Muzeului Victimelor Comunismului din Washington D.C., precum și dotării secției care reprezintă victimele regimului comunist din România. (2) La solicitarea Muzeului Victimelor Comunismului din Washington D.C., Ministerul Afacerilor Externe, Academia Română, Consiliul Național pentru Studierea Arhivelor Securității și alte instituții ale statului român pot pune la dispoziție informații, în scopul unei bune reprezentări a victimelor comunismului din România."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-730",
+  "type": "statute",
+  "title": "LEGEA nr. 7 din 31 iulie 1990",
+  "short_name": "lege 7 31 07 1990",
+  "status": "in_force",
+  "issued_date": "1990-07-31",
+  "in_force_date": "1990-07-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/730",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 7 31/07/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "România aderă la Convenția privind Organizația europeană de telecomunicații prin satelit \"EUTELSAT\", încheiată la Paris la 15 iulie 1982."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Abrogat. (la 28-08-1998, Articolul 2 a fost abrogat de Articolul 4 din ORDONANȚA nr. 98 din 27 august 1998, publicată în MONITORUL OFICIAL nr. 321 din 28 august 1998 )"
+    }
+  ],
+  "definitions": []
+}

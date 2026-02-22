@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-196713",
+  "type": "statute",
+  "title": "LEGE nr. 17 din 12 ianuarie 2018",
+  "short_name": "lege 17 12 01 2018",
+  "status": "in_force",
+  "issued_date": "2018-01-12",
+  "in_force_date": "2018-01-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/196713",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 17 12/01/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 44 din 30 iunie 2017 pentru modificarea anexei nr. 1 la Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România, publicată în Monitorul Oficial al României, Partea I, nr. 505 din 30 iunie 2017."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,406 @@
+{
+  "id": "law-doc-242354",
+  "type": "statute",
+  "title": "LEGE nr. 146 din 17 mai 2021",
+  "short_name": "lege 146 17 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-17",
+  "in_force_date": "2021-05-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242354",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 146 17/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Domeniul de aplicare (1) Prezenta lege reglementează: a) înființarea, organizarea și funcționarea Sistemului informatic de monitorizare electronică, denumit în continuare SIME; b) modul de utilizare a dispozitivelor electronice de supraveghere și modul de acțiune în situația generării unor alerte; c) măsuri de protecție a datelor din cadrul SIME. (2) SIME se utilizează în scopul monitorizării electronice, cu ocazia: a) executării măsurii controlului judiciar sau controlului judiciar pe cauțiune, potrivit Legii nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare; b) executării măsurii arestului la domiciliu, potrivit Legii nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare; c) aplicării ordinului de protecție provizoriu și ordinului de protecție, potrivit Legii nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată; d) aplicării ordinului european de protecție, potrivit Legii nr. 151/2016 privind ordinul european de protecție, precum și pentru modificarea și completarea unor acte normative, în cadrul procedurilor prevăzute la lit. a) și b) ; (la 14-06-2024, Litera d) , Alineatul (2) , Articolul 1 , Capitolul I , Titlul I a fost modificată de Punctul 1. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) e) supravegherii la distanță, potrivit Legii nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, cu modificările și completările ulterioare. f) supravegherea executării obligațiilor prevăzute la art. 101 alin. (2) lit. d) și e) din Legea nr. 286/2009 privind Codul penal , cu modificările și completările ulterioare, potrivit art. 102 alin. (3) din aceeași lege. (la 14-06-2024, Alineatul (2) , Articolul 1 , Capitolul I , Titlul I a fost completat de Punctul 2. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) (3) Monitorizarea electronică realizată în condițiile prezentei legi vizează exclusiv dispozitive de supraveghere electronică localizate pe teritoriul României. (4) Monitorizarea electronică realizată în condițiile alin. (2) lit. f) generează alertele prevăzute la art. 21 alin. (1) lit. d) și e) în sistemul informatic de creare a semnalărilor dezvoltat de către Direcția Națională de Probațiune, care sunt gestionate de personalul propriu. (la 14-06-2024, Alineatul (4) , Articolul 1 , Capitolul I , Titlul I a fost modificat de Punctul 3. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Definirea unor termeni și expresii (1) În sensul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații: a) monitorizarea electronică - ansamblul activităților realizate prin intermediul SIME referitoare la localizarea sistematică, pe teritoriul României, a dispozitivelor electronice de supraveghere; b) semnalare - set de date introduse în SIME referitoare la persoanele supravegheate și persoanele protejate; c) alertă - set de date prelucrate prin intermediul SIME, prin care este notificată încălcarea unei reguli având la bază una sau mai multe semnalări; d) persoana supravegheată - persoana obligată, în cadrul procedurilor judiciare și execuționale penale prevăzute la art. 1 alin. (2) , să poarte un dispozitiv electronic de supraveghere; e) persoana protejată - persoana beneficiară a unui ordin de protecție provizoriu, ordin de protecție sau ordin de protecție european; f) dispozitiv electronic de supraveghere - dispozitiv hardware și, după caz, software apt să transmită SIME, automat și sistematic, datele de localizare ale acestuia; g) date GIS - date conținute în sistemul informatic geografic din cadrul Sistemului național unic pentru apeluri de urgență, denumit în continuare SNUAU; h) date de localizare - date referitoare la poziția geografică și precizia localizării asociate dispozitivului electronic de supraveghere, precum și coordonatele temporale aferente determinării și transmiterii fiecărei poziții geografice; i) organ de supraveghere - personal din cadrul Poliției Române cu atribuții de supraveghere în cadrul procedurilor prevăzute la art. 1 alin. (2) lit. a)-d) , personal din cadrul Administrației Naționale a Penitenciarelor și al unităților subordonate, cu atribuții de supraveghere electronică la distanță pentru procedura prevăzută la art. 1 alin. (2) lit. e) , precum și personalul din cadrul Direcției Naționale de Probațiune, cu atribuții de supraveghere electronică pentru procedura prevăzută la art. 1 alin. (2) lit. f) ; (la 14-06-2024, Litera i) , Alineatul (1) , Articolul 2 , Capitolul I , Titlul I a fost modificată de Punctul 4. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) j) organ de ordine publică - personal din cadrul Poliției Române, Jandarmeriei Române, Poliției de Frontieră Române și Poliției locale, cu atribuții de ordine publică; k) operator tehnic - personal din cadrul Poliției Române, al Administrației Naționale a Penitenciarelor și al unităților subordonate, precum și personalul din cadrul Direcției Naționale de Probațiune, care exercită atribuții tehnice privind monitorizarea electronică, prevăzute în prezenta lege. (la 14-06-2024, Litera k) , Alineatul (1) , Articolul 2 , Capitolul I , Titlul I a fost modificată de Punctul 4. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) (2) Prezenta lege utilizează termeni și expresii având înțelesul prevăzut de Ordonanța de urgență a Guvernului nr. 34/2008 privind organizarea și funcționarea Sistemului național unic pentru apeluri de urgență, aprobată cu modificări și completări prin Legea nr. 160/2008 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Principii ale monitorizării electronice (1) Dispozitivul electronic de supraveghere se folosește astfel încât să nu îngrădească exercitarea dreptului la viața privată, mai mult decât este inerent naturii și conținutului procesului de monitorizare electronică, ori să nu provoace intenționat daune sau suferințe fizice ori psihice persoanei supravegheate, altele decât cele inerente naturii și conținutului procesului de monitorizare electronică. (2) În timpul monitorizării electronice este interzisă orice formă de discriminare pe temei de rasă, naționalitate, etnie, limbă, religie, gen, orientare sexuală, opinie ori apartenență politică, avere, origine socială, vârstă, dizabilitate, boală cronică necontagioasă sau infecție HIV/SIDA ori pentru alte împrejurări de același fel."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul II - Organizarea și funcționarea SIME",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Componentele SIME (1) SIME este un ansamblu integral de sisteme informatice dedicate, aplicații, echipamente și rețele de comunicații și tehnologia informației, precum și de dispozitive electronice de supraveghere, destinat monitorizării electronice în cadrul unor proceduri judiciare și execuțional penale. (2) Sistemele informatice dedicate prevăzute la alin. (1) sunt: a) sistemul informatic de creare a semnalărilor, denumit în continuare SICS; b) sistemul informatic de generare a alertelor, denumit în continuare SIGA. (3) Dispozitivele electronice de supraveghere sunt administrate și operate de către instituțiile la nivelul cărora funcționează operatorul tehnic."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul II - Organizarea și funcționarea SIME",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Compatibilitatea cu SNUAU SIME este dezvoltat astfel încât să asigure compatibilitatea cu SNUAU."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul II - Organizarea și funcționarea SIME",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "Dezvoltarea și administrarea SIME (1) Inspectoratul General al Poliției Române, Administrația Națională a Penitenciarelor și Direcția Națională de Probațiune: (la 14-06-2024, Partea introductivă a alineatului (1) , Articolul 6 , Capitolul II , Titlul I a fost modificată de Punctul 5. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) a) dezvoltă propriile SICS; b) dezvoltă soluțiile informatice pentru integrarea componentelor SIME; c) asigură infrastructura hardware și software aferentă SICS; d) asigură infrastructura hardware și software de bază aferentă SIGA; e) asigură dispozitivele electronice de supraveghere; f) operează SIME, în condițiile prezentei legi. (2) Serviciul de Telecomunicații Speciale: a) dezvoltă soluția informatică și interfața de acces a SIGA; b) asigură comunicații și măsuri de securitate cibernetică pentru SIGA; c) găzduiește și administrează din punct de vedere tehnic SIGA; d) asigură accesul componentelor SIME la datele GIS din cadrul SNUAU, prin interfețe standardizate de comunicații. (3) Instituțiile prevăzute la alin. (1) administrează în comun SIME și, împreună cu Serviciul de Telecomunicații Speciale, asigură caracterul integral al SIME și compatibilitatea acestuia cu SNUAU. (4) Cheltuielile pentru dezvoltarea, administrarea, funcționarea, mentenanța și operarea SIME se asigură de la bugetul de stat, prin bugetul instituțiilor prevăzute la alin. (1) și (2) . (5) Aspectele referitoare la administrarea integrată și pe componente a SIME, precum și aspectele tehnice privind funcționarea și operarea SIME se stabilesc prin ordin comun al conducătorilor instituțiilor prevăzute la alin. (1) și (2) ."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul II - Organizarea și funcționarea SIME",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "Comitetul tehnic (1) Se înființează Comitetul tehnic, compus din câte un reprezentant, la nivel de expert, din cadrul: a) Inspectoratului General al Poliției Române, care exercită rolul de președinte; b) Administrației Naționale a Penitenciarelor; c) Serviciului de Telecomunicații Speciale. d) Direcției Naționale de Probațiune. (la 14-06-2024, Alineatul (1) , Articolul 7 , Capitolul II , Titlul I a fost completat de Punctul 6. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) (2) Secretariatul Comitetului tehnic este asigurat de către Inspectoratul General al Poliției Române. (3) La activitățile Comitetului tehnic pot fi invitați și alți experți, din cadrul instituțiilor publice sau al unor organizații neguvernamentale. (4) Comitetul tehnic emite recomandări referitoare la: a) dezvoltarea sistemelor informatice dedicate și asigurarea compatibilității între acestea; b) îmbunătățirea funcționalității SIME și a procedurilor de lucru, în raport cu evoluțiile tehnologice și cu bunele practici constatate; c) specificațiile tehnice ale dispozitivelor de supraveghere electronică, aplicațiilor și echipamentelor utilizate în cadrul SIME; d) alte aspecte tehnice, relevante și utile pentru funcționarea și dezvoltarea SIME. (5) Recomandările Comitetului tehnic se emit cu unanimitate. (6) Periodic, Comitetul tehnic poate emite informări cu privire la capacitățile de monitorizare electronică și limitările tehnologice ale utilizării SIME. (7) Comitetul tehnic se organizează și funcționează în baza unui regulament propriu, aprobat prin ordin comun al conducătorilor instituțiilor prevăzute la alin. (1) ."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul II - Organizarea și funcționarea SIME",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "Informarea autorităților competente (1) Recomandările Comitetului tehnic se transmit instituțiilor prevăzute la art. 6 alin. (1) și (2) , în raport cu competențele acestora în ceea ce privește administrarea și operarea SIME. (2) Informările Comitetului tehnic, cu privire la capacitățile de monitorizare electronică și limitările tehnologice ale utilizării SIME, se transmit periodic organelor judiciare, pentru ca acestea să aprecieze asupra oportunității dispunerii, potrivit legii, a obligației de a purta un dispozitiv electronic de supraveghere, și organelor de supraveghere. (3) În cazul în care monitorizarea electronică nu poate fi realizată din motive ce țin de limitările tehnologice ale SIME sau de alte situații obiective, organul de supraveghere are obligația de a informa despre aceasta organul judiciar competent, pentru a dispune cu privire la menținerea, modificarea conținutului sau înlăturarea acestei măsuri."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul II - Organizarea și funcționarea SIME",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "Pregătirea personalului Instituțiile prevăzute la art. 6 alin. (1) au obligația să asigure, periodic, pregătirea profesională a personalului propriu, cu privire la modul de exploatare a componentelor SIME, în părțile ce le privesc."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea 1 - Utilizarea dispozitivelor electronice de supraveghere",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "Reguli generale privind utilizarea dispozitivelor electronice de supraveghere (1) În cadrul monitorizării electronice se pot utiliza dispozitive electronice de supraveghere mobile sau fixe. (2) Dispozitivele electronice de supraveghere mobile trebuie să asigure informarea persoanei supravegheate cu privire la emiterea unei alerte. (3) Montarea, demontarea, precum și orice operațiuni de întreținere a dispozitivelor electronice de supraveghere se realizează de către operatorul tehnic. (4) Persoana supravegheată este obligată să mențină dispozitivul electronic de supraveghere în stare de funcționare, potrivit instrucțiunilor tehnice primite. (5) Persoana protejată sau, după caz, reprezentantul legal este responsabil de menținerea dispozitivelor electronice de supraveghere în stare de funcționare, potrivit instrucțiunilor tehnice primite."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea 1 - Utilizarea dispozitivelor electronice de supraveghere",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "Montarea dispozitivelor electronice de supraveghere la persoana supravegheată (1) Dispozitivul electronic de supraveghere mobil se montează pe glezna persoanei supravegheate. Prin excepție, dispozitivul electronic de supraveghere mobil se montează pe brațul persoanei atunci când montarea pe gleznă nu este fizic posibilă sau este contraindicată medical. (2) Dispozitivele electronice de supraveghere fixe se montează în imobilul în care se execută măsura arestului la domiciliu sau în imobilul de care persoana supravegheată nu are voie să se apropie. Din rațiuni tehnice sau de securitate, dispozitivul electronic de supraveghere fix poate fi montat și în proximitatea imobilului. (3) În scopul verificării cu operativitate de către organele competente a alertelor SIME, persoana supravegheată este supusă fotografierii, cu ocazia montării dispozitivului electronic de supraveghere. Fotografierea se face fără consimțământul persoanei. (4) Organul de supraveghere și/sau operatorul tehnic instruiesc/instruiește persoana supravegheată cu privire la modul de utilizare a dispozitivelor electronice de supraveghere, precum și cu privire la obligațiile pe care le are în cazul primirii unei alerte."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea 1 - Utilizarea dispozitivelor electronice de supraveghere",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Predarea dispozitivului electronic de supraveghere persoanei protejate (1) Persoanei protejate i se pune la dispoziție un dispozitiv electronic de supraveghere, destinat generării unor alerte privind apropierea sub distanța prestabilită a dispozitivului electronic de supraveghere mobil purtat de persoana supravegheată. (2) Organul de supraveghere și/sau operatorul tehnic instruiesc/instruiește persoana protejată cu privire la modul de utilizare a dispozitivelor electronice de supraveghere și o informează cu privire la limitările acestora, precum și cu privire la modul de acțiune în cazul primirii unei alerte. (3) În cazul în care persoana protejată este un minor care nu a împlinit vârsta de 14 ani sau o persoană fără discernământ, consimțământul cu privire la utilizarea dispozitivului electronic de supraveghere se exprimă de către reprezentantul legal, cu excepția situației în care unicul reprezentant legal este chiar persoana supravegheată, caz în care consimțământul se va exprima de către reprezentantul direcției de asistență socială."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea 1 - Utilizarea dispozitivelor electronice de supraveghere",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Verificarea dispozitivelor electronice de supraveghere (1) Organul de supraveghere și/sau operatorul tehnic au/are dreptul și obligația de a verifica inopinat, în orice moment al zilei, periodic ori la sesizare, dispozitivele electronice de supraveghere alocate persoanei supravegheate. (2) În situația în care persoana supravegheată execută măsura arestului la domiciliu, verificarea dispozitivelor electronice de supraveghere se face la imobilul în care se execută măsura. În acest caz, după fiecare verificare inopinată efectuată, organul de supraveghere informează despre aceasta judecătorul de drepturi și libertăți, judecătorul de cameră preliminară sau instanța de judecată. (3) În scopul prevăzut la alin. (2) , organul de supraveghere și/sau operatorul tehnic au/are dreptul să pătrundă în imobilul unde se execută măsura, fără acordul persoanei supravegheate sau al persoanelor care locuiesc împreună cu aceasta. (4) În alte situații decât cele prevăzute la alin. (2) , verificarea dispozitivelor electronice de supraveghere purtate de persoana supravegheată se face la sediul organului de supraveghere sau în alt loc decis de acesta. (5) Perioada dintre două verificări inopinate succesive, realizate potrivit alin. (1), (2) sau (4) , nu poate fi mai mare de 7 zile calendaristice. (6) Verificarea dispozitivelor electronice de supraveghere puse la dispoziția persoanei protejate se face în condițiile convenite de organul de supraveghere cu aceasta sau, după caz, cu reprezentantul legal."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea 1 - Utilizarea dispozitivelor electronice de supraveghere",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Consemnarea unor activități (1) Aspectele referitoare la montarea, predarea și verificarea dispozitivelor electronice de supraveghere, instruirea realizată potrivit art. 11 alin. (4) și art. 12 alin. (2) și consecințele nerespectării acesteia, precum și la eventualele obiecții sau explicații ale persoanei supravegheate, ale persoanei protejate sau ale persoanelor care locuiesc cu acestea se consemnează de către organul de supraveghere și/sau operatorul tehnic întrun proces-verbal. (2) Procesul-verbal se semnează, pe fiecare pagină și la sfârșit, de către cel care îl încheie și, după caz, de către persoana supravegheată sau de către persoana protejată ori reprezentantul legal al acesteia. Dacă vreuna dintre aceste persoane nu poate sau refuză să semneze, se face mențiune despre aceasta, precum și despre motivele imposibilității sau refuzului de a semna. (3) O copie a procesului-verbal se înmânează, după caz, persoanei supravegheate sau persoanei protejate ori reprezentantului legal al acesteia."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea 1 - Utilizarea dispozitivelor electronice de supraveghere",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "Comunicarea organului de supraveghere cu persoana supravegheată sau cu cea protejată (1) Comunicarea între organul de supraveghere și persoana supravegheată sau persoana protejată realizată prin intermediul unor sisteme de comunicare la distanță poate fi înregistrată. Înregistrarea se realizează cu informarea prealabilă a persoanei supravegheate sau persoanei protejate, fără a fi necesar acordul acesteia. Înregistrarea nu poate fi folosită în alt scop decât protecția vieții și integrității persoanei protejate sau pentru verificarea legalității activităților desfășurate de organele de supraveghere. (2) Comunicarea organului de supraveghere cu persoana supravegheată sau cu cea protejată, care nu vorbește sau nu înțelege limba română ori nu se poate exprima, cu privire la procedura monitorizării electronice, se face într-o limbă sau întrun limbaj pe care aceasta îl înțelege, astfel: a) direct, atunci când organul de supraveghere cunoaște limba sau limbajul utilizat de către persoana în cauză; b) prin intermediul unui traducător autorizat sau al unui interpret de limbaj mimico-gestual, plătit din bugetul de stat, prin bugetul instituției din care face parte organul de supraveghere, atunci când acesta din urmă nu cunoaște limba sau limbajul utilizat de către persoana în cauză. c) prin intermediul unei persoane care poate comunica cu persoana supravegheată sau cu cea protejată, în cazurile în care nu există interpreți sau traducători autorizați disponibili. (la 14-06-2024, Alineatul (2) , Articolul 15 , Sectiunea 1 , Capitolul III , Titlul I a fost completat de Punctul 7. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea 1 - Utilizarea dispozitivelor electronice de supraveghere",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "Informarea organului de supraveghere cu privire la părăsirea imobilului sau depășirea limitei teritoriale fixate (1) Atunci când este obligată să se prezinte în fața organelor judiciare, la chemarea acestora, persoana supravegheată informează organul de supraveghere cu privire la aceasta, după cum urmează: a) înainte de a părăsi imobilul, în situația în care este supusă măsurii arestului la domiciliu; b) înainte de a părăsi limita teritorială fixată, în situația în care este supusă măsurii controlului judiciar sau controlului judiciar pe cauțiune. (2) În situațiile prevăzute la alin. (1) , organul de supraveghere stabilește itinerarul de deplasare, pe care îl comunică persoanei supravegheate. (3) În cazurile prevăzute la alin. (1) , precum și atunci când persoana supravegheată a primit permisiunea de a părăsi imobilul potrivit art. 221 alin. (6) din Legea nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare, organul de supraveghere introduce în SICS datele necesare monitorizării itinerarului de deplasare."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "Competența de creare a semnalărilor Semnalările sunt create și introduse în SICS de către organul de supraveghere."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Conținutul semnalărilor (1) Semnalările introduse în SICS referitoare la persoana supravegheată cuprind următoarele elemente: a) numele și prenumele, numele dat la naștere și numele anterior, orice pseudonime ce pot fi introduse separat; b) codul numeric personal, pentru persoanele care au atribuit un asemenea cod; c) adresa de domiciliu și, după caz, adresa imobilului unde locuiește efectiv; d) seria și numărul actului de identitate; e) cetățenia; f) sexul; g) semnele fizice particulare, obiective și inalterabile; h) fotografia, preluată potrivit art. 11 alin. (3) ; i) numărul de telefon; j) măsura judiciară sau execuțional penală în cadrul căreia se execută monitorizarea electronică; k) numărul mandatului, al hotărârii judecătorești sau al ordinului de protecție provizorie/ordinului de protecție/ordinului european de protecție, precum și autoritatea emitentă; l) măsurile ce trebuie luate în cazul unei alerte; m) datele de contact ale organului de supraveghere; n) regulile de monitorizare; o) datele de identificare ale dispozitivului electronic de supraveghere și ale mijloacelor de comunicare cu SIME. (2) Semnalările introduse în SICS referitoare la persoana protejată cuprind datele prevăzute la alin. (1) , cu excepția celor de la lit. g) și h) . (3) Fiecărei semnalări i se alocă un cod unic de identificare, creat în mod automat. (4) Pentru introducerea regulilor de monitorizare care să conducă la generarea alertei de apropiere frontieră, organul de supraveghere și/sau operatorul tehnic configurează distanța față de frontieră în funcție de domiciliu, locul de muncă, reședința sau alte elemente stabilite de organul judiciar. (la 14-06-2024, Articolul 18 , Sectiunea a 2-a , Capitolul III , Titlul I a fost completat de Punctul 8. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "Conținutul datelor transmise de dispozitivele electronice de supraveghere Dispozitivele electronice de supraveghere transmit, în cadrul SIGA: a) datele de identificare ale dispozitivului electronic de supraveghere și ale mijloacelor de comunicare cu SIGA; b) datele de localizare; c) alertele prevăzute la art. 21 , în măsura în care sunt generate de către dispozitivele electronice de supraveghere; d) date privind starea tehnică a dispozitivelor electronice de supraveghere."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul III - Modul de utilizare a dispozitivelor electronice de supraveghere | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "Utilizarea semnalărilor (1) SICS transmite SIGA elementele prevăzute la art. 18 alin. (1) lit. n) și o) . (2) SIGA, pe baza regulilor de monitorizare, asigură, în mod automat și sistematic, verificarea datelor transmise de dispozitivele electronice de supraveghere."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Categorii de alerte (1) În cadrul SIME sunt generate următoarele categorii de alerte: a) alertă de părăsire a imobilului, generată ca urmare a constatării prezenței dispozitivului electronic de supraveghere purtat de persoana supravegheată, în afara imobilului; b) alertă de depășire a perimetrului, generată ca urmare a constatării prezenței dispozitivului electronic de supraveghere purtat de persoana supravegheată, în afara itinerarului sau limitei teritoriale stabilite; b^1) alertă de apropiere frontieră, generată ca urmare a constatării prezenței dispozitivului electronic de supraveghere purtat de persoana supravegheată la o distanță mai mică de 30 km de frontiera de stat terestră și pe apă; (la 14-06-2024, Alineatul (1) , Articolul 21 , Capitolul IV , Titlul I a fost completat de Punctul 9. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) c) alertă de apropiere, generată ca urmare a constatării prezenței dispozitivului electronic de supraveghere purtat de persoana supravegheată, în proximitatea dispozitivului electronic de supraveghere deținut de persoana protejată, sub distanța prestabilită; d) alertă de defecțiune, generată ca urmare a pierderii semnalului dispozitivului electronic de supraveghere sau constatării oricăror alte defecțiuni în legătură cu funcționarea optimă a acestuia; e) alertă de testare, generată în cadrul procedurii de montare a dispozitivului electronic de supraveghere, pentru a verifica funcționarea optimă a acestuia. (2) Alertele prevăzute la alin. (1) sunt generate de SIGA și, după caz, de către dispozitivele electronice de supraveghere. (3) În situația executării măsurii controlului judiciar sau controlului judiciar pe cauțiune, alerta prevăzută la alin. (1) lit. b) este generată numai în ceea ce privește nerespectarea obligațiilor prevăzute la art. 215 alin. (2) lit. a) , b) , precum și d) cu referire la revenirea în locuința familiei din Legea nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare. (la 14-06-2024, Articolul 21 , Capitolul IV , Titlul I a fost completat de Punctul 10. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Preluarea alertelor și constituirea datelor de intervenție (1) Alerta generată se transmite, în mod automat, dispeceratului de urgență operat de către poliție, constituit în cadrul SNUAU, împreună cu: a) datele de localizare ale dispozitivului electronic de supraveghere purtat de persoana supravegheată, din momentul declanșării alertei; b) după caz, datele de localizare ale dispozitivului electronic de supraveghere deținut de persoana protejată, din momentul declanșării alertei; c) datele de localizare prevăzute la lit. a) și b) , actualizate în dinamică; d) datele de localizare prevăzute la lit. a) , din ultimele 24 de ore anterioare declanșării alertei. (2) La primirea unei alerte, dispeceratul de urgență operat de către poliție preia în mod automat din SICS datele cu caracter personal și celelalte elemente ale semnalării, prevăzute la art. 18 alin. (1) lit. a)-m) . (3) Datele prevăzute la alin. (1) și (2) constituie date de intervenție."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Ordinea de prioritate În situația generării mai multor alerte, sesizarea organelor de ordine publică și a organelor de supraveghere se face respectând următoarea ordine de prioritate: alerta de apropiere, alerta de defecțiune, alerta de părăsire a imobilului, alerta de apropiere frontieră și alerta de depășire a perimetrului. (la 14-06-2024, Articolul 23 , Capitolul IV , Titlul I a fost modificat de Punctul 11. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Transmiterea datelor de intervenție Datele de intervenție se transmit de către dispeceratul de urgență operat de către poliție, prin mijloace de comunicare disponibile instituțiilor prevăzute la art. 6 alin. (1) , după cum urmează: a) organului de supraveghere, cele prevăzute la art. 22 alin. (1) ; b) organului de ordine publică, cele prevăzute la art. 22 alin. (1) lit. a)-c) ."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Date transmise persoanei protejate (1) Dispeceratul de urgență operat de poliție contactează persoana protejată, o informează cu privire la declanșarea unei alerte și îi comunică: a) datele de localizare ale dispozitivului electronic de supraveghere purtat de persoana supravegheată, la momentul declanșării alertei; b) după caz, datele de localizare prevăzute la lit. a) , actualizate în dinamică. (2) Prin excepție de la prevederile alin. (1) , în situația în care persoana protejată folosește un dispozitiv de supraveghere de tip software, datele de localizare ale persoanei supravegheate sunt transmise prin intermediul dispozitivului."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Activități comune în cazul generării unor alerte (1) Organele de ordine publică sesizate au obligația de a verifica, de îndată și potrivit ordinii de priorități, respectarea măsurii de supraveghere. (2) Intervenția organelor de ordine publică sesizate se realizează după principiul „cel mai apropiat organ intervine“. (3) Organul de supraveghere sesizat are obligația de a contacta telefonic persoana supravegheată, pentru a-i solicita explicații cu privire la declanșarea alertei și pentru a o îndruma cu privire la modul de acțiune. (4) Cu privire la cele constatate, organele prevăzute la alin. (1) și (3) întocmesc un proces-verbal."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Procedura în cazul alertei de părăsire a imobilului (1) În situația generării unei alerte de părăsire a imobilului, persoana supravegheată este obligată, de îndată: a) să rămână sau să revină în imobil; b) să contacteze telefonic organul de supraveghere și să urmeze instrucțiunile acestuia. (2) În scopul verificării respectării măsurii arestului la domiciliu, organele de ordine publică și organul de supraveghere au dreptul să pătrundă în imobilul unde se execută măsura, fără acordul persoanei supravegheate sau al persoanelor care locuiesc împreună cu aceasta. (3) În situația în care persoana supravegheată este prezentă în imobil, în procesul-verbal se consemnează declarațiile acesteia și, după caz, declarațiile celorlalte persoane care locuiesc împreună cu aceasta cu privire la motivul generării alertei."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Procedura în cazul alertei de depășire a perimetrului (1) În situația generării unei alerte de depășire a perimetrului, persoana supravegheată este obligată ca, de îndată: a) să se prezinte la cel mai apropiat organ de ordine publică aflat în serviciu; b) să contacteze telefonic organul de supraveghere și să urmeze instrucțiunile acestuia. (2) Organele de ordine publică au obligația de a se deplasa în locația indicată cu ocazia primirii datelor de intervenție, pentru depistarea persoanei supravegheate. (3) Organul de ordine publică care a depistat persoana supravegheată sau la care aceasta s-a prezentat are obligația de a întocmi un proces-verbal în acest sens."
+    },
+    {
+      "provision_ref": "Art.28^1",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "28^1",
+      "title": "Articolul 28^1",
+      "content": "Procedura în cazul alertei de apropiere frontieră (1) În situația generării unei alerte de apropiere frontieră, persoana supravegheată este obligată ca, de îndată, să contacteze telefonic organul de supraveghere și să urmeze instrucțiunile acestuia. (2) Atunci când persoana monitorizată electronic potrivit art. 1 alin. (2) lit. a) are obligația de a nu depăși limita teritorială a României, în situația generării unei alerte de apropiere frontieră are și obligația de a rămâne în locul în care se află. (3) Organele de ordine publică au obligația de a se deplasa în locația indicată cu ocazia primirii datelor de intervenție, pentru depistarea persoanei supravegheate prevăzute la alin. (2) . (4) Organul de ordine publică care a depistat persoana supravegheată prevăzută la alin. (2) are obligația de a întocmi un proces-verbal în acest sens. (la 14-06-2024, Capitolul IV , Titlul I a fost completat de Punctul 12. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Procedura în cazul alertei de apropiere (1) În situația generării unei alerte de apropiere, persoana supravegheată este obligată ca, de îndată: a) să se prezinte la cel mai apropiat organ de ordine publică aflat în serviciu; b) să contacteze telefonic organul de supraveghere și să urmeze instrucțiunile acestuia; c) să se îndepărteze de persoana protejată. (2) Organele de ordine publică au obligația de a se deplasa, de îndată, la imobilul unde locuiește persoana protejată sau, după caz, în locația indicată cu ocazia primirii datelor de intervenție. (3) Dispozițiile art. 28 alin. (3) se aplică în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Procedura în cazul alertei de defecțiune (1) În situația generării unei alerte de defecțiune, persoana supravegheată este obligată ca, de îndată: a) să rămână sau să revină în imobil, dacă este în executarea măsurii arestului la domiciliu; b) să se prezinte la cel mai apropiat organ de ordine publică aflat în serviciu, în alte situații decât cele prevăzute la lit. a) ; c) să contacteze telefonic organul de supraveghere și să urmeze instrucțiunile acestuia; d) după caz, să se îndepărteze de persoana protejată. (2) În situația generării unei alerte de defecțiune este contactată și persoana protejată. (3) Prevederile art. 27 alin. (2) și (3) , art. 28 alin. (2) și (3) și art. 29 alin. (2) se aplică în mod corespunzător. (4) În situația generării unei alerte de defecțiune cu ocazia monitorizării electronice realizate în condițiile art. 1 alin. (2) lit. f) , persoana supravegheată este obligată să contacteze organul de supraveghere și să urmeze instrucțiunile acestuia. (la 14-06-2024, Articolul 30 , Capitolul IV , Titlul I a fost completat de Punctul 13. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "Procedura în cazul alertei de testare (1) Alerta de testare se transmite organului de supraveghere cu ocazia verificării funcționalității dispozitivelor electronice de supraveghere. (2) Înainte de fiecare utilizare, dispozitivul electronic de supraveghere se supune procedurii de testare. (3) Dispozitivul electronic de supraveghere destinat persoanei protejate se testează fără contactul acesteia cu persoana supravegheată."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul IV - Procedura în cazul generării alertelor | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "Încălcări ale obligațiilor persoanei supravegheate Constituie încălcare a obligației legale de a purta un dispozitiv electronic de supraveghere fapta persoanei supravegheate: a) de a nu contacta telefonic organul de supraveghere sau de a nu răspunde la încercarea de contactare telefonică a acestuia, în cazurile prevăzute de prezenta lege; b) de a nu se prezenta la cel mai apropiat organ de ordine publică aflat în serviciu, în cazurile prevăzute de prezenta lege; c) de a nu se îndepărta de persoana protejată; d) de a nu alimenta cu energie electrică, potrivit instrucțiunilor, dispozitivele electronice de supraveghere; e) de a efectua orice operațiune neautorizată asupra dispozitivelor electronice de supraveghere; f) de a împiedica, în orice mod, organele de ordine publică sau organul de supraveghere să verifice respectarea măsurii de supraveghere."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul V - Accesul autorităților la datele de localizare | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "Accesul organului de supraveghere și al organului judiciar la datele de localizare În scopul verificării respectării obligațiilor ce revin persoanei supravegheate, organul de supraveghere, precum și organul judiciar care a impus obligația de a purta un dispozitiv electronic de supraveghere au acces la datele de localizare din SIME. (la 14-06-2024, Articolul 33 , Capitolul V , Titlul I a fost modificat de Punctul 14. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul V - Accesul autorităților la datele de localizare | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "Accesul organului de urmărire penală la datele de localizare (1) Organele de urmărire penală, cu autorizarea prealabilă a judecătorului de drepturi și libertăți, au acces la datele de localizare din SIME, dacă sunt îndeplinite, cumulativ, următoarele condiții: a) există o suspiciune rezonabilă cu privire la săvârșirea unei infracțiuni dintre cele prevăzute la art. 139 alin. (2) din Legea nr. 135/2010 privind Codul de procedură penală , cu modificările și completările ulterioare, sau a unei infracțiuni de concurență neloială, de evadare, de fals în înscrisuri, infracțiuni privind nerespectarea regimului armelor, munițiilor, materialelor nucleare, al materiilor explozive și al precursorilor de explozivi restricționați, a unei infracțiuni privind nerespectarea dispozițiilor privind introducerea în țară de deșeuri și reziduuri, a unei infracțiuni privind organizarea și exploatarea jocurilor de noroc ori a unei infracțiuni privind regimul juridic al precursorilor de droguri, și infracțiuni referitoare la operațiuni cu produse susceptibile de a avea efecte psihoactive asemănătoare celor determinate de substanțele și produsele stupefiante sau psihotrope; b) există temeiuri justificate pentru a se crede că datele solicitate constituie probe; c) probele nu ar putea fi obținute în alt mod sau obținerea lor ar presupune dificultăți deosebite ce ar prejudicia ancheta ori există un pericol pentru siguranța persoanelor sau a unor bunuri de valoare; d) măsura este proporțională cu restrângerea drepturilor și libertăților fundamentale, date fiind particularitățile cauzei, importanța informațiilor ori a probelor ce urmează a fi obținute sau gravitatea infracțiunii. (2) Judecătorul de drepturi și libertăți se pronunță în termen de 48 de ore cu privire la solicitarea organelor de urmărire penală de acces la datele de localizare din SIME, prin încheiere motivată, în camera de consiliu."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul V - Accesul autorităților la datele de localizare | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Accesul organelor de stat cu atribuții în domeniul securității naționale la datele de localizare din SIME (1) În vederea stabilirii existenței amenințărilor la adresa securității naționale, prevăzute la art. 3 din Legea nr. 51/1991 privind securitatea națională a României, republicată, cu completările ulterioare, organele de stat cu atribuții în domeniul securității naționale, cu autorizarea prealabilă a unuia dintre judecătorii anume desemnați de președintele Înaltei Curți de Casație și Justiție, au acces la datele de localizare din SIME. (2) Solicitarea de acces la date se înaintează procurorului general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și este examinată sub aspectul legalității și temeiniciei, în termen de 24 de ore de la înregistrare ori de îndată în cazurile urgente, de procurori anume desemnați de acesta. (3) Dacă apreciază că propunerea este nejustificată, procurorul o respinge prin ordonanță motivată, comunicând aceasta de îndată organului care a formulat-o. (4) Dacă se apreciază că propunerea este întemeiată și sunt întrunite condițiile prevăzute de lege, procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție sau înlocuitorul de drept al acestuia solicită în scris președintelui Înaltei Curți de Casație și Justiție autorizarea accesului la datele de localizare din SIME. (5) Judecătorul se pronunță în termen de 48 de ore cu privire la solicitarea de acces la datele de localizare din SIME, prin încheiere motivată, în camera de consiliu."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul V - Accesul autorităților la datele de localizare | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Obligații privind punerea la dispoziție a datelor de localizare (1) Instituțiile prevăzute la art. 6 alin. (1) au obligația să pună la dispoziția solicitantului datele de localizare la care se solicită acces conform dispozițiilor art. 33-35 de îndată, dar nu mai târziu de 24 de ore de la primirea solicitării. (2) Solicitările, respectiv răspunsurile, dacă sunt transmise în format electronic, se semnează cu o semnătură electronică calificată sau o semnătură electronică avansată creată cu un certificat emis de o autoritate sau o instituție publică din România. Fiecare persoană care certifică datele sub semnătură electronică răspunde, potrivit legii, pentru integritatea și securitatea acestor date. (la 08-10-2024, Alineatul (2) , Articolul 36 , Capitolul V , Titlul I a fost modificat de Alineatul (18) , Articolul 36 , Capitolul IX din LEGEA nr. 214 din 5 iulie 2024, publicată în MONITORUL OFICIAL nr. 647 din 8 iulie 2024 )"
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul VI - Protecția datelor cu caracter personal | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Reguli privind protecția datelor cu caracter personal (1) Prelucrările de date cu caracter personal efectuate în temeiul prezentei legi de către organele prevăzute la art. 33-35 se realizează cu respectarea prevederilor legale privind protecția persoanelor fizice referitor la prelucrarea datelor cu caracter personal de către autoritățile competente în scopul prevenirii, descoperirii, cercetării, urmăririi penale și combaterii infracțiunilor sau al executării pedepselor, măsurilor educative și de siguranță, precum și privind libera circulație a acestor date. (2) Organele prevăzute la art. 33-35 sunt operatori de date cu caracter personal pentru prelucrările efectuate în temeiul prezentei legi, potrivit competențelor proprii. (3) Datele colectate în temeiul prezentei legi nu pot fi prelucrate în alte scopuri, cu excepția situațiilor prevăzute expres de lege și numai dacă sunt asigurate garanțiile necesare pentru protejarea drepturilor persoanelor vizate. (4) Datele privind semnalările, precum și datele de localizare se păstrează pentru o perioadă de 2 ani de la momentul încetării monitorizării electronice. (la 14-06-2024, Alineatul (4) , Articolul 37 , Capitolul VI , Titlul I a fost modificat de Punctul 15. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) (5) La împlinirea termenului prevăzut la alin. (4) datele din cadrul SIME se șterg în mod automat, printr-o procedură ireversibilă, cu excepția situațiilor în care sunt utilizate în cadrul unor proceduri judiciare, caz în care acestea urmează regimul probelor. (6) Drepturile persoanei vizate în contextul prelucrării datelor cu caracter personal în cadrul SIME se exercită potrivit legislației privind protecția persoanelor fizice referitor la prelucrarea datelor cu caracter personal de către autoritățile competente în scopul prevenirii, descoperirii, cercetării, urmăririi penale și combaterii infracțiunilor sau al executării pedepselor, măsurilor educative și de siguranță, precum și privind libera circulație a acestor date."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "Realizarea componentelor SIME Sistemele informatice dedicate, aplicațiile, echipamentele și dispozitivele electronice de supraveghere sunt realizate de către instituțiile prevăzute la art. 6 alin. (1) și (2) sau sunt achiziționate potrivit necesităților identificate de către fiecare dintre aceste instituții, conform atribuțiilor, astfel încât să se asigure caracterul integrat al SIME și compatibilitatea acestuia cu SNUAU."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Data operaționalizării SIME Operaționalizarea SIME se face cel mai târziu la data de 1 octombrie 2022. (la 24-02-2022, Articolul 39 din Capitolul VII , Titlul I a fost modificat de Punctul 1, ARTICOLUL UNIC din ORDONANȚA DE URGENȚĂ nr. 14 din 23 februarie 2022, publicată în MONITORUL OFICIAL nr. 182 din 24 februarie 2022 )"
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Faza pilot (1) Monitorizarea electronică se aplică, în primă fază, în sistem-pilot, cazurilor prevăzute la art. 1 alin. (2) lit. c) și d) , începând cu data de 1 octombrie 2022 până cel mai târziu la data de 31 decembrie 2026. (la 31-12-2025, Alineatul (1) , Articolul 40 , Capitolul VII , Titlul I a fost modificat de Articolul VII din ORDONANȚA DE URGENȚĂ nr. 90 din 30 decembrie 2025, publicată în MONITORUL OFICIAL nr. 1218 din 31 decembrie 2025 ) (1^1) Monitorizarea electronică se aplică, în sistem-pilot, cazurilor prevăzute la art. 1 alin. (2) lit. a) și b) , începând cu data de 1 octombrie 2024 până cel mai târziu la data de 31 decembrie 2026. (la 31-12-2025, Alineatul (1^1) , Articolul 40 , Capitolul VII , Titlul I a fost modificat de Articolul VII din ORDONANȚA DE URGENȚĂ nr. 90 din 30 decembrie 2025, publicată în MONITORUL OFICIAL nr. 1218 din 31 decembrie 2025 ) (2) Aspectele tehnice și organizatorice privind funcționarea în sistem pilot, precum și cele privind operaționalizarea SIME se stabilesc prin hotărâre a Guvernului care se adoptă în termen de 6 luni de la intrarea în vigoare a prezentei legi. Notă Articolele II și III din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024 , publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 prevăd: Articolul II (1) De la data intrării în vigoare a prezentei ordonanțe de urgență până la data de 30 septembrie 2024, în scopul verificării capacităților de monitorizare electronică și a limitărilor tehnologice ale utilizării Sistemului informatic de monitorizare electronică, în unitățile administrativ-teritoriale prevăzute la art. 5 alin. (2) lit. a) și b) din Hotărârea Guvernului nr. 1.025/2022 pentru stabilirea aspectelor tehnice și organizatorice privind funcționarea în sistem-pilot, precum și a celor privind operaționalizarea Sistemului informatic de monitorizare electronică, cu modificările ulterioare, organul judiciar poate dispune, potrivit legii, obligarea persoanei de a purta un dispozitiv electronic de supraveghere în cazurile prevăzute la art. 1 alin. (2) lit. a) și b) din Legea nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale, cu modificările ulterioare. (2) Capacitățile de monitorizare electronică și limitările tehnologice ale utilizării Sistemului informatic de monitorizare electronică se verifică prin utilizarea dispozitivelor electronice de supraveghere mobile suplimentare, asigurate potrivit art. 6 alin. (4) din Hotărârea Guvernului nr. 1.025/2022 , cu modificările ulterioare. (3) Dispozitivele electronice de supraveghere mobile prevăzute la alin. (2) se distribuie astfel: a) un procent de 10% unităților teritoriale de poliție existente la nivelul municipiului București; b) un procent de 90% unităților teritoriale de poliție existente la nivelul unităților administrativ-teritoriale prevăzute la art. 5 alin. (2) lit. a) și b) din Hotărârea Guvernului nr. 1.025/2022 , cu modificările ulterioare, cu excepția municipiului București. (4) Dispozitivele electronice de supraveghere distribuite potrivit alin. (3) lit. b) se repartizează în mod egal unităților teritoriale de poliție existente la nivelul unităților administrativ-teritoriale. (5) În perioada monitorizării electronice prevăzută la alin. (1) , Comitetul tehnic emite informări potrivit art. 8 alin. (2) din Legea nr. 146/2021 , cu modificările ulterioare, periodic, în funcție de dinamica utilizării dispozitivelor electronice de supraveghere mobile prevăzute la alin. (2) , dar nu mai puțin de o dată pe lună. (6) La aplicarea măsurilor prevăzute la art. 1 alin. (2) lit. a) și b) din Legea nr. 146/2021 , cu modificările ulterioare, dispuse de organele judiciare, organul de supraveghere verifică posibilitatea realizării monitorizării electronice prin raportare la capacitățile de monitorizare electronică și limitările tehnologice ale utilizării SIME, comunicate prin informările Comitetului tehnic, precum și la încadrarea în numărul de dispozitive electronice de supraveghere distribuite potrivit alin. (3) . În cazul în care monitorizarea electronică nu poate fi realizată, organul de supraveghere are obligația de a întocmi un proces-verbal și de a informa despre aceasta organul judiciar competent, pentru a dispune cu privire la modificarea conținutului sau înlăturarea acestei măsuri. (7) Aspectele organizatorice pentru monitorizarea electronică în condițiile alin. (1) se stabilesc în condițiile hotărârii Guvernului prevăzute la art. 40 alin. (2) din Legea nr. 146/2021 , cu modificările ulterioare. Articolul III (1) În termen de 90 de zile de la data intrării în vigoare a prezentei ordonanțe de urgență, prin hotărâre a Guvernului, se va modifica în mod corespunzător Hotărârea Guvernului nr. 1.025/2022 pentru stabilirea aspectelor tehnice și organizatorice privind funcționarea în sistem-pilot, precum și a celor privind operaționalizarea Sistemului informatic de monitorizare electronică, cu modificările ulterioare. (2) Până la data intrării în vigoare a hotărârii prevăzute la alin. (1) , prevederile Hotărârii Guvernului nr. 1.025/2022 , cu modificările ulterioare, se aplică în mod corespunzător cazurilor prevăzute la art. 1 alin. (2) lit. a) și b) din Legea nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale, cu modificările ulterioare. (3) Pe perioada funcționării în sistem-pilot, în cazurile prevăzute la art. 1 alin. (2) lit. a)-d) , se poate dispune, potrivit legii, obligarea persoanei de a purta un dispozitiv electronic de supraveghere, în condițiile hotărârii Guvernului prevăzute la alin. (2) . (la 14-06-2024, Alineatul (3) , Articolul 40 , Capitolul VII , Titlul I a fost modificat de Punctul 17. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 )"
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Finanțarea SIME până la operaționalizare Până la operaționalizare, sumele necesare pentru dezvoltarea, administrarea, funcționarea, mentenanța și operarea SIME, inclusiv pentru achiziția unor componente SIME, se alocă cu această destinație, de la bugetul de stat, prin legile bugetare anuale și, după caz, prin derogare de la prevederile art. 30 alin. (2) din Legea nr. 500/2002 privind finanțele publice, cu modificările și completările ulterioare, din fondul de rezervă bugetară aflat la dispoziția Guvernului."
+    },
+    {
+      "provision_ref": "Art.41^1",
+      "chapter": "Titlul I - Monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "41^1",
+      "title": "Articolul 41^1",
+      "content": "Norme de aplicare Normele metodologice de aplicare a prezentei legi se aprobă prin hotărâre a Guvernului. (la 14-06-2024, Capitolul VII , Titlul I a fost completat de Punctul 18. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024 ) Notă Conform articolului IV din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024 , publicată în MONITORUL OFICIAL nr. 558 din 14 iunie 2024, în termen de 6 luni de la data intrării în vigoare a prezentei ordonanțe de urgență, Guvernul adoptă hotărârea prevăzută la art. 41^1 din Legea nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale, cu modificările ulterioare, precum și cu modificările și completările aduse prin prezenta ordonanță de urgență."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Titlul II - Modificarea și completarea unor acte normative | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Legea nr. 286/2009 privind Codul penal , publicată în Monitorul Oficial al României, Partea I, nr. 510 din 24 iulie 2009, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 253, după alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: (2^1) Distrugerea unui dispozitiv electronic de supraveghere folosit pentru monitorizarea electronică în cadrul unor proceduri judiciare sau execuțional penale se pedepsește cu închisoare de la 6 luni la 3 ani sau cu amendă. 2. La articolul 285 alineatul (3), după litera b) se introduce o nouă literă, litera c), cu următorul cuprins: c) încălcarea de către persoana aflată în arest la domiciliu a obligației de a nu părăsi imobilul ori nerespectarea de către aceasta a itinerarului sau condițiilor de deplasare, stabilite potrivit legii. 3. La articolul 285, alineatul (4) se modifică și va avea următorul cuprins: (4) În situațiile prevăzute la alin. (3) lit. a) și b), pedeapsa aplicată pentru infracțiunea de evadare se adaugă la restul rămas neexecutat din pedeapsă la data evadării. 4. La articolul 285, după alineatul (4) se introduce un nou alineat, alineatul (4^1), cu următorul cuprins: (4^1) În situația prevăzută la alin. (3) lit. c), se aplică regulile privind concursul de infracțiuni."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Titlul II - Modificarea și completarea unor acte normative | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Legea nr. 135/2010 privind Codul de procedură penală , publicată în Monitorul Oficial al României, Partea I, nr. 486 din 15 iulie 2010, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 215 alineatul (2), litera c) se modifică și va avea următorul cuprins: c) să poarte permanent un dispozitiv electronic de supraveghere; 2. La articolul 218, alineatul (3) se modifică și va avea următorul cuprins: (3) Măsura nu poate fi dispusă cu privire la inculpatul față de care există suspiciunea rezonabilă că a săvârșit o infracțiune asupra unui membru de familie cu care acesta locuiește, cu privire la inculpatul care locuiește cu persoanele prevăzute la art. 221 alin. (2) lit. b) ori cu privire la persoana cercetată sau condamnată pentru infracțiunea de evadare. 3. La articolul 221, alineatul (3) se modifică și va avea următorul cuprins: (3) Judecătorul de drepturi și libertăți, judecătorul de cameră preliminară sau instanța de judecată poate dispune ca pe durata arestului la domiciliu inculpatul să poarte permanent un dispozitiv electronic de supraveghere și/sau să respecte una sau mai multe dintre obligațiile prevăzute la art. 215 alin. (2) lit. d)-k). Prevederile art. 215 alin. (8), (8^1) și (9) se aplică în mod corespunzător. 4. La articolul 221, după alineatul (6) se introduce un nou alineat, alineatul (6^1), cu următorul cuprins: (6^1) În situația prevăzută la alin. (6), în încheiere se va indica în mod expres perioada de timp, precum și, după caz, locul de muncă, instituția de învățământ, unitatea sanitară sau alt loc în care s-a aprobat deplasarea inculpatului. 5. La articolul 221, după alineatul (11) se introduce un nou alineat, alineatul (12), cu următorul cuprins: (12) Atunci când, cu rea-credință, inculpatul încalcă obligația de a nu părăsi imobilul ori nu respectă itinerarul sau condițiile de deplasare, stabilite potrivit legii, organul de supraveghere are dreptul de a-l prinde pe inculpat și de a-l prezenta de îndată procurorului, în cursul urmăririi penale, judecătorului de cameră preliminară, în procedura de cameră preliminară, sau instanței de judecată, în cursul judecății, pentru a proceda potrivit alin. (11). 6. La articolul 521, alineatul (4) se modifică și va avea următorul cuprins: (4) Darea în urmărire se dispune, prin ordin, de Inspectoratul General al Poliției Române, Direcția Generală de Poliție a Municipiului București sau, după caz, de inspectoratul de poliție județean, sesizat potrivit alin. (3)."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Titlul II - Modificarea și completarea unor acte normative | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "La articolul 82 din Legea nr. 253/2013 privind executarea pedepselor, a măsurilor educative și a altor măsuri neprivative de libertate dispuse de organele judiciare în cursul procesului penal, publicată în Monitorul Oficial al României, Partea I, nr. 513 din 14 august 2013, cu modificările și completările ulterioare, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) În cadrul programului de supraveghere, se va stabili ca, cel puțin o dată la 7 zile calendaristice, persoana aflată sub control judiciar să se prezinte la organul de poliție desemnat cu supravegherea sa."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Titlul II - Modificarea și completarea unor acte normative | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, publicată în Monitorul Oficial al României, Partea I, nr. 514 din 14 august 2013, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 37, alineatul (4) se modifică și va avea următorul cuprins: (4) Persoanele condamnate care execută pedeapsa în regim semideschis pot presta muncă și desfășura activități educative, culturale, terapeutice, de consiliere psihologică și asistență socială, moral-religioase, instruire școlară și formare profesională, în afara penitenciarului, sub supraveghere inclusiv electronică. Supravegherea îndeplinirii obligației de a purta permanent un dispozitiv electronic de supraveghere se face în condițiile stabilite prin lege specială. 2. La articolul 124, alineatul (2) se modifică și va avea următorul cuprins: (2) În situația în care, cu ocazia dispunerii măsurii arestului la domiciliu, se stabilește ca inculpatul să poarte un dispozitiv electronic de supraveghere, potrivit art. 221 alin. (3) din Codul de procedură penală , supravegherea îndeplinirii obligației de a purta permanent un dispozitiv electronic de supraveghere se face în condițiile stabilite prin lege specială. 3. Articolul 125 se modifică și va avea următorul cuprins: Articolul 125 Organul de supraveghere Supravegherea respectării măsurii arestului la domiciliu sau a obligațiilor impuse inculpatului, pe durata acesteia, se realizează de către inspectoratul de poliție județean, respectiv de Direcția Generală de Poliție a Municipiului București, denumit/denumită în continuare organ de supraveghere, în a cărui/cărei circumscripție se află imobilul în care locuiește inculpatul, stabilit prin încheiere. 4. După articolul 128 se introduce un nou articol, articolul 128^1, cu următorul cuprins: Articolul 128^1 Obligațiile inculpatului la comunicarea măsurii privind arestul la domiciliu După comunicarea măsurii privind arestul la domiciliu, inculpatul are obligația de a se deplasa de îndată la imobilul prevăzut la art. 126, în vederea executării măsurii. 5. La articolul 129, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) Perioada dintre două verificări inopinate succesive, potrivit alin. (3), nu poate fi mai mare de două zile calendaristice. 6. La articolul 129, după alineatul (5) se introduc două noi alineate, alineatele (6) și (7), cu următorul cuprins: (6) Măsurile cuprinse în programul de supraveghere pot fi contestate de către inculpat sau orice persoană interesată, prin contestație adresată judecătorului de drepturi și libertăți, judecătorului de cameră preliminară sau instanței de judecată care a dispus măsura arestului la domiciliu. Prevederile art. 219 , respectiv art. 220 din Codul de procedură penală se aplică în mod corespunzător. (7) Prin hotărârea luată, organul judiciar prevăzut la alin. (6) poate modifica sau completa programul de supraveghere, în tot sau în parte. 7. La articolul 131, după alineatul (1) se introduce un nou alineat, alineatul (1^1), cu următorul cuprins: (1^1) Prevederile art. 221 alin. (11) din Codul de procedură penală se aplică în mod corespunzător. 8. La articolul 131, după alineatul (3) se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) În vederea verificării situației de fapt și întocmirii sesizării prevăzute la alin. (1), organul de supraveghere are acces, în condițiile legii, la documente, imagini, înregistrări audiovideo sau orice înscrisuri necesare, deținute de autoritățile sau instituțiile publice, persoanele juridice ori persoanele fizice."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Titlul II - Modificarea și completarea unor acte normative | Capitolul VII - Dispoziții tranzitorii și finale | Secţiunea a 2-a - Crearea semnalărilor și colectarea datelor de localizare",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "În cuprinsul Legii nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată în Monitorul Oficial al României, Partea I, nr. 948 din 15 octombrie 2020, sintagma „sistem electronic de supraveghere“ se înlocuiește cu sintagma „dispozitiv electronic de supraveghere“."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "monitorizarea electronică",
+      "definition": "ansamblul activităților realizate prin intermediul SIME referitoare la localizarea sistematică, pe teritoriul României, a dispozitivelor electronice de supraveghere",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "semnalare",
+      "definition": "set de date introduse în SIME referitoare la persoanele supravegheate și persoanele protejate",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "alertă",
+      "definition": "set de date prelucrate prin intermediul SIME, prin care este notificată încălcarea unei reguli având la bază una sau mai multe semnalări",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "persoana supravegheată",
+      "definition": "persoana obligată, în cadrul procedurilor judiciare și execuționale penale prevăzute la art. 1 alin. (2) , să poarte un dispozitiv electronic de supraveghere",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "persoana protejată",
+      "definition": "persoana beneficiară a unui ordin de protecție provizoriu, ordin de protecție sau ordin de protecție european",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "dispozitiv electronic de supraveghere",
+      "definition": "dispozitiv hardware și, după caz, software apt să transmită SIME, automat și sistematic, datele de localizare ale acestuia",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "date GIS",
+      "definition": "date conținute în sistemul informatic geografic din cadrul Sistemului național unic pentru apeluri de urgență, denumit în continuare SNUAU",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "date de localizare",
+      "definition": "date referitoare la poziția geografică și precizia localizării asociate dispozitivului electronic de supraveghere, precum și coordonatele temporale aferente determinării și transmiterii fiecărei poziții geografice",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "organ de supraveghere",
+      "definition": "personal din cadrul Poliției Române cu atribuții de supraveghere în cadrul procedurilor prevăzute la art. 1 alin. (2) lit. a)-d) , personal din cadrul Administrației Naționale a Penitenciarelor și al unităților subordonate, cu atribuții de supraveghere electronică la distanță pentru procedura prevăzută la art. 1 alin. (2) lit. e) , precum și personalul din cadrul Direcției Naționale de Probațiune, cu atribuții de supraveghere electronică pentru procedura prevăzută la art. 1 alin. (2) lit",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "organ de ordine publică",
+      "definition": "personal din cadrul Poliției Române, Jandarmeriei Române, Poliției de Frontieră Române și Poliției locale, cu atribuții de ordine publică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "operator tehnic",
+      "definition": "personal din cadrul Poliției Române, al Administrației Naționale a Penitenciarelor și al unităților subordonate, precum și personalul din cadrul Direcției Naționale de Probațiune, care exercită atribuții tehnice privind monitorizarea electronică, prevăzute în prezenta lege. (la 14-06-2024, Litera k) , Alineatul (1) , Articolul 2 , Capitolul I , Titlul I a fost modificată de Punctul 4. , Articolul I din ORDONANȚA DE URGENȚĂ nr. 61 din 13 iunie 2024, publicată în MONITORUL OFICIAL nr",
+      "source_provision": "Art.2"
+    }
+  ]
+}

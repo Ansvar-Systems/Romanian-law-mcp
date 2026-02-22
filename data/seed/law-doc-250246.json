@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-250246",
+  "type": "statute",
+  "title": "LEGE nr. 3 din 4 ianuarie 2022",
+  "short_name": "lege 3 04 01 2022",
+  "status": "in_force",
+  "issued_date": "2022-01-04",
+  "in_force_date": "2022-01-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/250246",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 3 04/01/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se acceptă amendamentele*) adoptate la Kampala la 10 iunie 2010, la New York la 14 decembrie 2017 și la Haga la 6 decembrie 2019 la articolul 8 al Statutului Curții Penale Internaționale , adoptat la Roma la 17 iulie 1998, ratificat prin Legea nr. 111/2002 . *) Traducere."
+    }
+  ],
+  "definitions": []
+}

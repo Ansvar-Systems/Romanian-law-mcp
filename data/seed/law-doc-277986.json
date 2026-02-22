@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277986",
+  "type": "statute",
+  "title": "LEGE nr. 5 din 5 ianuarie 2024",
+  "short_name": "lege 5 05 01 2024",
+  "status": "in_force",
+  "issued_date": "2024-01-05",
+  "in_force_date": "2024-01-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277986",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 5 05/01/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 178 din 14 decembrie 2022 privind sprijinirea entităților juridice stabilite în România, în vederea participării la proiecte de colaborare susținute financiar prin intermediul Fondului European de Apărare (EDF), publicată în Monitorul Oficial al României, Partea I, nr. 1211 din 16 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

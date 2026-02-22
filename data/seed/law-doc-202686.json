@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-202686",
+  "type": "statute",
+  "title": "LEGE nr. 173 din 13 iulie 2018",
+  "short_name": "lege 173 13 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-13",
+  "in_force_date": "2018-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/202686",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 173 13/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 106 din 20 decembrie 2017 pentru prorogarea unor termene privind stabilirea unor măsuri pentru asigurarea facilităților la transport pentru anumite categorii de persoane, publicată în Monitorul Oficial al României, Partea I, nr. 1.017 din 21 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

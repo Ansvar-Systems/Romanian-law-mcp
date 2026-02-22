@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-234453",
+  "type": "statute",
+  "title": "LEGE nr. 281 din 8 decembrie 2020",
+  "short_name": "lege 281 08 12 2020",
+  "status": "in_force",
+  "issued_date": "2020-12-08",
+  "in_force_date": "2020-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/234453",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 281 08/12/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 100 din 25 iunie 2020 pentru prorogarea termenului prevăzut la art. III alin. (3) din Ordonanța de urgență a Guvernului nr. 1/2020 privind unele măsuri fiscal-bugetare și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 557 din 26 iunie 2020."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prin derogare de la dispozițiile art. 27 alin. (3) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr. 396 din 15 mai 2020, cu modificările și completările ulterioare, pe durata stării de alertă se pot desfășura concursurile pentru ocuparea posturilor vacante din cadrul Ministerului Afacerilor Externe."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-280182",
+  "type": "statute",
+  "title": "LEGE nr. 60 din 20 martie 2024",
+  "short_name": "lege 60 20 03 2024",
+  "status": "in_force",
+  "issued_date": "2024-03-20",
+  "in_force_date": "2024-03-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/280182",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 60 20/03/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 181 din 19 decembrie 2022 pentru modificarea Legii energiei electrice și a gazelor naturale nr. 123/2012 și a altor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 1226 din 20 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

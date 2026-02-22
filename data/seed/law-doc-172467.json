@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-172467",
+  "type": "statute",
+  "title": "LEGE nr. 250 din 28 octombrie 2015",
+  "short_name": "lege 250 28 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-28",
+  "in_force_date": "2015-10-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172467",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 250 28/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 28 noiembrie Ziua Bucovinei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul sărbătoririi zilei prevăzute la art. 1 autorităţile administraţiei publice centrale şi locale, precum şi instituţiile publice pot organiza manifestări cu caracter cultural-ştiinţific. (2) Fondurile necesare organizării evenimentelor prilejuite de sărbătorirea Zilei Bucovinei pot fi asigurate din bugetele locale sau, după caz, din bugetele autorităţilor administraţiei publice centrale ori ale instituţiilor publice."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-226626",
+  "type": "statute",
+  "title": "LEGE nr. 74 din 5 iunie 2020",
+  "short_name": "lege 74 05 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-05",
+  "in_force_date": "2020-06-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/226626",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 74 05/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea vânătorii și a protecției fondului cinegetic nr. 407/2006 , publicată în Monitorul Oficial al României, Partea I, nr. 944 din 22 noiembrie 2006, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La anexa nr. 1 litera B „Păsări“, după punctul 9 se introduce un nou punct, punctul 9^1, cu următorul cuprins: Denumirea speciei Perioada de vânătoare Valoarea de despăgubire (în euro) în perioada admisă interzisă „9^1. Cormoranul mare (Phalacrocorax carbo sinensis) 1 septembrie- 28 februarie 80 270“ 2. La anexa nr. 2 litera B , punctul 34 se abrogă."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La anexa nr. 5C la Ordonanța de urgență a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei și faunei sălbatice, publicată în Monitorul Oficial al României, Partea I, nr. 442 din 29 iunie 2007, aprobată cu modificări și completări prin Legea nr. 49/2011 , cu modificările și completările ulterioare, după poziția PASERIFORMES se introduce o nouă poziție, cu următorul cuprins: PELECANIFORMIS Phalacrocoracidae – Phalacrocorax carbo sinensis (Cormoranul mare)"
+    }
+  ],
+  "definitions": []
+}

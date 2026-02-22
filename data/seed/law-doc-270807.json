@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-270807",
+  "type": "statute",
+  "title": "LEGE nr. 150 din 26 mai 2023",
+  "short_name": "lege 150 26 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-26",
+  "in_force_date": "2023-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270807",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 150 26/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă majorarea capitalului deținut de România în calitate de membru la Banca de Dezvoltare a Consiliului Europei cu 46.490.000 EUR în conformitate cu prevederile Rezoluției Consiliului Guvernatorilor nr. 463/2022 „Privind majorarea capitalului Băncii“. Valoarea capitalului vărsat este de 13.128.776 EUR și se achită începând cu anul 2023, prin virament bancar în EUR, anual, în tranșe egale, până la data de 31 decembrie 2026."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Plata capitalului vărsat în conformitate cu prevederile Rezoluției Consiliului Guvernatorilor nr. 463/2022 „Privind majorarea capitalului Băncii“ se asigură anual de la bugetul de stat, prin bugetul Ministerului Finanțelor."
+    }
+  ],
+  "definitions": []
+}

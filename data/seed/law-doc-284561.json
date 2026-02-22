@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-284561",
+  "type": "statute",
+  "title": "LEGE nr. 200 din 25 iunie 2024",
+  "short_name": "lege 200 25 06 2024",
+  "status": "in_force",
+  "issued_date": "2024-06-25",
+  "in_force_date": "2024-06-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/284561",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 200 25/06/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 30 din 10 august 2023 pentru stabilirea unor măsuri bugetare privind utilizarea contribuției de solidaritate instituite prin Ordonanța de urgență a Guvernului nr. 186/2022 privind unele măsuri de punere în aplicare a Regulamentului (UE) 2022/1.854 al Consiliului din 6 octombrie 2022 privind o intervenție de urgență pentru abordarea problemei prețurilor ridicate la energie, adoptată în temeiul art. 1 pct. I.3 din Legea nr. 193/2023 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 737 din 10 august 2023."
+    }
+  ],
+  "definitions": []
+}

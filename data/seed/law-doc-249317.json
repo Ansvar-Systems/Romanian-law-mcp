@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-249317",
+  "type": "statute",
+  "title": "LEGE nr. 303 din 16 decembrie 2021",
+  "short_name": "lege 303 16 12 2021",
+  "status": "in_force",
+  "issued_date": "2021-12-16",
+  "in_force_date": "2021-12-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/249317",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 303 16/12/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După alineatul (5) al articolului 23 din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată în Monitorul Oficial al României, Partea I, nr. 933 din 13 octombrie 2004, cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (6), cu următorul cuprins: (6) Fac excepție de la prevederile alin. (2) terenurile aferente obiectivelor de investiție care servesc activităților agricole prevăzute la art. 92 alin. (2) lit. c) și e) și alin. (3) din Legea fondului funciar nr. 18/1991, republicată , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată în Monitorul Oficial al României, Partea I, nr. 933 din 13 octombrie 2004, cu modificările și completările ulterioare, precum și cu completările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219405",
+  "type": "statute",
+  "title": "LEGE nr. 195 din 29 octombrie 2019",
+  "short_name": "lege 195 29 10 2019",
+  "status": "in_force",
+  "issued_date": "2019-10-29",
+  "in_force_date": "2019-10-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219405",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 195 29/10/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 56 din 28 iunie 2018 pentru completarea Legii nr. 15/1990 privind reorganizarea unităților economice de stat ca regii autonome și societăți comerciale, publicată în Monitorul Oficial al României, Partea I, nr. 549 din 2 iulie 2018, cu următoarea modificare: – La articolul unic, alineatul (1) al articolului 3^1 se modifică și va avea următorul cuprins: Articolul 3^1 (1) Regiile autonome pot fi reorganizate ca societăți reglementate de Legea societăților nr. 31/1990, republicat ă, cu modificările și completările ulterioare, prin hotărâre a Guvernului sau, după caz, prin hotărâre a consiliului local/hotărâre a consiliului județean sau prin hotărâre a Consiliului General al Municipiului București, având ca unic acționar/asociat statul român sau unitatea administrativ-teritorială."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-207072",
+  "type": "statute",
+  "title": "LEGE nr. 264 din 14 noiembrie 2018",
+  "short_name": "lege 264 14 11 2018",
+  "status": "in_force",
+  "issued_date": "2018-11-14",
+  "in_force_date": "2018-11-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/207072",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 264 14/11/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul de parteneriat privind relațiile și cooperarea dintre Uniunea Europeană și statele membre ale acesteia, pe de o parte, și Noua Zeelandă, pe de altă parte, semnat la Bruxelles la 5 octombrie 2016."
+    }
+  ],
+  "definitions": []
+}

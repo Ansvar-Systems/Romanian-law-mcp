@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-60260",
+  "type": "statute",
+  "title": "LEGE nr. 64 din 23 martie 2005",
+  "short_name": "lege 64 23 03 2005",
+  "status": "in_force",
+  "issued_date": "2005-03-23",
+  "in_force_date": "2005-03-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/60260",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 64 23/03/2005",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă participarea României ca membru cu drepturi depline la Grupul de cooperare pentru combaterea consumului și a traficului ilicit de droguri (Grupul POMPIDOU) din cadrul Consiliului Europei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele aferente cheltuielilor ocazionate de participarea României ca membru cu drepturi depline la Grupul de cooperare pentru combaterea consumului și a traficului ilicit de droguri (Grupul POMPIDOU) din cadrul Consiliului Europei se asigură din alocații de la bugetul de stat, prin bugetul Secretariatului General al Guvernului pentru Agenția Națională pentru Politici și Coordonare în Domeniul Drogurilor și al Adicțiilor. (la 13-03-2025, Articolul 2 a fost modificat de Articolul 12 din ORDONANȚA DE URGENȚĂ nr. 147 din 12 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1262 din 13 decembrie 2024 )"
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Afacerilor Externe este autorizat să notifice Secretariatului General al Consiliului Europei, prin Reprezentanța permanentă a României la Strasbourg, hotărârea României de a deveni membru cu drepturi depline la Grupul de cooperare pentru combaterea consumului și a traficului ilicit de droguri (Grupul POMPIDOU) de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

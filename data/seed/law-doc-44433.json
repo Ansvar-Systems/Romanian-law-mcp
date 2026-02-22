@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-44433",
+  "type": "statute",
+  "title": "LEGE nr. 266 din 13 iunie 2003",
+  "short_name": "lege 266 13 06 2003",
+  "status": "in_force",
+  "issued_date": "2003-06-13",
+  "in_force_date": "2003-06-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/44433",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 266 13/06/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 12 din 30 ianuarie 2003 pentru modificarea și completarea Ordonanței Guvernului nr. 89/2000 privind unele măsuri pentru autorizarea operatorilor și efectuarea inscrierilor în Arhiva Electronică de Garanții Reale Mobiliare, adoptată în temeiul art. 1 pct. III.11 din Legea nr. 680/2002 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 59 din 1 februarie 2003, cu următoarele modificări: – La articolul I punctul 14, alineatele (1) și (3) ale articolului 28^3 vor avea următorul cuprins: Articolul 28^3 (1) Formularul de aviz de garanție va fi prezentat operatorului sau agentului acestuia la sediul biroului de înscriere în arhiva de către persoana interesată, potrivit legii, sau de către reprezentantul sau împuternicit prin procura autentică ori va fi transmis, în condițiile stabilite de Autoritatea de Supraveghere, sub forma unui înscris în forma electronică, căruia i s-a incorporat, atasat sau asociat o semnatura electronică extinsă, bazată pe un certificat calificat valabil. ............................................................... (3) Un exemplar al formularului va fi înapoiat solicitantului după efectuarea înscrierii în arhiva, pe suport hârtie, vizat de operator sau agent, ori, după caz, în forma electronică, semnat cu semnatura electronică extinsă a operatorului sau agentului, cu menționarea numărului și datei înregistrării formularului, precum și a numărului de identificare a înregistrării."
+    }
+  ],
+  "definitions": []
+}

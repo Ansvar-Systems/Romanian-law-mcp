@@ -1,0 +1,67 @@
+{
+  "id": "law-doc-124360",
+  "type": "statute",
+  "title": "LEGE nr. 235 din 7 decembrie 2010",
+  "short_name": "lege 235 07 12 2010",
+  "status": "in_force",
+  "issued_date": "2010-12-07",
+  "in_force_date": "2010-12-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/124360",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 235 07/12/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prezenta lege instituie acordarea burselor de merit olimpic internațional elevilor care au obținut distincții, respectiv locurile I, II, III și mențiune la olimpiadele școlare internaționale, precum și premiile acordate profesorilor care au pregătit elevii ce au obținut distincții, respectiv locurile I, II, III și mențiune la olimpiadele școlare internaționale, indiferent de disciplina de învățământ la care acestea au fost organizate. (la 02-12-2017, Articolul 1 a fost modificat de Punctul 1, ARTICOL UNIC din LEGEA nr. 228 din 28 noiembrie 2017, publicată în MONITORUL OFICIAL nr. 945 din 29 noiembrie 2017 )"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Bursele de merit olimpic internațional se acordă pe o perioadă de 12 luni, începând cu luna imediat următoare obținerii distincțiilor, respectiv locurilor I, II, III și mențiune prevăzute la art. 1 . (la 02-12-2017, Articolul 2 a fost modificat de Punctul 2, ARTICOL UNIC din LEGEA nr. 228 din 28 noiembrie 2017, publicată în MONITORUL OFICIAL nr. 945 din 29 noiembrie 2017 )"
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Cuantumul lunar al burselor de merit olimpic internațional acordate este diferențiat, în funcție de nivelul distincției obținute, după cum urmează: a) pentru locul I, cuantumul lunar al bursei de merit olimpic internațional reprezintă echivalentul salariului de bază minim brut pe țară garantat în plată la data acordării acesteia; b) pentru locul al II-lea, cuantumul lunar al bursei de merit olimpic internațional reprezintă echivalentul a 75% din salariul de bază minim brut pe țară garantat în plată la data acordării acesteia; c) pentru locul al III-lea, cuantumul lunar al bursei de merit olimpic internațional reprezintă echivalentul a 50% din salariul de bază minim brut pe țară garantat în plată la data acordării acesteia; d) pentru mențiune, cuantumul lunar al bursei de merit olimpic internațional reprezintă echivalentul a 25% din salariul de bază minim brut pe țară garantat în plată la data acordării acesteia. (la 02-12-2017, Articolul 3 a fost modificat de Punctul 3, ARTICOL UNIC din LEGEA nr. 228 din 28 noiembrie 2017, publicată în MONITORUL OFICIAL nr. 945 din 29 noiembrie 2017 )"
+    },
+    {
+      "provision_ref": "Art.3^1",
+      "section": "3^1",
+      "title": "Articolul 3^1",
+      "content": "Profesorii care au pregătit elevii ce au obținut distincții, respectiv locurile I, II, III și mențiune la olimpiadele școlare internaționale, indiferent de disciplina de învățământ la care acestea au fost organizate, primesc un premiu al cărui cuantum se stabilește prin ordin al ministrului educației naționale. (la 02-12-2017, Actul a fost completat de Punctul 4, ARTICOL UNIC din LEGEA nr. 228 din 28 noiembrie 2017, publicată în MONITORUL OFICIAL nr. 945 din 29 noiembrie 2017 )"
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Sumele necesare acordării burselor de merit olimpic internațional și cele necesare pentru premierea profesorilor sunt prevăzute anual în bugetul Ministerului Educației Naționale și sunt acordate de la bugetul de stat. (la 02-12-2017, Articolul 4 a fost modificat de Punctul 5, ARTICOL UNIC din LEGEA nr. 228 din 28 noiembrie 2017, publicată în MONITORUL OFICIAL nr. 945 din 29 noiembrie 2017 )"
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Prezenta lege intră în vigoare la data de 1 ianuarie 2011."
+    },
+    {
+      "provision_ref": "Art.6",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "În termen de 30 de zile de la intrarea în vigoare a prezentei legi, Ministerul Educației, Cercetării, Tineretului și Sportului emite norme metodologice de aplicare, aprobate prin ordin al ministrului educației, cercetării, tineretului și sportului."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "pentru locul al II",
+      "definition": "lea, cuantumul lunar al bursei de merit olimpic internațional reprezintă echivalentul a 75% din salariul de bază minim brut pe țară garantat în plată la data acordării acesteia",
+      "source_provision": "Art.3"
+    },
+    {
+      "term": "pentru locul al III",
+      "definition": "lea, cuantumul lunar al bursei de merit olimpic internațional reprezintă echivalentul a 50% din salariul de bază minim brut pe țară garantat în plată la data acordării acesteia",
+      "source_provision": "Art.3"
+    }
+  ]
+}

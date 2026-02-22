@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252724",
+  "type": "statute",
+  "title": "LEGE nr. 59 din 18 martie 2022",
+  "short_name": "lege 59 18 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-18",
+  "in_force_date": "2022-03-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252724",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 59 18/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 75 din 30 iunie 2021 privind executarea serviciilor de aerofotogrammetrie și de realizare a ortofotoplanurilor pe teritoriul României și executarea serviciilor de digitizare și actualizare a Sistemului de identificare a parcelelor agricole pentru Ministerul Agriculturii și Dezvoltării Rurale în perioada 2021-2030, publicată în Monitorul Oficial al României, Partea I, nr. 645 din 30 iunie 2021, cu următoarea modificare: – La articolul 5, alineatul (4) va avea următorul cuprins: (4) Ortofotoplanurile rezultate în urma aplicării prevederilor prezentei ordonanțe de urgență se pun cu titlu gratuit la dispoziția autorităților publice centrale și locale, cu ajutorul serviciilor de vizualizare, prin intermediul geoportalului Infrastructurii naționale pentru informații spațiale în România - INIS."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "law-doc-241923",
+  "type": "statute",
+  "title": "LEGE nr. 112 din 28 aprilie 2021",
+  "short_name": "lege 112 28 04 2021",
+  "status": "in_force",
+  "issued_date": "2021-04-28",
+  "in_force_date": "2021-04-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/241923",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 112 28/04/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 115 din 16 iulie 2020 privind unele măsuri pentru sprijinirea categoriilor de persoane cele mai defavorizate care beneficiază de mese calde pe bază de tichete sociale pe suport electronic pentru mese calde, acordate din fonduri externe nerambursabile, precum și unele măsuri de distribuire a acestora, publicată în Monitorul Oficial al României, Partea I, nr. 632 din 17 iulie 2020, cu modificările ulterioare, cu următoarele modificări și completări: 1. La articolul 2, litera g) se modifică și va avea următorul cuprins: g) unități afiliate - unități de alimentație publică, cantine-restaurant, bufete sau orice alte tipuri de unități care comercializează masa caldă, în sensul prevăzut la lit. h), online sau în unitățile proprii, cu care unitatea emitentă are încheiat un contract direct pentru acceptarea la plată a tichetelor sociale pe suport electronic pentru mese calde; 2. La articolul 4, după alineatul (17) se introduce un nou alineat, alineatul (17^1), cu următorul cuprins: (17^1) Ministerul Investițiilor și Proiectelor Europene virează unității emitente sumele aferente tichetelor sociale pe suport electronic pentru mese calde, astfel: a) valoarea nominală a tichetelor sociale pe suport electronic pentru mese calde - într-un «cont distinct de disponibil cu afectațiune specială» deschis la Trezoreria Statului, cont din care unitatea emitentă virează sumele încasate în conturile prevăzute la alin. (15), deschise la instituții de credit; b) costul aferent emiterii suportului electronic - în contul deschis la Trezoreria Statului, potrivit dispozițiilor art. 6 alin. (1) din Ordonanța de urgență a Guvernului nr. 146/2002 privind formarea și utilizarea resurselor derulate prin trezoreria statului, republicată, cu modificările și completările ulterioare. 3. La articolul 5, alineatul (6) se modifică și va avea următorul cuprins: (6) Tichetele sociale pe suport electronic pentru mese calde pot fi utilizate numai la unitățile afiliate care au încheiat cu unitatea emitentă selectată de către beneficiar contracte de prestări servicii/protocoale/convenții/acorduri sau orice alt document care reglementează drepturile și obligațiile părților privind acceptarea tichetelor sociale pe suport electronic pentru mese calde."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se modifică și va avea următorul cuprins",
+      "definition": "g) unități afiliate - unități de alimentație publică, cantine-restaurant, bufete sau orice alte tipuri de unități care comercializează masa caldă, în sensul prevăzut la lit",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "valoarea nominală a tichetelor sociale pe suport electronic pentru mese calde",
+      "definition": "într-un «cont distinct de disponibil cu afectațiune specială» deschis la Trezoreria Statului, cont din care unitatea emitentă virează sumele încasate în conturile prevăzute la alin. (15), deschise la instituții de credit",
+      "source_provision": "Art.1"
+    },
+    {
+      "term": "costul aferent emiterii suportului electronic",
+      "definition": "în contul deschis la Trezoreria Statului, potrivit dispozițiilor art. 6 alin. (1) din Ordonanța de urgență a Guvernului nr. 146/2002 privind formarea și utilizarea resurselor derulate prin trezoreria statului, republicată, cu modificările și completările ulterioare. 3",
+      "source_provision": "Art.1"
+    }
+  ]
+}

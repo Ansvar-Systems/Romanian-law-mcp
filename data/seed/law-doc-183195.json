@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-183195",
+  "type": "statute",
+  "title": "LEGE nr. 195 din 31 octombrie 2016",
+  "short_name": "lege 195 31 10 2016",
+  "status": "in_force",
+  "issued_date": "2016-10-31",
+  "in_force_date": "2016-10-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/183195",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 195 31/10/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 202/1998 privind organizarea Monitorului Oficial al României, republicată în Monitorul Oficial al României, Partea I, nr. 206 din 11 aprilie 2013, cu modificările ulterioare, se modifică după cum urmează: 1. Articolul 18 se modifică şi va avea următorul cuprins: \"Art. 18. - Regia Autonomă «Monitorul Oficial» editează Monitorul Oficial al României atât în format tipărit, cât şi în format electronic. Formatul tipărit este pus la dispoziţia tuturor utilizatorilor contra cost, iar formatul electronic al Monitorului Oficial al României, Partea I şi Partea a II-a, în mod gratuit, permanent, în varianta pentru citire.\" 2. Articolul 19 se modifică şi va avea următorul cuprins: \"Art. 19. - Regia Autonomă «Monitorul Oficial» realizează un produs electronic conţinând actele publicate în Monitorul Oficial al României, părţile III-VII, care poate fi accesat gratuit pe internet şi este disponibil, în varianta pentru citire, timp de 10 zile de la publicarea respectivelor acte.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prezenta lege intră în vigoare la data de 1 iunie 2017."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 202/1998 privind organizarea Monitorului Oficial al României, republicată în Monitorul Oficial al României, Partea I, nr. 206 din 11 aprilie 2013, cu modificările ulterioare, precum şi cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": []
+}

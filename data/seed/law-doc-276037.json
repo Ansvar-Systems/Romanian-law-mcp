@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-276037",
+  "type": "statute",
+  "title": "LEGE nr. 311 din 3 noiembrie 2023",
+  "short_name": "lege 311 03 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-03",
+  "in_force_date": "2023-11-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276037",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 311 03/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 8 din Ordonanța de urgență a Guvernului nr. 76/2016 privind înființarea, organizarea și funcționarea Direcției Generale de Protecție Internă a Ministerului Afacerilor Interne, publicată în Monitorul Oficial al României, Partea I, nr. 891 din 8 noiembrie 2016, aprobată cu modificări și completări prin Legea nr. 194/2017 , alineatul (1) se modifică și va avea următorul cuprins: Articolul 8 (1) Directorul general al Direcției Generale de Protecție Internă este numit și eliberat din funcție de către ministrul afacerilor interne. Numirea și eliberarea din funcție se fac cu avizul Consiliului Suprem de Apărare a Țării."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În situația în care directorul general al Direcției Generale de Protecție Internă aflat în funcție nu deține avizul Consiliului Suprem de Apărare a Țării, Ministerul Afacerilor Interne solicită emiterea acestuia în termen de 90 de zile de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

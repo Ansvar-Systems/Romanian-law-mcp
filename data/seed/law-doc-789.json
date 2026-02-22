@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-789",
+  "type": "statute",
+  "title": "LEGEA nr. 28 din 7 noiembrie 1990",
+  "short_name": "lege 28 07 11 1990",
+  "status": "in_force",
+  "issued_date": "1990-11-07",
+  "in_force_date": "1990-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/789",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 28 07/11/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Articolul 3 litera a) din Decretul nr. 251/1978 privind pensiile şi alte drepturi de asigurări sociale ale avocaţilor se modifica şi va avea următorul cuprins: \"a) o cota percepută lunar asupra sumelor încasate din onorarii, care va fi stabilită prin decizia Consiliului Uniunii avocaţilor din România, în raport cu nevoile financiare ale Casei de asigurări a avocaţilor, dar nu mai mica de 10%;\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Cuvintele \"colectiv de asistenţa juridică\" din cuprinsul Decretului nr. 251/1978 se înlocuiesc cu cuvintele \"birou de avocaţi\". Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din 29 octombrie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN Această lege a fost adoptată de Senat în şedinţa din 30 octombrie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea pentru modificarea Decretului nr. 251/1978 privind pensiile şi alte drepturi de asigurări sociale ale avocaţilor şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU -----------------------"
+    }
+  ],
+  "definitions": []
+}

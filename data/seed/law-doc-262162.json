@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-262162",
+  "type": "statute",
+  "title": "LEGE nr. 333 din 29 noiembrie 2022",
+  "short_name": "lege 333 29 11 2022",
+  "status": "in_force",
+  "issued_date": "2022-11-29",
+  "in_force_date": "2022-11-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262162",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 333 29/11/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 73 din 29 iunie 2021 privind unele măsuri pentru valorificarea concentratelor tehnice de uraniu din stocul de siguranță și consum, constituit în perioada 2009-2011, aflat în proprietatea privată a statului și în administrarea Companiei Naționale a Uraniului - S.A., precum și pentru modificarea și completarea Legii nr. 193/2018 pentru reglementarea principiilor privind asigurarea strategiei naționale a României referitoare la menținerea ciclului nuclear integrat, prin asigurarea materiei prime pentru fabricarea combustibilului nuclear necesar funcționării unităților de la Centrala Nuclearoelectrică de la Cernavodă, publicată în Monitorul Oficial al României, Partea I, nr. 646 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

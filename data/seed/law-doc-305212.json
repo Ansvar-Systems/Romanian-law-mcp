@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305212",
+  "type": "statute",
+  "title": "LEGE nr. 220 din 12 decembrie 2025",
+  "short_name": "lege 220 12 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2025-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305212",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 220 12/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 143 din 12 decembrie 2024 privind unele măsuri pentru restituirea către competitorii electorali a sumelor aferente cheltuielilor electorale la alegerile pentru Președintele României din anul 2024, publicată în Monitorul Oficial al României, Partea I, nr. 1255 din 12 decembrie 2024."
+    }
+  ],
+  "definitions": []
+}

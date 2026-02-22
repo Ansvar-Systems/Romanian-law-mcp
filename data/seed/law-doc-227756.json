@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227756",
+  "type": "statute",
+  "title": "LEGE nr. 121 din 10 iulie 2020",
+  "short_name": "lege 121 10 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-10",
+  "in_force_date": "2020-07-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227756",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 121 10/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 11 din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată în Monitorul Oficial al României, Partea I, nr. 933 din 13 octombrie 2004, cu modificările și completările ulterioare, alineatul (3) se modifică și va avea următorul cuprins: (3) La construcțiile cu caracter special având destinația de unități sanitare sau unități de învățământ care sunt monumente istorice, amplasate în zone de protecție a monumentelor și în zone construite protejate, stabilite potrivit legii, se pot executa fără autorizație de construire lucrări care nu modifică structura de rezistență și/sau aspectul arhitectural al construcțiilor de finisaje interioare și exterioare, reparații și înlocuiri de tâmplărie interioară și exterioară, dacă se păstrează forma, dimensiunile golurilor și tâmplăriei, reparații la acoperișuri, învelitori sau terase, atunci când nu se schimbă forma acestora și materialele din care sunt executate, reparații și înlocuiri la pardoseli și la instalațiile interioare."
+    }
+  ],
+  "definitions": []
+}

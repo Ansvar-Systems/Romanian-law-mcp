@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-213426",
+  "type": "statute",
+  "title": "LEGE nr. 87 din 25 aprilie 2019",
+  "short_name": "lege 87 25 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-25",
+  "in_force_date": "2019-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213426",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 87 25/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 14 din 6 martie 2013 privind modificarea și completarea Legii educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 133 din 13 martie 2013, cu următoarea modificare: – La articolul unic punctul 1 , alineatul (10) al articolului 263 va avea următorul cuprins: (10) Personalul didactic de conducere, de îndrumare și control poate fi degrevat total sau parțial de norma didactică, pe baza normelor aprobate prin ordin al ministrului educației naționale, elaborate cu consultarea federațiilor sindicale reprezentative din învățământ. De același drept pot beneficia și persoanele desemnate de federațiile sindicale reprezentative din învățământ, ca urmare a participării acestora la procesul de monitorizare și evaluare a calității sistemului de învățământ, pe baza normelor aprobate prin ordin al ministrului educației naționale. Prin același ordin se stabilesc atribuțiile persoanelor degrevate de norma didactică."
+    }
+  ],
+  "definitions": []
+}

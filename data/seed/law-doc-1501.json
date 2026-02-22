@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-1501",
+  "type": "statute",
+  "title": "LEGE nr. 40 din 1 iunie 1991 (**republicată**)(*actualizată*)",
+  "short_name": "lege r 40 01 06 1991",
+  "status": "in_force",
+  "issued_date": "1991-06-01",
+  "in_force_date": "1991-06-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/1501",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE (R) 40 01/06/1991",
+  "provisions": [
+    {
+      "provision_ref": "Art.22",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Persoanele numite temporar în locul unei persoane cu funcţie de conducere, care lipseşte din instituţie o perioadă mai mare de 30 de zile calendaristice şi care nu beneficiază de salariu pe perioada respectiva, primesc, pe lângă salariul de baza al funcţiei, gradului sau treptei profesionale în care sunt încadrate, indemnizaţia corespunzătoare funcţiei de conducere pe care o preiau."
+    },
+    {
+      "provision_ref": "Art.23",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "(1) Pe durata delegării, detaşării sau trecerii temporare într-o alta munca persoana în cauza îşi păstrează funcţia, gradul sau treapta profesională şi salariul avute anterior. (2) Când detaşarea sau trecerea temporară în alta munca se face într-o funcţie la care este stabilit un salariu mai mare, persoana detasata sau trecută temporar în alta munca are dreptul la acest salariu în condiţiile prevăzute de lege. (3) Drepturile ce se acordă pe timpul detaşării sau trecerii temporare în alta munca se suporta de instituţia unde personalul respectiv îşi desfăşoară activitatea. (4) Drepturile personalului mutat în alta localitate sunt cele ce se acordă personalului din unităţile bugetare."
+    },
+    {
+      "provision_ref": "Art.35",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Criteriile de acordare a salariilor şi nivelurile în valută, precum şi a celorlalte drepturi în valută şi în lei, pentru personalul trimis în misiune permanenta în străinătate la misiunile diplomatice, oficiile consulare şi alte reprezentante oficiale în străinătate ale Ministerului Afacerilor Externe, precum şi ale celorlalte ministere şi instituţii de specialitate ale administraţiei publice centrale se stabilesc prin hotărâre a Guvernului."
+    },
+    {
+      "provision_ref": "Art.36",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "Personalul de specialitate trimis în străinătate, invitat pe contul organizaţiilor sau altor parteneri externi pentru acţiuni ştiinţifice, culturale, artistice sau sportive, beneficiază în ţara de drepturile stabilite prin hotărârea Guvernului pentru unităţile bugetare."
+    }
+  ],
+  "definitions": []
+}

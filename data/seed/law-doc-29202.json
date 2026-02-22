@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-29202",
+  "type": "statute",
+  "title": "LEGE nr. 321 din 26 iunie 2001",
+  "short_name": "lege 321 26 06 2001",
+  "status": "in_force",
+  "issued_date": "2001-06-26",
+  "in_force_date": "2001-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/29202",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 321 26/06/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Se aprobă acordarea gratuită de lapte praf, formula pentru sugari, copiilor cu vârste cuprinse între 0-12 luni care nu beneficiază de lapte matern. (2) Costul laptelui praf acordat în condițiile alin. (1) se suporta din bugetul Ministerului Sănătății și Familiei."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Distribuirea laptelui praf se realizează prin consiliile locale ale municipiilor, orașelor și comunelor, respectiv consiliile locale ale sectoarelor municipiului București."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ministerul Sănătății și Familiei și Ministerul Administrației Publice elaborează norme, aprobate prin ordin comun, privind modul de achizitionare și distribuire a laptelui praf acordat gratuit copiilor cu varste cuprinse între 0-12 luni, care se vor publică în Monitorul Oficial al României, Partea I, în termen de 5 zile de la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

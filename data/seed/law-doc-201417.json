@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-201417",
+  "type": "statute",
+  "title": "LEGE nr. 124 din 7 iunie 2018",
+  "short_name": "lege 124 07 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-07",
+  "in_force_date": "2018-06-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201417",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 124 07/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă majorarea capitalului deținut de România, în calitate de membru la Banca Internațională de Investiții, cu suma de 4.000.000 euro, conform deciziei Consiliului de administrație al Băncii Internaționale de Investiții de creștere a capitalului subscris vărsat la Banca Internațională de Investiții cu 100.000.000 euro în limita capitalului subscris și nevărsat al statelor membre."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Contravaloarea în lei a sumei de 4.000.000 euro se asigură de la bugetul de stat, prin bugetul Ministerului Finanțelor Publice, iar plata către Banca Internațională de Investiții se efectuează într-o singură tranșă, până la data de 31 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

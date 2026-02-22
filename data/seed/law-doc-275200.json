@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-275200",
+  "type": "statute",
+  "title": "LEGE nr. 269 din 10 octombrie 2023",
+  "short_name": "lege 269 10 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-10",
+  "in_force_date": "2023-10-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275200",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 269 10/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 244, după alineatul (5) se introduc două noi alineate, alin. (6) și (7), cu următorul cuprins: (6) Medicamentele expirate și/sau neutilizate provenite de la populație vor fi colectate la spitale publice sau private, care sunt obligate să le primească în scopul eliminării lor finale. (7) Costurile pentru desfășurarea operațiunilor prevăzute la alin. (6) de către spitalele publice sau private se asigură prin transferuri de la bugetul de stat, prin bugetul Ministerului Sănătății, către bugetul Fondului național unic de asigurări sociale de sănătate. Metodologia se stabilește prin norme aprobate prin ordin al ministrului sănătății. 2. La articolul 712 alineatul (1), punctul 6.5 se modifică și va avea următorul cuprins: 6.5. natura și conținutul ambalajului, potrivit prevederilor anexei nr. 3 la Legea nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje, cu modificările și completările ulterioare; 3. La articolul 781 alineatul (1) litera f), după punctul (ii) se introduce un nou punct, pct. (ii^1), cu următorul cuprins: (ii^1) menționarea vizibilă și ușor de citit, cu font Times New Roman, format îngroșat și cu majuscule, cu următoarea atenționare: MEDICAMENTELE EXPIRATE ȘI/SAU NEUTILIZATE TREBUIE RETURNATE LA SPITALE PUBLICE SAU PRIVATE; mărimea textului avertismentului nu poate fi mai mică cu mai mult de 2 puncte decât mărimea denumirii medicamentului; este interzisă inserarea unui text al cărui font să aibă dimensiunea mai mare sau egală cu cea a avertismentului, cu excepția denumirii medicamentului. Implementarea acestei prevederi se va face cu ocazia primei modificări a prospectului, dar nu mai târziu de 31 decembrie 2028; 4. La articolul 815 alineatul (1), litera b) se modifică și va avea următorul cuprins: b) trebuie să includă cel puțin următoarele informații: – denumirea medicamentului, precum și denumirea comună, dacă medicamentul conține o singură substanță activă; – informațiile necesare pentru utilizarea corectă a medicamentului; – o invitație expresă, lizibilă, de a citi cu atenție instrucțiunile din prospect sau de pe ambalaj, formulată după cum urmează: «Acest medicament se poate elibera fără prescripție medicală. Se recomandă citirea cu atenție a prospectului sau a informațiilor de pe ambalaj. Dacă apar manifestări neplăcute, adresați-vă medicului sau farmacistului. Medicamentele expirate și/sau neutilizate se consideră deșeuri periculoase"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 45 de zile de la data intrării în vigoare a prezentei legi, Consiliul National al Audiovizualului va actualiza Decizia nr. 220/2011 privind Codul de reglementare a conținutului audiovizual, cu modificările și completările ulterioare, pentru a implementa prezentele modificări referitoare la avertizări în reglementările privind publicitatea la produse medicale, suplimente alimentare, alimente cu destinație nutrițională specială, respectiv reglementările privind anunțurile de interes public."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Prevederile art. 244 alin. (7) , precum și cele ale art. 815 alin. (1) lit. b) din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare, astfel cum au fost modificate și completate prin prezenta lege, intră în vigoare la data de 1 ianuarie 2024."
+    }
+  ],
+  "definitions": []
+}

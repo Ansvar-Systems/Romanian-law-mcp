@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-178331",
+  "type": "statute",
+  "title": "LEGE nr. 84 din 29 aprilie 2016",
+  "short_name": "lege 84 29 04 2016",
+  "status": "in_force",
+  "issued_date": "2016-04-29",
+  "in_force_date": "2016-04-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178331",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 84 29/04/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se ratifică Acordul privind participarea Republicii Croaţia la Spaţiul Economic European, semnat de către Uniunea Europeană, Islanda, Liechtenstein, Regatul Norvegiei şi Republica Croaţia la 11 aprilie 2014 la Bruxelles şi de către România la 12 noiembrie 2014 la Bruxelles."
+    }
+  ],
+  "definitions": []
+}

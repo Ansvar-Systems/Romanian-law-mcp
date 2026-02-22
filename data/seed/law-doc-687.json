@@ -1,0 +1,44 @@
+{
+  "id": "law-doc-687",
+  "type": "statute",
+  "title": "LEGE nr. 1 din 18 aprilie 1989",
+  "short_name": "lege 1 18 04 1989",
+  "status": "in_force",
+  "issued_date": "1989-04-18",
+  "in_force_date": "1989-04-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/687",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 1 18/04/1989",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se anulează datoriile C.A.P. şi asociaţiilor economice intercooperatiste, în suma de 117 miliarde de lei, după cum urmează: a) 115,1 miliarde lei provenite din creditele contractate pînă la 31 decembrie 1985; b) 1,9 miliarde lei reprezentind dobinzile neachitate, aferente creditelor ce se anulează."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "○Acoperirea datoriilor ce se anulează potrivit prevederilor prezentei legi se face din excedentele bugetare din anii anteriori."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Datoriile provenite din creditele primite de C.A.P. şi asociaţiile economice intercooperatiste în anii 1986-1988, precum şi dobinzile aferente acestor credite, se vor achită la termenele scadente."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "○Unităţile agricole cooperatiste cărora li se aplică art. 1, precum şi cuantumul datoriilor provenite din creditele şi dobinzile anulate, se aproba prin decret al Consiliului de Stat, la propunerea comitetelor executive ale consiliilor populare judeţene şi al municipiului Bucureşti; propunerile se fac pe baza unei analize temeinice a situaţiei economico-financiare a fiecărei unităţi, efectuate de către uniunile judeţene ale C.A.P., direcţiile generale pentru agricultura şi sucursalele Băncii pentru Agricultura şi Industrie Alimentara."
+    },
+    {
+      "provision_ref": "Art.5",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Consiliul Naţional al Agriculturii, Industriei Alimentare, Silviculturii şi Gospodăririi Apelor, Ministerul Agriculturii şi Uniunea Naţionala a C.A.P. au obligaţia sa urmărească elaborarea şi aplicarea, în fiecare unitate agricolă cooperatista, a unor programe concrete de imbunatatire a activităţii lor, care să asigure buna folosire a fondului funciar, a întregii baze tehnico-materiale şi umane de care dispun, întărirea ordinei şi disciplinei, în vederea realizării productiilor vegetale şi animale planificate, a dezvoltării micii industrii şi a prestărilor de servicii, a creşterii veniturilor şi reducerii cheltuielilor materiale şi băneşti, a aplicării ferme a normelor economico-financiare, astfel încît în toate unităţile să se desfăşoare o activitate rentabila, să se asigure înfăptuirea în cele mai bune condiţii a obiectivelor noii revoluţii agrare"
+    }
+  ],
+  "definitions": []
+}

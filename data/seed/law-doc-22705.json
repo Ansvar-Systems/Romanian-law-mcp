@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-22705",
+  "type": "statute",
+  "title": "LEGE nr. 28 din 9 decembrie 1982",
+  "short_name": "lege 28 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22705",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 28 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 400/1982 privind controlul pentru trecerea frontierei de stat române. -----"
+    }
+  ],
+  "definitions": []
+}

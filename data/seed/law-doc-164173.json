@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-164173",
+  "type": "statute",
+  "title": "LEGE nr. 180 din 16 decembrie 2014",
+  "short_name": "lege 180 16 12 2014",
+  "status": "in_force",
+  "issued_date": "2014-12-16",
+  "in_force_date": "2014-12-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/164173",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 180 16/12/2014",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul de împrumut (Primul împrumut pentru politici de dezvoltare privind eficientizarea finanţelor publice şi creşterea economică) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, în valoare de 750 milioane euro, semnat la Bucureşti la 17 iunie 2014, denumit în continuare acord."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Sumele trase din împrumut şi virate în contul de valută deschis pe numele Ministerului Finanţelor Publice la Banca Naţională a României se utilizează pe măsura necesităţilor de finanţare a deficitului bugetului de stat şi refinanţării datoriei publice guvernamentale, în conformitate cu prevederile Ordonanţei de urgenţă a Guvernului nr. 64/2007 privind datoria publică, aprobată cu modificări şi completări prin Legea nr. 109/2008 , cu modificările ulterioare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Plata serviciului datoriei publice aferent împrumutului, respectiv rambursarea capitalului, achitarea dobânzilor, comisioanelor şi a altor costuri aferente împrumutului se asigură conform legislaţiei în vigoare privind datoria publică, prin mecanismul aferent finanţărilor rambursabile contactate de Guvern, prin Ministerul Finanţelor Publice, în vederea finanţării deficitului bugetului de stat şi refinanţării datoriei publice guvernamentale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Pe parcursul utilizării împrumutului, în raport cu condiţiile concrete de derulare a acordului, Guvernul României, prin Ministerul Finanţelor Publice, de comun acord cu Banca Internaţională pentru Reconstrucţie şi Dezvoltare, poate amenda conţinutul acestuia fără a majora obligaţiile financiare ale României faţă de Banca Internaţională pentru Reconstrucţie şi Dezvoltare. (2) Amendamentele convenite conform alin. (1) se aprobă prin hotărâre a Guvernului. Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia României, republicată."
+    }
+  ],
+  "definitions": []
+}

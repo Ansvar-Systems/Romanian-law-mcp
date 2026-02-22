@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209049",
+  "type": "statute",
+  "title": "LEGE nr. 309 din 12 decembrie 2018",
+  "short_name": "lege 309 12 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-12",
+  "in_force_date": "2018-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209049",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 309 12/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Convenția dintre România și Regatul Spaniei pentru eliminarea dublei impuneri cu privire la impozitele pe venit și prevenirea evaziunii fiscale și a evitării plății impozitelor și protocolul la convenție , semnate la București la 18 octombrie 2017."
+    }
+  ],
+  "definitions": []
+}

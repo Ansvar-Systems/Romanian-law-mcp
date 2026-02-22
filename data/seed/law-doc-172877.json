@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172877",
+  "type": "statute",
+  "title": "LEGE nr. 272 din 10 noiembrie 2015",
+  "short_name": "lege 272 10 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-10",
+  "in_force_date": "2015-11-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172877",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 272 10/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Legea nr. 217/2003 pentru prevenirea şi combaterea violenţei în familie, republicată în Monitorul Oficial al României, Partea I, nr. 205 din 24 martie 2014, cu modificările şi completările ulterioare, se modifică după cum urmează: - La articolul 31, alineatul (1) va avea următorul cuprins: \"Art. 31. - (1) O copie după dispozitivul hotărârii prin care s-a dispus cererea de emitere a ordinului de protecţie se comunică, în maximum 5 ore de la momentul pronunţării hotărârii, structurilor Poliţiei Române în a căror rază teritorială se află locuinţa victimei şi/sau a agresorului.\""
+    }
+  ],
+  "definitions": []
+}

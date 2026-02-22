@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-247326",
+  "type": "statute",
+  "title": "LEGE nr. 246 din 11 octombrie 2021",
+  "short_name": "lege 246 11 10 2021",
+  "status": "in_force",
+  "issued_date": "2021-10-11",
+  "in_force_date": "2021-10-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/247326",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 246 11/10/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 35 din 28 aprilie 2021 pentru modificarea Legii nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale, publicată în Monitorul Oficial al României, Partea I, nr. 467 din 4 mai 2021."
+    }
+  ],
+  "definitions": []
+}

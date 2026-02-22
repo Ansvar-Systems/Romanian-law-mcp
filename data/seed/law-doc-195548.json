@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-195548",
+  "type": "statute",
+  "title": "LEGE nr. 243 din 6 decembrie 2017",
+  "short_name": "lege 243 06 12 2017",
+  "status": "in_force",
+  "issued_date": "2017-12-06",
+  "in_force_date": "2017-12-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/195548",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 243 06/12/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se respinge Ordonanța Guvernului nr. 40 din 26 august 2015 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule, adoptată în temeiul art. 1 pct. III.3 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanțe, și publicată în Monitorul Oficial al României, Partea I, nr. 655 din 31 august 2015."
+    }
+  ],
+  "definitions": []
+}

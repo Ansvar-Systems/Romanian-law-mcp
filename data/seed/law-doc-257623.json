@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257623",
+  "type": "statute",
+  "title": "LEGE nr. 218 din 15 iulie 2022",
+  "short_name": "lege 218 15 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-15",
+  "in_force_date": "2022-07-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257623",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 218 15/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 34 din 28 aprilie 2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 3/2021 privind unele măsuri pentru recrutarea și plata personalului implicat în procesul de vaccinare împotriva COVID-19 și stabilirea unor măsuri în domeniul sănătății, publicată în Monitorul Oficial al României, Partea I, nr. 461 din 29 aprilie 2021."
+    }
+  ],
+  "definitions": []
+}

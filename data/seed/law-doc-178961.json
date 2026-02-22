@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-178961",
+  "type": "statute",
+  "title": "LEGE nr. 118 din 31 mai 2016",
+  "short_name": "lege 118 31 05 2016",
+  "status": "in_force",
+  "issued_date": "2016-05-31",
+  "in_force_date": "2016-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/178961",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 118 31/05/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 31 din Legea educaţiei naţionale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările şi completările ulterioare, după alineatul (2) se introduce un nou alineat, alineatul (2^1), cu următorul cuprins: \"(2^1) Liceele cu profil agricol pot fi susţinute în ceea ce priveşte infrastructura, terenurile şi mijloacele de învăţământ şi de autorităţile locale şi de Ministerul Agriculturii şi Dezvoltării Rurale.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Se autorizează Ministerul Finanţelor Publice să introducă, la propunerea ordonatorilor principali de credite, modificările ce decurg din aplicarea prevederilor prezentei legi, în structura bugetului."
+    }
+  ],
+  "definitions": []
+}

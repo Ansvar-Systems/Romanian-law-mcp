@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-227727",
+  "type": "statute",
+  "title": "LEGE nr. 119 din 9 iulie 2020",
+  "short_name": "lege 119 09 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-09",
+  "in_force_date": "2020-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227727",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 119 09/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se aprobă trecerea bunului imobil-teren, având datele de identificare prevăzute în anexa nr. 1 care face parte integrantă din prezenta lege, din domeniul public al statului și din administrarea Universității de Științe Agricole și Medicină Veterinară Cluj-Napoca pentru Stațiunea de Cercetare Horticolă Cluj-Napoca în domeniul public al județului Cluj, în vederea realizării obiectivului de investiție Spital pentru copii în sistem monobloc."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Predarea-preluarea imobilului prevăzut la art. 1 se face pe bază de protocol încheiat între părțile interesate, la valoarea de inventar al acestuia, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "În situația prevăzută la art. 1 , prin hotărâre a Guvernului se modifică în mod corespunzător Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi se adoptă hotărârea Guvernului prin care imobilele având datele de identificare prevăzute în anexa nr. 2 care face parte integrantă din prezenta lege trec din domeniul public al județului Cluj în domeniul public al statului și în administrarea Universității de Științe Agricole și Medicină Veterinară Cluj-Napoca."
+    }
+  ],
+  "definitions": []
+}

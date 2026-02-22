@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-8521",
+  "type": "statute",
+  "title": "LEGE Nr. 96 din 23 septembrie 1996",
+  "short_name": "lege 96 23 09 1996",
+  "status": "in_force",
+  "issued_date": "1996-09-23",
+  "in_force_date": "1996-09-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/8521",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 96 23/09/1996",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifica Acordul dintre Guvernul României şi Guvernul Republicii Armenia în domeniul transporturilor internaţionale rutiere, semnat la Erevan la 25 martie 1996."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se ratifica Acordul dintre Guvernul României şi Guvernul Republicii Armenia privind serviciile aeriene, semnat la Erevan la 25 martie 1996. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 10 iunie 1996, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE CAMEREI DEPUTAŢILOR ION RATIU Această lege a fost adoptată de Senat în şedinţa din 4 septembrie 1996, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI ION SOLCANU"
+    }
+  ],
+  "definitions": []
+}

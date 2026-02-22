@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276039",
+  "type": "statute",
+  "title": "LEGE nr. 312 din 3 noiembrie 2023",
+  "short_name": "lege 312 03 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-03",
+  "in_force_date": "2023-11-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276039",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 312 03/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 24 din 24 august 2022 pentru modificarea anexei la Ordonanța Guvernului nr. 8/2022 privind interoperabilitatea sistemelor de tarifare rutieră electronică și facilitarea schimbului transfrontalier de informații cu privire la neplata tarifelor rutiere, adoptată în temeiul art. 1 pct. V.3 din Legea nr. 186/2022 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 837 din 25 august 2022."
+    }
+  ],
+  "definitions": []
+}

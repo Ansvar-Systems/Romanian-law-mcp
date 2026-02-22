@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-265494",
+  "type": "statute",
+  "title": "LEGE nr. 50 din 3 martie 2023",
+  "short_name": "lege 50 03 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-03",
+  "in_force_date": "2023-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265494",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 50 03/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 20 din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată în Monitorul Oficial al României, Partea I, nr. 440 din 24 mai 2018, cu modificările și completările ulterioare, alineatul (5) se modifică și va avea următorul cuprins: (5) Cel care a promovat examenul de primire în profesia de avocat și care, până la data susținerii examenului de primire în profesia de avocat, a îndeplinit funcția de judecător, procuror, notar public, grefier cu studii superioare juridice, magistrat-asistent, executor judecătoresc, consilier juridic sau jurisconsult timp de 5 ani dobândește calitatea de avocat definitiv, fără susținerea examenului de definitivare prevăzut la alin. (1), cu condiția promovării examenului de definitivat în profesia din care provine."
+    }
+  ],
+  "definitions": []
+}

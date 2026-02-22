@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-194458",
+  "type": "statute",
+  "title": "LEGE nr. 205 din 31 octombrie 2017",
+  "short_name": "lege 205 31 10 2017",
+  "status": "in_force",
+  "issued_date": "2017-10-31",
+  "in_force_date": "2017-10-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/194458",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 205 31/10/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 19 din 2 martie 2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 34/2015 privind reglementarea unor măsuri pentru stimularea absorbției fondurilor externe nerambursabile, publicată în Monitorul Oficial al României, Partea I, nr. 163 din 6 martie 2017."
+    }
+  ],
+  "definitions": []
+}

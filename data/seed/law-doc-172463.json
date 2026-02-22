@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-172463",
+  "type": "statute",
+  "title": "LEGE nr. 233 din 8 octombrie 2015",
+  "short_name": "lege 233 08 10 2015",
+  "status": "in_force",
+  "issued_date": "2015-10-08",
+  "in_force_date": "2015-10-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172463",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 233 08/10/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se ratifică Acordul*) dintre România şi Statele Unite ale Americii pentru îmbunătăţirea conformării fiscale internaţionale şi pentru implementarea FATCA, semnat la Bucureşti la 28 mai 2015. Notă ────────── *) Acordul se publică în Monitorul Oficial al României, Partea I, nr. 808 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome \"Monitorul Oficial\", Bucureşti, şos. Panduri nr. 1. ──────────"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Se autorizează Ministerul Finanţelor Publice să convină cu autorităţile competente din Statele Unite ale Americii aplicarea pentru România a condiţiilor la care se face referire în art. 7 din acordul prevăzut la art. 1."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-34518",
+  "type": "statute",
+  "title": "LEGE nr. 176 din 27 iulie 1931",
+  "short_name": "lege 176 27 07 1931",
+  "status": "in_force",
+  "issued_date": "1931-07-27",
+  "in_force_date": "1931-07-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/34518",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 176 27/07/1931",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Ora oficială pentru cuprinsul României este ora fusului al doilea orar la est de Greenwich, (ora meridianului 30S longitudine estica Greenwich)."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În tot intervalul cuprins între lunile Aprilie şi Octomvrie ale fiecărui an se poate adopta drept ora oficială ora fusului al treilea orar la est de Greenwich (ora meridianului de 45S longitudine estica Greenwich). Adoptarea orei fusului al treilea orar ca ora oficială, precum şi precizarea intervalului se hotărăsc prin înalt decret regal, pe baza unui jurnal al Consiliului de Miniştri."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Ora oficială este obligatorie pentru toate instituţiile publice."
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Această lege se va pune în aplicare cu începere dela 1 Octomvrie 1931. (Votat de Senat la 11 Iulie şi de Adunarea Deputaţilor la 14 Iulie 1931) ---------"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-175215",
+  "type": "statute",
+  "title": "LEGE nr. 11 din 19 ianuarie 2016",
+  "short_name": "lege 11 19 01 2016",
+  "status": "in_force",
+  "issued_date": "2016-01-19",
+  "in_force_date": "2016-01-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/175215",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 11 19/01/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 28 din 19 august 2015 pentru aprobarea plăţii cotizaţiei anuale ce decurge din calitatea României de membru al Agenţiei Internaţionale pentru Energie Regenerabilă IRENA, precum şi pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, adoptată în temeiul art. 1 pct. I.7 din Legea nr. 182/2015 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 641 din 24 august 2015."
+    }
+  ],
+  "definitions": []
+}

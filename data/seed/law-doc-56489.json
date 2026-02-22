@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-56489",
+  "type": "statute",
+  "title": "LEGE nr. 459 din 1 noiembrie 2004",
+  "short_name": "lege 459 01 11 2004",
+  "status": "in_force",
+  "issued_date": "2004-11-01",
+  "in_force_date": "2004-11-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/56489",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 459 01/11/2004",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 63 din 5 august 2004 pentru modificarea art. 2 din Legea nr. 296/2002 privind acordarea asistenței medicale în România cetățenilor străini în baza acordurilor, înțelegerilor, convențiilor sau protocoalelor internaționale de reciprocitate în domeniul sănătății, la care România este parte, adoptată în temeiul art. 1 pct. IV.4 din Legea nr. 291/2004 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 760 din 19 august 2004, cu următoarea modificare: – La articolul I , alineatul (2) al articolului 2 va avea următorul cuprins: (2) Contravaloarea serviciilor medicale, acordate potrivit art. 1 alin. (2), se suportă în condițiile stabilite prin respectivele documente internaționale."
+    }
+  ],
+  "definitions": []
+}

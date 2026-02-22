@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-216131",
+  "type": "statute",
+  "title": "LEGE nr. 135 din 12 iulie 2019",
+  "short_name": "lege 135 12 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-12",
+  "in_force_date": "2019-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216131",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 135 12/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 56 din Legea nr. 263/2010 privind sistemul unitar de pensii publice, publicată în Monitorul Oficial al României, Partea I, nr. 852 din 20 decembrie 2010, cu modificările și completările ulterioare, litera a) a alineatului (1) se modifică și va avea următorul cuprins: a) 20 de ani în locurile de muncă prevăzute la art. 30 alin. (1) lit. a) sau 15 ani în locurile de muncă prevăzute la art. 30 alin. (1) lit. a) în cazul în care activitatea minieră încetează ca urmare a obligațiilor pe care și le asumă statul român în negocierile cu Comisia Europeană, pentru care reducerea vârstei standard de pensionare este de 20 de ani;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-228419",
+  "type": "statute",
+  "title": "LEGE nr. 93 din 25 iunie 2020",
+  "short_name": "lege 93 25 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-25",
+  "in_force_date": "2020-06-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/228419",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 93 25/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii Bulgaria privind cooperarea în domeniul situațiilor de urgență, semnat la 29 martie 2019 la București."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-214534",
+  "type": "statute",
+  "title": "LEGE nr. 110 din 24 mai 2019",
+  "short_name": "lege 110 24 05 2019",
+  "status": "in_force",
+  "issued_date": "2019-05-24",
+  "in_force_date": "2019-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/214534",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 110 24/05/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Litera a) a alineatului (2) al articolului 45 din Ordonanța Guvernului nr. 42/1997 privind transportul maritim și pe căile navigabile interioare, republicată în Monitorul Oficial al României, Partea I, nr. 210 din 10 martie 2004, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: a) navelor deținute în proprietate de persoane juridice sau fizice române, precum și navelor deținute de către persoanele fizice autorizate, întreprinderile individuale sau întreprinderile familiale;"
+    }
+  ],
+  "definitions": []
+}

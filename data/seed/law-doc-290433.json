@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-290433",
+  "type": "statute",
+  "title": "LEGE nr. 277 din 6 noiembrie 2024",
+  "short_name": "lege 277 06 11 2024",
+  "status": "in_force",
+  "issued_date": "2024-11-06",
+  "in_force_date": "2024-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/290433",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 277 06/11/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul adițional ^1 privind dreptul de participare la activitățile unei autorități locale, adoptat la Utrecht la 16 noiembrie 2009 și semnat de partea română la 17 octombrie 2023, la Carta europeană a autonomiei locale , adoptată la Strasbourg la 15 octombrie 1985 și ratificată prin Legea nr. 199/1997 . ^1 Traducere."
+    }
+  ],
+  "definitions": []
+}

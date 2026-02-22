@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-174840",
+  "type": "statute",
+  "title": "LEGE nr. 2 din 11 ianuarie 2016",
+  "short_name": "lege 2 11 01 2016",
+  "status": "in_force",
+  "issued_date": "2016-01-11",
+  "in_force_date": "2016-01-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/174840",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2 11/01/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 3 din Legea nr. 51/1991 privind securitatea naţională a României, republicată în Monitorul Oficial al României, Partea I, nr. 190 din 18 martie 2014, după litera l) se introduce o nouă literă, litera m), cu următorul cuprins: \"m) orice acţiuni sau inacţiuni care lezează interesele economice strategice ale României, cele care au ca efect periclitarea, gestionarea ilegală, degradarea ori distrugerea resurselor naturale, fondurilor forestier, cinegetic şi piscicol, apelor şi altor asemenea resurse, precum şi monopolizarea ori blocarea accesului la acestea, cu consecinţe la nivel naţional sau regional.\""
+    }
+  ],
+  "definitions": []
+}

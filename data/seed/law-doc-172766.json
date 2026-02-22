@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-172766",
+  "type": "statute",
+  "title": "LEGE nr. 266 din 6 noiembrie 2015",
+  "short_name": "lege 266 06 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-06",
+  "in_force_date": "2015-11-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/172766",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 266 06/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 44 din 26 iunie 2014 pentru reglementarea unor măsuri privind recuperarea debitelor pentru beneficiile de asistenţă socială, precum şi pentru modificarea art. 101 din Legea nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, publicată în Monitorul Oficial al României, Partea I, nr. 475 din 27 iunie 2014, cu următoarea modificare: - La articolul II, alineatul (4) al articolului 101 se modifică şi va avea următorul cuprins: \"(4) În situaţia în care beneficiarul dreptului a locuit singur şi a decedat, nu se mai procedează la recuperarea sumelor încasate necuvenit cu titlu de prestaţii.\""
+    }
+  ],
+  "definitions": []
+}

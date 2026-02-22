@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-265500",
+  "type": "statute",
+  "title": "LEGE nr. 53 din 3 martie 2023",
+  "short_name": "lege 53 03 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-03",
+  "in_force_date": "2023-03-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265500",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 53 03/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 10 din 16 februarie 2022 pentru modificarea și completarea Legii nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii, publicată în Monitorul Oficial al României, Partea I, nr. 162 din 17 februarie 2022, cu următoarea modificare: – La articolul unic punctul 5 , alineatul (4^2) al articolului 9^1 se modifică și va avea următorul cuprins: (4^2) Inițiatorul actului normativ preia propunerile rezultate în urma consultărilor care au stat la baza întocmirii raportului privind aplicarea Testului IMM, având ca scop finalizarea proiectului de act normativ. În cazul în care nu vor fi preluate toate propunerile formulate în cadrul consultărilor, inițiatorul actului normativ are obligația de a justifica acest lucru printr-o notă publicată pe site-ul propriu."
+    }
+  ],
+  "definitions": []
+}

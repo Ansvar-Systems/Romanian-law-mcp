@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-123667",
+  "type": "statute",
+  "title": "LEGE nr. 207 din 11 noiembrie 2010",
+  "short_name": "lege 207 11 11 2010",
+  "status": "in_force",
+  "issued_date": "2010-11-11",
+  "in_force_date": "2010-11-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/123667",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 207 11/11/2010",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "După articolul unic al Legii nr. 273/2009 pentru modificarea Legii nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale, publicată în Monitorul Oficial al României, Partea I, nr. 482 din 13 iulie 2009, se introduce un nou articol, articolul II, cu următorul cuprins: Articolul II Până la data de 1 ianuarie 2011, recalcularea pensiilor prevăzute la art. 49 alin. (4) și la art. 52 din Legea nr. 19/2000 , cu modificările și completările ulterioare, se face potrivit prevederilor existente până la data intrării în vigoare a prezentei legi, respectiv prevederile art. 49 alin. (4) și ale art. 52, astfel cum au fost modificate prin Legea nr. 250/2007 pentru modificarea Legii nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale."
+    }
+  ],
+  "definitions": []
+}

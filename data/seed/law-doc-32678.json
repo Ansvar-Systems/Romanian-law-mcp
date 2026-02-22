@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-32678",
+  "type": "statute",
+  "title": "LEGE nr. 696 din 3 decembrie 2001",
+  "short_name": "lege 696 03 12 2001",
+  "status": "in_force",
+  "issued_date": "2001-12-03",
+  "in_force_date": "2001-12-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/32678",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 696 03/12/2001",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 49 din 23 august 2001 privind acceptarea unor amendamente la Convenția internationala pentru securitatea containerelor, încheiată la Geneva la 2 decembrie 1972, adoptată în temeiul art. 1 pct. I.20 din Legea nr. 324/2001 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 526 din 31 august 2001, cu următoarele modificări: 1. Alineatul (2) al articolului 5 se abroga. 2. Articolul 6 se abroga."
+    }
+  ],
+  "definitions": []
+}

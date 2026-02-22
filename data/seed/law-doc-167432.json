@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-167432",
+  "type": "statute",
+  "title": "LEGE nr. 90 din 23 aprilie 2015",
+  "short_name": "lege 90 23 04 2015",
+  "status": "in_force",
+  "issued_date": "2015-04-23",
+  "in_force_date": "2015-04-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/167432",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 90 23/04/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 24 din Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 459 din 25 iulie 2013, cu modificările ulterioare, alineatul (4) se modifică şi va avea următorul cuprins: \"(4) Camera hotărăşte asupra cererii cu votul secret al majorităţii membrilor prezenţi, în condiţiile respectării prevederilor art. 67 din Constituţia României, republicată. Hotărârea Camerei se publică în Monitorul Oficial al României, Partea I, şi se comunică de îndată ministrului justiţiei.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 96/2006 privind Statutul deputaţilor şi al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 459 din 25 iulie 2013, cu modificările ulterioare, precum şi cu cea adusă prin prezenta lege se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

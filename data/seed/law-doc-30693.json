@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30693",
+  "type": "statute",
+  "title": "LEGE nr. 32 din 8 februarie 1930",
+  "short_name": "lege 32 08 02 1930",
+  "status": "in_force",
+  "issued_date": "1930-02-08",
+  "in_force_date": "1930-02-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30693",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 32 08/02/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Primăria municipiului Bucureşti este autorizata sa vândă de veci, pe preţul de lei 50.000, asociaţiei \"Casa Femeii\" din Bucureşti, un teren de 430 mp, situat în splaiul Imprimeriei din Bucureşti (conform alaturatei schite de plan), teren pe care actualmente este construit palatul asociaţiei \"Casa Femeii\"*). Intrarea în stapanire de drept şi de fapt va avea loc la data autentificării actului de vânzare. -------------- Notă *) A se vedea schita de plan în Monitorul Oficial Nr. 31 din 8 Februarie 1930."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prin derogare dela art. 410 şi 536 din legea pentru organizarea administraţiunii locale din 1929, preşedintele comisiunii interimare sau primarul de sector respectiv este autorizat a face şi semna actul de vânzare. Desbateri: Camera Nr. 24-1929/30; Senat Nr. 13-1929/30. Votat de Adunarea Deputaţilor la 21 Ianuarie şi de Senat la 29 Ianuarie 1930. -------"
+    }
+  ],
+  "definitions": []
+}

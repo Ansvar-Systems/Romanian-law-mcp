@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-22704",
+  "type": "statute",
+  "title": "LEGE nr. 14 din 1 iulie 1977",
+  "short_name": "lege 14 01 07 1977",
+  "status": "in_force",
+  "issued_date": "1977-07-01",
+  "in_force_date": "1977-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/22704",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 14 01/07/1977",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 80/1977 privind primirea la studii pe cont propriu, în Republica Socialistă România, a cetăţenilor străini. Această lege a fost adoptată de Marea Adunare Naţionala în şedinţa din 1 iulie 1977. Preşedintele Marii Adunări Naţionale, NICOLAE GIOSAN -----"
+    }
+  ],
+  "definitions": []
+}

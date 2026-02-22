@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-255670",
+  "type": "statute",
+  "title": "LEGE nr. 152 din 24 mai 2022",
+  "short_name": "lege 152 24 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-24",
+  "in_force_date": "2022-05-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255670",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 152 24/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 78 din 21 mai 2020 privind acordarea de către Ministerul Sănătății, prin direcțiile de sănătate publică județene și a municipiului București, autorităților publice locale a necesarului de măști de protecție pentru familiile și persoanele defavorizate de pe raza unităților administrativ-teritoriale, precum și pentru suplimentarea bugetului Ministerului Sănătății, din Fondul de rezervă bugetară aflat la dispoziția Guvernului, prevăzut în bugetul de stat pe anul 2020, publicată în Monitorul Oficial al României, Partea I, nr. 434 din 22 mai 2020."
+    }
+  ],
+  "definitions": []
+}

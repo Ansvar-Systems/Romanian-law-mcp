@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221179",
+  "type": "statute",
+  "title": "LEGE nr. 242 din 20 decembrie 2019",
+  "short_name": "lege 242 20 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-20",
+  "in_force_date": "2019-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221179",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 242 20/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 64 din 12 iulie 2018 pentru modificarea și completarea Ordonanței Guvernului nr. 24/2016 privind organizarea și desfășurarea activității de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman, publicată în Monitorul Oficial al României, Partea I, nr. 607 din 16 iulie 2018, cu următoarea completare: – La articolul unic, după punctul 3 se introduce un nou punct, punctul 4, cu următorul cuprins: 4. La articolul 5, alineatul (4) se modifică și va avea următorul cuprins: (4) Crescătorii individuali de animale sunt obligați să anunțe în maximum 24 de ore de la decesul animalului medicul veterinar de liberă practică căruia îi sunt arondați și autoritățile administrației publice locale pe a căror rază administrativ-teritorială are loc decesul animalelor la care se referă prezenta ordonanță. Autoritățile administrației publice locale sesizate informează de îndată consiliul județean, care anunță în cel mai scurt timp posibil prestatorul de servicii contractat, acesta având sarcina de a transporta, în maximum 24 de ore, cadavrele de animale la unitățile de neutralizare a acestora. Autoritățile administrației publice locale vor întocmi, potrivit legii, registre de evidență a transporturilor, categoriilor și cantităților de subproduse de origine animală trimise către unitățile de neutralizare, iar consiliul județean întocmește un centralizator al acestor registre de evidență. Procedura de colaborare între consiliile locale și consiliile județene, respectiv Consiliul General al Municipiului București se stabilește prin normele metodologice de aplicare a prevederilor prezentei ordonanțe."
+    }
+  ],
+  "definitions": []
+}

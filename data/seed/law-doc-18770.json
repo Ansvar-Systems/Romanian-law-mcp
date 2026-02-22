@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-18770",
+  "type": "statute",
+  "title": "LEGE nr. 123 din 14 iulie 1999",
+  "short_name": "lege 123 14 07 1999",
+  "status": "in_force",
+  "issued_date": "1999-07-14",
+  "in_force_date": "1999-07-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/18770",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 123 14/07/1999",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenta a Guvernului nr. 27 din 25 martie 1999 pentru modificarea art. 27 din Legea nr. 27/1994 privind impozitele şi taxele locale, publicată în Monitorul Oficial al României, Partea I, nr. 130 din 31 martie 1999. Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 13 aprilie 1999, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE CAMEREI DEPUTAŢILOR, VASILE LUPU Această lege a fost adoptată de Senat în şedinţa din 8 iunie 1999, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. p. PREŞEDINTELE SENATULUI, CRISTIAN DUMITRESCU ---------"
+    }
+  ],
+  "definitions": []
+}

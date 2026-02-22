@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189618",
+  "type": "statute",
+  "title": "LEGE nr. 120 din 29 mai 2017",
+  "short_name": "lege 120 29 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-29",
+  "in_force_date": "2017-05-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189618",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 120 29/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 56 din 19 septembrie 2016 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 120/2002 privind aprobarea Sistemului de susţinere şi promovare a exportului cu finanţare de la bugetul de stat, publicată în Monitorul Oficial al României, Partea I, nr. 728 din 20 septembrie 2016, cu următoarea modificare: – La articolul I, punctul 3 se abrogă."
+    }
+  ],
+  "definitions": []
+}

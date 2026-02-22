@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275392",
+  "type": "statute",
+  "title": "LEGE nr. 274 din 16 octombrie 2023",
+  "short_name": "lege 274 16 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-16",
+  "in_force_date": "2023-10-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275392",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 274 16/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Statului Kuweit privind cooperarea în domeniul militar, semnat la București la 7 decembrie 2022."
+    }
+  ],
+  "definitions": []
+}

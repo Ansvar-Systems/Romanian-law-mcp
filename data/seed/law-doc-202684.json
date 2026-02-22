@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-202684",
+  "type": "statute",
+  "title": "LEGE nr. 172 din 13 iulie 2018",
+  "short_name": "lege 172 13 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-13",
+  "in_force_date": "2018-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/202684",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 172 13/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 97 din 14 decembrie 2017 privind prorogarea termenului prevăzut la art. 6 din Ordonanța Guvernului nr. 40/2006 pentru aprobarea și finanțarea programelor multianuale prioritare de mediu și gospodărire a apelor, publicată în Monitorul Oficial al României, Partea I, nr. 1003 din 18 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

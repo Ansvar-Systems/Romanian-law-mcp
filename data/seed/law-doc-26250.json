@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-26250",
+  "type": "statute",
+  "title": "LEGE nr. 2.523 din 15 iunie 1937*)",
+  "short_name": "lege 2523 15 06 1937",
+  "status": "in_force",
+  "issued_date": "1937-06-15",
+  "in_force_date": "1937-06-15",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/26250",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2523 15/06/1937",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Guvernul este autorizat a ratifica şi aproba să se execute prin Inspectoratul General al Navigatiunii şi porturilor din Ministerul Lucrărilor Publice şi al Comunicaţiilor. Convenţiunea Internationala asupra Liniilor de Încărcare de la Londra din 5 iulie 1930 şi la care Statul Roman a aderat de la data de 1 ianuarie 1933. Pe baza acestei legi, Inspectoratul General al Navigaţiei şi Porturilor va elabora instrucţiuni de detalii, de modul cum se vor aplica dispoziţiunile din aceasta convenţiune. Copie şi traducere după zisa convenţiune se alătură la legea de faţa."
+    }
+  ],
+  "definitions": []
+}

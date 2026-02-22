@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-296435",
+  "type": "statute",
+  "title": "LEGE nr. 37 din 4 aprilie 2025",
+  "short_name": "lege 37 04 04 2025",
+  "status": "in_force",
+  "issued_date": "2025-04-04",
+  "in_force_date": "2025-04-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/296435",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 37 04/04/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 66 din 30 iunie 2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 64/2022 privind ajustarea prețurilor și a valorii devizelor generale în cadrul proiectelor finanțate din fonduri externe nerambursabile, publicată în Monitorul Oficial al României, Partea I, nr. 604 din 30 iunie 2023."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-229246",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 19 august 2020",
+  "short_name": "lege 183 19 08 2020",
+  "status": "in_force",
+  "issued_date": "2020-08-19",
+  "in_force_date": "2020-08-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/229246",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 19/08/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată în Monitorul Oficial al României, Partea I, nr. 205 din 24 martie 2014, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La articolul 16, alineatul (7) va avea următorul cuprins: (7) Asistarea sau, după caz, găzduirea victimelor, respectiv asistarea agresorilor în unitățile prevăzute la art. 15 alin. (2) și (3) se face în baza încheierii unui contract de acordare a serviciilor sociale. Pentru minori contractul de acordare a serviciilor sociale este semnat de părintele însoțitor sau, după caz, de reprezentantul legal. 2. La articolul 27, alineatul (2) va avea următorul cuprins: (2) Asistența juridică a persoanei care solicită ordinul de protecție este obligatorie. 3. Articolul 32 va avea următorul cuprins: Articolul 32 (1) Încălcarea de către persoana împotriva căreia a fost emis un ordin de protecție a oricăreia dintre măsurile prevăzute la art. 23 alin. (1), (3) și (4) lit. a) și b) și dispuse prin ordinul de protecție constituie infracțiune și se pedepsește cu închisoare de la 6 luni la 5 ani. (2) Încălcarea de către persoana împotriva căreia a fost emis un ordin de protecție provizoriu a oricăreia dintre măsurile prevăzute la art. 22^4 alin. (1) și dispuse prin ordinul de protecție provizoriu constituie infracțiune și se pedepsește cu închisoare de la 6 luni la 5 ani. 4. La anexă, punctul II „Asistența juridică“, câmpul al doilea va avea următorul cuprins: Dacă victima nu are avocat, i se va acorda asistență juridică din oficiu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată în Monitorul Oficial al României, Partea I, nr. 205 din 24 martie 2014, cu modificările și completările ulterioare, precum și cu cele aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

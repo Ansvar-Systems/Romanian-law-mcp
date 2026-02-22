@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-275418",
+  "type": "statute",
+  "title": "LEGE nr. 278 din 17 octombrie 2023",
+  "short_name": "lege 278 17 10 2023",
+  "status": "in_force",
+  "issued_date": "2023-10-17",
+  "in_force_date": "2023-10-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/275418",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 278 17/10/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 111 din 15 iulie 2022 pentru completarea Ordonanței de urgență a Guvernului nr. 80/2022 privind reglementarea unor măsuri în domeniul ocupării posturilor în sectorul bugetar, publicată în Monitorul Oficial al României, Partea I, nr. 715 din 15 iulie 2022."
+    }
+  ],
+  "definitions": []
+}

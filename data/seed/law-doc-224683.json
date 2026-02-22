@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-224683",
+  "type": "statute",
+  "title": "LEGE nr. 44 din 3 aprilie 2020",
+  "short_name": "lege 44 03 04 2020",
+  "status": "in_force",
+  "issued_date": "2020-04-03",
+  "in_force_date": "2020-04-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224683",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 44 03/04/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie Ziua Satului Românesc în ultima duminică a lunii septembrie."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Ziua Satului Românesc poate fi organizată de către autoritățile administrației publice centrale și locale, de către celelalte instituții ale statului, de către persoane fizice sau juridice prin organizarea și participarea la programe și manifestări cu caracter social, cultural și științific în scopul de a aprecia și a promova satul românesc. (2) Fondurile necesare organizării evenimentelor prilejuite de sărbătorirea Zilei Satului Românesc pot fi asigurate din bugetele locale sau, după caz, din bugetele autorităților administrației publice centrale ori ale instituțiilor publice în limita alocațiilor bugetare aprobate. (3) Persoane fizice sau juridice interesate pot sprijini logistic și/sau financiar, după caz, organizarea manifestărilor dedicate sărbătoririi acestei zile."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot include în programele lor emisiuni ori aspecte de la manifestările dedicate acestei sărbători."
+    }
+  ],
+  "definitions": []
+}

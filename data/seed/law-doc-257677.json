@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-257677",
+  "type": "statute",
+  "title": "LEGE nr. 229 din 19 iulie 2022",
+  "short_name": "lege 229 19 07 2022",
+  "status": "in_force",
+  "issued_date": "2022-07-19",
+  "in_force_date": "2022-07-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/257677",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 229 19/07/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 97 din 11 iunie 2020 pentru implementarea unor măsuri de simplificare administrativă în domeniul protecției sociale, precum și pentru acordarea unor drepturi și beneficii de asistență socială în domeniile de activitate în care se mențin restricții, publicată în Monitorul Oficial al României, Partea I, nr. 504 din 12 iunie 2020."
+    }
+  ],
+  "definitions": []
+}

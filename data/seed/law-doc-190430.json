@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-190430",
+  "type": "statute",
+  "title": "LEGE nr. 145 din 26 iunie 2017",
+  "short_name": "lege 145 26 06 2017",
+  "status": "in_force",
+  "issued_date": "2017-06-26",
+  "in_force_date": "2017-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/190430",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 145 26/06/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată în Monitorul Oficial al României, Partea I, nr. 238 din 3 aprilie 2014, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 47, alineatul (2) se modifică și va avea următorul cuprins: (2) Pentru a fi numiți consilieri de conturi, se cere îndeplinirea următoarelor condiții: studii superioare economice, juridice sau inginerești, vechime de minimum 10 ani în specialitatea studiilor absolvite și pregătire profesională temeinică. 2. La articolul 49, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) Membrii Curții de Conturi, pe lângă atribuțiile prevăzute de lege, pot desfășura activități didactice și de cercetare științifică. 3. La articolul 49, după alineatul (4) se introduce un nou alineat, alineatul (5), cu următorul cuprins: (5) De pensia de serviciu prevăzută la alin. (4) beneficiază și persoanele care au îndeplinit funcția de consilier de conturi pe o perioadă de cel puțin jumătate din durata unui mandat complet, în următoarele situații: a) dacă mandatul a încetat înainte de realizarea unui mandat complet, din motive neimputabile consilierului de conturi; b) dacă mandatul se întinde pe perioada rămasă până la expirarea mandatului complet. 4. La articolul 51, după alineatul (16) se introduc două noi alineate, alineatele (16^1) și (16^2), cu următorul cuprins: (16^1) Soțul supraviețuitor, copiii minori, precum și copiii majori ai auditorilor publici externi din cadrul Curții de Conturi beneficiază de pensie de urmaș în condițiile prevăzute de legislația privind sistemul de pensii publice, calculată din pensia de serviciu aflată în plată sau la care ar fi avut dreptul titularul la data decesului, actualizată, după caz. (16^2) Prevederile alin. (16^1) se aplică copiilor majori, până la terminarea studiilor, dar nu mai mult de 26 de ani."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Normele cu privire la stabilirea pensiei de serviciu conform prevederilor Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, astfel cum a fost modificată și completată prin Legea nr. 7/2016 , aprobate prin Ordinul președintelui Curții de Conturi și al președintelui Casei Naționale de Pensii Publice nr. 285 / 138/2016 , publicat în Monitorul Oficial al României, Partea I, nr. 294 din 18 aprilie 2016, se modifică și se completează în conformitate cu modificările și completările aduse prin prezenta lege."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-244881",
+  "type": "statute",
+  "title": "LEGE nr. 216 din 22 iulie 2021",
+  "short_name": "lege 216 22 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-22",
+  "in_force_date": "2021-07-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244881",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 216 22/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 6 din 31 iulie 2019 privind instituirea unor facilități fiscale, adoptată în temeiul art. 1 pct. I.3 din Legea nr. 128/2019 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 648 din 5 august 2019."
+    }
+  ],
+  "definitions": []
+}

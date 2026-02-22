@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-176846",
+  "type": "statute",
+  "title": "LEGE nr. 36 din 22 martie 2016",
+  "short_name": "lege 36 22 03 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-22",
+  "in_force_date": "2016-03-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/176846",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 36 22/03/2016",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 82 din 27 august 2013 pentru modificarea Legii nr. 188/1999 privind Statutul funcţionarilor publici, publicată în Monitorul Oficial al României, Partea I, nr. 549 din 29 august 2013."
+    }
+  ],
+  "definitions": []
+}

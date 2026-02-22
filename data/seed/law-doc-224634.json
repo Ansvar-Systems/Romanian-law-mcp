@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-224634",
+  "type": "statute",
+  "title": "LEGE nr. 38 din 2 aprilie 2020",
+  "short_name": "lege 38 02 04 2020",
+  "status": "in_force",
+  "issued_date": "2020-04-02",
+  "in_force_date": "2020-04-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/224634",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 38 02/04/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 63 din Legea notarilor publici și a activității notariale nr. 36/1995 , republicată în Monitorul Oficial al României, Partea I, nr. 237 din 19 martie 2018, cu modificările ulterioare, alineatele (1) și (4) se modifică și vor avea următorul cuprins: Articolul 63 (1) În scopul stabilirii și acordării pensiilor și a altor drepturi de asigurări sociale ale notarilor publici se înființează, sub autoritatea Uniunii, Casa de Pensii a Notarilor Publici, denumită în continuare Casa de pensii, instituție autonomă, de interes public, cu personalitate juridică. ……………………………………………................................. (4) Organizarea și funcționarea Casei de pensii, contribuabilii la sistemul propriu de pensii, persoanele asigurate, contribuțiile asiguraților, perioadele de contribuție, categoriile de pensii, calculul pensiilor, categoriile de ajutoare financiare, emiterea deciziilor de pensionare, căile de atac împotriva deciziilor emise de Casa de pensii și altele asemenea se stabilesc prin lege specială. Casa de pensii are sediul în municipiul București și se înființează în baza prezentei legi și se organizează și funcționează în baza legii speciale, fără îndeplinirea altor formalități."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Până la data intrării în vigoare a legii speciale privind sistemul de pensii și alte drepturi de asigurări sociale ale notarilor publici prevăzute la art. 63 alin. (4) al articolului I, Casa de Pensii a Notarilor Publici din România, constituită la data de 1 ianuarie 2013 în baza Legii notarilor publici și a activității notariale nr. 36/1995, republicată , cu modificările ulterioare, asigură administrarea curentă a activității sale."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "De la data intrării în vigoare a legii speciale prevăzute la art. II, Casa de Pensii a Notarilor Publici din România, constituită la data de 1 ianuarie 2013 în baza Legii notarilor publici și a activității notariale nr. 36/1995, republicată , cu modificările ulterioare, își continuă activitatea în condițiile legii speciale."
+    }
+  ],
+  "definitions": []
+}

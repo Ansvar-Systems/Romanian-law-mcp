@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189039",
+  "type": "statute",
+  "title": "LEGE nr. 92 din 5 mai 2017",
+  "short_name": "lege 92 05 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-05",
+  "in_force_date": "2017-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189039",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 92 05/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 72 din 26 octombrie 2016 privind aprobarea Programului-pilot de acordare a unui suport alimentar pentru preşcolarii şi elevii din 50 de unităţi de învăţământ preuniversitar de stat, publicată în Monitorul Oficial al României, Partea I, nr. 875 din 1 noiembrie 2016."
+    }
+  ],
+  "definitions": []
+}

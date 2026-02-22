@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-40091",
+  "type": "statute",
+  "title": "LEGE nr. 629 din 19 noiembrie 2002",
+  "short_name": "lege 629 19 11 2002",
+  "status": "in_force",
+  "issued_date": "2002-11-19",
+  "in_force_date": "2002-11-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/40091",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 629 19/11/2002",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 58 din 22 august 2002 pentru modificarea și completarea Legii voluntariatului nr. 195/2001 , adoptată în temeiul art. 1 pct. V.2 din Legea nr. 411/2002 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 642 din 30 august 2002, cu următoarea modificare: – La articolul unic punctul 8, litera d) a articolului 7 va avea următorul cuprins: d) asigurarea de către organizația gazda, în condițiile prevăzute de lege, împotriva riscurilor de accident și de boala sau a altor riscuri ce decurg din natura activității. Pentru programele comunitare „Tineret” costurile sunt suportate de către Comisia Europeană, care încheie un contract cu o companie de asigurări;"
+    }
+  ],
+  "definitions": []
+}

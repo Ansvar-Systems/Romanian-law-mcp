@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-271454",
+  "type": "statute",
+  "title": "LEGE nr. 176 din 19 iunie 2023",
+  "short_name": "lege 176 19 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-19",
+  "in_force_date": "2023-06-19",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271454",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 176 19/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 75/1994 privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României de către autoritățile și instituțiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 237 din 26 august 1994, cu completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 1, după alineatul 2 se introduce un nou alineat, alin. 3, cu următorul cuprins: Pe drapelul României nu pot fi adăugate alte inscripții și simboluri în afara celor aprobate prin lege sau prin regulamentele militare. 2. La articolul 7, alineatul 3 se modifică și va avea următorul cuprins: În locurile în care se arborează drapelul României pot fi arborate și drapelul Uniunii Europene, și cel al NATO. 3. La articolul 21, după alineatul 1 se introduce un nou alineat, alin. 2, cu următorul cuprins: Pe toată durata intonării imnului național asistența va intona imnul sau va păstra tăcerea. 4. Anexa nr. 1 se modifică și se înlocuiește cu anexa care face parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Guvernul modifică și completează Normele privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României, aprobate prin Hotărârea Guvernului nr. 1.157/2001 , cu modificările și completările ulterioare, în conformitate cu dispozițiile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 75/1994 privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României de către autoritățile și instituțiile publice, cu completările ulterioare, precum și cu modificările și completările aduse prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

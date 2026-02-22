@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-271013",
+  "type": "statute",
+  "title": "LEGE nr. 166 din 31 mai 2023",
+  "short_name": "lege 166 31 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-31",
+  "in_force_date": "2023-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271013",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 166 31/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul, publicată în Monitorul Oficial al României, Partea I, nr. 373 din 10 iulie 2001, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 31^1, după alineatul (1) se introduc două noi alineate, alineatele (1^1) și (1^2), cu următorul cuprins: (1^1) Prin excepție de la prevederile alin. (1), dreptul de construire se acordă și în lipsa documentațiilor de amenajare a teritoriului și de urbanism aprobate pentru lucrări de construire a capacităților de producere și stocare a energiei electrice și a hidrogenului din surse regenerabile situate în intravilanul și extravilanul localităților, inclusiv stații de transformare, cabluri și instalațiile pentru racordarea acestora la rețeaua electrică de interes public. (1^2) În situația în care pe același imobil reglementat de un certificat de urbanism se pot construi mai multe obiective de investiții, sunt aplicabile prevederile art. 7 alin. (1^7) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare. 2. La articolul 65, alineatul (1) se modifică și va avea următorul cuprins: Articolul 65 (1) În absența Planului de amenajare a teritoriului județean și a Planului urbanistic general aprobate, pe teritoriile aferente se pot realiza investiții în construcții, lucrări tehnico-edilitare, precum și orice alte investiții urbane numai pe baza unui plan urbanistic zonal aprobat potrivit legii și cu respectarea Regulamentului general de urbanism, cu excepțiile prevăzute de prezenta lege, precum și de alte acte normative în vigoare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată în Monitorul Oficial al României, Partea I, nr. 933 din 13 octombrie 2004, cu modificările și completările ulterioare, se completează după cum urmează: 1. La articolul 2 alineatul (4), după litera e) se introduce o nouă literă, lit. f), cu următorul cuprins: f) lucrări de construire a capacităților de producere și stocare a energiei electrice și a hidrogenului din surse regenerabile situate în intravilanul și extravilanul localităților, inclusiv stații de transformare, cabluri și instalațiile pentru racordarea acestora la rețeaua electrică de interes public. 2. La articolul 7, după alineatul (1^6) se introduce un nou alineat, alin. (1^7), cu următorul cuprins: (1^7) În măsura în care lucrările de construcții vizează realizarea mai multor obiective de investiții pe același teren, la cererea expresă a solicitantului, se poate emite câte o autorizație de construire pentru fiecare obiectiv de investiții, în baza aceluiași certificat de urbanism obținut pentru terenul aferent, cu condiția delimitării acestor obiective în documentația tehnică menționată la alin. (1) lit. c). 3. La articolul 11^1, după litera h) se introduce o nouă literă, lit. i), cu următorul cuprins: i) lucrări de construire a capacităților de producere și stocare a energiei electrice și a hidrogenului din surse regenerabile situate în intravilanul și extravilanul localităților, inclusiv stații de transformare, cabluri și instalațiile pentru racordarea acestora la rețeaua electrică de interes public."
+    }
+  ],
+  "definitions": []
+}

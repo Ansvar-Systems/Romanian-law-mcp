@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-263347",
+  "type": "statute",
+  "title": "LEGE nr. 382 din 29 decembrie 2022",
+  "short_name": "lege 382 29 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-29",
+  "in_force_date": "2022-12-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263347",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 382 29/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 143 din 28 octombrie 2022 pentru modificarea art. 17 din Ordonanța Guvernului nr. 25/2014 privind încadrarea în muncă și detașarea străinilor pe teritoriul României și pentru modificarea și completarea unor acte normative privind regimul străinilor în România, publicată în Monitorul Oficial al României, Partea I, nr. 1049 din 28 octombrie 2022."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "(1) Străinii care au intrat legal pe teritoriul României și cărora le-a expirat permisul unic pot solicita un nou permis unic, în termen de 90 de zile de la data intrării în vigoare a prezentei legi, dacă încetarea raportului de muncă al străinului a fost înregistrată cu cel mult 18 luni înaintea datei de intrare în vigoare a prezentei legi. (2) Prevederile alin. (1) nu se aplică străinilor pentru care Inspectoratul General pentru Imigrări a emis decizia de returnare până la data intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

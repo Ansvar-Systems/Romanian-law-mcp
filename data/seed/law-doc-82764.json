@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-82764",
+  "type": "statute",
+  "title": "LEGE nr. 153 din 6 iunie 2007",
+  "short_name": "lege 153 06 06 2007",
+  "status": "in_force",
+  "issued_date": "2007-06-06",
+  "in_force_date": "2007-06-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/82764",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 153 06/06/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 135 din 22 decembrie 2006 privind majorarea capitalului social al Casei de Economii și Consemnațiuni C.E.C. - S.A., publicată în Monitorul Oficial al României, Partea I, nr. 1.040 din 28 decembrie 2006, cu următoarea modificare: – La articolul 2, alineatul (3) va avea următorul cuprins: (3) Deficitul bugetului de stat pe anul 2006, rezultat din plata efectuată de Ministerul Finanțelor Publice pentru majorarea capitalului social al C.E.C., se finanțează din sumele existente în contul curent general al Trezoreriei Statului din disponibilitățile încasate potrivit prevederilor Ordonanței de urgență a Guvernului nr. 111/2003 privind utilizarea veniturilor din privatizare și din valorificarea activelor bancare neperformante, aprobată cu modificări prin Legea nr. 48/2005 , cu modificările ulterioare."
+    }
+  ],
+  "definitions": []
+}

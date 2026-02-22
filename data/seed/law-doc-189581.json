@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-189581",
+  "type": "statute",
+  "title": "LEGE nr. 116 din 26 mai 2017",
+  "short_name": "lege 116 26 05 2017",
+  "status": "in_force",
+  "issued_date": "2017-05-26",
+  "in_force_date": "2017-05-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/189581",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 116 26/05/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa Guvernului nr. 25 din 24 august 2016 pentru modificarea şi completarea unor acte normative în domeniul străinilor, adoptată în temeiul art. 1 pct. III din Legea nr. 123/2016 privind abilitarea Guvernului de a emite ordonanţe şi publicată în Monitorul Oficial al României, Partea I, nr. 670 din 31 august 2016."
+    }
+  ],
+  "definitions": []
+}

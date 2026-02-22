@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-272117",
+  "type": "statute",
+  "title": "LEGE nr. 218 din 13 iulie 2023",
+  "short_name": "lege 218 13 07 2023",
+  "status": "in_force",
+  "issued_date": "2023-07-13",
+  "in_force_date": "2023-07-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/272117",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 218 13/07/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 53 din 21 aprilie 2022 privind modificarea și completarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 394 din 21 aprilie 2022."
+    }
+  ],
+  "definitions": []
+}

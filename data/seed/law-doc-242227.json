@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-242227",
+  "type": "statute",
+  "title": "LEGE nr. 132 din 13 mai 2021",
+  "short_name": "lege 132 13 05 2021",
+  "status": "in_force",
+  "issued_date": "2021-05-13",
+  "in_force_date": "2021-05-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/242227",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 132 13/05/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 17 din 21 august 2019 pentru modificarea pct. 1 din anexa la Legea nr. 196/2002 pentru aprobarea Ordonanței Guvernului nr. 74/2001 privind abilitarea Ministerului Afacerilor Interne de a angaja și presta servicii, adoptată în temeiul art. 1 pct. III.2 din Legea nr. 128/2019 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 694 din 22 august 2019."
+    }
+  ],
+  "definitions": []
+}

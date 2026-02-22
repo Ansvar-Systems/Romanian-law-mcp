@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219609",
+  "type": "statute",
+  "title": "LEGE nr. 201 din 7 noiembrie 2019",
+  "short_name": "lege 201 07 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-07",
+  "in_force_date": "2019-11-07",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219609",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 201 07/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 97 din 9 noiembrie 2018 privind aprobarea Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 50 de unități de învățământ preuniversitar de stat, publicată în Monitorul Oficial al României, Partea I, nr. 968 din 15 noiembrie 2018."
+    }
+  ],
+  "definitions": []
+}

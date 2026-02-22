@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-226849",
+  "type": "statute",
+  "title": "LEGE nr. 83 din 17 iunie 2020",
+  "short_name": "lege 83 17 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-17",
+  "in_force_date": "2020-06-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/226849",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 83 17/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 260 alineatul (1) din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, litera d) se modifică și va avea următorul cuprins: d) calificativul «foarte bine» obținut în ultimii 4 ani;"
+    }
+  ],
+  "definitions": []
+}

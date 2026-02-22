@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-82875",
+  "type": "statute",
+  "title": "LEGE nr. 168 din 12 iunie 2007",
+  "short_name": "lege 168 12 06 2007",
+  "status": "in_force",
+  "issued_date": "2007-06-12",
+  "in_force_date": "2007-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/82875",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 168 12/06/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 18 din 31 ianuarie 2007 pentru modificarea alin. (3) al art. 51 din Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul, adoptată în temeiul art. 1 pct. II.3 din Legea nr. 502/2006 privind abilitarea Guvernului de a emite ordonanțe, publicată în Monitorul Oficial al României, Partea I, nr. 81 din 1 februarie 2007, cu următoarea modificare: – La articolul I, alineatul (3) al articolului 51 se modifică și va avea următorul cuprins: (3) Metodologia finanțării de la bugetul de stat a hărților de risc pentru cutremure și alunecări de teren se elaborează de către Ministerul Dezvoltării, Lucrărilor Publice și Locuințelor și se aprobă prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

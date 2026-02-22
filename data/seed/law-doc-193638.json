@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-193638",
+  "type": "statute",
+  "title": "LEGE nr. 196 din 29 septembrie 2017",
+  "short_name": "lege 196 29 09 2017",
+  "status": "in_force",
+  "issued_date": "2017-09-29",
+  "in_force_date": "2017-09-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/193638",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 196 29/09/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 465 din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, se modifică după cum urmează: 1. La alineatul (2), partea introductivă se modifică și va avea următorul cuprins: (2) În cazul unui teren amplasat în intravilan, înregistrat în registrul agricol la categoria de folosință terenuri cu construcții, impozitul/taxa pe teren se stabilește prin înmulțirea suprafeței terenului, exprimată în hectare, cu suma corespunzătoare prevăzută în următorul tabel: 2. Alineatul (2^1) se abrogă. 3. Alineatul (3) se modifică și va avea următorul cuprins: (3) În cazul unui teren amplasat în intravilan, înregistrat în registrul agricol la altă categorie de folosință decât cea de terenuri cu construcții, impozitul/taxa pe teren se stabilește prin înmulțirea suprafeței terenului, exprimată în hectare, cu suma corespunzătoare prevăzută la alin. (4), iar acest rezultat se înmulțește cu coeficientul de corecție corespunzător prevăzut la alin. (5). 4. La alineatul (6), partea introductivă se modifică și va avea următorul cuprins: (6) Ca excepție de la prevederile alin. (3)-(5), în cazul contribuabililor persoane juridice, pentru terenul amplasat în intravilan, înregistrat în registrul agricol la altă categorie de folosință decât cea de terenuri cu construcții, impozitul/taxa pe teren se calculează conform prevederilor alin. (7) numai dacă îndeplinesc cumulativ următoarele condiții:"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prin derogare de la dispozițiile art. 4 din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, prezenta lege intră în vigoare la data de 1 ianuarie 2018."
+    }
+  ],
+  "definitions": []
+}

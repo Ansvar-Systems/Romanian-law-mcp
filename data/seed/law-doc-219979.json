@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-219979",
+  "type": "statute",
+  "title": "LEGE nr. 224 din 22 noiembrie 2019",
+  "short_name": "lege 224 22 11 2019",
+  "status": "in_force",
+  "issued_date": "2019-11-22",
+  "in_force_date": "2019-11-22",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/219979",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 224 22/11/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 3 din 8 februarie 2019 privind eșalonarea plății drepturilor salariale restante pentru unele categorii de personal din sistemul justiției, publicată în Monitorul Oficial al României, Partea I, nr. 106 din 12 februarie 2019."
+    }
+  ],
+  "definitions": []
+}

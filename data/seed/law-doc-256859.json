@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-256859",
+  "type": "statute",
+  "title": "LEGE nr. 193 din 28 iunie 2022",
+  "short_name": "lege 193 28 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-28",
+  "in_force_date": "2022-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/256859",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 193 28/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 23 din Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare, republicată în Monitorul Oficial al României, Partea I, nr. 166 din 7 martie 2014, cu modificările și completările ulterioare, alineatul (2) se modifică și va avea următorul cuprins: (2) Colegiul director este compus din 11 membri cu rang de secretar de stat, dintre care un reprezentant al Grupului parlamentar al minorităților naționale din Camera Deputaților, propuși și numiți, în ședință comună, de cele două Camere ale Parlamentului."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare, republicată în Monitorul Oficial al României, Partea I, nr. 166 din 7 martie 2014, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

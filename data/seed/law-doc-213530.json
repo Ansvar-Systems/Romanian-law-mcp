@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-213530",
+  "type": "statute",
+  "title": "LEGE nr. 90 din 6 mai 2019",
+  "short_name": "lege 90 06 05 2019",
+  "status": "in_force",
+  "issued_date": "2019-05-06",
+  "in_force_date": "2019-05-06",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213530",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 90 06/05/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 112 din 21 decembrie 2018 privind accesibilitatea site-urilor web și a aplicațiilor mobile ale organismelor din sectorul public, publicată în Monitorul Oficial al României, Partea I, nr. 1105 din 27 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

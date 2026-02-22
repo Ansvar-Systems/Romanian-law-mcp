@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-30811",
+  "type": "statute",
+  "title": "LEGE nr. 152 din 18 iunie 1930",
+  "short_name": "lege 152 18 06 1930",
+  "status": "in_force",
+  "issued_date": "1930-06-18",
+  "in_force_date": "1930-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/30811",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 152 18/06/1930",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se deschide un credit extraordinar bugetar de lei 1.379.868 pe seama Ministerului Armatei şi asupra exerciţiului 1930, necesar pentru întâmpinarea cheltuielilor de făcut cu plata hranei, soldei şi întreţinerii a 1.378 jandarmi concentraţi pe timpul dela 24 Aprilie-24 Mai 1930 la regimentul de jandarmi pedestri din Bucureşti."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Acest credit extraordinar bugetar se va acoperi din fondul pentru deschideri de credite suplimentare şi extraordinare prevăzut în bugetul general al Statului pe exerciţiul 1930. Desbateri: Camera Nr. 64-1929/30. Votat de Adunarea Deputaţilor la 4 Iunie 1930. --------"
+    }
+  ],
+  "definitions": []
+}

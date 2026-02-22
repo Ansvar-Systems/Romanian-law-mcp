@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-254941",
+  "type": "statute",
+  "title": "LEGE nr. 127 din 5 mai 2022",
+  "short_name": "lege 127 05 05 2022",
+  "status": "in_force",
+  "issued_date": "2022-05-05",
+  "in_force_date": "2022-05-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/254941",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 127 05/05/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Alineatul (8^1) al articolului 12 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: (8^1) Elevii înscriși în învățământul profesional și tehnic cu durata de minimum 3 ani, precum și elevii din învățământul dual pot beneficia de masă gratuită în cantinele școlare sau prin servicii de catering și cazare gratuită în internatele școlare. Cheltuielile pentru cazarea și masa acestora se pot asigura, în limita sumelor prevăzute distinct cu această destinație, și din bugetele locale ale comunelor, orașelor, municipiilor sau ale județelor, după caz, prin hotărâri ale autorităților deliberative ale acestora."
+    }
+  ],
+  "definitions": []
+}

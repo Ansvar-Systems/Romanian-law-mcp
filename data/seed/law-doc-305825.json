@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305825",
+  "type": "statute",
+  "title": "LEGE nr. 242 din 23 decembrie 2025",
+  "short_name": "lege 242 23 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-23",
+  "in_force_date": "2025-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305825",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 242 23/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 1 din 28 ianuarie 2025 pentru completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, adoptată în temeiul art. 1 pct. VII din Legea nr. 332/2024 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 72 din 29 ianuarie 2025."
+    }
+  ],
+  "definitions": []
+}

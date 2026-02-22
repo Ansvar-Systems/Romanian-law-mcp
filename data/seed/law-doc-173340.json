@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-173340",
+  "type": "statute",
+  "title": "LEGE nr. 289 din 20 noiembrie 2015",
+  "short_name": "lege 289 20 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-20",
+  "in_force_date": "2015-11-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173340",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 289 20/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se acceptă cel de-al doilea amendament la Convenţia privind evaluarea impactului asupra mediului în context transfrontieră, adoptată la Espoo la 25 februarie 1991, ratificată de România prin Legea nr. 22/2001 , adoptat prin Decizia III/7 a celei de-a treia Reuniuni a părţilor la Cavtat din 1-4 iunie 2004."
+    }
+  ],
+  "definitions": []
+}

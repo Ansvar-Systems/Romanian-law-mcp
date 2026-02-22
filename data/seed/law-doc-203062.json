@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-203062",
+  "type": "statute",
+  "title": "LEGE nr. 186 din 18 iulie 2018",
+  "short_name": "lege 186 18 07 2018",
+  "status": "in_force",
+  "issued_date": "2018-07-18",
+  "in_force_date": "2018-07-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/203062",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 186 18/07/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 98 din 14 decembrie 2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, publicată în Monitorul Oficial al României, Partea I, nr. 1.004 din 18 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

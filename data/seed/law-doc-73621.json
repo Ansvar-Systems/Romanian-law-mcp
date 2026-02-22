@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-73621",
+  "type": "statute",
+  "title": "LEGE nr. 338 din 17 iulie 2006",
+  "short_name": "lege 338 17 07 2006",
+  "status": "in_force",
+  "issued_date": "2006-07-17",
+  "in_force_date": "2006-07-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/73621",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 338 17/07/2006",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 22 din 22 martie 2006 pentru completarea Ordonanței Guvernului nr. 92/2003 privind Codul de procedură fiscală, publicată în Monitorul Oficial al României, Partea I, nr. 271 din 27 martie 2006, cu următoarea modificare: – Articolul unic va avea următorul cuprins: Articolul UNIC La articolul 144 alineatul (2) din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată în Monitorul Oficial al României, Partea I, nr. 863 din 26 septembrie 2005, cu modificările și completările ulterioare, după litera c) se introduce o nouă literă, litera c^1), cu următorul cuprins: c^1) pe o perioadă de cel mult 6 luni, în cazuri excepționale, și doar o singură dată pentru același debitor, prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

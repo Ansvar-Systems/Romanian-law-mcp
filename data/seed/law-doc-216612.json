@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-216612",
+  "type": "statute",
+  "title": "LEGE nr. 153 din 24 iulie 2019",
+  "short_name": "lege 153 24 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-24",
+  "in_force_date": "2019-07-24",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/216612",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 153 24/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După alineatul (3) al articolului 139 din Legea nr. 53/2003 - Codul muncii, republicată în Monitorul Oficial al României, Partea I, nr. 345 din 18 mai 2011, cu modificările și completările ulterioare, se introduce un nou alineat, alineatul (4), cu următorul cuprins: (4) Până la data de 15 ianuarie a fiecărui an, se stabilesc prin hotărâre a Guvernului, pentru personalul din sistemul bugetar, zilele lucrătoare pentru care se acordă zile libere, zile care precedă și/sau care succedă zilelor de sărbătoare legală în care nu se lucrează, prevăzute la alin. (1), precum și zilele în care se recuperează orele de muncă neefectuate."
+    }
+  ],
+  "definitions": []
+}

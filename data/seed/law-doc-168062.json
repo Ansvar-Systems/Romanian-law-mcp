@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-168062",
+  "type": "statute",
+  "title": "LEGE nr. 106 din 14 mai 2015",
+  "short_name": "lege 106 14 05 2015",
+  "status": "in_force",
+  "issued_date": "2015-05-14",
+  "in_force_date": "2015-05-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168062",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 106 14/05/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța Guvernului nr. 3 din 21 ianuarie 2015 pentru modificarea și completarea Legii nr. 146/2014 privind autorizarea plății cotizațiilor la Forumul Internațional al Echipelor de Răspuns la Incidente de Securitate Cibernetică (Forum of Incident Response and Security Teams - FIRST) și la Forumul TF/CSIRT Trusted Introducer (TI) din cadrul Asociației Transeuropene a Rețelelor din Domeniul Cercetării și al Educației (Transeuropean Research and Education Network Association - TERENA) în scopul menținerii participării Centrului Național de Răspuns la Incidente de Securitate Cibernetică CERT - RO la aceste două organisme neguvernamentale, adoptată în temeiul art. I pct. I.10 din Legea nr. 184/2014 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 70 din 27 ianuarie 2015, cu următoarea modificare: – La articolul unic punctul 1, alineatul (3) se modifică și va avea următorul cuprins: (3) Se aprobă plata cotizației anuale a Centrului Național de Răspuns la Incidente de Securitate Cibernetică CERT - RO, instituție aflată în coordonarea Ministerului pentru Societatea Informațională, în calitate de membru cu drepturi depline, la Forumul TF/CSIRT Trusted Introducer (TI) din cadrul Asociației Transeuropene a Rețelelor din Domeniul Cercetării și al Educației (Transeuropean Research and Education Network Association - TERENA), în limita echivalentului în lei al sumei de 1.200 euro anual, la care se adaugă TVA din statul membru în care este stabilită asociația."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Începând cu data intrării în vigoare a prezentei legi, cuantumul cotizațiilor anuale la organismele internaționale neguvernamentale la care Centrul Național de Răspuns la Incidente de Securitate Cibernetică CERT - RO este parte se actualizează prin hotărâre a Guvernului."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35889",
+  "type": "statute",
+  "title": "LEGE nr. 18 din 9 decembrie 1982",
+  "short_name": "lege 18 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35889",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 18 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 49/1982 privind scoaterea din funcţiune a fondurilor fixe şi declasarea unor bunuri materiale din administrarea unităţilor socialiste de stat. ──────────────────"
+    }
+  ],
+  "definitions": []
+}

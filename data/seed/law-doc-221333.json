@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221333",
+  "type": "statute",
+  "title": "LEGE nr. 249 din 23 decembrie 2019",
+  "short_name": "lege 249 23 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-23",
+  "in_force_date": "2019-12-23",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221333",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 249 23/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 105 din 7 decembrie 2018 pentru modificarea și completarea unor acte normative din domeniul fondurilor europene nerambursabile, publicată în Monitorul Oficial al României, Partea I, nr. 1.053 din 12 decembrie 2018."
+    }
+  ],
+  "definitions": []
+}

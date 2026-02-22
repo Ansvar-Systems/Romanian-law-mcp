@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-213359",
+  "type": "statute",
+  "title": "LEGE nr. 77 din 25 aprilie 2019",
+  "short_name": "lege 77 25 04 2019",
+  "status": "in_force",
+  "issued_date": "2019-04-25",
+  "in_force_date": "2019-04-25",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/213359",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 77 25/04/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 5 din Ordonanța Guvernului nr. 80/2001 privind stabilirea unor normative de cheltuieli pentru autoritățile administrației publice și instituțiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 542 din 1 septembrie 2001, aprobată cu modificări prin Legea nr. 247/2002 , cu modificările și completările ulterioare, după alineatul (1^1) se introduce un nou alineat, alineatul (1^2), cu următorul cuprins: (1^2) Prin excepție de la prevederile alin. (1^1), normativele de cheltuieli pentru dotarea cu autoturisme prevăzute în anexa nr. 3 pct. I lit. B nu se aplică în cazul autoturismelor achiziționate din fonduri externe nerambursabile."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-239607",
+  "type": "statute",
+  "title": "LEGE nr. 44 din 17 martie 2021",
+  "short_name": "lege 44 17 03 2021",
+  "status": "in_force",
+  "issued_date": "2021-03-17",
+  "in_force_date": "2021-03-17",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/239607",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 44 17/03/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 137 din 19 august 2020 privind acumularea în vederea constituirii ca stoc rezervă de stat a unei cantități de grâu pentru panificație, publicată în Monitorul Oficial al României, Partea I, nr. 762 din 20 august 2020."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-276932",
+  "type": "statute",
+  "title": "LEGE nr. 352 din 28 noiembrie 2023",
+  "short_name": "lege 352 28 11 2023",
+  "status": "in_force",
+  "issued_date": "2023-11-28",
+  "in_force_date": "2023-11-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/276932",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 352 28/11/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României și Guvernul Republicii India privind cooperarea în domeniul apărării, semnat la New Delhi la 28 martie 2023."
+    }
+  ],
+  "definitions": []
+}

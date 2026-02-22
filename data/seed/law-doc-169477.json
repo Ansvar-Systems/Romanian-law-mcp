@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169477",
+  "type": "statute",
+  "title": "LEGE nr. 183 din 2 iulie 2015",
+  "short_name": "lege 183 02 07 2015",
+  "status": "in_force",
+  "issued_date": "2015-07-02",
+  "in_force_date": "2015-07-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169477",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 183 02/07/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 36 din 14 aprilie 2010 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 158/2005 privind concediile şi indemnizaţiile de asigurări sociale de sănătate, publicată în Monitorul Oficial al României, Partea I, nr. 268 din 26 aprilie 2010, cu următoarele modificări: 1. La articolul I punctul 1, litera c) a articolului 3^1 se abrogă. 2. La articolul I, punctul 15 se abrogă. 3. Articolul III se abrogă."
+    }
+  ],
+  "definitions": []
+}

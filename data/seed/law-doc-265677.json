@@ -1,0 +1,511 @@
+{
+  "id": "law-doc-265677",
+  "type": "statute",
+  "title": "LEGE nr. 58 din 14 martie 2023",
+  "short_name": "lege 58 14 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-14",
+  "in_force_date": "2023-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/265677",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 58 14/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta lege stabilește cadrul juridic și instituțional privind organizarea și desfășurarea activităților din domeniile securitate și apărare cibernetică, mecanismele de cooperare și responsabilitățile instituțiilor cu atribuții în domeniile menționate. (2) Securitatea și apărarea cibernetică se realizează prin adoptarea și implementarea de politici și măsuri în scopul cunoașterii, prevenirii și contracarării vulnerabilităților, riscurilor și amenințărilor în spațiul cibernetic."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "În sensul prezentei legi, termenii și expresiile de mai jos au următoarea semnificație: a) apărare cibernetică - totalitatea activităților, mijloacelor și măsurilor utilizate pentru a contracara amenințările cibernetice și a atenua efectele acestora asupra sistemelor de comunicații și tehnologia informației, sistemelor de armament, rețelelor și sistemelor informatice, care susțin capabilitățile militare de apărare; b) amenințare cibernetică - astfel cum este definită la art. 2 lit. f) din Ordonanța de urgență a Guvernului nr. 104/2021 privind înființarea Directoratului Național de Securitate Cibernetică, aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare; c) atac cibernetic - acțiune ostilă desfășurată în spațiul cibernetic de natură să afecteze securitatea cibernetică; d) audit de securitate cibernetică - activitate prin care se realizează o evaluare sistematică a tuturor politicilor, procedurilor și măsurilor de protecție implementate la nivelul unor rețele și sisteme informatice, în vederea identificării disfuncționalităților și vulnerabilităților și furnizării unor soluții de remediere a acestora; e) Advanced Persistent Threat, denumită în continuare APT - astfel cum este definită în art. 2 lit. a) din Ordonanța de urgență a Guvernului nr. 89/2022 privind înființarea, administrarea și dezvoltarea infrastructurilor și serviciilor informatice de tip cloud utilizate de autoritățile și instituțiile publice; f) centru operațional de securitate - echipă de experți în securitate cibernetică, ce are rolul de a monitoriza, analiza și răspunde la incidentele de securitate cibernetică; g) criză cibernetică - astfel cum este definită în art. 2 lit. k) din Ordonanța de urgență a Guvernului nr. 104/2021 , aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare; h) cyber intelligence - activități de culegere, procesare, prelucrare analitică și valorificare a datelor și informațiilor privind acțiuni de natură a afecta interesele și obiectivele naționale de securitate pe linia tehnologiei informației și comunicațiilor, precum și identificarea, cunoașterea, prevenirea și contracararea oricăror acțiuni din spațiul cibernetic care pot constitui riscuri, vulnerabilități și/sau amenințări la adresa securității și apărării naționale a României; i) cyber counter-intelligence - totalitatea activităților, mijloacelor și măsurilor ofensive și defensive de identificare, descurajare, neutralizare și protecție împotriva activităților de informații privind acțiuni ostile de natură a afecta interesele și obiectivele naționale de securitate, desfășurate în spațiul cibernetic și în domeniul apărării; j) diplomație cibernetică - activitatea diplomatică prin intermediul căreia se realizează promovarea intereselor de politică externă și de securitate ale României în cadrul formatelor bilaterale și multilaterale de dialog și negociere pe teme cu relevanță pentru domeniul securității cibernetice la nivel național și internațional. Activitatea include promovarea unor obiective care derivă atât din necesitatea asigurării și consolidării securității cibernetice naționale, cât și din prioritățile de politică externă ale României; k) echipă de răspuns la incidente de securitate cibernetică - astfel cum este definită la art. 2 lit. a) din Ordonanța de urgență a Guvernului nr. 104/2021 , aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare; l) furnizor de servicii tehnice de securitate cibernetică - persoană fizică și/sau juridică care realizează, în vederea protejării rețelelor și sistemelor informatice, cel puțin una dintre următoarele activități: implementarea de măsuri de securitate cibernetică, evaluarea, monitorizarea și testarea măsurilor implementate, precum și managementul riscurilor, amenințărilor, vulnerabilităților și incidentelor de securitate cibernetică; m) igienă cibernetică - măsuri de rutină aplicate cu regularitate de către persoanele fizice și juridice, care au rolul de a reduce expunerea acestora la riscurile pe care le presupun amenințările cibernetice, conform Regulamentului (UE) 2019/881 al Parlamentului European și al Consiliului din 17 aprilie 2019 privind ENISA (Agenția Uniunii Europene pentru Securitate Cibernetică) și privind certificarea securității cibernetice pentru tehnologia informației și comunicațiilor și de abrogare a Regulamentului (UE) nr. 526/2013, denumit în continuare Regulamentul privind securitatea cibernetică; n) incident de securitate cibernetică - eveniment survenit în spațiul cibernetic care perturbă funcționarea uneia sau mai multor rețele și sisteme informatice și ale cărui consecințe sunt de natură a afecta securitatea cibernetică; o) lanț de aprovizionare - circuitul de la producător până la beneficiarul final, inclusiv proiectarea, dezvoltarea, producția, integrarea, implementarea, configurarea, utilizarea și casarea de produse și servicii software sau hardware, respectiv rețele și sisteme informatice; p) managementul incidentelor de securitate cibernetică - ansamblul proceselor ce prevăd detectarea, calificarea, raportarea, analiza și răspunsul la incidentele de securitate cibernetică; q) managementul riscurilor de securitate cibernetică - strategia organizațională și programatică ce presupune activități de evaluare și gestionare a riscurilor de securitate cibernetică; r) managementul riscurilor de securitate cibernetică specifice lanțului de aprovizionare - strategia organizațională și programatică ce presupune activități de evaluare și gestionare a riscurilor în cadrul proceselor din întreg ciclul de viață al bunului sau serviciului software sau hardware, respectiv al sistemului sau rețelei informatice, de la producător până la beneficiarul final, inclusiv proiectarea, dezvoltarea, producția, integrarea, implementarea, configurarea, utilizarea și casarea de produse și servicii software sau hardware, respectiv rețele și sisteme informatice; s) politici de securitate cibernetică - principii și reguli generale necesar a fi aplicate pentru asigurarea securității rețelelor și sistemelor informatice; t) produs de securitate cibernetică - astfel cum este definit la art. 2 lit. l) din Ordonanța de urgență a Guvernului nr. 104/2021 , aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare; u) rețele și sisteme informatice - astfel cum sunt definite la art. 3 lit. l) din Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice, cu modificările și completările ulterioare; v) rețele și sisteme informatice specifice apărării naționale - rețelele și sistemele informatice aparținând Ministerului Apărării Naționale, rețelele și sistemele informatice naționale care susțin activitățile militare ale Organizației Tratatului Atlanticului de Nord, denumită în continuare NATO, și Uniunii Europene, denumită în continuare UE, precum și rețelele și sistemele informatice de interes pentru apărarea națională date în responsabilitatea sau puse la dispoziția Ministerului Apărării Naționale în caz de agresiune armată, la instituirea stării de asediu, declararea stării de mobilizare sau a stării de război; w) reziliența în spațiul cibernetic - capacitatea unei rețele sau a unui sistem informatic de a rezista unui incident sau atac cibernetic și de a reveni la starea de normalitate de dinaintea incidentului sau atacului cibernetic; x) risc de securitate cibernetică - astfel cum este definit la art. 2 lit. r) din Ordonanța de urgență a Guvernului nr. 89/2022 ; y) securitate cibernetică - stare de normalitate rezultată în urma aplicării unui ansamblu de măsuri proactive și reactive prin care se asigură confidențialitatea, integritatea, disponibilitatea, autenticitatea și nonrepudierea informațiilor în format electronic ale resurselor și serviciilor publice sau private din spațiul cibernetic; z) spațiu cibernetic - mediul virtual generat de rețelele și sistemele informatice, incluzând conținutul informațional procesat, stocat sau transmis, precum și acțiunile derulate de utilizatori în acesta; aa) vulnerabilitate de securitate cibernetică - slăbiciune în proiectarea, implementarea, dezvoltarea, configurarea și mentenanța rețelelor și sistemelor informatice sau a măsurilor de securitate aferente, care poate fi exploatată de către o amenințare."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) În domeniul securității cibernetice, prezenta lege se aplică următoarelor: a) rețelele și sistemele informatice deținute, organizate, administrate, utilizate sau aflate în competența autorităților și instituțiilor publice din domeniul apărării, ordinii publice, securității naționale, justiției, situațiilor de urgență, Oficiului Registrului Național al Informațiilor Secrete de Stat; b) rețelele și sistemele informatice deținute de persoanele fizice și juridice de drept privat și utilizate în vederea furnizării de servicii de comunicații electronice către autoritățile și instituțiile administrației publice centrale și locale; c) rețelele și sistemele informatice deținute, organizate, administrate sau utilizate de autorități și instituții ale administrației publice centrale și locale, altele decât cele prevăzute la lit. a) , precum și de persoane fizice și juridice care furnizează servicii publice ori de interes public, altele decât cele de la lit. b) . (2) În domeniul apărării cibernetice, prezenta lege are ca obiect stabilirea cadrului general de reglementare pentru rețelele și sistemele informatice specifice apărării naționale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Obiectivele prezentei legi sunt: a) asigurarea rezilienței și protecției rețelelor și sistemelor informatice ce susțin funcțiile de apărare, securitate națională, ordine publică și guvernare; b) desemnarea autorităților competente și stabilirea cadrului legal de dezvoltare a capabilităților necesare îndeplinirii responsabilităților acestora în domeniile securității și apărării cibernetice; c) menținerea sau restabilirea climatului de securitate cibernetică la nivel național, prin cooperarea între autoritățile competente și asigurarea coordonării unitare de către Consiliul Operativ de Securitate Cibernetică, denumit în continuare COSC, a persoanelor juridice responsabile de securitatea cibernetică proprie și asigurarea unei reacții rapide și eficiente la amenințările provenite din spațiul cibernetic; d) stabilirea și separarea responsabilităților și/sau atribuțiilor funcționale între furnizorii de rețele, sisteme și servicii informatice, autoritățile de aplicare a legii, structurile din cadrul instituțiilor cu atribuții în domeniul securității și apărării cibernetice, astfel încât să se asigure un nivel ridicat de securitate cibernetică la nivel național; e) dezvoltarea și consolidarea unei culturi de securitate cibernetică la nivel național, prin conștientizarea vulnerabilităților, riscurilor și amenințărilor, respectiv formarea unei conduite proactive și preventive."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Asigurarea securității și apărării cibernetice se realizează conform următoarelor principii: a) principiul personalității - responsabilitatea asigurării securității cibernetice și/sau apărării cibernetice a unui sistem, a unei rețele și/sau a unui serviciu informatic revine persoanei fizice sau juridice care le deține în proprietate, le organizează, administrează și/sau utilizează, după caz; b) principiul protecției depline - persoana fizică sau juridică responsabilă de securitatea și/sau apărarea cibernetică a unui sistem, a unei rețele și/sau a unui serviciu informatic răspunde de managementul riscurilor asociate acestora și conexiunilor acestora cu alte sisteme, rețele și/sau servicii informatice terțe, precum și de implementarea măsurilor tehnice și organizaționale necesare protecției cibernetice; c) principiul minimizării efectelor - în cazul unui incident de securitate cibernetică, persoana fizică sau juridică responsabilă de securitatea și/sau apărarea cibernetică a sistemului, rețelei și/sau a serviciului informatic în cauză ia măsuri de evitare a amplificării efectelor și de extindere a acestora la alte sisteme, rețele și/sau servicii informatice din responsabilitatea proprie sau din responsabilitatea altor persoane fizice sau juridice; d) principiul colaborării, cooperării și coordonării - constă în realizarea, în mod conjugat de către persoanele fizice sau juridice responsabile, a tuturor activităților care să asigure securitatea și/sau apărarea sistemelor, rețelelor și serviciilor informatice care fac obiectul prezentei legi, precum și gestionarea incidentelor de securitate cibernetică, atenuarea efectelor și eliminarea situațiilor care au generat stările de alertă cibernetică instituite la nivel național."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul II - Sistemul național de securitate cibernetică",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) În scopul organizării și desfășurării în mod unitar la nivel național a activităților specifice securității cibernetice se înființează Sistemul național de securitate cibernetică, denumit în continuare SNSC, drept cadrul general de cooperare care reunește autoritățile prevăzute la art. 10 alin. (1) , precum și alte autorități și instituții publice cu responsabilități și capabilități în domeniile de aplicare a prezentei legi, în vederea coordonării acțiunilor la nivel național pentru asigurarea securității cibernetice. (2) În exercitarea competențelor, instituțiile și autoritățile publice prevăzute la alin. (1) cooperează cu sectorul privat, mediul academic, asociațiile profesionale și cu organizațiile neguvernamentale."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul II - Sistemul național de securitate cibernetică",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Activitățile SNSC sunt coordonate, la nivel strategic, de către Consiliul Suprem de Apărare a Țării, denumit în continuare CSAT. (2) Activitățile SNSC sunt coordonate unitar, la nivel operațional, de către COSC. (3) Serviciul Român de Informații, denumit în continuare SRI, asigură secretariatul tehnic al COSC, în condițiile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul II - Sistemul național de securitate cibernetică",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) COSC este un organ consultativ, fără personalitate juridică, în coordonarea CSAT, format din consilierul prezidențial pentru probleme de securitate națională, consilierul prim-ministrului pe probleme de securitate națională, secretarul CSAT, precum și reprezentanți ai: Ministerului Apărării Naționale, denumit în continuare MApN, Ministerului Afacerilor Interne, denumit în continuare MAI, Ministerului Afacerilor Externe, denumit în continuare MAE, Ministerului Cercetării, Inovării și Digitalizării, denumit în continuare MCID, SRI, Serviciului de Informații Externe, denumit în continuare SIE, Serviciului de Telecomunicații Speciale, denumit în continuare STS, Serviciului de Protecție și Pază, denumit în continuare SPP, Oficiului Registrului Național al Informațiilor Secrete de Stat, denumit în continuare ORNISS, Autorității Naționale pentru Administrare și Reglementare în Comunicații, denumit în continuare ANCOM, și ai Directoratului Național de Securitate Cibernetică, denumit în continuare DNSC. (2) COSC emite avize consultative și recomandări, adoptate prin consens, care se adresează autorităților prevăzute la alin. (1) , conform competențelor legale. (3) Conducerea COSC este asigurată de un președinte - consilierul prezidențial pentru probleme de securitate națională și un vicepreședinte - consilierul prim-ministrului pe probleme de securitate națională. (4) În funcție de natura și evoluția amenințărilor cibernetice sunt invitați să participe în cadrul ședințelor COSC, fără a avea drept de vot, și reprezentanți ai altor entități - autorități, instituții publice, persoane juridice de drept public sau privat - care pot contribui la soluționarea problemelor de securitate cibernetică. (5) Convocarea COSC se face de către președintele acestuia, la propunerea oricăruia dintre membrii prevăzuți la alin. (1) ."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul II - Sistemul național de securitate cibernetică",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) În exercitarea atribuțiilor sale, COSC analizează și evaluează securitatea cibernetică și înaintează CSAT sau DNSC, după caz, propuneri și informări privind: a) armonizarea reacției autorităților competente ale statului în situații generate de amenințări cibernetice, care necesită schimbarea nivelului de alertă cibernetică; b) solicitarea, în caz de necesitate, de asistență din partea altor state sau organizații și organisme internaționale; c) modalitatea de răspuns la solicitările de asistență adresate României din partea altor state sau organizații și organisme internaționale, altele decât cele din domeniul apărării naționale; d) planuri sau direcții de acțiune, în funcție de concluziile rezultate și evoluția climatului de securitate în spațiul cibernetic; e) direcții de dezvoltare și investiții în domeniul securității cibernetice; f) linii de mandat privind adoptarea oricăror documente la nivel internațional cu privire la securitatea cibernetică, care au impact în plan național; g) modalități de gestionare și răspuns la amenințări și atacuri cibernetice. (2) În exercitarea atribuțiilor sale, COSC informează CSAT cu privire la recomandările și avizele referitoare la instituirea sau modificarea nivelurilor de alertă cibernetică la nivel național. (3) Pentru realizarea securității cibernetice, COSC cooperează, după caz, cu organismele de coordonare sau de conducere constituite, la nivel național, pentru managementul situațiilor de urgență, acțiuni în situații de criză în domeniul ordinii publice, prevenirea și combaterea terorismului, securitate și apărare națională."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) Sunt autorități competente în sensul prezentei legi: a) DNSC, pentru spațiul cibernetic național civil, conform prevederilor prezentei legi și ale Ordonanței de urgență a Guvernului nr. 104/2021 , aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare; b) MCID, pentru elaborarea și inițierea actelor normative și politicilor publice naționale în domeniul securității cibernetice, al transformării digitale, societății informaționale, comunicațiilor, cercetării, dezvoltării și inovării; c) ANCOM, pentru coordonarea activităților desfășurate în vederea asigurării securității cibernetice a rețelelor și sistemelor informatice proprii și a celor prevăzute la art. 3 alin. (1) lit. b) ; d) MApN, MAI, MAE, SRI, SIE, STS, SPP și ORNISS, conform atribuțiilor prevăzute la art. 11-18 . (2) Autoritățile prevăzute la alin. (1) au următoarele obligații: a) să adopte planuri de acțiune corespunzătoare fiecărui nivel de alertă cibernetică; b) să acorde sprijin, în limita atribuțiilor, la solicitarea proprietarilor de rețele și sisteme informatice aflate în domeniul lor de competență, activitate sau responsabilitate, pentru implementarea măsurilor corespunzătoare nivelurilor de alertă cibernetică; c) să desfășoare activități de informare și comunicare publică, în limita atribuțiilor; d) să organizeze sesiuni de formare și instruire în domeniul securității cibernetice, în limita atribuțiilor; e) să organizeze sau să participe la exerciții naționale de securitate cibernetică; f) să comunice reciproc date de interes referitoare la securitatea cibernetică, inclusiv către celelalte autorități și instituții publice care dețin, organizează, administrează, utilizează sau au în competență rețele și sisteme informatice. (3) Autoritățile prevăzute la alin. (1) pot elabora strategii și norme proprii, prin acte administrative ale conducătorilor autorităților, pentru reglementarea activităților de securitate cibernetică, la nivel instituțional."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "MApN este autoritate competentă la nivel național în domeniul apărării cibernetice, iar în sensul prezentei legi are atribuții în domeniul securității cibernetice pentru rețelele și sistemele informatice care susțin capabilitățile militare de apărare."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "MAI, prin structura specializată, este autoritate competentă la nivel național în domeniul securității cibernetice pentru cunoașterea, prevenirea, identificarea și contracararea amenințărilor, vulnerabilităților și riscurilor cibernetice la adresa sistemelor informatice, rețelelor de comunicații și serviciilor electronice din domeniul de competență."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) MAE este autoritate competentă, la nivel național, în domeniul diplomației cibernetice, pentru asigurarea componenței diplomatice și de relații internaționale aferente securității cibernetice, și îndeplinește următoarele atribuții: a) asigură și coordonează reprezentarea intereselor României în cadrul formatelor internaționale de negociere și dialog politic la care România este parte și al căror obiect de activitate poate produce implicații în plan național și internațional din perspectiva regulilor, principiilor și normelor de utilizare a tehnologiilor de informații și telecomunicații și a parametrilor conduitei responsabile a statelor în spațiul cibernetic; b) sprijină și promovează colaborarea și coordonarea strategică, precum și dialogul României în domeniul securității și apărării cibernetice cu principalii parteneri internaționali, atât în plan bilateral, cât și în cadrul formatelor internaționale la care România este parte, precum și cu privire la deciziile de politică cu implicații naționale și internaționale privind spațiul cibernetic; c) promovează și contribuie la înțelegerea, însușirea și aplicarea la nivel național și internațional a principiilor, regulilor și normelor de comportament responsabil în spațiul cibernetic agreate la nivelul ONU, aplicarea dreptului internațional în materie și utilizarea setului de instrumente de diplomație cibernetică de la nivel UE; d) promovează interesele României în plan internațional într-o manieră conformă cadrului național de valori democratice și apartenenței României la Alianța Nord-Atlantică (NATO) și Uniunea Europeană (UE), prin susținerea și protejarea caracterului global, deschis, liber, stabil și sigur al spațiului cibernetic, a aplicabilității depline a dreptului internațional - inclusiv a dreptului internațional umanitar și a legislației internaționale privind drepturile omului - în acest spațiu, precum și a respectării depline a normelor de conduită responsabilă a statelor în spațiul cibernetic agreate în sistemul ONU, în vederea menținerii stabilității, prevenirii conflictelor și atenuării amenințărilor cibernetice. (2) MAE colaborează cu autoritățile membre COSC, în principal, în vederea: a) asigurării componenței diplomatice a securității cibernetice; b) promovării unitare a intereselor României și a unui mesaj coerent în acțiunea externă a României; c) participării în ecosistemul securității cibernetice la nivel internațional; d) asigurării răspunsului unitar și prompt în abordarea de politică externă a evoluțiilor și situațiilor nou-apărute din domeniul securității cibernetice care pot produce consecințe pentru securitatea și apărarea cibernetică."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) SRI este autoritate competentă la nivel național în domeniul cyber intelligence, precum și pentru cunoașterea, analizarea, prevenirea și contracararea incidentelor și atacurilor cibernetice care reprezintă amenințări, riscuri și vulnerabilități la adresa securității naționale a României. (2) Prevenirea și combaterea amenințărilor de tip APT la adresa rețelelor și sistemelor informatice din domeniul de competență, activitate sau responsabilitate, după caz, ale instituțiilor și autorităților prevăzute la art. 10 alin. (1) se realizează astfel: a) de către MApN în limita competențelor prevăzute la art. 11 ; b) de către MAI în limita competențelor prevăzute la art. 12 ; c) de către SIE în limita competențelor prevăzute la art. 15 ; d) de către STS în limita competențelor prevăzute la art. 16 ; e) de către SPP în limita competențelor prevăzute la art. 17 ; f) de către SRI, în toate celelalte cazuri. (3) În situația existenței unor amenințări cibernetice la adresa rețelelor și sistemelor informatice prevăzute la art. 3 alin. (1) lit. b) și c) , care ar aduce atingere securității naționale, SRI informează ANCOM și DNSC, în condițiile legii."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "SIE este autoritate competentă pentru cunoașterea, analizarea, prevenirea și contracararea incidentelor și atacurilor cibernetice care reprezintă amenințări, riscuri și vulnerabilități cibernetice la adresa rețelelor și sistemelor informatice din responsabilitate."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "STS este autoritate competentă în domeniul securității cibernetice pentru infrastructurile, rețelele, sistemele, serviciile proprii și spectrul de frecvențe radio proprii, precum și pentru cele reglementate prin legi speciale."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "SPP este autoritate competentă în domeniul securității cibernetice pentru infrastructurile, rețelele, sistemele și serviciile proprii, coordonează măsurile de securitate cibernetică pentru demnitarii cărora le asigură protecție și acționează, independent sau în cooperare cu celelalte structuri din domeniile apărării, ordinii publice și securității naționale, pentru implementarea acestora."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "ORNISS coordonează activitățile desfășurate în vederea asigurării securității cibernetice a rețelelor și sistemelor informatice care stochează, procesează sau transmit informații clasificate, conform atribuțiilor prevăzute în Ordonanța de urgență a Guvernului nr. 153/2002 privind organizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat, aprobată prin Legea nr. 101/2003 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul III - Autorități competente și responsabilități",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Autoritățile prevăzute la art. 10 constituie și operaționalizează structuri specializate în realizarea de audit de securitate cibernetică și structuri specializate de securitate cibernetică pentru gestionarea amenințărilor cibernetice la adresa rețelelor și sistemelor informatice din responsabilitate. (2) Structurile prevăzute la alin. (1) se înființează, se organizează și funcționează prin act administrativ al conducătorului autorităților prevăzute la art. 10 ."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul IV - Managementul incidentelor și reziliența în spațiul cibernetic | Secţiunea 1 - Managementul incidentelor de securitate cibernetică",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "(1) DNSC dezvoltă și asigură managementul Platformei naționale pentru raportarea incidentelor de securitate cibernetică, denumită în continuare PNRISC. (2) Autoritățile prevăzute la art. 10 au acces la PNRISC, pentru îndeplinirea responsabilităților care le revin. (3) Procesarea informațiilor din PNRISC se realizează cu respectarea politicilor de confidențialitate și transparență stabilite și implementate de DNSC."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul IV - Managementul incidentelor și reziliența în spațiul cibernetic | Secţiunea 1 - Managementul incidentelor de securitate cibernetică",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "(1) Persoanele prevăzute la art. 3 alin. (1) lit. b) și c) au obligația de a notifica incidentele de securitate cibernetică prin intermediul PNRISC de îndată, dar nu mai târziu de 48 de ore de la constatarea incidentului. (2) Dacă incidentele de securitate cibernetică nu pot fi comunicate complet în termenul prevăzut la alin. (1) , acestea se transmit în cel mult 5 zile calendaristice de la notificarea inițială, informațiile putând fi completate și ulterior cu cele care reies din investigațiile realizate pe baza evenimentului. (3) Fără a aduce atingere normelor aplicabile în materie de raportare, confidențialitate, secret profesional și protecția informațiilor clasificate, autoritățile care au în responsabilitate rețele și sisteme informatice prevăzute la art. 3 alin. (1) lit. a) notifică incidentele de securitate cibernetică prin intermediul PNRISC."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul IV - Managementul incidentelor și reziliența în spațiul cibernetic | Secţiunea 1 - Managementul incidentelor de securitate cibernetică",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Incidentele de securitate cibernetică sunt notificate în PNRISC în condițiile capitolului IV secțiunea a 2-a din Legea nr. 362/2018 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul IV - Managementul incidentelor și reziliența în spațiul cibernetic | Secţiunea 1 - Managementul incidentelor de securitate cibernetică",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "În domeniul managementului incidentelor de securitate cibernetică, autoritățile prevăzute la art. 10 alin. (1) lit. c) și d) au următoarele responsabilități: a) să colecteze notificările cu privire la incidente de securitate cibernetică din cadrul rețelelor și sistemelor informatice aflate în domeniul lor de competență, activitate sau responsabilitate; b) să evalueze datele și informațiile cu privire la incidentele și atacurile cibernetice la adresa rețelelor și sistemelor informatice aflate în domeniul lor de competență, activitate sau responsabilitate; c) să coordoneze managementul incidentelor de securitate cibernetică identificate în cadrul rețelelor și sistemelor informatice aflate în domeniul lor de competență, activitate sau responsabilitate; d) să acorde sprijin, la cerere, proprietarilor, administratorilor, posesorilor și/sau utilizatorilor de rețele și sisteme informatice aflate în domeniul lor de competență, activitate sau responsabilitate, pentru adoptarea de măsuri reactive de primă urgență pentru remedierea efectelor incidentelor de securitate cibernetică; e) să păstreze pe o perioadă de 5 ani datele referitoare la incidentele de securitate cibernetică și rezultatele măsurilor de contracarare a acestora, fără a colecta date de conținut."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul IV - Managementul incidentelor și reziliența în spațiul cibernetic | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "(1) Asigurarea rezilienței în spațiul cibernetic se realizează prin implementarea de măsuri proactive și reactive de către instituțiile și persoanele prevăzute la art. 3 . (2) Măsurile proactive sunt destinate prevenirii incidentelor de securitate cibernetică și descurajării autorilor atacurilor din spațiul cibernetic și includ: a) constituirea și antrenarea echipelor de răspuns la incidente de securitate cibernetică; b) asigurarea de resurse umane specializate pentru dezvoltarea de strategii, norme, politici, proceduri, analize de risc, planuri și măsuri de control tehnic privind apărarea și securitatea cibernetică; c) constituirea și operarea centrelor operaționale de securitate; d) constituirea unei rezerve de resurse și de capabilități întrunite de securitate cibernetică care să poată fi utilizate în caz de necesitate; e) dezvoltarea unor capabilități proactive, care să permită cunoașterea anticipativă a amenințărilor din spațiul cibernetic; f) finanțarea pentru dezvoltarea capabilităților de securitate și apărare cibernetică, inclusiv din perspectiva cercetării, dezvoltării, inovării și digitalizării în domeniu și asimilării tehnologiilor emergente; g) cooperarea și schimbul de informații între autoritățile competente și sectorul privat pentru identificarea amenințărilor cibernetice; h) identificarea serviciilor, rețelelor și sistemelor informatice, conform competențelor fiecărei instituții responsabile de administrare și asigurarea managementului acestora; i) implementarea de soluții de securitate cibernetică, care să crească capacitatea de detecție și capabilitățile de prevenție la atacuri cibernetice; j) dezvoltarea de strategii, norme, politici, proceduri, analize de risc, planuri și măsuri de control tehnic privind apărarea și securitatea cibernetică; k) demonstrarea nivelului de maturitate atins de capabilitățile de securitate cibernetică în cadrul exercițiilor organizate la nivel național sau internațional; l) instruirea personalului din cadrul persoanelor prevăzute la art. 3 în domeniul securității cibernetice, prin realizarea periodică de campanii de informare, conștientizare și igienă cibernetică la nivel organizațional. (3) Măsurile reactive sunt destinate reducerii efectelor atacurilor cibernetice și includ: a) punerea în aplicare a planurilor de răspuns la incidente și de contingență în domeniul securității cibernetice; b) utilizarea rezervei de resurse și de capabilități de securitate cibernetică; c) restabilirea funcționalității rețelelor și sistemelor informatice din cadrul instituțiilor afectate; d) diseminarea informațiilor despre evenimentele cibernetice prin alerte în mediul interinstituțional pentru evaluarea riscului și diminuarea posibilităților de exploatare a vulnerabilităților; e) descurajarea prin atribuirea publică a autorilor atacurilor cibernetice, conform atribuțiilor legale."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul IV - Managementul incidentelor și reziliența în spațiul cibernetic | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "(1) Furnizorii de servicii tehnice de securitate cibernetică au obligația de a pune la dispoziția autorităților prevăzute la art. 10 , la cererea motivată a acestora, în termen de maximum 48 de ore de la data primirii solicitării, date și informații privind incidente, respectiv, în maximum 5 zile de la data primirii solicitării, cu privire la amenințări, riscuri sau vulnerabilități a căror manifestare poate afecta o rețea sau un sistem informatic dintre cele prevăzute la art. 3 alin. (1) , precum și interconectarea acestora cu terții și cu utilizatorii finali. (2) Datele și informațiile prevăzute la alin. (1) nu vizează, prin scopul solicitării, date cu caracter personal și date de conținut. (3) Datele și informațiile prevăzute la alin. (1) se transmit în scris, prin mijloace electronice sau prin orice altă modalitate stabilită de comun acord, în formatul și structura conforme raportării de incidente cibernetice în PNRISC, prevăzute la art. 22 ."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul IV - Managementul incidentelor și reziliența în spațiul cibernetic | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Pentru creșterea nivelului de reziliență cibernetică și realizarea descurajării în spațiul cibernetic la nivel național, DNSC și instituțiile din domeniile apărării, ordinii publice și securității naționale iau măsuri pentru: a) realizarea unui cadru interinstituțional de securitate cibernetică care să permită instruirea comună, transferul de cunoștințe, schimbul de informații, sprijinul de specialitate și federalizarea de resurse și capabilități de securitate cibernetică; b) îmbunătățirea și extinderea capabilităților de protecție și detecție automată a atacurilor, prin implementarea de instrumente de analiză inteligentă a amenințărilor și distribuirea oportună a indicatorilor și avertizărilor privind iminența unor atacuri cibernetice asupra rețelelor și sistemelor informatice naționale; c) elaborarea de manuale cu tehnici, tactici și proceduri, precum și a planurilor de contingență și exersarea lor în cadrul exercițiilor de securitate cibernetică în scopul întăririi rezilienței în spațiul cibernetic; d) constituirea de echipe de intervenție la incidente de securitate cibernetică de tip computer security incident response team, denumit în continuare CSIRT, echipe de protecție cibernetică și/sau alte forțe specializate în desfășurarea de acțiuni în spațiul cibernetic."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul V - Sistemul Național de Alertă Cibernetică | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "(1) Sistemul Național de Alertă Cibernetică, denumit în continuare SNAC, constă într-un ansamblu de măsuri tehnice și procedurale destinate prevenirii, descurajării și combaterii acțiunilor sau inacțiunilor ce se pot constitui în vulnerabilități, riscuri sau amenințări la adresa securității cibernetice a României. (2) SNAC asigură un serviciu de notificare publică privind nivelul de alertă cibernetică existent la nivel național, pentru o zonă geografică delimitată sau pentru un anumit domeniu de activitate, stabilit în funcție de gradul de risc asociat amenințărilor incidentelor sau atacurilor cibernetice identificate la un anumit moment."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul V - Sistemul Național de Alertă Cibernetică | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "(1) Nivelurile de alertă cibernetică și modalitățile de acțiune în situații de alertă cibernetică se stabilesc printr-o metodologie elaborată de DNSC, avizată conform de COSC și aprobată prin ordin al directorului DNSC. (2) Instituirea nivelurilor de alertă, precum și trecerea de la un nivel la altul se decid de către directorul DNSC, cu avizul consultativ și prealabil sau la propunerea COSC, după caz. (3) Trecerea de la un nivel de alertă cibernetică superior la unul inferior se face după încetarea cauzelor care au generat ridicarea nivelului de alertă."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul V - Sistemul Național de Alertă Cibernetică | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "(1) Persoanele prevăzute la art. 3 au obligația să elaboreze planuri proprii de acțiune pentru fiecare tip de alertă cibernetică, potrivit metodologiei prevăzute la art. 28 alin. (1) . (2) La declararea stărilor de alertă cibernetică, persoanele prevăzute la art. 3 pun în aplicare măsurile din planurile prevăzute la alin. (1) ."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul VI - Apărarea cibernetică | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "(1) În domeniul apărării cibernetice, MApN are următoarele atribuții: a) apără și protejează sistemele și rețelele informatice aparținând MApN; b) planifică și conduce operații în spațiul cibernetic prin Centrul Național Militar de Comandă, potrivit legii; c) planifică și execută operații defensive în spațiul cibernetic, pe timp de pace, prin Comandamentul Apărării Cibernetice; d) dezvoltă și implementează capabilități militare de execuție a operațiilor în spațiul cibernetic prin Comandamentul Apărării Cibernetice; e) desfășoară operații de cyber intelligence și cyber counter-intelligence în spațiul cibernetic în scopul cunoașterii, monitorizării și contracarării amenințărilor la adresa apărării naționale, la adresa structurilor MApN și a forțelor aliate; f) dezvoltă capabilități de răspuns ofensiv, în mod individual sau ca parte dintr-o coaliție ori alianță, utilizabile în caz de atacuri cibernetice care contravin dreptului internațional; g) participă la activități de descurajare în spațiul cibernetic; h) asigură punctul unic de contact în relația cu NATO pentru operațiuni militare în spațiul cibernetic; i) elaborează și implementează politici și standarde în domeniul apărării cibernetice, în acord cu interesul național, precum și cu standardele și cerințele ce decurg din aderarea României la NATO, UE și Organizația pentru Cooperare și Dezvoltare Economică. (2) MApN cooperează cu celelalte structuri din cadrul sistemului național de apărare, ordine publică și securitate națională pentru asigurarea apărării cibernetice a rețelelor și sistemelor informatice din domeniul lor de competență, activitate sau responsabilitate. (3) Activitățile de apărare cibernetică și operațiunile în spațiul cibernetic, dezvoltarea de capabilități de răspuns ofensiv și activitățile de descurajare în spațiul cibernetic prevăzute la alin. (1) se organizează, planifică și desfășoară cu respectarea dreptului internațional, inclusiv a dreptului internațional umanitar, a normelor de conduită responsabilă a statelor în spațiul cibernetic agreate în sistemul ONU, precum și a celorlalte tratate la care România este parte."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul VI - Apărarea cibernetică | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "MApN stabilește, prin hotărâre a Guvernului, condițiile concrete de recrutare/selecție, modalitățile de formare și instruire periodică, măsurile de stimulare ale persoanelor juridice de drept privat, precum și condițiile necesare constituirii și utilizării rezervei de specialiști în domeniul apărării cibernetice."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul VII - Cercetare, dezvoltare și inovare în domeniul securității cibernetice | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "(1) Cercetarea, dezvoltarea și inovarea în domeniul securității cibernetice sunt parte integrantă a sistemului național de cercetare, dezvoltare și inovare și se aliniază măsurilor promovate de MCID pentru încadrarea spațiului românesc al cercetării în Spațiul European al Cercetării. (2) MCID elaborează un program multianual de finanțare a proiectelor de cercetare, dezvoltare și inovare în domeniul securității cibernetice, la care pot participa organizații de cercetare publice și private, precum și autorități și instituții publice cu atribuții în domeniul securității cibernetice. (3) Prin derogare de la prevederile art. 30 alin. (2) din Legea responsabilității fiscal-bugetare nr. 69/2010 , republicată, cu modificările și completările ulterioare, bugetul anual alocat programului prevăzut la alin. (2) este de minimum 10% din bugetul alocat programelor de cercetare finanțate de MCID pentru anul respectiv. (4) Finanțarea pentru programul prevăzut la alin. (2) se realizează pe criterii transparente și competitive, potrivit unei metodologii de concurs adoptate prin ordin al ministrului cercetării, inovării și digitalizării, publicat în Monitorul Oficial al României, Partea I."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul VII - Cercetare, dezvoltare și inovare în domeniul securității cibernetice | Secţiunea a 2-a - Reziliența în spațiul cibernetic",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "(1) Autoritățile prevăzute la art. 10 dezvoltă strategii și politici proprii privind cercetarea, dezvoltarea și inovarea în domeniile securității și apărării cibernetice, în funcție de potențialul științific avut la dispoziție, de competențele sau de misiunile specifice. (2) La nivelul fiecărei autorități prevăzute la art. 10 se desemnează de către conducătorul instituției entitatea responsabilă pentru managementul activităților de cercetare, dezvoltare și inovare în domeniile securității și apărării cibernetice. (3) Autoritățile prevăzute la art. 10 cooperează cu mediul academic, industria de profil și Centrul european de competențe în domeniul industrial, tehnologic și de cercetare în materie de securitate cibernetică, precum și cu Rețeaua de centre naționale de coordonare, pentru implementarea următoarelor linii de efort în domeniul cercetării, dezvoltării, inovării și digitalizării: a) menținerea unei poziții avansate în rândul instituțiilor ce investesc și valorifică rezultatele activităților de cercetare, dezvoltare și inovare desfășurate în domeniul securității cibernetice; b) dezvoltarea și menținerea de parteneriate eficiente în domeniul cercetării, dezvoltării, inovării și digitalizării; c) promovarea de noi tehnologii, de prototipuri și demonstratoare tehnologice în domeniile securității și apărării cibernetice; d) dezvoltarea rețelelor de experți în domeniu la nivel național și interinstituțional."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul VIII - Cooperare în domeniul securității și apărării cibernetice | Secţiunea 1 - La nivel național",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "(1) Cooperarea în domeniul securității și apărării cibernetice, la nivel național, are următoarele obiective: a) realizarea unui răspuns dinamic și eficient la incidentele de securitate cibernetică; b) valorificarea experienței și bunelor practici în domeniile securității și apărării cibernetice; c) implementarea unui mediu deschis, transparent, colaborativ și de încredere între instituțiile cu responsabilități în domeniile securității și apărării cibernetice la nivel național; d) acceptarea și promovarea standardelor de securitate cibernetică în parteneriat cu industria națională de profil; e) dezvoltarea și implementarea de soluții de securitate cibernetică de către toate autoritățile și instituțiile publice; f) dezvoltarea unei culturi de securitate cibernetică și implementarea bunelor practici de igienă cibernetică la nivel național; g) asigurarea comunicării publice coordonate și unitare, atunci când situația o impune, în cadrul situațiilor de alertă cibernetică, atacuri cibernetice cu impact semnificativ sau a amenințărilor nou-apărute din spațiul cibernetic; h) conștientizarea situațională și comunicarea către public a măsurilor recomandate spre implementare, în vederea facilitării managementului situațiilor de criză cibernetică. (2) Activitățile de cooperare la nivel național includ cel puțin următoarele: a) dezvoltare de capabilități de securitate și apărare cibernetică; b) raportarea de incidente cibernetice și cooperarea în situații de alertă cibernetică; c) programe de cercetare, dezvoltare, inovare și digitalizare; d) cursuri de formare profesională sau de specializare; e) exerciții de securitate cibernetică; f) conferințe și alte manifestări științifice."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul VIII - Cooperare în domeniul securității și apărării cibernetice | Secţiunea a 2-a - La nivel internațional",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Cooperarea internațională în domeniile securității și apărării cibernetice are următoarele obiective: a) informarea reciprocă privind amenințările din spațiul cibernetic; b) creșterea capacității de reacție la amenințările cibernetice și formarea coeziunii de acțiune a echipelor specializate, în cadrul exercițiilor multinaționale de securitate și apărare cibernetică; c) verificarea și validarea nivelului de maturitate atins de capabilitățile de securitate și apărare cibernetică implementate la nivel național;- d) realizarea interoperabilității tehnice și procedurale a forțelor de apărare cibernetică; e) dezvoltarea și exersarea mecanismelor de avertizare și schimb de informații privind amenințările de natură cibernetică, precum și ale celor de descurajare; f) dezvoltarea de proiecte comune de cercetare, dezvoltare și inovare în domeniile securității și apărării cibernetice; g) evaluarea și implementarea de soluții revoluționare de securitate cibernetică, precum și adoptarea de concepte noi de proiectare și utilizare a tehnologiilor emergente în spațiul cibernetic; h) creșterea contribuției naționale la activități de transfer de cunoștințe, de creștere a încrederii și de dezvoltare a capacității în domeniul securității și apărării cibernetice; i) reprezentarea intereselor României în cadrul formatelor internaționale de negociere și dialog al căror obiect de activitate poate produce implicații în plan național și internațional din perspectiva regulilor, principiilor și normelor de utilizare a tehnologiilor de informații și telecomunicații și a parametrilor conduitei responsabile a statelor în spațiul cibernetic, precum și în acțiunile comune cu partenerii strategici și de la nivelul NATO și UE în aplicarea instrumentelor diplomației cibernetice pentru descurajarea atacurilor, amenințărilor, riscurilor și vulnerabilităților cibernetice la nivel internațional."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul VIII - Cooperare în domeniul securității și apărării cibernetice | Secţiunea a 2-a - La nivel internațional",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "(1) Autoritățile prevăzute la art. 10 cooperează cu autoritățile și instituțiile din statele membre, cu organismele, agențiile și instituțiile UE și ale NATO cu atribuții în domeniul securității și apărării cibernetice, inclusiv cu autorități și instituții din alte state partenere, conform domeniilor de competență. (2) Cooperarea în domeniul apărării cibernetice cu instituțiile NATO, cu armatele țărilor membre UE și ale statelor aliate se realizează prin MApN. (3) Pentru asigurarea coordonării și a dialogului interinstituțional în vederea asigurării unei reprezentări adecvate și a unui mesaj coerent în acțiunea externă a României, precum și pentru realizarea atribuțiilor prevăzute la art. 13 , activitățile prevăzute la alin. (1) se realizează în cooperare cu MAE."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul IX - Formarea profesională, educația, instruirea | Secţiunea a 2-a - La nivel internațional",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Persoanele prevăzute la art. 3 au obligația de a asigura, pentru personalul propriu, formarea profesională, educația și instruirea în domeniul securității și apărării cibernetice prin cursuri, exerciții, conferințe, seminarii, precum și alte tipuri de activități."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul IX - Formarea profesională, educația, instruirea | Secţiunea a 2-a - La nivel internațional",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "(1) Autoritățile și instituțiile din domeniile apărării, ordinii publice și securității naționale pot organiza, la nivel instituțional sau interinstituțional, exerciții de securitate și apărare cibernetică. (2) Autoritățile și instituțiile prevăzute la alin. (1) elaborează și adoptă un plan anual și multianual de exerciții de securitate și apărare cibernetică."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul IX - Formarea profesională, educația, instruirea | Secţiunea a 2-a - La nivel internațional",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "(1) Autoritățile și instituțiile din domeniile apărării, ordinii publice și securității naționale participă la exerciții de securitate și apărare cibernetică organizate la nivel internațional, respectiv la nivelul UE și NATO. (2) Participarea la exercițiile de apărare cibernetică organizate în cadrul NATO se realizează sub coordonarea MApN."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul IX - Formarea profesională, educația, instruirea | Secţiunea a 2-a - La nivel internațional",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "DNSC și autoritățile și instituțiile din domeniile apărării, ordinii publice și securității naționale au următoarele atribuții: a) asigură informarea și pregătirea, la nivel național, a populației, precum și a tuturor persoanelor fizice și juridice care acționează în spațiul cibernetic național, inclusiv a operatorilor economici din sectoarele stabilite potrivit dispozițiilor Legii nr. 362/2018 , cu modificările și completările ulterioare, și din sectorul public cu privire la riscurile, amenințările și vulnerabilitățile de securitate cibernetică identificate; b) promovează dezvoltarea unui comportament responsabil în spațiul cibernetic pentru persoanele fizice și juridice prin conștientizarea efectelor atacurilor cibernetice și a modalității de semnalare a acestora; c) emit informări privind obligațiile care derivă din calitatea de proprietar, administrator, organizator, furnizor sau utilizator al rețelelor și sistemelor informatice, privind atitudinea în fața unor posibile atacuri cibernetice, privind conștientizarea cetățenilor și instituțiilor publice și private, despre necesitatea semnalării/notificării atacurilor cibernetice; d) dezvoltă cadrul național de conștientizare a populației în cooperare cu mediul public, privat și academic, în scopul pregătirii populației privind modalitățile de comportament, reacție și apărare în mediul online; e) desfășoară și participă la campanii/acțiuni de prevenire și conștientizare a cauzelor și consecințelor atacurilor cibernetice asupra rețelelor și sistemelor informatice civile, la nivel internațional, național și regional."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul X - Securitatea lanțului de aprovizionare | Secţiunea a 2-a - La nivel internațional",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "(1) Persoanele prevăzute la art. 3 implementează procesele de management al riscurilor de securitate cibernetică specifice lanțului de aprovizionare, în conformitate cu prevederile art. 52 alin. (1) . (2) Riscurile lanțului de aprovizionare includ cel puțin următoarele: a) livrarea de soluții informatice false sau contrafăcute; b) producție neautorizată; c) manipulare frauduloasă a produselor și serviciilor software și hardware, respectiv a sistemelor și rețelelor informatice; d) inserarea de componente software și hardware false sau contrafăcute; e) servicii software și hardware periculoase pentru funcționare; f) spionaj cibernetic; g) compromiteri neintenționate ale sistemelor și rețelelor informatice; h) practici deficitare de fabricație și dezvoltare de produse software și hardware."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul X - Securitatea lanțului de aprovizionare | Secţiunea a 2-a - La nivel internațional",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "Persoanele prevăzute la art. 3 desemnează responsabili de securitate cibernetică, în conformitate cu prevederile art. 52 alin. (1) , pentru: a) stabilirea politicilor, strategiilor și proceselor de management al riscurilor de securitate cibernetică specifice lanțului de aprovizionare; b) includerea în conținutul politicilor, strategiilor și proceselor existente a cerințelor noi și emergente privind managementul riscurilor cibernetice specifice lanțului de aprovizionare; c) stabilirea standardelor de management al riscurilor de securitate cibernetică obligatorii pentru autoritățile contractante în cadrul procedurilor de achiziții; d) stabilirea măsurilor de stimulare a potențialilor furnizori în cadrul proceselor de achiziții, raportat la nivelul de implementare a practicilor de securitate cibernetică ale acestora; e) stabilirea metodologiilor și aplicațiilor folosite în evaluarea riscurilor de securitate cibernetică, specifice lanțului de aprovizionare; f) schimbul de informații cu celelalte instituții referitoare la amenințările, riscurile și vulnerabilitățile de natură cibernetică specifice lanțului de aprovizionare; g) elaborarea metodologiei de evaluare a nivelului de maturitate și a capacității operatorilor de pe lanțurile de aprovizionare de a realiza managementul riscurilor de securitate cibernetică; h) colectarea și actualizarea datelor referitoare la eficiența furnizorilor în eliminarea sau diminuarea riscurilor de securitate cibernetică."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul X - Securitatea lanțului de aprovizionare | Secţiunea a 2-a - La nivel internațional",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "Persoanele prevăzute la art. 3 dispun măsurile necesare pentru organizarea de cursuri de instruire în domeniul managementului riscurilor de securitate cibernetică specifice lanțului de aprovizionare, respectiv introducerea de teme noi în cadrul cursurilor și programelor de instruire existente."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul X - Securitatea lanțului de aprovizionare | Secţiunea a 2-a - La nivel internațional",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Persoanele prevăzute la art. 3 pot dezvolta capabilități avansate de testare și evaluare a riscurilor de securitate cibernetică în scopul identificării vulnerabilităților cibernetice ale echipamentelor, produselor software sau pieselor componente achiziționate sau dezvoltate la nivel instituțional."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul XI - Confidențialitatea și protecția securității datelor și informațiilor persoanelor fizice și juridice | Secţiunea a 2-a - La nivel internațional",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "(1) Autoritățile prevăzute la art. 10 care solicită și primesc date și informații de la orice persoană fizică și juridică în temeiul prezentei legi iau măsuri adecvate pentru a proteja interesele de securitate și comerciale ale acestora, ale persoanelor care furnizează datele și informațiile respective, precum și ale persoanelor la care se referă datele și informațiile respective. (2) Transmiterea de date și informații obținute potrivit prezentei legi de la orice persoană fizică și juridică de drept privat poate fi efectuată numai pentru îndeplinirea atribuțiilor legale ale autorităților și instituțiilor care obțin aceste date și informații, cu garantarea păstrării confidențialității datelor cu caracter personal și a protecției intereselor și secretelor comerciale ale persoanelor fizice și juridice de drept privat."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul XI - Confidențialitatea și protecția securității datelor și informațiilor persoanelor fizice și juridice | Secţiunea a 2-a - La nivel internațional",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "(1) Prelucrările de date cu caracter personal ce intră sub incidența prezentei legi se efectuează cu respectarea reglementărilor legale privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal. (2) Notificările realizate în temeiul prezentei legi nu afectează obligațiile operatorilor de date cu caracter personal stabilite potrivit art. 33 și 34 din Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor). (3) În scopul îndeplinirii atribuțiilor ori furnizării serviciilor prevăzute de prezenta lege, precum și în scopul prevenirii și răspunsului la incidentele de securitate cibernetică ori al cooperării la nivel național, comunitar și internațional în prevenirea și răspunsul la incidentele de securitate cibernetică, autoritățile prevăzute la art. 10 colectează, primesc, prelucrează și transmit date și informații ce pot constitui sau pot conține date cu caracter personal, în limitele legislației aplicabile, cu asigurarea respectării prevederilor alin. (2) ."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul XI - Confidențialitatea și protecția securității datelor și informațiilor persoanelor fizice și juridice | Secţiunea a 2-a - La nivel internațional",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "(1) Prezenta lege nu afectează legislația națională privind protecția datelor cu caracter personal, în special Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice, cu modificările și completările ulterioare, Directiva 2002/58/CE a Parlamentului European și a Consiliului din 12 iulie 2002 privind prelucrarea datelor personale și protejarea confidențialității în sectorul comunicațiilor publice (Directiva asupra confidențialității și comunicațiilor electronice), cu modificările și completările ulterioare, și Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016, Legea nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), cu modificările ulterioare. (2) Prezenta lege respectă drepturile fundamentale și principiile recunoscute în special de Carta drepturilor fundamentale a Uniunii Europene, inclusiv dreptul la respectarea vieții private și de familie, dreptul la protecția datelor cu caracter personal, dreptul la proprietate și integrarea persoanelor cu dizabilități, astfel încât nicio prevedere din prezenta lege nu trebuie să facă obiectul unei interpretări sau puneri în aplicare care nu este conformă cu Convenția pentru apărarea drepturilor omului și a libertăților fundamentale a Consiliului Europei."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul XII - Contravenții și sancțiuni | Secţiunea a 2-a - La nivel internațional",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "(1) Următoarele fapte constituie contravenții dacă nu au fost săvârșite în astfel de condiții încât să fie considerate infracțiuni potrivit legii: a) nerespectarea de către persoanele prevăzute la art. 3 alin. (1) lit. b) și c) a obligației de notificare a incidentelor de securitate cibernetică, prin intermediul PNRISC, în termenul prevăzut la art. 21 alin. (1) ; b) nerespectarea de către persoanele prevăzute la art. 3 alin. (1) lit. b) și c) a obligației de comunicare completă a incidentelor de securitate cibernetică, prin intermediul PNRISC, în termenul și condițiile prevăzute la art. 21 alin. (2) și art. 22 ; c) nerespectarea de către furnizorii de servicii de securitate cibernetică a obligației de a pune la dispoziția autorităților prevăzute la art. 10 date și informații privind incidente, amenințări, riscuri sau vulnerabilități a căror manifestare poate afecta o rețea sau sistem informatic al deținătorului sau al unor terți, în condițiile și la termenul prevăzut la art. 25 alin. (1) . (2) Prin derogare de la dispozițiile art. 8 alin. (2) lit. a) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, contravențiile prevăzute la alin. (1) se sancționează astfel: a) cu amendă de la 5.000 lei la 50.000 lei, iar în cazul săvârșirii unei noi contravenții în termen de 6 luni, de la data săvârșirii primei contravenții, limita maximă a amenzii este de 200.000 lei; b) pentru operatorii economici cu o cifră de afaceri netă de peste 1.000.000 lei, cu amendă în cuantum de până la 1% din cifra de afaceri netă, iar, în cazul săvârșirii unei noi contravenții, în termen de 6 luni, de la data săvârșirii primei contravenții, limita maximă a amenzii este de 3% din cifra de afaceri netă. (3) Cifra de afaceri netă prevăzută la alin. (2) lit. b) este cea înregistrată de operatorul economic în ultimul exercițiu financiar. (4) În vederea individualizării sancțiunii prevăzute la alin. (2) , agentul de constatare și aplicare a contravenției ia în considerare gradul de pericol social concret al faptei și perioada de timp în care obligația legală a fost încălcată. (5) Pentru persoanele fizice autorizate, întreprinderile individuale și întreprinderile familiale, cifrei de afaceri prevăzute la alin. (2) lit. b) îi corespunde totalitatea veniturilor realizate de respectivii operatori economici în exercițiul financiar anterior sancționării. (6) Pentru persoanele juridice nou-înființate și pentru persoanele juridice care nu au înregistrat cifra de afaceri în exercițiul financiar anterior sancționării, amenda prevăzută la alin. (2) se stabilește în cuantum de minimum unu și maximum 25 de salarii minime brute pe economie. (7) În măsura în care prezenta lege nu prevede altfel, contravențiilor prevăzute la alin. (1) li se aplică dispozițiile Ordonanței Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul XII - Contravenții și sancțiuni | Secţiunea a 2-a - La nivel internațional",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "(1) Constatarea contravențiilor prevăzute la art. 48 alin. (1) lit. a) și b) se realizează de către personalul de control din cadrul DNSC, iar aplicarea sancțiunii corespunzătoare se face prin decizia directorului DNSC. (2) Constatarea contravențiilor prevăzute la art. 48 alin. (1) lit. c) se realizează de către personalul de control anume desemnat din cadrul autorităților prevăzute la art. 10 , corespunzător autorității care a formulat cererea de punere la dispoziție a informațiilor și datelor, iar aplicarea sancțiunii corespunzătoare se face prin act administrativ al personalului de control anume desemnat și delegat de conducătorul autorității. (3) Actele administrative prevăzute la alin. (1) și (2) trebuie să cuprindă următoarele elemente: a) datele de identificare ale contravenientului; b) data săvârșirii faptei; c) descrierea faptei contravenționale și a împrejurărilor care au fost avute în vedere la individualizarea sancțiunii; d) indicarea temeiului legal potrivit căruia se stabilește și se sancționează contravenția; e) sancțiunea aplicată; f) termenul și modalitatea de plată a amenzii; g) termenul de exercitare a căii de atac și instanța de judecată competentă. (4) Prin derogare de la prevederile art. 13 din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, aplicarea sancțiunii prevăzute la art. 48 alin. (2) se prescrie în termen de un an de la data săvârșirii faptei. În cazul încălcărilor care durează în timp sau al celor constând în săvârșirea, în baza aceleiași rezoluții, la intervale diferite de timp, a mai multor acțiuni sau inacțiuni, care prezintă, fiecare în parte, conținutul aceleiași contravenții, prescripția începe să curgă de la data constatării sau de la data încetării ultimului act ori fapt săvârșit, dacă acest moment intervine anterior constatării. (5) Prin derogare de la dispozițiile art. 25 alin. (2) din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, actul administrativ prevăzut la alin. (1) sau (2) se comunică contravenientului în termen de 15 zile de la data emiterii acestuia. (6) Odată cu actul administrativ prevăzut la alin. (1) sau (2) , contravenientului i se comunică și înștiințarea de plată, care conține mențiunea privind obligativitatea achitării amenzii în termen de 30 de zile de la data comunicării actului. (7) Actul administrativ prevăzut la alin. (1) sau (2), neatacat în termenul prevăzut la alin. (9) , precum și hotărârea judecătorească definitivă prin care s-a soluționat acțiunea în contencios administrativ constituie titlu executoriu, fără vreo altă formalitate. Acțiunea în contencios administrativ în condițiile prevăzute la alin. (9) suspendă executarea numai în ceea ce privește achitarea amenzii, până la pronunțarea de către instanța de judecată a unei hotărâri definitive. (8) Sumele provenite din amenzile aplicate în conformitate cu dispozițiile prezentului articol se fac venit integral la bugetul de stat. Executarea se realizează în conformitate cu dispozițiile legale privind executarea silită a creanțelor fiscale. În vederea punerii în executare a sancțiunii, DNSC și autoritățile prevăzute la art. 10 comunică din oficiu organelor de specialitate ale Agenției Naționale de Administrare Fiscală actul administrativ prevăzut la alin. (1) sau (2), neatacat în termenul prevăzut la alin. (9) , după expirarea termenului prevăzut în înștiințarea de plată sau după rămânerea definitivă a hotărârii judecătorești prin care s-a soluționat acțiunea în contencios administrativ. (9) Prin derogare de la dispozițiile art. 7 din Legea contenciosului administrativ nr. 554/2004 , cu modificările și completările ulterioare, și de la dispozițiile art. 32 alin. (1) din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, actele administrative și deciziile adoptate potrivit dispozițiilor prezentei legi pot fi atacate în contencios administrativ la Curtea de Apel București, fără parcurgerea procedurii prealabile, în termen de 30 de zile de la comunicarea acestora. (10) Prin derogare de la dispozițiile art. 14 alin. (1) din Ordonanța Guvernului nr. 2/2001 , aprobată cu modificări și completări prin Legea nr. 180/2002 , cu modificările și completările ulterioare, executarea sancțiunilor contravenționale aplicate se prescrie dacă actul administrativ prevăzut la alin. (1) sau (2) nu a fost comunicat contravenientului în termen de 15 zile de la data aplicării sancțiunii."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Capitolul XIII - Dispoziții privind completarea art. 3 din Legea nr. 51/1991 privind securitatea națională a României, republicată, cu modificările și completările ulterioare, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență, aprobată cu modificări și completări prin Legea nr. 453/2004, cu modificările și completările ulterioare | Secţiunea a 2-a - La nivel internațional",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "La articolul 3 din Legea nr. 51/1991 privind securitatea națională a României, republicată în Monitorul Oficial al României, Partea I, nr. 190 din 18 martie 2014, cu modificările și completările ulterioare, după litera m) se introduc trei noi litere, literele n)-p), cu următorul cuprins: n) amenințări cibernetice sau atacuri cibernetice asupra infrastructurilor informatice și de comunicații de interes național; o) acțiuni, inacțiuni sau stări de fapt cu consecințe la nivel național, regional sau global care afectează reziliența statului în raport cu riscurile și amenințările de tip hibrid; p) acțiuni derulate de către o entitate statală sau nonstatală, prin realizarea, în spațiul cibernetic, a unor campanii de propagandă sau dezinformare, de natură a afecta ordinea constituțională."
+    },
+    {
+      "provision_ref": "Art.51",
+      "chapter": "Capitolul XIII - Dispoziții privind completarea art. 3 din Legea nr. 51/1991 privind securitatea națională a României, republicată, cu modificările și completările ulterioare, precum și pentru modificarea Ordonanței de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență, aprobată cu modificări și completări prin Legea nr. 453/2004, cu modificările și completările ulterioare | Secţiunea a 2-a - La nivel internațional",
+      "section": "51",
+      "title": "Articolul 51",
+      "content": "Ordonanța de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență, publicată în Monitorul Oficial al României, Partea I, nr. 22 din 21 ianuarie 1999, aprobată cu modificări și completări prin Legea nr. 453/2004, cu modificările și completările ulterioare, se modifică după cum urmează: 1. Articolul 2 va avea următorul cuprins: Articolul 2 Starea de asediu reprezintă ansamblul de măsuri excepționale de natură politică, militară, economică, socială și de altă natură aplicabile pe întreg teritoriul țării ori în unele unități administrativ-teritoriale, instituite pentru adaptarea capacității de apărare a țării, inclusiv apărarea cibernetică, la pericole grave, actuale sau iminente, care amenință suveranitatea, independența, unitatea ori integritatea teritorială a statului. În cazul instituirii stării de asediu se pot lua măsuri excepționale aplicabile pe întreg teritoriul țării ori în unele unități administrativ-teritoriale. 2. La articolul 3, litera a) va avea următorul cuprins: a) existența unor pericole grave actuale sau iminente privind securitatea națională a României, inclusiv securitatea cibernetică pentru rațiuni de securitate națională, ori funcționarea democrației constituționale; 3. Articolul 23 va avea următorul cuprins: Articolul 23 (1) Ordonanțele militare se emit în limitele stabilite prin decretul de instituire a măsurii excepționale, astfel: 1. pe durata stării de asediu: a) de ministrul apărării naționale sau de șeful Statului Major al Apărării, când starea de asediu a fost instituită pe întregul teritoriu al țării; b) de comandanții de mari unități în raza teritorială pentru care au fost împuterniciți de șeful Statului Major al Apărării, când starea de asediu a fost instituită în anumite unități administrativ-teritoriale; 2. pe durata stării de urgență: a) de ministrul afacerilor interne sau de înlocuitorul de drept al acestuia, când starea de urgență a fost instituită pe întregul teritoriu al țării; b) de ofițerii împuterniciți de ministrul afacerilor interne sau de înlocuitorii legali ai acestora, când starea de urgență a fost instituită în anumite unități administrativ-teritoriale. (2) În situația instituirii măsurii excepționale pentru cauze ce privesc securitatea sau apărarea cibernetică în condițiile art. 2 și art. 3 lit. a), emitenții ordonanțelor militare solicită avizul prealabil și consultativ al Consiliului Operativ de Securitate Cibernetică."
+    },
+    {
+      "provision_ref": "Art.52",
+      "chapter": "Capitolul XIV - Dispoziții tranzitorii și finale | Secţiunea a 2-a - La nivel internațional",
+      "section": "52",
+      "title": "Articolul 52",
+      "content": "(1) Categoriile de persoane prevăzute la art. 3 alin. (1) lit. c) se stabilesc prin hotărâre a Guvernului, inițiată de MCID, adoptată în maximum 60 de zile de la data intrării în vigoare a prezentei legi. (2) Actele administrative prevăzute la art. 19 alin. (2) se emit în maximum 90 de zile de la data intrării în vigoare a prezentei legi. (3) În vederea aplicării prevederilor art. 20 alin. (3) , politicile de confidențialitate și transparență se emit prin ordin al directorului DNSC în maximum 90 de zile de la data intrării în vigoare a prezentei legi. (4) În vederea aplicării prevederilor art. 24 , autoritățile prevăzute la art. 10 adoptă măsuri proprii de reziliență în spațiul cibernetic în maximum 120 de zile de la data intrării în vigoare a prezentei legi. (5) Normele metodologice privind solicitarea și comunicarea datelor și informațiilor prevăzute la art. 25 alin. (1) se stabilesc prin hotărâre a Guvernului, inițiată de MCID, adoptată în maximum 90 de zile de la data intrării în vigoare a prezentei legi. (6) În vederea aplicării prevederilor art. 28 alin. (1) , metodologia se emite prin ordin al directorului DNSC în maximum 6 luni de la data intrării în vigoare a prezentei legi. (7) În vederea aplicării prevederilor art. 31 , Guvernul adoptă respectiva hotărâre în maximum 90 de zile de la data intrării în vigoare a prezentei legi. (8) În vederea aplicării prevederilor art. 32 alin. (2)-(4) , ministrul cercetării, inovării și digitalizării emite respectivul ordin în maximum 120 de zile de la data intrării în vigoare a prezentei legi."
+    },
+    {
+      "provision_ref": "Art.53",
+      "chapter": "Capitolul XIV - Dispoziții tranzitorii și finale | Secţiunea a 2-a - La nivel internațional",
+      "section": "53",
+      "title": "Articolul 53",
+      "content": "Prevederile art. 48 și 49 intră în vigoare la 30 de zile de la data publicării prezentei legi în Monitorul Oficial al României, Partea I."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apărare cibernetică",
+      "definition": "totalitatea activităților, mijloacelor și măsurilor utilizate pentru a contracara amenințările cibernetice și a atenua efectele acestora asupra sistemelor de comunicații și tehnologia informației, sistemelor de armament, rețelelor și sistemelor informatice, care susțin capabilitățile militare de apărare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "amenințare cibernetică",
+      "definition": "astfel cum este definită la art. 2 lit. f) din Ordonanța de urgență a Guvernului nr. 104/2021 privind înființarea Directoratului Național de Securitate Cibernetică, aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "atac cibernetic",
+      "definition": "acțiune ostilă desfășurată în spațiul cibernetic de natură să afecteze securitatea cibernetică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "audit de securitate cibernetică",
+      "definition": "activitate prin care se realizează o evaluare sistematică a tuturor politicilor, procedurilor și măsurilor de protecție implementate la nivelul unor rețele și sisteme informatice, în vederea identificării disfuncționalităților și vulnerabilităților și furnizării unor soluții de remediere a acestora",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "Advanced Persistent Threat, denumită în continuare APT",
+      "definition": "astfel cum este definită în art. 2 lit. a) din Ordonanța de urgență a Guvernului nr. 89/2022 privind înființarea, administrarea și dezvoltarea infrastructurilor și serviciilor informatice de tip cloud utilizate de autoritățile și instituțiile publice",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "centru operațional de securitate",
+      "definition": "echipă de experți în securitate cibernetică, ce are rolul de a monitoriza, analiza și răspunde la incidentele de securitate cibernetică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "criză cibernetică",
+      "definition": "astfel cum este definită în art. 2 lit. k) din Ordonanța de urgență a Guvernului nr. 104/2021 , aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "cyber intelligence",
+      "definition": "activități de culegere, procesare, prelucrare analitică și valorificare a datelor și informațiilor privind acțiuni de natură a afecta interesele și obiectivele naționale de securitate pe linia tehnologiei informației și comunicațiilor, precum și identificarea, cunoașterea, prevenirea și contracararea oricăror acțiuni din spațiul cibernetic care pot constitui riscuri, vulnerabilități și/sau amenințări la adresa securității și apărării naționale a României",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "cyber counter",
+      "definition": "intelligence - totalitatea activităților, mijloacelor și măsurilor ofensive și defensive de identificare, descurajare, neutralizare și protecție împotriva activităților de informații privind acțiuni ostile de natură a afecta interesele și obiectivele naționale de securitate, desfășurate în spațiul cibernetic și în domeniul apărării",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "diplomație cibernetică",
+      "definition": "activitatea diplomatică prin intermediul căreia se realizează promovarea intereselor de politică externă și de securitate ale României în cadrul formatelor bilaterale și multilaterale de dialog și negociere pe teme cu relevanță pentru domeniul securității cibernetice la nivel național și internațional",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "echipă de răspuns la incidente de securitate cibernetică",
+      "definition": "astfel cum este definită la art. 2 lit. a) din Ordonanța de urgență a Guvernului nr. 104/2021 , aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "furnizor de servicii tehnice de securitate cibernetică",
+      "definition": "persoană fizică și/sau juridică care realizează, în vederea protejării rețelelor și sistemelor informatice, cel puțin una dintre următoarele activități: implementarea de măsuri de securitate cibernetică, evaluarea, monitorizarea și testarea măsurilor implementate, precum și managementul riscurilor, amenințărilor, vulnerabilităților și incidentelor de securitate cibernetică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "igienă cibernetică",
+      "definition": "măsuri de rutină aplicate cu regularitate de către persoanele fizice și juridice, care au rolul de a reduce expunerea acestora la riscurile pe care le presupun amenințările cibernetice, conform Regulamentului (UE) 2019/881 al Parlamentului European și al Consiliului din 17 aprilie 2019 privind ENISA (Agenția Uniunii Europene pentru Securitate Cibernetică) și privind certificarea securității cibernetice pentru tehnologia informației și comunicațiilor și de abrogare a Regulamentului (UE) nr",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "incident de securitate cibernetică",
+      "definition": "eveniment survenit în spațiul cibernetic care perturbă funcționarea uneia sau mai multor rețele și sisteme informatice și ale cărui consecințe sunt de natură a afecta securitatea cibernetică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "lanț de aprovizionare",
+      "definition": "circuitul de la producător până la beneficiarul final, inclusiv proiectarea, dezvoltarea, producția, integrarea, implementarea, configurarea, utilizarea și casarea de produse și servicii software sau hardware, respectiv rețele și sisteme informatice",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "managementul incidentelor de securitate cibernetică",
+      "definition": "ansamblul proceselor ce prevăd detectarea, calificarea, raportarea, analiza și răspunsul la incidentele de securitate cibernetică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "managementul riscurilor de securitate cibernetică",
+      "definition": "strategia organizațională și programatică ce presupune activități de evaluare și gestionare a riscurilor de securitate cibernetică",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "managementul riscurilor de securitate cibernetică specifice lanțului de aprovizionare",
+      "definition": "strategia organizațională și programatică ce presupune activități de evaluare și gestionare a riscurilor în cadrul proceselor din întreg ciclul de viață al bunului sau serviciului software sau hardware, respectiv al sistemului sau rețelei informatice, de la producător până la beneficiarul final, inclusiv proiectarea, dezvoltarea, producția, integrarea, implementarea, configurarea, utilizarea și casarea de produse și servicii software sau hardware, respectiv rețele și sisteme informatice",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "politici de securitate cibernetică",
+      "definition": "principii și reguli generale necesar a fi aplicate pentru asigurarea securității rețelelor și sistemelor informatice",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "produs de securitate cibernetică",
+      "definition": "astfel cum este definit la art. 2 lit. l) din Ordonanța de urgență a Guvernului nr. 104/2021 , aprobată cu modificări și completări prin Legea nr. 11/2022 , cu modificările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "rețele și sisteme informatice",
+      "definition": "astfel cum sunt definite la art. 3 lit. l) din Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice, cu modificările și completările ulterioare",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "reziliența în spațiul cibernetic",
+      "definition": "capacitatea unei rețele sau a unui sistem informatic de a rezista unui incident sau atac cibernetic și de a reveni la starea de normalitate de dinaintea incidentului sau atacului cibernetic",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "risc de securitate cibernetică",
+      "definition": "astfel cum este definit la art. 2 lit. r) din Ordonanța de urgență a Guvernului nr. 89/2022",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "securitate cibernetică",
+      "definition": "stare de normalitate rezultată în urma aplicării unui ansamblu de măsuri proactive și reactive prin care se asigură confidențialitatea, integritatea, disponibilitatea, autenticitatea și nonrepudierea informațiilor în format electronic ale resurselor și serviciilor publice sau private din spațiul cibernetic",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "vulnerabilitate de securitate cibernetică",
+      "definition": "slăbiciune în proiectarea, implementarea, dezvoltarea, configurarea și mentenanța rețelelor și sistemelor informatice sau a măsurilor de securitate aferente, care poate fi exploatată de către o amenințare.",
+      "source_provision": "Art.2"
+    }
+  ]
+}

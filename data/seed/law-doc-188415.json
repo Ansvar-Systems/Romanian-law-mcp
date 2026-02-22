@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188415",
+  "type": "statute",
+  "title": "LEGE nr. 66 din 13 aprilie 2017",
+  "short_name": "lege 66 13 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-13",
+  "in_force_date": "2017-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188415",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 66 13/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Articolul 29^1 din Legea audiovizualului nr. 504/2002 , publicată în Monitorul Oficial al României, Partea I, nr. 534 din 22 iulie 2002, cu modificările şi completările ulterioare, se abrogă."
+    }
+  ],
+  "definitions": []
+}

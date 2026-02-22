@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209910",
+  "type": "statute",
+  "title": "LEGE nr. 25 din 9 ianuarie 2019",
+  "short_name": "lege 25 09 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-09",
+  "in_force_date": "2019-01-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209910",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 25 09/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța Guvernului nr. 10 din 29 august 2018 pentru modificarea și completarea unor acte normative din domeniul gestionării financiare a fondurilor europene nerambursabile aferente politicii agricole comune, adoptată în temeiul art. 1 pct. II.1 din Legea nr. 183/2018 privind abilitarea Guvernului de a emite ordonanțe și publicată în Monitorul Oficial al României, Partea I, nr. 749 din 30 august 2018, cu următoarea completare: – La articolul III, înaintea punctului 1 se introduce un nou punct, cu următorul cuprins: – La articolul 16, după alineatul (1^2) se introduce un nou alineat, alineatul (1^3), cu următorul cuprins: (1^3) În bugetul Agenției de Plăți și Intervenție pentru Agricultură se cuprind sumele necesare angajării și plății cheltuielilor prevăzute în măsura de asistență tehnică cuprinsă în Programul Național de Dezvoltare Rurală 2014-2020, aprobat prin Decizia CE nr. 3.508 din 26 mai 2015 de aprobare a programului de dezvoltare rurală a României pentru sprijin din Fondul european agricol pentru dezvoltare rurală, cu modificările și completările ulterioare, din care: a) cheltuieli de natura cheltuielilor de personal, respectiv stimulente acordate personalului Agenției de Plăți și Intervenție pentru Agricultură; b) bunuri și servicii; c) cheltuieli de capital."
+    }
+  ],
+  "definitions": []
+}

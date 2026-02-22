@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-136309",
+  "type": "statute",
+  "title": "LEGE nr. 30 din 16 martie 2012",
+  "short_name": "lege 30 16 03 2012",
+  "status": "in_force",
+  "issued_date": "2012-03-16",
+  "in_force_date": "2012-03-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/136309",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 30 16/03/2012",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se respinge Ordonanța de urgență a Guvernului nr. 1 din 25 ianuarie 2010 privind unele măsuri de reîncadrare în funcții a unor categorii de personal din sectorul bugetar și stabilirea salariilor acestora, precum și alte măsuri în domeniul bugetar, publicată în Monitorul Oficial al României, Partea I, nr. 62 din 27 ianuarie 2010."
+    }
+  ],
+  "definitions": []
+}

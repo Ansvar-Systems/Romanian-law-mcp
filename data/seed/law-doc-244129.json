@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-244129",
+  "type": "statute",
+  "title": "LEGE nr. 187 din 5 iulie 2021",
+  "short_name": "lege 187 05 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-05",
+  "in_force_date": "2021-07-05",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244129",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 187 05/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 227 din 30 decembrie 2020 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 37/2020 privind acordarea unor facilități pentru creditele acordate de instituții de credit și instituții financiare nebancare anumitor categorii de debitori, publicată în Monitorul Oficial al României, Partea I, nr. 1331 din 31 decembrie 2020."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Alineatul (1) al articolului 79 din Ordonanța de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori, publicată în Monitorul Oficial al României, Partea I, nr. 389 din 11 iunie 2010, aprobată cu modificări și completări prin Legea nr. 288/2010 , cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: Articolul 79 (1) Contractele de credit pot fi încheiate doar în punctele de lucru organizate în acest scop în spații comerciale, în condițiile legii, sau, la cererea consumatorului și cu acordul creditorului, la domiciliul acestuia sau prin intermediul unui mijloc de comunicare la distanță în condițiile Ordonanței Guvernului nr. 85/2004, republicată , cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

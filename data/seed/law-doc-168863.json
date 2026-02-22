@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-168863",
+  "type": "statute",
+  "title": "LEGE nr. 145 din 12 iunie 2015",
+  "short_name": "lege 145 12 06 2015",
+  "status": "in_force",
+  "issued_date": "2015-06-12",
+  "in_force_date": "2015-06-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/168863",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 145 12/06/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 11 din 19 martie 2014 privind adoptarea unor măsuri de reorganizare la nivelul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 203 din 21 martie 2014."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-166280",
+  "type": "statute",
+  "title": "LEGE nr. 40 din 11 martie 2015",
+  "short_name": "lege 40 11 03 2015",
+  "status": "in_force",
+  "issued_date": "2015-03-11",
+  "in_force_date": "2015-03-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/166280",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 40 11/03/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Alineatul (1) al articolului 8 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române, republicată în Monitorul Oficial al României, Partea I, nr. 307 din 25 aprilie 2014, se modifică și va avea următorul cuprins: Articolul 8 (1) Inspectoratul General al Poliției Române este condus de un inspector general, cu rang de secretar de stat, numit prin decizie a prim-ministrului, la propunerea ministrului afacerilor interne, după consultarea Corpului Național al Polițiștilor."
+    }
+  ],
+  "definitions": []
+}

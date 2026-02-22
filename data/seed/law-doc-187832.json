@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-187832",
+  "type": "statute",
+  "title": "LEGE nr. 37 din 29 martie 2017",
+  "short_name": "lege 37 29 03 2017",
+  "status": "in_force",
+  "issued_date": "2017-03-29",
+  "in_force_date": "2017-03-29",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/187832",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 37 29/03/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 73 din 26 octombrie 2016 privind unele măsuri pentru sprijinirea persoanelor afectate de distrugerea parţială a blocului situat în municipiul Bistriţa, Str. Arţarilor nr. 20, ca urmare a exploziei produse în data de 19 octombrie 2016, publicată în Monitorul Oficial al României, Partea I, nr. 875 din 1 noiembrie 2016."
+    }
+  ],
+  "definitions": []
+}

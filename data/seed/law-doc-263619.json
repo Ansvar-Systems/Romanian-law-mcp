@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-263619",
+  "type": "statute",
+  "title": "LEGE nr. 3 din 3 ianuarie 2023",
+  "short_name": "lege 3 03 01 2023",
+  "status": "in_force",
+  "issued_date": "2023-01-03",
+  "in_force_date": "2023-01-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/263619",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 3 03/01/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 28 din Legea nr. 290/2004 privind cazierul judiciar, republicată în Monitorul Oficial al României, Partea I, nr. 777 din 13 noiembrie 2009, cu modificările și completările ulterioare, după alineatul (3) se introduce un nou alineat, alineatul (3^1), cu următorul cuprins: (3^1) La solicitarea persoanelor fizice sau juridice, în urma consemnării opțiunii în cererea-tip prevăzută la alin. (1) și (2), certificatul de cazier judiciar se eliberează gratuit și în formă electronică. Certificatele de cazier judiciar eliberate în formă electronică sunt semnate cu semnătură electronică calificată și sunt asimilate înscrisurilor autentice. Noțiunea de semnătură electronică calificată are înțelesul dat de dispozițiile Regulamentului (UE) nr. 910/2014 al Parlamentului European și al Consiliului din 23 iulie 2014 privind identificarea electronică și serviciile de încredere pentru tranzacțiile electronice pe piața internă și de abrogare a Directivei 1999/93/CE."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "În termen de 6 luni de la data intrării în vigoare a prezentei legi, prin ordin comun al ministrului afacerilor interne și al ministrului cercetării, inovării și digitalizării, sunt stabilite procedurile pentru eliberarea în formă electronică a cazierului judiciar."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 290/2004 privind cazierul judiciar, republicată în Monitorul Oficial al României, Partea I, nr. 777 din 13 noiembrie 2009, cu modificările și completările ulterioare, precum și cu completarea adusă prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dânduse textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-277224",
+  "type": "statute",
+  "title": "LEGE nr. 381 din 11 decembrie 2023",
+  "short_name": "lege 381 11 12 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-11",
+  "in_force_date": "2023-12-11",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/277224",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 381 11/12/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 158 din 17 noiembrie 2022 pentru completarea Ordonanței Guvernului nr. 36/2006 privind unele măsuri pentru funcționarea sistemelor centralizate de alimentare cu energie termică a populației, publicată în Monitorul Oficial al României, Partea I, nr. 1111 din 17 noiembrie 2022."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-305214",
+  "type": "statute",
+  "title": "LEGE nr. 221 din 12 decembrie 2025",
+  "short_name": "lege 221 12 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2025-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305214",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 221 12/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 63 din 30 iunie 2023 pentru stabilirea unor măsuri la nivelul structurii organizatorice aferente unităților sanitare, precum și stabilirea unor măsuri privind salarizarea personalului din sistemul sanitar public și pentru completarea unor acte normative în domeniul sănătății și în domeniul fiscal, publicată în Monitorul Oficial al României, Partea I, nr. 603 din 30 iunie 2023."
+    }
+  ],
+  "definitions": []
+}

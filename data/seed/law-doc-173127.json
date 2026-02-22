@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-173127",
+  "type": "statute",
+  "title": "LEGE nr. 281 din 18 noiembrie 2015",
+  "short_name": "lege 281 18 11 2015",
+  "status": "in_force",
+  "issued_date": "2015-11-18",
+  "in_force_date": "2015-11-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/173127",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 281 18/11/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (2) al articolului 1 din Legea nr. 139/2000 privind activitatea de meteorologie, republicată în Monitorul Oficial al României, Partea I, nr. 167 din 7 martie 2014, se modifică şi va avea următorul cuprins: \"(2) Activitatea de meteorologie este de interes public naţional şi cu specific pentru apărare şi securitate naţională, care se desfăşoară în condiţiile prezentei legi şi în concordanţă cu recomandările Organizaţiei Meteorologice Mondiale, organism specializat al Organizaţiei Naţionale Unite, cu acordurile încheiate de această organizaţie cu alte organizaţii internaţionale, precum şi cu prevederile convenţiilor internaţionale în domeniu la care România este parte.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 216/2004 privind înfiinţarea Administraţiei Naţionale de Meteorologie, publicată în Monitorul Oficial al României, Partea I, nr. 494 din 1 iunie 2004, cu modificările ulterioare, se modifică şi se completează după cum urmează: 1. La articolul 1, alineatul (2) se modifică şi va avea următorul cuprins: \"(2) Administraţia Naţională de Meteorologie este persoană juridică română, care desfăşoară activităţi de interes naţional şi activităţi cu specific pentru apărare şi securitate naţională.\" 2. La articolul 3 alineatul (2), după litera d) se introduc trei noi litere, literele d^1)-d^3), cu următorul cuprins: \"d^1) realizează studii şi cercetări privind identificarea şi evoluţia zonelor vulnerabile la diverse fenomene meteorologice severe, precum secetă, deşertificare, inundaţii şi altele asemenea, absolut necesare la elaborarea strategiei naţionale de prevenire şi diminuare a efectelor schimbărilor climatice; d^2) identifică, monitorizează şi analizează situaţiile şi zonele în care este posibil să se intervină activ în atmosferă în vederea modificării regimului precipitaţiilor atmosferice; d^3) elaborează prognoze ale câmpului de poluant în cazul unui accident chimic sau nuclear pentru asigurarea protecţiei populaţiei;\""
+    }
+  ],
+  "definitions": []
+}

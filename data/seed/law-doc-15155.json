@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-15155",
+  "type": "statute",
+  "title": "LEGE nr. 144 din 9 iulie 1998",
+  "short_name": "lege 144 09 07 1998",
+  "status": "in_force",
+  "issued_date": "1998-07-09",
+  "in_force_date": "1998-07-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/15155",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 144 09/07/1998",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "România își retrage rezerva privind recursul la jurisdicția Curții Internaționale de Justiție pentru soluționarea diferendelor, formulată la art. 22 din Convenția internationala privind eliminarea tuturor formelor de discriminare rasială, adoptată la New York la 21 decembrie 1965."
+    }
+  ],
+  "definitions": []
+}

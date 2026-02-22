@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-163958",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 16 decembrie 2014",
+  "short_name": "lege 171 16 12 2014",
+  "status": "in_force",
+  "issued_date": "2014-12-16",
+  "in_force_date": "2014-12-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/163958",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 16/12/2014",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară ziua de 24 ianuarie - Ziua Unirii Principatelor Române ca zi de sărbătoare naţională."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Autorităţile administraţiei publice centrale şi locale pot organiza şi/sau sprijini logistic şi material manifestări cultural-artistice dedicate acestei zile."
+    }
+  ],
+  "definitions": []
+}

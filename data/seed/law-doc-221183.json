@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-221183",
+  "type": "statute",
+  "title": "LEGE nr. 245 din 20 decembrie 2019",
+  "short_name": "lege 245 20 12 2019",
+  "status": "in_force",
+  "issued_date": "2019-12-20",
+  "in_force_date": "2019-12-20",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/221183",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 245 20/12/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 34 din 23 mai 2019 privind unele măsuri cu caracter fiscal-bugetar, publicată în Monitorul Oficial al României, Partea I, nr. 427 din 30 mai 2019."
+    }
+  ],
+  "definitions": []
+}

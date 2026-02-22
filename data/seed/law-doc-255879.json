@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-255879",
+  "type": "statute",
+  "title": "LEGE nr. 166 din 2 iunie 2022",
+  "short_name": "lege 166 02 06 2022",
+  "status": "in_force",
+  "issued_date": "2022-06-02",
+  "in_force_date": "2022-06-02",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/255879",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 166 02/06/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 1 din Ordonanța de urgență a Guvernului nr. 31/2011 privind interzicerea achiziționării de la persoane fizice a metalelor feroase și neferoase și a aliajelor acestora, publicată în Monitorul Oficial al României, Partea I, nr. 217 din 30 martie 2011, aprobată cu modificări prin Legea nr. 17/2013 , cu modificările și completările ulterioare, alineatul (1) se modifică și va avea următorul cuprins: Articolul 1 (1) Se interzice achiziționarea de la persoane fizice a următoarelor categorii de metale feroase și neferoase și aliaje ale acestora: a) utilizate în activitatea feroviară, rutieră, aeriană, maritimă și fluvială, de transport cu metroul, de transport public și electric de suprafață sau de irigații și desecări; b) utilizate în infrastructura pentru furnizarea utilităților de energie electrică, apă-canal, gaze și termoficare; c) utilizate în infrastructura aferentă operațiunilor de extracție, prelucrare, distribuție, transport și comercializare a gazelor naturale, a petrolului și a produselor petroliere; d) utilizate în semnalizarea și dirijarea circulației pe drumurile publice; e) de tipul șinelor, pieselor aparatelor de cale, materialului mărunt de cale, contrașinelor, ecliselor, părților componente ale instalațiilor de siguranța circulației, cablurilor de semnalizare și telecomunicații, componentelor instalațiilor de electrificare, componentelor materialului rulant, semnelor de semnalizare și dirijare a circulației, semafoarelor, capacelor căminelor de vizitare sau părților componente și altele asemenea, parazăpezilor sau părților componente ale unor construcții metalice destinate pentru protecția împotriva viscolului, avalanșelor, inundațiilor sau altor calamități; f) obținute prin prelucrarea chimică sau termică a materialelor compozite, a cablurilor și conductorilor de orice fel."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța de urgență a Guvernului nr. 31/2011 privind interzicerea achiziționării de la persoane fizice a metalelor feroase și neferoase și a aliajelor acestora, publicată în Monitorul Oficial al României, Partea I, nr. 217 din 30 martie 2011, aprobată cu modificări prin Legea nr. 17/2013 , cu modificările și completările ulterioare, inclusiv cu modificările aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

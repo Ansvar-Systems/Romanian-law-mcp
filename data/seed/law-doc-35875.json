@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-35875",
+  "type": "statute",
+  "title": "LEGE nr. 26 din 9 decembrie 1982",
+  "short_name": "lege 26 09 12 1982",
+  "status": "in_force",
+  "issued_date": "1982-12-09",
+  "in_force_date": "1982-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/35875",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 26 09/12/1982",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se aprobă Decretul Consiliului de Stat nr. 258/1982 pentru modificarea şi completarea Legii nr. 59/1974 cu privire la fondul funciar. -------------"
+    }
+  ],
+  "definitions": []
+}

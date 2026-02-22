@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-227536",
+  "type": "statute",
+  "title": "LEGE nr. 100 din 1 iulie 2020",
+  "short_name": "lege 100 01 07 2020",
+  "status": "in_force",
+  "issued_date": "2020-07-01",
+  "in_force_date": "2020-07-01",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227536",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 100 01/07/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "După articolul 54 din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată în Monitorul Oficial al României, Partea I, nr. 440 din 24 mai 2018, cu modificările și completările ulterioare, se introduce un nou articol, articolul 54^1, cu următorul cuprins: Articolul 54^1 (1) Atât în cazul adunării generale ordinare sau extraordinare, cât și în cazul adunării generale de alegere a organelor de conducere a baroului, consiliul baroului poate hotărî ca votul să se desfășoare prin mijloace electronice. (2) În situația prevăzută la alin. (1), cvorumul va fi stabilit în raport cu numărul total al membrilor baroului care și-au exprimat opțiunea de vot, cu respectarea dispozițiilor art. 53 și art. 54 alin. (2), (2^1) și (2^2), după caz. (3) Consiliul baroului va face public, pe site-ul web al baroului, cu cel puțin 30 de zile înaintea datei adunării generale în care va fi utilizată procedura de vot electronic, regulamentul privind utilizarea sistemului electronic de votare, care va conține garanții cu privire la securitatea și corectitudinea procesului de vot și de respectare a secretului votului în cazul adunării generale de alegere a organelor de conducere a baroului."
+    }
+  ],
+  "definitions": []
+}

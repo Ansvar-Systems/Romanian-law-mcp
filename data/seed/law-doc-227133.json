@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-227133",
+  "type": "statute",
+  "title": "LEGE nr. 96 din 26 iunie 2020",
+  "short_name": "lege 96 26 06 2020",
+  "status": "in_force",
+  "issued_date": "2020-06-26",
+  "in_force_date": "2020-06-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/227133",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 96 26/06/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "După articolul 13 din Legea nr. 82/1992 privind rezervele de stat, republicată în Monitorul Oficial al României, Partea I, nr. 354 din 11 decembrie 1997, cu modificările și completările ulterioare, se introduce un nou articol, articolul 13^1, cu următorul cuprins: Articolul 13^1 (1) Administrația Națională a Rezervelor de Stat și Probleme Speciale, instituție publică din sistemul național de apărare, ordine publică și securitate națională, este autorizată să procure și să folosească, în vederea îndeplinirii atribuțiilor prevăzute în actele normative de înființare, organizare și funcționare, arme de foc letale și muniția aferentă, pentru înarmarea personalului încadrat cu atribuții de pază la unitățile teritoriale subordonate. (2) Personalul prevăzut la alin. (1) este autorizat să folosească armamentul și muniția din dotare, în condițiile legislației în vigoare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Legea nr. 82/1992 privind rezervele de stat, republicată în Monitorul Oficial al României, Partea I, nr. 354 din 11 decembrie 1997, cu modificările și completările ulterioare, precum și cu completarea adusă prin prezenta lege, va fi republicată în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

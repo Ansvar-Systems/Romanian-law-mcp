@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-201733",
+  "type": "statute",
+  "title": "LEGE nr. 138 din 18 iunie 2018",
+  "short_name": "lege 138 18 06 2018",
+  "status": "in_force",
+  "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-18",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/201733",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 138 18/06/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 102 din 14 decembrie 2017 pentru modificarea art. 20 din Ordonanța de urgență a Guvernului nr. 47/2013 privind unele măsuri în domeniul instrumentelor structurale care privesc beneficiarii direcți finanțați din fonduri externe nerambursabile, precum și unele măsuri financiare în domeniul ex-ISPA din sectorul transporturi, publicată în Monitorul Oficial al României, Partea I, nr. 1.006 din 19 decembrie 2017."
+    }
+  ],
+  "definitions": []
+}

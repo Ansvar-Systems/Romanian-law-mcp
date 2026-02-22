@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-199546",
+  "type": "statute",
+  "title": "LEGE nr. 89 din 4 aprilie 2018",
+  "short_name": "lege 89 04 04 2018",
+  "status": "in_force",
+  "issued_date": "2018-04-04",
+  "in_force_date": "2018-04-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/199546",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 89 04/04/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 73 din 5 octombrie 2017 pentru completarea Legii nr. 202/2006 privind organizarea și funcționarea Agenției Naționale pentru Ocuparea Forței de Muncă, precum și pentru modificarea art. 24 din Ordonanța Guvernului nr. 129/2000 privind formarea profesională a adulților, publicată în Monitorul Oficial al României, Partea I, nr. 808 din 12 octombrie 2017."
+    }
+  ],
+  "definitions": []
+}

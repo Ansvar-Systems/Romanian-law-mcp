@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-233146",
+  "type": "statute",
+  "title": "LEGE nr. 248 din 13 noiembrie 2020",
+  "short_name": "lege 248 13 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-13",
+  "in_force_date": "2020-11-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/233146",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 248 13/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Articolul 291 din Legea nr. 227/2015 privind Codul fiscal , publicată în Monitorul Oficial al României, Partea I, nr. 688 din 10 septembrie 2015, cu modificările și completările ulterioare, se modifică după cum urmează: – La articolul 291 alineatul (3) litera c), punctul 3 se modifică și va avea următorul cuprins: 3. livrarea de locuințe care au o suprafață utilă de maximum 120 m^2, exclusiv anexele gospodărești, a căror valoare, inclusiv a terenului pe care sunt construite, nu depășește suma de 140.000 euro, echivalent lei, exclusiv taxa pe valoarea adăugată, achiziționate de persoane fizice. Suprafața utilă a locuinței este cea definită prin Legea locuinței nr. 114/1996, republicată , cu modificările și completările ulterioare. Anexele gospodărești sunt cele definite prin Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare. Cota redusă se aplică numai în cazul locuințelor care în momentul vânzării pot fi locuite ca atare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Prevederile prezentei legi intră în vigoare începând cu data de 1 ianuarie 2021."
+    }
+  ],
+  "definitions": []
+}

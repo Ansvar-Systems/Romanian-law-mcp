@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-805",
+  "type": "statute",
+  "title": "LEGEA nr. 34 din 4 decembrie 1990",
+  "short_name": "lege 34 04 12 1990",
+  "status": "in_force",
+  "issued_date": "1990-12-04",
+  "in_force_date": "1990-12-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/805",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 34 04/12/1990",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prevederile articolului 67 alineatul 2 din Legea gospodăriei comunale nr. 4/1981 se modifica şi vor avea următorul cuprins: \"Intirzierea în achitarea sumelor datorate după expirarea termenului de plată atrage majorări de 0,5 la suta pentru fiecare zi de întîrziere; valoarea penalitatilor nu va depăşi cuantumul debitului.\""
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Prezenta lege intră în vigoare la data de 1 ianuarie 1991. Această lege a fost adoptată de Adunarea Deputaţilor în şedinţa din 26 noiembrie 1990. PREŞEDINTELE ADUNĂRII DEPUTAŢILOR MARŢIAN DAN Această lege a fost adoptată de Senat în şedinţa din 26 noiembrie 1990. PREŞEDINTELE SENATULUI academician ALEXANDRU BÎRLĂDEANU În temeiul art. 82 lit. m) din Decretul-lege nr. 92/1990 pentru alegerea parlamentului şi a Preşedintelui României, promulgăm Legea pentru modificarea Legii gospodăriei comunale nr. 4/1981 şi dispunem publicarea sa în Monitorul Oficial al României. PREŞEDINTELE ROMÂNIEI ION ILIESCU ---------------"
+    }
+  ],
+  "definitions": []
+}

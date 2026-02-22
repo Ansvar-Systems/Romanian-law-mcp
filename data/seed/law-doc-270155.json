@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-270155",
+  "type": "statute",
+  "title": "LEGE nr. 120 din 12 mai 2023",
+  "short_name": "lege 120 12 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-12",
+  "in_force_date": "2023-05-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270155",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 120 12/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie ziua de 30 noiembrie ca Ziua națională a tezaurului uman viu."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot organiza sau sprijini logistic și material, pe tot parcursul anului, manifestările culturale, artistice sau educaționale dedicate zilei naționale prevăzute la art. 1 . (2) Autoritățile administrației publice centrale și locale, precum și instituțiile aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii în vederea organizării și derulării în bune condiții a manifestărilor prevăzute la alin. (1) , în limita alocărilor bugetare aprobate."
+    }
+  ],
+  "definitions": []
+}

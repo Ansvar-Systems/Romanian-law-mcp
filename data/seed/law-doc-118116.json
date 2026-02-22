@@ -1,0 +1,616 @@
+{
+  "id": "law-doc-118116",
+  "type": "statute",
+  "title": "LEGE nr. 24 din 27 martie 2000 (**republicată**)",
+  "short_name": "lege r 24 27 03 2000",
+  "status": "in_force",
+  "issued_date": "2000-03-27",
+  "in_force_date": "2000-03-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/118116",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE (R) 24 27/03/2000",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Reglementarea relațiilor sociale prin lege și prin celelalte categorii de acte normative se realizează cu respectarea principiilor generale de legiferare proprii sistemului dreptului românesc. (2) Actele normative se inițiază, se elaborează, se adoptă și se aplică în conformitate cu prevederile Constituției României, republicată, cu dispozițiile prezentei legi, precum și cu principiile ordinii de drept. (3) Activitatea de legiferare reprezintă principala modalitate de implementare a politicilor publice, asigurând instrumentele necesare pentru punerea în aplicare a soluțiilor de dezvoltare economică și socială, precum și pentru exercitarea autorității publice."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Tehnica legislativă asigură sistematizarea, unificarea și coordonarea legislației, precum și conținutul și forma juridică adecvate pentru fiecare act normativ. (2) Normele de tehnică legislativă definesc părțile constitutive ale actului normativ, structura, forma și modul de sistematizare a conținutului acestuia, procedeele tehnice privind modificarea, completarea, abrogarea, publicarea și republicarea actelor normative, precum și limbajul și stilul actului normativ."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "(1) Normele de tehnică legislativă sunt obligatorii la elaborarea proiectelor de lege de către Guvern și a propunerilor legislative aparținând deputaților, senatorilor sau cetățenilor, în cadrul exercitării dreptului la inițiativă legislativă, la elaborarea și adoptarea ordonanțelor și hotărârilor Guvernului, precum și la elaborarea și adoptarea actelor normative ale celorlalte autorități cu asemenea atribuții. (2) Normele de tehnică legislativă se aplică, în mod corespunzător, și la elaborarea și adoptarea proiectelor de ordine, instrucțiuni și de alte acte normative emise de conducătorii organelor administrației publice centrale de specialitate, precum și la elaborarea și adoptarea actelor cu caracter normativ emise de autoritățile administrației publice locale."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "(1) Actele normative se elaborează în funcție de ierarhia lor, de categoria acestora și de autoritatea publică competentă să le adopte. (2) Categoriile de acte normative și normele de competență privind adoptarea acestora sunt stabilite prin Constituția României, republicată, și prin celelalte legi. (3) Actele normative date în executarea legilor, ordonanțelor sau a hotărârilor Guvernului se emit în limitele și potrivit normelor care le ordonă."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "(1) Proiectele de legi se elaborează ca urmare a exercitării, potrivit Constituției, a dreptului de inițiativă legislativă. (2) Proiectele celorlalte categorii de acte normative se elaborează de autoritățile competente să le inițieze, potrivit legii."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "(1) Proiectul de act normativ trebuie să instituie reguli necesare, suficiente și posibile care să conducă la o cât mai mare stabilitate și eficiență legislativă. Soluțiile pe care le cuprinde trebuie să fie temeinic fundamentate, luându-se în considerare interesul social, politica legislativă a statului român și cerințele corelării cu ansamblul reglementărilor interne și ale armonizării legislației naționale cu legislația comunitară și cu tratatele internaționale la care România este parte, precum și cu jurisprudența Curții Europene a Drepturilor Omului. (la 18-03-2011, Alin. (1) al art. 6 a fost modificat de pct. 1 al art. I din LEGEA nr. 29 din 11 martie 2011, publicată în MONITORUL OFICIAL nr. 182 din 15 martie 2011. ) (2) Pentru fundamentarea noii reglementări se va porni de la dezideratele sociale prezente și de perspectivă, precum și de la insuficiențele legislației în vigoare. (3) Proiectele de acte normative se supun spre adoptare însoțite de o expunere de motive, o notă de fundamentare sau un referat de aprobare, precum și de un studiu de impact, după caz. (4) Actele normative cu impact asupra domeniilor social, economic și de mediu, asupra bugetului general consolidat sau asupra legislației în vigoare sunt elaborate pe baza unor documente de politici publice aprobate de Parlament sau de Guvern. Guvernul definește tipurile și structura documentelor de politică publică."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Evaluarea preliminară a impactului proiectelor de lege, a propunerilor legislative și a celorlalte proiecte de acte normative reprezintă un set de activități și proceduri realizate cu scopul de a asigura o fundamentare adecvată a inițiativelor legislative. Evaluarea preliminară a impactului presupune identificarea și analizarea efectelor economice, sociale, de mediu, legislative și bugetare pe care le produc reglementările propuse. (2) Evaluarea preliminară a impactului proiectelor de acte normative este considerată a fi modalitatea de fundamentare pentru soluțiile legislative propuse și trebuie realizată înainte de adoptarea actelor normative. (3) Fundamentarea noii reglementări trebuie să aibă în vedere atât evaluarea impactului legislației specifice în vigoare la momentul elaborării proiectului de act normativ, cât și evaluarea impactului politicilor publice pe care proiectul de act normativ le implementează. (3^1) Propunerile legislative, proiectele de legi și celelalte proiecte de acte normative vor fi însoțite, în mod obligatoriu, de o evaluare preliminară a impactului noilor reglementări asupra drepturilor și libertăților fundamentale ale omului. (la 18-03-2011, Alin. (3^1) al art. 7 a fost introdus de pct. 2 al art. I din LEGEA nr. 29 din 11 martie 2011, publicată în MONITORUL OFICIAL nr. 182 din 15 martie 2011. ) (4) Evaluarea preliminară a impactului este realizată de inițiatorul proiectului de act normativ. În cazul unor proiecte de acte normative complexe, evaluarea impactului poate fi realizată, pe baza unui contract de prestări de servicii, de către institute de cercetare științifică, universități, societăți comerciale sau organizații neguvernamentale, în conformitate cu prevederile legale în vigoare referitoare la achizițiile publice. (5) În vederea elaborării evaluării preliminare a impactului propunerilor legislative inițiate de deputați și senatori, precum și în cazul celor bazate pe inițiativa cetățenilor, membrii Parlamentului pot solicita Guvernului asigurarea accesului la datele și informațiile necesare realizării acesteia. (6) Aplicarea dispozițiilor alin. (1)-(5) nu este obligatorie în cazul inițiativelor legislative ale deputaților și senatorilor, precum și al celor bazate pe inițiativa cetățenilor."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "(1) Proiectele de legi, propunerile legislative și celelalte proiecte de acte normative se redactează în forma prescriptivă proprie normelor juridice. (2) Prin modul de exprimare actul normativ trebuie să asigure dispozițiilor sale un caracter obligatoriu. (3) Dispozițiile cuprinse în actul normativ pot fi, după caz, imperative, supletive, permisive, alternative, derogatorii, facultative, tranzitorii, temporare, de recomandare sau altele asemenea; aceste situații trebuie să rezulte expres din redactarea normelor. (4) Textul legislativ trebuie să fie formulat clar, fluent și inteligibil, fără dificultăți sintactice și pasaje obscure sau echivoce. Nu se folosesc termeni cu încărcătură afectivă. Forma și estetica exprimării nu trebuie să prejudicieze stilul juridic, precizia și claritatea dispozițiilor."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "(1) În cazurile prevăzute de lege, în faza de elaborare a proiectelor de acte normative inițiatorul trebuie să solicite avizul autorităților interesate în aplicarea acestora, în funcție de obiectul reglementării. (2) După elaborarea lor și încheierea procedurii de avizare prevăzute la alin. (1) , proiectele de legi, propunerile legislative, precum și proiectele de ordonanțe și de hotărâri cu caracter normativ ale Guvernului se supun în mod obligatoriu avizării Consiliului Legislativ. (3) Procedura de avizare și obiectul avizului Consiliului Legislativ sunt prevăzute în legea sa organică și în regulamentul său de organizare și funcționare."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) Avizul Consiliului Legislativ se formulează și se transmite în scris. El poate fi: favorabil, favorabil cu obiecții sau propuneri ori negativ. (2) Avizele favorabile care cuprind obiecții sau propuneri, precum și cele negative se motivează și pot fi însoțite de documentele sau de informațiile pe care se sprijină. (3) Avizul Consiliului Legislativ este un aviz de specialitate și are caracter consultativ. (4) Observațiile și propunerile Consiliului Legislativ privind respectarea normelor de tehnică legislativă vor fi avute în vedere la definitivarea proiectului de act normativ. Neacceptarea acestora trebuie motivată în cuprinsul actului de prezentare a proiectului sau într-o notă însoțitoare."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) În vederea intrării lor în vigoare, legile și celelalte acte normative adoptate de Parlament, hotărârile și ordonanțele Guvernului, deciziile primului-ministru, actele normative ale autorităților administrative autonome, precum și ordinele, instrucțiunile și alte acte normative emise de conducătorii organelor administrației publice centrale de specialitate se publică în Monitorul Oficial al României, Partea I. (2) Nu sunt supuse regimului de publicare în Monitorul Oficial al României: a) deciziile primului-ministru clasificate, potrivit legii; b) actele normative clasificate, potrivit legii, precum și cele cu caracter individual, emise de autoritățile administrative autonome și de organele administrației publice centrale de specialitate. (3) Legile se publică imediat după promulgare, însoțite de actul prin care au fost promulgate. Celelalte acte cu caracter normativ, adoptate de Parlament, se publică sub semnătura președinților celor două Camere. (4) Ordonanțele și hotărârile Guvernului se publică numai după ce au fost semnate de primul-ministru și contrasemnate de miniștrii care au obligația să le pună în executare. (5) Celelalte acte normative se publică după ce au fost semnate de emitent."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul I - Dispoziții generale",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "(1) Legile și ordonanțele emise de Guvern în baza unei legi speciale de abilitare intră în vigoare la 3 zile de la data publicării în Monitorul Oficial al României, Partea I, sau la o dată ulterioară prevăzută în textul lor. Termenul de 3 zile se calculează pe zile calendaristice, începând cu data publicării în Monitorul Oficial al României, și expiră la ora 24,00 a celei de-a treia zi de la publicare. (2) Ordonanțele de urgență ale Guvernului intră în vigoare la data publicării în Monitorul Oficial al României, Partea I, sub condiția depunerii lor prealabile la Camera competentă să fie sesizată, dacă în cuprinsul lor nu este prevăzută o dată ulterioară. (3) Actele normative prevăzute la art. 11 alin. (1) , cu excepția legilor și a ordonanțelor, intră în vigoare la data publicării în Monitorul Oficial al României, Partea I, dacă în cuprinsul lor nu este prevăzută o dată ulterioară. Atunci când nu se impune ca intrarea în vigoare să se producă la data publicării, în cuprinsul acestor acte normative trebuie să se prevadă că ele intră în vigoare la o dată ulterioară stabilită prin text."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul II - Sistematizarea și unificarea legislației",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "Actul normativ trebuie să se integreze organic în sistemul legislației, scop în care: a) proiectul de act normativ trebuie corelat cu prevederile actelor normative de nivel superior sau de același nivel, cu care se află în conexiune; b) proiectul de act normativ, întocmit pe baza unui act de nivel superior, nu poate depăși limitele competenței instituite prin acel act și nici nu poate contraveni principiilor și dispozițiilor acestuia; c) proiectul de act normativ trebuie să fie corelat cu reglementările comunitare și cu tratatele internaționale la care România este parte. d) proiectul de act normativ trebuie să fie corelat cu dispozițiile Convenției europene a drepturilor omului și ale protocoalelor adiționale la aceasta, ratificate de România, precum și cu jurisprudența Curții Europene a Drepturilor Omului. (la 18-03-2011, Litera d) a art. 13 a fost introdusă de pct. 3 al art. I din LEGEA nr. 29 din 11 martie 2011, publicată în MONITORUL OFICIAL nr. 182 din 15 martie 2011. )"
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul II - Sistematizarea și unificarea legislației",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "(1) Reglementările de același nivel și având același obiect se cuprind, de regulă, într-un singur act normativ. (2) Un act normativ poate cuprinde reglementări și din alte materii conexe numai în măsura în care sunt indispensabile realizării scopului urmărit prin acest act."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul II - Sistematizarea și unificarea legislației",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "(1) O reglementare din aceeași materie și de același nivel poate fi cuprinsă într-un alt act normativ, dacă are caracter special față de actul ce cuprinde reglementarea generală în materie. (2) Caracterul special al unei reglementări se determină în funcție de obiectul acesteia, circumstanțiat la anumite categorii de situații, și de specificul soluțiilor legislative pe care le instituie. (3) Reglementarea este derogatorie dacă soluțiile legislative referitoare la o situație anume determinată cuprind norme diferite în raport cu reglementarea-cadru în materie, aceasta din urmă păstrându-și caracterul său general obligatoriu pentru toate celelalte cazuri."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul II - Sistematizarea și unificarea legislației",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "(1) În procesul de legiferare este interzisă instituirea acelorași reglementări în mai multe articole sau alineate din același act normativ ori în două sau mai multe acte normative. Pentru sublinierea unor conexiuni legislative se utilizează norma de trimitere. (2) În cazul existenței unor paralelisme acestea vor fi înlăturate fie prin abrogare, fie prin concentrarea materiei în reglementări unice. (3) Se supun procesului de concentrare în reglementări unice și reglementările din aceeași materie dispersate în legislația în vigoare. (4) Într-un act normativ emis pe baza și în executarea altui act normativ de nivel superior nu se utilizează reproducerea unor dispoziții din actul superior, fiind recomandabilă numai indicarea textelor de referință. În asemenea cazuri preluarea unor norme în actul inferior poate fi făcută numai pentru dezvoltarea ori detalierea soluțiilor din actul de bază."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul II - Sistematizarea și unificarea legislației",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "În vederea asanării legislației active, în procesul de elaborare a proiectelor de acte normative se va urmări abrogarea expresă a dispozițiilor legale căzute în desuetudine sau care înregistrează aspecte de contradictorialitate cu reglementarea preconizată."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul II - Sistematizarea și unificarea legislației",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "În vederea sistematizării și concentrării legislației, reglementările dintr-un anumit domeniu sau dintr-o anumită ramură de drept, subordonate unor principii comune, pot fi reunite într-o structură unitară, sub formă de coduri."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul II - Sistematizarea și unificarea legislației",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Pe măsura consolidării sistemului legislativ, reglementările legale în vigoare privind același domeniu sau domenii conexe, cuprinse în legi, ordonanțe și hotărâri ale Guvernului, pot fi încorporate prin alăturarea textelor acestora într-o structură omogenă, prezentată sub formă de codex, care să înlesnească cunoașterea și aplicarea lor. (2) Codexul se elaborează de Consiliul Legislativ, din proprie inițiativă sau la solicitarea unuia dintre birourile permanente ale celor două Camere ale Parlamentului ori a Guvernului. (3) Consiliul Legislativ stabilește denumirea actului rezultat din încorporare, structura și succesiunea dispozițiilor legale avute în vedere, cu specificarea actelor normative din care provin și a elementelor necesare de identificare. În cadrul operațiunii de încorporare în codexuri actele normative incluse vor fi prezentate prin luarea în considerare a tuturor modificărilor și completărilor ulterioare, a abrogărilor parțiale, exprese ori implicite, precum și prin actualizarea denumirilor instituțiilor și localităților."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea 1 - Documentarea",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "(1) Elaborarea proiectelor de acte normative trebuie precedată, în funcție de importanța și complexitatea acestora, de o activitate de documentare și analiză științifică, pentru cunoașterea temeinică a realităților economico-sociale care urmează să fie reglementate, a istoricului legislației din acel domeniu, precum și a reglementărilor similare din legislația străină, în special a țărilor Uniunii Europene. (2) Inițiatorii proiectelor de acte normative pot solicita, pentru documentarea lor legislativă, informații suplimentare de la Consiliul Legislativ și alte autorități sau instituții cu atribuții de informare în materia respectivă. (3) Rezultatele studiilor de cercetare și referirile la sursele de informații suplimentare relevante pentru dezbaterea proiectelor de acte normative trebuie să fie incluse în instrumentul de prezentare și motivare a proiectului de act normativ."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea 1 - Documentarea",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "În activitatea de documentare pentru fundamentarea proiectului de act normativ se vor examina practica Curții Constituționale în acel domeniu, jurisprudența în materie a Curții Europene a Drepturilor Omului, practica instanțelor judecătorești în aplicarea reglementărilor în vigoare, precum și doctrina juridică în materie. (la 18-03-2011, Art. 21 a fost modificat de pct. 4 al art. I din LEGEA nr. 29 din 11 martie 2011, publicată în MONITORUL OFICIAL nr. 182 din 15 martie 2011. )"
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea 1 - Documentarea",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "(1) Soluțiile legislative preconizate prin noua reglementare trebuie să aibă în vedere reglementările în materie ale Uniunii Europene, asigurând compatibilitatea cu acestea. (2) Prevederile alin. (1) se aplică în mod corespunzător și în ceea ce privește dispozițiile cuprinse în tratatele internaționale la care România este parte, precum și în ceea ce privește jurisprudența Curții Europene a Drepturilor Omului. (3) Când este cazul, se vor face propuneri de modificare și completare a actelor normative interne ale căror dispoziții nu sunt concordante cu cele ale actelor internaționale la care România este parte sau nu asigură compatibilitatea cu dreptul comunitar ori se află în contradicție cu jurisprudența Curții Europene a Drepturilor Omului. (4) Guvernul, în termen de cel mult 3 luni de la data comunicării hotărârii Curții Europene a Drepturilor Omului, prezintă Parlamentului proiectul de lege cu privire la modificarea și completarea sau abrogarea actului normativ ori a unor părți ale acestuia care vin în contradicție cu dispozițiile Convenției europene a drepturilor omului și ale protocoalelor adiționale la aceasta, ratificate de România, și cu hotărârile Curții Europene a Drepturilor Omului. (la 18-03-2011, Art. 22 a fost modificat de pct. 5 al art. I din LEGEA nr. 29 din 11 martie 2011, publicată în MONITORUL OFICIAL nr. 182 din 15 martie 2011. )"
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 2-a - Alegerea soluțiilor legislative și definirea conceptelor",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "(1) Pentru alegerea unor soluții judicioase și durabile se pot elabora mai multe variante posibile, evaluându-se efectele previzibile ale soluțiilor preconizate. (2) Soluțiile legislative avute în vedere trebuie să prezinte suplețe pentru a realiza îmbinarea caracterului de stabilitate a reglementării cu cerințele de perspectivă ale dezvoltării sociale."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 2-a - Alegerea soluțiilor legislative și definirea conceptelor",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "(1) Soluțiile legislative preconizate prin proiectul de act normativ trebuie să acopere întreaga problematică a relațiilor sociale ce reprezintă obiectul de reglementare pentru a se evita lacunele legislative. (2) Pentru ca soluțiile să fie pe deplin acoperitoare se vor lua în considerare diferitele ipoteze ce se pot ivi în activitatea de aplicare a actului normativ, folosindu-se fie enumerarea situațiilor avute în vedere, fie formulări sintetice sau formulări-cadru de principiu, aplicabile oricăror situații posibile."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 2-a - Alegerea soluțiilor legislative și definirea conceptelor",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "În cadrul soluțiilor legislative preconizate trebuie să se realizeze o configurare explicită a conceptelor și noțiunilor folosite în noua reglementare, care au un alt înțeles decât cel comun, pentru a se asigura astfel înțelegerea lor corectă și a se evita interpretările greșite."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 2-a - Alegerea soluțiilor legislative și definirea conceptelor",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Proiectul de act normativ trebuie să cuprindă soluții legislative pentru situații tranzitorii, în cazul în care prin noua reglementare sunt afectate raporturi sau situații juridice născute sub vechea reglementare, dar care nu și-au produs în întregime efectele până la data intrării în vigoare a noii reglementări. De asemenea, proiectul trebuie să cuprindă, dacă este cazul, măsuri legislative privind soluționarea conflictului între acte normative de categorii diferite, cu respectarea principiului ierarhiei actelor normative."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 3-a - Elaborarea codurilor și a altor legi complexe",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "(1) În cazul proiectelor de coduri sau al altor legi complexe, anume determinate, la inițiativa Parlamentului ori a Guvernului se pot constitui la Consiliul Legislativ sau sub coordonarea acestuia comisii de specialitate pentru elaborarea proiectelor respective. (2) În cazul proiectelor de coduri și al altor legi complexe, care interesează domeniul de activitate al justiției, comisiile de elaborare se instituie de Ministerul Justiției. În componența comisiei constituite se include un reprezentant al Consiliului Legislativ, desemnat de președintele acestuia. (3) Comisiile de specialitate vor întocmi, pe baza unor studii și documentări științifice, teze prealabile care să reflecte concepția generală, principiile, noile orientări și principalele soluții ale reglementărilor preconizate. (4) Înainte de definitivarea tezelor, concluziile studiilor, cuprinzând liniile directoare ale concepției de ansamblu a viitoarei reglementări, se înaintează, pentru exprimarea punctului de vedere, ministerelor și celorlalte autorități publice interesate."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 3-a - Elaborarea codurilor și a altor legi complexe",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Tezele prealabile, definitivate potrivit prevederilor art. 27 , se supun aprobării Guvernului. După aprobarea tezelor de către Guvern comisia de elaborare va proceda la redactarea textului viitorului act normativ."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 3-a - Elaborarea codurilor și a altor legi complexe",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "Proiectul de act normativ întocmit în condițiile prevăzute la art. 27 și 28 , însoțit de un raport, va fi înaintat Parlamentului sau, după caz, Guvernului, pentru declanșarea procedurii legislative."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "(1) Proiectele de acte normative trebuie însoțite de următoarele documente de motivare: a) expuneri de motive - în cazul proiectelor de legi și al propunerilor legislative; b) note de fundamentare - în cazul ordonanțelor și al hotărârilor Guvernului; ordonanțele care trebuie supuse aprobării Parlamentului, potrivit legii de abilitare, precum și ordonanțele de urgență se transmit Parlamentului însoțite de expunerea de motive la proiectul legii de aprobare a acestora; c) referate de aprobare - pentru celelalte acte normative; d) studii de impact - în cazul proiectelor de legi de importanță și complexitate deosebită și al proiectelor de legi de aprobare a ordonanțelor emise de Guvern în temeiul unei legi de abilitare și supuse aprobării Parlamentului. (2) Expunerile de motive, notele de fundamentare, referatele de aprobare și studiile de impact constituie instrumentele de prezentare și motivare ale noilor reglementări propuse. (3) În cazul proiectelor de legi pentru care Guvernul își angajează răspunderea, documentele de motivare care însoțesc aceste proiecte sunt expunerea de motive și, după caz, raportul prevăzut la art. 29 ."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "(1) Instrumentul de prezentare și motivare include conținutul evaluării impactului actelor normative, cuprinzând următoarele secțiuni: a) motivul emiterii actului normativ - cerințele care reclamă intervenția normativă, cu referire specială la insuficiențele și neconcordanțele reglementărilor în vigoare; principiile de bază și finalitatea reglementărilor propuse, cu evidențierea elementelor noi; concluziile studiilor, lucrărilor de cercetare, evaluărilor statistice; referirile la documente de politici publice sau la actul normativ pentru a căror implementare este elaborat respectivul proiect. Pentru ordonanțele de urgență vor fi prezentate distinct elementele obiective ale situației extraordinare care impune reglementarea imediată, nefiind suficientă utilizarea procedurii parlamentare de urgență, precum și eventualele consecințe care s-ar produce în lipsa luării măsurilor legislative propuse; b) impactul socioeconomic - efectele asupra mediului macroeconomic, de afaceri, social și asupra mediului înconjurător, inclusiv evaluarea costurilor și beneficiilor; c) impactul financiar asupra bugetului general consolidat atât pe termen scurt, pentru anul curent, cât și pe termen lung (pe 5 ani), inclusiv informații cu privire la cheltuieli și venituri; d) impactul asupra sistemului juridic - implicațiile pe care noua reglementare le are asupra legislației în vigoare; compatibilitatea cu reglementările comunitare în materie, determinarea exactă a acestora și, dacă este cazul, măsurile viitoare de armonizare care se impun; deciziile Curții de Justiție a Uniunii Europene și alte documente relevante pentru transpunerea sau implementarea prevederilor legale respective; implicațiile asupra legislației interne, în cazul ratificării sau aprobării unor tratate ori acorduri internaționale, precum și măsurile de adaptare necesare; preocupările în materie de armonizare legislativă; e) consultările derulate în vederea elaborării proiectului de act normativ, organizațiile și specialiștii consultați, esența recomandărilor primite; f) activitățile de informare publică privind elaborarea și implementarea proiectului de act normativ; g) măsurile de implementare - modificările instituționale și funcționale la nivelul administrației publice centrale și locale. (2) În situația în care reglementarea propusă se elaborează în executarea unui act normativ, motivarea trebuie să cuprindă referiri la actul pe baza și în executarea căruia se emite. (3) Forma finală a instrumentelor de prezentare și motivare a proiectelor de acte normative trebuie să cuprindă referiri la avizul Consiliului Legislativ și, după caz, al Consiliului Suprem de Apărare a Țării, Curții de Conturi sau Consiliului Economic și Social. (4) Guvernul stabilește structura și conținutul detaliat al instrumentelor de prezentare și motivare pentru actele normative inițiate de Guvern."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "(1) Documentele de motivare se redactează într-un stil explicativ, clar, folosindu-se terminologia proiectului de act normativ pe care îl prezintă. (2) Motivarea trebuie să se refere la forma finală a proiectului de act normativ; dacă pe parcurs s-au adus unele modificări proiectului, ca urmare a propunerilor și observațiilor primite de la organele de avizare, motivarea inițială trebuie reconsiderată în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "(1) Scopul elaborării studiului de impact este de a estima costurile și beneficiile aduse în plan economic și social prin adoptarea proiectului de lege, precum și de a evidenția dificultățile care ar putea apărea în procesul de punere în practică a reglementărilor propuse. (2) Studiul de impact este întocmit, de regulă, de structurile de specialitate în domeniu ale administrației publice centrale, la cererea Guvernului. Pentru propunerile legislative inițiate de deputați sau de senatori, studiile de impact se întocmesc prin grija ministerelor de resort, la solicitarea comisiilor parlamentare. (3) În studiul de impact se face referire: a) la starea de fapt existentă la momentul elaborării noii reglementări; b) la modificările care se propun a fi aduse legislației existente; c) la obiectivele urmărite prin modificarea legislației existente; d) la mijloacele disponibile în vederea realizării scopurilor propuse; e) la dificultățile care ar putea fi întâmpinate în aplicarea noilor dispoziții; f) la evaluarea costurilor impuse de adoptarea proiectului de lege și a eventualelor economii bugetare generate de aceasta, la motivele care stau la baza acestei evaluări, precum și la modalitatea de calcul al costurilor și economiilor; g) la beneficiile rezultate prin implementarea proiectului de lege, altele decât cele de natură economică; h) la analiza comparativă a costurilor și a beneficiilor pe care le implică proiectul de lege, din care să reiasă dacă beneficiile sunt justificate de costuri."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul III - Elaborarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "(1) Expunerile de motive la proiectele de legi pentru care inițiativa legislativă se exercită de Guvern, precum și expunerile de motive la proiectele de legi de aprobare a unor ordonanțe sau ordonanțe de urgență se semnează de primul-ministru după adoptarea formei finale a proiectului în ședință a Guvernului. (2) Expunerile de motive la propunerile legislative întocmite de deputați sau de senatori se semnează de inițiatorii respectivi. (3) În cazul în care inițiativa legislativă este exercitată de cetățeni, expunerea de motive trebuie însoțită de punctul de vedere al Curții Constituționale, întocmit potrivit prevederilor art. 146 lit. j) din Constituția României, republicată. (4) Notele de fundamentare la proiectele de ordonanțe și de hotărâri ale Guvernului se semnează de ministrul sau de miniștrii inițiatori, precum și de cei care le-au avizat. (5) Expunerile de motive la legi și notele de fundamentare la ordonanțe și hotărâri ale Guvernului, elaborate de inițiator, se publică împreună cu actul normativ în cauză în Monitorul Oficial al României, Partea I, sau se prezintă pe internet de către autoritatea emitentă. Dacă în cursul dezbaterilor parlamentare proiectul de lege sau propunerea legislativă a suferit modificări de fond, expunerea de motive va fi refăcută, după promulgarea legii, de către inițiator, la sesizarea secretarului general al Camerei Deputaților."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul IV - Redactarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "Pentru asigurarea unei succesiuni logice a soluțiilor legislative preconizate și realizarea unei armonii interioare a actului normativ redactarea textului proiectului trebuie precedată de întocmirea unui plan de grupare a ideilor în funcție de conexiunile și de raportul firesc dintre ele, în cadrul concepției generale a reglementării."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul IV - Redactarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "(1) Actele normative trebuie redactate într-un limbaj și stil juridic specific normativ, concis, sobru, clar și precis, care să excludă orice echivoc, cu respectarea strictă a regulilor gramaticale și de ortografie. (2) Este interzisă folosirea neologismelor, dacă există un sinonim de largă răspândire în limba română. În cazurile în care se impune folosirea unor termeni și expresii străine, se va alătura, după caz, corespondentul lor în limba română. (3) Termenii de specialitate pot fi utilizați numai dacă sunt consacrați în domeniul de activitate la care se referă reglementarea. (4) Redactarea textelor se face prin folosirea cuvintelor în înțelesul lor curent din limba română modernă, cu evitarea regionalismelor. Redactarea este subordonată dezideratului înțelegerii cu ușurință a textului de către destinatarii acestuia."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul IV - Redactarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "(1) În limbajul normativ aceleași noțiuni se exprimă numai prin aceiași termeni. (2) Dacă o noțiune sau un termen nu este consacrat sau poate avea înțelesuri diferite, semnificația acestuia în context se stabilește prin actul normativ ce le instituie, în cadrul dispozițiilor generale sau într-o anexă destinată lexicului respectiv, și devine obligatoriu pentru actele normative din aceeași materie. (3) Exprimarea prin abrevieri a unor denumiri sau termeni se poate face numai prin explicitare în text, la prima folosire."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul IV - Redactarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "(1) Textul articolelor trebuie să aibă caracter dispozitiv, să prezinte norma instituită fără explicații sau justificări. (2) În redactarea actului normativ, de regulă, verbele se utilizează la timpul prezent, forma afirmativă, pentru a se accentua caracterul imperativ al dispoziției respective. (3) Utilizarea unor explicații prin norme interpretative este permisă numai în măsura în care ele sunt strict necesare pentru înțelegerea textului. Nu este permisă prezentarea unor explicații prin folosirea parantezelor."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul IV - Redactarea actelor normative | Secţiunea a 4-a - Motivarea proiectelor de acte normative",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "(1) Referirea într-un act normativ la alt act normativ se face prin precizarea categoriei juridice a acestuia, a numărului său, a titlului și a datei publicării acelui act sau numai a categoriei juridice și a numărului, dacă astfel orice confuzie este exclusă. (2) Referirea la un tratat internațional trebuie să cuprindă atât denumirea completă a acestuia, cât și a actului de ratificare sau de aprobare."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Actul normativ are următoarele părți constitutive: titlul și, dacă este cazul, preambulul, formula introductivă, partea dispozitivă, formula de atestare a autenticității actului."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "(1) Titlul actului normativ cuprinde denumirea generică a actului, în funcție de categoria sa juridică și de autoritatea emitentă, precum și obiectul reglementării exprimat sintetic. (2) Categoria juridică a actului normativ este determinată de regimul competențelor stabilit prin Constituție, legi și prin alte acte normative prin care se acordă prerogative de reglementare juridică autorităților publice. (3) Autoritatea publică este aceea învestită prin Constituție sau printr-un alt act normativ. (4) Se interzice ca denumirea proiectului unui act normativ să fie aceeași cu cea a altui act normativ în vigoare. (5) În cazul actelor normative prin care se modifică ori se completează un alt act normativ, titlul actului va exprima operațiunea de modificare sau de completare a actului normativ avut în vedere. (6) Ca element de identificare, titlul se întregește, după adoptarea actului normativ, cu un număr de ordine, la care se adaugă anul în care a fost adoptat acesta."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "(1) Formula introductivă constă într-o propoziție care cuprinde denumirea autorității emitente și exprimarea hotărârii de luare a deciziei referitoare la emiterea sau adoptarea actului normativ respectiv. (2) În cazul legilor formula introductivă este următoarea: \"Parlamentul României adoptă prezenta lege.\" (3) Pentru actele Guvernului formula introductivă este: \"În temeiul art. 108 din Constituția României, republicată, Guvernul României adoptă prezenta hotărâre\" sau, după caz, \"ordonanță\". La ordonanțe se face referire și la legea de abilitare. La ordonanțele de urgență, formula introductivă este: \"În temeiul art. 115 alin. (4) din Constituția României, republicată, Guvernul României adoptă prezenta ordonanță de urgență.\" La hotărârile date în executarea expresă a unor legi se adaugă și temeiul din legea respectivă. (4) La celelalte categorii de acte normative formula introductivă cuprinde autoritatea emitentă, denumirea generică a actului, în funcție de natura sa juridică, precum și temeiurile juridice pe baza și în executarea cărora actul a fost emis."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "(1) Preambulul enunță, în sinteză, scopul și, după caz, motivarea reglementării. El nu poate cuprinde nici directive, nici reguli de interpretare. Preambulul precedă formula introductivă. (2) Includerea preambulului în cuprinsul actului normativ se apreciază de la caz la caz. (3) La ordonanțele de urgență preambulul este obligatoriu și cuprinde prezentarea elementelor de fapt și de drept ale situației extraordinare ce impune recurgerea la această cale de reglementare. (4) În cazul actelor normative ale administrației publice centrale de specialitate sau ale administrației publice locale, în preambul se menționează și avizele prevăzute de lege."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "Partea dispozitivă a actului normativ reprezintă conținutul propriu-zis al reglementării, alcătuit din totalitatea normelor juridice instituite pentru sfera raporturilor sociale ce fac obiectul acestuia."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "(1) În situația actelor normative care transpun direct norme comunitare în dreptul intern, după partea dispozitivă a acestora se face o mențiune care să cuprindă elementele de identificare a actului comunitar care a fost preluat, după modelul următor: \"Prezenta/prezentul... (se menționează tipul actului normativ) transpune Directiva nr. .../... privind ..., publicată în Jurnalul Oficial al Uniunii Europene nr. .../... .\" (2) Dacă printr-un act normativ se transpune doar parțial un act comunitar, mențiunea prevăzută la alin. (1) trebuie să specifice în detaliu textele (secțiuni/articole/paragrafe, după caz) transpuse."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "(1) Actul normativ adoptat se semnează de reprezentantul legal al emitentului, se datează și se numerotează. (2) Data legii este aceea la care i se dă număr, după promulgare. Pentru actele normative ale Parlamentului, care, potrivit legii, nu se supun promulgării, data actului este aceea a adoptării. (3) Actele Guvernului poartă data ședinței Guvernului în care actul a fost aprobat. Data celorlalte acte normative este aceea la care au fost semnate. (4) Numerotarea actelor normative se face în ordinea datării lor, separat pe fiecare an calendaristic. (5) La legi este obligatoriu ca în finalul actului să se facă mențiunea despre îndeplinirea dispoziției constituționale privind legalitatea adoptării de către cele două Camere ale Parlamentului. (6) Formula de atestare a legalității adoptării proiectului de lege, utilizată de fiecare Cameră, în ordinea adoptării, este: a) \"Acest proiect de lege a fost adoptat de Camera Deputaților/Senat în ședința din ..., cu respectarea prevederilor art. 76 alin. (1) sau, după caz, art. 76 alin. (2) din Constituția României, republicată .\" - în cazul în care Camera Deputaților/Senatul adoptă proiectul de lege sau propunerea legislativă, cu sau fără amendamente; b) \"Acest proiect de lege se consideră adoptat de Camera Deputaților/Senat în forma inițială, în condițiile art. 75 alin. (2) teza a III-a sau ale art. 115 alin. (5) teza a III-a , după caz, din Constituția României, republicată.\" - în cazul în care se depășește termenul prevăzut pentru adoptare. (7) Formula de atestare a legalității adoptării legii va avea următorul cuprins: Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (1) sau (2) , după caz, din Constituția României, republicată. (8) În cazul în care legea este adoptată în ședința comună a celor două Camere, formula de atestare a legalității adoptării acesteia va avea următorul cuprins: Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 65 alin. (2) și ale art. 76 alin. (1) sau (2) ori art. 148 alin. (1) sau art. 149 , după caz, din Constituția României, republicată. (9) În cazul legilor de revizuire a Constituției României, formula de atestare a legalității adoptării acestora va avea următorul cuprins: Această lege a fost adoptată de Camera Deputaților și de Senat, cu respectarea prevederilor art. 151 alin. (1) sau alin. (2) , după caz, din Constituția României, republicată. (10) Formula de atestare este urmată de semnăturile președinților celor două Camere sau ale vicepreședinților care au condus ședințele."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "(1) Elementul structural de bază al părții dispozitive îl constituie articolul. Articolul cuprinde, de regulă, o singură dispoziție normativă aplicabilă unei situații date. (2) Structura articolului trebuie să fie echilibrată, abordând exclusiv aspectele juridice necesare contextului reglementării. (3) Articolul se exprimă în textul legii prin abrevierea \"art.\". Articolele se numerotează în continuare, în ordinea din text, de la începutul până la sfârșitul actului normativ, cu cifre arabe. Dacă actul normativ cuprinde un singur articol, acesta se va defini prin expresia \"Articol unic\". (4) În cazul actelor normative care au ca obiect modificări sau completări ale altor acte normative, articolele se numerotează cu cifre române, păstrându-se numerotarea cu cifre arabe pentru textele modificate sau completate. (5) La coduri și la legi de mare întindere, articolele vor fi prevăzute cu denumiri marginale, exprimând sintetic obiectul lor; acestea nu au semnificație proprie în conținutul reglementării."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "(1) În cazul în care din dispoziția normativă primară a unui articol decurg, în mod organic, mai multe ipoteze juridice, acestea vor fi prezentate în alineate distincte, asigurându-se articolului o succesiune logică a ideilor și o coerență a reglementării. (2) Alineatul, ca subdiviziune a articolului, este constituit, de regulă, dintr-o singură propoziție sau frază, prin care se reglementează o ipoteză juridică specifică ansamblului articolului; dacă dispoziția nu poate fi exprimată într-o singură propoziție sau frază, se pot adăuga noi propoziții sau fraze, separate prin punct și virgulă. Alineatul se evidențiază printr-o ușoară retragere de la alinierea textului pe verticală. (3) Dacă în cuprinsul unui articol se utilizează un termen sau o expresie care are în contextul actului normativ un alt înțeles decât cel obișnuit, înțelesul specific al acesteia trebuie definit în cadrul unui alineat subsecvent. În cazul în care frecvența unor astfel de termeni și expresii este mare, actul normativ trebuie să cuprindă în structura sa un grupaj de definiții sau o anexă cu un index de termeni. (4) În actele normative cu o anumită întindere, dacă un articol are două sau mai multe alineate, acestea se numerotează la începutul fiecăruia cu cifre arabe cuprinse în paranteză. Pentru claritatea, concizia și caracterul unitar al textului unui articol se recomandă ca acesta să nu fie format dintr-un număr prea mare de alineate."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "(1) Dacă textul unui articol sau alineat conține enumerări prezentate distinct, acestea se identifică prin utilizarea literelor alfabetului românesc și nu prin liniuțe sau alte semne grafice. (2) O enumerare distinctă, marcată cu o literă, nu poate cuprinde, la rândul ei, o altă enumerare și nici alineate noi. (3) Dacă ipoteza marcată cu o literă necesită o dezvoltare sau o explicare separată, aceasta se va face printr-un alineat distinct care să urmeze ultimei enumerări."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea 1 - Părțile constitutive ale actului normativ",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "(1) În cazul în care o normă este complementară altei norme, pentru evitarea repetării în text a acelei norme se va face trimitere la articolul, respectiv la actul normativ care o conține. Nu poate fi făcută, de regulă, o trimitere la o altă normă de trimitere. (2) Dacă norma la care se face trimitere este cuprinsă în alt act normativ, este obligatorie indicarea titlului acestuia, a numărului și a celorlalte elemente de identificare. (3) Trimiterea la normele unui alt act normativ se poate face la întregul său conținut ori numai la o subdiviziune, precizată ca atare. Când actul ce face obiect de trimitere a fost modificat, completat ori republicat, se face mențiune și despre aceasta. (4) La modificarea, completarea și abrogarea dispoziției la care s-a făcut trimitere, în actul de modificare, completare sau abrogare trebuie avută în vedere situația juridică a normei de trimitere."
+    },
+    {
+      "provision_ref": "Art.51",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "51",
+      "title": "Articolul 51",
+      "content": "(1) Conținutul proiectului de act normativ se sistematizează în următoarea ordine de prezentare a ideilor: a) dispoziții generale sau principii generale; b) dispoziții privind fondul reglementării; c) dispoziții tranzitorii; d) dispoziții finale. (2) În cazul unor reglementări de mică întindere se poate redacta textul fără a se marca distinct elementele prevăzute la alin. (1) , urmând însă această ordine de prezentare. (3) În cadrul structurii prevăzute la alin. (1) articolele pot fi grupate pe capitole, care se pot împărți în secțiuni, iar acestea, după caz, în paragrafe. La coduri și la alte legi de mare întindere, capitolele pot fi grupate - în ordine ascendentă - în titluri și, după caz, în părți, care, la rândul lor, se pot constitui în cărți; gruparea se face, în toate cazurile, în funcție de legătura organică dintre reglementările pe care le cuprind."
+    },
+    {
+      "provision_ref": "Art.52",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "52",
+      "title": "Articolul 52",
+      "content": "Dispozițiile generale cuprind prevederi care orientează întreaga reglementare, determină obiectul și principiile acesteia. Ele se grupează în primul capitol și nu se reiau în restul reglementării, în afară de cazul în care sunt strict necesare pentru înțelegerea unor dispoziții cu care formează un tot unitar."
+    },
+    {
+      "provision_ref": "Art.53",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "53",
+      "title": "Articolul 53",
+      "content": "(1) Dispozițiile de fond cuprind reglementarea propriu-zisă a relațiilor sociale ce fac obiectul actului normativ. (2) Succesiunea și gruparea dispozițiilor de fond cuprinse în actul normativ se fac în ordinea logică a desfășurării activității reglementate, asigurându-se ca prevederile de drept material să preceadă pe cele de ordin procedural, iar în caz de instituire de sancțiuni, aceste norme să fie plasate înaintea dispozițiilor tranzitorii și finale. (3) Textele care reglementează similar ipoteze cuprinse în mai multe subdiviziuni ale actului normativ pot fi grupate în structuri distincte, denumite dispoziții comune."
+    },
+    {
+      "provision_ref": "Art.54",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "54",
+      "title": "Articolul 54",
+      "content": "(1) Dispozițiile tranzitorii cuprind măsurile ce se instituie cu privire la derularea raporturilor juridice născute în temeiul vechii reglementări care urmează să fie înlocuită de noul act normativ. (2) Dispozițiile tranzitorii trebuie să asigure, pe o perioadă determinată, corelarea celor două reglementări, astfel încât punerea în aplicare a noului act normativ să decurgă firesc și să evite retroactivitatea acestuia sau conflictul între norme succesive."
+    },
+    {
+      "provision_ref": "Art.55",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "55",
+      "title": "Articolul 55",
+      "content": "(1) Dispozițiile finale cuprind măsurile necesare pentru punerea în aplicare a actului normativ, data intrării în vigoare a acestuia conform art. 12 , implicațiile asupra altor acte normative, ca: abrogări, modificări, completări, precum și dispoziția de republicare, dacă este cazul. (2) În cazul în care, pentru punerea în aplicare a unui act normativ, sunt prevăzute norme de aplicare, în cuprinsul acestuia se va stabili termenul de elaborare a acestora și data intrării lor în vigoare, care să nu depășească, de regulă, 30 de zile de la data intrării în vigoare a actului normativ. (3) La actul normativ cu caracter temporar se prevede și perioada de aplicare sau data încetării aplicării sale. (4) Pentru legile prevăzute de art. 115 alin. (8) din Constituția României, republicată , în cadrul dispozițiilor finale se prevăd, dacă este cazul, măsurile necesare cu privire la efectele juridice produse pe perioada de aplicare a ordonanței."
+    },
+    {
+      "provision_ref": "Art.56",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "56",
+      "title": "Articolul 56",
+      "content": "(1) Capitolele, titlurile, părțile și cărțile se numerotează cu cifre române, în succesiunea pe care o au în structura din care fac parte. Secțiunile și paragrafele se numerotează cu cifre arabe. (2) Titlurile, capitolele și secțiunile se denumesc prin exprimarea sintetică a reglementărilor pe care le cuprind."
+    },
+    {
+      "provision_ref": "Art.57",
+      "chapter": "Capitolul V - Structura actului normativ | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "57",
+      "title": "Articolul 57",
+      "content": "(1) La redactarea textului unui proiect de act normativ se pot folosi, ca părți componente ale acestuia, anexe care conțin prevederi ce cuprind exprimări cifrice, desene, tabele, planuri sau altele asemenea. (2) Pot constitui anexe la un act normativ reglementările ce trebuie aprobate de autoritatea publică competentă, cum sunt: regulamente, statute, metodologii sau norme cu caracter predominant tehnic. (3) Anexa trebuie să aibă un temei-cadru în corpul actului normativ și să se refere exclusiv la obiectul determinat prin textul de trimitere. (4) Textul-cadru de trimitere trebuie să facă, în finalul său, mențiunea că anexa face parte integrantă din actul normativ; dacă sunt mai multe anexe, în finalul actului normativ se include un articol distinct, cuprinzând aceeași mențiune, însoțită de nominalizarea expresă a tuturor anexelor. (5) Titlul anexei cuprinde exprimarea sintetică a ideii din textul de trimitere. (6) Dacă sunt mai multe anexe, acestea se numerotează cu cifre arabe, în ordinea în care au fost enunțate în textul proiectului."
+    },
+    {
+      "provision_ref": "Art.58",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "58",
+      "title": "Articolul 58",
+      "content": "(1) După intrarea în vigoare a unui act normativ, pe durata existenței acestuia pot interveni diferite evenimente legislative, cum sunt: modificarea, completarea, abrogarea, republicarea, suspendarea sau altele asemenea. (2) În situații temeinic justificate, prin excepție de la prevederile alin. (1) , actele normative de importanță și complexitate deosebită pot fi modificate, completate sau, după caz, abrogate de autoritatea emitentă și în perioada cuprinsă între data publicării în Monitorul Oficial al României, Partea I, și data prevăzută pentru intrarea lor în vigoare, cu condiția ca intervențiile propuse să între în vigoare la aceeași dată cu actul normativ supus evenimentului legislativ. (3) Evenimentele legislative pot fi dispuse prin acte normative ulterioare de același nivel sau de nivel superior, având ca obiect exclusiv evenimentul respectiv, dar și prin alte acte normative ulterioare care, în principal, reglementează o anumită problematică, iar ca măsură conexă dispun asemenea evenimente pentru a asigura corelarea celor două acte normative interferente."
+    },
+    {
+      "provision_ref": "Art.59",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "59",
+      "title": "Articolul 59",
+      "content": "(1) Modificarea unui act normativ constă în schimbarea expresă a textului unora sau mai multor articole ori alineate ale acestuia și în redarea lor într-o nouă formulare. (2) Pentru exprimarea normativă a intenției de modificare a unui act normativ se nominalizează expres textul vizat, cu toate elementele de identificare necesare, iar dispoziția propriu-zisă se formulează utilizându-se sintagma \"se modifică și va avea următorul cuprins:\", urmată de redarea noului text. (3) Procedeul de a se menționa generic, în finalul unui act normativ, că un alt act normativ conex sau texte din acel act \"se modifică corespunzător\" trebuie evitat. De asemenea, nu se utilizează, pentru a exprima o modificare, redarea doar a unor fragmente ori sintagme dintr-un text. Modificarea trebuie să cuprindă în întregime textul vizat, cuprins în articol, alineat sau în elementul marcat al unei enumerări."
+    },
+    {
+      "provision_ref": "Art.60",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "60",
+      "title": "Articolul 60",
+      "content": "(1) Completarea actului normativ constă în introducerea unor dispoziții noi, cuprinzând soluții legislative și ipoteze suplimentare, exprimate în texte care se adaugă elementelor structurale existente, prin utilizarea unei formule de exprimare, cum ar fi: \"După articolul... se introduce un nou articol,......, cu următorul cuprins:\". (2) Dacă actul de completare nu dispune renumerotarea actului completat, structurile, inclusiv articolele sau alineatele nou-introduse, vor dobândi numărul structurilor corespunzătoare celor din textul vechi, după care se introduc, însoțite de un indice cifric, pentru diferențiere."
+    },
+    {
+      "provision_ref": "Art.61",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "61",
+      "title": "Articolul 61",
+      "content": "(1) Modificarea sau completarea unui act normativ este admisă numai dacă nu se afectează concepția generală ori caracterul unitar al acelui act sau dacă nu privește întreaga ori cea mai mare parte a reglementării în cauză; în caz contrar actul se înlocuiește cu o nouă reglementare, urmând să fie în întregime abrogat. (2) Prevederile modificate sau care completează actul normativ trebuie să se integreze armonios în actul supus modificării ori completării, asigurându-se unitatea de stil și de terminologie, precum și succesiunea normală a articolelor."
+    },
+    {
+      "provision_ref": "Art.62",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "62",
+      "title": "Articolul 62",
+      "content": "Dispozițiile de modificare și de completare se încorporează, de la data intrării lor în vigoare, în actul de bază, identificându-se cu acesta. Intervențiile ulterioare de modificare sau de completare a acestora trebuie raportate tot la actul de bază."
+    },
+    {
+      "provision_ref": "Art.63",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "63",
+      "title": "Articolul 63",
+      "content": "Pentru instituirea unei norme derogatorii se va folosi formula \"prin derogare de la...\", urmată de menționarea reglementării de la care se derogă. Derogarea se poate face numai printr-un act normativ de nivel cel puțin egal cu cel al reglementării de bază."
+    },
+    {
+      "provision_ref": "Art.64",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "64",
+      "title": "Articolul 64",
+      "content": "(1) Prevederile cuprinse într-un act normativ, contrare unei noi reglementări de același nivel sau de nivel superior, trebuie abrogate. Abrogarea poate fi totală sau parțială. (2) În cazul unor abrogări parțiale intervenite succesiv, ultima abrogare se va referi la întregul act normativ, nu numai la textele rămase în vigoare. (3) Abrogarea unei dispoziții sau a unui act normativ are caracter definitiv. Nu este admis ca prin abrogarea unui act de abrogare anterior să se repună în vigoare actul normativ inițial. Fac excepție prevederile din ordonanțele Guvernului care au prevăzut norme de abrogare și au fost respinse prin lege de către Parlament. (4) Dacă o normă de nivel inferior, cu același obiect, nu a fost abrogată expres de actul normativ de nivel superior, această obligație îi revine autorității care a emis prima actul. (5) Abrogările parțiale sunt asimilate modificărilor de acte normative, actul normativ abrogat parțial rămânând în vigoare prin dispozițiile sale neabrogate."
+    },
+    {
+      "provision_ref": "Art.65",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "65",
+      "title": "Articolul 65",
+      "content": "(1) Abrogarea poate fi dispusă, de regulă, printr-o dispoziție distinctă în finalul unui act normativ care reglementează o anumită problematică, dacă aceasta afectează dispoziții normative anterioare, conexe cu ultima reglementare. (2) În cadrul operațiunilor de sistematizare și unificare a legislației se pot elabora și adopta acte normative de abrogare distincte, având ca obiect exclusiv abrogarea mai multor acte normative. (3) În vederea abrogării, dispozițiile normative vizate trebuie determinate expres, începând cu legile și apoi cu celelalte acte normative, prin menționarea tuturor datelor de identificare a acestora."
+    },
+    {
+      "provision_ref": "Art.66",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "66",
+      "title": "Articolul 66",
+      "content": "(1) În cazuri speciale aplicarea unui act normativ poate fi suspendată printr-un alt act normativ de același nivel sau de nivel superior. În această situație se vor prevedea, în mod expres, data la care se produce suspendarea, precum și durata ei determinată. (2) La expirarea duratei de suspendare actul normativ sau dispoziția afectată de suspendare reintră de drept în vigoare. (3) Prelungirea suspendării ori modificarea sau abrogarea actului normativ ori a dispoziției suspendate poate face obiectul unui act normativ sau al unei dispoziții exprese, cu aplicare de la data expirării suspendării."
+    },
+    {
+      "provision_ref": "Art.67",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "67",
+      "title": "Articolul 67",
+      "content": "(1) În cazuri deosebite, în care la elaborarea și adoptarea unei reglementări nu a fost posibilă identificarea tuturor normelor contrare, se poate prezuma că acestea au făcut obiectul modificării, completării ori abrogării lor implicite. (2) În cadrul atribuțiilor sale Consiliul Legislativ are obligația să identifice toate dispozițiile legale care au suferit evenimentele legislative implicite și să propună Parlamentului și, respectiv, Guvernului măsurile necesare de modificare, completare sau abrogare expresă a acestora. (3) Evenimentele legislative implicite nu sunt recunoscute în cazul actelor normative speciale ale căror dispoziții nu pot fi socotite modificate, completate sau abrogate nici prin reglementarea generală a materiei, decât dacă acest lucru este exprimat expres."
+    },
+    {
+      "provision_ref": "Art.68",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "68",
+      "title": "Articolul 68",
+      "content": "(1) Actele normative pot avea aplicare limitată în timp, în spațiu sau privind obiectul reglementării. (2) Prin acte normative ulterioare se poate prelungi, extinde sau restrânge durata actelor normative temporare, precum și a celor cu aplicare limitată în spațiu sau privind obiectul reglementării. (3) Dispoziția de prelungire a termenului de aplicare a actului normativ temporar trebuie să intervină înainte de expirarea termenului și să indice, când este cazul, noul termen."
+    },
+    {
+      "provision_ref": "Art.69",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "69",
+      "title": "Articolul 69",
+      "content": "(1) Intervențiile legislative pentru clarificarea sensului unor norme legale se realizează printr-un act normativ interpretativ de același nivel cu actul vizat, prin dispoziții interpretative cuprinse într-un nou act normativ sau prin modificarea dispoziției al cărui sens trebuie clarificat. (2) Interpretarea legală intervenită potrivit alin. (1) poate confirma sau, după caz, infirma ori modifica interpretările judiciare, arbitrale sau administrative, adoptate până la acea dată, cu respectarea drepturilor câștigate."
+    },
+    {
+      "provision_ref": "Art.70",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "70",
+      "title": "Articolul 70",
+      "content": "(1) Actul normativ modificat sau completat în mod substanțial se republică având la bază dispoziția cuprinsă în actul de modificare, respectiv de completare. (2) În vederea republicării actului normativ se realizează integrarea prevederilor modificate sau a celor de completare în ansamblul reglementării, actualizându-se denumirile schimbate între timp, cum ar fi cele ale unor instituții sau localități, dându-se, atunci când s-a dispus expres, o nouă numerotare articolelor, alineatelor, capitolelor și celorlalte structuri ale actului. (3) Republicarea legilor, a ordonanțelor și hotărârilor Guvernului se face în Monitorul Oficial al României, Partea I, prin grija autorității publice care a emis actul de modificare, respectiv de completare. Republicarea se face în cel mult 45 de zile de la data publicării actului care a dispus această măsură. Transmiterea formei republicabile a actului pentru obținerea avizului Consiliului Legislativ se face în termen de 30 de zile de la data publicării actului care a dispus republicarea. În cazul codurilor, termenele se prelungesc cu 15 zile. (4) Republicarea actelor normative modificate sau completate prin ordonanțe ale Guvernului se face după aprobarea acestora din urmă prin lege, pentru a nu se crea eventuale discrepanțe cu actul de aprobare, în cazul în care acesta aduce alte modificări ordonanței supuse aprobării. (5) Legile, precum și ordonanțele și hotărârile Guvernului se republică cu avizul Consiliului Legislativ asupra noului text, la sesizarea secretarului general al Camerei Deputaților sau, după caz, al Secretariatului General al Guvernului."
+    },
+    {
+      "provision_ref": "Art.70^1",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "70^1",
+      "title": "Articolul 70^1",
+      "content": "(1) După intrarea în vigoare a actului normativ de modificare și/sau de completare, legile, precum și ordonanțele, ordonanțele de urgență și hotărârile cu caracter normativ ale Guvernului asupra cărora au intervenit evenimente legislative se afișează, în versiune consolidată, pe site-ul Consiliului Legislativ. (2) Consolidarea prevăzută la alin. (1) constă, după caz, în integrarea normelor de modificare și/sau de completare, precum și în menționarea elementelor structurale abrogate în mod expres și direct, în ansamblul actului normativ de bază, fără renumerotarea articolelor, alineatelor, capitolelor și a celorlalte structuri ale actului și fără actualizarea denumirilor. (3) Versiunea consolidată a actului normativ este un instrument de documentare care nu produce efecte juridice. Numai actele normative publicate în Monitorul Oficial al României, Partea I, pot fi folosite ca texte de referință, în scopuri juridice. (4) Autoritatea publică prevăzută la alin. (1) realizează consolidarea și afișează versiunea consolidată a actului normativ de bază pe site-ul propriu, în termen de 15 zile de la data intrării în vigoare a actului normativ de modificare și/sau de completare. În cazul codurilor și al altor legi complexe, termenul se prelungește cu încă 10 zile. (la 15-12-2022, Capitolul VI a fost completat de Articolul II din LEGEA nr. 343 din 9 decembrie 2022, publicată în MONITORUL OFICIAL nr. 1191 din 12 decembrie 2022 )"
+    },
+    {
+      "provision_ref": "Art.71",
+      "chapter": "Capitolul VI - Modificarea, completarea, abrogarea și alte evenimente legislative | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "71",
+      "title": "Articolul 71",
+      "content": "(1) În cazul în care după publicarea actului normativ se descoperă erori materiale în cuprinsul său, se procedează la publicarea unei note cuprinzând rectificările necesare. (2) Se interzice modificarea prevederilor unor acte normative prin recurgerea la operațiunea de rectificare, care trebuie limitată numai la erorile materiale. (3) Rectificarea se face la cererea organului emitent, cu avizul Consiliului Legislativ."
+    },
+    {
+      "provision_ref": "Art.72",
+      "chapter": "Capitolul VII - Norme privind pregătirea și elaborarea proiectelor de acte normative prin care se ratifică sau se aprobă înțelegeri internaționale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "72",
+      "title": "Articolul 72",
+      "content": "(1) Pentru ratificarea tratatelor internaționale încheiate de România se întocmesc, potrivit Constituției României și legii în materie, proiecte de legi. (2) În cazul acordurilor, convențiilor și al altor înțelegeri internaționale, pentru care competența de aprobare revine, potrivit legii, Guvernului, se vor elabora proiecte de hotărâri. (3) Proiectul de lege sau de hotărâre se supune spre adoptare, însoțit de textul actului internațional în limba originală și în traducere oficială sau autorizată. (4) Textele actelor cu caracter internațional ce se supun ratificării sau aprobării se vor ștampila pe fiecare pagină, iar pe ultima pagină se va atesta, prin semnătura persoanei autorizate și prin aplicarea ștampilei, conformitatea documentului cu originalul."
+    },
+    {
+      "provision_ref": "Art.73",
+      "chapter": "Capitolul VII - Norme privind pregătirea și elaborarea proiectelor de acte normative prin care se ratifică sau se aprobă înțelegeri internaționale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "73",
+      "title": "Articolul 73",
+      "content": "Normele de tehnică legislativă sunt aplicabile în mod corespunzător și proiectelor de acte normative prin care se ratifică sau se aprobă tratate sau alte înțelegeri internaționale."
+    },
+    {
+      "provision_ref": "Art.74",
+      "chapter": "Capitolul VII - Norme privind pregătirea și elaborarea proiectelor de acte normative prin care se ratifică sau se aprobă înțelegeri internaționale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "74",
+      "title": "Articolul 74",
+      "content": "Titlul proiectului de act normativ va cuprinde denumirea integrală a înțelegerii internaționale, data și locul semnării acesteia; în funcție de situație, prin titlu se exprimă ideea de ratificare, aderare sau aprobare a înțelegerii internaționale respective."
+    },
+    {
+      "provision_ref": "Art.75",
+      "chapter": "Capitolul VII - Norme privind pregătirea și elaborarea proiectelor de acte normative prin care se ratifică sau se aprobă înțelegeri internaționale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "75",
+      "title": "Articolul 75",
+      "content": "În cazul în care două sau mai multe înțelegeri internaționale se ratifică sau se aprobă printr-un singur act, măsura ratificării ori aprobării se va exprima, pentru fiecare înțelegere, printr-un articol distinct."
+    },
+    {
+      "provision_ref": "Art.76",
+      "chapter": "Capitolul VII - Norme privind pregătirea și elaborarea proiectelor de acte normative prin care se ratifică sau se aprobă înțelegeri internaționale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "76",
+      "title": "Articolul 76",
+      "content": "Actele de ratificare sau de aprobare se publică însoțite de textele tratatelor internaționale ratificate și ale înțelegerilor aprobate."
+    },
+    {
+      "provision_ref": "Art.77",
+      "chapter": "Capitolul VIII - Norme cu privire la ordinele, instrucțiunile și celelalte acte normative emise de conducătorii ministerelor și ai altor organe ale administrației publice centrale de specialitate sau de autoritățile administrative autonome | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "77",
+      "title": "Articolul 77",
+      "content": "Ordinele cu caracter normativ, instrucțiunile și alte asemenea acte ale conducătorilor ministerelor și ai celorlalte organe ale administrației publice centrale de specialitate sau ale autorităților administrative autonome se emit numai pe baza și în executarea legilor, a hotărârilor și a ordonanțelor Guvernului. În formula introductivă a acestor acte normative vor fi cuprinse toate temeiurile juridice prevăzute la art. 42 alin. (4) ."
+    },
+    {
+      "provision_ref": "Art.78",
+      "chapter": "Capitolul VIII - Norme cu privire la ordinele, instrucțiunile și celelalte acte normative emise de conducătorii ministerelor și ai altor organe ale administrației publice centrale de specialitate sau de autoritățile administrative autonome | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "78",
+      "title": "Articolul 78",
+      "content": "Ordinele, instrucțiunile și alte asemenea acte trebuie să se limiteze strict la cadrul stabilit de actele pe baza și în executarea cărora au fost emise și nu pot conține soluții care să contravină prevederilor acestora."
+    },
+    {
+      "provision_ref": "Art.79",
+      "chapter": "Capitolul VIII - Norme cu privire la ordinele, instrucțiunile și celelalte acte normative emise de conducătorii ministerelor și ai altor organe ale administrației publice centrale de specialitate sau de autoritățile administrative autonome | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "79",
+      "title": "Articolul 79",
+      "content": "Ordinele și instrucțiunile se vor elabora în termenul prevăzut de actul superior sau, după caz, într-un termen util care să facă posibilă ducerea lor la îndeplinire."
+    },
+    {
+      "provision_ref": "Art.80",
+      "chapter": "Capitolul IX - Norme cu privire la actele normative adoptate de autoritățile administrației publice locale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "80",
+      "title": "Articolul 80",
+      "content": "Actele normative ale autorităților administrației publice locale se adoptă ori se emit pentru reglementarea unor activități de interes local, în limitele stabilite prin Constituție și prin lege și numai în domeniile în care acestea au atribuții legale."
+    },
+    {
+      "provision_ref": "Art.81",
+      "chapter": "Capitolul IX - Norme cu privire la actele normative adoptate de autoritățile administrației publice locale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "81",
+      "title": "Articolul 81",
+      "content": "(1) La elaborarea proiectelor de hotărâri, ordine sau dispoziții se va avea în vedere caracterul lor de acte subordonate legilor, hotărârilor și ordonanțelor Guvernului și altor acte de nivel superior. (2) Reglementările cuprinse în hotărârile consiliilor locale și ale consiliilor județene, precum și cele cuprinse în ordinele prefecților sau în dispozițiile primarilor nu pot contraveni Constituției României și reglementărilor din actele normative de nivel superior."
+    },
+    {
+      "provision_ref": "Art.82",
+      "chapter": "Capitolul IX - Norme cu privire la actele normative adoptate de autoritățile administrației publice locale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "82",
+      "title": "Articolul 82",
+      "content": "În formula introductivă a proiectului de act normativ adoptat sau emis de autoritățile administrației publice locale se menționează, pe lângă temeiurile juridice, prevăzute la art. 42 alin. (4) , și temeiul legal din Legea administrației publice locale nr. 215/2001 , republicată*), cu modificările și completările ulterioare. *) Legea administrației publice locale nr. 215/2001 a fost republicată în Monitorul Oficial al României, Partea I, nr. 123 din 20 februarie 2007."
+    },
+    {
+      "provision_ref": "Art.83",
+      "chapter": "Capitolul IX - Norme cu privire la actele normative adoptate de autoritățile administrației publice locale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "83",
+      "title": "Articolul 83",
+      "content": "În vederea intrării lor în vigoare, actele normative adoptate de autoritățile administrației publice locale se aduc la cunoștință publică, în condițiile Legii nr. 215/2001 , republicată, cu modificările și completările ulterioare, prin afișare în locuri autorizate și prin publicare într-un cotidian local de mare tiraj."
+    },
+    {
+      "provision_ref": "Art.84",
+      "chapter": "Capitolul X - Dispoziții finale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "84",
+      "title": "Articolul 84",
+      "content": "Parlamentul, Guvernul și celelalte autorități ale administrației publice centrale și locale stabilesc, în aplicarea normelor de tehnică legislativă prevăzute în prezenta lege, regulamente proprii cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de acte normative în cadrul sferei lor de competență."
+    },
+    {
+      "provision_ref": "Art.85",
+      "chapter": "Capitolul X - Dispoziții finale | Secţiunea a 2-a - Sistematizarea conținutului actului normativ",
+      "section": "85",
+      "title": "Articolul 85",
+      "content": "La data intrării în vigoare a prezentei legi se abrogă Decretul nr. 16/1976 pentru aprobarea Metodologiei generale de tehnică legislativă privind pregătirea și sistematizarea proiectelor de acte normative, publicat în Buletinul Oficial, Partea I, nr. 14 din 13 februarie 1976. __________"
+    }
+  ],
+  "definitions": []
+}

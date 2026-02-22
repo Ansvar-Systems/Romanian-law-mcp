@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-267635",
+  "type": "statute",
+  "title": "LEGE nr. 106 din 4 mai 2023",
+  "short_name": "lege 106 04 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-04",
+  "in_force_date": "2023-05-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/267635",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 106 04/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 294 din Legea educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 18 din 10 ianuarie 2011, cu modificările și completările ulterioare, alineatul (5^1) se abrogă."
+    }
+  ],
+  "definitions": []
+}

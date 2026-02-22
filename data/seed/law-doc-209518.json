@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209518",
+  "type": "statute",
+  "title": "LEGE nr. 349 din 27 decembrie 2018",
+  "short_name": "lege 349 27 12 2018",
+  "status": "in_force",
+  "issued_date": "2018-12-27",
+  "in_force_date": "2018-12-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209518",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 349 27/12/2018",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial al României, Partea I, nr. 670 din 3 august 2006, cu modificările și completările ulterioare, se completează după cum urmează: – La articolul 111, după alineatul (7) se introduce un nou alineat, alineatul (8), cu următorul cuprins: (8) În cazul suspendării permisului de conducere pentru o perioadă determinată, cu eliberarea unei dovezi înlocuitoare cu drept de conducere pentru 15 zile, suspendarea exercitării dreptului de a conduce vehicule începe în unul din următoarele cazuri: a) din momentul expirării termenului de valabilitate a dovezii înlocuitoare; b) din momentul depunerii dovezii înlocuitoare, de către conducătorul auto, la oricare unitate de poliție rutieră în una din zilele din intervalul perioadei de valabilitate a acesteia."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-252620",
+  "type": "statute",
+  "title": "LEGE nr. 52 din 14 martie 2022",
+  "short_name": "lege 52 14 03 2022",
+  "status": "in_force",
+  "issued_date": "2022-03-14",
+  "in_force_date": "2022-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/252620",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 52 14/03/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 78 din 30 iunie 2021 privind autorizarea Ministerului Tineretului și Sportului de a transfera documentația tehnică achiziționată prin Programul operațional Asistență tehnică 2014-2020 către direcțiile județene pentru sport și tineret, publicată în Monitorul Oficial al României, Partea I, nr. 645 din 30 iunie 2021."
+    }
+  ],
+  "definitions": []
+}

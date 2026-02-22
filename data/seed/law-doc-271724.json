@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-271724",
+  "type": "statute",
+  "title": "LEGE nr. 192 din 28 iunie 2023",
+  "short_name": "lege 192 28 06 2023",
+  "status": "in_force",
+  "issued_date": "2023-06-28",
+  "in_force_date": "2023-06-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/271724",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 192 28/06/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Încetat efecte juridice."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Încetat efecte juridice."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "Legea nr. 96/2006 privind Statutul deputaților și al senatorilor, republicată în Monitorul Oficial al României, Partea I, nr. 49 din 22 ianuarie 2016, cu modificările și completările ulterioare, precum și cu modificarea adusă prin prezenta lege, va fi republicată în Monitorul Oficial al României, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

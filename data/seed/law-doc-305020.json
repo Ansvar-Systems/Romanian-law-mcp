@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-305020",
+  "type": "statute",
+  "title": "LEGE nr. 208 din 8 decembrie 2025",
+  "short_name": "lege 208 08 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-08",
+  "in_force_date": "2025-12-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305020",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 208 08/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se declară luna martie ca Luna Femeilor, perioadă dedicată recunoașterii și celebrării contribuțiilor femeilor din România în toate domeniile de activitate."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Autoritățile administrației publice centrale și locale, precum și instituțiile publice aflate în subordinea sau coordonarea acestora pot organiza sau sprijini material și financiar organizarea de manifestări culturale, artistice, educative, științifice, precum și acțiuni social-culturale dedicate femeilor și rolului acestora în societate."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Societatea Română de Televiziune și Societatea Română de Radiodifuziune vor reflecta, prin programele lor culturale și educative, manifestările dedicate Lunii Femeilor, asigurând promovarea acestora la nivel național."
+    }
+  ],
+  "definitions": []
+}

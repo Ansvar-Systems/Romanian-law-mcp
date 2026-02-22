@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-215904",
+  "type": "statute",
+  "title": "LEGE nr. 125 din 3 iulie 2019",
+  "short_name": "lege 125 03 07 2019",
+  "status": "in_force",
+  "issued_date": "2019-07-03",
+  "in_force_date": "2019-07-03",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/215904",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 125 03/07/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 33 din 3 mai 2018 privind modificarea Ordonanței Guvernului nr. 46/1998 pentru stabilirea unor măsuri în vederea îndeplinirii obligațiilor asumate de România prin aderarea la Convenția internațională EUROCONTROL privind cooperarea pentru securitatea navigației aeriene și la Acordul multilateral privind tarifele de rută aeriană , precum și a unor obligații care rezultă pentru România din regulamentele adoptate la nivelul Uniunii Europene în domeniul serviciilor de navigație aeriană, publicată în Monitorul Oficial al României, Partea I, nr. 394 din 8 mai 2018."
+    }
+  ],
+  "definitions": []
+}

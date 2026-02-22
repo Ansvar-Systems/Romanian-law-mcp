@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-169894",
+  "type": "statute",
+  "title": "LEGE nr. 201 din 16 iulie 2015",
+  "short_name": "lege 201 16 07 2015",
+  "status": "in_force",
+  "issued_date": "2015-07-16",
+  "in_force_date": "2015-07-16",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/169894",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 201 16/07/2015",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "La articolul 21 alineatul (1) din Ordonanţa Guvernului nr. 51/1998 privind îmbunătăţirea sistemului de finanţare a programelor, proiectelor şi acţiunilor culturale, publicată în Monitorul Oficial al României, Partea I, nr. 296 din 13 august 1998, aprobată cu modificări şi completări prin Legea nr. 245/2001 , cu modificările şi completările ulterioare, litera f) se modifică şi va avea următorul cuprins: \"f) o cotă de 3% din încasările realizate de operatorii economici din vânzarea calendarelor sau cărţilor poştale ilustrate, afişelor, posterelor şi imaginilor autocolante, altele decât cele prevăzute la lit. a);\""
+    }
+  ],
+  "definitions": []
+}

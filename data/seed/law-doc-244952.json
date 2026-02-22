@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-244952",
+  "type": "statute",
+  "title": "LEGE nr. 223 din 26 iulie 2021",
+  "short_name": "lege 223 26 07 2021",
+  "status": "in_force",
+  "issued_date": "2021-07-26",
+  "in_force_date": "2021-07-26",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/244952",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 223 26/07/2021",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "Alineatul (3) al articolului 4 din Ordonanța Guvernului nr. 86/2003 privind unele reglementări în domeniul financiar, publicată în Monitorul Oficial al României, Partea I, nr. 624 din 31 august 2003, aprobată cu modificări și completări prin Legea nr. 609/2003 , cu modificările și completările ulterioare, se modifică și va avea următorul cuprins: (3) Prețurile de vânzare a mărfurilor vor fi exprimate în euro și vor fi afișate la vedere. Excepție fac ziarele și revistele, care pot fi comercializate și în lei, în limita a 50 lei. Pentru aceste vânzări nu se vor întocmi bonuri fiscale și nu se vor solicita cumpărătorilor pașaportul, cartea de îmbarcare sau biletul de avion. Pentru justificarea vânzărilor se va face zilnic un singur bon fiscal. Pentru țigarete, conversia din lei a prețurilor de vânzare cu amănuntul declarate și stabilite conform art. 343 alin. (8) din Legea nr. 227/2015 privind Codul fiscal , cu modificările și completările ulterioare, se obține folosind cursul leu/euro stabilit de Banca Centrală Europeană pentru prima zi lucrătoare a lunii octombrie și publicat în Jurnalul Oficial al Uniunii Europene, aplicabil începând cu data de 1 ianuarie a următorului an calendaristic. Prețurile de vânzare cu amănuntul pentru țigarete obținute după efectuarea conversiei din lei în euro se rotunjesc la nivel de o zecimală, prin reducere, atunci când a doua zecimală este mai mică decât 5, și prin majorare atunci când a doua zecimală este mai mare sau egală cu 5."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Ordonanța Guvernului nr. 86/2003 privind unele reglementări în domeniul financiar, publicată în Monitorul Oficial al României, Partea I, nr. 624 din 31 august 2003, aprobată cu modificări și completări prin Legea nr. 609/2003 , cu modificările și completările ulterioare, inclusiv cele aduse prin prezenta lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o nouă numerotare."
+    }
+  ],
+  "definitions": []
+}

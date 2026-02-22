@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-188451",
+  "type": "statute",
+  "title": "LEGE nr. 71 din 14 aprilie 2017",
+  "short_name": "lege 71 14 04 2017",
+  "status": "in_force",
+  "issued_date": "2017-04-14",
+  "in_force_date": "2017-04-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/188451",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 71 14/04/2017",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Acordul dintre Guvernul României şi Cabinetul de Miniştri al Ucrainei privind patrularea comună la frontiera de stat româno-ucraineană, semnat la 21 aprilie 2016 la Bucureşti."
+    }
+  ],
+  "definitions": []
+}

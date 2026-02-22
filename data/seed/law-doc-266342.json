@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-266342",
+  "type": "statute",
+  "title": "LEGE nr. 67 din 28 martie 2023",
+  "short_name": "lege 67 28 03 2023",
+  "status": "in_force",
+  "issued_date": "2023-03-28",
+  "in_force_date": "2023-03-28",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/266342",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 67 28/03/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "La articolul 6 din Legea nr. 361/2022 privind protecția avertizorilor în interes public, publicată în Monitorul Oficial al României, Partea I, nr. 1218 din 19 decembrie 2022, alineatul (2) se modifică și va avea următorul cuprins: (2) Prin excepție de la prevederile alin. (1), raportarea care nu cuprinde numele, prenumele, datele de contact sau semnătura avertizorului în interes public se examinează și se soluționează în măsura în care conține indicii referitoare la încălcări ale legii."
+    }
+  ],
+  "definitions": []
+}

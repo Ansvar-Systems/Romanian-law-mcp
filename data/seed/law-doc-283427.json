@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-283427",
+  "type": "statute",
+  "title": "LEGE nr. 171 din 31 mai 2024",
+  "short_name": "lege 171 31 05 2024",
+  "status": "in_force",
+  "issued_date": "2024-05-31",
+  "in_force_date": "2024-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/283427",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 171 31/05/2024",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Tabelele-anexă nr. I și II la Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri, republicată în Monitorul Oficial al României, Partea I, nr. 163 din 6 martie 2014, cu modificările și completările ulterioare, se completează după cum urmează: 1. În tabelul nr. I, după substanța „1-(1,3-Benzodioxol-5-y1)-2-(ethylamino)butan-1-one (Eutylone)“ se introduc următoarele substanțe: N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-indazole-3-carboxamide (ADB-BUTINACA) 4-methyl-1-phenyl-2-pyrrolidin-1-yl-pentan-1-one (alpha-PiHP) 2. În tabelul nr. II, după substanța „N, N-diethyl-2-(2-(4-methoxybenzyl)-5-nitro-1H-benzo [d]imidazol-1-yl)ethan-1-amine (Metonitazene)“ se introduc următoarele substanțe: 1-[2-methyl-4-(3-phenylprop-2-en-1-yl)piperazin-1-yl]butan-1-one (2-methyl-AP-237) 2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-1H-benzimidazole-1-ethanamine (Etazene) 2-(4-ethoxybenzyl)-5-nitro-1-(2-(pyrrolidin-1-yl)ethyl)-1H-benzo[d]imidazole (Etonitazepyne) N,N-diethyl-5-nitro-2-[(4-propoxyphenyl)methyl]-1H-benzimidazole-l-ethanamine (Protonitazene)"
+    }
+  ],
+  "definitions": []
+}

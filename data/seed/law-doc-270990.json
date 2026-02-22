@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-270990",
+  "type": "statute",
+  "title": "LEGE nr. 162 din 31 mai 2023",
+  "short_name": "lege 162 31 05 2023",
+  "status": "in_force",
+  "issued_date": "2023-05-31",
+  "in_force_date": "2023-05-31",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/270990",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 162 31/05/2023",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Ordonanța de urgență a Guvernului nr. 97/2005 privind evidența, domiciliul, reședința și actele de identitate ale cetățenilor români, republicată în Monitorul Oficial al României, Partea I, nr. 719 din 12 octombrie 2011, cu modificările și completările ulterioare, se modifică și se completează după cum urmează: 1. La articolul 14, după alineatul (1) se introduce un nou alineat, alin. (1^1), cu următorul cuprins: (1^1) De la data realizării condițiilor tehnice pentru eliberarea cărții electronice de identitate, cererea pentru eliberarea cărții electronice de identitate se soluționează de către orice serviciu public comunitar de evidență a persoanelor, indiferent de locul de domiciliu sau de reședință al persoanei fizice. 2. La articolul 28 alineatul (1), litera c) se modifică și va avea următorul cuprins: c) declarația pe propria răspundere a solicitantului, însoțită de nota de verificare a polițistului de ordine publică, prin care se certifică existența unui imobil cu destinație de locuință și faptul că solicitantul locuiește efectiv la adresa declarată, pentru persoana fizică ce nu poate prezenta documentele prevăzute la lit. a) și b), când proprietarului sau persoanei interesate nu i-au fost emise în condițiile de validitate prevăzute de legislația română în vigoare actele privind titlul locativ; 3. La articolul 28, după alineatul (3) se introduc patru noi alineate, alin. (4)-(7), cu următorul cuprins: (4) Nu poate fi înscrisă în actul de identitate adresa de domiciliu dacă în RNEP sunt înregistrate mai mult de 10 persoane la adresa respectivă. (5) Limita prevăzută la alin. (4) nu se aplică în cazul titularului unui drept locativ asupra imobilului situat la adresa membrilor familiei extinse și al situațiilor prevăzute la art. 34 alin. (1). (6) În sensul prezentei ordonanțe de urgență a Guvernului, prin familie extinsă se înțelege titularul dreptului locativ, soțul/soția acestuia, rudele titularului dreptului locativ ori ale soțului/soției în linie dreaptă, precum și cele în linie colaterală până la al patrulea grad inclusiv. (7) În cazul persoanelor defavorizate care nu pot face dovada adresei de domiciliu, aceasta se înscrie în baza adeverinței eliberate de unitatea administrativ-teritorială, din care rezultă adresa la care se stabilește domiciliul. 4. La articolul 31, după alineatul (2) se introduce un nou alineat, alin. (3), cu următorul cuprins: (3) Nu poate fi înscrisă în actul de identitate mențiunea privind reședința, dacă în RNEP sunt înregistrate mai mult de 10 persoane la adresa respectivă. Prevederile art. 28 alin. (5) se aplică în mod corespunzător. 5. Articolul 36 se modifică și va avea următorul cuprins: Articolul 36 Persoana care găzduiește o altă persoană care nu are înscrisă în actul de identitate adresa la care locuiește efectiv după trecerea termenului prevăzut la art. 31 alin. (1) are obligația de a se prezenta împreună cu aceasta la serviciul public comunitar de evidență a persoanelor de la locul unde este situat imobilul, în vederea exprimării consimțământului de primire în spațiu, făcând excepție persoanele prevăzute la art. 32 alin. (2) lit. a). 6. La articolul 39, alineatul (1) se modifică și va avea următorul cuprins: Articolul 39 (1) Persoanele care, din diferite motive, locuiesc la alte adrese decât cea din actul de identitate sunt obligate să solicite la serviciul public comunitar de evidență a persoanelor schimbarea domiciliului sau înscrierea mențiunii privind stabilirea reședinței în termen de 15 zile de la mutare și să ceară înscrierea în cartea de imobil. 7. La articolul 43, litera c) se modifică și va avea următorul cuprins: c) nerespectarea dispozițiilor art. 25, art. 31 alin. (3), art. 34 alin. (2) și art. 36, cu amendă de la 75 lei la 150 lei."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "se modifică și va avea următorul cuprins",
+      "definition": "c) declarația pe propria răspundere a solicitantului, însoțită de nota de verificare a polițistului de ordine publică, prin care se certifică existența unui imobil cu destinație de locuință și faptul că solicitantul locuiește efectiv la adresa declarată, pentru persoana fizică ce nu poate prezenta documentele prevăzute la lit",
+      "source_provision": "Art.1"
+    }
+  ]
+}

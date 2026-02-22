@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-209719",
+  "type": "statute",
+  "title": "LEGE nr. 19 din 8 ianuarie 2019",
+  "short_name": "lege 19 08 01 2019",
+  "status": "in_force",
+  "issued_date": "2019-01-08",
+  "in_force_date": "2019-01-08",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/209719",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 19 08/01/2019",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 87 din 27 septembrie 2018 privind modificarea și completarea Legii educației naționale nr. 1/2011 , publicată în Monitorul Oficial al României, Partea I, nr. 833 din 28 septembrie 2018, cu următoarea completare: – La articolul I, înaintea punctului 1 se introduce un nou punct, cu următorul cuprins: La articolul 168, după alineatul (9) se introduce un nou alineat, alineatul (10), cu următorul cuprins: (10) După acordarea titlului de doctor, în termen de maximum 180 de zile, IOSUD are obligația transmiterii către Biblioteca Națională a României a unui exemplar tipărit al tezei de doctorat și al anexelor acesteia, conform Legii nr. 111/1995 privind Depozitul legal de documente, republicată, exemplar destinat Fondului intangibil, precum și a unui exemplar digital al acestora, pe suport electronic, destinat consultării la cerere, la sediul Bibliotecii Naționale a României, de către orice persoană interesată, în condițiile respectării reglementărilor legale în vigoare."
+    }
+  ],
+  "definitions": []
+}

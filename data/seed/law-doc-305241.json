@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-305241",
+  "type": "statute",
+  "title": "LEGE nr. 235 din 12 decembrie 2025",
+  "short_name": "lege 235 12 12 2025",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2025-12-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/305241",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 235 12/12/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 185 din Legea învățământului preuniversitar nr. 198/2023 , publicată în Monitorul Oficial al României, Partea I, nr. 613 din 5 iulie 2023, cu modificările și completările ulterioare, după alineatul (10) se introduce un nou alineat, alin. (10^1), cu următorul cuprins: (10^1) În cazul în care candidatul înscris la examenul pentru obținerea licențierii în cariera didactică/definitivare, precum și la examenul pentru acordarea gradului didactic II sau I, după data programării acestuia, intră, la cerere, în concediu pentru creșterea copilului în vârstă de până la 2 ani, respectiv 3 ani, în cazul copilului cu handicap, precum și în concediu de acomodare, în conformitate cu prevederile legale, acesta are dreptul să continue inspecțiile sau, după caz, să susțină examenul la prima sesiune organizată după reluarea activității, fără a fi necesară reluarea inspecțiilor ori a altor probe sau examene deja efectuate în vederea înscrierii. Dispozițiile prezentului alineat se aplică și în cazul concediilor succesive."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "La articolul 62 din Legea învățământului superior nr. 199/2023 , publicată în Monitorul Oficial al României, Partea I, nr. 614 din 5 iulie 2023, cu modificările și completările ulterioare, după alineatul (5) se introduc două noi alineate, alin. (5^1) și (5^2), cu următorul cuprins: (5^1) Prin excepție de la prevederile alin. (3), în cazul întreruperii programului de doctorat pentru concediu de creștere a copilului în vârstă de până la 2 ani, respectiv 3 ani, în cazul copilului cu handicap, precum și pentru concediu de acomodare, la cererea studentului-doctorand, în conformitate cu prevederile legale, durata programului de studii universitare de doctorat se prelungește cu perioada concediului. (5^2) Prevederile alin. (5^1) se aplică și în cazul concediilor succesive de creștere a copilului, respectiv de acomodare, fiecare perioadă de concediu determinând întreruperea corespunzătoare și prelungirea duratei studiilor universitare de doctorat."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi se modifică în mod corespunzător: a) Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011 pentru aprobarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, cu modificările și completările ulterioare; b) Ordinul ministrului educației nr. 3.020/2024 pentru aprobarea Regulamentului-cadru privind studiile universitare de doctorat, cu modificările și completările ulterioare."
+    }
+  ],
+  "definitions": []
+}

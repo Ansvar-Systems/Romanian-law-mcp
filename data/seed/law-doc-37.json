@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-37",
+  "type": "statute",
+  "title": "LEGE Nr. 534 din 12 iulie 1945",
+  "short_name": "lege 534 12 07 1945",
+  "status": "in_force",
+  "issued_date": "1945-07-12",
+  "in_force_date": "1945-07-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/37",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 534 12/07/1945",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul UNIC",
+      "content": "Se suspenda, pînă la 23 Aprilie 1946, operarea tuturor pactelor comisorii, de orice grad şi pentru orice cauza, care sancţionează contractele de închiriere în care este chiriaş Statul, judeţul, comuna, sau în general, orice administraţie publică sau instituţie de drept public. Aceasta dispoziţie se aplică şi în cauzele în curs de judecată. Executarea hotărârilor de reziliere a contractelor de închiriere intrand în prevederile prezentei legi, se suspenda, de asemenea, pînă la 23 Aprilie 1946. ------------------"
+    }
+  ],
+  "definitions": []
+}

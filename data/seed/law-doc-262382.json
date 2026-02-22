@@ -1,0 +1,32 @@
+{
+  "id": "law-doc-262382",
+  "type": "statute",
+  "title": "LEGE nr. 343 din 9 decembrie 2022",
+  "short_name": "lege 343 09 12 2022",
+  "status": "in_force",
+  "issued_date": "2022-12-09",
+  "in_force_date": "2022-12-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/262382",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 343 09/12/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 2 alineatul (1) din Legea nr. 73/1993 pentru înființarea, organizarea și funcționarea Consiliului Legislativ, republicată în Monitorul Oficial al României, Partea I, nr. 1.122 din 29 noiembrie 2004, după litera f) se introduce o nouă literă, lit. f^1), cu următorul cuprins: f^1) întocmește versiuni consolidate ale legilor, precum și ale ordonanțelor, ordonanțelor de urgență și hotărârilor cu caracter normativ ale Guvernului;"
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "După articolul 70 din Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată în Monitorul Oficial al României, Partea I, nr. 260 din 21 aprilie 2010, cu modificările și completările ulterioare, se introduce un nou articol, art. 70^1, cu următorul cuprins: Versiunea consolidată Articolul 70^1 (1) După intrarea în vigoare a actului normativ de modificare și/sau de completare, legile, precum și ordonanțele, ordonanțele de urgență și hotărârile cu caracter normativ ale Guvernului asupra cărora au intervenit evenimente legislative se afișează, în versiune consolidată, pe site-ul Consiliului Legislativ. (2) Consolidarea prevăzută la alin. (1) constă, după caz, în integrarea normelor de modificare și/sau de completare, precum și în menționarea elementelor structurale abrogate în mod expres și direct, în ansamblul actului normativ de bază, fără renumerotarea articolelor, alineatelor, capitolelor și a celorlalte structuri ale actului și fără actualizarea denumirilor. (3) Versiunea consolidată a actului normativ este un instrument de documentare care nu produce efecte juridice. Numai actele normative publicate în Monitorul Oficial al României, Partea I, pot fi folosite ca texte de referință, în scopuri juridice. (4) Autoritatea publică prevăzută la alin. (1) realizează consolidarea și afișează versiunea consolidată a actului normativ de bază pe site-ul propriu, în termen de 15 zile de la data intrării în vigoare a actului normativ de modificare și/sau de completare. În cazul codurilor și al altor legi complexe, termenul se prelungește cu încă 10 zile."
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul III",
+      "content": "(1) În vederea implementării prevederilor art. II, Regia Autonomă „Monitorul Oficial“ și instituțiile publice cu atribuții în adoptarea și publicarea actelor normative pun la dispoziția Consiliului Legislativ, în format editabil, toate actele normative publicate în Monitorul Oficial al României, Partea I, inclusiv cele publicate anterior intrării în vigoare a prezentei legi. (2) În vederea aplicării prevederilor prezentei legi, denumirea Sectorului de republicări, rectificări, culegeri de acte normative - codexuri din cadrul Secției de evidență oficială a legislației și documentare se modifică în Sectorul de republicări, rectificări și versiuni consolidate ale actelor normative. Regulamentul de organizare și funcționare a Consiliului Legislativ se modifică în mod corespunzător. Orice alte dispoziții contrare se abrogă."
+    }
+  ],
+  "definitions": []
+}

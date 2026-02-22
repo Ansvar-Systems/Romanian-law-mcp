@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-253911",
+  "type": "statute",
+  "title": "LEGE nr. 91 din 13 aprilie 2022",
+  "short_name": "lege 91 13 04 2022",
+  "status": "in_force",
+  "issued_date": "2022-04-13",
+  "in_force_date": "2022-04-13",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/253911",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 91 13/04/2022",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 129 din 31 iulie 2020 pentru modificarea Ordonanței de urgență a Guvernului nr. 60/2009 privind unele măsuri în vederea implementării programului „O familie, o casă“, publicată în Monitorul Oficial al României, Partea I, nr. 704 din 5 august 2020."
+    }
+  ],
+  "definitions": []
+}

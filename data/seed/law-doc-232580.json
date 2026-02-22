@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-232580",
+  "type": "statute",
+  "title": "LEGE nr. 229 din 4 noiembrie 2020",
+  "short_name": "lege 229 04 11 2020",
+  "status": "in_force",
+  "issued_date": "2020-11-04",
+  "in_force_date": "2020-11-04",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/232580",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 229 04/11/2020",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul I",
+      "content": "La articolul 38 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, publicată în Monitorul Oficial al României, Partea I, nr. 492 din 28 iunie 2017, cu modificările și completările ulterioare, după alineatul (8) se introduce un nou alineat, alineatul (9), cu următorul cuprins: (9) Pentru personalul din structura Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor și a unităților din subordinea acesteia, care ocupă funcții și își desfășoară activitatea în condiții ce impun acordarea sporurilor specifice, stabilite potrivit prezentei legi, personal care nu a avut în plată sporuri în luna decembrie 2019, respectiv pentru personalul nou-încadrat, cuantumul sporurilor, indemnizațiilor, compensațiilor, primelor și al celorlalte elemente ale sistemului de salarizare care fac parte, potrivit legii, din salariul brut lunar se acordă prin raportare la salariul de bază aflat în plată."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul II",
+      "content": "Măsurile prevăzute la art. 38 alin. (9) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, astfel cum aceasta a fost completată prin prezenta lege, se aplică începând cu luna următoare intrării în vigoare a prezentei legi."
+    }
+  ],
+  "definitions": []
+}

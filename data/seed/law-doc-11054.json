@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-11054",
+  "type": "statute",
+  "title": "LEGE nr. 20 din 12 martie 1997",
+  "short_name": "lege 20 12 03 1997",
+  "status": "in_force",
+  "issued_date": "1997-03-12",
+  "in_force_date": "1997-03-12",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/11054",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 20 12/03/1997",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul unic",
+      "content": "Se aprobă Ordonanța de urgenta a Guvernului nr. 1/1996 privind drepturile personalului a cărui activitate a fost temporar întreruptă ca urmare a limitării furnizarii energiei electrice, în perioada 9-26 februarie 1996, publicată în Monitorul Oficial al României, Partea I, nr. 49 din 7 martie 1996, cu următoarea modificare: - Articolul 4 se modifica și va avea următorul cuprins: Articolul 4 Agenții economici prevăzuți la art. 1 pot formula pretenții față de Regia Autonomă de Electricitate \"Renel\", pentru perioada 9-26 februarie 1996, în temeiul raporturilor contractuale. Regia Autonomă de Electricitate \"Renel\" este obligată ca, în termen de 10 zile de la primirea solicitărilor beneficiarilor de energie electrica, să le analizeze și să le concilieze."
+    }
+  ],
+  "definitions": []
+}

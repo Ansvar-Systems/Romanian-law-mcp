@@ -1,0 +1,480 @@
+{
+  "id": "law-doc-43737",
+  "type": "statute",
+  "title": "LEGE nr. 187 din 9 mai 2003",
+  "short_name": "lege 187 09 05 2003",
+  "status": "in_force",
+  "issued_date": "2003-05-09",
+  "in_force_date": "2003-05-09",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/43737",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 187 09/05/2003",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "(1) Prezenta lege cuprinde reguli privind competenţa de soluţionare a litigiilor născute dintr-un raport de drept internaţional privat în materie civilă şi comercială, precum şi norme privind recunoaşterea şi executarea hotărârilor judecătoreşti pronunţate în statele membre ale Uniunii Europene. (2) Dispoziţiile Legii nr. 105/1992 cu privire la reglementarea raporturilor de drept internaţional privat sunt aplicabile în măsura în care prezenta lege nu stabileşte o alta reglementare."
+    },
+    {
+      "provision_ref": "Art.2",
+      "chapter": "Capitolul 1 - Dispoziţii generale",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) În sensul prezentei legi, prin raport de drept internaţional privat se înţelege raportul juridic de drept privat cu element de extraneitate, în care elementul de extraneitate aparţine oricăruia dintre statele membre ale Uniunii Europene, denumite în continuare state membre. (2) Prin hotărâre pronunţată într-un stat membru se înţelege orice act de jurisdicţie pronunţat de o instanţa dintr-un stat membru, indiferent de denumirea acestui act, inclusiv un decret, ordin, decizie sau mandat de executare, precum şi actul prin care se stabilesc de către grefier cheltuielile de judecată. (3) Prezenta lege nu se aplică în cazul litigiilor şi al hotărârilor pronunţate în statele membre privind: a) capacitatea juridică a persoanei fizice; b) dreptul de proprietate derivat dintr-o relaţie matrimoniala; c) succesiunile; d) asigurările sociale; e) arbitrajul; f) reorganizarea, lichidarea, concordatul sau alte măsuri similare, pronunţate în cadrul procedurilor de insolventa."
+    },
+    {
+      "provision_ref": "Art.3",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea 1 - Competenţa generală",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Dacă prin prezenta lege nu se prevede altfel, instanţele judecătoreşti române sunt competente să soluţioneze litigiile dintre o parte română şi o parte străină sau numai dintre străini, persoane fizice ori persoane juridice, dacă pârâtul sau cel puţin unul dintre pârâţi îşi are domiciliul, reşedinţa ori fondul de comerţ în România."
+    },
+    {
+      "provision_ref": "Art.4",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea 1 - Competenţa generală",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Persoana având domiciliul sau, după caz, sediul în România ori într-un stat membru poate fi chemată în judecata în faţa instanţelor din alt stat membru, respectiv în faţa instanţelor române, după cum urmează: a) în materie contractuală, la instanţa statului pe al cărui teritoriu se afla locul de executare. În sensul prezentului articol, prin loc de executare se înţelege, în cazul vânzării de mărfuri, locul unde au fost sau ar fi trebuit să fie livrate mărfurile, iar în cazul prestărilor de servicii, locul unde au fost sau ar fi trebuit să fie prestate serviciile; b) în materia obligaţiei de întreţinere, la instanţa statului pe al cărui teritoriu se afla domiciliul sau reşedinţa creditorului, dacă cererea este formulată pe cale principala. În cazul în care cererea privind pensia de întreţinere este formulată pe cale accesorie, este competenţa instanţa care, potrivit legii, este chemată să soluţioneze cererea principala; c) în materie delictuala, la instanţa statului pe al cărui teritoriu s-a produs sau urmează să se producă prejudiciul; d) în cazul acţiunii civile în despăgubiri sau în restituire de bunuri ca urmare a săvârşirii unei infracţiuni, la instanţa investită cu soluţionarea acţiunii penale, dacă acea instanţa este competenţa, conform legislaţiei naţionale, să soluţioneze acţiunea civilă; e) în cazul litigiilor rezultate în urma funcţionarii unei sucursale, agenţii sau a unei alte unităţi, în faţa instanţelor de la locul unde se afla sucursala, agenţia sau unitatea în cauza; f) în cazul fondatorului, administratorului sau beneficiarului unui fond creat în temeiul unui statut, document scris sau unei convenţii verbale, cu confirmare scrisă, în faţa instanţelor din statul membru unde fondul în cauza îşi are sediul; g) în cazul unui litigiu referitor la plata unei remuneraţii pretinse pentru salvarea unei incarcaturi sau a unor mărfuri, la instanţa competenţa sa dispună sechestrarea încărcăturii ori a mărfii în vederea obţinerii unei astfel de plati, dacă pârâtul detinea, la momentul operaţiei de salvare, un drept asupra încărcăturii sau a mărfii."
+    },
+    {
+      "provision_ref": "Art.5",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea 1 - Competenţa generală",
+      "section": "5",
+      "title": "Articolul 5",
+      "content": "Persoana având domiciliul sau, după caz, sediul în România ori într-un stat membru mai poate fi chemată în judecata: a) în cazul unei cereri în revendicare, îndreptată împotriva mai multor pârâţi, la instanţa statului pe al cărui teritoriu se afla domiciliul sau sediul oricăruia dintre pârâţi, dacă datorită raportului de conexitate dintre cereri exista interesul judecării lor împreună; b) într-o cerere intemeiata pe obligaţia de garanţie, la instanţa competenţa să soluţioneze cererea privind obligaţia principala; c) în cazul unei acţiuni pe temei contractual care poate fi conexata unei acţiuni reale imobiliare îndreptate împotriva aceleiaşi persoane, la instanţa în a carei raza teritorială este situat imobilul; d) în cazul unei cereri întemeiate pe acelaşi act sau fapt ca şi o alta acţiune anterioară, în faţa instanţei la care se afla pe rol aceasta."
+    },
+    {
+      "provision_ref": "Art.6",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 2-a - Competenţa în materie de asigurări",
+      "section": "6",
+      "title": "Articolul 6",
+      "content": "În materie de asigurări competenţa se determina potrivit dispoziţiilor prezentei secţiuni."
+    },
+    {
+      "provision_ref": "Art.7",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 2-a - Competenţa în materie de asigurări",
+      "section": "7",
+      "title": "Articolul 7",
+      "content": "(1) Asiguratorul având sediul pe teritoriul României sau al unui stat membru poate fi chemat în judecata după cum urmează: a) în faţa instanţei statului pe al cărui teritoriu îşi are sediul; b) în faţa instanţei române ori, după caz, a statului membru pe al cărui teritoriu îşi are domiciliul sau, după caz, sediul deţinătorul poliţei de asigurare, asiguratul ori beneficiarul asigurării; c) dacă este coasigurator, în faţa instanţei române ori din statul membru la care este introdusă acţiunea împotriva asiguratorului principal. (2) În cazul în care asiguratorul nu are sediul pe teritoriul României sau al unui stat membru, însă deţine o sucursala, agenţie ori o alta unitate pe acest teritoriu, se considera ca având sediul în România sau, după caz, în acel stat membru, în cazul litigiilor rezultate în urma funcţionarii acelei sucursale, agenţii sau unităţi."
+    },
+    {
+      "provision_ref": "Art.8",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 2-a - Competenţa în materie de asigurări",
+      "section": "8",
+      "title": "Articolul 8",
+      "content": "În cazul asigurării de răspundere civilă sau al asigurării de bunuri imobile, asiguratorul poate fi chemat în judecata şi în faţa instanţelor din statul pe al cărui teritoriu s-a produs prejudiciul. Aceleaşi instanţe sunt competente dacă exista bunuri mobile acoperite de aceeaşi poliţa de asigurare, iar paguba a fost cauzată de acelaşi eveniment neprevăzut."
+    },
+    {
+      "provision_ref": "Art.9",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 2-a - Competenţa în materie de asigurări",
+      "section": "9",
+      "title": "Articolul 9",
+      "content": "În cazul asigurării de răspundere civilă, asiguratorul poate fi chemat în judecata în faţa instanţei dintr-un stat membru sau din România, la care partea vătămată a introdus cerere împotriva asiguratului."
+    },
+    {
+      "provision_ref": "Art.10",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 2-a - Competenţa în materie de asigurări",
+      "section": "10",
+      "title": "Articolul 10",
+      "content": "(1) Asiguratorul poate intenta acţiune numai la instanţele din România ori din statul membru pe al cărui teritoriu se afla domiciliul sau, după caz, sediul pârâtului, indiferent dacă acesta este deţinătorul poliţei de asigurare, asiguratul ori un beneficiar. (2) Dispoziţiile prezentei secţiuni nu aduc atingere dreptului asiguratorului de a introduce o cerere reconvenţională la instanţa la care, în conformitate cu prezenta secţiune, acţiunea iniţială este în curs."
+    },
+    {
+      "provision_ref": "Art.11",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 2-a - Competenţa în materie de asigurări",
+      "section": "11",
+      "title": "Articolul 11",
+      "content": "(1) De la dispoziţiile art. 6-9 se poate deroga printr-o convenţie încheiată ulterior naşterii litigiului. (2) Dacă la data încheierii contractului de asigurare asiguratorul şi asiguratul aveau domiciliul ori sediul pe teritoriul României sau al aceluiaşi stat membru, clauza privind competenţa instanţelor din acest stat este valabilă chiar dacă prejudiciul s-a produs pe teritoriul altui stat, cu condiţia ca un astfel de acord sa nu vina în contradictie cu legea statului pe al cărui teritoriu îşi aveau domiciliul sau, după caz, sediul părţile."
+    },
+    {
+      "provision_ref": "Art.12",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 2-a - Competenţa în materie de asigurări",
+      "section": "12",
+      "title": "Articolul 12",
+      "content": "Se poate deroga, de asemenea, în ceea ce priveşte instanţa competenţa să soluţioneze litigiul născut dintr-un contract de asigurare, dacă asigurarea acoperă unul sau mai multe dintre următoarele riscuri: a) pagube produse navelor maritime, instalaţiilor din zona de coasta sau din largul marii ori aeronavelor, rezultate în urma utilizării lor în scopuri comerciale; b) pagube produse bunurilor aflate în tranzit, altele decât bagajele călătorilor, atunci când tranzitul este integral sau parţial efectuat cu nave maritime ori aeronave; c) răspunderea decurgând din utilizarea sau exploatarea navelor, instalaţiilor ori aeronavelor menţionate la lit. a), cu excepţia răspunderii pentru vătămări corporale produse călătorilor sau pentru pierderea ori deteriorarea bagajelor acestora; d) răspunderea pentru pierderile sau daunele cauzate bunurilor aflate în tranzit, altele decât bagajele călătorilor, atunci când tranzitul este integral sau parţial efectuat cu nave maritime ori aeronave."
+    },
+    {
+      "provision_ref": "Art.13",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 3-a - Competenţa în privinta contractelor încheiate cu consumatorii",
+      "section": "13",
+      "title": "Articolul 13",
+      "content": "(1) În materia contractelor încheiate de o persoană în calitate de consumator, într-un scop situat în afară domeniului sau profesional, instanţa competenţa este determinata în conformitate cu dispoziţiile prezentei secţiuni, în cazul în care: a) contractul are ca obiect vânzarea de bunuri în temeiul sistemului de creditare cu plata în rate; b) contractul are ca obiect un împrumut rambursabil în rate sau orice alta forma de credit încheiată în scopul finanţării vânzării de bunuri; sau c) în celelalte cazuri, dacă contractul a fost încheiat cu un agent economic care desfăşoară activităţi comerciale în statul membru pe teritoriul căruia este domiciliat consumatorul sau care, prin orice mijloace, îşi directioneaza activităţile spre acel stat membru ori spre mai multe state, inclusiv acel stat membru, iar contractul intră în sfera de acţiune a acestor activităţi. (2) Când un consumator încheie un contract cu o parte care nu îşi are domiciliul ori sediul pe teritoriul unui stat membru sau al României, însă deţine o sucursala, agenţie ori alta întreprindere pe teritoriul unuia dintre statele membre sau al României, se considera, în cazul litigiilor rezultate din funcţionarea sucursalei, agenţiei ori întreprinderii, ca partea în cauza îşi are domiciliul sau sediul pe teritoriul statului respectiv. (3) Prevederile prezentei secţiuni se aplică şi contractelor de transport care, pentru un preţ forfetar, oferă o combinaţie între călătorie şi cazare."
+    },
+    {
+      "provision_ref": "Art.14",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 3-a - Competenţa în privinta contractelor încheiate cu consumatorii",
+      "section": "14",
+      "title": "Articolul 14",
+      "content": "Un consumator poate introduce o acţiune împotriva celeilalte părţi fie la instanţele din România ori din statul membru în care aceasta îşi are domiciliul sau sediul, fie la instanţele din locul unde consumatorul îşi are domiciliul ori, după caz, sediul."
+    },
+    {
+      "provision_ref": "Art.15",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 3-a - Competenţa în privinta contractelor încheiate cu consumatorii",
+      "section": "15",
+      "title": "Articolul 15",
+      "content": "(1) Agentul economic poate introduce acţiune împotriva consumatorului numai la instanţele din România ori din statul pe al cărui teritoriu se afla domiciliul sau, după caz, sediul pârâtului. (2) Dispoziţiile prezentului articol nu aduc atingere dreptului agentului economic de a introduce o cerere reconvenţională la instanţa la care, în conformitate cu prezenta secţiune, acţiunea iniţială este în curs."
+    },
+    {
+      "provision_ref": "Art.16",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 3-a - Competenţa în privinta contractelor încheiate cu consumatorii",
+      "section": "16",
+      "title": "Articolul 16",
+      "content": "(1) De la dispoziţiile art. 13 şi 14 se poate deroga prin convenţie încheiată ulterior naşterii litigiului. (2) Dacă la data încheierii contractului părţile aveau domiciliul sau sediul pe teritoriul aceluiaşi stat, clauza privind competenţa instanţelor din acel stat este valabilă, cu condiţia ca un astfel de acord sa nu vina în contradictie cu legea din statul în cauza."
+    },
+    {
+      "provision_ref": "Art.17",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 4-a - Competenţa în privinta contractelor individuale de muncă",
+      "section": "17",
+      "title": "Articolul 17",
+      "content": "(1) În privinta contractelor individuale de muncă, instanţa competenţa este determinata în conformitate cu dispoziţiile prezentei secţiuni. (2) Dacă un angajat încheie un contract individual de muncă cu un angajator care nu îşi are domiciliul ori sediul pe teritoriul unui stat membru sau al României, sunt competente instanţele române ori ale statului membru pe teritoriul căruia se afla sucursala, agenţia sau unitatea deţinută de angajator, în cazul litigiilor rezultate din funcţionarea acestora."
+    },
+    {
+      "provision_ref": "Art.18",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 4-a - Competenţa în privinta contractelor individuale de muncă",
+      "section": "18",
+      "title": "Articolul 18",
+      "content": "Angajatorul având domiciliul sau sediul în România ori într-un stat membru poate fi chemat în judecata: a) în faţa instanţelor din statul respectiv; b) în faţa instanţelor din România sau din statul membru în care angajatul îşi desfăşoară în mod obişnuit activitatea ori unde se afla ultimul loc în care acesta şi-a desfăşurat activitatea. Dacă angajatul nu-şi desfăşoară sau nu şi-a desfăşurat în mod obişnuit activitatea pe teritoriul aceleiaşi tari, sunt competente instanţele din locul unde este sau a fost situat domiciliul ori, după caz, sediul angajatorului."
+    },
+    {
+      "provision_ref": "Art.19",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 4-a - Competenţa în privinta contractelor individuale de muncă",
+      "section": "19",
+      "title": "Articolul 19",
+      "content": "(1) Un angajator nu poate introduce acţiuni decât la instanţele de pe teritoriul României sau ale statului membru în care angajatul îşi are domiciliul. (2) Dispoziţiile prezentei secţiuni nu aduc atingere dreptului angajatorului de a introduce o cerere reconvenţională la instanţa la care, în conformitate cu prezenta secţiune, acţiunea iniţială este în curs."
+    },
+    {
+      "provision_ref": "Art.20",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 4-a - Competenţa în privinta contractelor individuale de muncă",
+      "section": "20",
+      "title": "Articolul 20",
+      "content": "De la dispoziţiile prezentei secţiuni nu se poate face derogare decât printr-un acord încheiat după naşterea litigiului sau care permite angajatului sa introducă acţiuni la alte instanţe decât cele indicate în cadrul prezentei secţiuni."
+    },
+    {
+      "provision_ref": "Art.21",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 5-a - Competenţa exclusiva",
+      "section": "21",
+      "title": "Articolul 21",
+      "content": "Soluţionarea acţiunilor reale imobiliare este exclusiv de competenţa instanţelor statului pe al cărui teritoriu este situat imobilul."
+    },
+    {
+      "provision_ref": "Art.22",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 5-a - Competenţa exclusiva",
+      "section": "22",
+      "title": "Articolul 22",
+      "content": "Litigiile privind constituirea şi încetarea societăţilor comerciale şi a altor persoane juridice, cele privind modificarea actului constitutiv şi/sau a statutului, precum şi cele vizând valabilitatea deciziilor organelor acestora sunt de competenţa instanţei statului pe al cărui teritoriu se afla sediul persoanei juridice. Pentru determinarea sediului instanţa aplica normele sale de drept internaţional privat."
+    },
+    {
+      "provision_ref": "Art.23",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 5-a - Competenţa exclusiva",
+      "section": "23",
+      "title": "Articolul 23",
+      "content": "Acţiunile care au ca obiect valabilitatea inscrierilor în registre publice sunt de competenţa instanţelor statului pe al cărui teritoriu se păstrează registrele."
+    },
+    {
+      "provision_ref": "Art.24",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 5-a - Competenţa exclusiva",
+      "section": "24",
+      "title": "Articolul 24",
+      "content": "Acţiunile privind înregistrarea sau valabilitatea brevetelor, marcilor, desenelor şi modelelor, precum şi a altor drepturi analoage care necesita depunerea sau înregistrarea sunt de competenţa instanţelor statului pe al cărui teritoriu a fost solicitată ori a avut loc depunerea sau înregistrarea ori unde se considera, potrivit legislaţiei în vigoare, ca a avut loc aceasta."
+    },
+    {
+      "provision_ref": "Art.25",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 5-a - Competenţa exclusiva",
+      "section": "25",
+      "title": "Articolul 25",
+      "content": "Acţiunile privitoare la executarea hotărârilor sunt de competenţa instanţelor din statul pe al cărui teritoriu a fost sau urmează să fie executată hotărârea."
+    },
+    {
+      "provision_ref": "Art.26",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 5-a - Competenţa exclusiva",
+      "section": "26",
+      "title": "Articolul 26",
+      "content": "Convenţia părţilor cu privire la soluţionarea oricărui litigiu care a survenit sau poate surveni în legătură cu un raport juridic determinat inlatura competenţa oricăror alte instanţe, stabilită potrivit prezentei legi, dacă este încheiată în forma scrisă sau în orice alt mod care să ateste, potrivit legii ori uzantelor din comerţul internaţional, intenţia părţilor cu privire la stabilirea instanţei competente."
+    },
+    {
+      "provision_ref": "Art.27",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 5-a - Competenţa exclusiva",
+      "section": "27",
+      "title": "Articolul 27",
+      "content": "Instanţa sesizată cu o cerere pentru care competenţa aparţine exclusiv instanţei dintr-un alt stat îşi declara din oficiu lipsa de competenţa."
+    },
+    {
+      "provision_ref": "Art.28",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 6-a - Verificarea competentei şi a admisibilităţii",
+      "section": "28",
+      "title": "Articolul 28",
+      "content": "Înfăţişarea pârâtului în faţa instanţei române la care este chemat în judecata are ca efect recunoaşterea de drept a competentei acestei instanţe, cu excepţia cazurilor de competenţa exclusiva prevăzute de prezenta lege sau dacă înfăţişarea are ca obiect contestarea competentei."
+    },
+    {
+      "provision_ref": "Art.29",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 6-a - Verificarea competentei şi a admisibilităţii",
+      "section": "29",
+      "title": "Articolul 29",
+      "content": "(1) În cazul în care pârâtul domiciliat pe teritoriul unui stat membru este chemat în judecata în faţa unei instanţe române care nu este competenţa, potrivit prezentei legi, iar pârâtul nu se înfăţişează în instanţa, instanţa română îşi declara din oficiu lipsa de competenţa. (2) Instanţa suspenda acţiunea până când se dovedeşte ca pârâtul a primit actul de sesizare a instanţei în timp util pentru pregătirea apărării sau ca au fost întreprinse toate demersurile necesare în acest sens. (3) Comunicarea actelor judiciare şi extrajudiciare va fi realizată potrivit legislaţiei în vigoare, în conformitate cu convenţiile internaţionale în domeniul cooperării judiciare în materie civilă şi comercială, la care România este parte."
+    },
+    {
+      "provision_ref": "Art.30",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 7-a - Măsuri provizorii şi conservatorii",
+      "section": "30",
+      "title": "Articolul 30",
+      "content": "Pot fi solicitate instanţei române măsuri provizorii şi conservatorii, potrivit legii române, chiar dacă pentru soluţionarea fondului cauzei ar fi competenţa o instanţa dintr-un stat membru."
+    },
+    {
+      "provision_ref": "Art.31",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 8-a - Litispendenta şi conexitate",
+      "section": "31",
+      "title": "Articolul 31",
+      "content": "(1) În cazul în care se introduce o acţiune la instanţa română, ulterior introducerii unei acţiuni cu acelaşi obiect şi între aceleaşi părţi la o instanţa dintr-un stat membru, instanţa română suspenda din oficiu acţiunea până la stabilirea competentei primei instanţe sesizate. (2) După stabilirea competentei primei instanţe sesizate, instanţa română îşi declina competenţa în favoarea acesteia."
+    },
+    {
+      "provision_ref": "Art.32",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 8-a - Litispendenta şi conexitate",
+      "section": "32",
+      "title": "Articolul 32",
+      "content": "(1) În cazul în care la o instanţa română se introduce o acţiune aflată în raport de conexitate cu o acţiune introdusă anterior la o instanţa dintr-un stat membru, instanţa română poate suspenda acţiunea. (2) În cazul în care acţiunile aflate în raport de conexitate se afla în prima instanţa, instanţa română poate, la cererea uneia dintre părţi, să-şi decline competenţa în favoarea instanţei întâi sesizate, dacă aceasta este competenţa să soluţioneze acţiunea instanţei române şi dacă legislaţia naţionala permite conexarea acestor acţiuni. (3) Sunt considerate în raport de conexitate acele acţiuni care sunt atât de strâns legate între ele încât este eficient ca acestea să fie judecate împreună pentru a se evita riscul pronunţării unor hotărâri ireconciliabile ce pot rezultă în cazul acţiunilor separate."
+    },
+    {
+      "provision_ref": "Art.33",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 8-a - Litispendenta şi conexitate",
+      "section": "33",
+      "title": "Articolul 33",
+      "content": "Dacă acţiunile aflate în raport de conexitate intră în competenţa exclusiva a mai multor instanţe, instanţa română, în cazul în care nu a fost sesizată prima, îşi declina competenţa în favoarea primei instanţe sesizate."
+    },
+    {
+      "provision_ref": "Art.34",
+      "chapter": "Capitolul 2 - Competenţa | Secţiunea a 8-a - Litispendenta şi conexitate",
+      "section": "34",
+      "title": "Articolul 34",
+      "content": "În sensul prezentei secţiuni, o instanţa dintr-un stat membru sau din România este considerată sesizată: a) la data la care a fost depus actul de sesizare sau un alt act echivalent la instanţa respectiva, cu condiţia ca reclamantul sa fi luat măsurile necesare pentru ca actul să fie înmânat pârâtului, dacă avea aceasta obligaţie potrivit legii; sau b) în cazul în care actul trebuie comunicat înainte de a fi depus la instanţa, la data la care actul a fost primit de autoritatea responsabilă cu comunicarea acestuia, dacă, potrivit legii, reclamantul a luat măsurile necesare pentru ca acesta să fie depus la instanţe."
+    },
+    {
+      "provision_ref": "Art.35",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea 1 - Recunoaşterea hotărârilor pronunţate în statele membre",
+      "section": "35",
+      "title": "Articolul 35",
+      "content": "O hotărâre pronunţată într-un stat membru este recunoscută de plin drept în România, în condiţiile prezentei legi."
+    },
+    {
+      "provision_ref": "Art.36",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea 1 - Recunoaşterea hotărârilor pronunţate în statele membre",
+      "section": "36",
+      "title": "Articolul 36",
+      "content": "(1) În caz de litigiu, orice persoană interesată poate solicita instanţei române, pe cale principala, recunoaşterea unei hotărâri pronunţate într-un stat membru. Cererea de recunoaştere se introduce la tribunalul în a cărui circumscripţie îşi are domiciliul ori sediul partea împotriva căreia se solicita recunoaşterea sau, în lipsa acestuia, la tribunalul competent sa încuviinţeze executarea, potrivit art. 41. (2) Cererea de recunoaştere poate fi, de asemenea, rezolvată pe cale incidentala de către instanţa sesizată cu un proces având un alt obiect, dacă recunoaşterea este necesară pentru soluţionarea acestui proces."
+    },
+    {
+      "provision_ref": "Art.37",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea 1 - Recunoaşterea hotărârilor pronunţate în statele membre",
+      "section": "37",
+      "title": "Articolul 37",
+      "content": "Hotărârea pronunţată într-un stat membru nu poate fi recunoscută în unul dintre următoarele cazuri: a) hotărârea încalcă ordinea publică de drept internaţional privat român; b) hotărârea a fost pronunţată în lipsa pârâtului, iar instanţa constata ca actul de sesizare a instanţei sau un alt act echivalent nu a fost înmânat în timp util, astfel încât pârâtul să aibă posibilitatea de a-şi pregati apărarea, cu condiţia ca pârâtul sa fi exercitat căile de atac împotriva hotărârii, dacă a avut posibilitatea sa o facă; c) hotărârea este ireconciliabila cu o hotărâre pronunţată de o instanţa română într-un litigiu între aceleaşi părţi; d) hotărârea este ireconciliabila cu o hotărâre pronunţată anterior de o instanţa dintr-un stat membru sau dintr-un stat terţ, între aceleaşi părţi şi având acelaşi obiect, dacă hotărârea anterioară îndeplineşte condiţiile pentru a fi recunoscută în România."
+    },
+    {
+      "provision_ref": "Art.38",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea 1 - Recunoaşterea hotărârilor pronunţate în statele membre",
+      "section": "38",
+      "title": "Articolul 38",
+      "content": "(1) O hotărâre nu poate fi recunoscută dacă vine în conflict cu dispoziţiile prezentei legi privitoare la competenţa în materie de asigurări, protecţia consumatorului, precum şi la competenţa exclusiva. (2) La verificarea acestor reguli de competenţa instanţa este ţinuta de constatările de fapt în temeiul cărora instanţa din statul membru şi-a argumentat competenţa. (3) Sub rezerva dispoziţiilor alin. (1), competenţa instanţei din statul membru nu poate fi revizuită. Dispoziţia prevăzută la art. 37 lit. a) nu poate fi aplicată normelor în materie de competenţa."
+    },
+    {
+      "provision_ref": "Art.39",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea 1 - Recunoaşterea hotărârilor pronunţate în statele membre",
+      "section": "39",
+      "title": "Articolul 39",
+      "content": "Instanţa română nu poate proceda la examinarea în fond a hotărârii unui stat membru şi nici la modificarea ei."
+    },
+    {
+      "provision_ref": "Art.40",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea 1 - Recunoaşterea hotărârilor pronunţate în statele membre",
+      "section": "40",
+      "title": "Articolul 40",
+      "content": "Instanţa română poate suspenda acţiunea prin care se solicita recunoaşterea unei hotărâri pronunţate de o instanţa dintr-un stat membru în cazul în care, împotriva hotărârii a carei recunoaştere se cere, se introduce o cale de atac ordinară."
+    },
+    {
+      "provision_ref": "Art.41",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "41",
+      "title": "Articolul 41",
+      "content": "Hotărârile pronunţate într-un stat membru şi care sunt executorii, potrivit legii instanţelor care le-au pronunţat, vor fi puse în executare în România pe baza încuviinţării date, la cererea părţii interesate, de către tribunalul în a cărui circumscripţie îşi are domiciliul ori sediul partea împotriva căreia se solicita executarea sau în a cărui circumscripţie urmează să se efectueze executarea."
+    },
+    {
+      "provision_ref": "Art.42",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "42",
+      "title": "Articolul 42",
+      "content": "(1) În vederea comunicării documentelor procedurale, reclamantul poate desemna un mandatar special, domiciliat în circumscripţia teritorială a instanţei căreia i-a fost solicitată încuviinţarea executării. (2) Cererea de încuviinţare a executării va fi însoţită de documentele prevăzute la art. 55."
+    },
+    {
+      "provision_ref": "Art.43",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "43",
+      "title": "Articolul 43",
+      "content": "(1) În cazul în care hotărârea a carei executare se cere conţine soluţii asupra mai multor capete de cerere care sunt disociabile, încuviinţarea poate fi acordată separat. (2) Persoana care cere încuviinţarea executării poate cere ca titlul executoriu să se limiteze la anumite părţi din hotărâre."
+    },
+    {
+      "provision_ref": "Art.44",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "44",
+      "title": "Articolul 44",
+      "content": "(1) Hotărârea este declarata executorie în România dacă sunt îndeplinite condiţiile prevăzute la art. 55, fără a fi necesară verificarea îndeplinirii condiţiilor prevăzute la art. 37. (2) În aceasta faza a procesului partea împotriva căreia se urmăreşte executarea nu poate formula apărări cu privire la cererea de încuviinţare a executării."
+    },
+    {
+      "provision_ref": "Art.45",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "45",
+      "title": "Articolul 45",
+      "content": "(1) Hotărârea pronunţată de o instanţa competenţa dintr-un stat membru are forta probanta în faţa instanţelor române cu privire la situaţiile de fapt pe care le constata. (2) Instanţa română nu poate proceda la examinarea în fond a hotărârii statului membru şi nici la modificarea ei."
+    },
+    {
+      "provision_ref": "Art.46",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "46",
+      "title": "Articolul 46",
+      "content": "(1) Hotărârea de încuviinţare a executării este adusă la cunoştinţa părţii care a cerut executarea, fără întârziere şi potrivit procedurii prevăzute de legea română. (2) Titlul executoriu este înmânat părţii împotriva căreia se cere executarea, însoţit de hotărâre, în cazul în care aceasta nu a fost deja înmânată."
+    },
+    {
+      "provision_ref": "Art.47",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "47",
+      "title": "Articolul 47",
+      "content": "(1) Hotărârea prin care s-a soluţionat cererea de încuviinţare a executării poate fi atacată cu recurs în termen de o luna de la comunicarea acesteia părţii împotriva căreia se cere executarea, dacă aceasta îşi are domiciliul sau sediul în România; în cazul în care partea nu îşi are domiciliul sau sediul în România, termenul de introducere a recursului este de doua luni de la data comunicării către partea împotriva căreia se cere executarea sau la domiciliul acesteia. (2) Dispoziţiile art. 29 alin. (2) şi (3) sunt aplicabile în mod corespunzător."
+    },
+    {
+      "provision_ref": "Art.48",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "48",
+      "title": "Articolul 48",
+      "content": "(1) Soluţionarea recursului nu poate conduce la respingerea cererii de încuviinţare a executării pentru alt motiv decât cele prevăzute la art. 37. Recursul se soluţionează de urgenta. (2) Hotărârea a carei executare se cere nu poate fi revizuită pe fond în nici o situaţie. (3) Instanţa de recurs poate condiţiona executarea de constituirea unei garanţii. (4) La cererea părţii împotriva căreia se solicita executarea, instanţa de recurs poate suspenda acţiunea dacă împotriva hotărârii a carei executare se cere a fost introdusă, în statul membru de origine, o cale de atac ordinară sau dacă termenul de introducere a unei astfel de cai de atac nu a expirat încă; în acest din urmă caz instanţa română poate preciza termenul în care poate fi exercitată calea de atac ordinară."
+    },
+    {
+      "provision_ref": "Art.49",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "49",
+      "title": "Articolul 49",
+      "content": "(1) În cazul hotărârilor care trebuie recunoscute potrivit dispoziţiilor prezentei legi, instanţele române pot dispune, la cererea reclamantului, chiar şi în lipsa unei cereri de încuviinţare a executării, măsuri asiguratorii în cazuri urgente, spre a ocroti drepturi, interese sau bunuri ce au legătură cu jurisdicţia lor. (2) Hotărârea de încuviinţare a executării va include, dacă este cazul, şi autorizarea luării de măsuri de conservare."
+    },
+    {
+      "provision_ref": "Art.50",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "50",
+      "title": "Articolul 50",
+      "content": "Până la expirarea termenului pentru introducerea recursului sau, după caz, până la soluţionarea acestuia nu pot fi luate decât măsuri de conservare a bunurilor părţii împotriva căreia se urmăreşte executarea."
+    },
+    {
+      "provision_ref": "Art.51",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "51",
+      "title": "Articolul 51",
+      "content": "Hotărârea pronunţată într-un stat membru prin care se dispune plata de penalităţi este executorie în România numai dacă suma ce urmează să fie plătită a fost stabilită în mod definitiv de instanţa din statul membru de origine."
+    },
+    {
+      "provision_ref": "Art.52",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "52",
+      "title": "Articolul 52",
+      "content": "Reclamantul care, în statul membru de origine, a beneficiat în întregime sau doar parţial de asistenţa juridică gratuita, de scutiri ori reduceri de taxe şi alte cheltuieli de procedura va beneficia, în cadrul procedurii prevăzute de prezenta secţiune, de cea mai favorabilă forma de asistenţa juridică şi scutire de taxe şi alte cheltuieli de judecată prevăzute de legea română."
+    },
+    {
+      "provision_ref": "Art.53",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "53",
+      "title": "Articolul 53",
+      "content": "Persoana care cere încuviinţarea executării hotărârii nu poate fi obligată să depună cauţiune ori vreo alta garanţie pentru aceasta cerere pe motiv ca este cetăţean străin sau că nu îşi are domiciliul ori sediul în România."
+    },
+    {
+      "provision_ref": "Art.54",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 2-a - Executarea hotărârilor pronunţate în statele membre",
+      "section": "54",
+      "title": "Articolul 54",
+      "content": "În cazul acţiunii introduse în România pentru încuviinţarea executării hotărârii pronunţate într-un stat membru nu se percepe nici un impozit sau taxa proporţională cu valoarea litigiului în cauza."
+    },
+    {
+      "provision_ref": "Art.55",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "55",
+      "title": "Articolul 55",
+      "content": "(1) Partea care cere recunoaşterea sau solicita încuviinţarea executării unei hotărâri pe teritoriul României trebuie să prezinte o copie a hotărârii care să întrunească condiţiile necesare în vederea stabilirii autenticităţii acesteia. (2) Partea care solicită executarea unei hotărâri trebuie să prezinte, de asemenea, şi certificatul menţionat în anexa nr. 1. (3) La cererea instanţei române, documentele vor fi însoţite de traduceri certificate de o persoană autorizata în acest sens în unul dintre statele membre sau în România. (4) În cazul nedepunerii certificatului prevăzut la alin. (1), instanţa română sau autoritatea competentă poate să fixeze un termen pentru prezentarea acestuia, sa accepte un document echivalent ori, în cazul în care considera ca dispune de suficiente informaţii, sa dispenseze partea de prezentarea acestui document."
+    },
+    {
+      "provision_ref": "Art.56",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "56",
+      "title": "Articolul 56",
+      "content": "Instanţa sau autoritatea competentă din România care a pronunţat hotărârea a carei recunoaştere ori executare se cere într-un stat membru eliberează, la cererea oricărei părţi interesate, un certificat, potrivit modelului prezentat în anexa nr. 1."
+    },
+    {
+      "provision_ref": "Art.57",
+      "chapter": "Capitolul 3 - Recunoaşterea şi executarea în România a hotărârilor pronunţate în statele membre | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "57",
+      "title": "Articolul 57",
+      "content": "În cazul documentelor prevăzute la art. 55 şi 56, precum şi pentru documentul de numire a unui mandatar special nu este necesară legalizarea sau o formalitate echivalenta."
+    },
+    {
+      "provision_ref": "Art.58",
+      "chapter": "Capitolul 4 - Actele autentice şi tranzacţiile judiciare | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "58",
+      "title": "Articolul 58",
+      "content": "(1) Documentele întocmite sau înregistrate oficial ca acte autentice şi care sunt executorii într-un stat membru sunt, la cerere, declarate executorii în România, cu respectarea procedurii prevăzute la secţiunea a 3-a a cap. III. Instanţa la care se introduce recurs, potrivit art. 47 şi 48, poate respinge cererea de încuviinţare a executării sau, respectiv, poate revoca hotărârea de încuviinţare a executării numai dacă executarea este vadit contrară ordinii publice din România. (2) Înţelegerile referitoare la obligaţiile de întreţinere, încheiate cu autorităţile administrative sau autentificate de acestea sunt, de asemenea, considerate acte autentice, în sensul alin. (1). (3) Actul prezentat trebuie să îndeplinească condiţiile necesare pentru autentificare în statul membru de origine. (4) Dispoziţiile secţiunii a 3-a a cap. III se aplică în mod corespunzător. Autoritatea competenţa a statului membru în care a fost întocmit sau înregistrat un act autentic eliberează, la cererea oricărei părţi interesate, un certificat potrivit modelului prezentat în anexa nr. 2."
+    },
+    {
+      "provision_ref": "Art.59",
+      "chapter": "Capitolul 4 - Actele autentice şi tranzacţiile judiciare | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "59",
+      "title": "Articolul 59",
+      "content": "Tranzacţiile judiciare care au fost aprobate de o instanţa în cursul unui proces şi care sunt executorii în statul membru în care au fost încheiate sunt executorii şi pe teritoriul României, în aceleaşi condiţii ca şi actele autentice. Instanţa sau autoritatea competentă din statul membru în care a fost aprobată tranzacţia eliberează, la cererea oricăreia dintre părţile interesate, un certificat potrivit anexei nr. 1."
+    },
+    {
+      "provision_ref": "Art.60",
+      "chapter": "Capitolul 5 - Dispoziţii finale | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "60",
+      "title": "Articolul 60",
+      "content": "(1) Pentru a determina dacă o parte îşi are domiciliul sau sediul pe teritoriul României, instanţa română va aplica legea sa interna. (2) În cazul în care o parte nu îşi are domiciliul sau sediul pe teritoriul României, instanţa sesizată pentru a determina dacă partea îşi are domiciliul ori, după caz, sediul pe teritoriul unui alt stat membru aplica legea statului membru în cauza."
+    },
+    {
+      "provision_ref": "Art.61",
+      "chapter": "Capitolul 5 - Dispoziţii finale | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "61",
+      "title": "Articolul 61",
+      "content": "(1) În sensul prezentei legi, o persoană juridică îşi are sediul real acolo unde se afla sediul social sau, dacă exista sedii în mai multe state, acolo unde se afla centrul principal de conducere şi de gestiune a activităţii statutare, chiar dacă hotărârile organului respectiv sunt adoptate potrivit directivelor transmise de acţionari sau asociaţi din alte state. (2) În cazul Regatului Unit al Marii Britanii şi Irlandei de Nord, precum şi al Irlandei, prin sediu real se înţelege sediul social sau, în lipsa acestuia, locul de înregistrare ori locul după a cărui lege s-a înfiinţat persoana juridică."
+    },
+    {
+      "provision_ref": "Art.62",
+      "chapter": "Capitolul 5 - Dispoziţii finale | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "62",
+      "title": "Articolul 62",
+      "content": "Fără a se aduce atingere dispoziţiilor mai favorabile ale legilor naţionale, persoanele domiciliate pe teritoriul României sau al unui stat membru, care sunt urmărite în faţa instanţelor penale din alte state membre pentru o infracţiune săvârşită din culpa, pot fi judecate şi în lipsa, cu condiţia să fie reprezentate. Instanţa sesizată poate dispune totuşi citarea părţii; în caz de neprezentare, hotărârea pronunţată în cadrul acţiunii civile fără ca persoana interesată sa fi avut posibilitatea de a-şi pregati apărarea poate să nu fie recunoscută sau executată în România, potrivit legii naţionale."
+    },
+    {
+      "provision_ref": "Art.63",
+      "chapter": "Capitolul 5 - Dispoziţii finale | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "63",
+      "title": "Articolul 63",
+      "content": "(1) Prezenta lege nu aduce atingere aplicării dispoziţiilor care reglementează competenţa, recunoaşterea şi executarea hotărârilor în domenii specifice conţinute de instrumentele comunitare sau de legislatiile naţionale armonizate potrivit acestor instrumente. (2) Prezenta lege nu aduce atingere convenţiilor la care România este parte şi care reglementează competenţa, recunoaşterea şi executarea hotărârilor în domenii speciale."
+    },
+    {
+      "provision_ref": "Art.64",
+      "chapter": "Capitolul 5 - Dispoziţii finale | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "64",
+      "title": "Articolul 64",
+      "content": "Anexele nr. 1 şi 2 fac parte integrantă din prezenta lege."
+    },
+    {
+      "provision_ref": "Art.65",
+      "chapter": "Capitolul 5 - Dispoziţii finale | Secţiunea a 3-a - Dispoziţii comune",
+      "section": "65",
+      "title": "Articolul 65",
+      "content": "Prezenta lege intră în vigoare în termen de un an de la data publicării în Monitorul Oficial al României, Partea I. Această lege a fost adoptată de Senat în şedinţa din 6 februarie 2003, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE SENATULUI NICOLAE VACAROIU Această lege a fost adoptată de Camera Deputaţilor în şedinţa din 15 aprilie 2003, cu respectarea prevederilor art. 74 alin. (2) din Constituţia României. PREŞEDINTELE CAMEREI DEPUTAŢILOR VALER DORNEANU Bucureşti, 9 mai 2003. Nr. 187."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dreptul de proprietate derivat dintr",
+      "definition": "o relaţie matrimoniala",
+      "source_provision": "Art.2"
+    },
+    {
+      "term": "în materie delictuala, la instanţa statului pe al cărui teritoriu s",
+      "definition": "a produs sau urmează să se producă prejudiciul",
+      "source_provision": "Art.4"
+    }
+  ]
+}

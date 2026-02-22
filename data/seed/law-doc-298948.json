@@ -1,0 +1,26 @@
+{
+  "id": "law-doc-298948",
+  "type": "statute",
+  "title": "LEGE nr. 99 din 10 iunie 2025",
+  "short_name": "lege 99 10 06 2025",
+  "status": "in_force",
+  "issued_date": "2025-06-10",
+  "in_force_date": "2025-06-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/298948",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 99 10/06/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Se instituie anul 2027 ca Anul Ion I.C. Brătianu în România."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "(1) Cu prilejul sărbătoririi Anului Ion I.C. Brătianu se organizează evenimente menite să marcheze aspecte cu ocazia împlinirii a 100 de ani de la decesul marelui om politic. (2) Autoritățile administrației publice centrale și locale pot sprijini material sau logistic organizarea și desfășurarea programelor și manifestărilor dedicate Anului Ion I.C. Brătianu. (3) Societatea Română de Televiziune și Societatea Română de Radiodifuziune pot include în programul zilei aspecte de la evenimentele ocazionate de sărbătorirea Anului Ion I.C. Brătianu."
+    }
+  ],
+  "definitions": []
+}

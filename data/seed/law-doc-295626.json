@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-295626",
+  "type": "statute",
+  "title": "LEGE nr. 21 din 14 martie 2025",
+  "short_name": "lege 21 14 03 2025",
+  "status": "in_force",
+  "issued_date": "2025-03-14",
+  "in_force_date": "2025-03-14",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/295626",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 21 14/03/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se aprobă Ordonanța de urgență a Guvernului nr. 37 din 23 aprilie 2024 privind desemnarea entității centrale de stocare din România și pentru modificarea și completarea unor acte normative în domeniul rezervelor de stat, publicată în Monitorul Oficial al României, Partea I, nr. 382 din 24 aprilie 2024."
+    }
+  ],
+  "definitions": []
+}

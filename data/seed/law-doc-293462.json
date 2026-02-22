@@ -1,0 +1,20 @@
+{
+  "id": "law-doc-293462",
+  "type": "statute",
+  "title": "LEGE nr. 2 din 10 ianuarie 2025",
+  "short_name": "lege 2 10 01 2025",
+  "status": "in_force",
+  "issued_date": "2025-01-10",
+  "in_force_date": "2025-01-10",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/293462",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 2 10/01/2025",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "ARTICOL UNIC",
+      "content": "Se ratifică Protocolul , semnat la București la 4 iulie 2024, de modificare a Acordului dintre Guvernul României și Guvernul Maltei pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnat la București la 30 noiembrie 1995, ratificat prin Legea nr. 61/1996 , publicată în Monitorul Oficial al României, Partea I, nr. 144 din 10 iulie 1996."
+    }
+  ],
+  "definitions": []
+}

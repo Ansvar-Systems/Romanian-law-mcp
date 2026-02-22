@@ -1,0 +1,38 @@
+{
+  "id": "law-doc-81679",
+  "type": "statute",
+  "title": "LEGE nr. 114 din 27 aprilie 2007 (*republicată*)",
+  "short_name": "lege 114 27 04 2007",
+  "status": "in_force",
+  "issued_date": "2007-04-27",
+  "in_force_date": "2007-04-27",
+  "url": "https://legislatie.just.ro/Public/DetaliiDocument/81679",
+  "description": "Auto-ingested from Portal Legislativ LEGE corpus. Listing label: LEGE 114 27/04/2007",
+  "provisions": [
+    {
+      "provision_ref": "Art.1",
+      "section": "1",
+      "title": "Articolul 1",
+      "content": "Prin prezenta lege se instituie cadrul juridic pentru sprijinul financiar acordat de statul român Schitului românesc \"Prodromu\", de la Muntele Athos, Grecia."
+    },
+    {
+      "provision_ref": "Art.2",
+      "section": "2",
+      "title": "Articolul 2",
+      "content": "Anual se alocă de la bugetul de stat, prin bugetul Secretariatului de Stat pentru Culte, o sumă în lei, echivalentă cu 2 milioane de euro, pentru Schitul românesc ”Prodromu”, de la Muntele Athos, Grecia. (la 01-01-2024, Articolul 2 a fost modificat de Articolul 4 din LEGEA nr. 326 din 7 noiembrie 2023, publicată în MONITORUL OFICIAL nr. 1018 din 8 noiembrie 2023 )"
+    },
+    {
+      "provision_ref": "Art.3",
+      "section": "3",
+      "title": "Articolul 3",
+      "content": "Suma alocată potrivit art. 2 se prevede distinct în bugetul Secretariatului General al Guvernului, respectiv Secretariatului de Stat pentru Culte, și se acordă ca sprijin financiar Schitului românesc ”Prodromu”, de la Muntele Athos, Grecia, cu respectarea dispozițiilor corespunzătoare din legislația ce reglementează sprijinul financiar pentru unitățile de cult aparținând cultelor religioase. (la 09-04-2020, Articolul 3 a fost modificat de Punctul 2, ARTICOLUL UNIC din LEGEA nr. 41 din 3 aprilie 2020, publicată în MONITORUL OFICIAL nr. 287 din 06 aprilie 2020 )"
+    },
+    {
+      "provision_ref": "Art.4",
+      "section": "4",
+      "title": "Articolul 4",
+      "content": "Sumele alocate de la bugetul de stat sunt destinate acoperirii cheltuielilor necesare: a) restaurării, reparării, întreținerii și administrării clădirilor din incintă și a celor 4 biserici; b) achiziției de mijloace fixe pe baza listei de investiții, avizată conform dispozițiilor legale în vigoare; c) activităților de întreținere și producție în regie proprie; d) plății unor activități de manoperă și prestări de servicii; e) susținerii activităților existențiale și spirituale ale monahilor; f) primirii și cazării pelerinilor; g) realizării unor materiale destinate promovării schitului."
+    }
+  ],
+  "definitions": []
+}
