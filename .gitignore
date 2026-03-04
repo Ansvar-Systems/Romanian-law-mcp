@@ -8,3 +8,5 @@ dist/
 coverage/
 data/source/
 data/full-corpus/
+.claude/
+.serena/
