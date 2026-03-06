@@ -296,9 +296,9 @@ describe('about and sources tools', () => {
       dbBuilt: '2026-02-21T00:00:00.000Z',
     });
 
-    expect(result.server).toBe('romanian-law-mcp');
-    expect(result.database.tier).toBe('pro');
-    expect(result.statistics.documents).toBeGreaterThan(0);
+    expect(result.name).toBe('Romanian Law MCP');
+    expect(result.version).toBe('1.2.3');
+    expect(result.stats.documents).toBeGreaterThan(0);
   });
 
   it('covers safeCount error paths in about/listSources', async () => {
@@ -316,7 +316,7 @@ describe('about and sources tools', () => {
       fingerprint: 'f',
       dbBuilt: 'now',
     });
-    expect(about.statistics.documents).toBe(0);
+    expect(about.stats.documents).toBe(0);
 
     const sources = await listSources(fakeDb as unknown as any);
     expect(sources.results.database.document_count).toBe(0);
@@ -338,7 +338,7 @@ describe('about and sources tools', () => {
       fingerprint: 'f',
       dbBuilt: 'now',
     });
-    expect(about.statistics.documents).toBe(0);
+    expect(about.stats.documents).toBe(0);
 
     const sources = await listSources(fakeDb as unknown as any);
     expect(sources.results.database.document_count).toBe(0);
