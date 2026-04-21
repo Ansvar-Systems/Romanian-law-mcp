@@ -10,3 +10,6 @@ data/source/
 data/full-corpus/
 .claude/
 .serena/
+data/*.db
+data/*.db-shm
+data/*.db-wal
