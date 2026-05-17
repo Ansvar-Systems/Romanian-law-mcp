@@ -361,8 +361,24 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Ministry of Justice of Romania (public domain government works)
-- **EU Metadata:** EUR-Lex (EU public domain)
+Ansvar attribution code: **`Romanian-Legea-8-1996-Art-9`**. Basis: Legea
+nr. 8/1996 privind dreptul de autor și drepturile conexe, Art. 9(b) —
+broad statutory-PD carve-out.
+
+- **Statutes & Legislation:** Ministry of Justice of Romania via Portal
+  Legislativ (`legislatie.just.ro`). Reused under Legea 8/1996 Art. 9(b).
+- **EU Metadata:** EUR-Lex (EU public-domain notice).
+
+### Coverage scope (broad)
+
+Legea 8/1996 Art. 9(b) is broad — it covers political, legislative,
+administrative, and judicial texts (`textele oficiale de natură
+politică, legislativă, administrativă, judiciară`) plus their official
+translations.
+
+See `docs/audits/2026-05-17-eu-copyright-statutory-works-batch-2-HU-LU-PT-RO-GR.md`
+in the Ansvar architecture-documentation repo for the verbatim Art. 9(b)
+text and the coverage analysis.
 
 ---
 

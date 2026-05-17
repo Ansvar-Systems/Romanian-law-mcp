@@ -10,9 +10,12 @@ sources:
     update_frequency: "unknown"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "government_terms"
+      type: "Romanian-Legea-8-1996-Art-9"
+      ansvar_code: "Romanian-Legea-8-1996-Art-9"
+      statute_ref: "Legea nr. 8/1996 Art. 9(b)"
       url: "https://legislatie.just.ro/Public/Acasa"
-      summary: "Official legislative texts are publicly accessible on the Ministry of Justice portal."
+      url_pattern: '^https?://(?:www\.)?legislatie\.just\.ro/.+'
+      summary: "Romanian statutory-PD carve-out per Legea 8/1996 Art. 9(b) — broad. Covers political, legislative, administrative, and judicial texts plus their official translations. See infrastructure/attribution-licenses.json Romanian-Legea-8-1996-Art-9."
     coverage:
       scope: "Consolidated Romanian acts published on Portal Legislativ, including laws, emergency ordinances, and codes."
       limitations: "No official public JSON API detected; extraction is from HTML structure and currently scoped to the 10 selected statutes."
